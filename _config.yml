@@ -1,6 +1,8 @@
 name: iwantmyname Domain Blog
 twitter: iwantmyname
 
+ignore: ["CNAME"]
+
 markdown: redcarpet
 pygments: yes
 
@@ -8,4 +10,5 @@ permalink: /:year/:month/:title.html
 paginate: 10
 paginate_path: /page-:num/
 
+# Non-standard config settings for use throughout site
 images_url: /assets/images/content
