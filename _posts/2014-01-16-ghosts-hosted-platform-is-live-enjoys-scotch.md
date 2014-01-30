@@ -2,7 +2,7 @@
 layout: post
 date: 2014-01-16 12:28:42
 author: Chris
-title: "Ghost's hosted platform is live, 'enjoys Scotch'"
+title: Ghost's hosted platform is live, "enjoys Scotch"
 ---
 
 ![Ghost-Logo-on-White.png]({{ site.images_url }}/2014-01-16-Ghost-Logo-on-White.png)
