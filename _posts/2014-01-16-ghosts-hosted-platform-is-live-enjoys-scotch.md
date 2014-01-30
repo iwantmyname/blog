@@ -11,13 +11,13 @@ title: Ghost's hosted platform is live, "enjoys Scotch"
 
 2014 is looking to be a big year for Ghost, but the biggest news of all came at the tail-end of 2013. 
 
-<!-- /excerpt -->
-
 [From John O'Nolan - Ghost:](http://blog.ghost.org/hosted-platform-open/)
 
 > Today we are bringing you an announcement from Ghost HQ that has been cooking for rather a long time: The Ghost Hosted Platform is now available to absolutely everyone.
 >
 > With the Ghost hosted platform, each blog is an independent install of the Ghost software. It's not connected to any other blogs. This means that we can allow you to run apps (plugins) or custom themes or do (almost) anything you want. This was a really critical point for us, because we didn't just want to create this platform as something "easy" - suited to beginners. We wanted to make it easy and create the best possible infrastructure for running Ghost that's available on the web. Giving publishers and developers full control over their Ghost blog is the most important piece of that puzzle.
+
+<!-- /excerpt -->
 
 So, for those not familiar with how Ghost works, you can now either go with the new Ghost-hosted version, or the standard self-hosted version. Here's how it works:
 
