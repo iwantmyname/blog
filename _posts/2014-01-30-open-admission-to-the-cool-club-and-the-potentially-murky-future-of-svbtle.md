@@ -3,7 +3,6 @@ layout: post
 date: 2014-01-30 08:25:11
 author: Chris
 title: Open admission to the "Cool Club" and the potentially murky future of Svbtle
-
 ---
 
 ![x7rg26fs3udzxa.png]({{ site.images_url }}/2014-01-30-x7rg26fs3udzxa.png)
@@ -18,11 +17,11 @@ As a writer, I was used to having access to any blog platform I wanted to be on.
 
 [Here's a great Quora answer from Paul Scrivens from March 2012 about what Svbtle was all about](http://www.quora.com/Svbtle/What-is-Svbtle-all-about):
 
->With the Svbtle network, it isn't so much about writing long articles or anything truly original, but being able to dive into the minds of the people that Dustin (Curtis) holds in high esteem.
+> With the Svbtle network, it isn't so much about writing long articles or anything truly original, but being able to dive into the minds of the people that Dustin (Curtis) holds in high esteem.
 
 [And here's a bit from Dustin himself:](http://dcurt.is/codename-svbtle)
 
->I wrote this engine entirely for myself, without the intention of opening it up to other people. But since realizing that it has improved the way I think and write, I've decided to open it up to a small number of vetted bloggers. At least at first. The goal is simple: when you see the Svbtle design, you should know that the content is guaranteed to be great. Network bloggers are encouraged to keep quality high at the expense of everything else. 
+> I wrote this engine entirely for myself, without the intention of opening it up to other people. But since realizing that it has improved the way I think and write, I've decided to open it up to a small number of vetted bloggers. At least at first. The goal is simple: when you see the Svbtle design, you should know that the content is guaranteed to be great. Network bloggers are encouraged to keep quality high at the expense of everything else. 
 
 It was—in my eyes—the unofficial start of the internet "Cool Club." In one fell swoop, I realized that I didn't have the clout to be on a platform. I was on the outside (but I did get an early Google+ invite! Crickets...).
 
@@ -30,7 +29,7 @@ But then the Svbtle buzz started to wane. The people who were happily peering in
 
 [January 28th, From Dustin Curtis - Svbtle:](http://blog.svbtle.com/open-for-everyone)
 
->Until now, we've been an exclusive platform open only to approved users. We took this initial approach because we wanted to ensure that the software worked, first of all, and that the platform was seeded with great content by seasoned and experienced authors. Now we're finally ready to let more people try Svbtle. Today, we're opening sign up for everyone.
+> Until now, we've been an exclusive platform open only to approved users. We took this initial approach because we wanted to ensure that the software worked, first of all, and that the platform was seeded with great content by seasoned and experienced authors. Now we're finally ready to let more people try Svbtle. Today, we're opening sign up for everyone.
 
 That's great news! Right?
 
@@ -48,6 +47,6 @@ Brace yourself for a rough ride.
 
 On a separate note, we're very happy to say that Svbtle allows you to use custom domains! As the post Svbtle post from above states:
 
->Writers shouldn't be defined by the brands of their publishers or platform, but rather by their own personal presence on the web. So we've built features that enable you to own your space inside Svbtle: Your full name appears by everything you write, you can use a custom domain, and you can choose an avatar and accent color. We have plans for more personalization and branding features soon, too.
+> Writers shouldn't be defined by the brands of their publishers or platform, but rather by their own personal presence on the web. So we've built features that enable you to own your space inside Svbtle: Your full name appears by everything you write, you can use a custom domain, and you can choose an avatar and accent color. We have plans for more personalization and branding features soon, too.
 
 If you're interested in the platform (and you should be, it's quite nice) and need some help setting things up, [definitely let us know](https://iwantmyname.com/support).

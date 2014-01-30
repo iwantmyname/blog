@@ -6,7 +6,7 @@ title: This week in gTLDs, including .PHOTO, .DIRECTORY and .ENTERPRISES
 
 ---
 
-###Newly delegated gTLDs
+### Newly delegated gTLDs
 
 + [.CLUB](https://iwantmyname.com/domains/dot-club)
 + [.BUILD](https://iwantmyname.com/domains/dot-build)
@@ -18,7 +18,7 @@ title: This week in gTLDs, including .PHOTO, .DIRECTORY and .ENTERPRISES
 + [.GUITARS](https://iwantmyname.com/domains/dot-guitars)
 + [.SHIKSHA](https://iwantmyname.com/domains/dot-shiksha)
 
-###Announced launch dates/pricing
+### Announced launch dates/pricing
 
 + [.CAMERA](https://iwantmyname.com/domains/dot-camera) - Available 2/12/2014 for $49
 + [.CONSTRUCTION](https://iwantmyname.com/domains/dot-construction) - Available 2/19/2014 for $49

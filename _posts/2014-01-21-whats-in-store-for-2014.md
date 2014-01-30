@@ -19,11 +19,9 @@ tags:
 
 ---
 
-<!-- excerpt -->
-
 It's looking like big year ahead for the iwantmyname crew. Apart from adding a few more staff in 2014 and getting out in the community a bit more, we are also well advanced with our preparations for the global roll-out of hundreds of newly released top level domains.
 
-<!-- /excerpt -->
+<!-- more -->
 
 We've already been offering customers the opportunity to [register interest in the new domains](https://iwantmyname.com/domains/new-gtld-domain-extensions). On the local front, we have also been seeing increasing activity around both the [.kiwi domain](https://iwantmyname.com/blog/2013/11/pre-orders-now-open-for-kiwimore-gtlds-coming-soon.html) and the new [second level .nz domain](https://iwantmyname.com/blog/2013/11/its-time-to-drop-the-conz-pre-ordering-starts-today.html). If you are a business owner, then it's time to start thinking about how these new domains fit into your brand strategy.
 

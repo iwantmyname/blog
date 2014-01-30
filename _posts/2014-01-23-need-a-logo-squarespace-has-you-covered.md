@@ -8,7 +8,7 @@ title: Need a logo? Squarespace has you covered.
 
 [From Anthony Casalena - Squarespace:](http://blog.squarespace.com/blog/introducing-squarespace-logo)
 
->Squarespace Logo helps anyone create a professional logo on their own. All logos are comprised of a few basic elements: text, a tagline, and an icon. With the help of The Noun Project and Google Fonts, we provide a huge array of icons (7,000 and growing!) and fonts that you can easily turn into a unique logo for your business. To give you an idea of how your logo will look, you can use our handy previews to see your new logo on a business card, a website, or a t-shirt. When you're ready to download your logo, we provide white on black, black on white, and full-color images in a variety of formats.
+> Squarespace Logo helps anyone create a professional logo on their own. All logos are comprised of a few basic elements: text, a tagline, and an icon. With the help of The Noun Project and Google Fonts, we provide a huge array of icons (7,000 and growing!) and fonts that you can easily turn into a unique logo for your business. To give you an idea of how your logo will look, you can use our handy previews to see your new logo on a business card, a website, or a t-shirt. When you're ready to download your logo, we provide white on black, black on white, and full-color images in a variety of formats.
 
 <!-- excerpt -->
 

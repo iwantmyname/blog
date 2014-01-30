@@ -22,9 +22,9 @@ New in this version is a "completely redesigned interface," with a number of spe
 [From the Droplr Blog:](http://droplr.tumblr.com/post/72887569533)
 
 > Droplr for Business brings all the great features that you know and love with the addition of some great team-level features:
-
->+ Customization options that apply to your whole team. Set up a custom domain, add your logo, and modify your theme and all your team users will share this setting.
-+ Centralized billing. No longer require your team to expense their Pro account every month.
-+ Team administration. Retain complete control of what and when your team is sharing. Invite new users to your team, disable or delete them when they leave, etc...
+>
+> + Customization options that apply to your whole team. Set up a custom domain, add your logo, and modify your theme and all your team users will share this setting.
+> + Centralized billing. No longer require your team to expense their Pro account every month.
+> + Team administration. Retain complete control of what and when your team is sharing. Invite new users to your team, disable or delete them when they leave, etc...
 
 These are some awesome new updates for a really handy platform, and we'd recommend you give it a go now more than ever. Try it out with their free 30-day trial, and if you [follow this link, you'll get 10% off](https://droplr.com/join/d/rcz960T9).

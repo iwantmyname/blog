@@ -3,13 +3,11 @@ layout: post
 date: 2014-01-30 09:09:33
 author: Chris
 title: "Friends don't let friends go without two-factor authentication"
-
 ---
 
 ![authy-iphone.jpg]({{ site.images_url }}/2014-01-30-authy-iphone.jpg)
 
-> It&#39;s easy to forget. I didn&#39;t have 2FA enabled for my domains at [@iwantmyname](https://twitter.com/iwantmyname) until reading [@n_is_stolen](https://twitter.com/N_is_stolen)&#39;s story at [http://t.co/mWj65ZrLKE](http://t.co/mWj65ZrLKE).
-> &mdash; Eric Mill (@konklone) [January 29, 2014](https://twitter.com/konklone/statuses/428566916580397056)
+<blockquote class="twitter-tweet" lang="en"><p>It&#39;s easy to forget. I didn&#39;t have 2FA enabled for my domains at <a href="https://twitter.com/iwantmyname">@iwantmyname</a> until reading <a href="https://twitter.com/N_is_stolen">@n_is_stolen</a>&#39;s story at <a href="http://t.co/mWj65ZrLKE">http://t.co/mWj65ZrLKE</a>.</p>&mdash; Eric Mill (@konklone) <a href="https://twitter.com/konklone/statuses/428566916580397056">January 29, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- excerpt -->

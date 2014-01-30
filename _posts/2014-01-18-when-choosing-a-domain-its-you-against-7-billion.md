@@ -10,7 +10,7 @@ title: "When choosing a domain, it's you against 7+ billion"
 
 <!-- excerpt -->
 
-**I\.** According to [worldometers.info](http://www.worldometers.info/world-population/), as of writing this post there are 7,207,045,692 people on Earth. Just this year we've added 3,732,015 people, and that number is going up every second. 
+**I.** According to [worldometers.info](http://www.worldometers.info/world-population/), as of writing this post there are 7,207,045,692 people on Earth. Just this year we've added 3,732,015 people, and that number is going up every second. 
 
 On a similar rise is the world of domains. In many of our lifetimes, the internet has gone from 0 domains to [265 million worldwide](http://www.verisigninc.com/assets/infographic-dnib-Q32013.pdf) ([including every four-letter .COM combination](https://iwantmyname.com/blog/2013/12/four-letter-coms-are-a-four-letter-wordgone.html)). Needless to say, that's quite a lot. And with an estimated 77% of the developed world online at the moment, that number is getting larger and larger by the minute. 
 
@@ -24,7 +24,7 @@ So if you talk to an entrepreneurial soul, he/she might have a ton of domains--s
 
 <!-- /excerpt -->
 
-**II\.** As a domain registrar, every once in a while we get tweets like this one:
+**II.** As a domain registrar, every once in a while we get tweets like this one:
 
 >beware searching domains on @iwantmyname, got a few immediately bought out by squatters
 
@@ -36,14 +36,14 @@ And truth is, if someone was somehow stalking and buying up all the domain searc
 
 Heck, just look at what [Marco Arment went through](http://www.marco.org/2013/09/24/naming-overcast) to finally come up with Overcast.fm for his new podcast app. Branding is hard, and now with domains being such a crucial part, it's harder than ever. 
 
-**III\.** That's why we're so excited about the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) currently getting [delegated by ICANN](http://newgtlds.icann.org/en/program-status/delegated-strings). Instead of getting bottlenecked but a relatively small number of TLDs to choose from, you'll have access to hundreds of new gTLDs. 
+**III.** That's why we're so excited about the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) currently getting [delegated by ICANN](http://newgtlds.icann.org/en/program-status/delegated-strings). Instead of getting bottlenecked but a relatively small number of TLDs to choose from, you'll have access to hundreds of new gTLDs. 
 
 If your name is Fred and you're opening a restaurant and can't get fredsfood.com, just pick up fred.restaurant, fred.pub, fred.food or fred.eat. Some of the more common names will certainly get snapped up, but your options will be much greater. 
 
-**IV\.** At the end of the day, just know that there isn't a plot against you. [We promise that we're not secretly registering domains before you do](https://iwantmyname.com/blog/2013/05/iwantmyname-does-not-register-domains-you-have-searched-for.html), and it's *highly* unlikely that you're being singled out in a very large crowd.
+**IV.** At the end of the day, just know that there isn't a plot against you. [We promise that we're not secretly registering domains before you do](https://iwantmyname.com/blog/2013/05/iwantmyname-does-not-register-domains-you-have-searched-for.html), and it's *highly* unlikely that you're being singled out in a very large crowd.
 
 So next time you have a "Eureka!" moment and need a domain name, be really quick. As the saying goes, it's you against the world...
 
 ...and checking now, 277,589 people have been born today! 
 
-Image Source: [Matt Lemmon](http://www.flickr.com/photos/mplemmon/3203403780/)
+*Image Source: [Matt Lemmon](http://www.flickr.com/photos/mplemmon/3203403780/)*
