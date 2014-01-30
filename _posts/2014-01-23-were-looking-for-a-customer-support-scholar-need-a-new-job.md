@@ -9,7 +9,7 @@ author: Chris
 title: "We're looking for a Customer Support Scholar. Need a (new) job?"
 ---
 
-![Customer Support Scholar-logo.png]({{ site.images_url }}/2014-01-23-Customer%20Support%20Scholar-logo.png)
+![Customer Support Scholar-logo.png]({{ site.images_url }}/2014-01-23-Customer-Support-Scholar-logo.png)
 
 Customer support may be the single most important aspect of our (and any) business. It's so important to us, in fact, that [all of us](https://iwantmyname.com/about) dedicate a considerable amount of time to answer questions and help out. And with [99% customer happiness](http://public.nicereply.com/iwantmyname) over the 6+ months we've been measuring support satisfaction, we'd like to think we've been doing a good job. 
 
