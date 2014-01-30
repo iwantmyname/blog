@@ -1,12 +1,9 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/the-internet-is-finally-for-everyone.html
-# then delete this comment
-
 layout: post
 date: 2014-01-17 12:25:16
 author: Chris
 title: The internet is (finally) for everyone
+
 ---
 
 ![ODNG.png]({{ site.images_url }}/2014-01-17-ODNG.png)
@@ -17,7 +14,7 @@ But the planet is large, and most of us weren't born into English-speaking house
 
 Well, with the rollout of the new generic Top-Level Domains, it's all changing. A number of new TLDs are set to be available soon, including [.شبكة](https://iwantmyname.com/domains/dot-%D8%B4%D8%A8%D9%83%D8%A9), [.中文网](https://iwantmyname.com/domains/dot-%E4%B8%AD%E6%96%87%E7%BD%91) and [.Онлайн](https://iwantmyname.com/domains/dot-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD). And just this week, [Google announced](http://googleasiapacific.blogspot.sg/2014/01/is-now-available-for-everyone.html?m=1) that [.みんな](https://iwantmyname.com/domains/dot-みんな), the first TLD in [hiragana](http://en.wikipedia.org/wiki/Hiragana), will be open for general availability on February 21st. 
 
-<iframe width="520" height="293" src="//www.youtube.com/embed/5FmLnNDw23Y" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="5FmLnNDw23Y" %}
 
 This video from Google really sums up the sentiment:
 

@@ -16,7 +16,13 @@ tags:
 
 ---
 
-![austria.png]({{ site.images_url }}/2013-08-03-austria.png)Question. Which landlocked European nation was home to one of the greatest composers of all time and has borders with no fewer than eight other countries? Answer. The Republic of Austria or Republik Österreich, as it is known by its 8.5 million German speaking inhabitants.
+<!-- excerpt -->
+
+![austria.png]({{ site.images_url }}/2013-08-03-austria.png)Question. Which landlocked European nation was home to one of the greatest composers of all time and has borders with no fewer than eight other countries? 
+
+<!-- /excerpt -->
+
+Answer. The Republic of Austria or Republik Österreich, as it is known by its 8.5 million German speaking inhabitants.
 
 Austria has a fascinating and convoluted political history but emerged from the turbulence of the first half of the 20th Century as one of the wealthiest nations on the planet. This success has hinged not only upon enduring and stable democracy but also because of it's highly strategic geographical position in relation to the powerhouse economies of Europe.
 

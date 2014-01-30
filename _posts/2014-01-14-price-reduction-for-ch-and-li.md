@@ -1,8 +1,4 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/price-reduction-for-ch-and-li.html
-# then delete this comment
-
 layout: post
 date: 2014-01-14 08:50:04
 author: Chris
@@ -15,7 +11,11 @@ categories:
 
 ![bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg]({{ site.images_url }}/2014-01-14-bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg)
 
+<!-- excerpt -->
+
 It's never fun to announce a price increase, but who doesn't like a good price decrease? Well today we're happy to announce a price reduction for two domains:
+
+<!-- /excerpt -->
 
 ###Every word ends with .CH
 

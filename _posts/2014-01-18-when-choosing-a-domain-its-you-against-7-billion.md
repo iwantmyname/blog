@@ -1,15 +1,14 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/when-choosing-a-domain-its-you-against-7-billion.html
-# then delete this comment
-
 layout: post
 date: 2014-01-18 13:43:00
 author: Chris
 title: "When choosing a domain, it's you against 7+ billion"
+
 ---
 
 ![3203403780_d2878c0c82.jpg]({{ site.images_url }}/2014-01-18-3203403780_d2878c0c82.jpg)
+
+<!-- excerpt -->
 
 **I\.** According to [worldometers.info](http://www.worldometers.info/world-population/), as of writing this post there are 7,207,045,692 people on Earth. Just this year we've added 3,732,015 people, and that number is going up every second. 
 
@@ -22,6 +21,8 @@ But what's most important to remember about domains is that when people register
 + Any TLD that might form a domain hack
 
 So if you talk to an entrepreneurial soul, he/she might have a ton of domains--some for projects they're working on, some for future projects that failed and some that just haven't been around long enough to expire. I myself have 13 domains right now, and I know a few people who have much more.
+
+<!-- /excerpt -->
 
 **II\.** As a domain registrar, every once in a while we get tweets like this one:
 

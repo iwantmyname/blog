@@ -1,19 +1,20 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/2014-the-year-of-the-generic-top-level-domain.html
-# then delete this comment
-
 layout: post
 date: 2014-01-15 12:55:39
 author: Chris
 title: "2014: The Year of the generic Top-Level Domain"
+
 ---
+
+<!-- excerpt -->
 
 We've been talking about the new generic Top-Level Domains (gTLDs) for months and months (years and years around the office), and now we're here. It's 2014\. And in a few weeks a ton of gTLDs will be rolling out to the public.
 
 Exact launch dates for many of the gTLDs are still up in the air, but soon we'll be posting specifics on [theresatldforthat.com](https://iwantmyname.com/domains/new-gtld-domain-extensions).
 
 But first, we've had a ton of new gTLDs announced for delegation (meaning they've been officially approved by ICANN) since [our last post](https://iwantmyname.com/blog/2013/12/the-next-batch-of-gtlds-are-here-including-careers-photos-and-shoes.html). Here are the new additions:
+
+<!-- /excerpt -->
 
 + [.BERLIN](https://iwantmyname.com/domains/dot-berlin)
 + [.BUILDERS](https://iwantmyname.com/domains/dot-builders)

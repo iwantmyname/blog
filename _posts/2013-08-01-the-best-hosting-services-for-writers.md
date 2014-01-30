@@ -10,6 +10,8 @@ categories:
 
 ---
 
+<!-- excerpt -->
+
 We came across the following tweet from [Marco Arment](http://marco.org) today which serves as reminder that you should control your online identity:
 
 <blockquote class="twitter-tweet" lang="en"><p>Writers: You don’t need Medium. You can host your own blog on your own domain with lots of other tools and hosts.&#10;&#10;Be your own “platform”.</p>&mdash; Marco Arment (@marcoarment) <a href="https://twitter.com/marcoarment/statuses/362613401861636098">July 31, 2013</a></blockquote>
@@ -27,6 +29,8 @@ Kenneth Reitz, developer at [Heroku](http://heroku.com), further elaborates on [
 * I couldn't do anything but keep writing.
 
 Our mission at iwantmyname is to make it as easy as possible to register and set up your own domain name. The [apps and services marketplace](https://iwantmyname.com/services) also lists lots of hosted apps for all types from individuals to businesses. We've handpicked a few of them that are especially suited for writers who want to have more control over their content:
+
+<!-- /excerpt -->
 
 **General [website builders](https://iwantmyname.com/services/website-builder/)** (with blog functionality):
 

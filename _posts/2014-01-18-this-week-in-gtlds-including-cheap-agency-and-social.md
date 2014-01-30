@@ -1,12 +1,9 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/this-week-in-gtlds-including-cheap-agency-and-social.html
-# then delete this comment
-
 layout: post
 date: 2014-01-18 07:15:06
 author: Chris
 title: This week in gTLDs, including .CHEAP, .AGENCY and .SOCIAL
+
 ---
 
 ICANN is delegating generic Top-Level Domains (gTLDs) at a fairly rapid pace now, so instead of sporadic posts, we'll just save them all for an easily digestible weekly post. So here's the very first *This week in gTLDs.*
@@ -31,3 +28,5 @@ ICANN is delegating generic Top-Level Domains (gTLDs) at a fairly rapid pace now
 + [.PLUMBING](https://iwantmyname.com/domains/dot-plumbing) - Available 2/5/2014 for $49
 + [.SINGLES](https://iwantmyname.com/domains/dot-singles) - Available 2/5/2014 for $49
 + [.VENTURES](https://iwantmyname.com/domains/dot-ventures) - Available 2/5/2014 for $79
+
+<!-- more -->

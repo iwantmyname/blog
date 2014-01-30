@@ -242,10 +242,13 @@ footer a {
 footer a:hover {
   color: #FFF;
 }
-.list-header {
+footer .list-header {
   text-transform: uppercase;
   font-weight: 500;
   margin: 20px 0 10px;
+}
+footer .row:last-child {
+  margin-top: 20px;
 }
 img.author {
   width: 75px;

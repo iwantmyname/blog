@@ -16,7 +16,11 @@ tags:
 
 ---
 
+<!-- excerpt -->
+
 Almost everyone knows that [iwantmyname](https://iwantmyname.com/) is the coolest and most fun place to manage your [domain names](https://iwantmyname.com/domains), but did you also know that we support lots of good stuff in our local community here in New Zealand as well as [projects in the developing world](https://iwantmyname.com/blog/2013/04/iwantmyname-helping-cambodian-schools.html)? With our tech start-up scene [making waves](http://www.forbes.com/sites/rebeccafannin/2013/08/19/feeling-the-startup-scene-shaking-in-wellington/) globally, it's good business sense to participate and also a lot of fun. 
+
+<!-- /excerpt -->
 
 [Startup Weekends](http://www.startupweekend.co.nz/) have really taken off here in New Zealand and iwantmyname was one of the earliest backers, providing mentors, organisational support and cash sponsorship. Recently I enjoyed the amazing privilege of being a judge at a special [social enterprise themed Startup Weekend](http://wellington.startupweekend.org/) event in our home town Wellington. We think encouraging and educating young entrepreneurs is one of the most important planks towards building a stronger economy and a more participatory society.
 

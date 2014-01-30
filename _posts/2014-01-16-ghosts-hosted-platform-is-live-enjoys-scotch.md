@@ -3,11 +3,16 @@ layout: post
 date: 2014-01-16 12:28:42
 author: Chris
 title: Ghost's hosted platform is live, "enjoys Scotch"
+
 ---
 
 ![Ghost-Logo-on-White.png]({{ site.images_url }}/2014-01-16-Ghost-Logo-on-White.png)
 
+<!-- excerpt -->
+
 2014 is looking to be a big year for Ghost, but the biggest news of all came at the tail-end of 2013. 
+
+<!-- /excerpt -->
 
 [From John O'Nolan - Ghost:](http://blog.ghost.org/hosted-platform-open/)
 
