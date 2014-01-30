@@ -19,7 +19,7 @@ tags:
 
 <!-- excerpt -->
 
-**Guest post from Oliver Townend writing about his experiences as a web company founder. **
+**Guest post from Oliver Townend writing about his experiences as a web company founder.**
 
 Toward the end of 2011 I had an idea for an on-line business that seemed to make perfect sense. It grew out of a situation I have been frustrated by repeatedly in my time as a building contractor. It made use of existing technology and it had a potential target market that grew every time I bothered to think about it.
 
@@ -31,88 +31,21 @@ The concept itself is fine. In theory it works and there is a market for it. But
 
 I got myself a [business mentor](http://www.businessmentors.org.nz/) and told them about it. I asked around and found a couple of lawyers willing to meet informally and talk through the legal implications. I rang everyone I could think of who could possibly use this product and told them what I was trying to do. Most people recommended someone else to talk to.</span>
 
-The feedback was fascinating. Ranging from "</span>_<span style="background: transparent">Yes,
-I want that, when can I have it</span>_<span style="background: transparent">?"
-to "</span>_<span style="background: transparent">No, I see no
-benefit in that</span>_<span style="background: transparent">"
-and most interestingly "</span>_<span style="background: transparent">I
-can't talk to you about that, we're trying to do the same thing</span>_<span style="background: transparent">".
-The positives maintained my enthusiasm. The negatives forced me to
-confront my deficiencies. The competitors proved that I wasn't the
-only person working on this and I needed to get moving. The hardest
-conversations revealed previously hidden problems and opportunities
-that have contributed hugely to the refinement process. Every time I
-explain or defend my theories I get better at it.</span> 
+The feedback was fascinating. Ranging from "*Yes,
+I want that, when can I have it?*" to "*No, I see no benefit in that*" and most interestingly "*I
+can't talk to you about that, we're trying to do the same thing*". The positives maintained my enthusiasm. The negatives forced me to confront my deficiencies. The competitors proved that I wasn't the only person working on this and I needed to get moving. The hardest conversations revealed previously hidden problems and opportunities that have contributed hugely to the refinement process. Every time I explain or defend my theories I get better at it.</span> 
 
+I realised several things very quickly:
 
+1) The product needed to be simplified dramatically. What I thought was the key feature had been tried before, was fundamentally flawed and nearly impossible to execute. Another feature I hadn't given much thought to had much more promise.
 
+2) No-one I spoke to was going to blatantly steal my idea, especially the sort of busy, technical people who could if they wanted to. They have other things going on. I have a head start at working on figuring it out, the more I get done on my own the more likely it is that I'll have something valuable in the future.
 
+3) I had a lot of work to do and no time to do it, I was already running a business and had no spare time to spend working on the new one.
 
-<span style="background: transparent">I
-realised several things very quickly: </span>
+4) I needed to talk to a lot more people.
 
-
-
-
-<span style="background: transparent">1)
-The product needed to be simplified dramatically. What I thought was
-the key feature had been tried before, was fundamentally flawed and
-nearly impossible to execute. Another feature I hadn't given much
-thought to had much more promise.</span>
-
-
-
-
-
-
-
-
-
-<span style="background: transparent">2)
-No-one I spoke to was going to blatantly steal my idea, especially
-the sort of busy, technical people who could if they wanted to. They
-have other things going on. I have a head start at working on
-figuring it out, the more I get done on my own the more likely it is
-that I'll have something valuable in the future.</span>
-
-
-
-
-
-
-
-
-
-<span style="background: transparent">3)
-I had a lot of work to do and no time to do it, I was already running
-a business and had no spare time to spend working on the new one. </span>
-
-
-
-
-
-
-
-
-
-
-<span style="background: transparent">4)
-I needed to talk to a lot more people.</span>
-
-
-
-
-
-
-
-
-
-<span style="background: transparent">5)
-I needed collaborators. Technical collaborators...more about this
-next time.</span>
-
-
-
+5) I needed collaborators. Technical collaborators...more about this next time.
 
 **Oliver Townend is a builder, a writer and a post-graduate student in the Master of Technology Enterprise programme at Victoria University of Wellington.**
 
