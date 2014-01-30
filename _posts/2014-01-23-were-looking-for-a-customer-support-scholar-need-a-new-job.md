@@ -1,12 +1,9 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/were-looking-for-a-customer-support-scholar-need-a-new-job.html
-# then delete this comment
-
 layout: post
 date: 2014-01-23 11:24:33
 author: Chris
 title: "We're looking for a Customer Support Scholar. Need a (new) job?"
+
 ---
 
 ![Customer Support Scholar-logo.png]({{ site.images_url }}/2014-01-23-Customer-Support-Scholar-logo.png)
@@ -25,3 +22,5 @@ So if you're super smart, like to teach (and learn) and feel good about working 
 
 ***
 Yes, the image above was made with [Squarespace Logo](https://iwantmyname.com/blog/2014/01/need-a-logo-squarespace-has-you-covered.html). I can't stop.
+
+<!-- more -->

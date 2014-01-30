@@ -1,12 +1,9 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/friends-dont-let-friends-go-without-two-factor-authentication.html
-# then delete this comment
-
 layout: post
 date: 2014-01-30 09:09:33
 author: Chris
 title: "Friends don't let friends go without two-factor authentication"
+
 ---
 
 ![authy-iphone.jpg]({{ site.images_url }}/2014-01-30-authy-iphone.jpg)
@@ -15,9 +12,13 @@ title: "Friends don't let friends go without two-factor authentication"
 > &mdash; Eric Mill (@konklone) [January 29, 2014](https://twitter.com/konklone/statuses/428566916580397056)
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- excerpt -->
+
 One of our least favorite things is to hear about on the web is a security breach. You know, in a perfect world we wouldn't have to worry about these things, but the truth is that threats persist and nobody is perfectly safe.
 
 There are things you can do to make yourself safer though. An obvious tip is to improve your passwords (123456 isn't good enough), but in addition, you should also set up two-factor authentication (2FA). 
+
+<!-- /excerpt -->
 
 As Timo wrote when we [first announced 2FA in May](https://iwantmyname.com/blog/2013/05/protect-your-domain-registrar-account-with-two-factor-authentication.html), "This adds an extra layer of login protection for your account to prevent third parties from accessing domains and making unauthorized changes to settings such as nameservers or DNS records."
 

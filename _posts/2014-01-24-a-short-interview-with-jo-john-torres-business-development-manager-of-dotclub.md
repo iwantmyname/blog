@@ -1,23 +1,24 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/a-short-interview-with-jo-john-torres-business-development-manager-of-dotclub.html
-# then delete this comment
-
 layout: post
 date: 2014-01-24 13:19:22
 author: Chris
 title: A Short Interview With Jo-John Torres, Business Development Manager of DotClub
+
 ---
 
 ![logo-no-url-500px.png]({{ site.images_url }}/2014-01-24-logo-no-url-500px.png)
 
+<!-- excerpt -->
+
 **iwmn: Hi Jo-John, thanks for chatting with us! Let's start with the big topic--tell us all about .club. Who do you see as the primary market for it?**
 
-**Jo-John:** We see [.CLUB](https://iwantmyname.com/domains/dot-club) as a mainstream, mass-market TLD, and it has already consistently been listed in the "Top 10" or "most popular" of the new TLDs by websites offering pre-registration interest and watch lists. Of all the top names, .CLUB will be the first of the most popular names to launch early in 2014\. All the other top names (excluding GEOs) are still in contention or have GAC advice which may delay their launch.
+**Jo-John:** We see [.CLUB](https://iwantmyname.com/domains/dot-club) as a mainstream, mass-market TLD, and it has already consistently been listed in the "Top 10" or "most popular" of the new TLDs by websites offering pre-registration interest and watch lists. Of all the top names, .CLUB will be the first of the most popular names to launch early in 2014. All the other top names (excluding GEOs) are still in contention or have GAC advice which may delay their launch.
 
 We see the market for .CLUB as very broad, including clubs and membership organizations, retailers for their loyalty and affinity programs, sports teams, fan clubs, night clubs, golf, tennis and country clubs, all of the millions of social groups on Facebook, Yahoo, Google and LinkedIn, as well as anyone with a passion for something. Because of this very broad appeal, .CLUB is typically featured in several categories, such as Business, Sports, Entertainment, Social, Travel, and Generic.  
 
 Also, the word "CLUB" hits the mainstream market throughout the whole world.  The word CLUB is spelled the same and means the same all over the world. The meaning of the word is bringing people together who share a common bond of interest and passion, which is about building communities. It's your passion, your .CLUB!
+
+<!-- /excerpt -->
 
 **iwmn: We're hearing a lot of talk about the launch of the new gTLDs (like .club, .blog and .app) being the start of a post-.com era. Do you think the average "web surfer" is ready for that?**
 

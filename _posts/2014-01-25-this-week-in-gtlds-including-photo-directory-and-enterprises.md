@@ -1,12 +1,9 @@
 ---
-# TODO: verify the original URL is correct and matches filename:
-#   https://iwantmyname.com/blog/2014/01/this-week-in-gtlds-including-photo-directory-and-enterprises.html
-# then delete this comment
-
 layout: post
 date: 2014-01-25 11:06:46
 author: Chris
 title: This week in gTLDs, including .PHOTO, .DIRECTORY and .ENTERPRISES
+
 ---
 
 ###Newly delegated gTLDs
@@ -41,3 +38,5 @@ title: This week in gTLDs, including .PHOTO, .DIRECTORY and .ENTERPRISES
 + [.TIPS](https://iwantmyname.com/domains/dot-tips) - Avaialable 2/26/2014 for $29
 + [.TODAY](https://iwantmyname.com/domains/dot-today) - Available 2/19/2014 for $29
 + [.VOYAGE](https://iwantmyname.com/domains/dot-voyage) - Available 2/26/2014 for $79
+
+<!-- more -->
