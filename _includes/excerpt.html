@@ -1,0 +1,11 @@
+{% assign more_tag = '<!-- more -->' %}
+{% assign excerpt_start_tag = '<!-- excerpt -->' %}
+{% assign excerpt_end_tag = '<!-- /excerpt -->' %}
+
+{% if post.content contains more_tag %}
+	{{ post.content | split:more_tag | first }}
+{% elsif post.content contains excerpt_end_tag %}
+	{{ post.content | split:excerpt_end_tag | first | split:excerpt_start_tag | last }}
+{% else %}
+	{{ post.excerpt }}
+{% endif %}

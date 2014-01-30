@@ -1,0 +1,56 @@
+---
+layout: page
+title: iwantmyname Domain Blog
+---
+
+<div class="container iwmn-container iwmn-articles">
+	<div class="row">
+		<div class="col-md-8">
+			{% for post in paginator.posts %}
+				<article>
+					{% assign author = site.data.authors[post.author] %}
+					{% if author %}
+						<a href="{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}"></a>
+					{% endif %}
+
+					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+					
+					{% include excerpt.html %}
+
+					<p><a href="{{ post.url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a></p>
+				</article>
+
+				{% unless forloop.last %}
+					<hr>
+				{% endunless %}
+			{% endfor %}
+				
+			{% if paginator.next_page %}
+				<a href="{{ paginator.next_page_path }}" class="more-posts">Older posts</a>
+			{% endif %}
+		</div>
+
+		<div class="col-md-4">
+			<div class="iwmn-articles-nav">
+				<h5>Popular posts</h5>
+				<ul class="list-unstyled">
+					{% for post in site.posts %}
+						{% if site.data.popular contains post.url %}
+							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+			<div class="iwmn-articles-nav">
+				<h5>Recent posts</h5>
+				<ul class="list-unstyled">
+					{% for post in site.posts limit:5 %}
+						<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+{% include search.html %}

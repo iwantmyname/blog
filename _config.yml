@@ -1,0 +1,11 @@
+name: iwantmyname Domain Blog
+twitter: iwantmyname
+
+markdown: redcarpet
+pygments: yes
+
+permalink: /:year/:month/:title.html
+paginate: 10
+paginate_path: /page-:num/
+
+images_url: /assets/images/content

@@ -1,0 +1,32 @@
+Chris:
+  name: Chris Hall
+  avatar: https://twitter.com/api/users/profile_image/hashtaghall?size=reasonably_small
+  twitter: hashtaghall
+Kevin:
+  name: Kevin Ingersoll
+  avatar: https://twitter.com/api/users/profile_image/kingersoll?size=reasonably_small
+  twitter: kingersoll
+Lenz:
+  name: Lenz Gschwendtner
+  avatar: https://twitter.com/api/users/profile_image/norbu09?size=reasonably_small
+  twitter: norbu09
+Manu:
+  name: Manu Vetters
+  avatar: https://twitter.com/api/users/profile_image/manucx?size=reasonably_small
+  twitter: manucx
+Owen:
+  name: Owen Wilson
+  avatar: https://twitter.com/api/users/profile_image/ow?size=reasonably_small
+  twitter: ow
+Paul:
+  name: Paul Spence
+  avatar: https://twitter.com/api/users/profile_image/geniusnet?size=reasonably_small
+  twitter: geniusnet
+Timo:
+  name: Timo Reitnauer
+  avatar: https://twitter.com/api/users/profile_image/treitnauer?size=reasonably_small
+  twitter: treitnauer
+Tobi:
+  name: Tobi Kirschstein
+  avatar: https://twitter.com/api/users/profile_image/owner?size=reasonably_small
+  twitter: owner

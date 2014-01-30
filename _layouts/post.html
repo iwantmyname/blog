@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-8 col-sm-offset-2">
+			<article>
+				<h1>{{ page.title }}</h1>
+
+				{{ content }}
+				
+				<p class="byline">
+					<small class="pull-right text-muted">{{ page.date | date:'%B %d, %Y' }}</small>
+					
+					{% assign author = site.data.authors[page.author] %}
+					{% if author %}
+						<img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}">
+
+						&mdash; {{ author.name }}<br>
+						<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>
+					{% endif %}
+				</p>
+			</article>
+		</div>
+	</div>
+</div>
+
+{% include search.html %}
