@@ -11,6 +11,8 @@ title: A good piece about the history/future of domains and an angry bit about M
 >
 > We are entering a new era and before I dive into how I think the world is changing, I wanted to talk about how we got here. To do this we'll need a time machine (luckily I have one) and we'll need to set it for 1993...
 
+<!-- more -->
+
 I do have one beef with this article though. It's a great piece about having "more options than ever before," but it's written in Medium, a platform that takes your identity down to a social handle. And the last thing I want is a future filled with walled social silos that take all financial freedom away from the content creators. 
 
 Medium isn't a gift to humanity, you guys. It's a place where good writers that used to get paid by publishers and ad revenue can post their work for free (with no personal branding). The authors here get nothing. [Medium was given $25 million this week.](http://venturebeat.com/2014/01/28/medium-raises-25m-so-founder-ev-williams-doesnt-have-to-keep-funding-it-himself/)
