@@ -1,12 +1,16 @@
 name: iwantmyname Domain Blog
 twitter: iwantmyname
 
-ignore: ["CNAME"]
-
+# Plugins
 markdown: redcarpet
 pygments: yes
 
+# Base URL for GitHub Pages, use `jekyll serve --baseurl ""` locally
+baseurl: /blog
+
+# Permalinks to match MovableType
 permalink: /:year/:month/:title.html
+
 paginate: 10
 paginate_path: /page-:num/
 

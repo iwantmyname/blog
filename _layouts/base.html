@@ -6,11 +6,11 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{{ page.title }}</title>
 
-	<link rel="stylesheet" href="{{ site.url }}/assets/css/libs.min.css?{{ site.data.revision }}" media="all">
-	<link rel="stylesheet" href="{{ site.url }}/assets/css/theme.min.css?{{ site.data.revision }}" media="all">
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/libs.min.css?{{ site.data.revision }}" media="all">
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.min.css?{{ site.data.revision }}" media="all">
 
 	<!--[if lt IE 9]>
-		<script src="{{ site.url }}/assets/js/ie.min.js?{{ site.data.revision }}"></script>
+		<script src="{{ site.baseurl }}/assets/js/ie.min.js?{{ site.data.revision }}"></script>
 	<![endif]-->
 
 	{% include google-analytics.html %}
@@ -20,6 +20,6 @@
 	{{ content }}
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="{{ site.url }}/assets/js/libs.min.js?{{ site.data.revision }}"></script>
+	<script src="{{ site.baseurl }}/assets/js/libs.min.js?{{ site.data.revision }}"></script>
 </body>
 </html>
