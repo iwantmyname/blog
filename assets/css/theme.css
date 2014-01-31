@@ -250,6 +250,9 @@ footer .list-header {
 footer .row:last-child {
   margin-top: 20px;
 }
+blockquote {
+  font-size: 14px;
+}
 img.author {
   width: 75px;
   height: 75px;
