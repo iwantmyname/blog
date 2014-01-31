@@ -15,4 +15,4 @@ paginate: 10
 paginate_path: /page-:num/
 
 # Non-standard config settings for use throughout site
-images_url: /assets/images/content
+images_url: /blog/assets/images/content
