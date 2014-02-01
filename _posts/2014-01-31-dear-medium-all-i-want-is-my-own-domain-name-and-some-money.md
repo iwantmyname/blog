@@ -3,6 +3,7 @@ layout: post
 date: 2014-01-31 05:27:42
 author: Chris
 title: Dear Medium, all I want is my own domain name. And some money.
+
 ---
 
 ![cxj3.png]({{ site.images_url }}/2014-01-31-cxj3.png)
