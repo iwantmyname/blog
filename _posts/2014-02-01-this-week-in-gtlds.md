@@ -1,12 +1,10 @@
 ---
 layout: post
-date: 2014-01-31 10:08:58
 author: Chris
 title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
-
 ---
 
-###Newly delegated gTLDs
+### Newly delegated gTLDs
 
 + [.BARGAINS](https://iwantmyname.com/domains/dot-bargains)
 + [.BOUTIQUE](https://iwantmyname.com/domains/dot-boutique)
@@ -24,7 +22,7 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.WORKS](https://iwantmyname.com/domains/dot-works)
 + [.网络](https://iwantmyname.com/domains/dot-网络)
 
-###Announced launch dates
+### Announced launch dates
 
 + [.COFFEE](https://iwantmyname.com/domains/dot-coffee) - Available April 2, 2014
 + [.FARM](https://iwantmyname.com/domains/dot-farm) - Available April 16, 2014
@@ -39,7 +37,7 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.VIAJES](https://iwantmyname.com/domains/dot-viajes) - Available April 16, 2014
 + [.ZONE](https://iwantmyname.com/domains/dot-zone) - Available April 23, 2014
 
-###Announced launch dates/pricing
+### Announced launch dates/pricing
 
 + [.ACADEMY](https://iwantmyname.com/domains/dot-academy) - Available March 12, 2014 16:00:00 UTC for $39 USD / $49 NZD
 + [.BUILDERS](https://iwantmyname.com/domains/dot-builders) - Available March 19, 2014 for $49
