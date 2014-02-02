@@ -22,7 +22,7 @@ Afilias, the .INFO domain name registry is currently running their 2010 awards p
 
 {% include youtube.html id="BFT9jSlSHAc" %}
 
-If you own a [.INFO web address](/domains/info-domain-name-registration-for-information), this is your chance to win one of the following cash prizes:
+If you own a [.INFO web address](https://iwantmyname.com/domains/info-domain-name-registration-for-information), this is your chance to win one of the following cash prizes:
 
 1st prize: US $7,500
 

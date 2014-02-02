@@ -31,4 +31,4 @@ Many services that you could use with your domain use TXT as a way to verify own
 
 **Phew, still with us?**
 
-This is a overview of just some of the types of DNS entry. There are plenty more out there, such as [AAAA](http://en.wikipedia.org/wiki/AAAA_record#IPv6_in_the_Domain_Name_System) and [SRV](http://en.wikipedia.org/wiki/SRV_record) records, but these are more advanced and you likely won't need to know about these to get started. If you have any questions, sound off in the comments or [send us an email](http://iwantmyname.com/support) and we'll try to help you out!
+This is a overview of just some of the types of DNS entry. There are plenty more out there, such as [AAAA](http://en.wikipedia.org/wiki/AAAA_record#IPv6_in_the_Domain_Name_System) and [SRV](http://en.wikipedia.org/wiki/SRV_record) records, but these are more advanced and you likely won't need to know about these to get started. If you have any questions, sound off in the comments or [send us an email](https://iwantmyname.com/support) and we'll try to help you out!

@@ -23,5 +23,5 @@ The [Lithuanian country domain .LT](https://iwantmyname.com/domains/lt-lithuania
 
 .LT also supports [Internationalized Domain Names (IDNs)](https://iwantmyname.com/idns/search-register-internationalised-domain-names) with the special Lithuanian characters (ą, č, ę, ė, į, š, ų, ū, ž). There are currently 111,767 registered domains in total ([Statistics](http://www.domreg.lt/public?pg=CFF17D)).
 
-[Search for your desired domain name now](/).
+[Search for your desired domain name now](https://iwantmyname.com/).
 

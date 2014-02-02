@@ -66,4 +66,4 @@ Our mission at iwantmyname is to make it as easy as possible to register and set
 
 Now some of you might ask: but what about my content on closed platforms such as Tumblr or Squarespace? That's a valid question but Tumblr's acquisition by Yahoo! earlier this year [resulted in lots of import tools](https://iwantmyname.com/blog/2013/05/worried-about-your-tumblr-blog-after-the-acquisition-by-yahoo.html) by other services and the internet community for example. Most of the mentioned companies also allow you to export your data at any time which you should look out for when evaluating your next home on the web.
 
-If you have any questions about [registering your own domain](https://iwantmyname.com) or need a recommendation which service to choose, please don't hesitate to [get in touch](http://iwantmyname.com/support)!
+If you have any questions about [registering your own domain](https://iwantmyname.com) or need a recommendation which service to choose, please don't hesitate to [get in touch](https://iwantmyname.com/support)!

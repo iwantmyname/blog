@@ -18,4 +18,4 @@ We've got some fresh sales for you this month:
 - [.asia @ $9.90 USD](https://iwantmyname.com/domains/asia-domain-name-registration-for-asia) &mdash; get the .asia extension if you have a presence in Asia or have plans to extend into the Asian-Pacific region.
 - [.in @ $14.90 USD](https://iwantmyname.com/domains/in-indian-domain-name-registration-for-india) &mdash; India keeps on playing a leading role in the digital sector worldwide. Purchase your .in domain today!
 
-Your favourite domain extension is missing? Check out our [affordable prices for 100+ international top-level domains](http://iwantmyname.com/domains/domain-name-registration-list-of-extensions).
+Your favourite domain extension is missing? Check out our [affordable prices for 100+ international top-level domains](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions).

@@ -15,7 +15,7 @@ categories:
 
 No matter what you want to say on Twitter, you only get 140 characters to say it. On one hand, it's part of the reason Twitter has been so successful--it mercilessly removes fluff from online writing. But when it comes to sharing links, 140 characters can really cramp your style. 
 
-To get around this, you can shorten them using a number of generic link-shortening platforms. But if you're ambitious, you can [*brand* your links with Bitly](http://iwantmyname.com/blog/2013/10/the-tools-we-use-bitly-for-link-shortening.html) using a simple [domain hack](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html), like our personal favorite, [*iwnt.my*](http://iwnt.my).
+To get around this, you can shorten them using a number of generic link-shortening platforms. But if you're ambitious, you can [*brand* your links with Bitly](https://iwantmyname.com/blog/2013/10/the-tools-we-use-bitly-for-link-shortening.html) using a simple [domain hack](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html), like our personal favorite, [*iwnt.my*](http://iwnt.my).
 
 For inspiration, here are ten influential brands using custom link shortening for their Twitter links:
 

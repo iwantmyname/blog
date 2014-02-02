@@ -23,7 +23,7 @@ tags:
 
 A real solution to a WordPress administrator's headache &mdash; it allows you to manage as many WordPress websites as one can handle from a single dashboard. You can update all your blogs' plugins in one hit or take backups quick and easily.
 
-Additionally, ManageWP makes it simple to actually migrate WordPress to a new [web host](http://iwantmyname.com/features/domains/web-hosting). Everyone's probably done this at least once if they own a WordPress blog and the migration path for WordPress is not the friendliest. ManageWP makes it dead simple &mdash; you just add the old website in, then you set up a blank WordPress installation on the destination and use ManageWP to clone it. Nothing else required. The first time I did one of those migrations I thought it wouldn't have covered off everything, but everything was there.
+Additionally, ManageWP makes it simple to actually migrate WordPress to a new [web host](https://iwantmyname.com/features/domains/web-hosting). Everyone's probably done this at least once if they own a WordPress blog and the migration path for WordPress is not the friendliest. ManageWP makes it dead simple &mdash; you just add the old website in, then you set up a blank WordPress installation on the destination and use ManageWP to clone it. Nothing else required. The first time I did one of those migrations I thought it wouldn't have covered off everything, but everything was there.
 
 Backups are another nightmare you face all the time &mdash; ManageWP allows you to actually back up directly to third party services such as Dropbox, Amazon S3 and Google Drive. It zips up the entire website and drops it in there easy.
 

@@ -46,6 +46,6 @@ Don't have a custom domain yet? [Buy a new domain for your Posthaven site now](h
 
 ### 10% off domain transfers from Posterous to iwantmyname
 
-We now offer 10% off each .com / .net / .org [domain transfer](http://iwantmyname.com/domains/domain-transfer) for your domains previously registered through Posterous (i.e. their registrar partner eNom) until April 30, 2013.
+We now offer 10% off each .com / .net / .org [domain transfer](https://iwantmyname.com/domains/domain-transfer) for your domains previously registered through Posterous (i.e. their registrar partner eNom) until April 30, 2013.
 
 And if all of the above sounds really complicated to you, make sure to check out our managed transfer service. Simply mention the code "MOVETOPOSTHAVEN" in the comments section and we'll take care of [migrating your domain from Posterous to Posthaven](https://iwantmyname.com/transferservice).

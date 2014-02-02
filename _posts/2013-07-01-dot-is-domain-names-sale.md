@@ -29,4 +29,4 @@ P.S. Here are some more international top-level domains (TLDs) on sale this mont
 - [Dot io, popular choice for startups and developers](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) -- $49.00 USD
 - [Dot in, Indias country code top-level domain](https://iwantmyname.com/domains/in-indian-domain-name-registration-for-india) -- $14.90 USD
 
-Interested in other TLDs? See our full [list of global domain extensions at affordable prices](http://iwantmyname.com/domains/domain-name-registration-list-of-extensions).
+Interested in other TLDs? See our full [list of global domain extensions at affordable prices](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions).
