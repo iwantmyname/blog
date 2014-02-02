@@ -60,13 +60,13 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.PHOTOS](https://iwantmyname.com/domains/dot-photos) - Available March 5, 2014 for $29
 + [.RECIPES](https://iwantmyname.com/domains/dot-recipes) - Available March 5, 2014 for $69
 + [.REPAIR](https://iwantmyname.com/domains/dot-repair) - Available April 2, 2014 for $39
-+ [.SEXY](https://iwantmyname.com/domains/dot-sexy) - Available February 24, 2014 for $29
-+ [.SHOES](https://iwantmyname.com/domains/dot-shoes) - Available February 26, 2014 for $39
-+ [.SOLAR](https://iwantmyname.com/domains/dot-solar) - Available April 2, 2014
-+ [.SOLUTIONS](https://iwantmyname.com/domains/dot-solutions) - Available March 19, 2014 for $29
++ [.SEXY](https://iwantmyname.com/domains/dot-sexy) - Available February 25, 2014 for $29
++ [.SHOES](https://iwantmyname.com/domains/dot-shoes) - Available March 5, 2014 for $39
++ [.SOLAR](https://iwantmyname.com/domains/dot-solar) - Available April 9, 2014 for $39
++ [.SOLUTIONS](https://iwantmyname.com/domains/dot-solutions) - Available March 26, 2014 for $29
 + [.SUPPORT](https://iwantmyname.com/domains/dot-support) - Available March 19, 2014 for $29
-+ [.SYSTEMS](https://iwantmyname.com/domains/dot-systems) - Available March 12, 2014 for $29
-+ [.TATTOO](https://iwantmyname.com/domains/dot-tattoo) - Available February 24, 2014 for $39
++ [.SYSTEMS](https://iwantmyname.com/domains/dot-systems) - Available March 19, 2014 for $29
++ [.TATTOO](https://iwantmyname.com/domains/dot-tattoo) - Available February 25, 2014 for $39
 + [.TRAINING](https://iwantmyname.com/domains/dot-training) - Available March 19, 2014 for $39
 + [.UNO](https://iwantmyname.com/domains/dot-uno) - Available March 19, 2014
 + [.みんな](https://iwantmyname.com/domains/dot-みんな) - Available February 21, 2014 for $19
