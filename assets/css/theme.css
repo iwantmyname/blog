@@ -374,14 +374,14 @@ fieldset[disabled] .iwmn-articles article .iwmn-btn.active {
 .iwmn-article h4 {
   margin: 40px 0 -10px;
 }
-.iwmn-article > p,
-.iwmn-article > blockquote,
-.iwmn-article > iframe,
-.iwmn-article > ul,
-.iwmn-article > ol {
+.iwmn-article article > p,
+.iwmn-article article > blockquote,
+.iwmn-article article > iframe,
+.iwmn-article article > ul,
+.iwmn-article article > ol {
   margin-top: 30px;
 }
-.iwmn-article > blockquote > :first-child {
+.iwmn-article article > blockquote > :first-child {
   margin-top: 0;
 }
 .iwmn-article p:not([class]) > img {
