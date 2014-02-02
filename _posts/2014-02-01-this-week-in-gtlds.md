@@ -48,18 +48,18 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.COMPUTER](https://iwantmyname.com/domains/dot-computer) - Available March 19, 2014 for $39
 + [.DOMAINS](https://iwantmyname.com/domains/dot-domains) - Available March 12, 2014 for $39
 + [.EDUCATION](https://iwantmyname.com/domains/dot-education) - Available April 2, 2014 for $29
-+ [.EMAIL](https://iwantmyname.com/domains/dot-email) - Available March 19, 2014 for $29
-+ [.FLORIST](https://iwantmyname.com/domains/dot-florist) - Available April 2, 2014
-+ [.GLASS](https://iwantmyname.com/domains/dot-glass) - Available March 26, 2014 for $29
-+ [.HOUSE](https://iwantmyname.com/domains/dot-house) - Available April 2, 2014
-+ [.INSTITUTE](https://iwantmyname.com/domains/dot-institute) - Available March 26, 2014 for $29
-+ [.INTERNATIONAL](https://iwantmyname.com/domains/dot-international) - Available April 2, 2014
-+ [.LIMO](https://iwantmyname.com/domains/dot-limo) - Available March 5, 2014 for $69
-+ [.MANAGEMENT](https://iwantmyname.com/domains/dot-management) - Available March 12, 2014 for $29
-+ [.MENU](https://iwantmyname.com/domains/dot-menu) - Available March 17, 2014
-+ [.PHOTOS](https://iwantmyname.com/domains/dot-photos) - Available February 26, 2014 for $29
-+ [.RECIPES](https://iwantmyname.com/domains/dot-recipes) - Available February 26, 2014 for $69
-+ [.REPAIR](https://iwantmyname.com/domains/dot-repair) - Available March 26, 2014 for $39
++ [.EMAIL](https://iwantmyname.com/domains/dot-email) - Available March 26, 2014 for $29
++ [.FLORIST](https://iwantmyname.com/domains/dot-florist) - Available April 9, 2014 for $39
++ [.GLASS](https://iwantmyname.com/domains/dot-glass) - Available April 2, 2014 for $29
++ [.HOUSE](https://iwantmyname.com/domains/dot-house) - Available April 9, 2014 for $39
++ [.INSTITUTE](https://iwantmyname.com/domains/dot-institute) - Available April 2, 2014 for $29
++ [.INTERNATIONAL](https://iwantmyname.com/domains/dot-international) - Available April 9, 2014 for $29
++ [.LIMO](https://iwantmyname.com/domains/dot-limo) - Available March 12, 2014 for $69
++ [.MANAGEMENT](https://iwantmyname.com/domains/dot-management) - Available March 19, 2014 for $29
++ [.MENU](https://iwantmyname.com/domains/dot-menu) - Available March 17, 2014 for $49
++ [.PHOTOS](https://iwantmyname.com/domains/dot-photos) - Available March 5, 2014 for $29
++ [.RECIPES](https://iwantmyname.com/domains/dot-recipes) - Available March 5, 2014 for $69
++ [.REPAIR](https://iwantmyname.com/domains/dot-repair) - Available April 2, 2014 for $39
 + [.SEXY](https://iwantmyname.com/domains/dot-sexy) - Available February 24, 2014 for $29
 + [.SHOES](https://iwantmyname.com/domains/dot-shoes) - Available February 26, 2014 for $39
 + [.SOLAR](https://iwantmyname.com/domains/dot-solar) - Available April 2, 2014

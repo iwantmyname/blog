@@ -31,7 +31,7 @@ It's a trend we're seeing more and more of, and it's a fantastic way to brand yo
 
 The first step to branding your social posts is to get a shortened domain name. For instance, if you look above you'll see daringfireball.com (18 characters) shortened to df4.us (6 characters). The goal here is to make the most of your 140 characters on Twitter by limiting the length of your links. 
 
-So set your sights for [iwmn.me/VSOb/5mCr9l3O](iwmn.me/VSOb/5mCr9l3O)  to get a custom short domain that'll be automatically setup for Bitly. The key is to make it short, uncomplicated and related to your brand name—whether it be your company or personal brand. 
+So set your sights for [iwmn.me/VSOb/5mCr9l3O](http://iwmn.me/VSOb/5mCr9l3O) to get a custom short domain that'll be automatically setup for Bitly. The key is to make it short, uncomplicated and related to your brand name—whether it be your company or personal brand. 
 
 And if you already have an iwantmyname domain name, just login and head over to our [marketplace](https://iwantmyname.com/services), choose Bitly, then hit Install. 
 
