@@ -71,8 +71,7 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.UNO](https://iwantmyname.com/domains/dot-uno) - Available March 19, 2014 for $39
 + [.みんな](https://iwantmyname.com/domains/dot-みんな) - Available February 21, 2014 for $19
 
-***
-Note: All prices in $US unless noted otherwise.
+*Note: All prices in $US unless noted otherwise.*
 
 <!-- more -->
 
