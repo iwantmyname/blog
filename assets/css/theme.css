@@ -416,3 +416,6 @@ fieldset[disabled] .iwmn-articles article .iwmn-btn.active {
 p.read-more {
   margin-top: 20px;
 }
+.iwmn-404 h1 {
+  margin: 60px 0 30px;
+}
