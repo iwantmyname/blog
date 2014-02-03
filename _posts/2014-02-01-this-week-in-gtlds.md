@@ -67,8 +67,8 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.SUPPORT](https://iwantmyname.com/domains/dot-support) - Available March 19, 2014 for $29
 + [.SYSTEMS](https://iwantmyname.com/domains/dot-systems) - Available March 19, 2014 for $29
 + [.TATTOO](https://iwantmyname.com/domains/dot-tattoo) - Available February 25, 2014 for $39
-+ [.TRAINING](https://iwantmyname.com/domains/dot-training) - Available March 19, 2014 for $39
-+ [.UNO](https://iwantmyname.com/domains/dot-uno) - Available March 19, 2014
++ [.TRAINING](https://iwantmyname.com/domains/dot-training) - Available March 26, 2014 for $39
++ [.UNO](https://iwantmyname.com/domains/dot-uno) - Available March 19, 2014 for $39
 + [.みんな](https://iwantmyname.com/domains/dot-みんな) - Available February 21, 2014 for $19
 
 ***
