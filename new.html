@@ -63,6 +63,7 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 	var target = document.querySelector(".iwmn-article article")
 	var input = document.querySelector("textarea")
 
+
 	function update() {
 		var content = input.value
 
@@ -82,4 +83,12 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 
 	input.addEventListener("input", update)
 	update()
+
+
+	var originalValue = input.value
+	window.onbeforeunload = function () {
+		if (input.value !== originalValue) {
+			return "WARNING!\n\nYou are about to leave this page with changes in your editor. These changes will NOT be saved for you! Please make sure you've saved these changes to a file (copy+paste) before leaving this page."
+		}
+	}
 </script>
