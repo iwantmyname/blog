@@ -1,0 +1,85 @@
+---
+layout: page
+title: New draft &mdash; iwantmyname Domain Blog
+---
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-8 col-sm-offset-2">
+			<button type="button" class="btn btn-sm btn-default" data-toggle="modal" data-target=".modal">Open editor</button>
+
+			<article>
+			</article>
+		</div>
+	</div>
+</div>
+
+
+<style>
+	.btn-sm {
+		position: absolute;
+		top: 20px;
+		right: 0;
+	}
+</style>
+
+
+<div class="modal fade" tabindex="-1" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+				<h4 class="modal-title">Markdown Editor</h4>
+			</div>
+			<div class="modal-body">
+				
+<textarea class="form-control" rows="15" placeholder="Start typing in markdown...">
+---
+layout: post
+author: Guest
+title: Example blog post title
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu justo, pellentesque non felis sit amet, tempus tristique tortor. Donec ut ultricies odio. Nulla at sodales quam. In dignissim sem metus, quis mollis urna adipiscing eget. Integer eu sapien at erat feugiat dapibus vel sed dui. Duis lectus erat, aliquam ut magna vel, egestas laoreet urna.
+
+### Example heading
+
+Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placerat lacus rutrum, a mollis purus rutrum. Phasellus dictum pulvinar imperdiet. Donec at nibh vitae nibh dapibus fringilla. Aliquam eget vestibulum nisi, at lobortis mi. Integer et posuere metus. Morbi quis tortor vitae nunc faucibus tincidunt in in nibh.
+</textarea>
+
+			</div>
+			<div class="modal-footer">
+        		<button type="button" class="btn btn-primary" data-dismiss="modal">Preview</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="{{ site.baseurl }}/assets/js/editor.js"></script>
+<script>
+	var FRONTMATTER = /^---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/
+
+	var target = document.querySelector(".iwmn-article article")
+	var input = document.querySelector("textarea")
+
+	function update() {
+		var content = input.value
+
+		if (FRONTMATTER.test(content)) {
+			var matches = content.match(FRONTMATTER)
+
+			var data = jsyaml.load(matches[1])
+			content = matches[2]
+
+			if (data.title) {
+				content = "# " + data.title + "\n\n" + content
+			}
+		}
+
+		target.innerHTML = markdown.toHTML(content)
+	}
+
+	input.addEventListener("input", update)
+	update()
+</script>
