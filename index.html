@@ -13,11 +13,15 @@ title: iwantmyname Domain Blog
 						<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}"></a>
 					{% endif %}
 
-					<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+					<h1 class="title">
+						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+					</h1>
 					
 					{% include excerpt.html %}
 
-					<p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a></p>
+					<p class="read-more">
+						<a href="{{ site.baseurl }}{{ post.url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+					</p>
 				</article>
 
 				{% unless forloop.last %}
