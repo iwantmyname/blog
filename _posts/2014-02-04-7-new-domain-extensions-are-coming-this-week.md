@@ -1,6 +1,9 @@
-#7 new domain extensions are coming THIS WEEK
+---
+layout: post
+author: Chris
+title: 7 new domain extensions are coming THIS WEEK
+---
 
-;
 <!-- excerpt -->
 
 People of the internet, the new [gTLDs](http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-) are finally coming. Not theoretically in a few months either—on **February 5, 2014, 16:00:00 UTC**, people everywhere will be able to purchase these new TLDs just as they would a .COM domain. 
