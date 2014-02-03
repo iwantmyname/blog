@@ -11,7 +11,7 @@ layout: page
 				{{ content }}
 				
 				<p class="byline">
-					<small class="pull-right text-muted">{{ page.date | date:'%B %d, %Y' }}</small>
+					<small class="pull-right text-muted">{{ page.date | date:'%B %-d, %Y' }}</small>
 					
 					{% assign author = site.data.authors[page.author] %}
 					{% if author %}
