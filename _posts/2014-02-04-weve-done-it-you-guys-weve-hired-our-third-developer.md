@@ -12,9 +12,9 @@ Joel here is our newest backend developer, specifically tasked to make our user 
 
 <!-- more -->
 
-Like "pondering and working on machine learning," "efficient graph database technology," and "building electronic art projects that explore the interaction between software the physical world."
+Like "pondering and working on machine learning," "efficient graph database technology," and "building electronic art projects that explore the interaction between software and the physical world."
 
-Oh, and he was also an electronic DJ, playing in clubs and festivals around New Zealand and abroad. And is currently learning to juggle, "just like the the famous information theorist Claude Shannon."
+Oh, and he was also an electronic DJ, playing in clubs and festivals around New Zealand and abroad. And is currently learning to juggle, "just like the famous information theorist Claude Shannon."
 
 All in all, he's just a (really really smart) fun guy to be around. So say hi. He's on Twitter [@ferrouswheel](https://twitter.com/ferrouswheel).
 
