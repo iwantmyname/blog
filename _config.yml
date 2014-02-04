@@ -14,5 +14,8 @@ permalink: /:year/:month/:title.html
 paginate: 10
 paginate_path: /page-:num/
 
+# Don't publish future-dated posts
+future: no
+
 # Non-standard config settings for use throughout site
 images_url: https://iwantmyname.com/blog/assets/images/content
