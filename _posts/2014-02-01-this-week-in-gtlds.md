@@ -2,7 +2,16 @@
 layout: post
 author: Chris
 title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
+
 ---
+
+<!-- excerpt -->
+
+Delegations, updated prices, release dates—new gTLD information is coming in every minute. But don't get caught in the day-to-day, here's all the news you need, presented in one delicious morsel.
+
+This week, we have confirmation of both .BARGAINS and .LUXURY, announced launch dates for .HOLIDAY and .KIWI (a great combo, I might add) and prices for some of the business greats, including .COMPANY, .MANAGEMENT and .SOLUTIONS. With 58 updates in all, this has been a great week for gTLDs.
+
+<!-- /excerpt -->
 
 ### Newly delegated gTLDs
 
@@ -72,6 +81,4 @@ title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
 + [.みんな](https://iwantmyname.com/domains/dot-みんな) - Available February 21, 2014 for $19
 
 *Note: All prices in $US unless noted otherwise.*
-
-<!-- more -->
 
