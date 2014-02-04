@@ -95,7 +95,7 @@ header {
   line-height: 50px;
 }
 .iwmn-nav > li > .dropdown-menu {
-  line-height: 1.428571429;
+  line-height: 1.42857143;
   border: 0;
   margin: 0;
   padding: 10px 0;
@@ -393,7 +393,7 @@ img.author {
 }
 .iwmn-article p:not([class]) > img {
   padding: 4px;
-  line-height: 1.428571429;
+  line-height: 1.42857143;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   border-radius: 4px;
