@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![SDC10263.JPG]({{ site.images_url }}/2013-10-24-SDC10263.JPG0)
+![SDC10263.JPG]({{ site.images_url }}/2013-10-24-SDC10263.jpg)
 
 <!-- excerpt -->
 

@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![easter]({{ site.images_url }}/2013-03-30-jpg)
+![easter]({{ site.images_url }}/2013-03-30.jpg)
 
 It's hard to believe that in five short years we already became New Zealand's largest single retailer of country code top level domains (ccTLD). But we haven't forgotten about our bread and butter! That's why we've got an amazing Easter offer of 1000 [.NET domains](https://iwantmyname.co.nz/domains/net-domain-name-registration-for-network) and [.COM domains](https://iwantmyname.co.nz/domains/com-domain-name-registration-for-commercial) for sale at the rock bottom price of only $9.90.
 
