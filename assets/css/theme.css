@@ -260,7 +260,8 @@ footer .row:last-child {
   }
 }
 blockquote {
-  font-size: 14px;
+  font-size: inherit;
+  line-height: inherit;
 }
 img.author {
   width: 75px;
@@ -329,8 +330,13 @@ img.author {
 }
 .iwmn-articles article > p,
 .iwmn-articles article > ol,
-.iwmn-articles article > ul {
+.iwmn-articles article > ul,
+.iwmn-articles article > blockquote,
+.iwmn-articles article > blockquote > p {
   margin-bottom: 20px;
+}
+.iwmn-articles article > blockquote > :last-child {
+  margin-bottom: 0;
 }
 .iwmn-articles-nav {
   margin-top: 30px;
@@ -376,8 +382,7 @@ p.read-more {
   margin-top: 50px;
   margin-bottom: -100px;
 }
-.iwmn-article,
-.iwmn-article blockquote {
+.iwmn-article {
   font-size: 16px;
   line-height: 1.75;
 }
@@ -391,6 +396,7 @@ p.read-more {
 }
 .iwmn-article article > p,
 .iwmn-article article > blockquote,
+.iwmn-article article > blockquote > p,
 .iwmn-article article > iframe,
 .iwmn-article article > ul,
 .iwmn-article article > ol {
