@@ -5,7 +5,7 @@ author: Chris
 title: Shops categorize .CLOTHING because each item is different, so why not categorize the internet?
 ---
 
-![Jeans]({{ site.images_url }}/2014-02-05-jeans-clothing.jpg)
+![clothing rack]({{ site.images_url }}/2014-02-05-jeans-clothing.jpg)
 
 <!-- excerpt -->
 
