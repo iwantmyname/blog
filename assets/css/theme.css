@@ -369,7 +369,8 @@ img.author {
   margin-top: 50px;
   margin-bottom: -100px;
 }
-.iwmn-article {
+.iwmn-article,
+.iwmn-article blockquote {
   font-size: 16px;
   line-height: 1.75;
 }
