@@ -5,7 +5,7 @@ author: Chris
 title: .TO, the domain extension for Tonga AND Toronto
 
 search:
-  tld: To
+  tld: TO
 
 ---
 
