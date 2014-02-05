@@ -290,6 +290,10 @@ img.author {
   color: #eb5547;
   background-color: #ffffff;
 }
+.date {
+  color: #bbbbbb;
+  letter-spacing: 2px;
+}
 .iwmn-articles {
   padding-top: 20px;
 }
@@ -304,14 +308,19 @@ img.author {
   font-size: 14px;
 }
 .iwmn-articles .title {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 .iwmn-articles .title a {
   color: #333333;
 }
 .iwmn-articles article {
-  padding: 15px 0 15px 105px;
+  padding: 25px 0 5px 105px;
   line-height: 1.75;
+}
+.iwmn-articles article .date {
+  display: block;
+  text-transform: uppercase;
+  margin-bottom: -10px;
 }
 .iwmn-articles article .author {
   float: left;
@@ -322,11 +331,6 @@ img.author {
 .iwmn-articles article > ol,
 .iwmn-articles article > ul {
   margin-bottom: 20px;
-}
-.iwmn-articles article > p img,
-.iwmn-articles article > ol img,
-.iwmn-articles article > ul img {
-  max-width: 100%;
 }
 .iwmn-articles-nav {
   margin-top: 30px;
@@ -348,6 +352,9 @@ img.author {
 }
 .iwmn-articles-nav a {
   color: #777777;
+}
+p.read-more {
+  margin-top: 25px;
 }
 .more-posts {
   display: block;
@@ -392,21 +399,6 @@ img.author {
 .iwmn-article article > blockquote > :first-child {
   margin-top: 0;
 }
-.iwmn-article p:not([class]) > img {
-  padding: 4px;
-  line-height: 1.42857143;
-  background-color: #ffffff;
-  border: 1px solid #dddddd;
-  border-radius: 4px;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
-  display: inline-block;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-}
 .iwmn-article .twitter-tweet-rendered {
   margin: 30px auto 0 !important;
 }
@@ -421,9 +413,22 @@ img.author {
   float: left;
   margin-left: -90px;
 }
-p.read-more {
-  margin-top: 20px;
-}
 .iwmn-404 h1 {
   margin: 60px 0 30px;
+}
+.iwmn-article p:not([class]) > img,
+.iwmn-articles p:not([class]) > img {
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }

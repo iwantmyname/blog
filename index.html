@@ -8,6 +8,8 @@ title: iwantmyname Domain Blog
 		<div class="col-md-8">
 			{% for post in paginator.posts %}
 				<article>
+					<small class="date">{{ post.date | date:'%B %-d, %Y' }}</small>
+
 					{% assign author = site.data.authors[post.author] %}
 					{% if author %}
 						<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}"></a>
@@ -16,7 +18,7 @@ title: iwantmyname Domain Blog
 					<h1 class="title">
 						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 					</h1>
-					
+
 					{% include excerpt.html %}
 
 					<p class="read-more">
