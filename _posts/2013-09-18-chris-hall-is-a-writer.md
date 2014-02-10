@@ -17,8 +17,6 @@ Well, to write, of course! Chris Hall joins us to blog, grow our social presence
 
 He's also a big fan of coffee, fancy drinks, kitchen appliances, big buttons on the internet, retina displays and cold weather. You know, all the important stuff.
 
-Want to say hi? Just send him a message on [Twitter][1] and he'll probably write back. No promises though.
-
-[1]: https://twitter.com/hashtaghall
+Want to say hi? Just send him a message on [Twitter](https://twitter.com/hashtaghall) and he'll probably write back. No promises though.
 
 <!-- more -->
