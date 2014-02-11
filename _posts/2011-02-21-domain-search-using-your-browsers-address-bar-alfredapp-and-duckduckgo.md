@@ -35,7 +35,7 @@ Alternatively, you can use the [iWantMyName Open Search plugin](http://mycroft.m
 
 A right-click in your address bar lets you edit the search engines Chrome uses. Simply add our search URL `https://iwantmyname.com/search/?domain=%s` and add the keyword you would like to use for your custom search.
 
-![google-chrome-domain-search-iwantmyname.png]({{ site.images_url }}/2011-02-21-google-chrome-domain-search-iwantmyname.png)**
+![google-chrome-domain-search-iwantmyname.png]({{ site.images_url }}/2011-02-21-google-chrome-domain-search-iwantmyname.png)
 
 ### DuckDuckGo
 
@@ -45,13 +45,12 @@ Thanks to [Louis Galipeau](http://twitter.com/muloka), you can also search for d
 
 ### AlfredApp
 
-The [Swiss knife of all app launchers](http://alfredapp.com) makes it really easy to add custom searches. Go to "Preferences &gt; Features &gt; Custom Searches" and add the following domain search URL: `https://iwantmyname.com/search?domain={query}`
-
-![alfred-app-domain-search.png]({{ site.images_url }}/2011-02-21-alfred-app-domain-search.png)
+The [Swiss knife of all app launchers](http://alfredapp.com) makes it really easy to add custom searches. Go to *Preferences &gt; Features &gt; Custom Searches* and add the following domain search URL: `https://iwantmyname.com/search?domain={query}`
 
 Now define a keyword and you can immediately search from the AlfredApp window.
 
------
+![alfred-app-domain-search.png]({{ site.images_url }}/2011-02-21-alfred-app-domain-search.png)
+
 
 If you have any other suggestions, tips or tricks we'd love to hear them in the comments.
 

@@ -28,6 +28,6 @@ You can now even add more cool apps and services to your domains from your iWant
 
 **[Rackspace Email](https://iwantmyname.com/services/email-hosting/rackspace-apps)** &mdash; offers reliable email hosting for your business or organization. It works on your desktop (e.g. Outlook, Thunderbird), on the web (Webmail) and on any internet-enabled mobile device (e.g. iPhone, BlackBerry or Android).
 
-[![logo-url-shortener-shortswitch.png]({{ site.images_url }}/2011-01-25-logo-url-shortener-shortswitch.png)](https://iwantmyname.com/services/url-shortener/shortswitch-whitelabel-custom-domain)**
+[![logo-url-shortener-shortswitch.png]({{ site.images_url }}/2011-01-25-logo-url-shortener-shortswitch.png)](https://iwantmyname.com/services/url-shortener/shortswitch-whitelabel-custom-domain)
 
-[ShortSwitch](https://iwantmyname.com/services/url-shortener/shortswitch-whitelabel-custom-domain)** &mdash; hosted URL shortening service that allows you to use your own custom domain for sharing links. It includes full API access for custom integration, brandable interstitial pages and additional features such as QR codes and link analytics.
+**[ShortSwitch](https://iwantmyname.com/services/url-shortener/shortswitch-whitelabel-custom-domain)** &mdash; hosted URL shortening service that allows you to use your own custom domain for sharing links. It includes full API access for custom integration, brandable interstitial pages and additional features such as QR codes and link analytics.
