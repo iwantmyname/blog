@@ -22,7 +22,9 @@ tags:
 
 ---
 
-![fan50.jpg]({{ site.images_url }}/2011-09-30-fan50.jpg)This month has seen an increase in the variety of country code top level domains (ccTLD) on offer at [iWantMyname](https://iwantmyname.co.nz/). With four new domains joining us, it means we have by far the [largest selection of domain extensions](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) of any New Zealand registrar, with almost 100 on offer.
+![fan50.jpg]({{ site.images_url }}/2011-09-30-fan50.jpg)
+
+This month has seen an increase in the variety of country code top level domains (ccTLD) on offer at [iWantMyname](https://iwantmyname.co.nz/). With four new domains joining us, it means we have by far the [largest selection of domain extensions](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) of any New Zealand registrar, with almost 100 on offer.
 
 France played its first ever rugby test match against a [New Zealand](https://iwantmyname.co.nz/domains/co.nz-kiwi-domain-name-registration-for-new-zealand) side in 1906 and was soundly thrashed. History repeated itself in 2011 during their recent pool match encounter with the All Blacks at the Rugby World Cup. So we figured the least we could do was to add .FR to our list of domains. Rugby has a huge following amongst the French and many fans have made the pilgrimage Downunder to support "Le Bleus", as the French national team are affectionately known. So if you are planning to export sporting goods or other services to Europe in the future, now is a great time secure a [French domain name](https://iwantmyname.co.nz/domains/fr-french-domain-name-registration-for-france) for your business.
 

@@ -12,7 +12,9 @@ categories:
 
 <!-- excerpt -->
 
-![logo-blog-pagely.png]({{ site.images_url }}/2013-09-20-logo-blog-pagely.png)Remember how great turning 4 was? No bills. Worries. Responsibilities. Just an unrelenting desire to build block towers and eat cookies. 
+![logo-blog-pagely.png]({{ site.images_url }}/2013-09-20-logo-blog-pagely.png)
+
+Remember how great turning 4 was? No bills. Worries. Responsibilities. Just an unrelenting desire to build block towers and eat cookies. 
 
 Well, Pagely is turning 4 this month, and all it wants is for you to try their amazing hosted Wordpress hosting services for a month—for free.
 

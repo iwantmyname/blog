@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![dotme.gif]({{ site.images_url }}/2011-06-21-dotme.gif)Internet body ICANN meeting in Singapore this week is presiding over the most significant opening up of the domain name system (DNS) for many years. ICANN has agreed in principle to allow new domain extensions known as generic top level domains (gTLDs). 
+![dotme.gif]({{ site.images_url }}/2011-06-21-dotme.gif)
+
+Internet body ICANN meeting in Singapore this week is presiding over the most significant opening up of the domain name system (DNS) for many years. ICANN has agreed in principle to allow new domain extensions known as generic top level domains (gTLDs). 
 
 Approval for gTLDs has been long awaited by entrepreneurs and digital branding pundits who plan to create new domains for cities, global corporations and popular commercial products such as food, sports, banks, [airlines](https://iwantmyname.co.nz/blog/2011/06/airline-builds-brands-with-domains.html) and even pornography. But the new domains also have their critics who claim the initiative is simply a money grabbing exercise and that the emphasis should be towards addressing better security and making the Internet more inclusive. 
 

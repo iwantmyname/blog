@@ -34,4 +34,6 @@ So I'm not giving up, and here are the best bits of advice I've been given:
 
 As for me, have I settled on a domain for my amazing, game changing new online startup? Ask me next week.
 
-![Oliver Townend]({{ site.images_url }}/2013-07-31-oliver-townend.png)[Oliver Townend](http://www.townend.co.nz/) is a design enthusiast, housing aficionado, technology enterprise student and founder of The Dotted Line.
+![Oliver Townend]({{ site.images_url }}/2013-07-31-oliver-townend.png)
+
+[Oliver Townend](http://www.townend.co.nz/) is a design enthusiast, housing aficionado, technology enterprise student and founder of The Dotted Line.

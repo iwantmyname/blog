@@ -16,7 +16,9 @@ tags:
 
 ---
 
-![swmega.jpg]({{ site.images_url }}/2011-08-30-swmega.jpg)Test tube experiment. Assemble 300 keen young entrepreneurs in the same town as a world famous [tech conference](http://www.demo.com/), invite one of Silicon Valley's leading identities to speak and stir vigorously. Sounds like a recipe for success!
+![swmega.jpg]({{ site.images_url }}/2011-08-30-swmega.jpg)
+
+Test tube experiment. Assemble 300 keen young entrepreneurs in the same town as a world famous [tech conference](http://www.demo.com/), invite one of Silicon Valley's leading identities to speak and stir vigorously. Sounds like a recipe for success!
 
 [Startup Weekend Mega](http://mega.startupweekend.org/) will be the biggest (and coolest) Startup Weekend ever, so we are thrilled to be supporting the event. iWantMyName has been selected as the official supplier of domain names to all of the teams that go forward from the pitching session. That means we will be online throughout the event supporting our offer of a free year's domain name registration of a .COM, .NET, .ORG or .ME domain to each team. We will also offer some discounts on the less common species of domains. But you have to be [registered](http://mega.startupweekend.org/tickets/) at SW Mega, to take advantage of this offer.
 

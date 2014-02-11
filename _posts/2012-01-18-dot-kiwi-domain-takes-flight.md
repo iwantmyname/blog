@@ -22,7 +22,9 @@ tags:
 
 ---
 
-![DotKiwi-Logo-small.jpg]({{ site.images_url }}/2012-01-18-DotKiwi-Logo-small.jpg)Vancouver based ex-pat New Zealander Tim Johnson wanted to do something to help out his quake damaged hometown of Christchurch, so he set up a company called [Dot Kiwi](http://dot-kiwi.com/) to create and administer a new domain name. Appropriately, a portion of the profit from sales of the proposed .kiwi domain will be earmarked for the Christchurch recovery. 
+![DotKiwi-Logo-small.jpg]({{ site.images_url }}/2012-01-18-DotKiwi-Logo-small.jpg)
+
+Vancouver based ex-pat New Zealander Tim Johnson wanted to do something to help out his quake damaged hometown of Christchurch, so he set up a company called [Dot Kiwi](http://dot-kiwi.com/) to create and administer a new domain name. Appropriately, a portion of the profit from sales of the proposed .kiwi domain will be earmarked for the Christchurch recovery. 
 
 The [.kiwi domain](https://iwantmyname.co.nz/dotkiwi) proposal has been made possible by [last year's policy changes](https://iwantmyname.com/blog/2011/12/the-domain-name-year-2011-highlights.html) within Internet governance body ICANN that cleared the way for the development of more Internet real estate in the form of new generic top level domains (gTLDs). Dot Kiwi is well positioned to address the technical and legal challenges involved, having [KEA World Class New Zealander](http://www.keanewzealand.com/wcnz) and immediate past Chairman of ICANN, Peter Dengate-Thrush on board as a director.
 

@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![daffs.jpg]({{ site.images_url }}/2010-09-02-daffs.jpg)Daffodils are blooming, baby lambs are frolicking and the weather is moody and confused. Welcome to Spring!
+![daffodils]({{ site.images_url }}/2010-09-02-daffs.jpg)
+
+Daffodils are blooming, baby lambs are frolicking and the weather is moody and confused. Welcome to Spring!
 
 To celebrate the change of season we've got a whole bunch of country code top level domains (ccTLD) on sale throughout September. So if you want to score a personal [.ME](https://iwantmyname.co.nz/domains/me-montenegrean-domain-name-registration-for-montenegro) domain, a geeky [.IO](https://iwantmyname.co.nz/domains/io-domain-name-registration-for-british-indian-ocean-territory) web address or a cool domain hack using the [.HN](https://iwantmyname.co.nz/domains/hn-honduran-domain-name-registration-for-honduras)  or .[AT](https://iwantmyname.co.nz/domains/at-austrian-domain-name-registration-for-austria) internet suffixes, now is definitely the time to buy. Here are our [domain offers for September](https://iwantmyname.co.nz/domain-promo-nz):
 

@@ -10,7 +10,9 @@ You can now [register the Swedish (.SE) and Portuguese (.PT) country code top-le
 
 ### Sweden
 
-![Sweden-Flag-128.png]({{ site.images_url }}/2012-10-05-Sweden-Flag-128.png)The third largest nation in the European Union only has a population of 10 million people but is a leading force on the internet with successful services such as [Spotify](http://spotify.com), [Pingdom](http://pingdom.com) or [The Pirate Bay](http://thepiratebay.se) originating from the Scandinavian country. With [more than 1.2 million .SE domains registered](https://www.iis.se/), Sweden has one of the highest number of web addresses per capita. The Swedish suffix is also popular for [domain hacks](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.htm) such as anonymy.se, likewi.se or surpri.se.
+![Sweden-Flag-128.png]({{ site.images_url }}/2012-10-05-Sweden-Flag-128.png)
+
+The third largest nation in the European Union only has a population of 10 million people but is a leading force on the internet with successful services such as [Spotify](http://spotify.com), [Pingdom](http://pingdom.com) or [The Pirate Bay](http://thepiratebay.se) originating from the Scandinavian country. With [more than 1.2 million .SE domains registered](https://www.iis.se/), Sweden has one of the highest number of web addresses per capita. The Swedish suffix is also popular for [domain hacks](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.htm) such as anonymy.se, likewi.se or surpri.se.
 
 Please note that for individuals or companies located in Sweden a valid Swedish personal ID or organizational number is required. Outside of Sweden any other ID number (e.g. Passport, drivers licensce, tax number) is accepted. Companies in the European Union MUST provide their value added tax identification number (VAT ID).
 
@@ -18,7 +20,9 @@ Please note that for individuals or companies located in Sweden a valid Swedish 
 
 ### Portugal
 
-![Portugal-Flag-128.png]({{ site.images_url }}/2012-10-05-Portugal-Flag-128.png)The Portuguese Republic is the westernmost country of Europe and is similar to Sweden in terms of population size. Until earlier this year it was only possible to register second-level .COM.PT domains for international registrants so there might be still some great .PT names available. Portugal's namespace has a [total of 240,000 registrations](https://www.dns.pt/total-de-dominios-registados_activos) at present.
+![Portugal-Flag-128.png]({{ site.images_url }}/2012-10-05-Portugal-Flag-128.png)
+
+The Portuguese Republic is the westernmost country of Europe and is similar to Sweden in terms of population size. Until earlier this year it was only possible to register second-level .COM.PT domains for international registrants so there might be still some great .PT names available. Portugal's namespace has a [total of 240,000 registrations](https://www.dns.pt/total-de-dominios-registados_activos) at present.
 
 While registration of the .PT domain extension is open to anyone worldwide but requires additional information (VAT ID for European companies or tax number for individuals).
 

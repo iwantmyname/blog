@@ -19,7 +19,9 @@ tags:
 
 ---
 
-![sw65.jpg]({{ site.images_url }}/2012-02-09-sw65.jpg)Excitement is mounting as [Christchurch Startup Weekend](http://christchurch.startupweekend.org/) draws closer. Once again we are looking forward to supporting the event, which kicks off on Friday, February 24th. 
+![sw65.jpg]({{ site.images_url }}/2012-02-09-sw65.jpg)
+
+Excitement is mounting as [Christchurch Startup Weekend](http://christchurch.startupweekend.org/) draws closer. Once again we are looking forward to supporting the event, which kicks off on Friday, February 24th. 
 
 The host city is about to embark on a rebirth of sorts after suffering an unprecedented series of devastating earthquakes that left the business district and many suburbs shattered and residents in shock. Building personal networks and cultivating a sense of hope through new entrepreneurship are two great ways to boost economic opportunities in the city - and Startup Weekend delivers admirably on both fronts.
 

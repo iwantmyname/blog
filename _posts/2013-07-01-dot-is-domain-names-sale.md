@@ -10,13 +10,15 @@ categories:
 
 ---
 
-![Iceland Flag]({{ site.images_url }}/2013-07-01-Iceland-Flag-128.png)The sparsely populated European island nation of Iceland could become the powerhouse of Europe with an enormous recently completed hydro power project, abundant geothermal energy supplies and plans afoot to export electricity to Britain. Perched on the fiery mid-Atlantic volcanic ridge, Iceland also has [one of the hottest domain names](https://iwantmyname.com/domains/is-icelandic-domain-name-registration-for-iceland) around.
+![Iceland Flag]({{ site.images_url }}/2013-07-01-Iceland-Flag-128.png)
+
+The sparsely populated European island nation of Iceland could become the powerhouse of Europe with an enormous recently completed hydro power project, abundant geothermal energy supplies and plans afoot to export electricity to Britain. Perched on the fiery mid-Atlantic volcanic ridge, Iceland also has [one of the hottest domain names](https://iwantmyname.com/domains/is-icelandic-domain-name-registration-for-iceland) around.
 
 Whilst .IS domains are popular amongst Icelandic businesses, there's an increasing trend for dot-IS to show up in cute domain hacks. Perhaps the most well known would be [who.is](http://who.is) which queries public Whois databases that lists the names and contact details of domain name owners or administrators. Since there's no restrictions on ownership, the .IS web address can be registered by anyone globally.
 
 We've decided to blow off some steam and set a blow torch on our .IS domain prices this month. At $89 we reckon .IS domain names they will be flowing thick and fast like red hot Atlantic lava. Don't delay and [register your .IS domain today](https://iwantmyname.com/domains/is-icelandic-domain-name-registration-for-iceland)!
 
-* * *
+***
 
 P.S. Here are some more international top-level domains (TLDs) on sale this month:
 

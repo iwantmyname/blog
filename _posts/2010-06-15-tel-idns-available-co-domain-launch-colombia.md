@@ -23,6 +23,8 @@ _Chinese, Danish, Finnish, German, Hungarian, Icelandic, Japanese, Korean, Latvi
 
 **.CO - the Colombian country code extension**
 
-![co-domain-logo.png]({{ site.images_url }}/2010-06-15-co-domain-logo.png)The top-level domain (TLD) of Colombia is [opening up to anyone worldwide](http://www.cointernet.co/domain/launch/general-availability) on July 20, 2010. While the registry [.CO Internet](http://cointernet.co) is marketing the TLD as a domain extension for general use, you should be aware that it is in fact a country code suffix.
+![co-domain-logo.png]({{ site.images_url }}/2010-06-15-co-domain-logo.png)
+
+The top-level domain (TLD) of Colombia is [opening up to anyone worldwide](http://www.cointernet.co/domain/launch/general-availability) on July 20, 2010. While the registry [.CO Internet](http://cointernet.co) is marketing the TLD as a domain extension for general use, you should be aware that it is in fact a country code suffix.
 
 More information on pricing at iWantMyName will be available shortly.

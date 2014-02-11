@@ -15,7 +15,7 @@ tags:
 
 ---
 
-[![Apache CouchDB logo, a free and open source so...]({{ site.images_url }}/2010-07-22-Couchdb-logo.png)](http://commons.wikipedia.org/wiki/File:Couchdb-logo.png)
+![Apache CouchDB logo, a free and open source so...]({{ site.images_url }}/2010-07-22-Couchdb-logo.png)
 
 Thanks to our friends at [Couch.io](http://couch.io) for publishing their case study about [CouchDB at iWantMyName](http://www.couch.io/case-study-iwantmyname). We started using the [NoSQL database](http://couchdb.apache.org/) mainly for serving content but meanwhile switched nearly all site functionality from PostgreSQL to CouchDB.
 

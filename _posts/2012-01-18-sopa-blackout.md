@@ -15,7 +15,9 @@ tags:
 
 ---
 
-![stop.png]({{ site.images_url }}/2012-01-18-stop.png)Led by major Internet sites such as [Reddit](http://blog.reddit.com/2012/01/technical-examination-of-sopa-and.html) and [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), January 18th is now shaping up as a major online protest event aimed at raising public awareness regarding the highly controversial Stop Online Piracy (SOPA) bill that is before the U.S. congress at present. 
+![stop.png]({{ site.images_url }}/2012-01-18-stop.png)
+
+Led by major Internet sites such as [Reddit](http://blog.reddit.com/2012/01/technical-examination-of-sopa-and.html) and [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), January 18th is now shaping up as a major online protest event aimed at raising public awareness regarding the highly controversial Stop Online Piracy (SOPA) bill that is before the U.S. congress at present. 
 
 Enacting SOPA in its current form will undoubtedly have major implications for Internet companies globally. It could also potentially [crush freedom and innovation](https://www.eff.org/deeplinks/2011/10/sopa-hollywood-finally-gets-chance-break-internet) on the Web through draconian measures designed to promote a "shoot first, ask questions later" approach to addressing content piracy. That is why we recently invited domain owners to [Make A Move For Good](https://iwantmyname.com/blog/2011/12/make-a-move-for-good.html) away from fat cat companies that were backing SOPA.
 

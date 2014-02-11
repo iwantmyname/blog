@@ -18,7 +18,9 @@ tags:
 
 ---
 
-![timely.jpg]({{ site.images_url }}/2013-07-23-timely.jpg)It's been quite a year for the founders of Kiwi tech start-up [Timely](http://www.gettimely.com/), a cloud hosted calendar and scheduling system for small business. They not only aced the BNZ Startup Alley at Webstock and received accolades from the media. They also secured a "timely" investment round from wily tech entrepreneur [Rowan Simpson](http://rowansimpson.com/2013/06/21/timely/).
+![timely.jpg]({{ site.images_url }}/2013-07-23-timely.jpg)
+
+It's been quite a year for the founders of Kiwi tech start-up [Timely](http://www.gettimely.com/), a cloud hosted calendar and scheduling system for small business. They not only aced the BNZ Startup Alley at Webstock and received accolades from the media. They also secured a "timely" investment round from wily tech entrepreneur [Rowan Simpson](http://rowansimpson.com/2013/06/21/timely/).
 
 Timely got up and running last year using the [Windows Azure](https://iwantmyname.co.nz/services/developer/windows-azure-custom-domain-registration-setup) hosting platform and hasn't looked back since. Timely looks good and integrates nicely with Xero and Vend plus all your favourite Windows and Apple time management tools. The nifty app also posts event reminders and handles staff rostering. 
 

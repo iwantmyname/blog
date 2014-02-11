@@ -24,11 +24,11 @@ A useful resource for these domain name statistics is the [ICANN Dashboard](http
 
 [.AERO - .MOBI interactive timeline](http://idashboard.icann.org/idashboards/engine.swf?dashID=159&serverURL=http://idashboard.icann.org/idashboards&guest=icannguest ".AERO - .MOBI domain name statistics") or click for larger view:
 
-[![gtld-registration-numbers1.png]({{ site.images_url }}/2009-10-19-gtld-registration-numbers1-thumb-450x314-18.png)](https://iwantmyname.com/blog/assets_c/2009/10/gtld-registration-numbers1-18.htm)
+![gtld registration numbers]({{ site.images_url }}/2009-10-19-gtld-registration-numbers1-thumb-450x314-18.png)
 
 [.MUSEUM - .TRAVEL interactive timeline](http://idashboard.icann.org/idashboards/engine.swf?dashID=160&serverURL=http://idashboard.icann.org/idashboards&guest=icannguest ".MUSEUM - .TRAVEL domain statistics ICANN") or click for larger view:
 
-[![gtld-registration-statistics2.png]({{ site.images_url }}/2009-10-19-gtld-registration-statistics2-thumb-450x314-21.png)](https://iwantmyname.com/blog/assets_c/2009/10/gtld-registration-statistics2-21.htm)
+![gtld registration statistics]({{ site.images_url }}/2009-10-19-gtld-registration-statistics2-thumb-450x314-21.png)
 
 Further information about the fluctuation in these graphs can be found directly on the [ICANN Dashboard](http://www.icann.org/idashboard/public/ "ICANN Public Dashboard").
 

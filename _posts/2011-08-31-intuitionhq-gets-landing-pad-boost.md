@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![ihq.png]({{ site.images_url }}/2011-08-31-ihq.png)Could Boost New Media be the next 37 Signals? The emerging Wellington company not only has a collection of award winning web design and development[ projects](http://www.boost.co.nz/work) under its belt, but the Boost team have also been working on a suite of web-based software products.
+![ihq.png]({{ site.images_url }}/2011-08-31-ihq.png)
+
+Could Boost New Media be the next 37 Signals? The emerging Wellington company not only has a collection of award winning web design and development[ projects](http://www.boost.co.nz/work) under its belt, but the Boost team have also been working on a suite of web-based software products.
 
 At the forefront of Boost's push into productisation is [IntuitionHQ](http://www.intuitionhq.com/), offering web based usability software as a service. IntuitionHQ recently shot to prominence after [winning](http://www.intuitionhq.com/blog/2011/08/good-news-everybody/) the coveted Booster Seat 2011 prize against stiff competition from dozens of other aspiring New Zealand web and software start-ups. The competition was established by Rich Chetwynd and Nicole Fougere after a successful trade sale of their own web product Litmos. It means that IntuitionHQ gets a crack at the U.S. market through an all expenses paid month based at [Landing Pad](http://unlimited.co.nz/unlimited.nsf/growth/us-landing-pad-taking-off?Opendocument&HighLight=2,landing,pad) in San Francisco.
 

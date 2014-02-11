@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![swmega.jpg]({{ site.images_url }}/2011-09-10-swmega.jpg)[iWantMyName](https://iwantmyname.com/) is a next generation domain registrar and DNS management service. We also appreciate how much hard work is involved in starting a new venture online. That's why we are pleased to be [supporting](https://iwantmyname.com/blog/2011/08/startup-weekend-science.html) the next generation of web entrepreneurs at [Startup Weekend Mega](http://mega.startupweekend.org/). We are offering a one year free domain registration to help get new projects up and running throughout the weekend. Also, check out these [great resources](https://iwantmyname.co.nz/blog/2011/03/startup-weekend-resources.html) for web and software entrepreneurs plus a bunch of useful [hosted services for developers](https://iwantmyname.com/blog/2011/06/14-new-hosting-services-applications-for-your-domains.html).
+![swmega.jpg]({{ site.images_url }}/2011-09-10-swmega.jpg)
+
+[iWantMyName](https://iwantmyname.com/) is a next generation domain registrar and DNS management service. We also appreciate how much hard work is involved in starting a new venture online. That's why we are pleased to be [supporting](https://iwantmyname.com/blog/2011/08/startup-weekend-science.html) the next generation of web entrepreneurs at [Startup Weekend Mega](http://mega.startupweekend.org/). We are offering a one year free domain registration to help get new projects up and running throughout the weekend. Also, check out these [great resources](https://iwantmyname.co.nz/blog/2011/03/startup-weekend-resources.html) for web and software entrepreneurs plus a bunch of useful [hosted services for developers](https://iwantmyname.com/blog/2011/06/14-new-hosting-services-applications-for-your-domains.html).
 
 **Here's what you need to know to claim your free domain:**
 

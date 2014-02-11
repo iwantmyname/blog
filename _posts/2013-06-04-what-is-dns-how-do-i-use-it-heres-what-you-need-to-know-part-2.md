@@ -5,7 +5,9 @@ author: Timo
 title: "What Is DNS? Here's What You Need To Know: Part 2"
 ---
 
-![DNS Records]({{ site.images_url }}/2013-06-04-logo-dns.png)This is the second part in our article series about DNS basics. Check out last week's article [explaining the Domain Name System in general and nameservers](https://iwantmyname.com/blog/2013/05/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know.html). Today we will tell you more about the different DNS record types such as A, CNAME, MX and TXT records:
+![DNS Records]({{ site.images_url }}/2013-06-04-logo-dns.png)
+
+This is the second part in our article series about DNS basics. Check out last week's article [explaining the Domain Name System in general and nameservers](https://iwantmyname.com/blog/2013/05/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know.html). Today we will tell you more about the different DNS record types such as A, CNAME, MX and TXT records:
 
 **A Record**
 

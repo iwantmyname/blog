@@ -22,7 +22,9 @@ tags:
 
 ---
 
-![sw65.jpg]({{ site.images_url }}/2011-03-28-sw65.jpg)This year [iWantMyName](https://iwantmyname.co.nz/) has been involved in supporting Startup Weekend events around the globe. We are also giving away some domains so that each team has a digital coat hanger to [anchor](https://iwantmyname.co.nz/blog/2010/11/anchor-your-social-media-presence-with-a-domain.html) their web venture upon.
+![sw65.jpg]({{ site.images_url }}/2011-03-28-sw65.jpg)
+
+This year [iWantMyName](https://iwantmyname.co.nz/) has been involved in supporting Startup Weekend events around the globe. We are also giving away some domains so that each team has a digital coat hanger to [anchor](https://iwantmyname.co.nz/blog/2010/11/anchor-your-social-media-presence-with-a-domain.html) their web venture upon.
 
 Here's a bunch of article links that we thought might be useful for the entrepreneur teams and others too:
 

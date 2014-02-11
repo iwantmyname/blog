@@ -13,7 +13,9 @@ tags:
 
 ---
 
-![squarespace.jpg]({{ site.images_url }}/2011-10-12-squarespace.jpg)In an inspired multi-media match, popular web design and development blog site [Six Revisions](http://sixrevisions.com/) has teamed up with one of our favourite apps Squarespace to offer a one year [free account subscription](http://sixrevisions.com/contests/giveaway-3-subscriptions-to-squarespace-website-builder/#more-5999) for three lucky users.
+![squarespace.jpg]({{ site.images_url }}/2011-10-12-squarespace.jpg)
+
+In an inspired multi-media match, popular web design and development blog site [Six Revisions](http://sixrevisions.com/) has teamed up with one of our favourite apps Squarespace to offer a one year [free account subscription](http://sixrevisions.com/contests/giveaway-3-subscriptions-to-squarespace-website-builder/#more-5999) for three lucky users.
 
 Six Revisions engages writers, who are also developers and designers in real life, to thoughtfully craft comprehensive articles across a wide spectrum of topics on web development. [Squarespace](http://www.squarespace.com/) provides an outstanding hosted website builder application that has sky-rocketed in popularity these last few years. In fact Squarespace was one of the first apps that we implemented, allowing easy [one-click set-up of a Squarespace site](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) on your chosen domain name.
 

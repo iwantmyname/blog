@@ -19,7 +19,9 @@ tags:
 
 ---
 
-![usnap.png]({{ site.images_url }}/2011-11-07-usnap.png)We had a huge amount of fun during Wellington Startup Weekend and were greatly pleased that we were able to contribute time and resources towards making it such a successful [community](https://iwantmyname.co.nz/blog/2011/10/being-good-neighbours.html) event.
+![usnap.png]({{ site.images_url }}/2011-11-07-usnap.png)
+
+We had a huge amount of fun during Wellington Startup Weekend and were greatly pleased that we were able to contribute time and resources towards making it such a successful [community](https://iwantmyname.co.nz/blog/2011/10/being-good-neighbours.html) event.
 
 It was especially gratifying to have been able to supply a cute domain hack for the [uSnap.Us](http://usnap.us/) team who eventually won the event. uSnap.Us offers a clever photo aggregation service allowing wedding guests to upload digital images to a predetermined online location. The initial "focus" will be wedding parties, but the company has plans to offer the service for other kinds of events as well.
 

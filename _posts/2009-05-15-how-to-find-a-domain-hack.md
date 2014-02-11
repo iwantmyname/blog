@@ -38,6 +38,7 @@ The first [domain hack generator](http://xona.com/domainhacks/) was developed by
 We are talking about the already mentioned **[Domai.nr](http://domai.nr/)** which is absolutely fun to use. Brainstorming names with their search engine is easy and once you found something available you can directly [register your domain with iWantMyName](http://iwantmyame.com/) by chosing us in their list of registrars.
 
 ![screenshot-domainr.jpg]({{ site.images_url }}/2009-05-15-screenshot-domainr.jpg)
+
 Another option is to manually search for words using a website like [More Words](http://morewords.com/). They also have lists of words that end with a certain letter combination. Here's a [list of words ending with "es"](http://www.morewords.com/ends-with/es/) for example (the [Spanish domain extension](https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain)).
 
 

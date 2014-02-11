@@ -20,7 +20,9 @@ tags:
 
 ---
 
-[![mobi.png]({{ site.images_url }}/2011-06-23-mobi-thumb-150x150-112.png)](https://iwantmyname.co.nz/blog/mobi.png)The [recently reported](https://foursquare.com/) deal between Four Square and American Express deepens the context of the connection between retailers and location based games and services and is another step towards fulfilling the promise of mobile commerce.
+![mobi.png]({{ site.images_url }}/2011-06-23-mobi-thumb-150x150-112.png)
+
+The [recently reported](https://foursquare.com/) deal between Four Square and American Express deepens the context of the connection between retailers and location based games and services and is another step towards fulfilling the promise of mobile commerce.
 
 For many years there has been an expectation that your mobile phone would become your wallet, map directory and purveyor of deals and discounts. That vision is finally being realised as mobile platforms rapidly mature in sophistication and power. Even five years ago, you'd be hard pressed to find a good phone that could accurately identify location and contactless payment systems were pie-in-the-sky. Now service providers are able to add layers of convenience through powerful but lightweight mobile applications that travel with you everywhere. Retailers, banks and other businesses are rapidly coming to terms with the opportunities this presents.
 

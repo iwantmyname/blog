@@ -16,7 +16,9 @@ tags:
 
 ---
 
-![z.jpg]({{ site.images_url }}/2011-07-31-z.jpg)[Zerply](http://zerply.com) is an online personal profile service that is rapidly gaining traction with creatives and young Internet users. The company has just launched domain customization, which means you can direct a chosen domain to your Zerply profile site.
+![z.jpg]({{ site.images_url }}/2011-07-31-z.jpg)
+
+[Zerply](http://zerply.com) is an online personal profile service that is rapidly gaining traction with creatives and young Internet users. The company has just launched domain customization, which means you can direct a chosen domain to your Zerply profile site.
 
 Based at Mountain View venture incubator 500 Startups, [Zerply](http://zerply.com/) is an exciting new contender making waves in the digital profile space. Why wait until you need to look for a job before you start building an online profile? At [iWantMyName](https://iwantmyname.com), we love stuff that takes away pain and drudgery. If you already have a personal profile elsewhere and want to move over to Zerply, they make this painless by offering an import process. 
 

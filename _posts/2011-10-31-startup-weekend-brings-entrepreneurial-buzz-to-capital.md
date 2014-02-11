@@ -20,7 +20,9 @@ tags:
 
 ---
 
-I![sw65.jpg]({{ site.images_url }}/2011-10-31-sw65.jpg)t's almost time for [Wellington Startup Weekend](http://wellington.startupweekend.org/) and we are once again getting excited about being involved in the initiative. Startup Weekend is a global phenomenon that assists entrepreneurial designers, developers and business heads to devise, build and launch a product in the short space of 54 hours.
+![sw65.jpg]({{ site.images_url }}/2011-10-31-sw65.jpg)
+
+It's almost time for [Wellington Startup Weekend](http://wellington.startupweekend.org/) and we are once again getting excited about being involved in the initiative. Startup Weekend is a global phenomenon that assists entrepreneurial designers, developers and business heads to devise, build and launch a product in the short space of 54 hours.
 
 iWantMyName is shouting drinks for all participants on Friday evening when the event will be opened by Wellington Mayor Celia Wade-Brown. Several of the [iWantMyName team](https://iwantmyname.co.nz/about) will also be on hand throughout the weekend to help with [business and technical advice](https://iwantmyname.co.nz/blog/2011/03/startup-weekend-resources.html) whenever called upon. Of course we will also be providing each of the teams with a [free domain name](https://iwantmyname.co.nz/blog/2011/09/iwantmyname-backs-startup-weekend.html) for the new project in the same manner that we did for Auckland Startup Weekend and Startup Weekend Mega in Silicon Valley.
 

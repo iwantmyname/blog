@@ -19,7 +19,9 @@ tags:
 
 ---
 
-![warm.jpg]({{ site.images_url }}/2013-05-29-warm.jpg)Last week, with the colder weather driving people indoors, we had a few friends over for a quiet celebration...as you do. It's been five years since we first formed the company and started writing code to develop [iwantmyname](https://iwantmyname.co.nz/); so we really wanted to thank a bunch of people who had helped along the way with advice, support or the odd bit of work that kept us going as we built up the business.
+![warm.jpg]({{ site.images_url }}/2013-05-29-warm.jpg)
+
+Last week, with the colder weather driving people indoors, we had a few friends over for a quiet celebration...as you do. It's been five years since we first formed the company and started writing code to develop [iwantmyname](https://iwantmyname.co.nz/); so we really wanted to thank a bunch of people who had helped along the way with advice, support or the odd bit of work that kept us going as we built up the business.
 
 Many start-up companies fall by the wayside long before year five, so it's a testament to a lot of hard work from the [iwantmyname team](https://iwantmyname.co.nz/about) plus the loyalty (and patience) of our foundation customers that has driven us forward thus far. Apart from creating new jobs and contributing to the economic recovery we always had a sense that we wanted to build a next generation [domain name](https://iwantmyname.co.nz/domains) registrar that customers would love and that actually solved some real pain for them.
 

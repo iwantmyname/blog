@@ -12,7 +12,9 @@ categories:
 
 ---
 
-![Posthaven logo]({{ site.images_url }}/2013-03-14-logo-blog-posthaven.png)It's no big surprise that blog hosting service (or whatever it was in the end) [Posterous](http://posterous.com) will stop operating on April 30 after having been acquired by Twitter last year. Luckily, former Posterous co-founders Garry Tan and Brett Gibson have just launched a new venture to give your previous Posterous site a new home. It's called [Posthaven](http://posthaven.com) and plans to bring back the core functionality of Posterous which was posting to your blog by email or an online text editor without all the fluff. They also plan to charge for the service (we applaud them for that!) instead of taking the free route and trying to figure out how to make money later. You see how that turned out for Posterous...
+![Posthaven logo]({{ site.images_url }}/2013-03-14-logo-blog-posthaven.png)
+
+It's no big surprise that blog hosting service (or whatever it was in the end) [Posterous](http://posterous.com) will stop operating on April 30 after having been acquired by Twitter last year. Luckily, former Posterous co-founders Garry Tan and Brett Gibson have just launched a new venture to give your previous Posterous site a new home. It's called [Posthaven](http://posthaven.com) and plans to bring back the core functionality of Posterous which was posting to your blog by email or an online text editor without all the fluff. They also plan to charge for the service (we applaud them for that!) instead of taking the free route and trying to figure out how to make money later. You see how that turned out for Posterous...
 
 ### How to import your Posterous sites into Posthaven
 

@@ -18,7 +18,9 @@ tags:
 
 <!-- excerpt -->
 
-![austria.png]({{ site.images_url }}/2013-08-03-austria.png)Question. Which landlocked European nation was home to one of the greatest composers of all time and has borders with no fewer than eight other countries? 
+![austria.png]({{ site.images_url }}/2013-08-03-austria.png)
+
+Question. Which landlocked European nation was home to one of the greatest composers of all time and has borders with no fewer than eight other countries? 
 
 <!-- /excerpt -->
 

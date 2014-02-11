@@ -19,7 +19,9 @@ tags:
 
 ---
 
-![swakl1.jpg]({{ site.images_url }}/2013-05-13-swakl1.jpg)At iwantmyname we've been longtime fans and supporters of Startup Weekends in New Zealand. Last weekend's [Auckland](http://auckland.startupweekend.org/) event was no exception and we were pleased to shout some drinks for thirsty punters who rocked up to the Viaduct Basin on Friday night ready to do battle. Lenz and Paul from the [iwantmyname team](https://iwantmyname.co.nz/about) also took time out to travel north and get involved.
+![swakl1.jpg]({{ site.images_url }}/2013-05-13-swakl1.jpg)
+
+At iwantmyname we've been longtime fans and supporters of Startup Weekends in New Zealand. Last weekend's [Auckland](http://auckland.startupweekend.org/) event was no exception and we were pleased to shout some drinks for thirsty punters who rocked up to the Viaduct Basin on Friday night ready to do battle. Lenz and Paul from the [iwantmyname team](https://iwantmyname.co.nz/about) also took time out to travel north and get involved.
 
 But there's a whole bunch of other sponsor companies on board that help ensure Startup Weekends keep popping up like mushrooms. We'd like to make special mention of Microsoft NZ and [BizSpark](http://www.microsoft.com/bizspark/) who have really got behind the start-up scene in New Zealand lately and are [big supporters](http://auckland.startupweekend.org/2013/05/02/bizspark-auckland-startup-weekend/) of Startup Weekend. Thiago Almeida (pictured) has been leading the charge by connecting with the tech community. 
 
@@ -27,4 +29,4 @@ These days, starter uppers have a diverse range of resources and useful low cost
 
 Well done [Arrive Supplied](http://www.arrivesupplied.com/) who scooped the pool this time around with their bespoke care package service for travellers. Big thanks also to the Auckland Startup Weekend organisers for making it all happen. Need a cool new domain name for your web start-up? Choose from our selection of over 100 [domain name](https://iwantmyname.co.nz/domains) extensions and launch yourself onto the world stage.
 
-* Microsoft NZ are running a special [Startup Day](https://msevents.microsoft.com/cui/EventDetail.aspx?EventID=1032552664&culture=en-NZ) on May 24th.
+Microsoft NZ are running a special [Startup Day](https://msevents.microsoft.com/cui/EventDetail.aspx?EventID=1032552664&culture=en-NZ) on May 24th.

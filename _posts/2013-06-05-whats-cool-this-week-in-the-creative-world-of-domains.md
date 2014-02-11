@@ -21,7 +21,9 @@ tags:
 
 ---
 
-![revival.jpg]({{ site.images_url }}/2013-06-05-revival.jpg)It's always fun flicking through new domains that have been registered and especially any cool creative websites or interesting initiatives online. Naturally we like to share the love around a bit, so here's some great New Zealand sites that came to our attention recently. 
+![revival.jpg]({{ site.images_url }}/2013-06-05-revival.jpg)
+
+It's always fun flicking through new domains that have been registered and especially any cool creative websites or interesting initiatives online. Naturally we like to share the love around a bit, so here's some great New Zealand sites that came to our attention recently. 
 
 First up, Canterbury University started up a great [video competition](http://uc360.co.nz/) called UC360. Contestants are invited to submit a 360 degree panoramic video clip that is funny and reflects student life. UC360 is only open to University of Canterbury students, but the introductory video on the homepage is very clever and worth checking out just for fun.
 

@@ -21,7 +21,9 @@ tags:
 
 ---
 
-![registrator.jpg]({{ site.images_url }}/2013-03-01-registrator.jpg)I suppose it was inevitable that, with German co-founders on board, we'd be mentioned alongside colourful and jovial circus master Mr Dotcom at some point. Leading Austrian tech author and blogger Jakob Steinschaden visited recently and looked into the [New Zealand start-up scene](http://digitalsirocco.tumblr.com/post/44210163962/neuseeland-im-schatten-von-kim-dotcom-gedeiht-eine) in the context of Mega. He uncovered a lively and well established tech start-up community with numerous other global success stories bubbling under the surface.
+![registrator.jpg]({{ site.images_url }}/2013-03-01-registrator.jpg)
+
+I suppose it was inevitable that, with German co-founders on board, we'd be mentioned alongside colourful and jovial circus master Mr Dotcom at some point. Leading Austrian tech author and blogger Jakob Steinschaden visited recently and looked into the [New Zealand start-up scene](http://digitalsirocco.tumblr.com/post/44210163962/neuseeland-im-schatten-von-kim-dotcom-gedeiht-eine) in the context of Mega. He uncovered a lively and well established tech start-up community with numerous other global success stories bubbling under the surface.
 
 That led to some interesting reflections around our office on what it really takes to build a global brand as well as a robust, scalable technology that delivers sustainable value to customers around the world. Performance art based marketing and bright shiny toys are great fun and can probably even get a business noticed, but it only takes you so far. A credible presence cannot be built entirely around a personality cult and very few of our start-ups even have the resources to burn on this approach. New Zealand based internet companies and [app](https://iwantmyname.co.nz/services) builders need to be thinking global from day one and simply go out and create products that customers [love and respect](https://iwantmyname.co.nz/about).
 

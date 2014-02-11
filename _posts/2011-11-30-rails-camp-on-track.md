@@ -19,7 +19,9 @@ tags:
 
 ---
 
-![rails.jpg]({{ site.images_url }}/2011-11-30-rails.jpg)With Ruby going from strength to strength as a web development environment, it's encouraging to see plans for [Rails Camp 2012](https://groups.google.com/forum/#%21forum/railscamp) are already in full swing. The camp is an "unconference" style event that convenes Ruby On Rails hackers for a weekend of talking, coding and drinking.
+![rails.jpg]({{ site.images_url }}/2011-11-30-rails.jpg)
+
+With Ruby going from strength to strength as a web development environment, it's encouraging to see plans for [Rails Camp 2012](https://groups.google.com/forum/#%21forum/railscamp) are already in full swing. The camp is an "unconference" style event that convenes Ruby On Rails hackers for a weekend of talking, coding and drinking.
 
 The 2011 event held in the bush just up the road near Kaitoke was reportedly lots of fun. But next year the New Zealand meetup is heading down south to scenic Mt Cheeseman in the Craigieburn Range, Canterbury. The lodge there normally caters for skiiers, but being February, we doubt that snow will be too much of an issue. Rails Camps are deliberately held in remote locations away from earthly distractions such as TV, phone and Internet. It probably ensures only pure code is created (is there any other kind?) and temporarily eliminates annoyances such as ex-partners, kids and talkback hosts.
 

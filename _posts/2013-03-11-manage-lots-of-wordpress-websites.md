@@ -19,7 +19,9 @@ tags:
 
 ---
 
-![managewp-logo.png]({{ site.images_url }}/2013-03-11-managewp-logo.png)If you're having [WordPress](http://wordpress.org) websites left, right and center, then you're probably suffering from the same headache as most power users. Every time you log in to another site there's something needing to be updated or maintained. It feels like you're endlessly updating WordPress and while it's not a bad thing to have updates, there's a better way to do that. Enter [ManageWP](https://managewp.com/).
+![managewp-logo.png]({{ site.images_url }}/2013-03-11-managewp-logo.png)
+
+If you're having [WordPress](http://wordpress.org) websites left, right and center, then you're probably suffering from the same headache as most power users. Every time you log in to another site there's something needing to be updated or maintained. It feels like you're endlessly updating WordPress and while it's not a bad thing to have updates, there's a better way to do that. Enter [ManageWP](https://managewp.com/).
 
 A real solution to a WordPress administrator's headache &mdash; it allows you to manage as many WordPress websites as one can handle from a single dashboard. You can update all your blogs' plugins in one hit or take backups quick and easily.
 

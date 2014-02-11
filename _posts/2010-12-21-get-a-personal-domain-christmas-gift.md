@@ -9,7 +9,9 @@ categories:
 
 ---
 
-![icon-gift-present.png]({{ site.images_url }}/2010-12-21-icon-gift-present.png)Christmas 2010 is getting close and we all know the rush for the last presents a few days before the gift-giving time. But why should you shop at overcrowded malls when you can buy the best Christmas gifts online? If you [register a personal domain](https://iwantmyname.com) with iWantMyName, you don't even have to be worried about delivery times or shipping costs because all domains are instantly activated - perfect for your last minute Christmas gift!
+![icon-gift-present.png]({{ site.images_url }}/2010-12-21-icon-gift-present.png)
+
+Christmas 2010 is getting close and we all know the rush for the last presents a few days before the gift-giving time. But why should you shop at overcrowded malls when you can buy the best Christmas gifts online? If you [register a personal domain](https://iwantmyname.com) with iWantMyName, you don't even have to be worried about delivery times or shipping costs because all domains are instantly activated - perfect for your last minute Christmas gift!
 
 **Get some personal web address ideas:**
 

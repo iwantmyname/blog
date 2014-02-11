@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![bag.jpg]({{ site.images_url }}/2011-01-05-bag.jpg)Bricks and mortar retailers traditionally slash prices over the New Year holidays. At [iWantMyName](https://iwantmyname.co.nz/) we are going one better and offering some [great sale prices on domains](https://iwantmyname.co.nz/domain-promo-nz) for the entire month of January. What a great way to kick off 2011 on the Web! With over 80 domain extensions on offer and dozens of discounts, you are bound to find the perfect domain for that special New Years website project, online blog or [hosted service](https://iwantmyname.co.nz/services).
+![bag.jpg]({{ site.images_url }}/2011-01-05-bag.jpg)
+
+Bricks and mortar retailers traditionally slash prices over the New Year holidays. At [iWantMyName](https://iwantmyname.co.nz/) we are going one better and offering some [great sale prices on domains](https://iwantmyname.co.nz/domain-promo-nz) for the entire month of January. What a great way to kick off 2011 on the Web! With over 80 domain extensions on offer and dozens of discounts, you are bound to find the perfect domain for that special New Years website project, online blog or [hosted service](https://iwantmyname.co.nz/services).
 
 Remember if you already own a "big three" .COM/.NET/.ORG domain, you can take advantage of our low ball [transfer offer](https://iwantmyname.co.nz/domains/domain-transfer) of only $14.90 including a one year extension to your domain. That gives you free access to your own easy-to-use dashboard, DNS management facility plus simple one-click set-up options to domain customise loads of the coolest hosted services online. And if you need any help, our [support service](https://iwantmyname.co.nz/support) is quick and friendly.
 

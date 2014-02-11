@@ -21,7 +21,9 @@ tags:
 
 ---
 
-![sw65.jpg]({{ site.images_url }}/2011-09-20-sw65.jpg)Startup Weekend is a global initiative that sees entrepreneurial developers, designers and business heads conceptualise, build and launch a tech venture over the space of a single weekend. We've been involved with the New Zealand events from day one with our free domain name offer for participating teams.
+![sw65.jpg]({{ site.images_url }}/2011-09-20-sw65.jpg)
+
+Startup Weekend is a global initiative that sees entrepreneurial developers, designers and business heads conceptualise, build and launch a tech venture over the space of a single weekend. We've been involved with the New Zealand events from day one with our free domain name offer for participating teams.
 
 We recently also supported teams at Startup Weekend Mega, based in Silicon Valley. "Creativity occurs when ideas have sex", says Tony Young Lyu whose company AdGame was [born at SW Mega](http://venturebeat.com/2011/09/14/adgame-goes-from-zero-to-startup-hero-in-one-week/) and went on to be showcased at Demo Conference later that same week. Startup Weekend offers a supported environment for emerging tech entrepreneurs to network, build teams and meet amazing mentors, advisors and sometimes even investors.
 

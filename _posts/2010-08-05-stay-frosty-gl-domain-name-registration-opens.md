@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![pb60.jpg]({{ site.images_url }}/2010-08-05-pb60.jpg)[.GL Domains](https://iwantmyname.co.nz/domains/gl-greenlandic-domain-name-registration-for-greenland) (from Greenland) are the latest "cool" addition to the ever growing [list of TLDs](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) (Top-Level Domains) available for registration at iWantMyName. 
+![pb60.jpg]({{ site.images_url }}/2010-08-05-pb60.jpg)
+
+[.GL Domains](https://iwantmyname.co.nz/domains/gl-greenlandic-domain-name-registration-for-greenland) (from Greenland) are the latest "cool" addition to the ever growing [list of TLDs](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) (Top-Level Domains) available for registration at iWantMyName. 
 
 As there are no restrictions or special requirements, anyone worldwide is permitted to register the .GL country domain. Internationally, the domain name goo.gl is probably the most famous .GL address on the web. Google is now using this domain as a handy [URL shortener](https://iwantmyname.co.nz/services/url-shortener) for some of their services.
 

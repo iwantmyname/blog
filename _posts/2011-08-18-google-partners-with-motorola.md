@@ -21,7 +21,9 @@ tags:
 
 ---
 
-![gplusm.png]({{ site.images_url }}/2011-08-18-gplusm.png)Remember [C.H.iPs](http://en.wikipedia.org/wiki/CHiPs), the popular 1970s cop show? Lead characters Jon and Ponch had Motorola radios prominently displayed on their police motorbikes. Now Motorola makes a different kind of chip and has just sold it's mobile division to cash rich Google in a US $12.5 billion mega deal that pulls no punches about where the online behemoth is heading.
+![gplusm.png]({{ site.images_url }}/2011-08-18-gplusm.png)
+
+Remember [C.H.iPs](http://en.wikipedia.org/wiki/CHiPs), the popular 1970s cop show? Lead characters Jon and Ponch had Motorola radios prominently displayed on their police motorbikes. Now Motorola makes a different kind of chip and has just sold it's mobile division to cash rich Google in a US $12.5 billion mega deal that pulls no punches about where the online behemoth is heading.
 
 The controversial deal has raised eyebrows amongst some analysts who fear that Google will alienate other hardware manufacturers just as sales growth of its Android based platforms has taken off. On the other hand, the deal allows Google to have far greater control over its mobile product supply chain; meaning it can compete with Apple more effectively.
 

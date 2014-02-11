@@ -21,7 +21,9 @@ tags:
 
 ---
 
-![austria.png]({{ site.images_url }}/2010-09-07-austria.png)This month we launched a [promotion for the .AT domain](https://iwantmyname.co.nz/domains/at-austrian-domain-name-registration-for-austria). For only $19 you can score a nifty domain that can offer many permutations for word play and domain hacks, especially in English. The .AT domain of Austria also has some quirky facts behind it.
+![austria]({{ site.images_url }}/2010-09-07-austria.png)
+
+This month we launched a [promotion for the .AT domain](https://iwantmyname.co.nz/domains/at-austrian-domain-name-registration-for-austria). For only $19 you can score a nifty domain that can offer many permutations for word play and domain hacks, especially in English. The .AT domain of Austria also has some quirky facts behind it.
 
 A gre.at example of how to use this domain can be found .at [LetsEat](http://www.letseat.at/). The site offers a website builder service specifically targeted .at restaurant owners. Once they sign up for the free service, users end up with a web address that looks like this: http://letseat.at/restaurantname. Incidentally there are many excellent free online services such as this available to help small businesses. In fact with iWantMyName [Domains for Apps](https://iwantmyname.co.nz/services) we make it easy to domain customise a whole bunch of useful services.
 
