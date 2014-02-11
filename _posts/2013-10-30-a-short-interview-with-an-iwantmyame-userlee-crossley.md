@@ -9,7 +9,7 @@ categories:
 
 ---
 
-![Lee Crossley Big]({{ site.images_url }}/2013-10-30-A6clKGTCQAA75He.jpg-large.jpeg)
+![Lee Crossley Big]({{ site.images_url }}/2013-10-30-A6clKGTCQAA75He.jpg-large.jpg)
 
 <!-- excerpt -->
 

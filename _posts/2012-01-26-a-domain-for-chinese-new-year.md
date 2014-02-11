@@ -13,7 +13,9 @@ tags:
 
 ---
 
-![dragon.jpeg]({{ site.images_url }}/2012-01-26-dragon.jpeg)This week sees the start of the Chinese or Lunar New Year with 2012 being a "most auspicious" year of the dragon. There's no denying that China remains an economic juggernaut and despite the uncertain global economic outlook, growth is expected to exceed 8% this year. So what is the best way for companies trading there to build a secure web profile?
+![dragon]({{ site.images_url }}/2012-01-26-dragon.jpg)
+
+This week sees the start of the Chinese or Lunar New Year with 2012 being a "most auspicious" year of the dragon. There's no denying that China remains an economic juggernaut and despite the uncertain global economic outlook, growth is expected to exceed 8% this year. So what is the best way for companies trading there to build a secure web profile?
 
 There are two considerations for businesses wishing to set up a web presence in China or other Chinese speaking markets. Firstly, what are safe domains to use? The .cn domain is a well established domain with over 3 million (mostly domestic) users, but which is under the strict control of the government Information Ministry. We have chosen not to offer the .cn domain at this time. 
 

@@ -20,7 +20,9 @@ tags:
 
 ---
 
-![yep.jpeg]({{ site.images_url }}/2011-10-04-yep.jpeg)This month's featured website is [Codecraft](http://codecraft.org.nz/), a group that has become a focus point for happenings in the software innovation scene around Dunedin. Codecraft is part of an active information technology [community](http://codecraft.org.nz/?q=node/8) in the region and is based at Otago University's [Centre for Innovation](http://www.otago.ac.nz/centreforinnovation/).
+![yep]({{ site.images_url }}/2011-10-04-yep.jpg)
+
+This month's featured website is [Codecraft](http://codecraft.org.nz/), a group that has become a focus point for happenings in the software innovation scene around Dunedin. Codecraft is part of an active information technology [community](http://codecraft.org.nz/?q=node/8) in the region and is based at Otago University's [Centre for Innovation](http://www.otago.ac.nz/centreforinnovation/).
 
 The group promotes "software craftmanship" as an underlying philosophy, invoking a sense of community and professionalism amongst members in their efforts to develop well crafted software. To support this approach Codecraft offers regular technical seminars for [developers](https://iwantmyname.co.nz/services/developer/), the details of which are posted on the website. Codecraft also encourages mentor-student relationships and works with other groups in the local software industry.
 
