@@ -431,7 +431,9 @@ p.read-more {
   margin: 60px 0 30px;
 }
 .iwmn-article p:not([class]) > img,
-.iwmn-articles p:not([class]) > img {
+.iwmn-articles p:not([class]) > img,
+.iwmn-article p:not([class]) > a > img,
+.iwmn-articles p:not([class]) > a > img {
   padding: 4px;
   line-height: 1.42857143;
   background-color: #ffffff;
