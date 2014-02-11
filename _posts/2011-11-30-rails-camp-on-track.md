@@ -28,4 +28,3 @@ The 2011 event held in the bush just up the road near Kaitoke was reportedly lot
 Wonderful to see [Heroku](http://www.heroku.com/) getting involved and local heroes [Trineo](http://trineo.co.nz/) also backing the event. We think these are both exciting companies worth watching. Heroku provides everything you need to securely deploy and scale applications and it has been pretty cool to see a steady stream of Rails developers [domain customising Heroku](https://iwantmyname.co.nz/services/developer/heroku-cloud-hosting-custom-domain) set-ups with us. For those coming from far afield, Rails Camp also dovetails nicely with [Webstock](http://www.webstock.org.nz/), the primo web design and development event for all the gifted and beautiful people, hosted right here in Wellington each year. Enjoy!
 
 Image courtesy of Carla Appel at the South Pole. Check out her [amazing blog](http://carlaappel.blogspot.com/).
-

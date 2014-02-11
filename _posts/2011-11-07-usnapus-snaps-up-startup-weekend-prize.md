@@ -26,4 +26,3 @@ We had a huge amount of fun during Wellington Startup Weekend and were greatly p
 It was especially gratifying to have been able to supply a cute domain hack for the [uSnap.Us](http://usnap.us/) team who eventually won the event. uSnap.Us offers a clever photo aggregation service allowing wedding guests to upload digital images to a predetermined online location. The initial "focus" will be wedding parties, but the company has plans to offer the service for other kinds of events as well.
 
 The uSnap.Us team included a number of identities from the Wellington [developer](https://iwantmyname.co.nz/services/developer/) community including Owen Evans (chief architect at Xero) and Jacob Creech (co-founder [IntuitionHQ](https://iwantmyname.co.nz/blog/2011/08/intuitionhq-gets-landing-pad-boost.html)). The Startup Weekend judging panel featured an impressive lineup including founding editor of tech blog [Read Write Web](http://www.readwriteweb.com/), Richard MacManus.
-

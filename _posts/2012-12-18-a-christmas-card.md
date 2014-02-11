@@ -44,5 +44,3 @@ customers however. Apart from your domain business, we truly appreciated
 experiences.
 
 **Best wishes for a safe and happy Christmas from the [iwantmyname team](https://iwantmyname.co.nz/about).**
-
-

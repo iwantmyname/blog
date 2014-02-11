@@ -29,5 +29,4 @@ If you love Google services then the [Auckland Google Technology User Group](fo:
 
 It's also great to see [Bizdojo](http://bizdojo.com/) supporting tech user groups in the community by offering a free venue for meetups. The newly formed [Data Without Borders](fo: http://www.meetup.com/Data-Without-Borders-NZ/events/66909372/) group will convene at Bizdojo's Wellington co-working space at the end of the month with the help of [our CTO](https://iwantmyname.co.nz/about). This event will interest data scientists, [software developers](https://iwantmyname.co.nz/services/developer/) and global thinkers. Last, but certainly not least, look out for the [Gather Barcamp](http://gathergather.co.nz/) with an overflowing stack of local notables and a web and creative agenda made by you. Art, design, engineering and science, it's a fantasmic lucky dip.
 
-Did we miss anything? If so, you will probably find it in the New Zealand [Startup Digest](http://startupdigest.com/), a weekly compilation of all the coolest start-up, technology and innovation events. 
-
+Did we miss anything? If so, you will probably find it in the New Zealand [Startup Digest](http://startupdigest.com/), a weekly compilation of all the coolest start-up, technology and innovation events.

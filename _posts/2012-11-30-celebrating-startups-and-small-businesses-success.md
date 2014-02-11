@@ -21,6 +21,4 @@ We've got over 100 thirsty guests attending Startup Party at Wellington co-worki
 
 With [The Hobbit](https://iwantmyname.com/blog/2012/11/in-the-domain-of-middle-earth.html) generating a huge amount of buzz around our film, games and animation sector, plus loads of small tech companies going global from the capital, there's a fantastic start-up, technology and innovation scene that is bubbling up with success right now. We are so confident about the future, that we are even [employing more staff](https://iwantmyname.co.nz/jobs/front-end-developer-wellington) at iwantmyname. That's why we will be celebrating at Startup Party. There will also be more information about [Wellington Startup Weekend 2013](http://wellington.startupweekend.org/) plus some games and entertainment for laughs.
 
-We're looking forward to shouting some start-up brews and catching up with loads of people before Christmas madness sets in. In the meantime, why not check out all the handy domain customisable [hosted services for small business](https://iwantmyname.co.nz/services/business/) we recommend in our app marketplace. 
- 
-
+We're looking forward to shouting some start-up brews and catching up with loads of people before Christmas madness sets in. In the meantime, why not check out all the handy domain customisable [hosted services for small business](https://iwantmyname.co.nz/services/business/) we recommend in our app marketplace.

@@ -29,4 +29,4 @@ It's an outing we repeat on a yearly basis and it's something we unashamedly pro
 
 Perl, Erlang, Coffee Script, Lua, CouchDB, RabbitMQ, Redis, Kyoto Tycoon, Puppet, Vagrant are part of our super stack that keep us humming, so you'll need to know about at least some of these or be keen to learn. We also love open source, tech start-ups and amazing design, so if you're strongly community minded and already have some interesting projects in your CV, that gets you extra bonus points.
 
-You could be part of one of the coolest little global tech companies emerging out of New Zealand at present. To get in touch and find out more, fire up a console and do a dig lookup on TXT jobs.iwantmyname.com 
+You could be part of one of the coolest little global tech companies emerging out of New Zealand at present. To get in touch and find out more, fire up a console and do a dig lookup on TXT jobs.iwantmyname.com

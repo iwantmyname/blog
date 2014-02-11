@@ -31,4 +31,4 @@ We also strongly support .ASIA . This is a relatively new domain, so there are s
 
 Chinese character .ORG domains and most other Chinese character domains can be discovered and registered through our standard [domain search](https://iwantmyname.co.nz/) which is already fully IDN enabled.
 
-Here is [an example of a search](https://iwantmyname.co.nz/search?domain=%E7%89%9B+%E5%90%89) for a Chinese character domain. 
+Here is [an example of a search](https://iwantmyname.co.nz/search?domain=%E7%89%9B+%E5%90%89) for a Chinese character domain.

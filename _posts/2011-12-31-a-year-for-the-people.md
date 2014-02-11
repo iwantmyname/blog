@@ -34,5 +34,3 @@ Despite some commentators questioning whether or not a protest would be meaningf
 Of course there were far more dramatic cases of Internet activism in 2011, with corrupt regimes dropping like dead flies as social media fueled protest drew thousands of disaffected citizens onto the streets. 2012 will no doubt continue to illustrate why we need a free and open Internet unfettered by governments and corporations.
 
 **Happy New Year and Best Wishes for 2012**
- 
-

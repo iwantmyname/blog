@@ -22,4 +22,3 @@ Artists, developers and other creatives certainly have a right to be fairly remu
 A lot of good people are voting with their feet now and saying hey we don't want to support big companies that are against Internet freedom. It's hard to believe that any company would undermine the very industry that it purports to enable - but it seems to be the case. So if you have strong views on this topic and you are thinking of [transferring your domain](https://iwantmyname.com/domains/domain-transfer) portfolio to a company that respects Internet freedom and opposes censorship, [we'd love to hear from you](https://iwantmyname.com/support).
 
 Update: In case you need a hand making a domain transfer, we've set up a free [domain concierge](https://iwantmyname.com/transferservice) service to alleviate any hassles.
-

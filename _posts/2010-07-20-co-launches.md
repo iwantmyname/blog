@@ -50,5 +50,4 @@ ending with 'co'](http://www.morewords.com/ends-with/co/)
 
 As you can see, many opportunities are still out
  there, so don't wait too long (the best ones are going fast) and [
-register your own .CO domain](https://iwantmyname.co.nz/domains/co-colombian-domain-name-registration-for-colombia) 
-
+register your own .CO domain](https://iwantmyname.co.nz/domains/co-colombian-domain-name-registration-for-colombia)

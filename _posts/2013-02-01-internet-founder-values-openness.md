@@ -28,4 +28,3 @@ The physicist and computer scientist has a particular interest in the applicatio
 It's fair to say Berners-Lee was largely preaching to the converted, the gathering was literally a "who's who" of almost anyone influential involved in the web technology industry in the Capital. Thanks heaps to [InternetNZ](https://internetnz.net.nz/) for helping coordinate Sir Tim's visit to New Zealand and for providing a live feed so others could participate. We understand a [recording](http://new.livestream.com/i-filmscience/tbl-internetnz) of the talk will be made available shortly.
 
 iwantmyname is a New Zealand based global [domain name registrar](https://iwantmyname.co.nz/) that values and promotes a free and open internet for all users.
-

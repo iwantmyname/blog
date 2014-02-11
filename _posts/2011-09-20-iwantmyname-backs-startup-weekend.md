@@ -34,4 +34,3 @@ Because we know how challenging it is to cut through the noise, build and launch
 [Wellington](http://wellington.startupweekend.org/) Startup Weekend - 4-6 November
 
 We are offering a free one year registration of a .COM, .NET, .ORG or .ME domain name for each of the teams that goes beyond the Friday evening selection rounds. Event organisers will supply a code word so team members can [contact us](https://iwantmyname.co.nz/support) to claim their domain during the weekend.
-

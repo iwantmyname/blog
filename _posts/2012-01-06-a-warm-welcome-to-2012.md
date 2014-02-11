@@ -22,4 +22,3 @@ After a busy New Year period, iWantMyName welcomes all new customers and recent 
 As a relatively new player in the market (3 years now!) we were thrilled to see lots of enthusiastic [testimonials](https://iwantmyname.com/about) flying around the Interwebs, with our existing customers heartily recommending iWantMyName to their friends. We even got a mention in [Mashable's article](http://mashable.com/2011/12/29/how-to-move-your-domain-name-account/) detailing how to move your domains - a nice acknowledgement. So, thanks everyone for your continued support. 
 
 This year we've got big plans with new additions to our [app marketplace](https://iwantmyname.com/services), improvements to [domain search](https://iwantmyname.com/blog/2011/12/new-faster-domain-search.html) functionality and some feature redesigns as we look towards the introduction of new generic top level domains. Onwards and upwards into 2012!
-

@@ -24,4 +24,3 @@ First off all, a happy new year 2011 to all of you, wherever you are. Let's cele
 10.  [**.TV**](https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu)** - 29.00** (Buy a .TV domain for all video-related content)
 11.  [**.UK**](https://iwantmyname.com/domains/co.uk-domain-name-registration-for-united-kingdom)** - 9.90** (The British domain extensions [.CO.UK](https://iwantmyname.com/domains/co.uk-domain-name-registration-for-united-kingdom), [.ME.UK](https://iwantmyname.com/domains/me.uk-domain-name-registration-for-united-kingdom) & [.ORG.UK](https://iwantmyname.com/domains/org.uk-domain-name-registration-for-united-kingdom))
 All the best for 2011 and happy [domain bargain hunting](https://iwantmyname.com).
-

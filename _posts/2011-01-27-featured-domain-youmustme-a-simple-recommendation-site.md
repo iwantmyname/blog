@@ -22,4 +22,4 @@ Here's how youMust.me works:
 
    ![youmust1.png]({{ site.images_url }}/2011-01-27-youmust1.png)
 
-Congrats to Zack for launching his site! Want to have your domain featured on our blog? Send me an email to [timo@iwantmyname.com](mailto:timo@iwantmyname.com). 
+Congrats to Zack for launching his site! Want to have your domain featured on our blog? Send me an email to [timo@iwantmyname.com](mailto:timo@iwantmyname.com).

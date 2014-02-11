@@ -29,4 +29,3 @@ The saga around China domain names continues with this week's rumour that every 
 *   .ASIA registrations help fund community work in the Asian region such as [Relief.asia](http://relief.asia), [ISIF.asia](http://isif.asia) (R&D Grants Fund), [CreativeCommons.asia](http://creativecommons.asia), [OLPC.asia](http://olpc.asia) (One-Laptop-Per-Child initiative in Asia).
 
 In addition to our special offer for .CN.COM domains, we will also run a [promotion for the .ASIA extension](https://iwantmyname.com/domain-promos). All new registrations will only be $14.90 USD from March 1st, 2010. Go and [get your .ASIA domain now](https://iwantmyname.com)!
-

@@ -31,5 +31,3 @@ experiences.
 Best wishes for a safe and happy holiday season from the [iwantmyname team](https://iwantmyname.com/about)!
 
 P.S. Stumped for gift ideas? Avoid shopping mall madness this season and [register a gift domain name](https://iwantmyname.com/personal-domain-gift) for friends and family.
-
-

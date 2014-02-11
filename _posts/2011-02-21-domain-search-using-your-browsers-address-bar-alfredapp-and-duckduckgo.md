@@ -58,4 +58,3 @@ Now define a keyword and you can immediately search from the AlfredApp window.
 If you have any other suggestions, tips or tricks we'd love to hear them in the comments.
 
 P.S. Also, don't forget the [iWantMyName DomainApp for iPhone](https://iwantmyname.com/iphone) for domain checks and registration on the go.
-

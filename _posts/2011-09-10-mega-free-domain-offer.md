@@ -35,4 +35,3 @@ tags:
 7. SW Mega organisers will give you the code on Saturday.
 
 Need to contact us for support or advice? We hang out on the [iWantMyName Twitter](https://twitter.com/#%21/iWantMyName) channel a lot or you can use our [support email](https://iwantmyname.com/support). We also plan to be live online during Saturday and Sunday afternoons from 2pm Pacific Daylight Time.
-

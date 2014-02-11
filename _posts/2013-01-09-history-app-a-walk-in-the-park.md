@@ -27,5 +27,4 @@ Lyn began with three tours that illustrate the fascinating history around Hawkes
 
 Napier is sometimes called the "art deco capital of the world" because the town was entirely rebuilt in this unique style after the devastating earthquake of 1931. There is a hugely popular [annual art deco celebration](http://www.artdeconapier.com/pages/geon-art-deco-weekend) in the town which will be held on the weekend of February 14-17 this year. 
 
-Got a small business or product offering that you'd like to promote online? You can now create your own simple site using one of these popular and economical [website builders](https://iwantmyname.co.nz/services/website-builder/). Search for a [domain name](https://iwantmyname.co.nz/domains), then use our easy one-click DNS setup service to domain customise your new site.  
-
+Got a small business or product offering that you'd like to promote online? You can now create your own simple site using one of these popular and economical [website builders](https://iwantmyname.co.nz/services/website-builder/). Search for a [domain name](https://iwantmyname.co.nz/domains), then use our easy one-click DNS setup service to domain customise your new site.

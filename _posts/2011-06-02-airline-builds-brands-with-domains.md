@@ -28,4 +28,3 @@ Although .COM remains the most popular domain extension and offers the fastest w
 Then Virgin decided to launch subsidiary [Pacific Blue](http://flypacificblue.com/) to offer services around New Zealand and the Pacific Islands. Unfortunately at that time Pacific Blue also happened to be the name of a well known American television soap opera. But by adding the word "fly" to their domain, Virgin created a unique web branding tool that didn't conflict. Another technique used by the airline's marketers involves securing related domains and making sure they also point to the Pacific Blue site, for example www.pacificblueairlines.com. Now the airline group  is in the process of re-branding once again as Virgin Australia. That will no doubt keep their marketers, web developers and domain registrar very busy.
 
 The point is that you can still secure a great domain for your business brand, with a little extra creativity.
-

@@ -37,5 +37,4 @@ have sitting with multiple registrar providers.
  domain you would like to manage via your iWantMyName dashboard. Then 
 apply the desired DNS or URL forwarding settings and switch the 
 nameservers to ns1/2/3/4.iwantmyname.net over at your current registrar. Get centralised [Hosted DNS](https://iwantmyname.co.nz/dns) for your 
-domains with iWantMyName now. 
-
+domains with iWantMyName now.

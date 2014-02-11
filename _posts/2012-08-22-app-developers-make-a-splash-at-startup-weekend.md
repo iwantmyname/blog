@@ -27,5 +27,4 @@ The next New Zealand Startup Weekend has rolled around and we hear that the [Pal
 
 Naturally we are right behind Palmy Startup Weekend, in the same way we backed every other event since [Startup Weekend first arrived](http://unlimited.co.nz/unlimited.nsf/leadership/the-2012-influencers-the-hustler) here. We're co-sponsoring drinks at the launch party and providing a free .COM, NET, .ORG or .NZ [domain name](https://iwantmyname.co.nz/domains) for each team that goes forward from Friday evening. We are also co-sponsoring a juicy $1000 [Mix&Mash prize](http://www.mixandmash.org.nz/competitions) for the best open data app. So get thinking about what kind of apps you can build that transform and add value to government data in some way. 
 
-Find out more about [building and domain customising a splash page](https://iwantmyname.co.nz/services/website-builder/) or a posting simple business brochure website.  
-
+Find out more about [building and domain customising a splash page](https://iwantmyname.co.nz/services/website-builder/) or a posting simple business brochure website.

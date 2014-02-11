@@ -32,5 +32,4 @@ But now that we've all returned to planet Earth, I want to thank the talented te
 
 Every event has it's own flavour. Tourism and recreation figured prominently in the discussions at Tauranga. [Standby](http://tauranga.startupweekend.org/2012/09/19/in-the-media-bay-of-plenty-times-article-about-the-winning-startup-at-tauranga-startup-weekend-2012/) was the (rightful) winning team on the night with an idea that may actually save lives on the water. [MessageTap](http://messagetap.me/), appropriately, got the award for "most studious" team. But, if just one person goes on to start a future business or share an idea or kick off a social venture having been inspired by this weekend, then we have all succeeded. New Zealand needs this!
 
-Watch this space for more Startup Weekends coming very soon and check out our [apps marketplace](https://iwantmyname.co.nz/services) for the coolest domain customisable hosted services that get your start-up business up and running faster. 
-
+Watch this space for more Startup Weekends coming very soon and check out our [apps marketplace](https://iwantmyname.co.nz/services) for the coolest domain customisable hosted services that get your start-up business up and running faster.

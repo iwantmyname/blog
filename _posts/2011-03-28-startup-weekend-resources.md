@@ -41,4 +41,3 @@ Here's a bunch of article links that we thought might be useful for the entrepre
 10. [If I launched A Startup](http://startuplawyer.com/startup-issues/if-i-launched-a-startup) - Startup Lawyer
 
 But for all the wisdom and buzz encapsulated by great blog articles and cool events for entrepreneurs, there's nothing like just getting out there and doing it! Build and test your product in an iterative way and keep an open mind. Good luck.
-

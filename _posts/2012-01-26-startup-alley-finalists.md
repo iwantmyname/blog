@@ -24,4 +24,3 @@ tags:
 Last week's [announcement](http://www.webstock.org.nz/blog/2012/the-bnz-start-up-alley-finalists/) of the six tech company finalists underlined what we already suspected. Pretty much all the coolest [emerging tech companies](https://iwantmyname.co.nz/blog/2011/11/usnapus-snaps-up-startup-weekend-prize.html) around are switching on to iWantMyName for easy and secure domain and [DNS management](https://iwantmyname.co.nz/blog/2011/08/simplify-your-domain-dns-management.html) services. That's a testament to our own [commitment](https://iwantmyname.co.nz/blog/2011/10/being-good-neighbours.html) to supporting the web start-up community in New Zealand and an acknowledgement that we are delivering a refreshing service offering.
 
 Congratulations to the finalists, best of luck for the Startup Alley pitching session at Webstock and we look forward to seeing you there!
-

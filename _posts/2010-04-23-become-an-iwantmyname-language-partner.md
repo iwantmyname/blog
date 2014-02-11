@@ -22,4 +22,3 @@ With ICANN moving steadily towards full implementation of Internationalized Doma
 We think that users all around the world will continue to demand a better experience when it comes to domain registration and management and we believe that iWantMyName provides a unique, easy-to-use package that helps domain registrars and resellers to grow market share. In particular our innovative [web app domain customization service](https://iwantmyname.com/services) gives registrars a competitive advantage. Therefore we are now inviting expressions of interest from companies interested in deploying a customized version of iWantMyName in a foreign language market to meet the needs of their customers.
 
 If you would like to discuss a partnership opportunity further, please contact [timo@ideegeo.com](mailto:timo@ideegeo.com).
-

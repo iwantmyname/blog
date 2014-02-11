@@ -81,4 +81,3 @@ This week, we have confirmation of both .BARGAINS and .LUXURY, announced launch 
 + [.みんな](https://iwantmyname.com/domains/dot-みんな) - Available February 21, 2014 for $19
 
 *Note: All prices in $US unless noted otherwise.*
-

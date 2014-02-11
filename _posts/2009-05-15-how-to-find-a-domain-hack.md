@@ -53,6 +53,3 @@ We'd say pretty much all except the ones you can't register because the country'
 iWantMyName is currently running a promotion for some of the more popular domain hack extensions. The ["brandtastic" country codes](https://iwantmyname.com/blog/2009/05/special-price-offer-brandable-domain-extensions.htm) .IN (India), .AT (Austria), .BE (Belgium) & .IM (Isle Of Man) are available for $US 14.90 only! See our [domain list](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) for more details.
 
 The possibilities are endless and creativity is your only limit. One last tip... Make sure you have fun with the [search for your domain hack](https://iwantmyname.com/).
-
-
-

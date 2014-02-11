@@ -20,4 +20,3 @@ Our domain management service in a nutshell:
 *   We've got a strict [no-boobs](http://gomilfy.com), no-stockphoto policy for our website.
 
 **Now try to beat that with any other domain registrar.**
-

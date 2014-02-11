@@ -48,6 +48,3 @@ I realised several things very quickly:
 5) I needed collaborators. Technical collaborators...more about this next time.
 
 **Oliver Townend is a builder, a writer and a post-graduate student in the Master of Technology Enterprise programme at Victoria University of Wellington.**
-
-
-

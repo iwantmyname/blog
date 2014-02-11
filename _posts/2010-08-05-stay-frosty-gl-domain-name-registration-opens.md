@@ -27,5 +27,3 @@ tags:
 As there are no restrictions or special requirements, anyone worldwide is permitted to register the .GL country domain. Internationally, the domain name goo.gl is probably the most famous .GL address on the web. Google is now using this domain as a handy [URL shortener](https://iwantmyname.co.nz/services/url-shortener) for some of their services.
 
 The internet extension of Greenland can be registered for $149.00 NZD. [Secure your .GL domain now!](https://iwantmyname.co.nz/domains/gl-greenlandic-domain-name-registration-for-greenland)
-
-

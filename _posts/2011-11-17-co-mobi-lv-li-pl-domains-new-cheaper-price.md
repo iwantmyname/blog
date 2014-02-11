@@ -26,5 +26,3 @@ Also, we now offer a [10% discount on .CO domain transfers](https://iwantmyname.
 *   [.LI domains](https://iwantmyname.com/domains/li-liechtensteiner-domain-name-registration-for-liechtenstein): $49 =&gt; $35
 *   [.PL domains](https://iwantmyname.com/domains/pl-polish-domain-name-registration-for-poland): $39 =&gt; $35
 Making quality domain name management [simple](https://iwantmyname.com) and [affordable](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions). That's our mission at [iWantMyName](https://iwantmyname.com)!
-
-

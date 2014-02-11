@@ -29,4 +29,3 @@ Chinese character .ORG domains can be registered through our standard [domain se
 ### 中文国际域名 (IDNs) .ORG 很快开放###
 
 中国当局最近更改了.CN 域名注册规则。由于这些变更我们不得不暂时将 .CN 域名从我们的网站上移除。但是，如果阁下希望确保您在中国的在线身份，我们建议阁下用中文汉字注册 [.COM](https://iwantmyname.com/domains/com-domain-name-registration-for-commercial) / [.NET](https://iwantmyname.com/domains/net-domain-name-registration-for-network) 域名。同时 [.ORG](https://iwantmyname.com/domains/org-domain-name-registration-for-organisation) 域名也将作为国际域名 (IDN) 很快开放。敦请阁下注意，中文 IDNs 的 .ORG 域名自注册之日起30天内会受到限制。期间您将无法删除，传输或者上传。中文汉字域名 .ORG 可以通过我们的带有完整 IDN 功能的标准域名搜索来注册。例如 阳光.org
-

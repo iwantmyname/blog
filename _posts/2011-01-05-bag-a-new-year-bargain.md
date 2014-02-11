@@ -31,4 +31,3 @@ Popular [.ME domains](https://iwantmyname.co.nz/domains/me-montenegrean-domain-n
 Here's the [complete list of domain offers](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) at iWantMyName. Hope you can join us in 2011.
 
 Image courtesy of [Simply Jute](http://www.simplyjute.co.nz/) - make 2011 the year you switch to a fashionable, eco-friendly shopping bag.
-

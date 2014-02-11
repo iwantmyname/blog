@@ -23,5 +23,4 @@ In the past, it was easy to feel trapped with a limited selection of domain exte
 
 ### Tip 3: Make sure you're prepared
 
-If everything works out right and you get your domain, you're going to need accurate account details. Please note that if you get a new card or something changes, change it in your iwantmyname account ASAP. Inaccurate details can prevent you from getting your domain. 
-
+If everything works out right and you get your domain, you're going to need accurate account details. Please note that if you get a new card or something changes, change it in your iwantmyname account ASAP. Inaccurate details can prevent you from getting your domain.

@@ -30,5 +30,4 @@ We've heavily discounted domain transfer charges for some of the most popular to
 *   $15 **[**.INFO**](https://iwantmyname.co.nz/domains/info-domain-registrar-transfer-information)** / [**.NAME**](https://iwantmyname.co.nz/domains/name-domain-registrar-transfer-names)
 *   $29 [**.ME**](https://iwantmyname.co.nz/domains/me-domain-registrar-transfer-montenegro)
 Domains such as [.IO](https://iwantmyname.co.nz/domains/io-domain-registrar-transfer-british-indian-ocean-territory), [.CO.UK](https://iwantmyname.co.nz/domains/co.uk-domain-registrar-transfer-united-kingdom) or [.CO.NZ](https://iwantmyname.co.nz/domains/co.nz-domain-registrar-transfer-new-zealand) can still be transferred completely **free of charge** of course!
-P.S. If you need any assistance at all with your transfers, [please get in touch](https://iwantmyname.co.nz/support) or check out the following GOOD tutorial on [how to transfer your domain name from GoDaddy to iWantMyName](http://www.good.is/post/how-to-leave-godaddy-com/page:2). 
-
+P.S. If you need any assistance at all with your transfers, [please get in touch](https://iwantmyname.co.nz/support) or check out the following GOOD tutorial on [how to transfer your domain name from GoDaddy to iWantMyName](http://www.good.is/post/how-to-leave-godaddy-com/page:2).

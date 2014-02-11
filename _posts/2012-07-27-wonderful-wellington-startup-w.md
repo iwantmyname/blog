@@ -29,4 +29,3 @@ We've been involved with Startup Weekend in New Zealand since the very first eve
 Look out for the big new [iwantmyname](https://iwantmyname.co.nz/) banner at Startup Weekends throughout New Zealand to claim a free [domain name](https://iwantmyname.co.nz/domains) for your team. Don't forget, we also make it one-click easy to set up a wide range of handy [developer services](https://iwantmyname.co.nz/services/developer/) and apps on your domain.
 
 Startup Weekend is bringing 54 hours of start-up goodness to a town near you very soon. The Wellington event is full, but we are also [supporting Palmerston North Startup Weekend](http://palmynorth.startupweekend.org/2012/07/13/iwantmyname-partners-with-startup-weekend-palmerston-north/) which kicks off on 24th August.
-

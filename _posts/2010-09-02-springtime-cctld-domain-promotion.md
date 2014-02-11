@@ -34,4 +34,3 @@ To celebrate the change of season we've got a whole bunch of country code top le
 Check if your desired name is still available with our domain search.
 
 P.S. Want a chance to win a [free .ME domain](https://iwantmyname.co.nz/blog/2010/08/me-domain-promotion-launches.html)? We have extended our .ME shout-out promotion.
-

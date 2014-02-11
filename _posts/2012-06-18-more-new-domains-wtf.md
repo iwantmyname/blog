@@ -20,4 +20,3 @@ Digital domains for tech geeks are .COOL this year. If you are a .DEV .NINJA, we
 Of course, it remains to be seen whether any of these proposed TLDs actually make the final cut. Some will likely .FAIL, but it's been fun imagining .LOL :)
  
 Image Credit: [quickmeme.com](http://www.quickmeme.com/meme/35id6e/)
-

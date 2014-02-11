@@ -33,4 +33,3 @@ Immediately **register the domain** if it's available:
  ![twitter-domain-search-free.png]({{ site.images_url }}/2009-05-19-twitter-domain-search-free.png)
 
 So **whenever you think "I want my name"** just open the Twitter client of your choice and off you go!
-

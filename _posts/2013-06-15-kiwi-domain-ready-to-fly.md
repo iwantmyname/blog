@@ -26,4 +26,4 @@ Offshore based New Zealander and Dot Kiwi CEO Tim Johnson expects the new extens
 
 The sunrise period for the .kiwi domain could begin as early as September, meaning that businesses and individuals with protected brands will be eligible to reserve domains in accordance with ICANN procedure. Public registrations should be on offer a little later in the year. Of course it makes sense to register your .kiwi domain with iwantmyname New Zealand's [coolest global domain registrar](https://iwantmyname.co.nz/). 
 
-You can [express interest in registering your .kiwi domain name here](https://iwantmyname.co.nz/dotkiwi) and we will keep you informed directly as the domain rolls out. 
+You can [express interest in registering your .kiwi domain name here](https://iwantmyname.co.nz/dotkiwi) and we will keep you informed directly as the domain rolls out.

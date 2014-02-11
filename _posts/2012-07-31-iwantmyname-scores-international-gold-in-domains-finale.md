@@ -24,4 +24,3 @@ Meanwhile, U.K. sports fans (and royal watchers) have been charting hopefully th
 Why not [search for a domain](https://iwantmyname.com/?domain=zaraphillips&hideUnavailable=false) based on your favorite athlete and go global with an informative domain customized sports [blog](https://iwantmyname.com/services/blog-hosting/)?
 
 Image credit: [The Random Shop](http://www.therandomshop.co.uk/)
-

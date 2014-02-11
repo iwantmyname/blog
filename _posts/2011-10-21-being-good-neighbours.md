@@ -29,4 +29,3 @@ Apart from supporting community events we also use local businesses. In fact we 
 
 New Zealand is facing a lot of challenges at present and it is only 
 through building strong communities and supporting local businesses that we can make progress. We will be at the [UP AGM and Beer Tasting](http://up.org.nz/events/up_agm_beer_tasting) and at [Startup Social](http://wellington.startupweekend.org/2011/10/13/startup-social-gets-creative-juices-flowing/) next week. Maybe, see you there?
-

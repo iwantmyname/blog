@@ -33,4 +33,3 @@ This Meetup is open to any web or [software developers](https://iwantmyname.co.n
 **You can sign up on the [Auckland Tech Startups Meetup](http://www.meetup.com/auckland-tech-startups/) group site or on [this Twtvite page](http://twtvite.com/iwantmyname-codemania).**
 
 For updates [follow us on Twitter](https://twitter.com/#%21/iWantMyNameNZ).
-

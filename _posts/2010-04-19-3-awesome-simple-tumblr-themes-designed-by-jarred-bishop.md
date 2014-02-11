@@ -38,4 +38,3 @@ It's not often that you meet talented people with an eye for real simple designs
 [![cargo-theme.png]({{ site.images_url }}/2010-04-19-cargo-theme.png)](http://www.tumblr.com/theme/2463)
 
 Are you a theme / template designer for [Tumblr](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url), [Posterous](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/posterous-blog-photos-mp3-video-by-email), [Blogger](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/blogger-blogspot-free-blog-with-own-url), [Shopify](https://iwantmyname.com/features/applications/custom-domain-apps/e-commerce/shopify-hosted-online-store-platform-and-shop-software) or other [popular services](https://iwantmyname.com/services)? [Drop us a line](https://iwantmyname.com/support) and get featured on our blog!
-
