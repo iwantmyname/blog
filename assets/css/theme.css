@@ -23,7 +23,9 @@
 .panel-body:before,
 .panel-body:after,
 .modal-footer:before,
-.modal-footer:after {
+.modal-footer:after,
+.domain-search .row:before,
+.domain-search .row:after {
   content: " ";
   display: table;
 }
@@ -39,7 +41,8 @@
 .navbar-collapse:after,
 .pager:after,
 .panel-body:after,
-.modal-footer:after {
+.modal-footer:after,
+.domain-search .row:after {
   clear: both;
 }
 .form-control {
@@ -188,7 +191,12 @@ header {
   clear: both;
 }
 .domain-search .row {
-  padding: 25px 0 50px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 25px;
+  padding-bottom: 50px;
   position: relative;
 }
 .domain-search .input-lg {
@@ -204,8 +212,8 @@ header {
   width: 90px;
   height: 90px;
   margin: -45px;
-  padding: 2px;
-  line-height: 82px;
+  padding: 2px 4px 2px 2px;
+  line-height: 86px;
   font-size: 45px;
   background-color: #ff4433;
   border: 4px solid #ff4433;
