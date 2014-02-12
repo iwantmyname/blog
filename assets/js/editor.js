@@ -1,13 +1,14 @@
-// Released under MIT license
-// Copyright (c) 2009-2010 Dominic Baggott
-// Copyright (c) 2009-2010 Ash Berlin
-// Copyright (c) 2011 Christoph Dorn <christoph@christophdorn.com> (http://www.christophdorn.com)
-// Date: 2013-09-15T16:12Z
+/*!
+ * Markdown
+ * Released under MIT license
+ * Copyright (c) 2009-2010 Dominic Baggott
+ * Copyright (c) 2009-2010 Ash Berlin
+ * Copyright (c) 2011 Christoph Dorn <christoph@christophdorn.com> (http://www.christophdorn.com)
+ * Version: 0.6.0-beta1
+ * Date: 2014-02-12T01:28Z
+ */
 
 (function(expose) {
-
-
-
 
   var MarkdownHelpers = {};
 
@@ -54,7 +55,6 @@
     return s;
   };
 
-
   var isArray = MarkdownHelpers.isArray = Array.isArray || function(obj) {
     return Object.prototype.toString.call(obj) === "[object Array]";
   };
@@ -88,9 +88,6 @@
         ? jsonml[ 1 ]
         : undefined;
   };
-
-
-
 
  /**
    *  class Markdown
@@ -146,9 +143,6 @@
    **/
   Markdown.dialects = {};
 
-
-
-
   // Imported functions
   var mk_block = Markdown.mk_block = MarkdownHelpers.mk_block,
       isArray = MarkdownHelpers.isArray;
@@ -166,17 +160,21 @@
     return md.toTree( source );
   };
 
+  /**
+   *  count_lines( str ) -> count
+   *  - str (String): String whose lines we want to count
+   *
+   *  Counts the number of linebreaks in `str`
+   **/
   function count_lines( str ) {
-    var n = 0,
-        i = -1;
-    while ( ( i = str.indexOf("\n", i + 1) ) !== -1 )
-      n++;
-    return n;
+    return str.split("\n").length - 1;
   }
 
   // Internal - split source into rough blocks
   Markdown.prototype.split_blocks = function splitBlocks( input ) {
-    input = input.replace(/(\r\n|\n|\r)/g, "\n");
+    // Normalize linebreaks to \n.
+    input = input.replace(/\r\n?/g, "\n");
+    // Match until the end of the string, a newline followed by #, or two or more newlines.
     // [\s\S] matches _anything_ (newline or space)
     // [^] is equivalent but doesn't work in IEs.
     var re = /([\s\S]+?)($|\n#|\n(?:\s*\n|$)+)/g,
@@ -235,10 +233,11 @@
       //D:this.debug( "Testing", ord[i] );
       var res = cbs[ ord[i] ].call( this, block, next );
       if ( res ) {
-        //D:this.debug("  matched");
-        if ( !isArray(res) || ( res.length > 0 && !( isArray(res[0]) ) ) )
-          this.debug(ord[i], "didn't return a proper array");
-        //D:this.debug( "" );
+
+        if ( !isArray(res) || ( res.length > 0 && !( isArray(res[0]) ) && ( typeof res[0] !== "string")) ) {
+          this.debug(ord[i], "didn't return proper JsonML");
+        }
+
         return res;
       }
     }
@@ -325,7 +324,7 @@
       // __foo__ is reserved and not a pattern
       if ( i.match( /^__.*__$/) )
         continue;
-      var l = i.replace( /([\\.*+?|()\[\]{}])/g, "\\$1" )
+      var l = i.replace( /([\\.*+?^$|()\[\]{}])/g, "\\$1" )
                .replace( /\n/, "\\n" );
       patterns.push( i.length === 1 ? l : "(?:" + l + ")" );
     }
@@ -342,9 +341,6 @@
         return fn.call(this, text, patterns);
     };
   };
-
-
-
 
   var extract_attr = MarkdownHelpers.extract_attr;
 
@@ -382,7 +378,6 @@
 
     return content.join( "\n\n" );
   };
-
 
   /**
    *  toHTMLTree( markdown, [dialect] ) -> JsonML
@@ -430,7 +425,6 @@
     return this.renderJsonML( input );
   };
 
-
   function escapeHTML( text ) {
     return text.replace( /&/g, "&amp;" )
                .replace( /</g, "&lt;" )
@@ -455,6 +449,11 @@
       content.push( render_tree( jsonml.shift() ) );
 
     var tag_attrs = "";
+    if (typeof attributes.src !== 'undefined') {
+      tag_attrs += ' src="' + escapeHTML( attributes.src ) + '"';
+      delete attributes.src;
+    }
+
     for ( var a in attributes )
       tag_attrs += " " + a + '="' + escapeHTML( attributes[ a ] ) + '"';
 
@@ -602,7 +601,6 @@
     return jsonml;
   }
 
-
   // merges adjacent text nodes into a single node
   function merge_text_nodes( jsonml ) {
     // skip the tag name and attribute hash
@@ -625,9 +623,7 @@
         ++i;
       }
     }
-  };
-
-
+  }
 
   var DialectHelpers = {};
   DialectHelpers.inline_until_char = function( text, want ) {
@@ -643,7 +639,7 @@
 
       if ( consumed >= text.length ) {
         // No closing char found. Abort.
-        return null;
+        return [consumed, null, nodes];
       }
 
       var res = this.dialect.inline.__oneElement__.call(this, text.substr( consumed ) );
@@ -662,9 +658,6 @@
 
     return { block: new Block(), inline: new Inline() };
   };
-
-
-
 
   var forEach = MarkdownHelpers.forEach,
       extract_attr = MarkdownHelpers.extract_attr,
@@ -704,7 +697,7 @@
           return undefined;
 
         var level = ( m[ 2 ] === "=" ) ? 1 : 2,
-            header = [ "header", { level : level }, m[ 1 ] ];
+            header = [ "header", { level : level } ].concat( this.processInline(m[ 1 ]) );
 
         if ( m[0].length < block.length )
           next.unshift( mk_block( block.substr( m[0].length ), block.trailing, block.lineNumber + 2 ) );
@@ -872,6 +865,7 @@
 
           if ( last_li[1] instanceof Array && last_li[1][0] === "para" )
             return;
+
           if ( i + 1 === stack.length ) {
             // Last stack frame
             // Keep the same array, but replace the contents
@@ -898,7 +892,6 @@
             return list;
           }
 
-
           var stack = [], // Stack of lists for nesting.
               list = make_list( m ),
               last_li,
@@ -921,7 +914,6 @@
             for ( var line_no = 0; line_no < lines.length; line_no++ ) {
               nl = "";
               var l = lines[line_no].replace(/^\n/, function(n) { nl = n; return ""; });
-
 
               // TODO: really should cache this
               var line_re = regex_for_depth( stack.length );
@@ -994,7 +986,19 @@
             } // tight_search
 
             if ( li_accumulate.length ) {
-              add( last_li, loose, this.processInline( li_accumulate ), nl );
+              
+              var contents = this.processBlock(li_accumulate, []),
+                  firstBlock = contents[0];
+
+              firstBlock.shift();
+              contents.splice.apply(contents, [0, 1].concat(firstBlock));
+              add( last_li, loose, contents, nl );
+
+              // Let's not creating a trailing \n after content in the li
+              if(last_li[last_li.length-1] === "\n") {
+                last_li.pop();
+              }
+
               // Loose mode will have been dealt with. Reset it
               loose = false;
               li_accumulate = "";
@@ -1025,8 +1029,10 @@
                 break;
               }
 
-              // Make sure all listitems up the stack are paragraphs
-              forEach( stack, paragraphify, this);
+              // Add paragraphs if the indentation level stays the same
+              if (stack[stack.length-1].indent === block.match(/^\s*/)[0]) {
+                forEach( stack, paragraphify, this);
+              }
 
               loose = true;
               continue loose_search;
@@ -1039,6 +1045,15 @@
       })(),
 
       blockquote: function blockquote( block, next ) {
+
+        // Handle quotes that have spaces before them
+        var m = /(^|\n) +(\>[\s\S]*)/.exec(block);
+        if (m && m[2] && m[2].length) {
+          var blockContents = block.replace(/(^|\n) +\>/, "$1>");
+          next.unshift(blockContents);
+          return [];
+        }
+
         if ( !block.match( /^>/m ) )
           return undefined;
 
@@ -1066,7 +1081,6 @@
           block = mk_block( lines.join( "\n" ), block.trailing, line_no );
         }
 
-
         // if the next block is also a blockquote merge it in
         while ( next.length && next[ 0 ][ 0 ] === ">" ) {
           var b = next.shift();
@@ -1092,36 +1106,16 @@
       },
 
       referenceDefn: function referenceDefn( block, next) {
-        var re = /^\s*\[(.*?)\]:\s*(\S+)(?:\s+(?:(['"])(.*?)\3|\((.*?)\)))?\n?/;
+        var re = /^\s*\[(.*?)\]:\s*(\S+)(?:\s+(?:(['"])(.*)\3|\((.*?)\)))?\n?/;
         // interesting matches are [ , ref_id, url, , title, title ]
 
         if ( !block.match(re) )
           return undefined;
 
-        // make an attribute node if it doesn't exist
-        if ( !extract_attr( this.tree ) )
-          this.tree.splice( 1, 0, {} );
-
-        var attrs = extract_attr( this.tree );
-
-        // make a references hash if it doesn't exist
-        if ( attrs.references === undefined )
-          attrs.references = {};
+        var attrs = create_attrs.call( this );
 
         var b = this.loop_re_over_block(re, block, function( m ) {
-
-          if ( m[2] && m[2][0] === "<" && m[2][m[2].length-1] === ">" )
-            m[2] = m[2].substring( 1, m[2].length - 1 );
-
-          var ref = attrs.references[ m[1].toLowerCase() ] = {
-            href: m[2]
-          };
-
-          if ( m[4] !== undefined )
-            ref.title = m[4];
-          else if ( m[5] !== undefined )
-            ref.title = m[5];
-
+          create_reference(attrs, m);
         } );
 
         if ( b.length )
@@ -1193,7 +1187,7 @@
       "]": function () {},
       "}": function () {},
 
-      __escape__ : /^\\[\\`\*_{}\[\]()#\+.!\-]/,
+      __escape__ : /^\\[\\`\*_{}<>\[\]()#\+.!\-]/,
 
       "\\": function escaped( text ) {
         // [ length of input processed, node/children to add... ]
@@ -1207,12 +1201,19 @@
 
       "![": function image( text ) {
 
+        // Without this guard V8 crashes hard on the RegExp
+        if (text.indexOf('(') >= 0 && text.indexOf(')') === -1) { return; }
+
         // Unlike images, alt text is plain text only. no other elements are
         // allowed in there
 
         // ![Alt text](/path/to/img.jpg "Optional title")
         //      1          2            3       4         <--- captures
-        var m = text.match( /^!\[(.*?)\][ \t]*\([ \t]*([^")]*?)(?:[ \t]+(["'])(.*?)\3)?[ \t]*\)/ );
+        //
+        // First attempt to use a strong URL regexp to catch things like parentheses. If it misses, use the
+        // old one.
+        var m = text.match( /^!\[(.*?)][ \t]*\(((?:https?:(?:\/{1,3}|[a-z0-9%])|www\d{0,3}[.])(?:[^\s()<>]+|\([^\s()<>]+\))+(?:\([^\s()<>]+\)|[^`!()\[\]{};:'".,<>?«»“”‘’\s]))\)([ \t])*(["'].*["'])?/ ) ||
+                text.match( /^!\[(.*?)\][ \t]*\([ \t]*([^")]*?)(?:[ \t]+(["'])(.*?)\3)?[ \t]*\)/ );
 
         if ( m ) {
           if ( m[2] && m[2][0] === "<" && m[2][m[2].length-1] === ">" )
@@ -1242,13 +1243,24 @@
 
       "[": function link( text ) {
 
+        var open = 1;
+        for (var i=0; i<text.length; i++) {
+          var c = text.charAt(i);
+          if (c === '[') { open++; }
+          if (c === ']') { open--; }
+
+          if (open > 3) { return [1, "["]; }
+        }
+
         var orig = String(text);
         // Inline content is possible inside `link text`
         var res = inline_until_char.call( this, text.substr(1), "]" );
 
         // No closing ']' found. Just consume the [
-        if ( !res )
-          return [ 1, "[" ];
+        if ( !res[1] ) {
+          var size = res[0] + 1;
+          return [ size, text.charAt(0) + res[2].join('') ];
+        }
 
         var consumed = 1 + res[ 0 ],
             children = res[ 1 ],
@@ -1267,7 +1279,7 @@
         // The parens have to be balanced
         var m = text.match( /^\s*\([ \t]*([^"']*)(?:[ \t]+(["'])(.*?)\2)?[ \t]*\)/ );
         if ( m ) {
-          var url = m[1];
+          var url = m[1].replace(/\s+$/, '');
           consumed += m[0].length;
 
           if ( url && url[0] === "<" && url[url.length-1] === ">" )
@@ -1321,11 +1333,20 @@
           return [ consumed, link ];
         }
 
+        // Another check for references
+        m = orig.match(/^\s*\[(.*?)\]:\s*(\S+)(?:\s+(?:(['"])(.*?)\3|\((.*?)\)))?\n?/);
+        if (m) {
+          var attrs = create_attrs.call(this);
+          create_reference(attrs, m);
+          return [ m[0].length ];
+        }
+
         // [id]
         // Only if id is plain (no formatting.)
         if ( children.length === 1 && typeof children[0] === "string" ) {
 
-          attrs = { ref: children[0].toLowerCase(),  original: orig.substr( 0, consumed ) };
+          var normalized = children[0].toLowerCase().replace(/\s+/, ' ');
+          attrs = { ref: normalized,  original: orig.substr( 0, consumed ) };
           link = [ "link_ref", attrs, children[0] ];
           return [ consumed, link ];
         }
@@ -1333,7 +1354,6 @@
         // Just consume the "["
         return [ 1, "[" ];
       },
-
 
       "<": function autoLink( text ) {
         var m;
@@ -1427,6 +1447,37 @@
     }; // End returned function
   }
 
+  // A helper function to create attributes
+  function create_attrs() {
+    if ( !extract_attr( this.tree ) ) {
+      this.tree.splice( 1, 0, {} );
+    }
+
+    var attrs = extract_attr( this.tree );
+
+    // make a references hash if it doesn't exist
+    if ( attrs.references === undefined ) {
+      attrs.references = {};
+    }
+
+    return attrs;
+  }
+
+  // Create references for attributes
+  function create_reference(attrs, m) {
+    if ( m[2] && m[2][0] === "<" && m[2][m[2].length-1] === ">" )
+      m[2] = m[2].substring( 1, m[2].length - 1 );
+
+    var ref = attrs.references[ m[1].toLowerCase() ] = {
+      href: m[2]
+    };
+
+    if ( m[4] !== undefined )
+      ref.title = m[4];
+    else if ( m[5] !== undefined )
+      ref.title = m[5];
+  }
+
   Gruber.inline["**"] = strong_em("strong", "**");
   Gruber.inline["__"] = strong_em("strong", "__");
   Gruber.inline["*"]  = strong_em("em", "*");
@@ -1435,8 +1486,6 @@
   Markdown.dialects.Gruber = Gruber;
   Markdown.buildBlockOrder ( Markdown.dialects.Gruber.block );
   Markdown.buildInlinePatterns( Markdown.dialects.Gruber.inline );
-
-
 
   var Maruku = DialectHelpers.subclassDialect( Gruber ),
       extract_attr = MarkdownHelpers.extract_attr,
@@ -1720,19 +1769,19 @@
     return [ m[ 0 ].length, "" ];
   };
 
-
   Markdown.dialects.Maruku = Maruku;
   Markdown.dialects.Maruku.inline.__escape__ = /^\\[\\`\*_{}\[\]()#\+.!\-|:]/;
   Markdown.buildBlockOrder ( Markdown.dialects.Maruku.block );
   Markdown.buildInlinePatterns( Markdown.dialects.Maruku.inline );
 
+// Include all our dependencies and return the resulting library.
 
-// Include all our depndencies and;
   expose.Markdown = Markdown;
   expose.parse = Markdown.parse;
   expose.toHTML = Markdown.toHTML;
   expose.toHTMLTree = Markdown.toHTMLTree;
   expose.renderJsonML = Markdown.renderJsonML;
+  expose.DialectHelpers = DialectHelpers;
 
 })(function() {
   window.markdown = {};
