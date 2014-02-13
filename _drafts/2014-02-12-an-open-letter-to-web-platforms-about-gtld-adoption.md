@@ -24,11 +24,19 @@ In short, it shouldn't be a hard update to make, but keeping up with the pace of
 
 ###A solution
 
-Look, we get it. Running our domain registry is hard work, and I can't really imagine loading up with rapid-fire updates out of left field. So for web platforms, I can certainly see how something like this could go unnoticed.
+Look, we get it. Running our domain registrar is hard work, and I can't really imagine loading up with rapid-fire updates out of left field. So for web platforms, I can certainly see how something like this could go unnoticed.
 
 So here's what I can do to help. If you work for a web platform and email me directly at chris at iwantmyname dot com, I'll personally send you a list of the new TLDs being released to the general public the following week. That'll give you time to add them into your system—and will hopefully prevent some support tickets coming your way in the coming months. 
 
-Please, please get in touch. And thanks for reading.
+Also, here are some additional resources (the ones we use) for finding out what new gTLDs are in the pipeline:
+
++ [IANA Root Zone Database](http://www.iana.org/domains/root/db)
++ [ICANN Delegated Strings](http://newgtlds.icann.org/en/program-status/delegated-strings)
++ [Mozilla Public Suffix List](http://publicsuffix.org/list/effective_tld_names.dat)
+
+Hope that helps... and thanks for reading!
+
+
 
 
 
