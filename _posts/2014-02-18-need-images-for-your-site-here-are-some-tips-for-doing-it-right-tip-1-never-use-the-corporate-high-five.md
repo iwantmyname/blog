@@ -2,7 +2,7 @@
 layout: post
 date: 2014-02-18 12:57:38 +1200
 author: Chris
-title: Need images for your site? Here are some tips for doing it right (Tip 1: never use the corporate high five)
+title: "Need images for your site? Here are some tips for doing it right (Tip 1: never use the corporate high five)"
 ---
 
 ![corporate high five]({{ site.images_url }}/2014-02-18-corporate-terrible.jpg)
