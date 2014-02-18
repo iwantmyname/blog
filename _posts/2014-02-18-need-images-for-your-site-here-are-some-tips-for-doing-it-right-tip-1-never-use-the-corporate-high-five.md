@@ -7,9 +7,13 @@ title: "Need images for your site? Here are some tips for doing it right (Tip 1:
 
 ![corporate high five]({{ site.images_url }}/2014-02-18-corporate-terrible.jpg)
 
+<!-- excerpt -->
+
 It's hard to clearly identify what makes a site special, but one thing that certainly helps is interesting photography. Big images. Graphics that aren't bound to little corners of posts, but are given room to breathe.
 
-But to get good stuff, you have to do it the right way. Yes, I know that dragging images from the web and dropping them into your posts is technically feasible, but without proper attributions and licensing, you're playing on the wrong side of the field. 
+But to get good stuff, you have to do it the right way. Yes, I know that dragging images from the web and dropping them into your posts is technically feasible, but without proper attributions and licensing, you're playing on the wrong side of the field.
+
+<!-- /excerpt -->
 
 I'll spare you the legalese here. It comes down to this—people work really hard to produce quality photography and graphics. So please, don't steal it.
 
