@@ -2,7 +2,7 @@
 layout: post
 date: 2011-06-28 16:59:11
 author: Timo
-title: Tumblr Changes Custom Domain Setup
+title: Tumblr changes custom domain setup
 
 categories:
   - Tumblr

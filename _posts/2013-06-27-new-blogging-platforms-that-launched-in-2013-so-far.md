@@ -2,7 +2,7 @@
 layout: post
 date: 2013-06-27 18:04:23
 author: Owen
-title: 4 New Blogging Platforms Launched In 2013
+title: 4 new blogging platforms launched in 2013
 
 categories:
   - Blogging

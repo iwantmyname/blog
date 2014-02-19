@@ -2,7 +2,7 @@
 layout: post
 date: 2011-02-23 17:51:52
 author: Timo
-title: 32 Static Website Generators For Your Site, Blog Or Wiki
+title: 32 static website generators for your site, blog or wiki
 
 categories:
   - Amazon S3

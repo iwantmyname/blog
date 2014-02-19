@@ -2,7 +2,7 @@
 layout: post
 date: 2010-08-13 13:34:21
 author: Timo
-title: Why Some Domain Extensions Are More Expensive Than Others
+title: Why some domain extensions are more expensive than others
 
 categories:
   - Domain extensions

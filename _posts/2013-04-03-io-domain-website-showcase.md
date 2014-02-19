@@ -2,7 +2,7 @@
 layout: post
 date: 2013-04-03 12:25:02
 author: Timo
-title: 100+ Beautifully Designed .IO Domain Websites
+title: 100+ beautifully designed .IO domain websites
 
 categories:
   - Showcase

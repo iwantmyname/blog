@@ -2,7 +2,7 @@
 layout: post
 date: 2013-05-30 12:00:00
 author: Timo
-title: .IO Domains Now Even More Awesome For Startups!
+title: .IO domains now even more awesome for startups!
 
 tags:
   - .IO

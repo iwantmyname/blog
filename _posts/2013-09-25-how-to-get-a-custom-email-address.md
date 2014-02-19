@@ -2,7 +2,7 @@
 layout: post
 date: 2013-09-25 13:48:17
 author: Chris
-title: How To Get A Custom Email Address
+title: How to get a custom email address
 
 categories:
   - Email
@@ -21,35 +21,35 @@ We do email hosting this way (through third-party sources) because we want to ke
 
 <!-- /excerpt -->
 
-###Free Email Hosting
+### Free Email Hosting
 
 + [**Zoho Mail**][3]: For many users, Zoho Mail is a top choice because it's easy to install, has a clean interface, delivers push mail and two-way sync, never displays ads and is free for up to 20 users (and only $2/user/month after that for a 10GB mailbox). But for users of Zoho Apps—including Zoho Writer, Zoho Calendar, Zoho Sheet and more—Zoho Mail is the missing piece for creating a full office suite.
 
 + [**Windows Live**][6]: As part of Microsoft's expanded web presence, Windows Live gives users access to the newly designed Outlook.com interface, and provides a slew of other features. Microsoft Live is available for free for a single user, but businesses can upgrade to Microsoft 365 if they need a more robust platform.
 
-###Paid Email Hosting
+### Paid Email Hosting
 
 + [**Google Apps**][2]: Google Apps is likely the most common email host people are using these days—and for good reason. With Google Apps, you get the exact same email interface and benefits you get with a personal gmail account, but with the added organizational benefits of Google Drive, Google Calendar, Google Sites and more. 
 
-        Back in the day, users could get a small-use Google Apps for Business account for free, but now they're charging $5/user/month (or $50/user/year) after a free 30-day trial. 
+  Back in the day, users could get a small-use Google Apps for Business account for free, but now they're charging $5/user/month (or $50/user/year) after a free 30-day trial. 
 
-+ [**Fastmail.fm**][4]: Created by Opera Software--the company behind the Opera browser—Fastmail.fm is a fast-growing email host known for reliability and security. For $39.95/year, you can get a personal mail account with 10GB email storage, IMAP/POP support and 2GB file storage for keeping your documents in the cloud (different rates apply for business accounts).
++ [**Fastmail.fm**][4]: Created by Opera Software—the company behind the Opera browser—Fastmail.fm is a fast-growing email host known for reliability and security. For $39.95/year, you can get a personal mail account with 10GB email storage, IMAP/POP support and 2GB file storage for keeping your documents in the cloud (different rates apply for business accounts).
 
 + [**Rackspace Email**][8]: While Rackspace Email doesn't provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support and multiple layers of spam and virus protection. Plans start at $2/user/month (with a minimum of five mailboxes), and increase as more features are added. 
 
-###Email Forwarding
+### Email Forwarding
 
 + [**Pobox**][5]: Unlike providers like Zoho Mail and gmail, Pobox specializes in email forwarding. So instead of attaching your email address to a service with a webmail system you're not used to, Pobox lets you forward your new unique email address to an email platform (and address) you commonly use. 
 
-	As a side benefit, it also gives you the freedom to explore all the other great services on the market. From pobox.com:
+  As a side benefit, it also gives you the freedom to explore all the other great services on the market. From pobox.com:
 
->If your email provider introduces a new policy you dislike, you can move. If your ISP changes its name, your email address is unaffected. If a new service starts up that you'd love to try, you can.
+  > If your email provider introduces a new policy you dislike, you can move. If your ISP changes its name, your email address is unaffected. If a new service starts up that you'd love to try, you can.
 
 Prices for Pobox services vary depending on the options you choose, but there is a 30 day trial available if you're interested in trying out their email forwarding service. 
 
-###Other hosts?
+### Other hosts?
 
-If your desired email hosting platform isn't in our app marketplace (yet!), don't fret--you can use any third-party email service by adding their respective MX records to your domain's DNS manager. And if you need any help getting this set up, feel free to [contact our support team][7]. We're always here to help.
+If your desired email hosting platform isn't in our app marketplace (yet!), don't fret—you can use any third-party email service by adding their respective MX records to your domain's DNS manager. And if you need any help getting this set up, feel free to [contact our support team][7]. We're always here to help.
 
 [1]:https://iwantmyname.com/services/email-hosting/
 [2]:https://iwantmyname.com/features/applications/google-apps-for-your-domain
