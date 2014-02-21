@@ -9,7 +9,7 @@ categories:
 
 ---
 
-![Mou_Screenshot_1@2x.png]({{ site.images_url }}/2013-10-03-Mou_Screenshot_1%402x.png)
+![Mou]({{ site.images_url }}/2013-10-03-Mou_Screenshot_1_402x.png)
 
 <!-- excerpt -->
 

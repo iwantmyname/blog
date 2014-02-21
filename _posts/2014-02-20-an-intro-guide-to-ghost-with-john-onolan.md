@@ -42,7 +42,7 @@ That is a wise fear to have. It’s always important to make your blog unique an
 
 Search Engine Optimisation is something which is absolutely pivotal to the success of a blog. We’ve done a huge amount of work inside Ghost to make sure that search engines can find your blog easily from the get-go. 
 
-All of this is built-in so that you don’t have to rely on third party extensions to get a great SEO experience. It’s also worth nothing that one of the biggest ranking factors that search engines look at these days is page-load speed. Because of the technology which Ghost is built on, it loads fast. Really fast.
+All of this is built-in so that you don’t have to rely on third party extensions to get a great SEO experience. It’s also worth noting that one of the biggest ranking factors that search engines look at these days is page-load speed. Because of the technology which Ghost is built on, it loads fast. Really fast.
 
 **Q: What does the future hold for Ghost? In 2020, will my blog seem as dated as my friend's Xanga site does today?**
 
