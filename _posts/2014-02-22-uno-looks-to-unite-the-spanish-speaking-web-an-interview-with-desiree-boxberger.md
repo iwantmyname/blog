@@ -9,6 +9,8 @@ search:
   
 ---
 
+{% include youtube.html id="G9pmT7icoAQ" %}
+
 <!-- excerpt -->
 
 If you search the web long enough, you'll find quite a few opinions of the new gTLD rollout. Some think it's a moneymaking scheme. Some question the public interest. 
@@ -41,7 +43,7 @@ We certainly would welcome being the #1 choice for a top level domain in Latin A
 
 For example, if a business has a .com they may use that for strictly their English site, add a .UNO for a Spanish site, and use or add a country-code domain for in-country search results, depending on their location. Each domain serves an intended purpose and gone are the days where one domain covers all areas of your business. Our focus is to really expand choice and at an affordable price.  
 
-We believe .UNO will be well positioned for adoption in Latin America because of it's relevance to the culture, the language and the ability to globally transact commerce outside country borders under the unification of a common language, Spanish.  
+We believe .UNO will be well positioned for adoption in Latin America because of its relevance to the culture, the language and the ability to globally transact commerce outside country borders under the unification of a common language, Spanish.  
 
 With .UNO, it's now "Press 1" for Spanish on the Internet.  
 
@@ -55,4 +57,4 @@ Organic builds are never easy but we're fully committed and determined to global
 
 Because .UNO is one of the first new domains to hit the market, it will take time to build general awareness in order to drive adoption and use. This will be a challenge for all new top level domain registries as they map out their go to market strategy. 
 
-Our forecasts indicate that .UNO will have about 2 million domains under management by year five. We believe this is a conservative estimate based on the size of our market segment and anticipated popularity as awareness spreads and interest grows. With Hispanics populations growing at one of the fastest rates, coupled with the fact that Hispanics are technology adopters, we believe .UNO is well positioned to be very successful.
+Our forecasts indicate that .UNO will have about 2 million domains under management by year five. We believe this is a conservative estimate based on the size of our market segment and anticipated popularity as awareness spreads and interest grows. With Hispanic populations growing at one of the fastest rates, coupled with the fact that Hispanics are technology adopters, we believe .UNO is well positioned to be very successful.
