@@ -464,6 +464,10 @@ p.read-more {
 .iwmn-404 h1 {
   margin: 60px 0 30px;
 }
+.iwmn-article article iframe,
+.iwmn-articles article iframe {
+  max-width: 100%;
+}
 .iwmn-article p:not([class]) > img,
 .iwmn-articles p:not([class]) > img,
 .iwmn-article p:not([class]) > a > img,
