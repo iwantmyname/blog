@@ -30,13 +30,13 @@ If you want to have a simple but powerful independent publication. Something whi
 
 I thought it might be! So there are two ways to set up a blog with Ghost and that shiny new domain name you’re holding:
 
-1. Head over to [Ghost.org](Ghost.org) and start using our hosted platform. The hosted platform is a service which allows you to start a new Ghost blog in a couple of clicks, and has premium plans starting at just $5 per month. The other great thing about our hosted platform is that all the money we make from it actually goes towards funding developers to work on the Ghost software and make it better. We’re a very proud non-profit, so this helps the entire project in a big way - and yes! You can use your domain name here.
+1. Head over to [Ghost.org](https://ghost.org/) and start using our hosted platform. The hosted platform is a service which allows you to start a new Ghost blog in a couple of clicks, and has premium plans starting at just $5 per month. The other great thing about our hosted platform is that all the money we make from it actually goes towards funding developers to work on the Ghost software and make it better. We’re a very proud non-profit, so this helps the entire project in a big way - and yes! You can use your domain name here.
 
 2. Because Ghost is Open Source, you can actually download it and run the software on (almost) any computer in the world. It’ll work on your laptop, your web server, or even your [Raspberry Pi](http://www.raspberrypi.org/). So if you’re a developer and you’d like to roll-your-own installation of Ghost. You can certainly do that, too.
 
 **Q: The biggest fear I have is that my blog will feel super generic. What can I do to really personalize my blog's appearance?**
 
-That is a wise fear to have. It’s always important to make your blog unique and memorable, branding is a big deal! Fortunately, there are hundreds (soon: thousands) of beautiful Ghost themes which you can install to add a beautiful design to your blog and really make it stand out. [The best place to start is by having a look on our marketplace](http://marketplace.ghost.org ), where you’ll find a very large collection of different styles and options to choose from.
+That is a wise fear to have. It’s always important to make your blog unique and memorable, branding is a big deal! Fortunately, there are hundreds (soon: thousands) of beautiful Ghost themes which you can install to add a beautiful design to your blog and really make it stand out. [The best place to start is by having a look on our marketplace](http://marketplace.ghost.org), where you’ll find a very large collection of different styles and options to choose from.
 
 **Q: I've read that on Wordpress I can get plugins like Yoast to boost my SEO—and ranking high in Google is super important to me. Is there something like that on Ghost? Should I even be worried about SEO?**
 
