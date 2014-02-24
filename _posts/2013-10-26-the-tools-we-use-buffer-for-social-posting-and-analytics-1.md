@@ -29,4 +29,4 @@ So if you're doing social for your brand (or yourself?), give it a shot. We defi
 
 ***
 
-**Extra credit:** In addition to providing this super-handy platform, Buffer also publishes some interesting articles on social analytics. Here's a good one, titled, "[A scientific guide to posting Tweets, Facebook posts, Emails and Blog posts at the best time.]((http://blog.bufferapp.com/best-time-to-tweet-post-to-facebook-send-emails-publish-blogposts))"
+**Extra credit:** In addition to providing this super-handy platform, Buffer also publishes some interesting articles on social analytics. Here's a good one, titled, "[A scientific guide to posting Tweets, Facebook posts, Emails and Blog posts at the best time.](http://blog.bufferapp.com/best-time-to-tweet-post-to-facebook-send-emails-publish-blogposts)"
