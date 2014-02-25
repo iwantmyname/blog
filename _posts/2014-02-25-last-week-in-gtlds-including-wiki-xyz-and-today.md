@@ -33,10 +33,10 @@ Last week's new gTLD launch was an interesting one, with .TECHNOLOGY barely beat
 ### Coming this week (pre-orders still open)
 
 + [.DIAMONDS](https://iwantmyname.com/domains/dot-diamonds) - Available February 26, 2014 at 16:00:00 UTC for $69 USD / $79 NZD
-+ [.ENTERPRISES](https://iwantmyname.com/domains/dot-enterprises) - February 26, 2014 at 16:00:00 UTC for $39 USD / $49 NZD
++ [.ENTERPRISES](https://iwantmyname.com/domains/dot-enterprises) - Available February 26, 2014 at 16:00:00 UTC for $39 USD / $49 NZD
 + [.SEXY](https://iwantmyname.com/domains/dot-sexy) - Available February 25, 2014 for $29 USD / $39 NZD
 + [.TATTOO](https://iwantmyname.com/domains/dot-tattoo) - Available February 25, 2014 for $39 USD / $49 NZD
-+ [.TIPS](https://iwantmyname.com/domains/dot-tips) - February 26, 2014 at 16:00:00 UTC for $29 USD / $39 NZD
-+ [.VOYAGE](https://iwantmyname.com/domains/dot-voyage) - February 26, 2014 at 16:00:00 UTC for $69 USD / $79 NZD
++ [.TIPS](https://iwantmyname.com/domains/dot-tips) - Available February 26, 2014 at 16:00:00 UTC for $29 USD / $39 NZD
++ [.VOYAGE](https://iwantmyname.com/domains/dot-voyage) - Available February 26, 2014 at 16:00:00 UTC for $69 USD / $79 NZD
 
 
