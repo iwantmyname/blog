@@ -2,7 +2,7 @@
 layout: post
 date: 2014-02-25 17:45:00 +1200
 author: Kevin
-title: Not receiving email at your domain? Check for a CNAME record on at the root level.
+title: Not receiving email at your domain? Check for a CNAME record on the root level.
 ---
 
 We used to hear this all too frequently in our support channels. A customer adds a new DNS record for their website and suddenly can't receive email on their domain—the email service that had been working fine in the months prior.
