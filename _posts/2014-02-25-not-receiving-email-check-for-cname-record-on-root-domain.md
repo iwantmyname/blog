@@ -9,6 +9,8 @@ We used to hear this all too frequently in our support channels. A customer adds
 
 The cause? That CNAME record that was just added to the naked/root domain.
 
+<!-- more -->
+
 [Josh Strange recently published an article](http://joshstrange.com/why-its-a-bad-idea-to-put-a-cname-record-on-your-root-domain/) relaying this exact situation where a seemingly convenient CNAME record on his root domain prevented his email service from working without him realizing it:
 
 > Then just this last weekend I went to signup for an eBay Developers account so I could play with the API but the email confirmation never came through.
