@@ -7,7 +7,7 @@ title: Simplicity wins again—.UK coming soon to a registrar near you
 
 <!-- excerpt -->
 
-![alt]({{ site.images_url }}/2014-02-28-uk-flag.jpg)
+![UK Flag]({{ site.images_url }}/2014-02-28-uk-flag.jpg)
 
 [From Kevin Murphy - Domain Incite:](http://domainincite.com/15707-nominet-names-the-date-for-shorter-uk-addresses)
 
