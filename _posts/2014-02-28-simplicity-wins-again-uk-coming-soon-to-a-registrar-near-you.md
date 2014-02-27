@@ -1,10 +1,21 @@
-#Dropping excess letters in the UK
+---
+layout: post
+date: 2014-02-28 07:59:39 +1200
+author: Chris
+title: Simplicity wins again—.UK coming soon to a registrar near you
+---
+
+<!-- excerpt -->
+
+![alt]({{ site.images_url }}/2014-02-28-uk-flag.jpg)
 
 [From Kevin Murphy - Domain Incite:](http://domainincite.com/15707-nominet-names-the-date-for-shorter-uk-addresses)
 
 >Nominet is to start selling .uk domain names at the second level for the first time on June 10 this year.
 
 >The controversial Direct.uk service will enable people to register example.uk names, rather than example.co.uk names.
+
+<!-- /excerpt -->
 
 Let's start with the low-hanging fruit. Second level domain names are great because they strip away complexity. .CO.UK, .ORG.UK, .ME.UK—they just reek of excess (ok, that was a bit dramatic). 
 
