@@ -9,8 +9,7 @@ categories:
 
 ---
 
-<!-- I could not find a copy of this image: -->
-<!-- ![Chris Pic]({{ site.images_url }}/2013-09-18-IMG_3643.jpg) -->
+![Chris Pic]({{ site.images_url }}/2013-09-18-IMG_3643.jpg)
 
 A writer? Why does iwantmyname need a writer?
 
