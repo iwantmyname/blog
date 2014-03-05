@@ -12,7 +12,7 @@ categories:
 
 ---
 
-With the [demise of Geocities](https://iwantmyname.com/blog/2009/08/website-hosting-alternatives-to-your-geocities-page.htm), it was only a matter of time before Google ramped up its website creation offering for the mass consumer market. [Google Sites](http://sites.google.com) has been around for a while but this week they launched a [new template gallery](http://googledocs.blogspot.com/2009/11/get-started-with-google-sites-templates.html) which further simplifies making your own personal or small business website.
+With the [demise of Geocities](https://iwantmyname.com/blog/2009/08/website-hosting-alternatives-to-your-geocities-page.html), it was only a matter of time before Google ramped up its website creation offering for the mass consumer market. [Google Sites](http://sites.google.com) has been around for a while but this week they launched a [new template gallery](http://googledocs.blogspot.com/2009/11/get-started-with-google-sites-templates.html) which further simplifies making your own personal or small business website.
 
 The free website builder is aimed firmly at small companies, home users, schools and not-for-profits who just need to get online with a basic brochure quality set-up and who don't have corporate level online marketing budgets to spend. The new templates  should drive a lot of interest in the service, which previously had only a low profile.
 

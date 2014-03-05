@@ -29,4 +29,4 @@ So if you are a Vox.com user, before [migrating your blog to another service](ht
 
 *   [5 Personal Domain Extensions Other Than .COM](https://iwantmyname.com/blog/2010/08/5-domain-extensions-for-your-personal-website.html)
 *   [Your Usernames Do Not Belong To You](https://iwantmyname.com/blog/2010/02/your-usernames-do-not-belong-to-you.html)
-*   [20 Website Hosting Alternatives To Your Geocities Page](https://iwantmyname.com/blog/2009/08/website-hosting-alternatives-to-your-geocities-page.htm)
+*   [20 Website Hosting Alternatives To Your Geocities Page](https://iwantmyname.com/blog/2009/08/website-hosting-alternatives-to-your-geocities-page.html)

@@ -14,10 +14,10 @@ Did you know that there are 280 internet domain extensions in total? And that .C
 In our [Domain Statistics & Numbers](https://iwantmyname.com/blog/facts-figures/statistics-numbers/) article series we will answer these questions and provide you with some interesting numbers around the global domain name space:
 
 1.  **How many top-level domain name extensions exist in total?**
-2.  [How many domains are registered worldwide](https://iwantmyname.com/blog/2009/09/how-many-domains-are-registered-in-total.htm)?
-3.  [What are the Top 10 global domain extensions](https://iwantmyname.com/blog/2009/10/top-10-global-domain-extensions-statistics-numbers.htm)?
-4.  [How big are the generic top-level domain (gTLD) namespaces](https://iwantmyname.com/blog/2009/10/how-big-are-the-generic-top-level-domain-namespaces-statistics-numbers-part-iv.htm)?
-5.  [What is the ranking of my country code top-level domain (ccTLD)](https://iwantmyname.com/blog/2009/10/country-code-top-level-domain-cctld-ranking-numbers-statistics.htm)?
+2.  [How many domains are registered worldwide](https://iwantmyname.com/blog/2009/09/how-many-domains-are-registered-in-total.html)?
+3.  [What are the Top 10 global domain extensions](https://iwantmyname.com/blog/2009/10/top-10-global-domain-extensions-statistics-numbers.html)?
+4.  [How big are the generic top-level domain (gTLD) namespaces](https://iwantmyname.com/blog/2009/10/how-big-are-the-generic-top-level-domain-namespaces-statistics-numbers-part-iv.html)?
+5.  [What is the ranking of my country code top-level domain (ccTLD)](https://iwantmyname.com/blog/2009/10/country-code-top-level-domain-cctld-ranking-numbers-statistics.html)?
 
 And here we go with the first anwer. Enjoy!
 
@@ -47,6 +47,6 @@ The countries of this world are represented on the internet by 248 ccTLDs altoge
 
 **New top-level domain extensions (outlook):**
 
-It will be interesting to see how the [new top-level domain extensions](https://iwantmyname.com/blog/2009/06/list-new-gtld-domain-extensions-2010.htm "New domain extensions") will change the domain landscape. If ICANN sticks to its current plan to [expand the internet address space](http://www.icann.org/en/topics/new-gtld-program.htm "New gTLD program") with new addresses such as .BERLIN, .NYC or .RADIO next year, we should see a completely different picture in about 3 years. The 20 "g"s could be more like 200-500 then and will surpass the country codes by far on the long run.
+It will be interesting to see how the [new top-level domain extensions](https://iwantmyname.com/blog/2009/06/list-new-gtld-domain-extensions-2010.html "New domain extensions") will change the domain landscape. If ICANN sticks to its current plan to [expand the internet address space](http://www.icann.org/en/topics/new-gtld-program.htm "New gTLD program") with new addresses such as .BERLIN, .NYC or .RADIO next year, we should see a completely different picture in about 3 years. The 20 "g"s could be more like 200-500 then and will surpass the country codes by far on the long run.
 
 **What is your prediction for the number of TLDs by the end of 2012? We'd love to see them in the comments.**

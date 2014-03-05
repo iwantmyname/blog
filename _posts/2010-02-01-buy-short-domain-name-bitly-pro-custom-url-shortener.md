@@ -62,7 +62,7 @@ We have some domain name ideas for you to find a memorable short domain. You sho
 
 Related articles:
 
-*   [10 Tools to run an URL Shortener on your own Domain](https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.htm)
-*   [The Art of Finding a Domain Hack](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.htm)
-*   [List of 100 Available Ultra-short Domain Names](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.htm)
-*   [Short & Brandable Domain Name List](https://iwantmyname.com/blog/2009/04/brandable-domain-list-for-short-url.htm)
+*   [10 Tools to run an URL Shortener on your own Domain](https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html)
+*   [The Art of Finding a Domain Hack](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html)
+*   [List of 100 Available Ultra-short Domain Names](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html)
+*   [Short & Brandable Domain Name List](https://iwantmyname.com/blog/2009/04/brandable-domain-list-for-short-url.html)

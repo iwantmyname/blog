@@ -18,7 +18,7 @@ tags:
 
 The sudden shutdown of popular URL shortener [tr.im](http://tr.im "tr.im URL shortener") was already covered by the [main](http://mashable.com/2009/08/09/trim-shuts-down/ "tr.im on Mashable") [tech](http://www.techcrunch.com/2009/08/09/trim-throws-in-the-towel/ "tr.im on Techcrunch") [blogs](http://www.readwriteweb.com/archives/twitter_hammers_nail_in_coffin_for_trim.php "tr.im on ReadWriteWeb") so we won't go into further details on the business side. In short the main problem resulting from this are the broken links someday and there's only one solution how you can prevent this in the future: **run your own URL shortener**.
 
-Again, it all comes down to [owning your namespace as discussed earlier with Facebook's username landrush](https://iwantmyname.com/blog/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.htm "Own your identity"). **You are only able to fully control what's happening with your links if you own the domain name** and run your own URL shortener on it. Anybody who's considering Twitter as an important part of their business or personal brand should start thinking about customising their short URLs now (also see our [domain hack examples](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.htm "How to find a domain hack") how they are used to create short links).
+Again, it all comes down to [owning your namespace as discussed earlier with Facebook's username landrush](https://iwantmyname.com/blog/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html "Own your identity"). **You are only able to fully control what's happening with your links if you own the domain name** and run your own URL shortener on it. Anybody who's considering Twitter as an important part of their business or personal brand should start thinking about customising their short URLs now (also see our [domain hack examples](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html "How to find a domain hack") how they are used to create short links).
 
 We have compiled a list of hosted services, scripts and plugins that make running your custom URL shortener possible:
 
@@ -36,7 +36,7 @@ We have compiled a list of hosted services, scripts and plugins that make runnin
 
 **UPDATE: 03/02/2010**
 
-Popular URL shortening service bit.ly is now offering a Pro version with custom domain functionality. Read more about [bit.ly Pro for your own domain name](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service) and [how to find a memorable short domain](https://iwantmyname.com/blog/2010/02/buy-short-domain-name-bitly-pro-custom-url-shortener.htm).
+Popular URL shortening service bit.ly is now offering a Pro version with custom domain functionality. Read more about [bit.ly Pro for your own domain name](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service) and [how to find a memorable short domain](https://iwantmyname.com/blog/2010/02/buy-short-domain-name-bitly-pro-custom-url-shortener.html).
 
 Some of you might argue that there's still a risk should one of these services stop to exist but at least you own the domain and can redirect links to another website or landing page.
 
@@ -50,4 +50,4 @@ Some of you might argue that there's still a risk should one of these services s
 
 **Other resources**
 
-If you don't have a short domain you should check out our list of [ultra short](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.htm "Ultra short domains") and [brandable domain names](https://iwantmyname.com/blog/2009/04/brandable-domain-list-for-short-url.htm "Brandable domain names").
+If you don't have a short domain you should check out our list of [ultra short](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html "Ultra short domains") and [brandable domain names](https://iwantmyname.com/blog/2009/04/brandable-domain-list-for-short-url.html "Brandable domain names").
