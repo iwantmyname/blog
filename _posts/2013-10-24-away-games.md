@@ -17,7 +17,8 @@ tags:
 
 ---
 
-![SDC10263.JPG]({{ site.images_url }}/2013-10-24-SDC10263.jpg)
+<!-- I could not find a copy of this image: -->
+<!-- ![SDC10263.JPG]({{ site.images_url }}/2013-10-24-SDC10263.jpg) -->
 
 <!-- excerpt -->
 

@@ -9,7 +9,7 @@ categories:
 
 ---
 
-This is part two in our [Domain Statistics & Numbers](https://iwantmyname.com/blog/facts-figures/statistics-numbers/ "Domain Statistics & Numbers") article series which answers the following questions:
+This is part two in our *Domain Statistics & Numbers* article series which answers the following questions:
 
 1.  [How many top-level domain name extensions exist in total](https://iwantmyname.com/blog/2009/09/how-many-domain-extensions-exist-worldwide-statistics-numbers.html "How many TLDs exist in total?")?
 2.  **How many domains are registered worldwide?**

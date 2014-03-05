@@ -11,7 +11,7 @@ categories:
 
 Did you know that there are 280 internet domain extensions in total? And that .COM & .NET account for 50% of all domains registered worldwide? Or maybe you have always wondered what the most popular country code domains are?
 
-In our [Domain Statistics & Numbers](https://iwantmyname.com/blog/facts-figures/statistics-numbers/) article series we will answer these questions and provide you with some interesting numbers around the global domain name space:
+In our *Domain Statistics & Numbers* article series we will answer these questions and provide you with some interesting numbers around the global domain name space:
 
 1.  **How many top-level domain name extensions exist in total?**
 2.  [How many domains are registered worldwide](https://iwantmyname.com/blog/2009/09/how-many-domains-are-registered-in-total.html)?

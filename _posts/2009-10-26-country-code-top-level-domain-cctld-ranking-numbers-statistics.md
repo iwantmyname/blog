@@ -10,7 +10,7 @@ categories:
 
 ---
 
-The last part of our [Domain Statistics & Numbers](https://iwantmyname.com/blog/facts-figures/ "Domain Statistics & Numbers") article series shows the ranking of country code top-level domains:
+The last part of our *Domain Statistics & Numbers* article series shows the ranking of country code top-level domains:
 
 1.  [How many top-level domain name extensions exist in total](https://iwantmyname.com/blog/2009/09/how-many-domain-extensions-exist-worldwide-statistics-numbers.html "How many TLDs exist in total?")?
 2.  [How many domains are registered worldwide](https://iwantmyname.com/blog/2009/09/how-many-domains-are-registered-in-total.html "Total Number Of Domain Registrations Worldwide?")?

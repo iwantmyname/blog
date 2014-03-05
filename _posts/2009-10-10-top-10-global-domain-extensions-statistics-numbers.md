@@ -9,7 +9,7 @@ categories:
 
 ---
 
-This blog post showing the top 10 list of domain extensions is part 3 of our [Domain Statistics & Numbers](https://iwantmyname.com/blog/facts-figures/ "Domain Statistics & Numbers") article series:
+This blog post showing the top 10 list of domain extensions is part 3 of our *Domain Statistics & Numbers* article series:
 
 1.  [How many top-level domain name extensions exist in total](https://iwantmyname.com/blog/2009/09/how-many-domain-extensions-exist-worldwide-statistics-numbers.html "How many TLDs exist in total?")?
 2.  [How many domains are registered worldwide](https://iwantmyname.com/blog/2009/09/how-many-domains-are-registered-in-total.html "Total Number Of Domain Registrations Worldwide?")?
