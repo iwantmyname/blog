@@ -8,7 +8,7 @@ title: Thoughts on the adoption of photography gTLDs
 
 <!-- excerpt -->
 
-<iframe src="https://embed.gettyimages.com/embed/157190523?et=Lwkb-cY0VUqeiQBcuT3eig&sig=ZmXBi3vfVYM4hpK46xrLfpymAdCRO_hY_kEdieGLOCE=" width="605" height="485" frameborder="0" scrolling="no"></iframe>
+![Camera]({{ site.images_url }}/2014-03-10-camera.jpg)
 
 .PHOTOGRAPHY, .PHOTOS, .PHOTO—there are a number of new gTLDs related to photography, but just because something exists doesn't mean it will take off. So we put this up on Twitter hoping for some replies:
 
