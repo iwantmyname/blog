@@ -1,5 +1,5 @@
 /* ========================================================================
- * Bootstrap: transition.js v3.1.0
+ * Bootstrap: transition.js v3.1.1
  * http://getbootstrap.com/javascript/#transitions
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -48,7 +48,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: alert.js v3.1.0
+ * Bootstrap: alert.js v3.1.1
  * http://getbootstrap.com/javascript/#alerts
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -137,7 +137,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: button.js v3.1.0
+ * Bootstrap: button.js v3.1.1
  * http://getbootstrap.com/javascript/#buttons
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -245,7 +245,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: carousel.js v3.1.0
+ * Bootstrap: carousel.js v3.1.1
  * http://getbootstrap.com/javascript/#carousel
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -451,7 +451,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: collapse.js v3.1.0
+ * Bootstrap: collapse.js v3.1.1
  * http://getbootstrap.com/javascript/#collapse
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -622,7 +622,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: dropdown.js v3.1.0
+ * Bootstrap: dropdown.js v3.1.1
  * http://getbootstrap.com/javascript/#dropdowns
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -770,7 +770,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: modal.js v3.1.0
+ * Bootstrap: modal.js v3.1.1
  * http://getbootstrap.com/javascript/#modals
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -1014,7 +1014,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: tooltip.js v3.1.0
+ * Bootstrap: tooltip.js v3.1.1
  * http://getbootstrap.com/javascript/#tooltip
  * Inspired by the original jQuery.tipsy by Jason Frame
  * ========================================================================
@@ -1414,7 +1414,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: popover.js v3.1.0
+ * Bootstrap: popover.js v3.1.1
  * http://getbootstrap.com/javascript/#popovers
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -1525,7 +1525,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: scrollspy.js v3.1.0
+ * Bootstrap: scrollspy.js v3.1.1
  * http://getbootstrap.com/javascript/#scrollspy
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -1679,7 +1679,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: tab.js v3.1.0
+ * Bootstrap: tab.js v3.1.1
  * http://getbootstrap.com/javascript/#tabs
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
@@ -1805,7 +1805,7 @@
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: affix.js v3.1.0
+ * Bootstrap: affix.js v3.1.1
  * http://getbootstrap.com/javascript/#affix
  * ========================================================================
  * Copyright 2011-2014 Twitter, Inc.
