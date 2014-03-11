@@ -1,9 +1,8 @@
-
 ---
 layout: post
 date: 2014-03-11 11:56:35 +1200
 author: Chris
-title: Mashable highlights some great moments in a "brief history of the domain name"
+title: "Mashable highlights some great moments in a \"brief history of the domain name\""
 
 ---
 
