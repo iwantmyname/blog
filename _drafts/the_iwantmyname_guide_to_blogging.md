@@ -1,4 +1,4 @@
-#The iwantmyname guide to blogging
+#The iwantmyname guide to writing
 
 iwantmyname blog posts tend to fall into four categories:
 
