@@ -35,6 +35,13 @@ You can really put images wherever you want, but if you're just going to use one
 
 And please don't add tiny right-or-left justified images. Let them breathe!
 
+###Word style
+
+We write in "American."
+
++ Favorite, not favorite
++ Color, not color
+
 ###Punctuation
 
 **Commas:** Oxford University doesn't use the Oxford Comma, so we don't either. If the individual sentence articles are long, lay them out in bullets. And to avoid [confusion](http://weknowawesome.com/2011/09/30/the-oxford-comma-strippers-jfk-and-stalin/), put plural items last. 
@@ -55,6 +62,10 @@ And please don't add tiny right-or-left justified images. Let them breathe!
 **Citations:** Put citations in quotes and link them in the leading sentence.
 
 + Ex: As iwantmyname writer Chris Hall [once wrote](https://iwantmyname.com/blog/2014/02/thoughts-on-editorially-closing.html), "Click the Mou icon, write document, save to Dropbox, publish it."
+
+**Directions:** If you're guiding someone somewhere, use bold.
+
++ Ex: Click the **Reset Password** link
 
 ###Formatting long quotes
 

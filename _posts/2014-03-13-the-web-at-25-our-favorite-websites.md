@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-03-13 07:48:35 +1200
+date: 2014-03-13 08:48:35 +1200
 author: Chris
 title: The web at 25: Our favorite websites
 
@@ -12,9 +12,7 @@ title: The web at 25: Our favorite websites
 
 The web is 25 today. A big birthday indeed—but what do you get a good friend who has everything? Cake? A [Mistobox](http://www.mistobox.com/) coffee membership?
 
-After a bit of thought, we decided to pool together all of our favorite websites to create a "best of" list. Some sites are new, some are considered old, but all have played a part in making the internet what it is today...
-
-...which is still, to many, much like Mike Sendall famously wrote to Tim Berners-Lee—"Vague, but exciting."
+After a bit of thought, we decided to pool together all of our favorite websites to create a "best of" list. Some sites are new, some are considered old, but all have played a part in making the internet what it is today.
 
 <!-- /excerpt -->
 
@@ -26,7 +24,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [hckrnews.com](http://hckrnews.com/)
 + [facebook.com](http://facebook.com/)
 
-"Special mention to Chrome, which has been an huge help in pushing the web forward. From the omnibox, to speedy JS via the V8 engine, to regular releases with automatic updates (see graph of Chrome usage per version), to adoption of current and upcoming web standards."
+> Special mention to Chrome, which has been an huge help in pushing the web forward. From the omnibox, to speedy JS via the V8 engine, to regular releases with automatic updates (see graph of Chrome usage per version), to adoption of current and upcoming web standards.
 
 **Paul Spence - [@geniusnet](https://twitter.com/GeniusNet):**
 
@@ -44,7 +42,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [domaincite.com](http://domaincite.com/)
 + [toucharcade.com](http://toucharcade/)
 
-"When I'm not working on iwantmyname stuff, it's really more about consuming content, or even better, not spending time in front of a screen at all."
+> When I'm not working on iwantmyname stuff, it's really more about consuming content, or even better, not spending time in front of a screen at all.
 
 **Melanie Baker - [@melle](https://twitter.com/melle‎):**
 
@@ -54,11 +52,11 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [buzzfeed.com](http://buzzfeed.com/)
 + [weather.gc.ca](http://weather.gc.ca/)
 
-"Honorable mention: Google suite - Gmail, Maps, Calendar, etc. (they own my ass)"
+> Honorable mention: Google suite - Gmail, Maps, Calendar, etc. (they own my ass)
 
 **Joel Pitt - [@ferrouswheel](https://twitter.com/ferrouswheel):**
 
-"I tried to pick sites from my entire time online. So some these are old and not used much these days, but I remember spending a lot of time on them."
+> I tried to pick sites from my entire time online. So some these are old and not used much these days, but I remember spending a lot of time on them.
 
 + [livejournal.com](http://livejournal.com/)
 + [stackoverflow.com](http://stackoverflow.com/)
@@ -68,7 +66,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 
 **Lenz Gschwendtner - [@norbu09](https://twitter.com/norbu09):**
 
-"Based on the tabs I currently have open."
+> Based on the tabs I currently have open.
 
 + [github.com](http://github.com/)
 + [metacpan.org](http://metacpan.org/)
@@ -84,7 +82,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [stuff.co.nz](http://stuff.co.nz/)
 + [spon.de](http://spon.de/)
 
-"I usually check stuff.co.nz and spon.de for news once a day, but wouldn't say these are my favourite sites. It's rather a habit."
+> I usually check stuff.co.nz and spon.de for news once a day, but wouldn't say these are my favourite sites. It's rather a habit.
 
 **Chris Hall - [@hashtaghall](https://twitter.com/hashtaghall‎):**
 
@@ -94,4 +92,4 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [daringfireball.com](http://daringfireball.com/)
 + [razzball.com](http://razzball.com/)
 
-"Aggregators, social reviews and link blogs have completely changed the way I view the web."
+> Aggregators, social reviews and link blogs have completely changed the way I view the web.
