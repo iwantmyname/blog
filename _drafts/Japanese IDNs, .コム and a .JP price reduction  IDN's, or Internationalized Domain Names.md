@@ -12,6 +12,8 @@ As Akram Atallah of ICANN said when announcing the "[Dawn of a New Internet Era]
 
 This is a big deal for the localization of the Japanese internet, and is becoming a big deal for non-english speakers all over the world.
 
+
+
 ***
 
 On a side note, we're reducing the price of .JP domains to $79, reduced from $89. If you're looking to grab a local Japanese domain, now is a good time to do so. 

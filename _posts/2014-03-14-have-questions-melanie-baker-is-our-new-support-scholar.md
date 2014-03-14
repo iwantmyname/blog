@@ -1,4 +1,9 @@
-#Have questions? Melanie Baker is our new support scholar
+---
+layout: post
+date: 2014-03-14 16:08:39 +1200
+author: Chris
+title: Have questions? Melanie Baker is our new support scholar
+---
 
 <!-- excerpt -->
 
@@ -6,9 +11,9 @@
 
 First, some math. A good portion of our business comes from good-ol' North America, which creates a huge problem for us—timely time-zone support coverage. In short, we're in NZDT (UTC+13), while New York is in EST (UTC-5). 13--(+)5=18. 
 
-So when the North American east coast is looking to get their day started around 9am, it's still 3am in Wellington. And by the time "the tireds" have worn off (around 11am), much of the North American east coast is packing up to go home.
+So when the North American East coast is looking to get their day started around 9am, it's still 3am in Wellington. And by the time "the tireds" have worn off (around 11am), much of the North American east coast is packing up to go home.
 
-Basically, for us to hire a "Support Scholar," we had to find an agile, patient, independent, crafty, funny, intelligent master of clearly crafting the English language—who lives in North America. 
+Basically, for us to hire a "Support Scholar," we had to find an agile, patient, independent, funny, intelligent master of clearly crafting the English language—who lives in North America. 
 
 Meet Melanie.
 
