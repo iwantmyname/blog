@@ -18,12 +18,15 @@ title: iwantmyname Domain Blog
 					<h1 class="title">
 						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 					</h1>
-
-					{% include excerpt.html %}
-
-					<p class="read-more">
-						<a href="{{ site.baseurl }}{{ post.url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
-					</p>
+					
+					{% if post.excerpt == false %}
+						{{ post.content }}
+					{% else %}
+						{% include excerpt.html %}
+						<p class="read-more">
+							<a href="{{ site.baseurl }}{{ post.url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+						</p>
+					{% endif %}
 				</article>
 
 				{% unless forloop.last %}
