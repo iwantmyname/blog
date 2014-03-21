@@ -6,6 +6,8 @@
 	{{ post.content | split:more_tag | first }}
 {% elsif post.content contains excerpt_end_tag %}
 	{{ post.content | split:excerpt_end_tag | first | split:excerpt_start_tag | last }}
-{% else %}
+{% elsif post.excerpt %}
 	{{ post.excerpt }}
+{% else %}
+	{{ post.content }}
 {% endif %}

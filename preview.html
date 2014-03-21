@@ -6,7 +6,18 @@ title: iwantmyname Domain Blog
 <div class="container iwmn-container iwmn-articles">
 	<div class="row">
 		<div class="col-md-8">
-			{% for post in paginator.posts %}
+			{% for post in site.pages %}
+				{% if post.url contains '/preview/' %}
+					{% assign count = count | plus: 1 %}
+					{% include post-preview.html %}
+
+					{% if count < site.paginate %}
+						<hr>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+
+			{% for post in site.posts | limit: site.paginate - count %}
 				{% include post-preview.html %}
 
 				{% unless forloop.last %}
@@ -14,9 +25,7 @@ title: iwantmyname Domain Blog
 				{% endunless %}
 			{% endfor %}
 				
-			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="more-posts">Older posts</a>
-			{% endif %}
+			<a href="{{ site.baseurl }}/" class="more-posts">Older posts</a>
 		</div>
 
 		<div class="col-md-4">

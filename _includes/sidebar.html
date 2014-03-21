@@ -1,0 +1,18 @@
+<div class="iwmn-articles-nav">
+	<h5>Popular posts</h5>
+	<ul class="list-unstyled">
+		{% for post in site.posts %}
+			{% if site.data.popular contains post.url %}
+				<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>
+<div class="iwmn-articles-nav">
+	<h5>Recent posts</h5>
+	<ul class="list-unstyled">
+		{% for post in site.posts limit:10 %}
+			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
