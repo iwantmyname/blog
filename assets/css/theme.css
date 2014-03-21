@@ -380,9 +380,12 @@ img.author {
     display: none;
   }
 }
-.iwmn-articles-nav {
+.iwmn-articles-nav,
+.iwmn-articles-nav-text {
   margin-top: 30px;
   margin-left: 30px;
+}
+.iwmn-articles-nav {
   padding: 15px 20px;
   border-left: 5px solid #EEE;
   background: #f7f7f7;
@@ -485,4 +488,9 @@ p.read-more {
   display: block;
   margin-right: auto;
   margin-left: auto;
+}
+.iwmn-editor-btn {
+  position: absolute;
+  top: 20px;
+  right: 0;
 }
