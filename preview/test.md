@@ -23,3 +23,6 @@ Fusce dictum convallis lectus ac accumsan. Nam placerat sem mauris, et tincidunt
 
 Donec auctor nunc in blandit imperdiet. Aliquam consectetur porttitor ligula ac interdum. Etiam ut luctus velit. Phasellus ut vestibulum quam. Curabitur accumsan ipsum orci. Donec accumsan nisl vulputate leo convallis, a auctor mi congue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ut elementum eros, vel volutpat purus. Praesent interdum scelerisque odio, at congue diam eleifend ut. Vivamus sodales lobortis dui, sit amet dapibus mi pellentesque sed. Donec dignissim orci id neque pretium, ac hendrerit risus bibendum.
 
+1. an itemized list
+2. of numbers and bullets
+3. is easy in Markdown!
