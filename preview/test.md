@@ -7,6 +7,8 @@ date: 2014-03-21 17:19:00 +1200
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer consequat in nibh a faucibus. Aenean elit elit, adipiscing et augue sit amet, hendrerit pellentesque elit. Etiam cursus malesuada leo. Morbi accumsan, diam vitae vestibulum mattis, neque metus fermentum risus, vel condimentum sapien nibh et mauris. Praesent eu libero elit. Aenean sit amet ullamcorper tellus.
 
+<!-- more -->
+
 Etiam quis cursus velit. Nunc vitae sem magna. Nulla ligula dui, molestie malesuada dolor non, aliquet vehicula lorem. In condimentum pulvinar nisi ac posuere. Ut in scelerisque arcu, eu viverra tellus.
 
 ## This is a big subheading
