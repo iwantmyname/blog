@@ -9,8 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer consequat in ni
 
 Etiam quis cursus velit. Nunc vitae sem magna. Nulla ligula dui, molestie malesuada dolor non, aliquet vehicula lorem. In condimentum pulvinar nisi ac posuere. Ut in scelerisque arcu, eu viverra tellus.
 
-<!-- more -->
-
 ## This is a big subheading
 
 Ut nec ipsum a libero volutpat laoreet vitae sit amet turpis. Nunc pharetra nulla rutrum sem pretium, ultricies convallis diam vestibulum. Integer sollicitudin turpis ac magna sodales sagittis. Integer vel ligula tristique, sagittis elit eu, fermentum lacus.
