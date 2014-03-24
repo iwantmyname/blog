@@ -6,9 +6,13 @@ title: You are the web
 
 ---
 
+<!-- excerpt -->
+
 I imagine you have an email account. Possibly several. You've probably forgotten how many social media accounts you have. Might even have a few websites. That's pretty common. [Over a third](http://www.internetworldstats.com/stats.htm) of the [world's population](http://www.worldometers.info/world-population/) is online these days.
 
 But do you consider _yourself_ a website? A web property? A network? Probably not. But that could change. Might be already. Our world is becoming ever more connected and networked, and the idea of people, tech, and the Internet itself all being separate entities is becoming an increasingly archaic one. 
+
+<!-- /excerpt -->
 
 Data we create online isn't just about our emailing and browsing habits anymore. It's not even just about computers or mobile phones. Our digital systems can include our cars, our appliances, and things we wear. All of these things are becoming more connected.
 
