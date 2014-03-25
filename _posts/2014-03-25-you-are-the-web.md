@@ -7,7 +7,7 @@ title: You are the web
 
 <!-- excerpt -->
 
-![you]({{ site.images_url }}/2014-03-25-guy-photo)
+![you]({{ site.images_url }}/2014-03-25-guy-photo.jpg)
 
 I imagine you have an email account. Possibly several. You've probably forgotten how many social media accounts you have. Might even have a few websites. That's pretty common. [Over a third](http://www.internetworldstats.com/stats.htm) of the [world's population](http://www.worldometers.info/world-population/) is online these days.
 
