@@ -8,7 +8,7 @@ title: Uh oh, this page is missing &mdash; iwantmyname Domain Blog
 
 <!-- Track 404 error in Analytics -->
 <script>
-	window._gaq && _gaq.push(["_trackEvent", "Blog", "404", "404.html", null, true])	
+	ga("send", "event", "Blog", "404", "404.html", null, { nonInteraction: true })
 </script>
 
 <div class="container iwmn-container iwmn-404">
