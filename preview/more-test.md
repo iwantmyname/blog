@@ -5,6 +5,8 @@ title: "Justing the <!-- more --> tag"
 date: 2014-03-24 17:19:00 +1200
 ---
 
+This post is here to test the `<!-- more -->` tag. When present in an article, it seems to break the Markdown parsing of other articles on the page.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer consequat in nibh a faucibus. Aenean elit elit, adipiscing et augue sit amet, hendrerit pellentesque elit. Etiam cursus malesuada leo. Morbi accumsan, diam vitae vestibulum mattis, neque metus fermentum risus, vel condimentum sapien nibh et mauris. Praesent eu libero elit. Aenean sit amet ullamcorper tellus.
 
 <!-- more -->
