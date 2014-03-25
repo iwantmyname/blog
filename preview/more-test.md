@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kevin
-title: "Testing the `<!-- more -->` tag"
+title: Testing the &lt;!-- more --&gt; tag
 date: 2014-03-24 17:19:00 +1200
 ---
 
