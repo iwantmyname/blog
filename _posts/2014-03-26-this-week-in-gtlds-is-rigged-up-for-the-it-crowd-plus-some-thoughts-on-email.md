@@ -29,7 +29,7 @@ Here's a glimpse of what Donuts has in mind with the .EMAIL gTLD. From an interv
 
 > *Donuts, Inc.:* "We leave this decision to the end-user registrant. This is a more specific TLD, so it's clearly likely it can be used for e-mail services (Example: you may someday tell a friend that you could be contacted at mary@smith.email), but it could be used in other contexts as well -- perhaps someone is interested in rating e-mail services or displaying funny e-mails for entertainment. Surely there will be creative uses we haven't anticipated."
 
-It'll be interesting to see how the public uses .EMAIL in the coming months. Obvious use cases don't seem clear to me at the moment, but I've certainly been surprised in the past (I definitely didn't foresee .GURUs popularity). It's always fun to see the internet expand in new and exciting ways. 
+It'll be interesting to see how the public uses .EMAIL in the coming months. Obvious use cases don't seem clear to me at the moment, but I've certainly been surprised in the past (I definitely didn't foresee .GURU's popularity). It's always fun to see the internet expand in new and exciting ways. 
 
 ***
 
