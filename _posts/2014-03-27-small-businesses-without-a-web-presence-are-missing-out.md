@@ -31,7 +31,7 @@ Canadian businesses doing business online help keep dollars north of the border 
 
 The .CA domain is an immediate indicator for those who prefer to shop locally with whom they're doing business. Kind of like sewing a Canadian flag on your backpack, but for the Internet. [It's the fourth fastest-growing domain extension.](http://www.cira.ca/factbook/2013/the-global-net.html) And [Canadians prefer doing business with .CA](http://www.cira.ca/factbook/2013/ca-in-canada.html).
 
-So if being online is so advantageous to Canadian businesses, why are less than half of them taking embracing these opportunities? Well, some people remain afraid of technology. They might think they need to have highly technical expertise to design and run a website, though this is no longer the case.
+So if being online is so advantageous to Canadian businesses, why are less than half of them embracing these opportunities? Well, some people remain afraid of technology. They might think they need to have highly technical expertise to design and run a website, though this is no longer the case.
 
 [There are many services available](https://iwantmyname.com/services/business/) to help business owners get an attractive, informative site up and running quickly and easily—no coding necessary. Social, ecommerce and other features can be included as well with a few clicks.
 
