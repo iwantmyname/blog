@@ -26,7 +26,7 @@ Per 100 people in the country, 114 .ME domain names have been registered. That's
 
 Once non-Latin gTLDs start gaining traction, I think site owners will be much more likely to use non-Latin characters all over the web. This 1.2 million domain name stat could be quite a bit higher this time next year.
 
-###Germany leads Europe
+###Germany leads Europe (and most of the world)
 
 With 15.7 million [.DE](https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany) domains, Germany leads all of Europe in ccTLD registrations. The list drops off quickly after Germany though, with .UK having 10.6 million domains and [.NL](https://iwantmyname.com/domains/nl-dutch-domain-name-registration-for-netherlands) (Netherlands) having 5.4 million.
 
