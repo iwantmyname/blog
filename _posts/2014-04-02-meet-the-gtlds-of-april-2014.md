@@ -51,11 +51,9 @@ Without further ado, here's the list:
 
 + [.BLUE](https://iwantmyname.com/domains/dot-blue) - $19.90 USD / $24.90 NZD
 + [.KIM](https://iwantmyname.com/domains/dot-kim) - $19.90 USD
-+ [.ONL](https://iwantmyname.com/domains/dot-onl)
 + [.移动](https://iwantmyname.com/domains/dot-%E7%A7%BB%E5%8A%A8) - $19.90 USD
 + [.PINK](https://iwantmyname.com/domains/dot-pink) - $19.90 USD
 + [.RED](https://iwantmyname.com/domains/dot-red) - $19.90 USD
-+ [.SHIKSHA](https://iwantmyname.com/domains/dot-shiksha)
 
 ###April 23, 2014 - 16:00 UTC
 
