@@ -9,7 +9,7 @@ title: Meet the gTLDs of April 2014
 
 ![rain]({{ site.images_url }}/2014-04-02-rain.jpg)
 
-Generic top-level domains (gTLDs) are coming out at a consistent pace now, with new delegations, launch dates and prices being announced too often for . So instead of weekly posts announcing long lists of news, we'll keep it to one post (just like this one!) on the first of each month. 
+Generic top-level domains (gTLDs) are coming out at a consistent pace now, with new delegations, launch dates and prices being announced nearly every week. So instead of weekly posts announcing long lists of news, we'll keep it to one post (just like this one!) on the first of each month. 
 
 Also, if you're ever looking for news about a specific TLD, just find it on our [new generic top-level domain page](https://iwantmyname.com/domains/new-gtld-domain-extensions). We're updating each TLD landing page as we hear more information, so check back often.
 
