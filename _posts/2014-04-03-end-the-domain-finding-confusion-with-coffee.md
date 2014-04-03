@@ -13,7 +13,7 @@ This morning I woke up at 7:45 AM and—in zombielike fashion—walked directly 
 
 People close to me think I'm a bit neurotic about my coffee, but it's important to me. It's a hobby, a social scene and something to look forward to every morning—all wrapped up in a warm, brown liquid.
 
-And next week, my hobby and job are colliding. .COFFEE is set to launch on April 9th, and I think a lot of coffee shops and suppliers would do well to take notice.
+And next week, my hobby and job are colliding. .COFFEE is set to launch on April 9th, and I think a lot of coffee shops, suppliers and blogs would do well to take notice.
 
 <!-- /excerpt -->
 
