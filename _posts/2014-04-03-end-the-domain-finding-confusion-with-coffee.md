@@ -5,6 +5,8 @@ author: Chris
 title: End the domain-finding confusion with .COFFEE
 ---
 
+<!-- excerpt -->
+
 ![coffee]({{ site.images_url }}/2014-04-03-coffee.JPG)
 
 This morning I woke up at 7:45 AM and—in zombielike fashion—walked directly to my coffee setup. It was fairly calculated this morning, with 45 grams of a delicious Kenyan roast and 650 grams of 205-degree water poured carefully into my trusty Chemex. 
@@ -12,6 +14,8 @@ This morning I woke up at 7:45 AM and—in zombielike fashion—walked directly 
 People close to me think I'm a bit neurotic about my coffee, but it's important to me. It's a hobby, a social scene and something to look forward to every morning—all wrapped up in a warm, brown liquid.
 
 And next week, my hobby and job are colliding. .COFFEE is set to launch on April 9th, and I think a lot of coffee shops and suppliers would do well to take notice.
+
+<!-- /excerpt -->
 
 ###What .COFFEE can do for you
 
