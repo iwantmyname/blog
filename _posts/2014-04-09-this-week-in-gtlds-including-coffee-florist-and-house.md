@@ -21,5 +21,5 @@ And this week? I'm calling this the week of cozy spring mornings. We have:
 + [.HOUSE](https://iwantmyname.com/domains/dot-house), the place where all the spring cleaning happens
 + [.INTERNATIONAL](https://iwantmyname.com/domains/dot-international), for planning that perfect spring break trip
 
-This is the last day for pre-orders, go get your domain name in before these TLDs go public on April 9th at 16:00 UTC. 
+This is the last day for pre-orders, so get your domain name in before these TLDs go public on April 9th at 16:00 UTC. 
 
