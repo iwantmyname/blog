@@ -13,5 +13,4 @@ title: The Heartbleed Bug, explained
 
 <!-- /excerpt --> 
 
-P.S. Our servers have been patched shortly after the announcement and we have logged out all customers for security reasons. It is now save to change your iwantmyname password.
-
+P.S. Our software has been patched shortly after the announcement.
