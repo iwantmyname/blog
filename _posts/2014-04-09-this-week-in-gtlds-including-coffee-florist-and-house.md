@@ -11,7 +11,9 @@ title: This week in gTLDs, including .COFFEE, .FLORIST and .HOUSE
 
 I don't think there's any rhyme or reason to it, but it seems like each week's batch of new TLDs has a theme. Two weeks ago we had a group of gTLDs with an [IT theme](https://iwantmyname.com/blog/2014/03/this-week-in-gtlds-is-rigged-up-for-the-it-crowd-plus-some-thoughts-on-email.html). Last week we had a group of education-themed extensions ([.EDUCATION](https://iwantmyname.com/domains/dot-education), [.INSTITUTE](https://iwantmyname.com/domains/dot-institute) and [.CAMP](https://iwantmyname.com/domains/dot-camp)). 
 
-And this week? I'm calling this the week of cozy spring mornings. <!-- /excerpt --> We have:
+And this week? I'm calling this the week of cozy spring mornings. We have: 
+
+<!-- /excerpt --> 
 
 + [.COFFEE](https://iwantmyname.com/domains/dot-coffee), to help you wake up and enjoy the crisp, sunny weather
 + [.FLORIST](https://iwantmyname.com/domains/dot-florist), the perfect TLD for finding a bouquet of newly bloomed flowers
