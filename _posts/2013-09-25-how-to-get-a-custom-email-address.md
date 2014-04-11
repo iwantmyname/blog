@@ -25,7 +25,7 @@ We do email hosting this way (through third-party sources) because we want to ke
 
 + [**Zoho Mail**][3]: For many users, Zoho Mail is a top choice because it's easy to install, has a clean interface, delivers push mail and two-way sync, never displays ads and is free for up to 20 users (and only $2/user/month after that for a 10GB mailbox). But for users of Zoho Apps—including Zoho Writer, Zoho Calendar, Zoho Sheet and more—Zoho Mail is the missing piece for creating a full office suite.
 
-+ [**Windows Live**][6]: As part of Microsoft's expanded web presence, Windows Live gives users access to the newly designed Outlook.com interface, and provides a slew of other features. Microsoft Live is available for free for a single user, but businesses can upgrade to Microsoft 365 if they need a more robust platform.
++ **Windows Live** (no longer available): As part of Microsoft's expanded web presence, Windows Live gives users access to the newly designed Outlook.com interface, and provides a slew of other features. Microsoft Live is available for free for a single user, but businesses can upgrade to [Office 365](http://office.microsoft.com/en-us/business/office-365-business-email-and-shared-calendar-services-FX102996755.aspx) if they need a more robust platform.
 
 ### Paid Email Hosting
 
