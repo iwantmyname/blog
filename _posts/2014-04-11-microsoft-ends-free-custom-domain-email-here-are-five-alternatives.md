@@ -1,4 +1,10 @@
-# Microsoft ends free custom domain email: here are 5 alternatives
+---
+layout: post
+date: 2014-04-11 16:48:22 +1200
+author: Timo
+title: "Microsoft ends free custom domain email: here are 5 alternatives"
+excerpt: no
+---
 
 As reported by ZDNet, [Microsoft ends support for custom domains in free email service](http://www.zdnet.com/microsoft-ends-support-for-custom-domains-in-free-email-service-7000028306/?s_cid=e589&ttag=e589&ftag=TREc64629f):
 
