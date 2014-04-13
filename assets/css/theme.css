@@ -328,6 +328,7 @@ img.author {
 .date {
   color: #bbbbbb;
   letter-spacing: 2px;
+  text-transform: uppercase;
 }
 .iwmn-articles {
   padding-top: 20px;
@@ -354,7 +355,6 @@ img.author {
 }
 .iwmn-articles article .date {
   display: block;
-  text-transform: uppercase;
   margin-bottom: -10px;
 }
 .iwmn-articles article .author {
@@ -383,7 +383,12 @@ img.author {
 .iwmn-articles-nav,
 .iwmn-articles-nav-text {
   margin-top: 30px;
-  margin-left: 30px;
+}
+@media (min-width: 992px) {
+  .iwmn-articles-nav,
+  .iwmn-articles-nav-text {
+    margin-left: 30px;
+  }
 }
 .iwmn-articles-nav {
   padding: 15px 20px;
@@ -455,14 +460,15 @@ p.read-more {
 }
 .iwmn-article .byline {
   line-height: 1.5;
-  padding: 20px 0 20px 90px;
-}
-.iwmn-article .byline small {
-  text-transform: uppercase;
+  padding-left: 90px;
 }
 .iwmn-article .byline .author {
   float: left;
   margin-left: -90px;
+}
+.iwmn-article-footer {
+  margin-top: 50px;
+  margin-bottom: 5px;
 }
 .iwmn-404 h1 {
   margin: 60px 0 30px;

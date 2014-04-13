@@ -10,17 +10,24 @@ layout: page
 
 				{{ content }}
 				
-				<p class="byline">
-					<small class="date pull-right">{{ page.date | date:'%B %-d, %Y' }}</small>
-					
-					{% assign author = site.data.authors[page.author] %}
-					{% if author %}
-						<img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}">
+				<div class="row iwmn-article-footer">
+					<div class="col-sm-6">
+						<p class="byline">
+							{% assign author = site.data.authors[page.author] %}
+							{% if author %}
+								<img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}">
 
-						&mdash; {{ author.name }}<br>
-						<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>
-					{% endif %}
-				</p>
+								&mdash; {{ author.name }}<br>
+								<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>
+							{% endif %}
+						</p>
+					</div>
+					<div class="col-sm-6">
+						<p class="text-right">
+							<small class="date">{{ page.date | date:'%B %-d, %Y' }}</small>
+						</p>
+					</div>
+				</div>
 			</article>
 		</div>
 	</div>
