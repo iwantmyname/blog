@@ -8,7 +8,7 @@ title: What's in a name? The case for gTLDs
 
 <!-- excerpt -->
 
-![internet]({{ site.images_url }}/2014-04-15-laptop-internet.jpg)
+![internet]({{ site.images_url }}/2014-04-15-internet.jpg)
 
 I've spent an inordinate amount of time thinking about the future of these new gTLDs, and no matter where my mind takes me, I always return to one question—what's in a name?
 
