@@ -74,7 +74,7 @@ To summarize, I would recommend using a .COM if you can find your brand name on 
 Look at it this way:
 
 + **Best:** yourbrand.com
-+ **Almost as good:** yourbrand.photography, yourbrand.photo, etc.
++ **Almost as good:** yourbrand.photography
 + **Meh:** yourbrandphotography.com
 
 
