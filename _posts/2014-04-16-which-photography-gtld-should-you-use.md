@@ -10,7 +10,7 @@ title: Which photography gTLD should you use?
 
 ![camera]({{ site.images_url }}/2014-04-16-camera-gold.jpg)
 
-What happens when you give a creative person a too many solutions to solve a relatively simple problem?
+What happens when you give a creative person too many solutions to solve a relatively simple problem?
 
 I can tell you firsthand. Panic attacks.
 
