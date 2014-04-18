@@ -2,7 +2,7 @@
 layout: post
 date: 2014-04-11 09:39:23 +1200
 author: Chris
-title: Find a full-bodied gTLD for your craft beverage site
+title: Find a full-bodied domain extension for your craft beverage site
 ---
 
 <!-- excerpt -->
@@ -11,7 +11,7 @@ title: Find a full-bodied gTLD for your craft beverage site
 
 No matter where you travel in the world, there's one cultural constant you can always count on—people take their beverages very seriously. Whether it's coffee, beer, wine, vodka or drinks made of animal parts, there's always something you need to try.
 
-And now, with the launch of the new gTLDs, drink makers can tap into this liquid love with domain names categorized for their craft.
+And now, with the launch of the new generic top-level domains (gTLDs), drink makers can tap into this liquid love with domain names categorized for their craft.
 
 <!-- /excerpt -->
 
