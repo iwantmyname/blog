@@ -2,7 +2,7 @@
 layout: post
 date: 2014-04-16 11:43:46 +1200
 author: Chris
-title: Which photography gTLD should you use?
+title: Which photography domain extension should you use?
 
 ---
 
@@ -14,7 +14,7 @@ What happens when you give a creative person too many ways to solve a relatively
 
 I can tell you firsthand. Panic attacks.
 
-When the new gTLDs were announced a few years back, my hope was that they would all fit into tidy categories. Of course there wouldn't be any overlapping TLDs—that would be madness. Absolute madness!
+When the new generic top-level domains (gTLDs) were announced a few years back, my hope was that they would all fit into tidy categories. Of course there wouldn't be any overlapping TLDs—that would be madness. Absolute madness!
 
 Well, skip to today and check out my own personal nightmare. Instead of fitting a brand name to a catch-all gTLD, we have *six* good gTLDs for the photography category (and plenty more in close orbit, like .CAM and .CAMERA). We have:
 
