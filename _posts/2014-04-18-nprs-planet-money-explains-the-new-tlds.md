@@ -2,7 +2,7 @@
 layout: post
 date: 2014-04-18 06:34:27 +1200
 author: Chris
-title: NPR's Planet Money explains the new TLDs
+title: NPR's Planet Money explains the new top-level domains
 excerpt: no
 
 ---
@@ -15,4 +15,4 @@ And this week's Planet Money, titled "The Wild West Of The Internet," was right 
 
 >Today on the show, what happens when you just create a whole bunch of real estate out of nowhere? We meet some of the new land barons with big dreams. And a guy who worries it's just going to be a big mess.
 
-If you're a fan of the show, or just want to get a better grasp on what's going on with these new gTLDs, [give this episode a listen](http://www.npr.org/blogs/money/2014/04/16/303735386/episode-532-the-wild-west-of-the-internet). I think you'll enjoy it. 
+If you're a fan of the show, or just want to get a better grasp on what's going on with these new generic top-level domains (gTLDs), [give this episode a listen](http://www.npr.org/blogs/money/2014/04/16/303735386/episode-532-the-wild-west-of-the-internet). I think you'll enjoy it. 

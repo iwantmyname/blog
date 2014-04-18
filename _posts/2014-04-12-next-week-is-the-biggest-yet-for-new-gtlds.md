@@ -2,14 +2,14 @@
 layout: post
 date: 2014-04-12 09:04:14 +1200
 author: Chris
-title: Next week is the biggest yet for new gTLDs
+title: Next week is the biggest yet for new domain extensions
 ---
 
 <!-- excerpt -->
 
 ![nice camera]({{ site.images_url }}/2014-04-12-camera.JPG)
 
-I generally don't like to overhype things, but the sheer volume of gTLDs coming out next week is a big deal. Over the course of three days (April 15-17), 14 domain extensions will be going live, and a few of them are likely to be quite popular.
+I generally don't like to overhype things, but the sheer volume of generic top-level domains (gTLDs) coming out next week is a big deal. Over the course of three days (April 15-17), 14 domain extensions will be going live, and a few of them are likely to be quite popular.
 
 Here's the full list:
 
