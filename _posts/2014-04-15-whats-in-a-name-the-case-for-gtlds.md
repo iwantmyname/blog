@@ -2,7 +2,7 @@
 layout: post
 date: 2014-04-15 10:47:01 +1200
 author: Chris
-title: What's in a name? The case for gTLDs
+title: What's in a name? The case for the new domain extensions
 
 ---
 
@@ -10,7 +10,7 @@ title: What's in a name? The case for gTLDs
 
 ![internet]({{ site.images_url }}/2014-04-15-internet.jpg)
 
-I've spent an inordinate amount of time thinking about the future of these new gTLDs, and no matter where my mind takes me, I always return to one question—what's in a name?
+I've spent an inordinate amount of time thinking about the future of these new generic top-level domains (gTLDs), and no matter where my mind takes me, I always return to one question—what's in a name?
 
 Specifically, what makes one TLD better than any other TLD?
 
