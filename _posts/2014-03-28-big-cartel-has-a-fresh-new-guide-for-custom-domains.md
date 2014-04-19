@@ -12,9 +12,9 @@ When we find custom domain guides from web platforms that are clear, informative
 
 [Here's the announcement from the Big Cartel Blog:](http://blog.bigcartel.com/post/80895648068/new-field-guide-custom-domain)
 
->We’ve launched a new guide to help walk you through the wonderful world of custom URLs. A custom domain takes your brand from yourstore.bigcartel.com to yourstore.com, creates a professional first impression, and is one of the best ways to stake your claim on the internet.
-
->Ready to get started? Our latest field guide will give you specific tips on where to purchase your new domain, and the simplest way to connect it to your Big Cartel shop. All that’s really left is to enjoy the new home that you’ve made for your business.
+> We’ve launched a new guide to help walk you through the wonderful world of custom URLs. A custom domain takes your brand from yourstore.bigcartel.com to yourstore.com, creates a professional first impression, and is one of the best ways to stake your claim on the internet.
+>
+> Ready to get started? Our latest field guide will give you specific tips on where to purchase your new domain, and the simplest way to connect it to your Big Cartel shop. All that’s really left is to enjoy the new home that you’ve made for your business.
 
 If you're a Big Cartel user (or thinking about becoming one), check the new guide out [here](http://guides.bigcartel.com/custom-domain/)—it even has some handy tips for "picking a great custom domain."
 
