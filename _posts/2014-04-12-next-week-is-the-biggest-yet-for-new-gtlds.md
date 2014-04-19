@@ -3,7 +3,7 @@ layout: post
 date: 2014-04-12 09:04:14 +1200
 author: Chris
 title: Next week is the biggest yet for new domain extensions
-header_image: 2014-04-12-camera.JPG
+header_image: 2014-04-12-camera.jpg
 ---
 
 <!-- excerpt -->
