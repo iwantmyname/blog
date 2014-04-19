@@ -34,11 +34,9 @@ Just think of the above mention of Starbucks. What would motivate a company of t
 
 The scam emails could be great though: 
 
-<div class="well">
-Dear INTERNET USER,
-
-We recently did a DNA study on Starbucks CEO Howard Schultz and found that you are his closest relative. And because he takes care of his family, we are sending you $5,000,000. All we need in return is your name, home address and social security number. 
-
-Love,
-kash5000000@starbucks.email
-</div>
+> Dear INTERNET USER,
+>
+> We recently did a DNA study on Starbucks CEO Howard Schultz and found that you are his closest relative. And because he takes care of his family, we are sending you $5,000,000. All we need in return is your name, home address and social security number. 
+>
+> Love,
+> kash5000000@starbucks.email

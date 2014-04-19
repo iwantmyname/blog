@@ -3,15 +3,12 @@ layout: post
 date: 2014-03-27 10:51:36 +1200
 author: Melle
 title: Small businesses without a web presence are missing out
-
+header_image: 2014-03-27-business-building.jpg
 search:
   tld: CA
-  
 ---
 
 <!-- excerpt -->
-
-![business]({{ site.images_url }}/2014-03-27-business-building.jpg)
 
 Canadians spend more time online than any other country—45.6 hours per month—[according to CIRA](http://www.cira.ca/factbook/2013/canada-online.html). So it's not surprising that [three-quarters of Canadians research purchases online](http://globalnews.ca/news/1215210/small-businesses-need-to-expand-web-presence/).
 
