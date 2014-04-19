@@ -3,12 +3,10 @@ layout: post
 date: 2014-04-16 11:43:46 +1200
 author: Chris
 title: Which photography domain extension should you use?
-
+header_image: 2014-04-16-camera-gold.jpg
 ---
 
 <!-- excerpt -->
-
-![camera]({{ site.images_url }}/2014-04-16-camera-gold.jpg)
 
 What happens when you give a creative person too many ways to solve a relatively simple problem?
 
@@ -29,7 +27,7 @@ So which one should a photographer choose? And what should people be thinking ab
 
 <!-- /excerpt -->
 
-###Thought 1: Do TLD lengths matter?
+### Thought 1: Do TLD lengths matter?
 
 The general rule is that Google penalizes any domain longer than 63 characters, but even a long TLD like .PHOTOGRAPHY should put you well under that limit. So there's probably not any SEO difference as far as length goes.
 
@@ -39,7 +37,7 @@ But, if your brand currently uses the *YOURNAME Photography* naming convention, 
 
 So the short answer here is yes, TLD length probably does matter, but not enough to create a hard rule. Unless the rule is that you shouldn't choose brevity over accuracy.
 
-###Thought 2: Are keywords important?
+### Thought 2: Are keywords important?
 
 Search engine optimization (SEO) is tricky because the guidelines change with every search engine update, but it's commonly accepted that having a descriptive domain can help search results. 
 
@@ -55,7 +53,7 @@ So are keywords important? Probably so, but you can't con search engines like yo
 
 As a thought exercise, I did a quick keyword search in Google AdWords and found that "photography" gets 135,000 avg. monthly searches, while "photo" only gets 60,500. Keep things like that in mind when choosing your domain/brand name. 
 
-###Thought 3: Which is more memorable?
+### Thought 3: Which is more memorable?
 
 We're getting pretty subjective here, but memorability is probably the most important factor when choosing a TLD. Here are the three rules I'd try to follow:
 
@@ -76,9 +74,3 @@ Look at it this way:
 + **Best:** yourbrand.com
 + **Almost as good:** yourbrand.photography
 + **Meh:** yourbrandphotography.com
-
-
-
-
-
-
