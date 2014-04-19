@@ -1,4 +1,5 @@
-{% assign author = post.guest_author || site.data.authors[post.author] %}
+{% assign author = post.guest_author %}
+{% unless author %}{% assign author = site.data.authors[post.author] %}{% endunless %}
 
 <article>
 	<small class="date">{{ post.date | date:'%B %-d, %Y' }}</small>
