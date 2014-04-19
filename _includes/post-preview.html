@@ -13,7 +13,7 @@
 	</h1>
 	
 	{% if post.header_image %}
-		<p><img src="{{ site.images_url }}/{{ post.header_image }}"></p>
+		<p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.images_url }}/{{ post.header_image }}"></a></p>
 	{% endif %}
 	{% if post.guest_author %}
 		<p class="small text-muted">The following is a guest post written by {{ author.name }}.</p>
