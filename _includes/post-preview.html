@@ -1,7 +1,8 @@
+{% assign author = post.guest_author || site.data.authors[post.author] %}
+
 <article>
 	<small class="date">{{ post.date | date:'%B %-d, %Y' }}</small>
 
-	{% assign author = site.data.authors[post.author] %}
 	{% if author %}
 		<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}"></a>
 	{% endif %}
@@ -13,6 +14,9 @@
 	{% if post.excerpt == false %}
 		{{ post.content }}
 	{% else %}
+		{% if post.header_image %}
+			<p><img src="{{ site.images_url }}/{{ post.header_image }}"></p>
+		{% endif %}
 		{% include excerpt.html %}
 		<p class="read-more">
 			<a href="{{ site.baseurl }}{{ post.url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>

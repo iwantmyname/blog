@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+{% assign author = page.guest_author || site.data.authors[page.author] %}
 
 <div class="container iwmn-container iwmn-article">
 	<div class="row">
@@ -8,25 +9,41 @@ layout: page
 			<article>
 				<h1>{{ page.title }}</h1>
 
+				{% if page.header_image %}
+					<p><img src="{{ site.images_url }}/{{ page.header_image }}"></p>
+				{% endif %}
+				
+				{% if page.guest_author %}
+					<p class="small">The following is a guest post written by <a href="https://twitter.com/{{ author.twitter }}">{{ author.name }}</a>.</p>
+					<hr>
+				{% endif %}
+
 				{{ content }}
 				
-				<div class="row iwmn-article-footer">
-					<div class="col-sm-6">
-						<p class="byline">
-							{% assign author = site.data.authors[page.author] %}
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
 							{% if author %}
-								<img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}">
+								<p class="byline clearfix">
+										<img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}">
 
-								&mdash; {{ author.name }}<br>
-								<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>
+										&mdash; {{ author.name }}<br>
+										<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>
+								</p>
 							{% endif %}
-						</p>
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">{{ page.date | date:'%B %-d, %Y' }}</small>
+							</p>
+						</div>
 					</div>
-					<div class="col-sm-6">
-						<p class="text-right">
-							<small class="date">{{ page.date | date:'%B %-d, %Y' }}</small>
-						</p>
-					</div>
+					{% if author.footer %}
+						<div class="byline small">
+							<hr>
+							{{ author.footer | markdownify }}
+						</div>
+					{% endif %}
 				</div>
 			</article>
 		</div>
