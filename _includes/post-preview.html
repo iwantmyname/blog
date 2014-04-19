@@ -16,9 +16,9 @@
 		<p><img src="{{ site.images_url }}/{{ post.header_image }}"></p>
 	{% endif %}
 	{% if post.guest_author %}
-		<p class="small text-muted">The following is a guest post written by <a href="https://twitter.com/{{ author.twitter }}">{{ author.name }}</a>.</p>
+		<p class="small text-muted">The following is a guest post written by {{ author.name }}.</p>
 	{% endif %}
-	
+
 	{% if post.excerpt == false %}
 		{{ post.content }}
 	{% else %}
