@@ -3,11 +3,12 @@ layout: post
 date: 2014-04-03 15:02:23 +1200
 author: Chris
 title: End the domain-finding confusion with .COFFEE
+header_image: 2014-04-03-coffee.jpg
+search:
+  tld: .Coffee
 ---
 
 <!-- excerpt -->
-
-![coffee]({{ site.images_url }}/2014-04-03-coffee.JPG)
 
 This morning I woke up at 7:45 AM and—in zombielike fashion—walked directly to my coffee setup. It was fairly calculated this morning, with 45 grams of a delicious Kenyan roast and 650 grams of 205-degree water poured carefully into my trusty Chemex. 
 
@@ -17,7 +18,7 @@ And next week, my hobby and job are colliding. .COFFEE is set to launch on April
 
 <!-- /excerpt -->
 
-###What .COFFEE can do for you
+### What .COFFEE can do for you
 
 In a perfect world, I wouldn't have to do a Google search every time I wanted to go to a website. For example, one of my favorite roasters is Heart in Portland, OR, but finding the coffee shop/roaster online (without Google) initially took a bit of guesswork. 
 
