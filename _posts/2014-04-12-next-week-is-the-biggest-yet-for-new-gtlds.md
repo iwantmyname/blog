@@ -3,11 +3,10 @@ layout: post
 date: 2014-04-12 09:04:14 +1200
 author: Chris
 title: Next week is the biggest yet for new domain extensions
+header_image: 2014-04-12-camera.JPG
 ---
 
 <!-- excerpt -->
-
-![nice camera]({{ site.images_url }}/2014-04-12-camera.JPG)
 
 I generally don't like to overhype things, but the sheer volume of generic top-level domains (gTLDs) coming out next week is a big deal. Over the course of three days (April 15-17), 14 domain extensions will be going live, and a few of them are likely to be quite popular.
 
@@ -15,7 +14,7 @@ Here's the full list:
 
 <!-- /excerpt -->
 
-###April 15
+### April 15
 
 + [.BUZZ](https://iwantmyname.com/domains/dot-buzz)
 + [.GIFT](https://iwantmyname.com/domains/dot-gift)
@@ -24,12 +23,12 @@ Here's the full list:
 + [.PHOTO](https://iwantmyname.com/domains/dot-photo)
 + [.PICS](https://iwantmyname.com/domains/dot-pics)
 
-###April 16
+### April 16
 
 + [.HOLIDAY](https://iwantmyname.com/domains/dot-holiday)
 + [.MARKETING](https://iwantmyname.com/domains/dot-marketing)
 
-###April 17
+### April 17
 
 + [.BLUE](https://iwantmyname.com/domains/dot-blue)
 + [.KIM](https://iwantmyname.com/domains/dot-kim)
