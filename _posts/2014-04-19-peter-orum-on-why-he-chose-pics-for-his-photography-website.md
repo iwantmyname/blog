@@ -4,13 +4,16 @@ date: 2014-04-19 08:46:25 +1200
 author: Chris
 title: Peter Orum on why he chose .PICS for his photography website
 
+header_image: 2014-04-19-street-pics.jpg
+guest_author:
+  name: Peter Orum
+  avatar: https://twitter.com/api/users/profile_image/peterorum?size=reasonably_small
+  twitter: peterorum
+  footer: >
+    Find more of Peter Orum's work on his new black and white street photography site, [street.pics](http://street.pics/), and on his personal domain, [peterorum.com](http://www.peterorum.com/#/).
 ---
 
 <!-- excerpt -->
-
-![street.pics]({{ site.images_url }}/2014-04-19-street-pics.jpg)
-
-Guest post by [Peter Orum](https://twitter.com/peterorum):
 
 Up to now, my main web project has been founding a [social networking site](www.paintingsilove.com) for artists to comment on each other’s paintings.  However, I have recently resumed taking black and white street photography after a long break, and I’d like to establish and promote a personal site for my photos.
 
@@ -31,7 +34,3 @@ Choosing a non-.COM wasn’t a cause for concern for my personal site. I already
 Overall, I’m happy to have street.pics as it seems to suit my purposes best from the available options. Definitely now is the time to be trying to get your first choices, even if it means buying a few and trying them out for a few months until you find the one that works best. Just don’t forget to use the appropriate redirection codes, and notify Google Webmaster Tools if changing so you don’t lose what you have built up.  
 
 Good.luck
-
-***
-
-Find more of Peter Orum's work on his new black and white street photography site, [street.pics](http://street.pics/), and on his personal domain, [peterorum.com](http://www.peterorum.com/#/).
