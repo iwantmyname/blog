@@ -26,7 +26,7 @@ The question is, would the owner of chris.com want to register chris.email to ac
 Here's a glimpse of what Donuts has in mind with the .EMAIL gTLD. From an interview on [prlog.org](http://www.prlog.org/12264400-this-weeks-featured-tld-is-email.html):
 
 > ***DotAnything:* How do you envision domains within the .Email TLD being used?**
-
+>
 > *Donuts, Inc.:* "We leave this decision to the end-user registrant. This is a more specific TLD, so it's clearly likely it can be used for e-mail services (Example: you may someday tell a friend that you could be contacted at mary@smith.email), but it could be used in other contexts as well -- perhaps someone is interested in rating e-mail services or displaying funny e-mails for entertainment. Surely there will be creative uses we haven't anticipated."
 
 It'll be interesting to see how the public uses .EMAIL in the coming months. Obvious use cases don't seem clear to me at the moment, but I've certainly been surprised in the past (I definitely didn't foresee .GURU's popularity). It's always fun to see the internet expand in new and exciting ways. 
@@ -34,4 +34,3 @@ It'll be interesting to see how the public uses .EMAIL in the coming months. Obv
 ***
 
 If you're interested in any of the five domains coming out this week, pre-orders are still open—but not for long. The official release is on March 26th at 16:00:00 UTC.
-

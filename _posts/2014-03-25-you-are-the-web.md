@@ -3,11 +3,10 @@ layout: post
 date: 2014-03-25 13:17:12 +1200
 author: Melle
 title: You are the web
+header_image: 2014-03-25-guy-photo.jpg
 ---
 
 <!-- excerpt -->
-
-![you]({{ site.images_url }}/2014-03-25-guy-photo.jpg)
 
 I imagine you have an email account. Possibly several. You've probably forgotten how many social media accounts you have. Might even have a few websites. That's pretty common. [Over a third](http://www.internetworldstats.com/stats.htm) of the [world's population](http://www.worldometers.info/world-population/) is online these days.
 
@@ -40,7 +39,3 @@ Like any other app or social network's settings, how much of that data we would 
 But what we think of as 'online' and a 'website', or even 'content', is evolving. It will no longer just be a partial repository for some of our stuff, or a way to share cat pictures. As sensors become more accurate, devices more wearable, and reliable high-speed connections more ubiquitous, these things may become, to a considerable degree, a reflection of _us_. 
 
 Who will you choose to be on that 'net?
-
-
-
-

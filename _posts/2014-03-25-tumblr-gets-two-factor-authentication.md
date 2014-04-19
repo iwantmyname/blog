@@ -10,9 +10,9 @@ title: Tumblr gets two-factor authentication
 
 [From Staff.Tumblr:](http://staff.tumblr.com/post/80583764030/the-smile-of-a-loved-one-your-childhood-blanket)
 
->The smile of a loved one. Your childhood blanket. A handsome bodyguard to take you in his arms. “Security” can mean a lot of things in this crazy life, but nothing says “security” like Tumblr’s two-factor authentication. It’s available as an option in your [Settings page](https://www.tumblr.com/login?redirect_to=%2Fsettings%2Faccount) as of right now.
-
->You know how you need two keys to launch a nuclear missile? Two-factor authentication works like that. One key is your password, the other key is your cellular phone, and you need both to access your Tumblr Dashboard.
+> The smile of a loved one. Your childhood blanket. A handsome bodyguard to take you in his arms. “Security” can mean a lot of things in this crazy life, but nothing says “security” like Tumblr’s two-factor authentication. It’s available as an option in your [Settings page](https://www.tumblr.com/login?redirect_to=%2Fsettings%2Faccount) as of right now.
+>
+> You know how you need two keys to launch a nuclear missile? Two-factor authentication works like that. One key is your password, the other key is your cellular phone, and you need both to access your Tumblr Dashboard.
 
 <!-- /excerpt -->
 

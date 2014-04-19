@@ -5,7 +5,7 @@ author: Chris
 title: End the domain-finding confusion with .COFFEE
 header_image: 2014-04-03-coffee.jpg
 search:
-  tld: .Coffee
+  tld: Coffee
 ---
 
 <!-- excerpt -->
