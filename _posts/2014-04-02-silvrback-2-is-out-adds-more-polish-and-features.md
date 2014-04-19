@@ -3,18 +3,16 @@ layout: post
 date: 2014-04-02 08:05:34 +1200
 author: Chris
 title: Silvrback 2.0 is out, adds more polish and features
-
+header_image: 2014-04-02-silvrback.png
 ---
 
 <!-- excerpt -->
-
-![alt]({{ site.images_url }}/2014-04-02-silvrback.png)
 
 I'm a bit of a sucker for clean, utilitarian blog platforms, and Silvrback is definitely one of my current favorites. The concept is simple—you write what you want in the Markdown editor, then post. No widgets or distractions—just beautiful, beautiful simplicity. 
 
 And now it's even better. [From Damian Sowers - Silvrback:](https://dsowers.silvrback.com/welcome-to-silvrback-2)
 
->I'm proud to announce the release of Silvrback 2.0! There are numerous changes to the whole platform. I'd like to thank all of the existing Silvrback users out there who have been giving me valuable feedback.
+> I'm proud to announce the release of Silvrback 2.0! There are numerous changes to the whole platform. I'd like to thank all of the existing Silvrback users out there who have been giving me valuable feedback.
 
 <!-- /excerpt -->
 

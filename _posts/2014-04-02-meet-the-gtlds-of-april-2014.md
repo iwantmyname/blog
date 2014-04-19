@@ -3,11 +3,10 @@ layout: post
 date: 2014-04-02 05:55:17 +1200
 author: Chris
 title: Meet the gTLDs of April 2014
+header_image: 2014-04-02-rain.jpg
 ---
 
 <!-- excerpt -->
-
-![rain]({{ site.images_url }}/2014-04-02-rain.jpg)
 
 Generic top-level domains (gTLDs) are coming out at a consistent pace now, with new delegations, launch dates and prices being announced nearly every week. So to make it all a bit easier to digest, we're rolling out a monthly update article (just like this one!) with all the info you'll need. 
 
