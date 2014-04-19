@@ -3,12 +3,10 @@ layout: post
 date: 2014-03-24 05:20:35 +1200
 author: Timo
 title: There is internet history being made in Singapore
-
+header_image: 2014-03-24-icann-singapore.jpg
 ---
 
 <!-- excerpt -->
-
-![ICANN Singapore]({{ site.images_url }}/2014-03-24-icann-singapore.jpg)
 
 The [49th ICANN meeting](http://singapore49.icann.org/en/) officially started today and the community is back in Singapore where internet history was made when new generic top-level domains (gTLDs) were approved in 2011. Coincidentally, Singapore was also the location of the first ever ICANN conference in 1999 so there couldn't be a better place to get together again now that [new gTLDs are a reality](https://iwantmyname.com/domains/new-gtld-domain-extensions).
 

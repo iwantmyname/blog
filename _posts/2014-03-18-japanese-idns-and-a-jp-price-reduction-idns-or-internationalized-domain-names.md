@@ -19,10 +19,10 @@ Well, just recently, Google launched its first Japanese IDN, .みんな (transla
 
 As Akram Atallah of ICANN said when announcing the "[Dawn of a New Internet Era](http://blog.icann.org/2013/10/dawn-of-a-new-internet-era/)":
 
->As more of the world’s developing countries come online it is a given that only a portion of the world’s expanding base of Internet users are native English speakers, so IDNs provide a huge opportunity to increase engagement, commerce and connectivity and represent a bold step forward in the globalization of the Internet.
+> As more of the world’s developing countries come online it is a given that only a portion of the world’s expanding base of Internet users are native English speakers, so IDNs provide a huge opportunity to increase engagement, commerce and connectivity and represent a bold step forward in the globalization of the Internet.
 
 This is a big deal for the localization of the Japanese internet, and is becoming a big deal for non-english speakers all over the world.
 
-###.JP domains are now a bit more economical
+### .JP domains are now a bit more economical
 
 On a similar topic, we're reducing the price of [.JP domains](https://iwantmyname.com/domains/dot-jp) to $79, reduced from $89. If you're looking to grab a local Japanese domain on the proven .JP namespace, now is a good time to do so. 

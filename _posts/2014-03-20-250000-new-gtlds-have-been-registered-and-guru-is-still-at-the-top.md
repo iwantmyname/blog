@@ -3,12 +3,10 @@ layout: post
 date: 2014-03-20 05:20:35 +1200
 author: Chris
 title: 250,000 new gTLDs have been registered, and .GURU is still at the top
-
+header_image: 2014-03-20-gtld-graph.png
 ---
 
 <!-- excerpt -->
-
-![Steady growth]({{ site.images_url }}/2014-03-20-gtld-graph.png)
 
 Technically, as of writing this post, the internet is sitting with 294,066 new gTLDs. And considering the first TLDs only started being offered for general availability in [early February](https://iwantmyname.com/blog/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html), the public reception has been quite nice. 
 
