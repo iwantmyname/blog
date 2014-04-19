@@ -45,7 +45,7 @@ For example, if someone did a search for "New Zealand garden pictures," newzeala
 
 But don't get too excited about keyword stuffing—[according to Duane Forrester, Sr. Product Manager of Bing](http://www.bing.com/blogs/site_blogs/b/webmaster/archive/2014/01/15/domain-name-importance-in-ranking.aspx):
 
->Ranking today is a result of so many signals fed into the system the words used in a domain send less and less information into the stack as a percentage of overall decision making signals. This is great from our view (the engine) as it results in better results showing at the top since no one signal can be manipulated. From the searchers POV, it’s better simply because those sites trying to abuse their way to the top with a keyword rich domain and irrelevant or poor content cease to rank well.
+> Ranking today is a result of so many signals fed into the system the words used in a domain send less and less information into the stack as a percentage of overall decision making signals. This is great from our view (the engine) as it results in better results showing at the top since no one signal can be manipulated. From the searchers POV, it’s better simply because those sites trying to abuse their way to the top with a keyword rich domain and irrelevant or poor content cease to rank well.
 
 And he finishes his thought quite well with a simple tip, "Good domain names are easy to remember, easy to spell, easy to pronounce and often short."
 
@@ -63,7 +63,7 @@ We're getting pretty subjective here, but memorability is probably the most impo
 
 3. Go with what's popular, and right now, .PHOTOGRAPHY is the third most popular new gTLD out there. That could certainly change in the coming months, but if the photography world gravitates to a single TLD, I'd certainly consider riding that wave.
 
-###Thought 4: Should you just use a .COM?
+### Thought 4: Should you just use a .COM?
 
 The million dollar question. If you're still on the fence about using a new gTLD, I'd recommend taking a look at [this post](https://iwantmyname.com/blog/2014/04/whats-in-a-name-the-case-for-gtlds.html).
 
