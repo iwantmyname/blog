@@ -5,7 +5,8 @@ author: Chris
 title: May 1st is .KIWI day
 excerpt: no
 search:
-  tld: KIWI
+  tld: Kiwi
+  
 ---
 
 Like little online children, we love each generic top-level domain (gTLD) the same. .GURU, .RED, .PHOTOGRAPHY—all are lovely in their own special way. But if we were stranded on a desert island and could only bring one, we'd choose .KIWI, New Zealand's choicest new domain extension. 
