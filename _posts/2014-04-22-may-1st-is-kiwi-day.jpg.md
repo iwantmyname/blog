@@ -13,4 +13,4 @@ Like little online children, we love each generic top-level domain (gTLD) the sa
 
 On May 1st, .KIWI is set to launch, and we're really hoping it takes off with local businesses and bloggers. Because...well...we'll finally have a TLD that's as unique and quirky as we are.
 
-So go on—[pre-orders](https://iwantmyname.com/domains/dot-kiwi) are only open for a while longer. Make sure you are ready when .KIWI takes off!
+So go on—[pre-orders](https://iwantmyname.com/domains/dot-kiwi) are only open for a while longer. Make sure you're ready when .KIWI takes off!
