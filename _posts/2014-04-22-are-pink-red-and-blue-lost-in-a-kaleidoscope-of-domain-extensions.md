@@ -7,11 +7,15 @@ header_image: 2014-04-22-pink-red-blue.png
 
 ---
 
+<!-- excerpt -->
+
 When Afilias announced the start of their [.PINK](https://iwantmyname.com/domains/dot-pink), [.RED](https://iwantmyname.com/domains/dot-red) and [.BLUE](https://iwantmyname.com/domains/dot-blue) sunrise periods, this is how .PINK was positioned ([click over](http://finance.yahoo.com/news/afilias-adds-color-choice-internet-192000232.html) for .BLUE and .RED):
 
 >.PINK addresses embrace a wide range of uses, from the lighthearted fun of baby furnishings and toys to the simmering sensuality of lingerie products to the compassion and courage of cancer caregivers and patients. Young women — and men — of all ages love the optimism of .PINK and can now have a business or personal name that expresses their “pink-itude.” Finally, you can show the world that you “Think .PINK!”
 
 I'm definitely a proponent of the new generic top-level domains (gTLDs), but from the start, I wondered how popular color TLDs will be in the long run (the first day was pretty rough). 
+
+<!-- /excerpt -->
 
 Up to now, the vast majority of the gTLDs fit nicely into these three categories:
 
