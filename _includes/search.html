@@ -1,11 +1,18 @@
 <div class="page-section">
+	{% if page.preorder.tld %}
+	<form class="domain-search text-center" method="post" action="https://iwantmyname.com/prereg/{{ page.preorder.tld | downcase }}">
+	{% else %}
 	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
 		<input type="hidden" name="hideUnavailable" value="false">
+	{% endif %}
 
 		{% if page.search.tld %}
 			<input type="hidden" name="tld" value="{{ page.search.tld | downcase }}">
 			<h1>Find the perfect .{{ page.search.tld }} domain name.</h1>
 			<h4 class="text-muted">From here to your .{{ page.search.tld }} domain in 180 seconds.</h4>
+		{% elsif page.preorder.tld %}
+			<h1>Pre-order your .{{ page.preorder.tld }} domain name today.</h1>
+			<h4 class="text-muted">We'll keep you updated on the launch of the new .{{ page.preorder.tld }} domain extension.</h4>
 		{% else %}
 			<h1>Find the perfect domain name.</h1>
 			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
