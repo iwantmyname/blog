@@ -15,7 +15,7 @@ guest_author:
 
 <!-- excerpt -->
 
-Up to now, my main web project has been founding a [social networking site](www.paintingsilove.com) for artists to comment on each other’s paintings.  However, I have recently resumed taking black and white street photography after a long break, and I’d like to establish and promote a personal site for my photos.
+Up to now, my main web project has been founding a [social networking site](http://www.paintingsilove.com) for artists to comment on each other’s paintings.  However, I have recently resumed taking black and white street photography after a long break, and I’d like to establish and promote a personal site for my photos.
 
 As mentioned in the iwantmyname [blog](https://iwantmyname.com/blog/2014/04/which-photography-gtld-should-you-use.html), there are a range of different gTLDs to use for photography, including .GALLERY, .PHOTO, .PHOTOS, .PHOTOGRAPHY, .PICS & .PICTURES. When I found that the .PHOTOGRAPHY domain extension was available, I tried to grab street.photography, but it was already taken. So in trying to get something as close/relevant to that as possible, I was able to get streetbw.photography. As I really wanted something starting with just 'street,' I also pre-ordered ‘street’ with some of the other gTLDs, just on the off-chance.
 
