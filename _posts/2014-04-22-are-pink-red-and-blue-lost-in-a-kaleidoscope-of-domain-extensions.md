@@ -11,7 +11,7 @@ When Afilias announced the start of their [.PINK](https://iwantmyname.com/domain
 
 >.PINK addresses embrace a wide range of uses, from the lighthearted fun of baby furnishings and toys to the simmering sensuality of lingerie products to the compassion and courage of cancer caregivers and patients. Young women — and men — of all ages love the optimism of .PINK and can now have a business or personal name that expresses their “pink-itude.” Finally, you can show the world that you “Think .PINK!”
 
-I'm definitely a proponent of the new generic top-level domains (gTLDs), but from the start, I wondered how popular color TLDs will be in the long run (the first day was [pretty rough](http://domainnamewire.com/2014/04/18/afilias-new-top-level-domain-names-have-very-slow-first-day/)). 
+I'm definitely a proponent of the new generic top-level domains (gTLDs), but from the start, I wondered how popular color TLDs will be in the long run (the first day was pretty rough). 
 
 Up to now, the vast majority of the gTLDs fit nicely into these three categories:
 
@@ -21,7 +21,7 @@ Up to now, the vast majority of the gTLDs fit nicely into these three categories
 
 But .PINK, .RED and .BLUE? Looking at the marketing message above, they don't seem to have a clear definition, and they certainly don't directly categorize many brands (although they'll probably get a few registrations from Victoria's Secret's PINK line). 
 
-As Andrew Allemann of Domain Name Wire put it, "I would think for one of the color domains to take off they’ll need to get a few key celebrities, star brands, or startups on board. They’ll have to make the domains mean something when they don’t mean much on their own."
+As Andrew Allemann of Domain Name Wire [put it]((http://domainnamewire.com/2014/04/18/afilias-new-top-level-domain-names-have-very-slow-first-day/)), "I would think for one of the color domains to take off they’ll need to get a few key celebrities, star brands, or startups on board. They’ll have to make the domains mean something when they don’t mean much on their own."
 
 One thing I have seen is color TLDs being used for domain hacks—particularly with .RED. A quick search on the [Scrabble Word Finder](http://www.scrabblefinder.com/ends-with/red/) brings up a ton of great ideas, including bo.red, tou.red, admi.red and acqui.red. 
 
