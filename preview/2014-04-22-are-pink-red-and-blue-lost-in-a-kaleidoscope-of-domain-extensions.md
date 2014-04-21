@@ -19,7 +19,7 @@ Up to now, the vast majority of the gTLDs fit nicely into these three categories
 2. They align with your brand, like .PHOTOGRAPHY
 3. They define you, like .GURU
 
-But .RED, .PINK and .BLUE? Looking at the marketing message above, they don't seem to have a clear definition, and they certainly don't directly categorize many brands (although they'll probably get a few registrations from Victoria's Secret's PINK line). 
+But .PINK, .RED and .BLUE? Looking at the marketing message above, they don't seem to have a clear definition, and they certainly don't directly categorize many brands (although they'll probably get a few registrations from Victoria's Secret's PINK line). 
 
 As Andrew Allemann of Domain Name Wire put it, "I would think for one of the color domains to take off they’ll need to get a few key celebrities, star brands, or startups on board. They’ll have to make the domains mean something when they don’t mean much on their own."
 
