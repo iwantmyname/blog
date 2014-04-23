@@ -2,7 +2,7 @@
 layout: post
 date: 2014-04-23 12:49:25 +1200
 author: Chris
-title: Do new domain extensions make good domain hacks?
+title: Do the new domain extensions make good domain hacks?
 header_image: 2014-04-24-abacus.jpg
 
 ---
