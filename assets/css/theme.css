@@ -188,6 +188,9 @@ header {
   border-radius: 20px;
   opacity: 0.8;
 }
+.iwmn-nav > li > a > .glyphicon {
+  line-height: inherit;
+}
 .iwmn-nav > li > a:hover,
 .iwmn-nav > li.open > a {
   color: #000;
@@ -499,4 +502,31 @@ p.read-more {
   position: absolute;
   top: 20px;
   right: 0;
+}
+.iwmn-article-header {
+  position: relative;
+  padding-top: 150px;
+  margin-bottom: 20px;
+  background-color: #333333;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.iwmn-article-header:before {
+  content: '';
+  position: absolute;
+  top: 150px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: -webkit-linear-gradient(top, transparent 0%, rgba(34, 34, 34, 0.8) 100%);
+  background-image: linear-gradient(to bottom, transparent 0%, rgba(34, 34, 34, 0.8) 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#cc222222', GradientType=0);
+}
+.iwmn-article-header h1 {
+  color: #FFF;
+  font-size: 54px;
+  font-weight: 400;
+  text-shadow: 0 2px 4px rgba(34, 34, 34, 0.3);
 }
