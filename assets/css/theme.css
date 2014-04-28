@@ -296,6 +296,15 @@ footer .row:last-child {
     height: 360px;
   }
 }
+@media (max-width: 767px) {
+  .wrapper {
+    margin-bottom: -380px;
+    padding-bottom: 480px;
+  }
+  footer {
+    height: 380px;
+  }
+}
 blockquote {
   font-size: inherit;
   line-height: inherit;
