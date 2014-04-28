@@ -259,19 +259,23 @@ html,
 body {
   height: 100%;
 }
-.wrapper {
-  min-height: 100%;
-  height: auto !important;
+.frame {
+  display: table;
+  width: 100%;
   height: 100%;
-  margin: 0 auto -230px;
-  padding-bottom: 330px;
+}
+.frame-row {
+  display: table-row;
+  height: 1px;
+}
+.frame-row-expand {
+  height: auto;
 }
 footer {
+  padding: 20px 0;
   background-color: #555555;
   color: #999999;
-  height: 230px;
   font-size: 12px;
-  padding: 20px 0;
 }
 footer a {
   color: #eeeeee;
@@ -286,24 +290,6 @@ footer .list-header {
 }
 footer .row:last-child {
   margin-top: 20px;
-}
-@media (max-width: 991px) {
-  .wrapper {
-    margin-bottom: -360px;
-    padding-bottom: 460px;
-  }
-  footer {
-    height: 360px;
-  }
-}
-@media (max-width: 767px) {
-  .wrapper {
-    margin-bottom: -380px;
-    padding-bottom: 480px;
-  }
-  footer {
-    height: 380px;
-  }
 }
 blockquote {
   font-size: inherit;
@@ -344,6 +330,7 @@ img.author {
 }
 .iwmn-articles {
   padding-top: 20px;
+  padding-bottom: 50px;
 }
 .iwmn-articles h1 {
   font-size: 24px;
@@ -441,8 +428,6 @@ p.read-more {
 }
 .page-section {
   background: #f5f5f5;
-  margin-top: 50px;
-  margin-bottom: -100px;
 }
 .iwmn-article {
   font-size: 16px;
