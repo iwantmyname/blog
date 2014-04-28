@@ -335,7 +335,6 @@ img.author {
 }
 .iwmn-articles {
   padding-top: 20px;
-  padding-bottom: 50px;
 }
 .iwmn-articles h1 {
   font-size: 24px;
@@ -474,6 +473,10 @@ p.read-more {
 }
 .iwmn-404 h1 {
   margin: 60px 0 30px;
+}
+.iwmn-article,
+.iwmn-articles {
+  padding-bottom: 50px;
 }
 .iwmn-article article iframe,
 .iwmn-articles article iframe {
