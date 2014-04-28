@@ -283,10 +283,15 @@ footer a {
 footer a:hover {
   color: #FFF;
 }
+footer li {
+  margin-left: 1em;
+  text-indent: -1em;
+}
 footer .list-header {
   text-transform: uppercase;
   font-weight: 500;
-  margin: 20px 0 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 footer .row:last-child {
   margin-top: 20px;
