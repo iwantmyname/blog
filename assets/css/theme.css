@@ -513,6 +513,9 @@ p.read-more {
   background-position: center;
   background-repeat: no-repeat;
 }
+.iwmn-article-header .iwmn-article {
+  padding-bottom: 0;
+}
 .iwmn-article-header:before {
   content: '';
   position: absolute;
