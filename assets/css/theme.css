@@ -541,3 +541,34 @@ p.read-more {
     padding-top: 150px;
   }
 }
+.placeholder-overflow {
+  color: transparent;
+}
+.placeholder-overflow-before {
+  color: #cccccc;
+  content: "Find a domain…";
+}
+@media (max-width: 767px) {
+  .domain-search ::-moz-placeholder {
+    color: transparent;
+  }
+  .domain-search ::-moz-placeholder:before {
+    color: #cccccc;
+    content: "Find a domain…";
+    opacity: 1;
+  }
+  .domain-search :-ms-input-placeholder {
+    color: transparent;
+  }
+  .domain-search :-ms-input-placeholder:before {
+    color: #cccccc;
+    content: "Find a domain…";
+  }
+  .domain-search ::-webkit-input-placeholder {
+    color: transparent;
+  }
+  .domain-search ::-webkit-input-placeholder:before {
+    color: #cccccc;
+    content: "Find a domain…";
+  }
+}
