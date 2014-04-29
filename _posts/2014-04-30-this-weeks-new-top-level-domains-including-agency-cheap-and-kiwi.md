@@ -41,7 +41,7 @@ From Kevin Murphy - Domain Incite:
 
 ###"Discount" domains
 
-I'm sure this will become more clear in the coming months, but I wonder what the public reaction to the "discount" TLDs will be. [.BARGAINS](https://iwantmyname.com/domains/dot-bargains) and [.CHEAP](https://iwantmyname.com/domains/dot-cheap) are coming this week, and they'll be competing with .CHEAP, .CODES, .COUPON, .COUPONS, .DEAL, .DEALS and .SALE. I think we'll see one of two things happen:
+I'm sure this will become more clear in the coming months, but I wonder what the public reaction to the "discount" TLDs will be. [.BARGAINS](https://iwantmyname.com/domains/dot-bargains) and [.CHEAP](https://iwantmyname.com/domains/dot-cheap) are coming this week, and they'll be competing with .CODES, .COUPON, .COUPONS, .DEAL, .DEALS and .SALE. I think we'll see one of two things happen:
 
 1. The certain flood of spammy discount sites (there are good ones, just not many) will cause people to reject these gTLDs for trust reasons.
 2. There will be so many TLDs in search results that people will just put on blinders and trust search results.
