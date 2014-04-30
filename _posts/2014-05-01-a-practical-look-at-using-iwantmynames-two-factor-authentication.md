@@ -36,15 +36,13 @@ Just open up your Authy app (or SMS text) and type in the code provided—and th
 
 ###But will this get annoying?
 
-The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we're not a Bitcoin platform you're logging into every day[^1]. If you're like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you're slow, it can only take that long), you're only looking at losing a few seconds of your life a month. 
+The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we're not a Bitcoin platform you're logging into every day. If you're like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you're slow, it can only take that long), you're only looking at losing a few seconds of your life a month. 
 
 And that's a really small price to pay for peace of mind. 
 
 ***
 
 Image Credit: [MoneyBlogNewz](https://secure.flickr.com/photos/moneyblognewz/5301647518/in/photolist-95uk6Q-95uk7y-baeqZX)
-
-[^1]: Sometimes I do get frustrated constantly logging into Coinbase with Authy. But I'd rather be frustrated than risk losing my money.
 
 
 
