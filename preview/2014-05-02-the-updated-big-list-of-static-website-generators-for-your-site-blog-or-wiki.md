@@ -3,13 +3,11 @@ layout: post
 date: 2014-05-02 10:58:09 +1200
 author: Chris
 title: The updated big list of static website generators for your site, blog or wiki
-header_image: 2014-04-29-static.jpg
+header_image: 2014-05-02-static.jpg
 
 ---
 
 <!-- excerpt -->
-
-![static]({{ site.images_url }}/2014-05-02-static.jpg)
 
 Dynamic websites certainly have their place on the internet, but you may find the enhanced security, performance and ease of hosting a static site to be just what you need. So here's the big list of static site generators (the sequel to Timo's original ["32 static website generators for your site, blog or wiki"](https://iwantmyname.com/blog/2011/02/list-static-website-generators.html)) to get you started, sorted by language/platform.
 
