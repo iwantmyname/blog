@@ -299,6 +299,11 @@ footer .row:last-child {
 blockquote {
   font-size: inherit;
   line-height: inherit;
+  border-left: 0;
+  color: #555555;
+  background-color: #f5f5f5;
+  padding: 30px;
+  border-radius: 6px;
 }
 img.author {
   width: 75px;
