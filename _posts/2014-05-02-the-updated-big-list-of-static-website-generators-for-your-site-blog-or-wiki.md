@@ -169,7 +169,9 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 ---
 
-#### The list of sources
+###Not quite static, but 
+
+### The list of sources
 
 + Timo's [original list](https://iwantmyname.com/blog/2011/02/list-static-website-generators.html) of 32, sources included
 + Klint Finley's ["5 Minimalist Static Blog Generators to Check Out"](http://siliconangle.com/blog/2012/03/20/5-minimalist-static-html-blog-generators-to-check-out/) on Silicon Angle
