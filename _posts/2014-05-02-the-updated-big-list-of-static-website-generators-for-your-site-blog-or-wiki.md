@@ -171,9 +171,9 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 ###Not static, but in the same universe
 
-[Kirby](http://getkirby.com/) - A PHP-based CMS that's "easy to setup, easy to use, flexible as hell."
+[Kirby](http://getkirby.com/) - A PHP-built CMS that's "easy to setup, easy to use, flexible as hell."
 
-[Statamic](http://statamic.com/) - A flat-file CMS using PHP with a beautiful and responsive control panel designed with clients in mind.
+[Statamic](http://statamic.com/) - A flat-file CMS built on PHP with a beautiful and responsive control panel designed with clients in mind.
 
 ***
 
