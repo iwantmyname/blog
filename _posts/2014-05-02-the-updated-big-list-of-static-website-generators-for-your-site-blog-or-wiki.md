@@ -169,7 +169,9 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 ---
 
-###Not quite static, but 
+###Not quite static, but in the same universe
+
+[Statamic](http://statamic.com/) - A flat-file CMS with a beautiful and responsive control panel designed with clients in mind.
 
 ### The list of sources
 
