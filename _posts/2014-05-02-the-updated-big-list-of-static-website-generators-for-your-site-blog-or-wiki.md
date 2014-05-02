@@ -167,12 +167,15 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Monkeyman](https://github.com/wspringer/monkeyman) - A static site generator similar to Middleman that's built in Scala.
 
----
+***
 
 ###Not static, but in the same universe
 
-[Kirby](http://getkirby.com/)
-[Statamic](http://statamic.com/) - A flat-file CMS with a beautiful and responsive control panel designed with clients in mind.
+[Kirby](http://getkirby.com/) - A PHP-based CMS that's "easy to setup, easy to use, flexible as hell."
+
+[Statamic](http://statamic.com/) - A flat-file CMS using PHP with a beautiful and responsive control panel designed with clients in mind.
+
+***
 
 ### The list of sources
 
