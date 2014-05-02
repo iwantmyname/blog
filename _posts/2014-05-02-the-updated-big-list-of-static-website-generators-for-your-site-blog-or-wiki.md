@@ -81,8 +81,6 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Stacey](http://www.staceyapp.com/) - A lightweight content management system managed simply by creating folders and editing text files.
 
-[Statamic](http://statamic.com/) - A flat-file CMS with a beautiful and responsive control panel designed with clients in mind.
-
 [Templeet](http://www.templeet.org/index.html.en) - Can easily generate HTML, CSS, SVG pictures, SMIL and text files.
 
 [Tempo](http://www.catnapgames.com/blog/2011/10/13/tempo-php-static-site-generator.html) - Uses PHP-based templates, test files and images to build static HTML sites.
