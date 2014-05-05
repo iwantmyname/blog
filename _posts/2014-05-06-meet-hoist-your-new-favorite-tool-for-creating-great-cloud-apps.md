@@ -3,7 +3,7 @@ layout: post
 date: 2014-05-06 07:27:51 +1200
 author: Chris
 title: Meet Hoist, your new favorite tool for creating great cloud apps
-header_image: 2014-05-06-hoist.png
+header_image: 2014-05-06-hoist-2.png
 
 ---
 
