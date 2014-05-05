@@ -1,0 +1,8 @@
+{% if page.path contains '_posts' %}
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="{{ page.title }}">
+	<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
+	{% if page.header_image %}
+		<meta property="og:image" content="{{ site.images_url }}/{{ page.header_image }}">
+	{% endif %}
+{% endif %}
