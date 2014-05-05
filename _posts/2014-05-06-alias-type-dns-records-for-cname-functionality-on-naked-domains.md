@@ -13,7 +13,7 @@ If you've ever wanted to set up domains using cloud hosting services like Heroku
 1. CNAME records must not be used on naked domains, meaning they will ask you to use a sub-domain, e.g. 'www' for your site or app.
 2. They are unable to provide you with A records for setting up naked domains due to scalability issues. If there is an attack on their infrastructure, it would take down all sites using the same A record(s).
 
-This scenario leaves you with two different options for setting up custom domains which we will explore.
+This scenario leaves you with two different options for setting up custom domains, both of which we will explore.
 
 <!-- /excerpt -->
 
