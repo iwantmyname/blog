@@ -10,6 +10,10 @@ categories:
 
 ---
 
+**Note: The updated version of this list now lives [here](https://iwantmyname.com/blog/2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html).**
+
+***
+
 Sometimes, all a geek needs is a quick way to generate a static site and put it up on a server or hosting service like [Amazon S3](https://iwantmyname.com/services/developer/setup-custom-domain-amazon-s3) or [GitHub Pages](https://iwantmyname.com/services/developer/github-pages-custom-domain). We've compiled a list of static website generators that can be used for exactly this purpose:
 
 1. [Blatter](http://bitbucket.org/jek/blatter/): Simple tool for developing and publishing static web sites built from templates.
