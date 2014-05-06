@@ -3,7 +3,7 @@ layout: post
 date: 2014-05-07 12:12:58 +1200
 author: Chris
 title: Go mobile! 6 web/blog platforms with well-designed mobile apps
-image_header: 2014-05-07-roon-ipad.png
+header_image: 2014-05-07-roon-ipad.png
 
 ---
 
