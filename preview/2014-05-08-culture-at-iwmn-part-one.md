@@ -5,6 +5,8 @@ title: 'Culture at iwantmyname - Part 1: The "one salary experiment"'
 date: 2014-05-08 15:13:17 +1200
 ---
 
+<!-- excerpt -->
+
 On our blog we talk a lot about what happens in the industry we are in,
 what happens on the web and around our company but not too often about
 how we actually run iwantmyname.
@@ -16,6 +18,8 @@ way of that for everyone in our team. Many companies talk nowadays about
 optimising for happiness, Tony Hsieh (CEO of Zappos) often talks about
 it at conferences, Github has it as one of their core principles and we
 work towards achieving exactly that. But what does that actually mean?
+
+<!-- /excerpt -->
 
 I will write a few blog posts about what we do in iwantmyname and the
 experiments we run and how that pans out so far. I hope that we can be
