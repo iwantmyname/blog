@@ -40,12 +40,14 @@ LetsEat is another restaurant-only platform that integrates menus, photography a
 
 ###Don't forget about the new gTLDs
 
-Finding the perfect domain name can be just as important as building a great site. But if you can't get a good .COM, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) coming out for restaurant sites, including:
+Finding the perfect domain name can be just as important as building a great site. But if you can't get a good .COM, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLD) coming out for restaurant sites, including:
 
 + [.CAFE](https://iwantmyname.com/domains/dot-cafe)
 + [.EAT](https://iwantmyname.com/domains/dot-eat)
 + [.FOOD](https://iwantmyname.com/domains/dot-food)
 + [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen) - out now
 + [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
+
+Pre-orders are open now, so get your restaurant's name on the list before they open to the public.
 
 
