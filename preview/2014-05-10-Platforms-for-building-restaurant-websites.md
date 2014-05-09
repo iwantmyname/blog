@@ -10,7 +10,7 @@ header_image: 2014-05-10-forks.jpg
 
 Running a restaurant is a hard business, and as more and more customers choose to dine at places with good design aesthetics, it's become increasingly important to have a similarly beautiful website. But going with an agency, or even a freelancer, to build your site can be quite expensive, so it may be wise to make your site yourself. 
 
-Fortunately, we're not living in the early 2000's, a time when cheesy Flash sites and animated banners were all the rage. The web platforms of today can help even the most novice restauranteurs create slick, responsive sites with integrated social platforms and menu systems.
+Fortunately, we're not living in the early 2000's, a time when cheesy Flash site creators using animated banners were all the rage. The web platforms of today can help even the most novice restauranteurs create slick, responsive sites with integrated social platforms and menu systems.
 
 And to make it even easier, here are four platforms available in our [one-click marketplace](https://iwantmyname.com/services). 
 
