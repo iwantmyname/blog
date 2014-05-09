@@ -4,6 +4,7 @@ date: 2014-05-10 11:45:34 +1200
 author: Chris
 title: 4 platforms for building beautiful restaurant websites
 header_image: 2014-05-10-forks.jpg
+
 ---
 
 <!-- excerpt -->
@@ -15,6 +16,8 @@ Fortunately, we're not living in the early 2000's, a time when cheesy Flash site
 And to make it even easier, here are four platforms available in our [one-click marketplace](https://iwantmyname.com/services). 
 
 <!-- /excerpt -->
+
+***
 
 ![Squarespace]({{ site.images_url }}/2014-05-10-squarespace-restaurant.jpg)
 
