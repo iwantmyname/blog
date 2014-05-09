@@ -21,7 +21,7 @@ And to make it even easier, here are four platforms available in our [one-click 
 
 ![Squarespace]({{ site.images_url }}/2014-05-10-squarespace-restaurant.jpg)
 
-**[Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) ([website](http://www.squarespace.com/tour/restaurants)) ** - "Say goodbye to Flash websites and PDF menus. Squarespace makes exceptional design and modern functionality available to all restaurants. Best of all, it's a piece of cake to update yourself."
+**[Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) ([website](http://www.squarespace.com/tour/restaurants))** - "Say goodbye to Flash websites and PDF menus. Squarespace makes exceptional design and modern functionality available to all restaurants. Best of all, it's a piece of cake to update yourself."
 
 Squarespace does a lot right with its simple website template system. With no design or development skill, you can create a responsive site (meaning it resizes automatically for any screen size) with beautiful photography, a great menu system, OpenTable integration, social connections and even an online sales platform. 
 
