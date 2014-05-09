@@ -28,15 +28,15 @@ Squarespace does a lot right with its simple website template system. With no de
 
 Like Squarespace, Virb is a comprehensive site builder that has entered the restaurant market in a big way. With no dev background, you get a number of beautiful templates with menu systems, contact pages, social integrations and OpenTable.
 
+**[Site Hungry](https://iwantmyname.com/services/website-builder/site-hungry-for-restaurants) ([website]((http://sitehungry.com/))** - "Site Hungry allows you to set up a brand new restaurant website in less than 5 minutes. Share all of your restaurant's hours, location and contact information, menu, and social media in one place."
+
+Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to building restaurant sites. And as far as ease of use goes, it may be the easiest to get up and running. The platform doesn't quite have the full feature-set of the bigger, more established platforms yet, but I'd expect steady growth as the user-base grows.
+
 ![alt]({{ site.images_url }}/2014-05-10-letseat-restaurant.png)
 
 **[LetsEat](https://iwantmyname.com/services/website-builder/custom-domain-letseatat) ([website](http://www.letseat.at/))** - "Let's Eat is made for busy people who want to update their menu specials on the fly, not deal with HTML and JavaScript. It is an advanced restaurant website builder that doesn't come with a steep learning curve."
 
-LetsEat is another restaurant-only platform that integrates menus, photography and social together for clean, simple sites. But the differentiator for LetsEat is its platform "app store." With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you want. 
-
-**[Site Hungry](https://iwantmyname.com/services/website-builder/site-hungry-for-restaurants) ([website]((http://sitehungry.com/))** - "Site Hungry allows you to set up a brand new restaurant website in less than 5 minutes. Share all of your restaurant's hours, location and contact information, menu, and social media in one place."
-
-Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to building restaurant sites. And as far as ease of use goes, it may be the easiest to get up and running. The platform doesn't quite have the full feature-set of the bigger, more established platforms yet, but I'd expect steady growth as the user-base grows.
+LetsEat is another restaurant-only platform that integrates menus, photography and social together to create clean, simple sites. But the differentiator for LetsEat is its "app store." With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you need. 
 
 ###Don't forget about the new gTLDs
 
