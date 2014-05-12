@@ -11,7 +11,7 @@ title: Celebrating 100,000 domains at iwantmyname!
 
 A few months after our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) we are proud to announce that we crossed a major milestone: 100,000 domains managed by iwantmyname!
 
-That's still tiny compared to the big players in the industry, but we've proven our idea that there's room for a domain registrar doing things a bit differently. Our mission from the start is focusing on domain management only and getting out of the way of people so that anyone can set up their own web address. Simple and honest [domain pricing](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get were we are today.
+That's still tiny compared to the big players in the industry, but we've proven our idea that there's room for a domain registrar doing things a bit differently. Our mission from the start is focussing on simple and straightforward domain management and getting out of our customers' way so that they can quickly set up their own web address. Simple and honest [domain pricing](), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get were we are today.
 
 <!-- /excerpt -->
 
