@@ -9,7 +9,7 @@ title: Celebrating 100,000 domains at iwantmyname!
 
 ![iwantmyname growth]({{ site.images_url }}/2014-05-13-iwantmyname-growth.png)
 
-`I'd probably start this with "We're just a few months past our 5th birthday now, and we're proud..."` A few months after our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) we are proud to announce that we`'ve` crossed a major milestone: 100,000 domains managed by iwantmyname!
+`I'd probably start this with "We're just a few months past our 5th birthday now, and we're proud..."` A few months after our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) we are proud to announce that we`'ve` crossed a major milestone: 100,000 domains managed by iwantmyname.
 
 That's still tiny compared to the big players in the industry, but we've `now` proven our idea `I'd use "theory" instead of "idea"` that there's room for a domain registrar doing things a bit differently. Our mission from the start is focussing `make this past tense, "was to focus"` on simple, straightforward domain management, while getting out of our customers' way so that they can quickly set up their own web address. Simple `try to find something different than "simple," as you used it in the last sentence` and honest [domain pricing](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get where we are today.
 
@@ -34,4 +34,4 @@ It's simple. We will continue with [our mission](https://iwantmyname.com/about):
 
 > We believe that any person, organisation or company should have complete control over their web address. You should be able to own it, use it the way you want and move it if necessary. This can all be achieved by registering a domain name. 
 
-There are hundreds of [new generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) being released over the next few years. We will do our best to make it even easier to [find, own and manage your web address](https://iwantmyname.com).
+There are hundreds of [new generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) being released over the next few years. `These sentences don't seem to fit together. Maybe say something like "And we'll do our very best to make it easier than ever to find, own and manage yours at iwantmyname."` We will do our best to make it even easier to [find, own and manage your web address](https://iwantmyname.com).
