@@ -22,7 +22,7 @@ And that brings me `use "us" instead of "me", just because the rest of the post 
 #### A few interesting facts and tidbits from behind the scenes
 
 - The oldest domain currently under management was registered nearly 24 years ago!
-- We`'ve` processed over `I prefer "more than" instead of "over" here` 200,000 registrations, renewals and transfers over the last 5.5 years
+- We`'ve` processed over `"more than" instead of "over"` 200,000 registrations, renewals and transfers over the last 5.5 years
 - It took us a year to get to 1,000 domains under management and 4.5 years for the remaining 99,000
 - We now offer [212 different domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) and are adding more [on a weekly basis](https://iwantmyname.com/domains/new-gtld-launch-dates)
 - Your domains are being looked after by [9 people](https://iwantmyname.com/about) (4 developers, 2 support, 1 product, 1 operations, 1 content)
@@ -34,4 +34,4 @@ It's simple. We will continue with [our mission](https://iwantmyname.com/about):
 
 > We believe that any person, organisation or company should have complete control over their web address. You should be able to own it, use it the way you want and move it if necessary. This can all be achieved by registering a domain name. 
 
-There are hundreds of [new generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) being released over the next few years. `These sentences don't seem to fit together. Maybe say something like "And we'll do our very best to make it easier than ever to find, own and manage yours at iwantmyname."` We will do our best to make it even easier to [find, own and manage your web address](https://iwantmyname.com).
+There are hundreds of [new generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) being released over the next few years. `These sentences don't seem to fit together. Maybe say something like "years ,and we'll do our very best to make them easier than ever to find, manage and own at iwantmyname."` We will do our best to make it even easier to [find, own and manage your web address](https://iwantmyname.com).
