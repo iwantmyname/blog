@@ -2,16 +2,16 @@
 layout: post
 date: 2014-05-13 11:45:34 +1200
 author: Timo
-title: Celebrating 100,000 domains managed by iwantmyname!
+title: Celebrating 100,000 domains at iwantmyname!
 ---
 
 <!-- excerpt -->
 
 ![iwantmyname growth]({{ site.images_url }}/2014-05-13-iwantmyname-growth.png)
 
-A few months after our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) we are proud to announce that we crossed a major milestone: there are now 100,000 domains managed by iwantmyname!
+A few months after our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) we are proud to announce that we crossed a major milestone: 100,000 domains managed by iwantmyname!
 
-That's still tiny compared to the big players in the industry but it proved our original hypothesis correct that there was a place for a niche domain management service doing things a bit different. Our mission from the start was focussing on domain management only and getting out of the way of people so that anyone can set up their own web address. Simple and honest [domain pricing](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get were we are today.
+That's still tiny compared to the big players in the industry, but we've proven our idea that there's room for a domain registrar doing things a bit differently. Our mission from the start is focusing on domain management only and getting out of the way of people so that anyone can set up their own web address. Simple and honest [domain pricing](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get were we are today.
 
 <!-- /excerpt -->
 
