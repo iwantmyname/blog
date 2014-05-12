@@ -19,12 +19,12 @@ From a company perspective, we are thrilled to have achieved this as a bootstrap
 
 And that brings me to the people who made all this possible: our customers. It is inspiring to see your ideas coming to life--the countless Tumblr sites making us laugh, blogs we're reading every day, developers creating great apps, shops selling people awesome t-shirts, or designers blowing the interwebs away with their artwork. You are the reason why we get up every morning (or stay up late). Thank you so much!
 
-#### A few interesting facts and tidbits from behind the scenes:
+#### A few interesting facts and tidbits from behind the scenes
 
 - The oldest domain currently under management was registered almost 24 years ago!
 - We processed over 200,000 registrations, renewals and transfers over the last 5.5 years
 - It took us a year to get to 1,000 domains under management and 4.5 years for the remaining 99,000
-- We now offer [212 different domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) and are adding more [on a weekly basis]()
+- We now offer [212 different domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) and are adding more [on a weekly basis](https://iwantmyname.com/domains/new-gtld-launch-dates)
 - Your domains are being looked after by [9 people](https://iwantmyname.com/about) (4 developers, 2 support, 1 product, 1 operations, 1 content)
 - 10 cents from each domain registered [goes to global aid initiatives](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html)
 
