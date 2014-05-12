@@ -34,4 +34,4 @@ It's simple. We will continue with [our mission](https://iwantmyname.com/about):
 
 > We believe that any person, organisation or company should have complete control over their web address. You should be able to own it, use it the way you want and move it if necessary. This can all be achieved by registering a domain name. 
 
-There are hundreds of [new generic top-level domains] (https://iwantmyname.com/domains/new-gtld-domain-extensions) being released over the next few years. We will do our best to make it even easier to [find, own and manage your web address](https://iwantmyname.com).
+There are hundreds of [new generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) being released over the next few years. We will do our best to make it even easier to [find, own and manage your web address](https://iwantmyname.com).
