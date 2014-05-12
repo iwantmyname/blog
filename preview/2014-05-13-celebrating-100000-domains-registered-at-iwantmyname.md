@@ -11,11 +11,11 @@ title: Celebrating 100,000 domains at iwantmyname!
 
 A few months after our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) we are proud to announce that we crossed a major milestone: 100,000 domains managed by iwantmyname!
 
-That's still tiny compared to the big players in the industry, but we've proven our idea that there's room for a domain registrar doing things a bit differently. Our mission from the start is focussing on simple and straightforward domain management and getting out of our customers' way so that they can quickly set up their own web address. Simple and honest [domain pricing](), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get were we are today.
+That's still tiny compared to the big players in the industry, but we've proven our idea that there's room for a domain registrar doing things a bit differently. Our mission from the start is focussing on simple and straightforward domain management and getting out of our customers' way so that they can quickly set up their own web address. Simple and honest [domain pricing](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us to get where we are today.
 
 <!-- /excerpt -->
 
-From a company perspective, we are also thrilled to have achieved this as a bootstrapped startup from a remote corner of the world (in case you didn't know, we are based in Wellington, New Zealand). However, we very much see ourselves as an international company which is reflected in the fact that 90% of iwantmyname customers are from overseas.
+From a company perspective, we are thrilled to have achieved this as a bootstrapped startup from a remote corner of the world (in case you didn't know, we are based in Wellington, New Zealand). However, we very much see ourselves as an international company which is reflected in the fact that 90% of iwantmyname customers are from overseas.
 
 And that brings me to the people who made all this possible: our customers. It is inspiring to see your ideas coming to life--the countless Tumblr sites making us laugh, blogs we're reading every day, developers creating great apps, shops selling people awesome t-shirts or designers blowing the interwebs away with their artwork. You are the reason why we get up every morning (or stay up late). Thank you so much!
 
