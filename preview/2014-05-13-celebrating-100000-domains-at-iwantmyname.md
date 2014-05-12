@@ -17,7 +17,7 @@ That's still tiny compared to the big players in the industry, but we've `now` p
 
 From a company perspective, we are `use "we're"` thrilled to have achieved this as a bootstrapped startup from a remote corner of the world (in case you didn't know, we are `we're` based in Wellington, New Zealand). However, we very much see ourselves as an international company, with 90% of our customers being from overseas.
 
-And that brings me to the people who made all this possible: our customers. It is `It's` inspiring to see your ideas coming to life--`use — instead of --`the countless Tumblr sites making us laugh, blogs we're reading every day, developers creating great apps, shops selling people awesome t-shirts, or designers blowing the interwebs away with their artwork. You are the reason why we get up every morning (or stay up late). Thank you so much!
+And that brings me to the people who made all this possible: our customers. It is `It's` inspiring to see your ideas coming to life--`use — instead of --`the countless Tumblr sites making us laugh, blogs we're reading every day, great apps from great developers, shops selling awesome t-shirts or `use "and" instead of "or"` designers blowing the interwebs away with their artwork. You are the reason why we get up every morning (or stay up late). Thank you so much!
 
 #### A few interesting facts and tidbits from behind the scenes
 
