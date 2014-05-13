@@ -67,6 +67,8 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Blosxom](http://muli.cc/) - A full-featured weblog application with a tiny footprint.
 
+Dapper
+
 ### PHP
 
 [Dropplets](https://github.com/Circa75/dropplets) - Write and publish content with Markdown, while cuttings all the clutter.
