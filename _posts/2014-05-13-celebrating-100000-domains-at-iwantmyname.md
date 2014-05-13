@@ -15,7 +15,7 @@ That's still tiny compared to the big players in the industry, but we've now pro
 
 <!-- /excerpt -->
 
-From a company perspective, we're thrilled to have achieved this as a bootstrapped startup from a remote corner of the world (in case you didn't know, we are `we're` based in Wellington, New Zealand). However, we very much see ourselves as an international company, with 90% of our customers being from overseas.
+From a company perspective, we're thrilled to have achieved this as a bootstrapped startup from a remote corner of the world (in case you didn't know, we're based in Wellington, New Zealand). However, we very much see ourselves as an international company, with 90% of our customers being from overseas.
 
 And that brings us to the people who made all this possible: our customers. It's inspiring to see your ideas coming to life—the countless Tumblr sites making us laugh, blogs we're reading every day, great apps from great developers, shops selling awesome t-shirts and designers blowing the interwebs away with their artwork. You are the reason we get up every morning (and stay up late). Thank you so much!
 
