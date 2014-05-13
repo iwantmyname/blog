@@ -67,7 +67,7 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Blosxom](http://muli.cc/) - A full-featured weblog application with a tiny footprint.
 
-[Dapper](http://vanilladraft.com/dapper/) - Distributed as a Perl module, Dapper comes with a command-line application for creating flexible, static websites.
+[Dapper](http://vanilladraft.com/dapper/) - Distributed as a Perl module, Dapper is a flexible (and fast) tool for creating static websites.
 
 ### PHP
 
