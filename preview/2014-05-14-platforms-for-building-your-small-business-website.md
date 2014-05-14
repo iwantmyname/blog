@@ -1,5 +1,10 @@
-7 platforms for building your small business website
+---
+layout: post
+date: 2014-05-14 12:59:54 +1200
+author: Chris
+title: 7 platforms for building your small business website
 
+---
 Running a small business often means running on paper-thin margins, and in many cases makes hiring a professional to build and design your website impossible. But having a solid website is a necessity in today's market, so it's more important than ever to find the right website building platform to get the job done.
 
 Before you jump into it though, do a bit of research. Here are X of the best no-skill-required platforms available for getting your small business online.
