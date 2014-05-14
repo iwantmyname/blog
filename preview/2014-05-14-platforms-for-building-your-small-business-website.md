@@ -15,7 +15,7 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ![Squarespace]({{ site.images_url }}/2014-05-14-squarespace-business.jpg)
 
-Squarespace ([website](http://www.squarespace.com/)) - Squarespace is one of the biggest web platforms around, and has been adding bigger and better features to its repertoire at a rapid pace. With its simple interface and beautiful, responsive templates, you can create interactive pages with photo galleries, custom logos, blog posts and social integrations. And with a full e-commerce platform, you can even sell your goods directly from your website. 
+[Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) ([website](http://www.squarespace.com/)) - Squarespace is one of the biggest web platforms around, and has been adding bigger and better features to its repertoire at a rapid pace. With its simple interface and beautiful, responsive templates, you can create interactive pages with photo galleries, custom logos, blog posts and social integrations. And with a full e-commerce platform, you can even sell your goods directly from your website. 
 
 ***
 
@@ -27,7 +27,7 @@ Virb ([website](http://virb.com/)) - For most users, Virb is nearly identical to
 
 ![Weebly]({{ site.images_url }}/2014-05-14-weebly-business.jpg)
 
-Weebly ([website](http://www.weebly.com/))- Weebly might not get the press Squarespace receives, but it does have an incredibly impressive drag-and-drop site creation tool that beats just about any other platform in usability. Additionally, you get all the blog, site and social tools you'd expect from a full-featured platform for less than the bigger competition (many business could probably get by with only the free tier).
+[Weebly](https://iwantmyname.com/features/applications/custom-domain-apps/websites/weebly-create-free-website-with-own-address) ([website](http://www.weebly.com/))- Weebly might not get the press Squarespace receives, but it does have an incredibly impressive drag-and-drop site creation tool that beats just about any other platform in usability. Additionally, you get all the blog, site and social tools you'd expect from a full-featured platform for less than the bigger competition (many business could probably get by with only the free tier).
 
 ***
 
