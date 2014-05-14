@@ -21,7 +21,7 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ![Virb]({{ site.images_url }}/2014-05-14-virb-business.jpg)
 
-Virb ([website](http://virb.com/)) - For most users, Virb is nearly identical to Squarespace, offering its own collection of wonderful responsive templates with amazing tools for integrating photos, blog posts and social media. Squarespace does have the upper hand with a stable of mobile apps and small features, but it really comes down to which interface you prefer.
+[Virb](https://iwantmyname.com/services/website-builder/virb-custom-domain) ([website](http://virb.com/)) - For most users, Virb is nearly identical to Squarespace, offering its own collection of wonderful responsive templates with amazing tools for integrating photos, blog posts and social media. Squarespace does have the upper hand with a stable of mobile apps and small features, but it really comes down to which interface you prefer.
 
 ***
 
@@ -33,25 +33,25 @@ Virb ([website](http://virb.com/)) - For most users, Virb is nearly identical to
 
 ![Strikingly]({{ site.images_url }}/2014-05-14-strikingly-business.jpg)
 
-Strikingly ([website](https://www.strikingly.com/)) - Strikingly takes a slightly different approach to site building, eschewing big, multi-page sites for simple sites with only one page. So instead of having a navigation link to an About page, Strikingly just moves you down to where your About information is on your one-page site. It might sound crazy, but in the age where more and more people are accessing sites from mobile devices, scrolling makes a whole lot more sense then jumping to pages with tiny text links and buttons. And when you're building a site, creating one great page is a lot easier than coming up with good content for a multi-page site.
+[Strikingly](https://iwantmyname.com/services/website-builder/strikingly-custom-domain) ([website](https://www.strikingly.com/)) - Strikingly takes a slightly different approach to site building, eschewing big, multi-page sites for simple sites with only one page. So instead of having a navigation link to an About page, Strikingly just moves you down to where your About information is on your one-page site. It might sound crazy, but in the age where more and more people are accessing sites from mobile devices, scrolling makes a whole lot more sense then jumping to pages with tiny text links and buttons. And when you're building a site, creating one great page is a lot easier than coming up with good content for a multi-page site.
 
 ***
 
 ![Wix]({{ site.images_url }}/2014-05-14-wix-business.jpg)
 
-Wix ([website](http://www.wix.com/)) - Wix is a lot like Weebly in that it let's you build a fully featured small business site with a simple drag-and-drop interface, but the differentiator is that Wix has hundreds of templates to choose from. No matter what kind of small business you have, there's a template for you. 
+[Wix](https://iwantmyname.com/features/applications/custom-domain-apps/websites/wix-make-flash-website-own-url) ([website](http://www.wix.com/)) - Wix is a lot like Weebly in that it let's you build a fully featured small business site with a simple drag-and-drop interface, but the differentiator is that Wix has hundreds of templates to choose from. No matter what kind of small business you have, there's a template for you. 
 
 ***
 
 ![Yola]({{ site.images_url }}/2014-05-14-yola-business.png)
 
-Yola ([website](https://www.yola.com/)) - Big, beautiful sites with oversized images and trendy templates are all the rage, but some businesses just need a conservative site that covers all the bases—and that's Yola's comfort zone. That's not to say that you can't create a modern site with Yola, you're just not pushed in that direction.
+[Yola](https://iwantmyname.com/features/applications/custom-domain-apps/websites/customise-yola-with-personal-url) ([website](https://www.yola.com/)) - Big, beautiful sites with oversized images and trendy templates are all the rage, but some businesses just need a conservative site that covers all the bases—and that's Yola's comfort zone. That's not to say that you can't create a modern site with Yola, you're just not pushed in that direction.
 
 ***
 
 ![Zoho Sites]({{ site.images_url }}/2014-05-14-zoho-sites-business.jpg)
 
-Zoho Sites ([website](https://www.zoho.com/sites/))- If you're looking for a no-nonsense small business site builder on the cheap, Zoho Sites might be what you want. Its most expensive plan is less than $10/mo and the free tier comes with everything many businesses will need to get started. Plus, you can easily integrate your site with the free Zoho Mail, making the Zoho suite very budget friendly.
+[Zoho Sites](https://iwantmyname.com/services/website-builder/register-domain-zoho-sites) ([website](https://www.zoho.com/sites/))- If you're looking for a no-nonsense small business site builder on the cheap, Zoho Sites might be what you want. Its most expensive plan is less than $10/mo and the free tier comes with everything many businesses will need to get started. Plus, you can easily integrate your site with the free Zoho Mail, making the Zoho suite very budget friendly.
 
 ***
 
