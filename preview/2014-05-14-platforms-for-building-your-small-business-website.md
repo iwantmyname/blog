@@ -44,13 +44,13 @@ Wix ([website](http://www.wix.com/)) - Wix is a lot like Weebly in that it let's
 
 ![Yola]({{ site.images_url }}/2014-05-14-yola-business.png)
 
-Yola ([website](https://www.yola.com/)) - Big, beautiful sites with oversized images and trendy templates are all the rage, but some businesses just need a conservative site that covers all the bases—and that's Yola's comfort zone. That's not to say that you can't create a modern site with Yola—you're just not pushed in that direction.
+Yola ([website](https://www.yola.com/)) - Big, beautiful sites with oversized images and trendy templates are all the rage, but some businesses just need a conservative site that covers all the bases—and that's Yola's comfort zone. That's not to say that you can't create a modern site with Yola, you're just not pushed in that direction.
 
 ***
 
 ![Zoho Sites]({{ site.images_url }}/2014-05-14-zoho-sites-business.jpg)
 
-Zoho Sites ([website](https://www.zoho.com/sites/))- If you're looking for a no-nonsense small business site builder on the cheap, Zoho Sites might be what you want. Its most expensive plan in less than $10/mo and the free tier comes with everything many businesses will need to get started. Plus, you can easily integrate your site with the free Zoho Mail, making the Zoho suite very budget friendly.
+Zoho Sites ([website](https://www.zoho.com/sites/))- If you're looking for a no-nonsense small business site builder on the cheap, Zoho Sites might be what you want. Its most expensive plan is less than $10/mo and the free tier comes with everything many businesses will need to get started. Plus, you can easily integrate your site with the free Zoho Mail, making the Zoho suite very budget friendly.
 
 ***
 
