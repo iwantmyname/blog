@@ -2,14 +2,14 @@
 layout: post
 date: 2014-05-14 12:59:54 +1200
 author: Chris
-title: 7 platforms for building your small business website
+title: 10 platforms for building your small business website
 header_image: 2014-05-14-old-store.jpg
 
 ---
 
 Running a small business often means running on paper-thin margins, and in many cases, hiring a professional to build and design a website is simply impossible. But having a solid website is a necessity in today's market, so it's more important than ever to find a website platform you can figure out without much headache.
 
-Before you jump into it though, do a bit of research. Here are seven of the best no-skill-required platforms available for getting your small business online.
+Before you jump into it though, do a bit of research. Here are ten of the best no-skill-required platforms available for getting your small business online.
 
 ***
 
@@ -66,6 +66,8 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 [Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - Jimdo is another easy tool for getting sites up, and like Yola, has plenty of templates for less edgy sites (although you can make any site look like just about anything you want). The e-commerce platform is also quite popular, with simple tools to help you get your products online.
 
 ***
+
+![Moonfruit]({{ site.images_url }}/2014-05-14-moonfruit-business.png)
 
 [Moonfruit](https://iwantmyname.com/features/applications/custom-domain-apps/websites/moonfruit-simple-website-builder) ([website](http://www.moonfruit.com/)) - Moonfruit is a modern plaform that lets you simply add content, photos and shop features. And if you really like the platform but don't want to mess with the building process, you can use their new KickStart Beta to have them build one for you—for a price.
 
