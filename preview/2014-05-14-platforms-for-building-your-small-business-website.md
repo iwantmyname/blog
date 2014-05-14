@@ -38,7 +38,7 @@ Strikingly ([website](https://www.strikingly.com/)) - Strikingly takes a slightl
 
 ![Wix]({{ site.images_url }}/2014-05-14-wix-business.jpg)
 
-Wix ([website](http://www.wix.com/)) - Wix is a lot like Weebly in that it let's you build a fully featured small business site with a simple drag-and-drop interface, but the differentiator is that Wix has hundreds of templates to choose from. No matter what kind of small business you own, there's a template for you. 
+Wix ([website](http://www.wix.com/)) - Wix is a lot like Weebly in that it let's you build a fully featured small business site with a simple drag-and-drop interface, but the differentiator is that Wix has hundreds of templates to choose from. No matter what kind of small business you have, there's a template for you. 
 
 ***
 
