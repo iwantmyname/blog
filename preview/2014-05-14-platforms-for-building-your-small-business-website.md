@@ -57,11 +57,11 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ![Zoho Sites]({{ site.images_url }}/2014-05-14-zoho-sites-business.jpg)
 
-[Zoho Sites](https://iwantmyname.com/services/website-builder/register-domain-zoho-sites) ([website](https://www.zoho.com/sites/))- If you're looking for a no-nonsense small business site builder on the cheap, Zoho Sites might be what you want. Its most expensive plan is less than $10/mo and the free tier comes with everything many businesses will need to get started. Plus, you can easily integrate your site with the free Zoho Mail, making the Zoho suite very budget friendly.
+[Zoho Sites](https://iwantmyname.com/services/website-builder/register-domain-zoho-sites) ([website](https://www.zoho.com/sites/)) - If you're looking for a no-nonsense small business site builder on the cheap, Zoho Sites might be what you want. Its most expensive plan is less than $10/mo and the free tier comes with everything many businesses will need to get started. Plus, you can easily integrate your site with the free Zoho Mail, making the Zoho suite very budget friendly.
 
 ***
 
-Jimdo
+[Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - 
 
 For more specialized small business platforms, we've created lists for [customizable online stores](https://iwantmyname.com/blog/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](https://iwantmyname.com/blog/2014/05/Platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname). 
 
