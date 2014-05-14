@@ -33,4 +33,4 @@ Donec auctor nunc in blandit imperdiet. Aliquam consectetur porttitor ligula ac 
 2. of numbers and bullets
 3. is easy in Markdown!
 
-Vivamus sodales lobortis dui, sit amet dapibus mi pellentesque sed. Donec dignissim orci id neque pretium, ac hendrerit risus bibendum.
+Vivamus sodales lobortis duio, sit amet dapibus mi pellentesque sed. Donec dignissim orci id neque pretium, ac hendrerit risus bibendum.
