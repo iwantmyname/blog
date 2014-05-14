@@ -26,7 +26,7 @@ Virb ([website](http://virb.com/)) - For most users, Virb is nearly identical to
 
 ![Weebly]({{ site.images_url }}/2014-05-14-weebly-business.jpg)
 
-Weebly ([website](http://www.weebly.com/))- Weebly might not get the press Squarespace does, but it does have an incredibly impressive drag and drop site creation tool that beats just about any other platform in usability. Additionally, you get all the blog, site and social tools you'd expect from a full-featured platform for less than the bigger competition (many business could probably get by with only the free tier).
+Weebly ([website](http://www.weebly.com/))- Weebly might not get the press Squarespace receives, but it does have an incredibly impressive drag-and-drop site creation tool that beats just about any other platform in usability. Additionally, you get all the blog, site and social tools you'd expect from a full-featured platform for less than the bigger competition (many business could probably get by with only the free tier).
 
 ***
 
