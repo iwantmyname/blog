@@ -37,7 +37,7 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ***
 
-One Pager ([website](http://onepagerapp.com/)) - If you like the single page idea of Strikingly, you'll also love One Pager. 
+One Pager ([website](http://onepagerapp.com/)) - If you like the single page idea of Strikingly, you'll also love One Pager. One Pager strips all the 
 
 ***
 
