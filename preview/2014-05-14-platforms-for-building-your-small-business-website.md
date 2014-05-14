@@ -20,7 +20,7 @@ Squarespace ([website](http://www.squarespace.com/)) - Squarespace is one of the
 
 ![Virb]({{ site.images_url }}/2014-05-14-virb-business.jpg)
 
-Virb ([website](http://virb.com/)) - For most users, Virb is nearly identical to Squarespace, offering its own collection of wonderful responsive templates with amazing tools for integrating photos, blog posts and social media. Squarespace does have the upper hand with a stable of mobile apps, but some prefer the Virb interface. 
+Virb ([website](http://virb.com/)) - For most users, Virb is nearly identical to Squarespace, offering its own collection of wonderful responsive templates with amazing tools for integrating photos, blog posts and social media. Squarespace does have the upper hand with a stable of mobile apps, but it really comes down to what type of interface you prefer.
 
 ***
 
