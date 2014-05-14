@@ -65,7 +65,7 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ***
 
-[Moonfruit](http://www.moonfruit.com/) (website) - Moonfruit is a modern plaform that lets you simply add content, photos and shop features. And if you really like the platform but don't want to mess with the building process, you can use their new KickStart Beta to have them build one for you—for a price.
+[Moonfruit](https://iwantmyname.com/features/applications/custom-domain-apps/websites/moonfruit-simple-website-builder) ([website](http://www.moonfruit.com/)) - Moonfruit is a modern plaform that lets you simply add content, photos and shop features. And if you really like the platform but don't want to mess with the building process, you can use their new KickStart Beta to have them build one for you—for a price.
 
 ***
 
