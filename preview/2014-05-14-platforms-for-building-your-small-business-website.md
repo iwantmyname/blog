@@ -61,9 +61,11 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ***
 
-[Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - Jimdo is another easy tool for getting sites up, and like Yola, has plenty of templates for less edgy sites (although you can make any site look like just about anything you want). The e-commerce platform is also quite popular, with a 
+[Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - Jimdo is another easy tool for getting sites up, and like Yola, has plenty of templates for less edgy sites (although you can make any site look like just about anything you want). The e-commerce platform is also quite popular, with simple tools to help you get your products online.
 
 ***
+
+Moonfruit
 
 For more specialized small business platforms, we've created lists for [customizable online stores](https://iwantmyname.com/blog/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](https://iwantmyname.com/blog/2014/05/Platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname). 
 
