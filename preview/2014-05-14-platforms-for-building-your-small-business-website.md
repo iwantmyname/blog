@@ -63,6 +63,8 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 [Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - 
 
+***
+
 For more specialized small business platforms, we've created lists for [customizable online stores](https://iwantmyname.com/blog/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](https://iwantmyname.com/blog/2014/05/Platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname). 
 
 
