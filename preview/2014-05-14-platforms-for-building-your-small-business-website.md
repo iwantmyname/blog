@@ -61,7 +61,7 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ***
 
-[Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - 
+[Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - Jimdo 
 
 ***
 
