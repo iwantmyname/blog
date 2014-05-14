@@ -61,6 +61,8 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ***
 
+![Jimdo]({{ site.images_url }}/2014-05-14-jimdo-business)
+
 [Jimdo](https://iwantmyname.com/services/website-builder/jimdo-custom-domain) ([website](http://www.jimdo.com/)) - Jimdo is another easy tool for getting sites up, and like Yola, has plenty of templates for less edgy sites (although you can make any site look like just about anything you want). The e-commerce platform is also quite popular, with simple tools to help you get your products online.
 
 ***
