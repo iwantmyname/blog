@@ -6,6 +6,7 @@ title: 7 platforms for building your small business website
 header_image: 2014-05-14-old-store.jpg
 
 ---
+
 Running a small business often means running on paper-thin margins, and in many cases, hiring a professional to build and design a website is simply impossible. But having a solid website is a necessity in today's market, so it's more important than ever to find a website platform you can figure out without much headache.
 
 Before you jump into it though, do a bit of research. Here are seven of the best no-skill-required platforms available for getting your small business online.
@@ -54,7 +55,7 @@ Zoho Sites ([website](https://www.zoho.com/sites/))- If you're looking for a no-
 
 ***
 
-For more specialized small business platforms, we've created lists for [customizable online stores]((https://iwantmyname.com/blog/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](https://iwantmyname.com/blog/2014/05/Platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname). 
+For more specialized small business platforms, we've created lists for [customizable online stores](https://iwantmyname.com/blog/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](https://iwantmyname.com/blog/2014/05/Platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname). 
 
 
 
