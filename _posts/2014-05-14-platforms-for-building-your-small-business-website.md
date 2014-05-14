@@ -11,7 +11,7 @@ header_image: 2014-05-14-old-store.jpg
 
 Running a small business often means running on paper-thin margins, and in many cases, hiring a professional to build and design a website is simply impossible. But having a solid website is a necessity in today's market, so it's more important than ever to find a website platform you can figure out without much headache.
 
-Before you jump into it though, do a bit of research. Here are ten of the best no-skill-required platforms available for getting your small business online.
+Before you jump into it though, do a bit of research. Here are ten of the best no-skill-required platforms for getting your small business online.
 
 <!-- /excerpt -->
 
