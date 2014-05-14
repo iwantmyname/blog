@@ -39,7 +39,7 @@ Before you jump into it though, do a bit of research. Here are seven of the best
 
 ![One Pager]({{ site.images_url }}/2014-05-14-one-pager-business.png)
 
-One Pager ([website](http://onepagerapp.com/)) - If you like the single page idea of Strikingly, you'll also love One Pager. One Pager strips all the excess from traditional site builders and simply focuses on getting things done. And with a stable of templates, form builders and e-commerce tools, it may just be the utilitarian platform you're looking for.
+[One Pager](https://iwantmyname.com/services/website-builder/onepage-business-websites) ([website](http://onepagerapp.com/)) - If you like the single page idea of Strikingly, you'll also love One Pager. One Pager strips all the excess from traditional site builders and simply focuses on getting things done. And with a stable of templates, form builders and e-commerce tools, it may just be the utilitarian platform you're looking for.
 
 ***
 
