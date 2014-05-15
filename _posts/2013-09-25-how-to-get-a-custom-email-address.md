@@ -3,13 +3,12 @@ layout: post
 date: 2013-09-25 13:48:17
 author: Chris
 title: How to get a custom email address
+header_image: 2013-09-25-bigstock-Email-and-mail-communication-c-47857307.jpg
 
 categories:
   - Email
 
 ---
-
-![bigstock-email]({{ site.images_url }}/2013-09-25-bigstock-Email-and-mail-communication-c-47857307.jpg)
 
 <!-- excerpt -->
 
