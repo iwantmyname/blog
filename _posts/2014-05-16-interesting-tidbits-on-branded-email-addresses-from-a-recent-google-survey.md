@@ -8,7 +8,7 @@ title: Interesting tidbits on branded email addresses from a recent Google surve
 
 <!-- excerpt -->
 
-There's no magic recipe of apps and tools you should and shouldn't use to guarantee business success, but it seems the days of getting by without branded email addresses are (finally) coming to a close. From a consumer's point of view, a random @gmail.com or @yahoo.com address will never compare to @brand.tld, and the logical connection is that consumer trust weighs heavily in the purchasing process. 
+There's no magic recipe of apps and tools you should and shouldn't use to guarantee business success, but it seems the days of getting by without branded email addresses are (finally) coming to a close. From a consumer's point of view, a random `@gmail.com` or `@yahoo.com` address will never compare to `@brand.tld`, and the logical connection is that consumer trust weighs heavily in the purchasing process. 
 
 But, in the world of business decisions, sometimes logic needs to be backed up with facts, and the latest Google survey of young businesses is just what the doctor ordered. Here are some interesting tidbits:
 
