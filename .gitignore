@@ -1,5 +1,6 @@
 .DS_Store
 *.swp
 *.vimbk
+*.un~
 
 _site/
