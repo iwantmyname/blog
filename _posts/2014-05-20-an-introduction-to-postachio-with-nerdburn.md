@@ -9,7 +9,7 @@ header_image: 2014-05-20-postachio.png
 
 <!-- excerpt -->
 
-Blog platforms come in all shapes and sizes, but some of the more interesting platforms today are the ones that work without traditional hosting space. And with Evernote recently [topping 100 million users](http://blog.evernote.com/blog/2014/05/13/evernote-reaches-100-million-users/), we thought it'd be the perfect time to ask cofounder Shawn Adrian about his Evernote-powered blog platform, [Postach.io](https://iwantmyname.com/services/blog-hosting/postachio).
+Blog platforms come in all shapes and sizes, but some of the more interesting platforms today are the ones that work without traditional hosting space. And with Evernote recently [topping 100 million users](http://blog.evernote.com/blog/2014/05/13/evernote-reaches-100-million-users/), we thought it'd be the perfect time to ask cofounder [Shawn Adrian](https://twitter.com/nerdburn) about his Evernote-powered blog platform, [Postach.io](https://iwantmyname.com/services/blog-hosting/postachio).
 
 <!-- /excerpt -->
 
