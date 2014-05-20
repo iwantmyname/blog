@@ -7,7 +7,11 @@ header_image: 2014-05-21-homes.JPG
 
 ---
 
+<!-- excerpt -->
+
 Real estate is, and will likely always be, a huge employment sector. But for many real estate agents, the web has just recently become a necessary tool of the trade. These days, websites are the first points of reference for home buyers and the biggest marketing tool any agent will possess. And that makes finding a memorable domain name hugely important.
+
+<!-- /excerpt -->
 
 With a quick Google search, I'm finding that most local agents are using a YOURNAMErealestate.com or YOURNAMErealty.com naming convention. And there's fine, but wouldn't YOURNAME.realestate or YOURNAME.realty be better? That's three characters you can cut from your domain (com), and that can make a big difference when printing business cards, displaying ads or committing names to memory.
 
