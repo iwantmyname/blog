@@ -17,4 +17,4 @@ As builders, it *is* OK to use tools if they're designed to help the people you'
 
 <!-- /excerpt -->
 
-I'm currently in the process of redoing a website for a small local gym as a side project, and I could easily develop their site from scratch or on a self-hosted CMS. But instead, I've decided to use a [hosted platform](https://iwantmyname.com/services) instead. They've come a long way in the last few years, and they let me achieve my client's goals while giving them the ability to manage and edit their content without help in the future.
+I'm currently in the process of redoing a website for a small local gym as a side project, and I could develop their site from scratch or on a self-hosted CMS. But instead, I've decided to use a [hosted platform](https://iwantmyname.com/services) instead. They've come a long way in the last few years, and they let me achieve my client's goals while giving them the ability to manage and edit their content without help in the future.
