@@ -2,7 +2,7 @@
 layout: post
 date: 2014-05-23 09:49:01 +1200
 author: Lenz
-title: 'Culture at iwantmyname - Part 2: The "work from anywhere experiment"'
+title: 'Culture at iwantmyname - Part 2: The "work-from-anywhere experiment"'
 header_image: 2014-05-23-lenz-camper.jpg
 
 ---
@@ -17,6 +17,6 @@ For half of this year I'll be living in Berlin, working out of a co-working spac
 
 Obviously there are limits to this. There has to be at least one developer on call with internet access 24/7 in case things go wrong. There also needs to be at least one supporter that looks after our customers' needs at any time, and so on. But, with everyone working pretty closely with everyone else, we know when someone needs a break, is working from a country where internet coverage is bad, or if part of the team is at Burning Man and has no internet at all. It all comes down to communication with the team and respectful planning. So the above "work whenever you want from wherever you want" has, in reality, a qualifier of "as long as you respect the team and our customers".
 
-With all the remote work opportunities, why then do we have an office at all? Turns out, having an office is awesome. You can hang out together if you want. Chat, have fun. An office is a very social place, and even though I'm often most productive when I work from home, time in the office is important when we develop new features that involve many of us. It is also a good place for Friday drinks where we have other startups here or host user groups. 
+With all the remote work opportunities, why then do we have an office at all? Turns out, having an office is awesome. You can hang out together if you want. Chat, have fun. An office is a very social place, and even though I'm often most productive when I work from home, time in the office is important when we collaborate to develop new features. It's also a good place for Friday drinks when we have other startups over or host user groups. 
 
-Having fun is an integral part of what we do at iwantmyname. Having fun makes sure our product is built by a team that likes doing what we do. In my opinion, working only for the sake of making money makes work a sad place. If financial incentives are the only reason you work where you work, then the products that come out are artifacts of people trying to drop the keyboard at 5pm to do fun things. I can't see those being products that will be fun for people to use. And this puts a much different perspective on the talent pool we draw from.
+Having fun is an integral part of what we do at iwantmyname. Having fun makes sure our product is built by a team that likes doing what they do. In my opinion, working only for the sake of making money makes work a sad place. If financial incentives are the only reason you work where you work, then the products that come out are artifacts of people trying to drop the keyboard at 5pm to do fun things. I can't see those being products that will be fun for people to use. And this puts a much different perspective on the talent pool we draw from.
