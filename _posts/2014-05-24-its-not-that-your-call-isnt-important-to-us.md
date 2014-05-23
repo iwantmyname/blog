@@ -7,11 +7,15 @@ header_image: 2014-05-24-phone-call.jpg
 
 ---
 
+<!-- excerpt -->
+
 In the past, working for big companies, I'd frequently notice a strange communications phenomenon. If I sent someone a quick chat message or email with a question or request for info, they would respond — by calling me or coming over to my desk. 
 
 It took me a while to figure out why people wouldn't just reply via the same channel as the inquiry. But eventually it sunk in that different people just prefer to communicate in different ways. Everyone has a mental hierarchy of the preference, value, appropriateness, and efficiency of different types of communication. These are based on their own personalities, modes of learning, and past experience. 
 
 This is why when some people need help, the one and only goal is, _"If I can just get a human on the phone..."_
+
+<!-- /excerpt -->
 
 Over the years that I've worked in community management and customer support, this bit of learning has grown a lot. It now also encompasses _how_ you communicate (level of tech-speak, industry jargon, community membership, language familiarity, etc.) And I'm intimately aware of the advantages and limitations of text. (Though the myth that something like 90% of communication is nonverbal, and thus utterly lost in text, has been pretty much busted.)
 
