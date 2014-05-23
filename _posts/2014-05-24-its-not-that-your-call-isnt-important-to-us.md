@@ -2,7 +2,7 @@
 layout: post
 date: 2014-05-24 07:24:58 +1200
 author: Melle
-title: "It's not that your call isn't important to us..."
+title: "Free up your phone: Why email support works for you"
 header_image: 2014-05-24-phone-call.jpg
 
 ---
