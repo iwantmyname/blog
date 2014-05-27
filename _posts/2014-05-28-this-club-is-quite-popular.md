@@ -9,9 +9,13 @@ search:
   
 ---
 
+<!-- excerpt -->
+
 We're not really in the business of pushing one top-level domain (TLD) over another (we love all our children the same), but before the launch of these new domain extensions, one TLD seemed to be more active than the rest. Instead of letting things come down to chance, the team behind [.CLUB](https://iwantmyname.com/domains/dot-club) did real legwork—actively starting conversations and making things happen. 
 
 And their hard work seems to be paying off, as .CLUB is now the [most popular](http://namestat.org/) new generic top-level domain (gTLD) on the market, with daily growth more than 10x that of the second place gTLD, [.GURU](https://iwantmyname.com/domains/dot-guru). And that growth doesn't seem to be slowing down. 
+
+<!-- /excerpt -->
 
 In an [article this morning](http://domainnamewire.com/2014/05/27/in-da-club-50-cent-new-tld/) about .CLUB's launch party in New York, Andrew Allemann makes a really good point about gTLDs as a whole. He says, "If I’m going to register new top level domain names, I really want to see the registry promoting the heck out of it. So far .Club is in rare company on this front."
 
