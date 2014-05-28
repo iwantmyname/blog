@@ -2,7 +2,7 @@
 layout: post
 date: 2014-05-29 07:23:49 +1200
 author: Chris
-title: "A look back at May's domain extensions"
+title: "The domain extensions of May, including .CLUB, .FLIGHTS and .KIWI"
 header_image: 2014-05-29-airport.jpg
 
 ---
