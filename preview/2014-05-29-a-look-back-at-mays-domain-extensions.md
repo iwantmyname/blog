@@ -2,10 +2,12 @@
 layout: post
 date: 2014-05-29 07:23:49 +1200
 author: Chris
-title: A look back at May's domain extensions
+title: "A look back at May's domain extensions"
 header_image: 2014-05-29-airport.jpg
 
 ---
+
+<!-- excerpt -->
 
 ###The popular pair
 
@@ -13,6 +15,8 @@ header_image: 2014-05-29-airport.jpg
 + [.EXPERT](https://iwantmyname.com/domains/dot-expert) (#17)
 
 It was exciting to see [.CLUB overtake .GURU in the top spot](https://iwantmyname.com/blog/2014/05/this-club-is-quite-popular.html), but the biggest surprise for me was .EXPERT sneaking into the top 20. Being a slightly more direct version of .GURU, .EXPERT seems to be finding its audience, even though it comes with a slightly higher price tag. Will it stay in the top 20 though? Not if new gTLDs like .WIKI have anything to say about it.
+
+<!-- /excerpt -->
 
 ###Go local with .KIWI
 
