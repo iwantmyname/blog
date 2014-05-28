@@ -54,7 +54,7 @@ The future of the web is definitely collaboration, and wikis are perfect for col
 
 ***
 
-Rankings provided by [Domain Cite Pro](http://domainincite.com/pro/new-gtld-zone-file-report/). For free alternatives, try [Namestat](http://namestat.org/) and [nTLDStats](http://ntldstats.com/).
+Rankings provided by [Domain Cite Pro](http://domainincite.com/pro/new-gtld-zone-file-report/). For free alternatives, try [Namestat](http://namestat.org/) or [nTLDStats](http://ntldstats.com/).
 
 
 
