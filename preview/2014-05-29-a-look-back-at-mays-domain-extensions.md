@@ -14,7 +14,7 @@ header_image: 2014-05-29-airport.jpg
 + [.CLUB](https://iwantmyname.com/domains/dot-club) (#1)
 + [.EXPERT](https://iwantmyname.com/domains/dot-expert) (#17)
 
-It was exciting to see [.CLUB overtake .GURU in the top spot](https://iwantmyname.com/blog/2014/05/this-club-is-quite-popular.html), but the biggest surprise for me was .EXPERT sneaking into the top 20. Being a slightly more direct version of .GURU, .EXPERT seems to be finding its audience, even though it comes with a slightly higher price tag. Will it stay in the top 20 though? Not if new gTLDs like .WIKI have anything to say about it.
+It was exciting to see [.CLUB overtake .GURU in the top spot](https://iwantmyname.com/blog/2014/05/this-club-is-quite-popular.html), but the biggest surprise for me was .EXPERT sneaking into the top 20. Being a slightly more direct version of .GURU, .EXPERT seems to be finding its audience, even though it comes with a slightly higher price tag. Will it stay in the top 20 though? Not if new top-level domains (TLDs) like .WIKI have anything to say about it.
 
 <!-- /excerpt -->
 
@@ -22,7 +22,7 @@ It was exciting to see [.CLUB overtake .GURU in the top spot](https://iwantmynam
 
 + [.KIWI](https://iwantmyname.com/domains/dot-kiwi) (#44)
 
-As a New Zealand-based company, it's only natural for us to have a not-so-secret love for the .KIWI TLD. [Back in October](https://iwantmyname.com/blog/2013/10/a-short-interview-with-tim-johnson-ceo-of-dot-kiwi.html), Tim Johnson, CEO of Dot Kiwi, said of his upcoming TLD was "Underrated and underestimated indeed - that is the definition of the challenger and the underdog. We like that position and thrive on the challenge - I think that is very Kiwi."
+As a New Zealand-based company, it's only natural for us to have a not-so-secret love for the .KIWI TLD. [Back in October](https://iwantmyname.com/blog/2013/10/a-short-interview-with-tim-johnson-ceo-of-dot-kiwi.html), Tim Johnson, CEO of Dot Kiwi, said his upcoming TLD was "Underrated and underestimated indeed - that is the definition of the challenger and the underdog. We like that position and thrive on the challenge - I think that is very Kiwi."
 
 And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popular than .COFFEE, a product served in just about every city in the world. 
 
