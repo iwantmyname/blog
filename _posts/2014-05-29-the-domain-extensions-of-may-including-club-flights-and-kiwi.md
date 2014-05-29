@@ -36,7 +36,7 @@ And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popula
 + [.VACATIONS](https://iwantmyname.com/domains/dot-vacations) (#104)
 + [.VILLAS](https://iwantmyname.com/domains/dot-villas) (#104)
 
-The last week of May brought a handful of travel TLDs to the mix, and you have to assume at least one of them will rise up fairly quickly. My guess would be that .FLIGHTS and .CRUISES will become the most popular of the bunch because those terms seem like common travel searches, but .RENTALS might beat them all with its multi-industry uses.
+The last week of May brought a handful of travel TLDs to the mix, and you have to assume at least one of them will rise up fairly quickly. My guess would be that .FLIGHTS and .CRUISES will become the most popular of the bunch because they both seem like common travel searches, but .RENTALS might beat them all with its multi-industry uses.
 
 ###The upcoming favorites
 
