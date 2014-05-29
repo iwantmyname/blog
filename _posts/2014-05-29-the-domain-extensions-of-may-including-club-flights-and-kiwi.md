@@ -32,16 +32,18 @@ And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popula
 
 + [.CRUISES](https://iwantmyname.com/domains/dot-cruises) (#106)
 + [.FLIGHTS](https://iwantmyname.com/domains/dot-flights) (#101)
++ [.RENTALS](https://iwantmyname.com/domains/dot-rentals) (#45)
 + [.VACATIONS](https://iwantmyname.com/domains/dot-vacations) (#104)
 + [.VILLAS](https://iwantmyname.com/domains/dot-villas) (#104)
 
-The last week of May brought a handful of travel TLDs to the mix, and you have to assume at least one of them will rise up fairly quickly. My guess would be that .FLIGHTS and .CRUISES will become the most popular of the bunch because those terms seem like common travel searches, but .VACATIONS could be a sneaky favorite.
+The last week of May brought a handful of travel TLDs to the mix, and you have to assume at least one of them will rise up fairly quickly. My guess would be that .FLIGHTS and .CRUISES will become the most popular of the bunch because those terms seem like common travel searches, but .RENTALS might beat them all with its multi-industry uses.
 
-###An upcoming favorite
+###The upcoming favorites
 
++ [.NINJA](https://iwantmyname.com/domains/dot-ninja) (#53)
 + [.WIKI](https://iwantmyname.com/domains/dot-wiki) (#66)
 
-The future of the web is definitely collaboration, and wikis are perfect for collaborating with your peers to create things. So if I were to pick a future gTLD favorite, I'd definitely choose .WIKI. In its first day it jumped to #66 on the gTLD popularity list, so it seems to be off to a good start. 
+The future of the web is definitely collaboration, and wikis are perfect for collaborating with peers to create things. Unless you happen to be a ninja. Ninjas don't collaborate... they just get their way. 
 
 ###The rest
 
@@ -49,8 +51,6 @@ The future of the web is definitely collaboration, and wikis are perfect for col
 + [.DEMOCRAT](https://iwantmyname.com/domains/dot-democrat) (#100)
 + [.EXPOSED](https://iwantmyname.com/domains/dot-exposed) (#94)
 + [.FOUNDATION](https://iwantmyname.com/domains/dot-foundation) (#89)
-+ [.RENTALS](https://iwantmyname.com/domains/dot-rentals) (#45)
-+ [.NINJA](https://iwantmyname.com/domains/dot-ninja) (#53)
 + [.WATCH](https://iwantmyname.com/domains/dot-watch) (#84)
 + [.WORKS](https://iwantmyname.com/domains/dot-works) (#88)
 
