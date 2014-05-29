@@ -31,9 +31,9 @@ And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popula
 ###The TLDs for travel
 
 + [.CRUISES](https://iwantmyname.com/domains/dot-cruises) (#106)
-+ [.FLIGHTS](https://iwantmyname.com/domains/dot-flights) (#108)
++ [.FLIGHTS](https://iwantmyname.com/domains/dot-flights) (#101)
 + [.VACATIONS](https://iwantmyname.com/domains/dot-vacations) (#104)
-+ [.VILLAS](https://iwantmyname.com/domains/dot-villas) (#112)
++ [.VILLAS](https://iwantmyname.com/domains/dot-villas) (#104)
 
 The last week of May brought a handful of travel TLDs to the mix, and you have to assume at least one of them will rise up fairly quickly. My guess would be that .FLIGHTS and .CRUISES will become the most popular of the bunch because those terms seem like common travel searches, but .VACATIONS could be a sneaky favorite.
 
@@ -45,10 +45,10 @@ The future of the web is definitely collaboration, and wikis are perfect for col
 
 ###The rest
 
-+ [.DANCE](https://iwantmyname.com/domains/dot-dance) (#89)
-+ [.DEMOCRAT](https://iwantmyname.com/domains/dot-democrat) (#98)
-+ [.EXPOSED](https://iwantmyname.com/domains/dot-exposed) (#91)
-+ [.FOUNDATION](https://iwantmyname.com/domains/dot-foundation) (#86)
++ [.DANCE](https://iwantmyname.com/domains/dot-dance) (#85)
++ [.DEMOCRAT](https://iwantmyname.com/domains/dot-democrat) (#100)
++ [.EXPOSED](https://iwantmyname.com/domains/dot-exposed) (#94)
++ [.FOUNDATION](https://iwantmyname.com/domains/dot-foundation) (#89)
 + [.RENTALS](https://iwantmyname.com/domains/dot-rentals) (#99)
 + [.NINJA](https://iwantmyname.com/domains/dot-ninja) (#109)
 + [.WATCH](https://iwantmyname.com/domains/dot-watch) (#82)
