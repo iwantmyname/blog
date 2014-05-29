@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-05-29 07:23:49 +1200
+date: 2014-05-30 05:23:04 +1200
 author: Chris
 title: "The domain extensions of May, including .CLUB, .FLIGHTS and .KIWI"
 header_image: 2014-05-29-airport.jpg
@@ -30,7 +30,7 @@ And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popula
 
 ###The TLDs for travel
 
-+ [.CRUISES](https://iwantmyname.com/domains/dot-cruises) (#111)
++ [.CRUISES](https://iwantmyname.com/domains/dot-cruises) (#106)
 + [.FLIGHTS](https://iwantmyname.com/domains/dot-flights) (#108)
 + [.VACATIONS](https://iwantmyname.com/domains/dot-vacations) (#104)
 + [.VILLAS](https://iwantmyname.com/domains/dot-villas) (#112)
