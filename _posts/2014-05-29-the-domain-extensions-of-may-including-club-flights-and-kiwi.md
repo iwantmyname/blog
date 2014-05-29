@@ -49,10 +49,10 @@ The future of the web is definitely collaboration, and wikis are perfect for col
 + [.DEMOCRAT](https://iwantmyname.com/domains/dot-democrat) (#100)
 + [.EXPOSED](https://iwantmyname.com/domains/dot-exposed) (#94)
 + [.FOUNDATION](https://iwantmyname.com/domains/dot-foundation) (#89)
-+ [.RENTALS](https://iwantmyname.com/domains/dot-rentals) (#99)
-+ [.NINJA](https://iwantmyname.com/domains/dot-ninja) (#109)
-+ [.WATCH](https://iwantmyname.com/domains/dot-watch) (#82)
-+ [.WORKS](https://iwantmyname.com/domains/dot-works) (#85)
++ [.RENTALS](https://iwantmyname.com/domains/dot-rentals) (#45)
++ [.NINJA](https://iwantmyname.com/domains/dot-ninja) (#53)
++ [.WATCH](https://iwantmyname.com/domains/dot-watch) (#84)
++ [.WORKS](https://iwantmyname.com/domains/dot-works) (#88)
 
 ***
 
