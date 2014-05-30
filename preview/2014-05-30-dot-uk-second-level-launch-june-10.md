@@ -2,7 +2,7 @@
 layout: post
 date: 2014-05-31 00:00:49 +1200
 author: Timo
-title: Drop the .co from your .co.uk domains—registration for yourname.uk starting on Jun 10
+title: Drop the .co from your .co.uk domains—get yourname.uk starting on June 10th
 header_image: 2014-05-30-dot-uk.jpg
 ---
 
