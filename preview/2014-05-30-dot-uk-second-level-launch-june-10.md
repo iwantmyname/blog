@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2014-05-30 18:00:49 +1200
+date: 2014-05-31 00:00:49 +1200
 author: Timo
 title: Drop the .co from your .co.uk domains—registration for yourname.uk starting on Jun 10
 header_image: 2014-05-30-dot-uk.jpg
-
 ---
 
 As [previously announced](https://iwantmyname.com/blog/2013/11/uk-domains-without-the-co-coming-summer-2014.html), second-level .UK domains will launch on June 10, 2014. This will allow you to register names such as yourname.uk or yourbusiness.uk instead of having to use the .CO.UK suffix.
