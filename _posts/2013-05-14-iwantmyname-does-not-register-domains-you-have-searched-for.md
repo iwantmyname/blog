@@ -15,7 +15,7 @@ We've been flying a bit under the radar for a couple of years but as we grow (iw
 
 ![frontrunning-2.png]({{ site.images_url }}/2013-05-14-frontrunning-2.png)
 
-Now let me be absolutely clear. We don't do such things! In fact, [GoDaddy debunked the myths around front-running](http://inside.godaddy.com/front-running-debunking-myth/) based on some search logs:
+Now let me be absolutely clear. We don't do such things! In fact, [GoDaddy debunked the myths around front-running](https://web.archive.org/web/20130826042820/http://inside.godaddy.com/front-running-debunking-myth) based on some search logs:
 
 > As unique as customers believe their domain name ideas are, there's more "innovation collision" than many people realize. With so many domain name registrations happening every day, there is a good probability a domain name you searched for is also being searched by someone else.
 
