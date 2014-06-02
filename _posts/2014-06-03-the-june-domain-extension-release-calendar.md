@@ -66,4 +66,8 @@ header_image: 2014-06-03-crowd.jpg
 
 ***
 
-Find all the latest launches, including prices, check out our
+New domains are being launched every week, so be sure to keep up with all the latest updates (including prices) on out Launch  are 
+
+
+
+Find all the latest launches, including prices, check out our Launch Calendar page. 
