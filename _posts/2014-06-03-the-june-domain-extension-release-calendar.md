@@ -66,4 +66,4 @@ header_image: 2014-06-03-crowd.jpg
 
 ***
 
-New domains are being launched every week, so be sure to keep up with all the latest updates (including prices) on out [gTLD Launch Dates page](https://iwantmyname.com/domains/new-gtld-launch-dates).
+New domains are being launched every week, so be sure to keep up with all the latest updates (including prices) on our [gTLD Launch Dates page](https://iwantmyname.com/domains/new-gtld-launch-dates).
