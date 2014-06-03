@@ -32,9 +32,9 @@ I suppose this is a reasonable concern--if I were looking for a domain name and 
 
 But if you think about it, the odds of your desired domain being entirely original isn't all that great. Again, there are millions of domains registered, and more are registered every day. 
 
-And truth is, if someone was somehow stalking and buying up all the domain search results that go through iwantmyname, they'd be broke pretty fast. There are *a lot* of searches happening, and it often takes people a few tries to pair a brand name they like with a domain they can find. 
+And truth is, if someone was stalking and buying up all the domain search results that go through iwantmyname, they'd be broke pretty fast. There are *a lot* of searches happening, and it often takes people a few tries to pair a brand name they like with a domain they can find. 
 
-Heck, just look at what [Marco Arment went through](http://www.marco.org/2013/09/24/naming-overcast) to finally come up with Overcast.fm for his new podcast app. Branding is hard, and now with domains being such a crucial part, it's harder than ever. 
+Heck, just look at what [Marco Arment went through](http://www.marco.org/2013/09/24/naming-overcast) to finally come up with Overcast.fm as his new podcast app. Branding is hard, and now with domains being such a crucial aspect, it's harder than ever. 
 
 **III.** That's why we're so excited about the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) currently being [delegated by ICANN](http://newgtlds.icann.org/en/program-status/delegated-strings). Instead of getting bottlenecked but a relatively small number of TLDs to choose from, you'll have access to hundreds of new gTLDs. 
 
