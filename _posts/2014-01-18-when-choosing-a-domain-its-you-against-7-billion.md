@@ -36,7 +36,7 @@ And truth is, if someone was stalking and buying up all the domain search result
 
 Heck, just look at what [Marco Arment went through](http://www.marco.org/2013/09/24/naming-overcast) to finally come up with Overcast.fm as his new podcast app. Branding is hard, and now with domains being such a crucial aspect, it's harder than ever. 
 
-**III.** That's why we're so excited about the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) currently being [delegated by ICANN](http://newgtlds.icann.org/en/program-status/delegated-strings). Instead of getting bottlenecked but a relatively small number of TLDs to choose from, you'll have access to hundreds of new gTLDs. 
+**III.** That's why we're so excited about the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) currently being [delegated by ICANN](http://newgtlds.icann.org/en/program-status/delegated-strings). Instead of getting bottlenecked by a relatively small number of TLDs to choose from, you'll have access to hundreds of new gTLDs. 
 
 If your name is Fred and you're opening a restaurant and can't get fredsfood.com, just pick up fred.restaurant, fred.pub, fred.food or fred.eat. Some of the more common names will certainly get snapped up, but your options will be much greater. 
 
