@@ -20,11 +20,11 @@ But what's most important to remember about domains is that when people register
 + Any ccTLD that might relate to the brand, like .IO and .FM (tech favorites)
 + Any TLD that might form a domain hack
 
-So if you talk to an entrepreneurial soul, he/she might have a ton of domains--some for projects they're working on, some for future projects that failed and some that just haven't been around long enough to expire. I myself have 13 domains right now, and I know a few people who have much more.
+So if you talk to an entrepreneurial soul, he/she might have a ton of domains--some for projects they're working on, some for future projects that failed and some that just haven't been around long enough to expire. I myself have 13 domains right now, and I know many people who have much more.
 
 <!-- /excerpt -->
 
-**II.** As a domain registrar, every once in a while we get tweets like this one:
+**II.** As a domain registrar, we get tweets like this one every once in a while:
 
 >beware searching domains on @iwantmyname, got a few immediately bought out by squatters
 
