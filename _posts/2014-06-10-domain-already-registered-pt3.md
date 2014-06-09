@@ -13,9 +13,13 @@ Read the rest: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-regi
 
 ##Why it's important to have your own domain / web presence
 
+<!-- excerpt -->
+
 Having your own domain name, even if it's not perfect, is far more important than building your online presence on top of another service's URL, e.g. yourshop.shopify.com or facebook.com/yourcompany. This practice of building your brand, service or web presence on another organization's platform is an example of "sharecropping". It can be problematic for a number of reasons.
 
 The other platform you're hosted on controls how your presence can look or function (e.g. templates and tiered feature offerings depending on how much you pay). The other platform can change services or raise rates, leaving you little recourse since not accepting/paying could mean losing your site. 
+
+<!-- /excerpt -->
 
 The other platform can control how much exposure you get. There've been lots of articles about issues with brands on Facebook getting ever-lessening exposure of their content to their fans if they don't pay for advertising. The other platform can limit your access to analytics, making it hard to know how large your audience actually is, what they're doing on your site, or where they're engaging when they're there. 
 
