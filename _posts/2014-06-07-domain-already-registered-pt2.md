@@ -7,6 +7,10 @@ header_image: 2014-06-06-scientist.jpg
 
 ---
 
+Read the rest: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+
+***
+
 ##How do I pick something different that people will still remember?##
 
 <!-- excerpt -->

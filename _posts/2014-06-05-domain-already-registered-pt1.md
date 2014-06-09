@@ -7,6 +7,10 @@ header_image: 2014-06-05-escalator.jpg
 
 ---
 
+Read the rest: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+
+***
+
 You've started a business, a club or a blog. You've got plenty of work ahead of you, and you're excited about it. Your idea is fantastic, you've got so much you want to share with the world, and most importantly, you've picked out a fantastic name. It's clever, descriptive and easy to remember. Now to register the domain name.
 
 Or not.
