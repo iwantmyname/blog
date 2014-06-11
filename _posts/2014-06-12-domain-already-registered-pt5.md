@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-12 08:08:46 +1200
 author: Melle
-title: Someone has registered the domain I want. Help! Part 5
+title: "Someone has registered the domain I want. Help! Part 5"
 header_image: 2014-06-12-cheap-sale.jpg
 
 ---

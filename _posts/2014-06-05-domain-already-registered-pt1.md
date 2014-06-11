@@ -7,9 +7,11 @@ header_image: 2014-06-05-escalator.jpg
 
 ---
 
-Read the rest: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
+Read the rest: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
 
 ***
+
+<!-- excerpt -->
 
 You've started a business, a club or a blog. You've got plenty of work ahead of you, and you're excited about it. Your idea is fantastic, you've got so much you want to share with the world, and most importantly, you've picked out a fantastic name. It's clever, descriptive and easy to remember. Now to register the domain name.
 
@@ -18,6 +20,8 @@ Or not.
 Trying to get The Perfect Domain can be really frustrating. Or, at the very least, really expensive. [Well over 100 million .COM domains are currently registered.](http://www.thedomains.com/2014/03/24/after-losing-over-25000-registrations-in-two-days-com-back-below-113-million-berlin-top-40k/) Which means  that "the good ones" are probably taken. Estimates are that the total number of registered domains topped a quarter of a _billion_ last year. (Estimates are that nearly half consist of [.COM](https://iwantmyname.com/domains/com-domain-name-registration-for-commercial) and [.NET](https://iwantmyname.com/domains/net-domain-name-registration-for-network).) 
 
 Plus, there doesn't even have to be an associated website for a domain name to be registered and unavailable to you. What's a person to do in the quest to register the perfect domain name? Well, there are a few options, which we'll break down for you in this series on what to do if the domain you want is already registered.
+
+<!-- /excerpt -->
 
 ##How can I tell if a domain name I want is registered already?##
 
