@@ -7,9 +7,13 @@ header_image: 2014-06-19-zoho-mail-banner.png
 
 ---
 
+<!-- excerpt -->
+
 There was a time when you could easily get a free custom email address through Google, but those days have come and gone. Now, if you want to set up a name@yourdomain.tld email address, you have to pay up like you're a business. Multiple users, vast amounts of space, tons of add-ons. But if you're just looking for something small that may or may not ever grow, having a freemium option is ideal. And for that, you should check out Zoho Mail.
 
 In short, Zoho Mail offers [just about everything](https://www.zoho.com/mail/zohomail-pricing2.html) gmail does, including lots of space, document storage and integration with productivity tools like calendars and task lists. Zoho Mail also has a webmail interface that works surprisingly well, and can easily be added to your favorite mail app for a more personalized workflow. Best of all though is the aforementioned free tier, with 5GB mail and document storage for up to 10 users (and it's ad-free).
+
+<!-- /excerpt -->
 
 ![Tiers]({{ site.images_url }}/2014-06-19-zoho-tiers.png)
 
