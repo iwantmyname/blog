@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-07 01:28:44 +1200
 author: Melle
-title: "Someone has registered the domain I want. Help! Part 2"
+title: How do I pick a domain that people will remember?
 header_image: 2014-06-06-scientist.jpg
 
 ---
@@ -11,11 +11,9 @@ Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-regist
 
 ***
 
-##How do I pick something different that people will still remember?##
-
 <!-- excerpt -->
 
-As already mentioned, you can look for a variant of "theperfectdomain". But be aware of potential confusion if the domain extension (e.g. .NET / .GURU / .CA) is the only difference between your domain and someone else's.
+As mentioned in [the previous part of this post series](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), you can look for a variant of "theperfectdomain". But be aware of potential confusion if the domain extension (e.g. .NET / .GURU / .CA) is the only difference between your domain and someone else's.
 
 You could try small changes to the domain name you want. Like adding or dropping an article. Instead of "companyname", use "thecompanyname" or "getproductname". Again, there is still a good chance people will get confused.
 
@@ -32,7 +30,7 @@ You can use a ccTLD to represent yourself or organization geographically, being 
 Google now treats 20 ccTLDs as generic, i.e. like they were among the hundreds of three-letters-or-longer gTLDs. Familiar ones include .CO, .ME and [.TV](https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu). [Here is the current full list.](http://www.thedomains.com/2013/05/02/the-20-cctlds-that-google-treats-as-generic-tlds/)
 
 
-##How do I get my domain/site to rank better in search results?##
+## How do I get my domain/site to rank better in search results?
 
 What you want to do is improve your site's Search Engine Optimization (SEO).
 
