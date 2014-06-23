@@ -9,8 +9,6 @@ header_image: 2014-06-12-cheap-sale.jpg
 
 <!-- excerpt -->
 
-## Someone has registered a domain with my trademark. What do I do?
-
 You will need to follow the instructions outlined in [ICANN's Uniform Domain-Name Dispute-Resolution Policy](http://www.icann.org/en/help/dndr/udrp) (UDRP). Consulting a lawyer may also be useful in ensuring your case is as strong as possible. 
 
 Note, however, that even though you own the trademark, a domain squatter will still likely fight to keep the domain, since it was purchased in the first place to make money. Getting the domain name may be expensive, but if you own the trademark (or are a celebrity), you have a good chance of getting the domain from the squatter. Really, it comes down to whether it's worth the trouble to you.
