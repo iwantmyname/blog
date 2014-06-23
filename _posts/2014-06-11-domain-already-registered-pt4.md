@@ -46,7 +46,10 @@ Domain squatting, if a person's or company's actions are deemed to be that, is i
 
 Disputes are generally resolved using ICANN's [Uniform Domain Name Resolution Policy (UDRP)](http://www.icann.org/en/help/dndr/udrp). There has been some criticism that UDRP favours large corporations in its rulings. Some domain name disputes are also resolved in court via lawsuits.
 
+
 ***
+
+### Continue reading
 
 This is **part four** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html) or jump to another part in the series:
 

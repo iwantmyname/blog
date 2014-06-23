@@ -32,6 +32,7 @@ Asking a registrar to take a domain for you won't work, either. We have no more 
 
 Think of it in reverse: if someone else decided they wanted _your_ domain, would you be okay with us just taking it from you and giving it to them, regardless of what you were doing with it?
 
+
 ***
 
 ### Continue reading

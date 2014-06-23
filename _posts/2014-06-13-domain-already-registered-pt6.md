@@ -33,7 +33,10 @@ This service is called brokerage, and iwantmyname does not offer any domain brok
 
 What brokers will do is contact the domain owner (if they can), then make an offer for the domain for you, handle negotiations, and finalize the agreement to purchase and transfer the domain. You will pay the broker a fee in addition to whatever price you pay for the domain name itself.
 
+
 ***
+
+### Continue reading
 
 This is **part six** of a six-part series to help you find your ideal domain name. [Start from the beginning](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html) or jump to another part in the series:
 

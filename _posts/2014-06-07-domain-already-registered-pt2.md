@@ -40,6 +40,7 @@ Then the search ranking starts to change. Given a bit of time, the site could ev
 
 It's important to note that Google's systems are very smart, and are continually improved to guard against scams and gaming the system. Stuffing content with keywords relevant to your site or creating links to your site's content all over the Internet won't work to improve your search rankings, because Google's algorithms are very good at distinguishing _quality_ links and references from scammy ones.
 
+
 ***
 
 ### Continue reading
