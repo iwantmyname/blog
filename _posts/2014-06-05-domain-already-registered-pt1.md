@@ -52,9 +52,9 @@ Companies are getting more creative with their naming, turning to domain naming 
 
 This is **part one** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
 
-1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
+1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html) *(you are here)*
 2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
 3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
-4. [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
-5. [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
-6. [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
+4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
+5. [Someone has registered a domain with my trademark. What do I do?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
+6. [How do I find out if the domain I want becomes available?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
