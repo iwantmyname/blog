@@ -23,7 +23,7 @@ Plus, there doesn't even have to be an associated website for a domain name to b
 
 <!-- /excerpt -->
 
-## How can I tell if a domain name I want is registered already?##
+## How can I tell if a domain name I want is registered already?
 
 You can enter the domain you're interested in [right here](https://iwantmyname.com/) and see which variants are available. Available domains will show a green smiley face.
 
@@ -38,7 +38,7 @@ If a domain name is not showing as available, and you can't find a website for i
 5. is just really fond of the name
 6. wants to prevent other entities from using his/her name or brand.
 
-## Can I register a similar domain name?##
+## Can I register a similar domain name?
 
 Sure, if "theperfectdomain.com" is already registered, you could always just register the same domain name with a different extension, e.g. "theperfectdomain.info". The biggest potential problem there is people forgetting that your domain extension isn't .COM and going to the other site looking for you and getting confused. 
 
