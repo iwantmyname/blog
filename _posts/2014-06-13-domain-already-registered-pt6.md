@@ -27,8 +27,8 @@ Backordering services are also popular, and if you want a maximum chance of gett
 
 * [NameJet](http://namejet.com)
 * [SnapNames](http://snapnames.com)
-* [backorderzone.com](backorderzone.com)
-* [pool.com](http://pool.com)
+* [BackorderZone](backorderzone.com)
+* [Pool.com](http://pool.com)
 
 
 ## Can you make an offer for a domain name for me?
