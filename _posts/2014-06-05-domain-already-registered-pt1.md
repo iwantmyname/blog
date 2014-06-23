@@ -54,7 +54,7 @@ This is **part one** of a six-part series to help you find your ideal domain nam
 
 1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
 2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
-3. [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
 4. [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
 5. [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
 6. [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)

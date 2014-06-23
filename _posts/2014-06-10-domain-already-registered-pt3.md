@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-10 05:58:21 +1200
 author: Melle
-title: "Someone has registered the domain I want. Help! Part 3"
+title: Why it's important to have you own domain and web presence
 header_image: 2014-06-10-surveying.jpg
 
 ---
@@ -10,8 +10,6 @@ header_image: 2014-06-10-surveying.jpg
 Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html), [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
 
 ***
-
-##Why it's important to have your own domain / web presence
 
 <!-- excerpt -->
 
@@ -27,7 +25,8 @@ Or the other platform could simply take your site offline without much notice, e
 
 You can always switch domains later, but start with a web address you can control and build up your search engine visibility. A very specific domain name is less important than it was 10 years ago because more people use search engines or recommendations from friends via social sites like Facebook and Twitter.
 
-##If someone isn't using the domain I want, can I have it?##
+
+## If someone isn't using the domain I want, can I have it?
 
 No. Well, not without the owner agreeing to transfer it to you. 
 
