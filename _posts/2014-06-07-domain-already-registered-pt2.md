@@ -7,10 +7,6 @@ header_image: 2014-06-06-scientist.jpg
 
 ---
 
-Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html), [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
-
-***
-
 <!-- excerpt -->
 
 As mentioned in [the previous part of this post series](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), you can look for a variant of "theperfectdomain". But be aware of potential confusion if the domain extension (e.g. .NET / .GURU / .CA) is the only difference between your domain and someone else's.
@@ -43,3 +39,14 @@ As a site becomes more active, develops more content, and gets more engagement (
 Then the search ranking starts to change. Given a bit of time, the site could even start to show up on searches that don't involve the name, but for topics and terms it covers well. [Read more about Search Engine Optimization](http://moz.com/beginners-guide-to-seo).
 
 It's important to note that Google's systems are very smart, and are continually improved to guard against scams and gaming the system. Stuffing content with keywords relevant to your site or creating links to your site's content all over the Internet won't work to improve your search rankings, because Google's algorithms are very good at distinguishing _quality_ links and references from scammy ones.
+
+***
+
+This is **part one** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
+
+1. Someone has registered the domain I want. Help!
+2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
+3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
+5. [Someone has registered a domain with my trademark. What do I do?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
+6. [How do I find out if the domain I want becomes available?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)

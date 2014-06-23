@@ -7,10 +7,6 @@ header_image: 2014-06-05-escalator.jpg
 
 ---
 
-Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html), [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
-
-***
-
 <!-- excerpt -->
 
 You've started a business, a club or a blog. You've got plenty of work ahead of you, and you're excited about it. Your idea is fantastic, you've got so much you want to share with the world, and most importantly, you've picked out a fantastic name. It's clever, descriptive and easy to remember. Now to register the domain name.
@@ -52,7 +48,7 @@ Companies are getting more creative with their naming, turning to domain naming 
 
 This is **part one** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
 
-1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html) *(you are here)*
+1. Someone has registered the domain I want. Help!
 2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
 3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
 4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
