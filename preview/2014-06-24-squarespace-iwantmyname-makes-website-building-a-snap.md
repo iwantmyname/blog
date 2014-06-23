@@ -25,7 +25,7 @@ Once you're ready to build your Squarespace site, adding your domain is super si
 
 ![Squarespace install]({{ site.images_url }}/2014-06-24-squarespace-iwantmyname.png)
 
-Once you're done with the iwantmyname side, just login to Squarespace (or sign up) and click on the **Settings** icon. In that menu, you'll see a **Domains** option, which will show a **Link Existing** button in the top-right corner. From there, just type in your domain and you're all set up.
+Once you're done with the iwantmyname side, just login to your Squarespace account (or sign up for one) and click on the **Settings** icon. In that menu, you'll see a **Domains** option, which will show a **Link Existing** button in the top-right corner. From there, just type in your domain and you're all set up (if you need help on the Squarespace side, their ).
 
 ##A quick note about separating your domain from your hosting
 
