@@ -59,6 +59,6 @@ This is **part five** of a six-part series to help you find your ideal domain na
 1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
 2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
 3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
-4. What is domain squatting/cybersquatting?
-5. [Someone has registered a domain with my trademark. What do I do?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
+4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
+5. Someone has registered a domain with my trademark. What do I do?
 6. [How do I find out if the domain I want becomes available?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)

@@ -7,10 +7,6 @@ header_image: 2014-06-13-briefcase.jpg
 
 ---
 
-Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html), [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
-
-***
-
 <!-- excerpt -->
 
 If you're not comfortable contacting the domain owner directly, or you tried and didn't get a response, you can attempt to procure the domain when it expires. 
@@ -36,3 +32,14 @@ Backordering services are also popular, and if you want a maximum chance of gett
 This service is called brokerage, and iwantmyname does not offer any domain brokerage services. We recommend contacting [Sedo](http://www.sedo.com/us/buy-domains/domain-brokerage/) or [DomainAgents](https://domainagents.com/) to assist. 
 
 What brokers will do is contact the domain owner (if they can), then make an offer for the domain for you, handle negotiations, and finalize the agreement to purchase and transfer the domain. You will pay the broker a fee in addition to whatever price you pay for the domain name itself.
+
+***
+
+This is **part six** of a six-part series to help you find your ideal domain name. [Start from the beginning](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html) or jump to another part in the series:
+
+1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
+2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
+3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
+5. [Someone has registered a domain with my trademark. What do I do?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
+6. How do I find out if the domain I want becomes available?
