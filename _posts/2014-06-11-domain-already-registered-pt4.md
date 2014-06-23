@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-11 05:11:17 +1200
 author: Melle
-title: "Someone has registered the domain I want. Help! Part 4"
+title: What is domain squatting/cybersquatting?
 header_image: 2014-06-11-squatting.jpg
 
 ---
@@ -10,8 +10,6 @@ header_image: 2014-06-11-squatting.jpg
 Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html), [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
 
 ***
-
-##What is domain squatting/cybersquatting?
 
 <!-- excerpt -->
 
@@ -31,7 +29,8 @@ Legally, resolving domain squatting requires determining several things. Is the 
 
 Bad faith domain squatting is illegal, but can still be expensive to resolve by legal channels.
 
-##What is the difference between domain speculation and squatting?##
+
+## What is the difference between domain speculation and squatting?
 
 There's no single, definitive (i.e. legally binding) definition, but generally squatting implies "bad faith" intent on the part of the person or company that has registered the domain. 
 

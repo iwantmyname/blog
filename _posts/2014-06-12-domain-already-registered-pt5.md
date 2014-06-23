@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-12 08:08:46 +1200
 author: Melle
-title: "Someone has registered the domain I want. Help! Part 5"
+title: Someone has registered a domain with my trademark. What do I do?
 header_image: 2014-06-12-cheap-sale.jpg
 
 ---
@@ -13,7 +13,7 @@ Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-regist
 
 <!-- excerpt -->
 
-##Someone has registered a domain with my trademark. What do I do?##
+## Someone has registered a domain with my trademark. What do I do?
 
 You will need to follow the instructions outlined in [ICANN's Uniform Domain-Name Dispute-Resolution Policy](http://www.icann.org/en/help/dndr/udrp) (UDRP). Consulting a lawyer may also be useful in ensuring your case is as strong as possible. 
 
@@ -21,7 +21,8 @@ Note, however, that even though you own the trademark, a domain squatter will st
 
 <!-- /excerpt -->
 
-##Can I buy the domain I want from the owner?##
+
+## Can I buy the domain I want from the owner?
 
 Possibly. Certainly you can contact the person or company and see if they're interested in selling it. Be aware that the person who owns the domain is under no obligation to sell it, may want a lot more money for it than you're willing or able to pay, and may not be very interested in negotiating the price. Best to start off asking casually and generally if the owner would be interested in selling, don't share too much about who you are and why you want the domain, and be very polite.
 
@@ -29,13 +30,15 @@ As an interested buyer, really your only leverage is how much you're willing or 
 
 Also, don't order business cards or marketing collateral with a specific domain name on them if you don't absolutely positively own the domain already.
 
-##How do I find out who owns the domain I want?##
+
+## How do I find out who owns the domain I want?
 
 To find out who owns a domain, try a [WHOIS lookup](http://whois.domaintools.com/). Typically the contact information of the person who owns the domain will appear on the search results page. 
 
 Even if they are using a privacy service, there should still be an email address you can use to contact the owner, or at least a domain holding company. If a domain is held by a company wanting to make money on selling domains, they're probably going to make it easy to get a hold of them.
 
-##How much is the domain I want worth?##
+
+## How much is the domain I want worth?
 
 That depends on a lot of factors. There is no service you can check to see what a given domain should be worth. Any site that claims to tell you what your domain name or social media account is worth is just using some arbitrary calculation. They are just for fun and have no legal use or bearing on actual domain value or prices.
 
