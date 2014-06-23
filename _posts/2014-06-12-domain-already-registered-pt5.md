@@ -55,4 +55,3 @@ There are many things that can influence the cost of a domain name. Some example
 7. how much you appear to be willing or able to pay for it (e.g. there's a good chance that the price may be higher if a company wants a domain than if just an individual person does) 
 8. the legal status of the domain (e.g. is it a registered trademark)
 9. the state of the industry or economy (e.g. during a tech bubble, like many things, domain name prices may become inflated).
-

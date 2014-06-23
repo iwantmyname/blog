@@ -2,7 +2,7 @@
 layout: post
 date: 2014-06-13 08:42:32 +1200
 author: Melle
-title: "Someone has registered the domain I want. Help! Part 6"
+title: How do I find out if the domain I want becomes available?
 header_image: 2014-06-13-briefcase.jpg
 
 ---
@@ -12,8 +12,6 @@ Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-regist
 ***
 
 <!-- excerpt -->
-
-##How do I find out if the domain I want becomes available?##
 
 If you're not comfortable contacting the domain owner directly, or you tried and didn't get a response, you can attempt to procure the domain when it expires. 
 
@@ -27,13 +25,13 @@ You could also try a domain monitoring service, which alerts you to status chang
 
 Backordering services are also popular, and if you want a maximum chance of getting the domain if/when it expires, we recommend using all of them. Most of these services will only charge you if they manage to procure the domain, but some charge in advance. Here are a few popular options:
 
-* [namejet.com](http://namejet.com)
-* [snapnames.com](http://snapnames.com)
+* [NameJet](http://namejet.com)
+* [SnapNames](http://snapnames.com)
 * [backorderzone.com](backorderzone.com)
 * [pool.com](http://pool.com)
 
 
-##Can you make an offer for a domain name for me?##
+## Can you make an offer for a domain name for me?
 
 This service is called brokerage, and iwantmyname does not offer any domain brokerage services. We recommend contacting [Sedo](http://www.sedo.com/us/buy-domains/domain-brokerage/) or [DomainAgents](https://domainagents.com/) to assist. 
 
