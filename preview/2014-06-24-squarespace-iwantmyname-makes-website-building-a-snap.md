@@ -9,7 +9,7 @@ header_image: 2014-06-24-squarespace-template.png
 
 <!-- excerpt -->
 
-So you've come up with a plan to create a fully functional website with a blog, plenty of useful content and maybe even an online store. Getting a domain is easy (although [selecting a domain](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) may take some thought), but actually building your site without coding knowledge or a freelance budget can be a real challenge. Unless you're using Squarespace.
+So you've come up with a plan to create a fully functional website with a blog, plenty of useful content and maybe even an online store. [Getting a domain](https://iwantmyname.com/) is easy (although [selecting a domain name](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) may take some thought), but actually building your site without coding knowledge or a freelance budget can be a real challenge. Unless you're using Squarespace.
 
 <!-- /excerpt -->
 
