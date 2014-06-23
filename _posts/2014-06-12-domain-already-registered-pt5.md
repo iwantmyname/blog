@@ -7,10 +7,6 @@ header_image: 2014-06-12-cheap-sale.jpg
 
 ---
 
-Read it all: [Part 1](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html), [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html), [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html), [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html), [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html), [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
-
-***
-
 <!-- excerpt -->
 
 ## Someone has registered a domain with my trademark. What do I do?
@@ -55,3 +51,14 @@ There are many things that can influence the cost of a domain name. Some example
 7. how much you appear to be willing or able to pay for it (e.g. there's a good chance that the price may be higher if a company wants a domain than if just an individual person does) 
 8. the legal status of the domain (e.g. is it a registered trademark)
 9. the state of the industry or economy (e.g. during a tech bubble, like many things, domain name prices may become inflated).
+
+***
+
+This is **part five** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html) or jump to another part in the series:
+
+1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
+2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
+3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+4. What is domain squatting/cybersquatting?
+5. [Someone has registered a domain with my trademark. What do I do?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
+6. [How do I find out if the domain I want becomes available?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)
