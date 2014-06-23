@@ -11,7 +11,7 @@ So you've come up with a plan to create a fully functional website with a blog, 
 
 With [Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url), even writers like myself can take one of the professional templates and tweak it to become something that's completely original—all without needing to deal with hosting space and servers like you would with Wordpress.org. You can easily edit things like colors, fonts (from Google and Typekit) and sizes using simple sliders, you can integrate blogs and photo galleries to any page, and third-party integrations like Amazon products, Instagram feeds and Soundcloud files are just a few clicks away. And if you're really on a shoestring budget, you can even use [Squarespace Logos](https://iwantmyname.com/blog/2014/01/need-a-logo-squarespace-has-you-covered.html) to craft a logo with some nice fonts and simple designs.
 
-![Products]({{ site.images_url }}/2014-06-24-squarespace-products)
+![Products]({{ site.images_url }}/2014-06-24-squarespace-products.png)
 
 For many users though, the [Commerce](http://www.squarespace.com/tour/shops) features are the main draw. Using a the same simple integration tools you use to add third-party integrations, you can add products to your site, manage your inventory, take payments and customize marketing emails. It really is a one-stop-shop for all your ecommerce needs.
 
