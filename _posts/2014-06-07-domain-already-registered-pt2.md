@@ -42,10 +42,10 @@ It's important to note that Google's systems are very smart, and are continually
 
 ***
 
-This is **part one** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
+This is **part two** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html) or jump to another part in the series:
 
-1. Someone has registered the domain I want. Help!
-2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
+1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
+2. How do I pick a domain that people will remember?
 3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
 4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
 5. [Someone has registered a domain with my trademark. What do I do?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html)
