@@ -46,6 +46,8 @@ Companies are getting more creative with their naming, turning to domain naming 
 
 ***
 
+### Continue reading
+
 This is **part one** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
 
 1. Someone has registered the domain I want. Help!
