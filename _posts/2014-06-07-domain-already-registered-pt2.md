@@ -42,7 +42,7 @@ It's important to note that Google's systems are very smart, and are continually
 
 ***
 
-#### Continue reading
+### Continue reading
 
 This is **part two** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html) or jump to another part in the series:
 
