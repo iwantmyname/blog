@@ -52,7 +52,7 @@ Companies are getting more creative with their naming, turning to domain naming 
 
 This is **part one** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
 
-1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html) (you are here)
+1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
 2. [Part 2](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
 3. [Part 3](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
 4. [Part 4](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
