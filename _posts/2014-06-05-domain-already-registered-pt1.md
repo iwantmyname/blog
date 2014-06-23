@@ -48,7 +48,7 @@ However, it will take time for people to get used to this new world where anythi
 
 Companies are getting more creative with their naming, turning to domain naming options like "getourproduct.com" instead of the specific company name, or registering [.CO](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia) or [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) domains in lieu of the elusive .COM.
 
-***
+*****
 
 This is part one of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html) or jump to another part in the series:
 
