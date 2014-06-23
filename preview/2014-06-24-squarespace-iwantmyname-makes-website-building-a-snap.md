@@ -25,11 +25,15 @@ Once you're ready to build your Squarespace site, adding your domain is super si
 
 ![Squarespace install]({{ site.images_url }}/2014-06-24-squarespace-iwantmyname.png)
 
-Once you're done with the iwantmyname side, just login to your Squarespace account (or sign up for one) and click on the **Settings** icon. In that menu, you'll see a **Domains** option, which will show a **Link Existing** button in the top-right corner. From there, just type in your domain and you're all set up (if you need help on the Squarespace side, their ).
+Once you're done with the iwantmyname side, just login to your Squarespace account (or sign up for one) and click on the **Settings** icon. In that menu, you'll see a **Domains** option, which will show a **Link Existing** button in the top-right corner. From there, just type in your domain and you're all set up (if you need help on the Squarespace side, their [tech support](http://help.squarespace.com/) is quite responsive).
 
-##A quick note about separating your domain from your hosting
+And that's it! You're now ready to build a website for all the world to see.
 
-We've had many customers ask us about Squarespace's offer for a free domain when you pre-pay for a year of their hosting. And it's a great deal from a cost standpoint, but you'll lose a lot of flexibility and most of the one-click install features iwantmyname offers (for adding things like [custom email addresses](https://iwantmyname.com/services/email-hosting/) and [URL shortening](https://iwantmyname.com/services/url-shortener/)).
+##A quick note about separating your domain from your hosting platform
+
+We've had many customers ask us about Squarespace's offer for a free domain when you pre-pay for a full year of their service. It's a great deal from a cost standpoint, but there are some major drawbacks to keep in mind: 
+
+1. you'll lose a lot of flexibility and most of the one-click install features iwantmyname offers (for adding things like [custom email addresses](https://iwantmyname.com/services/email-hosting/) and [URL shortening](https://iwantmyname.com/services/url-shortener/)).
 
 Expanding on the loss of flexibility, here are a few things to keep in mind:
 
