@@ -34,7 +34,7 @@ And that's it! You're now ready to build a website for all the world to see.
 We've had many customers ask us about Squarespace's offer for a free domain when you pre-pay for a full year of their service. It's a great deal from a cost standpoint, but there are some major drawbacks to keep in mind: 
 
 1. The free Squarespace domains are limited to .com, .net, .org, .info, .mobi and .biz, which means you can't use a ccTLD like .uk or .io or a new gTLD like .club or .photography.
-2. You'll lose all the one-click install features iwantmyname offers for adding things like [custom email addresses](https://iwantmyname.com/services/email-hosting/) and [URL shortening](https://iwantmyname.com/services/url-shortener/)).
-3. As long as you're a Squarespace customer paying by the year you're fine, but if you downgrade your account or want to change platforms, you'll have to transfer your domains fairly quickly.
+2. You'll lose all the one-click install features iwantmyname offers for adding things like [custom email addresses](https://iwantmyname.com/services/email-hosting/) and [URL shortening](https://iwantmyname.com/services/url-shortener/).
+3. As long as you're a Squarespace customer paying by the year you're fine, but if you downgrade your account or want to change platforms altogether, you'll have to transfer your domains fairly quickly.
 4. If you want to create a companion site for a one-off campaign, you'll have to register that domain somewhere else (meaning you'll have two registrars to manage). As of now, Squarespace only lets you host one domain at a time.
 
