@@ -3,8 +3,23 @@
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
+  width: 100% \9;
   max-width: 100%;
   height: auto;
+}
+.form-horizontal .form-group-sm .form-control {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.form-horizontal .form-group-lg .form-control {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
 }
 .btn-group-lg > .btn {
   padding: 10px 16px;
@@ -24,6 +39,8 @@
   line-height: 1.5;
   border-radius: 3px;
 }
+.dl-horizontal dd:before,
+.dl-horizontal dd:after,
 .container:before,
 .container:after,
 .container-fluid:before,
@@ -55,6 +72,7 @@
   content: " ";
   display: table;
 }
+.dl-horizontal dd:after,
 .container:after,
 .container-fluid:after,
 .row:after,
@@ -99,7 +117,7 @@ header {
   padding: 0 15px;
   margin: 0 -15px;
   white-space: nowrap;
-  color: #999999;
+  color: #777777;
   font-size: 21px;
   font-weight: 300;
   text-transform: lowercase;
@@ -143,7 +161,7 @@ header {
 .iwmn-nav > li > .dropdown-menu > form > fieldset > label {
   display: block;
   font-weight: inherit;
-  color: #999999;
+  color: #777777;
   margin-bottom: 8px;
 }
 .iwmn-nav > li > .dropdown-menu > form > small > a {
@@ -152,7 +170,7 @@ header {
   padding: 8px 4px;
   margin: 0 0 -10px;
   background: #f5f5f5;
-  color: #999999;
+  color: #777777;
 }
 .iwmn-nav > li > .dropdown-menu > form > small > a.pull-left {
   padding-left: 15px;
@@ -274,7 +292,7 @@ body {
 footer {
   padding: 20px 0;
   background-color: #555555;
-  color: #999999;
+  color: #777777;
   font-size: 12px;
 }
 footer a {
@@ -319,14 +337,14 @@ img.author {
 .iwmn-btn:focus,
 .iwmn-btn:active,
 .iwmn-btn.active,
-.open .dropdown-toggle.iwmn-btn {
+.open > .dropdown-toggle.iwmn-btn {
   color: #ffffff;
-  background-color: #e73323;
+  background-color: #e52b1a;
   border-color: #dc2918;
 }
 .iwmn-btn:active,
 .iwmn-btn.active,
-.open .dropdown-toggle.iwmn-btn {
+.open > .dropdown-toggle.iwmn-btn {
   background-image: none;
 }
 .iwmn-btn .badge {
@@ -453,7 +471,7 @@ p.read-more {
 .iwmn-article article > p,
 .iwmn-article article > blockquote,
 .iwmn-article article > blockquote > p,
-.iwmn-article article > iframe,
+.iwmn-article article > .embed-responsive,
 .iwmn-article article > ul,
 .iwmn-article article > ol {
   margin-top: 30px;
@@ -483,10 +501,6 @@ p.read-more {
 .iwmn-articles {
   padding-bottom: 50px;
 }
-.iwmn-article article iframe,
-.iwmn-articles article iframe {
-  max-width: 100%;
-}
 .iwmn-article p:not([class]) > img,
 .iwmn-articles p:not([class]) > img,
 .iwmn-article p:not([class]) > a > img,
@@ -497,8 +511,10 @@ p.read-more {
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   display: inline-block;
+  width: 100% \9;
   max-width: 100%;
   height: auto;
   display: block;
@@ -529,6 +545,7 @@ p.read-more {
   left: 0;
   right: 0;
   background-image: -webkit-linear-gradient(top, transparent 0%, rgba(34, 34, 34, 0.8) 100%);
+  background-image: -o-linear-gradient(top, transparent 0%, rgba(34, 34, 34, 0.8) 100%);
   background-image: linear-gradient(to bottom, transparent 0%, rgba(34, 34, 34, 0.8) 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#cc222222', GradientType=0);
