@@ -117,7 +117,7 @@ header {
   padding: 0 15px;
   margin: 0 -15px;
   white-space: nowrap;
-  color: #777777;
+  color: #999;
   font-size: 21px;
   font-weight: 300;
   text-transform: lowercase;
@@ -292,7 +292,7 @@ body {
 footer {
   padding: 20px 0;
   background-color: #555555;
-  color: #777777;
+  color: #999;
   font-size: 12px;
 }
 footer a {
