@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-06-27 18:39:07 +1200
+date: 2014-06-27 16:39:07 +1200
 author: Chris
 title: "Gmail supporting non-Latin domains by the end of the month"
 header_image: 2014-06-27-foreign-street.jpg
