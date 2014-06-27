@@ -9,7 +9,7 @@ header_image: 2014-06-28-computer-coffee.jpg
 
 <!-- excerpt -->
 
-One of the first things people tend to do as soon as they set up websites is install some kind of analytics platform. Some people choose paid platforms like [Clicky](http://clicky.com/) and [GoSquared](https://www.gosquared.com/), but most chose [Google Analytics](http://www.google.com/analytics/), the completely free platform that does just about everything you could ever want an analytics platform to do. 
+One of the first things people tend to do as soon as they set up websites is install some kind of analytics platform. Some people choose paid platforms like [Clicky](http://clicky.com/) and [GoSquared](https://www.gosquared.com/), but most choose [Google Analytics](http://www.google.com/analytics/), the completely free platform that does just about everything you could ever want an analytics platform to do. 
 
 And there lies the problem—what the heck are people supposed to do with analytics? Sure, it's fun to see what parts of the world users are coming from and what pages are being read more than others, but the amount of data you can gather from Google Analytics is astounding. If you know what you're doing...
 
