@@ -23,6 +23,3 @@ The internet has changed quite a bit with the launch of the new [generic top-lev
 
 It's all changing though, and at the end of the month we'll be seeing Gmail (and likely [Google Apps](https://iwantmyname.com/features/applications/google-apps-for-your-domain) email addresses as well, or soon after) in an assortment of languages. And making the internet more accessible for everyone is certainly a good thing.
 
-
-
-
