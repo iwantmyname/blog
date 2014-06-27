@@ -19,7 +19,7 @@ header_image: 2014-06-27-foreign-street.jpg
 
 <!-- /excerpt -->
 
-The internet has changed quite a bit with the launch of the new generic top-level domains (gTLDs), and buried amongst all the news of [.xyz](https://iwantmyname.com/domains/dot-xyz) and [.club](https://iwantmyname.com/domains/dot-club) is the success of .在线, the Chinese TLD for 'online'. With [more than 33,000 domains registered](http://namestat.org/), it's the seventh most popular extension currently available—and that's without the ability to be widely used for email, one of the most essential tools of the modern web. 
+The internet has changed quite a bit with the launch of the new generic top-level domains (gTLDs), and buried amongst all the news of [.xyz](https://iwantmyname.com/domains/dot-xyz) and [.club](https://iwantmyname.com/domains/dot-club) is the success of [.在线](https://iwantmyname.com/domains/dot-%E5%9C%A8%E7%BA%BF), the Chinese TLD for 'online'. With [more than 33,000 domains registered](http://namestat.org/), it's the seventh most popular extension currently available—and that's without the ability to be widely used for email, one of the most essential tools of the modern web. 
 
 It's all changing though, and at the end of the month we'll be seeing gmail (and certainly Google Apps email addresses too) in an assortment of languages. And making the internet more accessible for everyone is certainly a good thing.
 
