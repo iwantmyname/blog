@@ -7,9 +7,13 @@ header_image: 2014-07-02-tokyo.jpg
 
 ---
 
+<!-- excerpt -->
+
 New generic top-level domains (gTLDs) have been coming out at a rapid pace the last few months, and now there are nearly 1.4 million registered gTLDs in existance (up from less than a million on June 1). Looking at the [30](http://ntldstats.com/) most popular, it's still apparent that the average gTLD is still fairly small (#30 [.training](https://iwantmyname.com/domains/dot-training) only has around 9,000 registrations), but the top of the list has grown dramatically. Both [.xyz](https://iwantmyname.com/domains/dot-xyz) and [.berlin](https://iwantmyname.com/domains/dot-berlin) have more than 100,000 registered domains, and previous leaders [.club](https://iwantmyname.com/domains/dot-club) and [.guru](https://iwantmyname.com/domains/dot-guru) have more than 60,000.
 
 Perhaps we'll see a new favorite from the new July domains though. Maybe .tokyo will go on to rival .berlin. Or maybe .blackfriday (??) will capture the hearts of retailers looking to cash in on the big day. Check out the launch calendar for July and find your favorites.
+
+<!-- /excerpt -->
 
 ##Launch Calendar
 
