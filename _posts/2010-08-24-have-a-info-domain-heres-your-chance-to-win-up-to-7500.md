@@ -32,4 +32,4 @@ If you own a [.INFO web address](https://iwantmyname.com/domains/info-domain-nam
 
 Submissions close on Sep 10, 2010. All further information and entry rules can be found on the [awards site](http://info-award.info).
 
-P.S. Remember that we also [run a fun promotion](https://iwantmyname.com/blog/2010/08/want-a-free-me-domain.html) at iWantMyName that could give you a refund on the purchase of your own personal .ME domain.
+P.S. Remember that we also [run a fun promotion](http://blog.iwantmyname.com/2010/08/want-a-free-me-domain.html) at iWantMyName that could give you a refund on the purchase of your own personal .ME domain.

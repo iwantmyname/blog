@@ -58,7 +58,7 @@ We help you to configure [custom domains](https://iwantmyname.com/features/custo
 *   [Typepad](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/typepad-professional-blog-service-dns-setup "Professional Blogging with Typepad") - Professional blog hosting for businesses, journalists and writers from renowned Six Apart.
 
 ### Other Website Builders With Custom Domain Option
-These services offer the option to use a custom domain name and can be configured using our [real-time DNS editor](https://iwantmyname.com/blog/2009/06/real-time-dns-management-for-your-domains.html "Real-time DNS editor") (don't worry about it, we can help you with the setup):
+These services offer the option to use a custom domain name and can be configured using our [real-time DNS editor](http://blog.iwantmyname.com/2009/06/real-time-dns-management-for-your-domains.html "Real-time DNS editor") (don't worry about it, we can help you with the setup):
 
 *   [Jimdo](http://www.jimdo.com "Website Builder Jimdo") - Another comprehensive and easy to use website creator. Jimdo also offers a special import feature for all Geocities customers.
 *   [Wordpress.com](http://wordpress.com "Wordpress.com custom domain") - Hosted version of the popular Wordpress blogging software. Many free templates are available for personal and business websites.

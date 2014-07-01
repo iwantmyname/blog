@@ -33,7 +33,7 @@ tags:
 ---
 
 The main reason [why we've built iWantMyName](https://iwantmyname.com/about) was to make domain
-management much easier. From searching for available domains to the [domain registration process](https://iwantmyname.com/blog/2009/04/video-how-to-register-domains-fast-and-easy.html) and finally helping you to use domains your
+management much easier. From searching for available domains to the [domain registration process](http://blog.iwantmyname.com/2009/04/video-how-to-register-domains-fast-and-easy.html) and finally helping you to use domains your
 favourite way, we aim to simplify the entire experience. No matter if
 you want to start your own business or just launch a personal website
 or blog, iWantMyName streamlines the process of promoting your brand

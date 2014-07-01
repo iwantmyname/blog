@@ -16,7 +16,7 @@ During the last two weeks we added the [.MX internet suffix of Mexico](https://i
 
 According to a [recent announcement](http://www.pymex.pe/noticias/peru/1753-el-90-de-pymes-no-tienen-identidad-en-internet.html) (spanish only), the Peruvian telecommunications company, Red Cientifica Peruana (RCP), is aiming to help one million people to establish an online identity with .PE domain names in the next 3 years. The South-American Republic of Peru has a population of 28.8 million people with approx. 8-9 million internet users.
 
-As .PE domains can be registered by anybody worldwide, you can also use them in domain hacks such as overhy.pe, stereoty.pe or giusep.pe. And even better, the [registration of short domain names](https://iwantmyname.com/short-domain-search "Search For Short Domain Names") for your [personal URL shortener](https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html "Personal URL shortener") is possible as well.
+As .PE domains can be registered by anybody worldwide, you can also use them in domain hacks such as overhy.pe, stereoty.pe or giusep.pe. And even better, the [registration of short domain names](https://iwantmyname.com/short-domain-search "Search For Short Domain Names") for your [personal URL shortener](http://blog.iwantmyname.com/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html "Personal URL shortener") is possible as well.
 
 We have included some available domain hack ideas using the .PE domain name extension below:
 

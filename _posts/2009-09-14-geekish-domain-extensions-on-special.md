@@ -23,7 +23,7 @@ tags:
 
 Are you still seeking the one? The one and only domain that somehow differs to all the others you possess, yet beautifully embraces your inner geek? For some of you the wait may finally be over today...
 
-Yep, we're talking about that special internet address for your personal website, online business card or your next web app. Emerging [new domain extensions](https://iwantmyname.com/blog/2009/06/list-new-gtld-domain-extensions-2010.html) will introduce even more geeky goodness to the domain world soon. But to ease your waiting we bring you a special offer for the following country code top-level domains:
+Yep, we're talking about that special internet address for your personal website, online business card or your next web app. Emerging [new domain extensions](http://blog.iwantmyname.com/2009/06/list-new-gtld-domain-extensions-2010.html) will introduce even more geeky goodness to the domain world soon. But to ease your waiting we bring you a special offer for the following country code top-level domains:
 
 *   The [.IM domain extension](https://iwantmyname.com/domains/im-domain-name-registration-for-isle-of-man). Officially for the Isle Of Man and widely used for personal sites (I am) - **only $24.90 USD**
 *   The [.AT domain extension](https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria). Austria's web address for all things @. - **only $24.90 USD**

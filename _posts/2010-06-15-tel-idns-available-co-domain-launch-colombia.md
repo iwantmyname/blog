@@ -19,7 +19,7 @@ Starting on June 15, you will be able to register [.TEL domains](https://iwantmy
 
 _Chinese, Danish, Finnish, German, Hungarian, Icelandic, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Russian, Spanish and Swedish_
 
-.TEL is the domain for all contact information under your name. It's perfect for both individuals and small businesses to quickly [set up a simple website](https://iwantmyname.com/blog/2010/03/your-tel-website-has-a-shiny-new-design.html) without the need to buy any additional web hosting.
+.TEL is the domain for all contact information under your name. It's perfect for both individuals and small businesses to quickly [set up a simple website](http://blog.iwantmyname.com/2010/03/your-tel-website-has-a-shiny-new-design.html) without the need to buy any additional web hosting.
 
 **.CO - the Colombian country code extension**
 
