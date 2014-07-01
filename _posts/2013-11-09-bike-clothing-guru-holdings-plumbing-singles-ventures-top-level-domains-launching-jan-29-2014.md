@@ -25,8 +25,8 @@ Without further ado, here are the new gTLDs:
 
 [.BIKE](https://iwantmyname.com/domains/dot-bike) [.CLOTHING](https://iwantmyname.com/domains/dot-clothing) [.GURU](https://iwantmyname.com/domains/dot-guru) [.HOLDINGS](https://iwantmyname.com/domains/dot-holdings) [.PLUMBING](https://iwantmyname.com/domains/dot-plumbing) [.SINGLES](https://iwantmyname.com/domains/dot-singles) [.VENTURES](https://iwantmyname.com/domains/dot-ventures)
 
-Pre-orders for these new top-level domians will be available on iwantmyname before you know it, so [check back soon](https://iwantmyname.com/blog) for further announcements!
+Pre-orders for these new top-level domians will be available on iwantmyname before you know it, so [check back soon](http://blog.iwantmyname.com) for further announcements!
 
 ***
 
-**Extra Credit:** Check out the [last (first) batch of gTLDs](https://iwantmyname.com/blog/2013/10/the-new-domain-extensions-gtlds-are-coming.html) announced by ICANN.
+**Extra Credit:** Check out the [last (first) batch of gTLDs](http://blog.iwantmyname.com/2013/10/the-new-domain-extensions-gtlds-are-coming.html) announced by ICANN.

@@ -26,4 +26,4 @@ So if you're super smart, like to teach (and learn) and feel good about working 
 
 ***
 
-Yes, the image above was made with [Squarespace Logo](https://iwantmyname.com/blog/2014/01/need-a-logo-squarespace-has-you-covered.html). I can't stop.
+Yes, the image above was made with [Squarespace Logo](http://blog.iwantmyname.com/2014/01/need-a-logo-squarespace-has-you-covered.html). I can't stop.

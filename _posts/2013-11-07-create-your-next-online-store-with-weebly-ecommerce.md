@@ -21,4 +21,4 @@ We're big fans of [Weebly](http://www.weebly.com) here at iwantmyname, and with 
 
 <!-- /excerpt -->
 
-So if you're looking to build yourself an online store, grab yourself a [domain name](https://iwantmyname.com/features/applications/custom-domain-apps/websites/weebly-create-free-website-with-own-address) (and maybe spruce it up by using a cool [domain hack](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html)) and check out Weebly eCommerce.
+So if you're looking to build yourself an online store, grab yourself a [domain name](https://iwantmyname.com/features/applications/custom-domain-apps/websites/weebly-create-free-website-with-own-address) (and maybe spruce it up by using a cool [domain hack](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html)) and check out Weebly eCommerce.

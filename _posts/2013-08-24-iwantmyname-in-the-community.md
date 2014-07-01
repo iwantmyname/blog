@@ -18,7 +18,7 @@ tags:
 
 <!-- excerpt -->
 
-Almost everyone knows that [iwantmyname](https://iwantmyname.com/) is the coolest and most fun place to manage your [domain names](https://iwantmyname.com/domains), but did you also know that we support lots of good stuff in our local community here in New Zealand as well as [projects in the developing world](https://iwantmyname.com/blog/2013/04/iwantmyname-helping-cambodian-schools.html)? With our tech start-up scene [making waves](http://www.forbes.com/sites/rebeccafannin/2013/08/19/feeling-the-startup-scene-shaking-in-wellington/) globally, it's good business sense to participate and also a lot of fun. 
+Almost everyone knows that [iwantmyname](https://iwantmyname.com/) is the coolest and most fun place to manage your [domain names](https://iwantmyname.com/domains), but did you also know that we support lots of good stuff in our local community here in New Zealand as well as [projects in the developing world](http://blog.iwantmyname.com/2013/04/iwantmyname-helping-cambodian-schools.html)? With our tech start-up scene [making waves](http://www.forbes.com/sites/rebeccafannin/2013/08/19/feeling-the-startup-scene-shaking-in-wellington/) globally, it's good business sense to participate and also a lot of fun. 
 
 <!-- /excerpt -->
 

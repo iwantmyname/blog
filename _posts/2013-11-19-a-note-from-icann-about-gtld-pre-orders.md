@@ -39,4 +39,4 @@ From [ICANN](http://blog.icann.org/2013/11/pre-reserve-a-domain-name-or-not-ican
 
 There is no assurance that ICANN will sign Registry Agreements for all of the new gTLDs for which applications have been submitted, nor is there any assurance that all of the new gTLDs will be delegated. If you pre-register a desired domain name and the underlying gTLD is not delegated, that domain name will not be available to you.
 
-For updated posts on recently delegated gTLDs, keep following the [iwantmyname blog](https://iwantmyname.com/blog). And [here's a list containing many of the delegated and non-delegated TLDs set to launch in 2014](https://iwantmyname.com/domains/new-gtld-domain-extensions).
+For updated posts on recently delegated gTLDs, keep following the [iwantmyname blog](http://blog.iwantmyname.com). And [here's a list containing many of the delegated and non-delegated TLDs set to launch in 2014](https://iwantmyname.com/domains/new-gtld-domain-extensions).

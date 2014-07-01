@@ -19,6 +19,6 @@ Via [Hacker News](https://news.ycombinator.com/item?id=6698821): [Why I won't us
 >
 > I'll also do it as a reminder, that Google+ is not a place I own, it's a place Google is kind enough to let me visit and have some limited activity, but they can always kick me off or ask for an (unspecified) rent.
 
-We've said it before and will repeat it again: [your username tied to another domain simply does not belong to you](https://iwantmyname.com/blog/2010/02/your-usernames-do-not-belong-to-you.html).
+We've said it before and will repeat it again: [your username tied to another domain simply does not belong to you](http://blog.iwantmyname.com/2010/02/your-usernames-do-not-belong-to-you.html).
 
 <!-- more -->

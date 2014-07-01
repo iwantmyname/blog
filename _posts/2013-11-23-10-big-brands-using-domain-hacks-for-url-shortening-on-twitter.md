@@ -15,7 +15,7 @@ categories:
 
 No matter what you want to say on Twitter, you only get 140 characters to say it. On one hand, it's part of the reason Twitter has been so successful--it mercilessly removes fluff from online writing. But when it comes to sharing links, 140 characters can really cramp your style. 
 
-To get around this, you can shorten them using a number of generic link-shortening platforms. But if you're ambitious, you can [*brand* your links with Bitly](https://iwantmyname.com/blog/2013/10/the-tools-we-use-bitly-for-link-shortening.html) using a simple [domain hack](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html), like our personal favorite, [*iwnt.my*](http://iwnt.my).
+To get around this, you can shorten them using a number of generic link-shortening platforms. But if you're ambitious, you can [*brand* your links with Bitly](http://blog.iwantmyname.com/2013/10/the-tools-we-use-bitly-for-link-shortening.html) using a simple [domain hack](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html), like our personal favorite, [*iwnt.my*](http://iwnt.my).
 
 For inspiration, here are ten influential brands using custom link shortening for their Twitter links:
 
@@ -34,4 +34,4 @@ For inspiration, here are ten influential brands using custom link shortening fo
 
 If you're interested in doing something like this for yourself, [grab the shortest relevant domain you can find](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service) and head to Bitly to set up your custom short URL.
 
-**Extra Credit:** Take your social networking a step further by [pairing your Bitly short link with Buffer](https://iwantmyname.com/blog/2013/11/three-steps-to-get-the-most-from-your-custom-short-url-using-bitly-and-buffer.html).
+**Extra Credit:** Take your social networking a step further by [pairing your Bitly short link with Buffer](http://blog.iwantmyname.com/2013/11/three-steps-to-get-the-most-from-your-custom-short-url-using-bitly-and-buffer.html).

@@ -23,7 +23,7 @@ It's looking like big year ahead for the iwantmyname crew. Apart from adding a f
 
 <!-- more -->
 
-We've already been offering customers the opportunity to [register interest in the new domains](https://iwantmyname.com/domains/new-gtld-domain-extensions). On the local front, we have also been seeing increasing activity around both the [.kiwi domain](https://iwantmyname.com/blog/2013/11/pre-orders-now-open-for-kiwimore-gtlds-coming-soon.html) and the new [second level .nz domain](https://iwantmyname.com/blog/2013/11/its-time-to-drop-the-conz-pre-ordering-starts-today.html). If you are a business owner, then it's time to start thinking about how these new domains fit into your brand strategy.
+We've already been offering customers the opportunity to [register interest in the new domains](https://iwantmyname.com/domains/new-gtld-domain-extensions). On the local front, we have also been seeing increasing activity around both the [.kiwi domain](http://blog.iwantmyname.com/2013/11/pre-orders-now-open-for-kiwimore-gtlds-coming-soon.html) and the new [second level .nz domain](http://blog.iwantmyname.com/2013/11/its-time-to-drop-the-conz-pre-ordering-starts-today.html). If you are a business owner, then it's time to start thinking about how these new domains fit into your brand strategy.
 
 On the technical side, we've already begun work on improving our [domain name search](https://iwantmyname.co.nz/) function, making it easier and faster to search for your favourite domain from over 100 extensions on offer. That work opens the door for some long awaited improvements to our customer dashboard. As always, we value [feedback](https://iwantmyname.co.nz/support) from our mates, so we can make your domain registration experience even better. 
 

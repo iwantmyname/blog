@@ -13,7 +13,7 @@ categories:
 
 <!-- excerpt -->
 
-Now that we've gone through [setting up](https://iwantmyname.com/blog/2013/10/getting-started-with-tumblr-iwantmyblog.html) and [writing on](https://iwantmyname.com/blog/2013/10/adventures-in-writing-on-tumblr-iwantmyblog.html) your Tumblr blog (Tumblog), we need to work on making it your own.
+Now that we've gone through [setting up](http://blog.iwantmyname.com/2013/10/getting-started-with-tumblr-iwantmyblog.html) and [writing on](http://blog.iwantmyname.com/2013/10/adventures-in-writing-on-tumblr-iwantmyblog.html) your Tumblr blog (Tumblog), we need to work on making it your own.
 
 So what makes Tumblr one of the most attractive platforms for ADD bloggers (aside from the plethora of posting options) is that the community is quite active and ready to contribute—meaning that there are plenty of themes available, free and paid. Here are a few good sites for finding the one that's right for you:
 

@@ -10,7 +10,7 @@ categories:
 ---
 
 As of today, we have slashed our prices for the following domain extensions:
-**International domains** (including [free whois address masking](https://iwantmyname.com/blog/2011/10/free-whois-address-masking-to-protect-your-privacy.html))
+**International domains** (including [free whois address masking](http://blog.iwantmyname.com/2011/10/free-whois-address-masking-to-protect-your-privacy.html))
 
 
 *   [.CO domains](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia): $34.90 =&gt; $33 

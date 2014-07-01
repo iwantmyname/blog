@@ -9,7 +9,7 @@ header_image: 2014-05-02-static.jpg
 
 <!-- excerpt -->
 
-Dynamic websites certainly have their place on the internet, but you may find the enhanced security, performance and ease of hosting a static site to be just what you need. So here's the big list of static site generators (the sequel to Timo's original ["32 static website generators for your site, blog or wiki"](https://iwantmyname.com/blog/2011/02/list-static-website-generators.html)) to get you started, sorted by language/platform.
+Dynamic websites certainly have their place on the internet, but you may find the enhanced security, performance and ease of hosting a static site to be just what you need. So here's the big list of static site generators (the sequel to Timo's original ["32 static website generators for your site, blog or wiki"](http://blog.iwantmyname.com/2011/02/list-static-website-generators.html)) to get you started, sorted by language/platform.
 
 Note: Writing a comprehensive list of static site generators would be nearly impossible (the quantity is astounding), and not all that useful, so the following list only contains generators that are actively being maintained and/or have a decent website. If you have anything to add to the list, just let us know via Twitter [@iwantmyname](https://twitter.com/iwantmyname).
 
@@ -181,7 +181,7 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 ### The list of sources
 
-+ Timo's [original list](https://iwantmyname.com/blog/2011/02/list-static-website-generators.html) of 32, sources included
++ Timo's [original list](http://blog.iwantmyname.com/2011/02/list-static-website-generators.html) of 32, sources included
 + Klint Finley's ["5 Minimalist Static Blog Generators to Check Out"](http://siliconangle.com/blog/2012/03/20/5-minimalist-static-html-blog-generators-to-check-out/) on Silicon Angle
 + Thorpe Obazee's ["Complete List of Static Site Generators for Python"](http://gistpages.com/2013/08/12/complete_list_of_static_site_generators_for_python) on gist.pages
 + BitBalloon's static-site leaderboard, titled ["Top Static Site Generators Comparison"](http://staticgen.com/) 

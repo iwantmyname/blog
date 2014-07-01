@@ -16,4 +16,4 @@ Throughout February you'll be able to benefit from the following great top-level
 - **[.NET @ $10.00 USD](https://iwantmyname.com/domains/net-domain-name-registration-for-network)** Get a .net domain as alternative if your desired .com is already taken.
 - **[.ASIA @ $12.00 USD](https://iwantmyname.com/domains/asia-domain-name-registration-for-asia)** Perfect for landing pages in the Asian market.
 
-We also throw in an additional 10% transfer discount on any [.com/.net/.org domain transfer](https://iwantmyname.com/domains/domain-transfer) from GoDaddy in February (make sure to avoid these [problems when starting domain transfers from GoDaddy](https://iwantmyname.com/blog/2013/01/pitfalls-to-avoid-when-transferring-your-domain-from-godaddy.html)).
+We also throw in an additional 10% transfer discount on any [.com/.net/.org domain transfer](https://iwantmyname.com/domains/domain-transfer) from GoDaddy in February (make sure to avoid these [problems when starting domain transfers from GoDaddy](http://blog.iwantmyname.com/2013/01/pitfalls-to-avoid-when-transferring-your-domain-from-godaddy.html)).

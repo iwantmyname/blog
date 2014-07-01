@@ -18,4 +18,4 @@ title: "Mashable highlights some great moments in a \"brief history of the domai
 
 <!-- /excerpt -->
 
-From the first .COMs of 1985 to the massive gTLD launch of 2014, quite a bit has happened in the world of domain names. And Mashable catches some of the more interesting bits, like Mike Mann in 2012 registering nearly 15,000 domains in a single day—which may have had something to do with the internet [running out of four-letter .COMs](https://iwantmyname.com/blog/2013/12/four-letter-coms-are-a-four-letter-wordgone.html) in 2013.
+From the first .COMs of 1985 to the massive gTLD launch of 2014, quite a bit has happened in the world of domain names. And Mashable catches some of the more interesting bits, like Mike Mann in 2012 registering nearly 15,000 domains in a single day—which may have had something to do with the internet [running out of four-letter .COMs](http://blog.iwantmyname.com/2013/12/four-letter-coms-are-a-four-letter-wordgone.html) in 2013.

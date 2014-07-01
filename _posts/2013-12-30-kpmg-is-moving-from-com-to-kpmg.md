@@ -21,7 +21,7 @@ categories:
 
 <!-- excerpt -->
 
-We've written quite a bit about [generic Top-Level Domains (gTLDs) categorizing the web](https://iwantmyname.com/blog/2013/11/pre-orders-now-open-for-guru-clothing-gallery-graphics-and-more.html), but this is the first example of a major corporation making the switch. And what a switch it is, as KPMG is one of the world's largest tax and advisory firms with nearly 155,000 employees.
+We've written quite a bit about [generic Top-Level Domains (gTLDs) categorizing the web](http://blog.iwantmyname.com/2013/11/pre-orders-now-open-for-guru-clothing-gallery-graphics-and-more.html), but this is the first example of a major corporation making the switch. And what a switch it is, as KPMG is one of the world's largest tax and advisory firms with nearly 155,000 employees.
 
 Soon, a number of large companies who have applied for custom gTLDs will have URLs you can trust to be legitimate. For the average consumer, the .KPMG switch won't be noticed, but imagine having trusted bank TLDs like .CHASE in America and .ANZ here in New Zealand. In one stroke, consumers will instantly be able to identify illegitimate sites, emails and mailers from their domain extensions alone. Simply for fraud detection, this is a big win for the internet.
 

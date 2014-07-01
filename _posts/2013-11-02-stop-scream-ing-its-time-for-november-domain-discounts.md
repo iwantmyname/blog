@@ -21,7 +21,7 @@ Here's what's [on sale this month at iwantmyname](https://iwantmyname.com/domain
 
 [.CO](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia): It's the de facto short version of .COM, but did you know .CO is the country-code domain for the beautiful South American country, Colombia? Get your .CO domain this month for only $15.50 USD.
 
-[.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro): It's all about...me? There are plenty of uses for a .ME domain, but we find it to be the perfect extension for a custom short [domain hack](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html). Grab one for .ME (or yourself) this month for $19.90 USD.
+[.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro): It's all about...me? There are plenty of uses for a .ME domain, but we find it to be the perfect extension for a custom short [domain hack](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html). Grab one for .ME (or yourself) this month for $19.90 USD.
 
 [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory): There's really no domain extension more embraced by the tech community right now than .IO. It's great for domain hacks, has a great tradition of web success and could be from Jupiter's moon Io (it's really from the tiny British Indian Ocean Territory). And now, you can get your .io domain for only $49.00 USD.
 

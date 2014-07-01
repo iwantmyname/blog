@@ -23,7 +23,7 @@ For this, we use [Buffer](https://bufferapp.com/). Buffer is a social tool that 
 
 Does being funny work? Do people like links from around the internet? Can I get away with posting about my dog (ok, that's never happened)? With Buffer, you can visually see how many retweets and likes you got. Or how many clicks a post got on each platform.
 
-And best of all, Buffer hooks up with a number of third-party platforms to make social even better. For instance, when we post blogs now, Buffer automatically posts them on all our platforms at our next scheduled posting time using Zapier (IFTTT also works). And the link used by Buffer is automatically shortened to [iwnt.my/XXXXXX with our synched-up Bit.ly account](https://iwantmyname.com/blog/2013/10/the-tools-we-use-bitly-for-link-shortening.html). It's really quite amazing, and the list of [platforms available](https://bufferapp.com/extras) is very impressive. 
+And best of all, Buffer hooks up with a number of third-party platforms to make social even better. For instance, when we post blogs now, Buffer automatically posts them on all our platforms at our next scheduled posting time using Zapier (IFTTT also works). And the link used by Buffer is automatically shortened to [iwnt.my/XXXXXX with our synched-up Bit.ly account](http://blog.iwantmyname.com/2013/10/the-tools-we-use-bitly-for-link-shortening.html). It's really quite amazing, and the list of [platforms available](https://bufferapp.com/extras) is very impressive. 
 
 So if you're doing social for your brand (or yourself?), give it a shot. We definitely recommend it.
 

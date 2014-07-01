@@ -34,5 +34,5 @@ But before you decide to go ahead with your domain transfer, here are a few thin
 
 1. Many hosts offer domain names, but know that your domain and site/email host doesn't have to (and probably shouldn't) be one and the same. 
 2. On the same note, we don't offer any hosting services of our own. We do one thing and do it well--domain management. But we *do* offer one-click installations to some of the most popular platforms on the web through our [Marketplace](https://iwantmyname.com/dashboard/apps/featured).
-3. It's not required to get the transfer authorization code to renew a domain. If you have received an email asking for an auth code, it might be a [renewal scam](https://iwantmyname.com/blog/2012/06/beware-of-domain-renewal-scams.html). 
+3. It's not required to get the transfer authorization code to renew a domain. If you have received an email asking for an auth code, it might be a [renewal scam](http://blog.iwantmyname.com/2012/06/beware-of-domain-renewal-scams.html). 
 4. If you've run into any issues, [we're always here to help](https://iwantmyname.com/support). And when you send us a question, a real person (not an automated service) will respond. Every time.

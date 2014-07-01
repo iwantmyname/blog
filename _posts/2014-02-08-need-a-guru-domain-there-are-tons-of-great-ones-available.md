@@ -11,7 +11,7 @@ search:
 
 <!-- excerpt -->
 
-.GURU is, without a doubt, the most popular of the [seven new gTLDs](https://iwantmyname.com/blog/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html) launched this week. And one of the most popular naming conventions for .GURU is tacking it onto the end of a name, like *yourname*.guru — because you are a guru after all.
+.GURU is, without a doubt, the most popular of the [seven new gTLDs](http://blog.iwantmyname.com/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html) launched this week. And one of the most popular naming conventions for .GURU is tacking it onto the end of a name, like *yourname*.guru — because you are a guru after all.
 
 So with a quick little search, we found a treasure trove of open .GURU domains for both male and female first names and last names. They may get snapped up fast, so move quick. 
 

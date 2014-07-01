@@ -21,11 +21,11 @@ This week is a big one for the gTLD rollout, with a massive eight new domain ext
 > 
 > After Berlin, cities including London, Paris, New York, Johannesburg and Japanese city Nagoya will launch their own domains. The .london suffix will become available in April. A single website with the ending .wien, representing the Austrian capital Vienna, has been live since early March but public registration for that gTLD does not open until July. 
 
-The startup scene in Berlin is one of the best on the planet, so we expect to see quite a few .BERLIN sites around the web in the near future. And [as we've said before](https://iwantmyname.com/blog/2014/01/ich-bin-ein-berliner.html), the team at [dotBERLIN](http://dotberlin.de/) is one of the true pioneers of the gTLD program, so we wish them all the best.
+The startup scene in Berlin is one of the best on the planet, so we expect to see quite a few .BERLIN sites around the web in the near future. And [as we've said before](http://blog.iwantmyname.com/2014/01/ich-bin-ein-berliner.html), the team at [dotBERLIN](http://dotberlin.de/) is one of the true pioneers of the gTLD program, so we wish them all the best.
 
 ### .UNO gives the Latin internet a name
 
-[From Desiree Boxberger on the iwantmyname Blog:](https://iwantmyname.com/blog/2014/02/uno-looks-to-unite-the-spanish-speaking-web-an-interview-with-desiree-boxberger.html)
+[From Desiree Boxberger on the iwantmyname Blog:](http://blog.iwantmyname.com/2014/02/uno-looks-to-unite-the-spanish-speaking-web-an-interview-with-desiree-boxberger.html)
 
 > .UNO is a new domain with broad appeal and offers substantial cultural and linguistic relevance in both the Spanish and Italian languages. .UNO means "one" but it also means "first," "best," and "unity" when used in context. Our primary market consists of 490 million Spanish-speaking people around the globe.
 > 

@@ -12,9 +12,9 @@ categories:
 First off all, a happy new year 2011 to all of you, wherever you are. Let's celebrate the second year of the second decade in the second millenium with some fresh domain name bargains:
 
 
-1.  [**.AC**](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island)** - 79.00** (Ascension Island, also perfect for [domain hacks](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html))
-2.  [**.CC**](https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands)** - 19.90** (The Cocos Island domain suffix, a [.COM alternative](https://iwantmyname.com/blog/2010/08/5-domain-extensions-for-your-personal-website.html))
-3.  [**.GL**](https://iwantmyname.com/domains/gl-greenlandic-domain-name-registration-for-greenland)** - 79.00** (Greenland's domain name extension, [very cool](https://iwantmyname.com/blog/2010/09/cool-domain-hacks-using-the-gl-tld.html))
+1.  [**.AC**](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island)** - 79.00** (Ascension Island, also perfect for [domain hacks](http://blog.iwantmyname.com/2009/05/how-to-find-a-domain-hack.html))
+2.  [**.CC**](https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands)** - 19.90** (The Cocos Island domain suffix, a [.COM alternative](http://blog.iwantmyname.com/2010/08/5-domain-extensions-for-your-personal-website.html))
+3.  [**.GL**](https://iwantmyname.com/domains/gl-greenlandic-domain-name-registration-for-greenland)** - 79.00** (Greenland's domain name extension, [very cool](http://blog.iwantmyname.com/2010/09/cool-domain-hacks-using-the-gl-tld.html))
 4.  [**.IN**](https://iwantmyname.com/domains/in-indian-domain-name-registration-for-india)** - 14.90** (Save big on the Indian web address)
 5.  [**.INFO**](https://iwantmyname.com/domains/info-domain-name-registration-for-information)** - 10.90** (All things information or as personal domain)
 6.  [**.ME**](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro)** - 14.90** (It's all about you with our [.ME promo sale](https://iwantmyname.com/domains/me-domain-sale-promo-offer))

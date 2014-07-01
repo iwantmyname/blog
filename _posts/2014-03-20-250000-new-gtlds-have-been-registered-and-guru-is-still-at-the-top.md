@@ -8,7 +8,7 @@ header_image: 2014-03-20-gtld-graph.png
 
 <!-- excerpt -->
 
-Technically, as of writing this post, the internet is sitting with 294,066 new gTLDs. And considering the first TLDs only started being offered for general availability in [early February](https://iwantmyname.com/blog/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html), the public reception has been quite nice. 
+Technically, as of writing this post, the internet is sitting with 294,066 new gTLDs. And considering the first TLDs only started being offered for general availability in [early February](http://blog.iwantmyname.com/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html), the public reception has been quite nice. 
 
 But it's not the steady growth that shocks me the most—it's the top of the list of TLDs that are doing best. Here's the current top 10 ([from ntldstats.com](http://ntldstats.com/)):
 

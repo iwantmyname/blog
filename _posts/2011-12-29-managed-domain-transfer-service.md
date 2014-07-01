@@ -17,7 +17,7 @@ tags:
 
 ![Domain Robot]({{ site.images_url }}/2011-12-29-robot.png)
 
-So you've decided to [join the movement](https://iwantmyname.com/blog/2011/12/make-a-move-for-good.html) against your old fashioned, SOPA-loving (or not loving, or maybe loving), redneck domain registrar &mdash; but are not quite sure how to transfer your precious domains. Never fear, we've created a special [automatic domain transfer service](https://iwantmyname.com/transferservice) just for you. iWantMyName aims to make domain management painless, simply [fill out the form](https://iwantmyname.com/transferservice) and let us deal with all the messy details.
+So you've decided to [join the movement](http://blog.iwantmyname.com/2011/12/make-a-move-for-good.html) against your old fashioned, SOPA-loving (or not loving, or maybe loving), redneck domain registrar &mdash; but are not quite sure how to transfer your precious domains. Never fear, we've created a special [automatic domain transfer service](https://iwantmyname.com/transferservice) just for you. iWantMyName aims to make domain management painless, simply [fill out the form](https://iwantmyname.com/transferservice) and let us deal with all the messy details.
 
 Unfortunately transferring a domain from one registrar to another is not always a straightforward exercise. However, our team of industry veterans are expert in untangling red tape and solving life's little administrative problems. Provided you are willing to supply us with access to your existing account, we can handle everything for you. That leaves you more time to spend enjoying your holidays!
 

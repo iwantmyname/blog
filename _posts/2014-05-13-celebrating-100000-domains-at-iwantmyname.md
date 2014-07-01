@@ -9,9 +9,9 @@ title: Celebrating 100,000 domains at iwantmyname!
 
 ![iwantmyname growth]({{ site.images_url }}/2014-05-13-iwantmyname-growth.png)
 
-We're just a few months past our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) now, and we're proud to announce that we've crossed a major milestone: 100,000 domains managed by iwantmyname.
+We're just a few months past our [5th birthday](http://blog.iwantmyname.com/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) now, and we're proud to announce that we've crossed a major milestone: 100,000 domains managed by iwantmyname.
 
-That's still tiny compared to the big players in the industry, but we've now proven our theory that there's room on the web for a domain management service that does things a bit differently. Our mission from the start was to focus on easy-to-use, straightforward domain hosting, while getting out of our customers' way so that they can quickly set up their own web addresses. Simple and honest [domain pricing](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions), [no annoying upselling](https://iwantmyname.com/blog/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us get to where we are today.
+That's still tiny compared to the big players in the industry, but we've now proven our theory that there's room on the web for a domain management service that does things a bit differently. Our mission from the start was to focus on easy-to-use, straightforward domain hosting, while getting out of our customers' way so that they can quickly set up their own web addresses. Simple and honest [domain pricing](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions), [no annoying upselling](http://blog.iwantmyname.com/2013/11/no-upselling-tactics-to-be-found-here.html) and a focus on [great customer service](http://public.nicereply.com/iwantmyname) helped us get to where we are today.
 
 <!-- /excerpt -->
 
@@ -26,7 +26,7 @@ And that brings us to the people who made all this possible: our customers. It's
 - It took us a year to get to 1,000 domains under management and just a bit over 4 years for the remaining 99,000
 - We now offer [212 different domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) and are adding more [on a weekly basis](https://iwantmyname.com/domains/new-gtld-launch-dates)
 - Your domains are being looked after by [9 people](https://iwantmyname.com/about) (4 developers, 2 support, 1 product, 1 operations, 1 content)
-- 10 cents from each domain registered [goes to global aid initiatives](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html)
+- 10 cents from each domain registered [goes to global aid initiatives](http://blog.iwantmyname.com/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html)
 
 #### What's coming next?
 

@@ -34,5 +34,5 @@ If you're so inclined, come follow me on my little journey at iwantmyblog.com, o
 
 **Next stop:** [Scriptogr.am][1], a Markdown-using, Dropbox-based blog platform with a surprisingly nice website.
 
-[2]: https://iwantmyname.com/blog
+[2]: http://blog.iwantmyname.com
 [1]: http://scriptogr.am/

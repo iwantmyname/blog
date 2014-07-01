@@ -10,7 +10,7 @@ We've been talking about the new generic Top-Level Domains (gTLDs) for months an
 
 Exact launch dates for many of the gTLDs are still up in the air, but soon we'll be posting specifics on [theresatldforthat.com](https://iwantmyname.com/domains/new-gtld-domain-extensions).
 
-But first, we've had a ton of new gTLDs announced for delegation (meaning they've been officially approved by ICANN) since [our last post](https://iwantmyname.com/blog/2013/12/the-next-batch-of-gtlds-are-here-including-careers-photos-and-shoes.html). Here are the new additions:
+But first, we've had a ton of new gTLDs announced for delegation (meaning they've been officially approved by ICANN) since [our last post](http://blog.iwantmyname.com/2013/12/the-next-batch-of-gtlds-are-here-including-careers-photos-and-shoes.html). Here are the new additions:
 
 <!-- more -->
 

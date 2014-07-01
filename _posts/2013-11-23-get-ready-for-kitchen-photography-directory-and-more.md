@@ -14,7 +14,7 @@ categories:
 
 <!-- excerpt -->
 
-Earlier this week, [we launched pre-orders for .GURU, .CLOTHING, .GALLERY and a handful of others](https://iwantmyname.com/blog/2013/11/pre-orders-now-open-for-guru-clothing-gallery-graphics-and-more.html), and now we're here to announce a few more. The next batch of generic Top-Level Domains (gTLDs) available for pre-order* are:
+Earlier this week, [we launched pre-orders for .GURU, .CLOTHING, .GALLERY and a handful of others](http://blog.iwantmyname.com/2013/11/pre-orders-now-open-for-guru-clothing-gallery-graphics-and-more.html), and now we're here to announce a few more. The next batch of generic Top-Level Domains (gTLDs) available for pre-order* are:
 
 <!-- /excerpt -->
 

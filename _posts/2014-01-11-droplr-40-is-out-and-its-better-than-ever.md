@@ -13,7 +13,7 @@ categories:
 
 <!-- excerpt -->
 
-Screenshots. File sharing. Custom link shortening. [We've been using Droplr for months now](https://iwantmyname.com/blog/2013/11/the-tools-we-use-droplr-for-sharing-files-and-taking-screenshots.html) as our go-to method for quickly sending files over the web, and now it's been updated to version 4.0.
+Screenshots. File sharing. Custom link shortening. [We've been using Droplr for months now](http://blog.iwantmyname.com/2013/11/the-tools-we-use-droplr-for-sharing-files-and-taking-screenshots.html) as our go-to method for quickly sending files over the web, and now it's been updated to version 4.0.
 
 New in this version is a "completely redesigned interface," with a number of speed enhancements and added features. But best of all (at least for people like us) is the addition of *Droplr for Business*.
 

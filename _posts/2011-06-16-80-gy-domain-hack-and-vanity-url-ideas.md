@@ -10,7 +10,7 @@ categories:
 
 ---
 
-[Keeping](https://iwantmyname.com/blog/2009/10/tiny-domain-names-for-your-own-url-shortener.html) [with](https://iwantmyname.com/blog/2010/09/cool-domain-hacks-using-the-gl-tld.html) [tradition](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html) after enabling a new international country domain extension at iWantMyName, we'd like to once again offer you some [domain hack ideas](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html) for naming your next app, website or [custom URL shortener](https://iwantmyname.com/services/url-shortener/).
+[Keeping](http://blog.iwantmyname.com/2009/10/tiny-domain-names-for-your-own-url-shortener.html) [with](http://blog.iwantmyname.com/2010/09/cool-domain-hacks-using-the-gl-tld.html) [tradition](http://blog.iwantmyname.com/2009/04/list-of-available-ultra-short-2-letter-domain-names.html) after enabling a new international country domain extension at iWantMyName, we'd like to once again offer you some [domain hack ideas](http://blog.iwantmyname.com/2009/05/how-to-find-a-domain-hack.html) for naming your next app, website or [custom URL shortener](https://iwantmyname.com/services/url-shortener/).
 
 Good and [short vanity URLs](https://iwantmyname.com/short-domain-search) are going to be increasingly hard to find so act quick and search for your very own and tiny web address using the [.GY domain suffix](https://iwantmyname.com/domains/gy-guyanese-domain-name-registration-for-guyana) now:
 

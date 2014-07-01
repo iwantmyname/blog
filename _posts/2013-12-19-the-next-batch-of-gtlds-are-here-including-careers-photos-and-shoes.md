@@ -23,8 +23,8 @@ Once specific launch dates are announced, we'll definitely let you know--but don
 
 For more delegated gTLDs, check out some of our previous articles:
 
-+ [.MENU, .UNO, And .みんな Are Coming](https://iwantmyname.com/blog/2013/12/menu-uno-and-are-coming.html)
-+ [.BIKE, .CLOTHING, .GURU, .HOLDINGS, .PLUMBING, .SINGLES, .VENTURES Top-Level Domains Launching Jan 29, 2014](https://iwantmyname.com/blog/2013/11/bike-clothing-guru-holdings-plumbing-singles-ventures-top-level-domains-launching-jan-29-2014.html)
++ [.MENU, .UNO, And .みんな Are Coming](http://blog.iwantmyname.com/2013/12/menu-uno-and-are-coming.html)
++ [.BIKE, .CLOTHING, .GURU, .HOLDINGS, .PLUMBING, .SINGLES, .VENTURES Top-Level Domains Launching Jan 29, 2014](http://blog.iwantmyname.com/2013/11/bike-clothing-guru-holdings-plumbing-singles-ventures-top-level-domains-launching-jan-29-2014.html)
 + [Get Ready For .KITCHEN, .PHOTOGRAPHY, .DIRECTORY And More
-](https://iwantmyname.com/blog/2013/11/get-ready-for-kitchen-photography-directory-and-more.html)
-+ [The New Domain Extensions (gTLDs) Are Coming](https://iwantmyname.com/blog/2013/10/the-new-domain-extensions-gtlds-are-coming.html)
+](http://blog.iwantmyname.com/2013/11/get-ready-for-kitchen-photography-directory-and-more.html)
++ [The New Domain Extensions (gTLDs) Are Coming](http://blog.iwantmyname.com/2013/10/the-new-domain-extensions-gtlds-are-coming.html)

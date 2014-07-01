@@ -9,7 +9,7 @@ header_image: 2014-05-23-lenz-camper.jpg
 
 <!-- excerpt -->
 
-In my last post I talked about the [one salary experiment](https://iwantmyname.com/blog/2014/05/culture-at-iwmn-part-one.html) and got a lot of feedback. One point that kept coming up was that we may run into the problem of a limited talent pool as we have no real way of attracting anyone with a higher salary than we currently pay. While this may be a limiting factor, the salary is only one aspect of working at iwantmyname. Today, I'll talk about a second aspect, one that also addresses our talent pool size.
+In my last post I talked about the [one salary experiment](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-one.html) and got a lot of feedback. One point that kept coming up was that we may run into the problem of a limited talent pool as we have no real way of attracting anyone with a higher salary than we currently pay. While this may be a limiting factor, the salary is only one aspect of working at iwantmyname. Today, I'll talk about a second aspect, one that also addresses our talent pool size.
 
 We are a company built on the idea that we want to be able to work from anywhere, and because we're an Internet-based business, we have no need for a fixed location. We work on a global network, and as long as we have access to it, we can be productive. And we're not alone in this—[quite a few startups have shifted to working either entirely as a distributed team](http://www.groovehq.com/blog/being-a-remote-team) or with remote workers who contribute. But we, as with many things, try to push this envelope.
 

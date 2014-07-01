@@ -32,7 +32,7 @@ When asked why they're hosting this year's event? "We're both firm believers in 
 
 "And it's such a great way to meet and hang out with a bunch of Wellington's top programmers!"
 
-We couldn't agree more, and we're really proud to be sponsoring this year's event, especially having recently marked [five years](https://iwantmyname.com/blog/2013/12/happy-5th-birthday-iwantmyname.html) of being part of the Wellington tech community. We hope you enjoy it as much as we've enjoyed supporting it. [btw - if you are based north of the Bombay hills, have no fear! There's an [Auckland version](http://www.meetup.com/kiwi-code-retreat/events/142664562/), too.
+We couldn't agree more, and we're really proud to be sponsoring this year's event, especially having recently marked [five years](http://blog.iwantmyname.com/2013/12/happy-5th-birthday-iwantmyname.html) of being part of the Wellington tech community. We hope you enjoy it as much as we've enjoyed supporting it. [btw - if you are based north of the Bombay hills, have no fear! There's an [Auckland version](http://www.meetup.com/kiwi-code-retreat/events/142664562/), too.
 
 ***
 

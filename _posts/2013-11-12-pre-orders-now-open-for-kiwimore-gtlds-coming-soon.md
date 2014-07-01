@@ -37,4 +37,4 @@ Good luck, and have fun [pre-ordering your .KIWI domains](https://iwantmyname.co
 
 ***
 
-**Extra Credit:** [Check our our short interview](https://iwantmyname.com/blog/2013/10/a-short-interview-with-tim-johnson-ceo-of-dot-kiwi.html) with Tim Johnson, CEO of Dot Kiwi.
+**Extra Credit:** [Check our our short interview](http://blog.iwantmyname.com/2013/10/a-short-interview-with-tim-johnson-ceo-of-dot-kiwi.html) with Tim Johnson, CEO of Dot Kiwi.

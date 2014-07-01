@@ -19,4 +19,4 @@ But, in the world of business decisions, sometimes logic needs to be backed up w
 + "The majority of respondents (59%) said a professional email address has a high impact on customer trust, with half (50%) of respondents saying such an email address has a high impact on having happy customers."
 + "Among consumers surveyed who are more likely to communicate with or buy from a business with a professional email address, 47% said it is because they have more confidence in the business’ legitimacy."
 
-If you're looking to setup your own branded email address, our ["how to get a custom email address" guide](https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html) is a good place to start.
+If you're looking to setup your own branded email address, our ["how to get a custom email address" guide](http://blog.iwantmyname.com/2013/09/how-to-get-a-custom-email-address.html) is a good place to start.

@@ -11,7 +11,7 @@ title: Shops categorize .CLOTHING because each item is different, so why not cat
 
 For many site owners, the dream of these [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) is to categorize the internet. To give each brand the chance to differentiate itself from the rest of its field, not the rest of the internet.
 
-But today, the norm is to begin a site as a .COM, then potentially move to a few other TLDs like .CO and .TV to protect the brand. And that's worked fine up to now, but we're we're simply running out of .COM names to give out. Still in the relative infancy of the internet, we've already run out of two, three and [four letter](https://iwantmyname.com/blog/2013/12/four-letter-coms-are-a-four-letter-wordgone.html) .COM domains, and it's only a matter of time before the five-letter combinations are gone.
+But today, the norm is to begin a site as a .COM, then potentially move to a few other TLDs like .CO and .TV to protect the brand. And that's worked fine up to now, but we're we're simply running out of .COM names to give out. Still in the relative infancy of the internet, we've already run out of two, three and [four letter](http://blog.iwantmyname.com/2013/12/four-letter-coms-are-a-four-letter-wordgone.html) .COM domains, and it's only a matter of time before the five-letter combinations are gone.
 
 From a site discovery standpoint, where does that leave us? 
 

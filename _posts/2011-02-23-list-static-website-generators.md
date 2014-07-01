@@ -10,7 +10,7 @@ categories:
 
 ---
 
-**Note: The updated version of this list now lives [here](https://iwantmyname.com/blog/2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html).**
+**Note: The updated version of this list now lives [here](http://blog.iwantmyname.com/2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html).**
 
 ***
 

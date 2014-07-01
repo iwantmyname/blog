@@ -31,7 +31,7 @@ To put its popularity in perspective, here's a blurb from Eric Savitz on [Forbes
 
 ###Setup.
 
-As with any web platform in our [marketplace](https://iwantmyname.com/services), Tumblr is incredibly simple to link up with an iwantmyname domain name. If you haven't purchased a domain yet, just get one through [this page](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url). Since our domain (iwantmyblog.com) was already purchased and installed on Scriptogram ([from last week](https://iwantmyname.com/blog/2013/10/the-pros-and-cons-of-individual-files-our-last-day-with-scriptogram-iwantmyblog.html)), our process was just slightly more complicated. Here's what I did: click Setup > Apps & Services > Tumblr > Add Tumblr > Remove Scriptogram > Install Tumblr. 
+As with any web platform in our [marketplace](https://iwantmyname.com/services), Tumblr is incredibly simple to link up with an iwantmyname domain name. If you haven't purchased a domain yet, just get one through [this page](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url). Since our domain (iwantmyblog.com) was already purchased and installed on Scriptogram ([from last week](http://blog.iwantmyname.com/2013/10/the-pros-and-cons-of-individual-files-our-last-day-with-scriptogram-iwantmyblog.html)), our process was just slightly more complicated. Here's what I did: click Setup > Apps & Services > Tumblr > Add Tumblr > Remove Scriptogram > Install Tumblr. 
 
 Now it gets a little weird. Go to [tumblr.com](http://tumblr.com) and click "sign up for a new account." From there, you'll get to your first taste of being social—a page that instructs you to follow five people. 
 

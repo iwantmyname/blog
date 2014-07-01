@@ -15,7 +15,7 @@ Say you're a business in New Zealand currently using a .CO.NZ address. It's prob
 
 <!-- /excerpt -->
 
-Whatever your reason for wanting a .NZ domain, [pre-orders have begun](https://iwantmyname.com/domains/dot-nz), and now is the very best time to get the one you want. [As with .KIWI](https://iwantmyname.com/blog/2013/11/pre-orders-now-open-for-kiwimore-gtlds-coming-soon.html), the process is simple:
+Whatever your reason for wanting a .NZ domain, [pre-orders have begun](https://iwantmyname.com/domains/dot-nz), and now is the very best time to get the one you want. [As with .KIWI](http://blog.iwantmyname.com/2013/11/pre-orders-now-open-for-kiwimore-gtlds-coming-soon.html), the process is simple:
 
 + Enter the domain you want, then click the "I want this domain >" button.
 + Next, either enter your email address or sign in to complete the pre-order process.

@@ -65,7 +65,7 @@ We're getting pretty subjective here, but memorability is probably the most impo
 
 ### Thought 4: Should you just use a .COM?
 
-The million dollar question. If you're still on the fence about using a new gTLD, I'd recommend taking a look at [this post](https://iwantmyname.com/blog/2014/04/whats-in-a-name-the-case-for-gtlds.html).
+The million dollar question. If you're still on the fence about using a new gTLD, I'd recommend taking a look at [this post](http://blog.iwantmyname.com/2014/04/whats-in-a-name-the-case-for-gtlds.html).
 
 To summarize, I would recommend using a .COM if you can find your brand name on its own—like YOURNAME.com or BRANDNAME.com. In the likely event that your desired word, name or phrase is taken in the .COM namespace though, I'd recommend against adding a descriptive word to the domain, like YOURNAMEphotography.com or BRANDNAMEphotos.com. That just adds extra complexity and unnecessarily squishes keywords together. Instead, go with a gTLD. 
 
