@@ -63,8 +63,10 @@ Perhaps we'll see a new favorite from the new July domains though. Maybe .tokyo 
 + [.toys](https://iwantmyname.com/domains/dot-toys)
 + [.university](https://iwantmyname.com/domains/dot-university)
 
-***
-
 ##One more thing
 
 [.Buzz](https://iwantmyname.com/domains/dot-buzz) is on sale starting today for $34.90 USD, down from $49 USD. If you're in the market for a .buzz domain, now is the time to grab it. 
+
+***
+
+Image credit: [Sergey Vladimirov](https://www.flickr.com/photos/vlsergey/5325961542/in/photolist-97CWP9-cajhQ1-85tipq-r6w6-csGZkh-5DTZQ2-fG5MhD-ggRaoY-mkXang-5CBtwg-8EMWWS-cjj4xQ-hfnNLf-4qJb1s-86t84s-bDGe8B-fJjUKR-8gG93J-cjj5Sh-ndxKEz-tCKQs-aEAcrJ-8GrLSP-hbzn3T-DGYfM-bDGfkZ-7Lr967-KCnt8-fjQZ3U-9QFYRf-RoKL-d2gatS-6TZ3Mv-bsZWca-dPt4Tu-83TUBS-b9VPYz-bpeM6Y-62mP4R-9iCNAe-8DRd7g-nz64D2-9gncKp-dR67Y8-jh5RyL-bkzJA8-aChcs5-fz5Wru-g1rwTu-fnsgdH)
