@@ -5,6 +5,11 @@ twitter: iwantmyname
 markdown: redcarpet
 pygments: yes
 
+# Base URL for GitHub Pages
+# TODO: remove once GitHub pages is updated to Jekyll 2.1.1
+#       https://github.com/github/pages-gem/pull/75
+baseurl: ""
+
 # Permalinks to match MovableType
 permalink: /:year/:month/:title.html
 
