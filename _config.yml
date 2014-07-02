@@ -5,10 +5,9 @@ twitter: iwantmyname
 markdown: redcarpet
 pygments: yes
 
-# Base URL for GitHub Pages
-# TODO: remove once GitHub pages is updated to Jekyll 2.1.1
-#       https://github.com/github/pages-gem/pull/75
-baseurl: ""
+# Base URL for GitHub Pages, use `jekyll serve --baseurl ""` locally
+# This needs to be an absolute URL for the RSS feeds
+baseurl: http://blog.iwantmyname.com
 
 # Permalinks to match MovableType
 permalink: /:year/:month/:title.html
