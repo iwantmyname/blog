@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-04 07:22:13 +1200
+date: 2014-07-04 05:22:13 +1200
 author: Chris
 title: "A new generic top-level domain hits 250,000 registrations"
 header_image: 2014-07-04-xyz-sign.jpg
