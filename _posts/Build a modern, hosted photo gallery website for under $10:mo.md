@@ -33,6 +33,8 @@ Image credit: [Nicolesy Blog](http://nicolesyblog.com/2013/07/31/the-new-smugmug
 
 [Format](https://iwantmyname.com/services/portfolio-hosting/4ormat-custom-domain) (which recently changed from 4ormat) is billed as a site for creative professionals to build an online portfolio, but its clean templates, flexible pages and slick blog integration makes it a wonderful option for amateur photographers and adventurers. Basic [plans](http://format.com/plans) are $5.75/mo billed annually, and give you 50 pages, 100 images and 100 videos to play around with. 
 
+![Format]({{ site.images_url }}/2014-07-10-format.png)
+
 ##Salon.io
 
 [Salon.io](https://iwantmyname.com/services/portfolio-hosting/domain-customize-salonio) is an extremely unique platform, as it gives you control of your layout like none other. You start with a completely blank canvas (no templates), then add in photos and videos and embeds in fixed width, variable size or completely user-controlled grids. The Basic [plan](http://salon.io/join) includes everything most users will need (10 pages, 500 images), and costs 29€ for a lifetime membership (no recurring payments!), but to get password protection you'll need the Easy Business plan, which is 99€/year, slightly above the $10/mo threshold.
