@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-09 11:46:19 +1200
+date: 2014-07-10 11:46:19 +1200
 author: Chris
 title: "Build a modern, hosted photo gallery for under $10 a month"
 header_image: 2014-07-10-phone-photography.jpg
