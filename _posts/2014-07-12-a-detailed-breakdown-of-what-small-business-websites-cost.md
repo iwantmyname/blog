@@ -19,7 +19,7 @@ Anyone who has ever put down for a high quality website knows the costs associat
 
 >Two years ago we published one of our highest viewed blog articles describing, how much a small business website costs to design to educate those stumped by the costs and process of building a small business website.
 
->Now in 2014, were updating it again ([here]((http://www.executionists.com/blog/cost-to-build-websites-2014/))) with additional approaches to determine how much a small business website should really cost by factoring in advances in technology and the current costs associated with designing, developing and building a website. Please note, when we say “small business” we are talking about an informational website consisting of approximately 10 – 20 pages with some basic content management and social media widgets.
+>Now in 2014, were updating it again [here](http://www.executionists.com/blog/cost-to-build-websites-2014/) with additional approaches to determine how much a small business website should really cost by factoring in advances in technology and the current costs associated with designing, developing and building a website. Please note, when we say “small business” we are talking about an informational website consisting of approximately 10 – 20 pages with some basic content management and social media widgets.
 
 If you're gearing up for a big web project, this is a great introduction to what you're in for. Some of these costs can be minimized with personal expertise, but crucial tasks like design, strategy and development should never be skimped on. 
 
