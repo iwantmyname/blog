@@ -10,7 +10,7 @@ title: "John O'Nolan has some tips for overcoming blogger's block"
 
 Blogging has gotten a bad rap over the last few years because the medium is inundated with so much noise. But starting and maintaining a good (i.e. useful) blog takes an amazing amount of dedication to a very specific window of interest, which is why it's so rare to see blogs that are more than a year old.
 
-The trick to staying engaged with a specific topic is to always have something to say, and for that, we have a great post from John O'Nolan of Ghost, titled "[How To Come up with Great Ideas for Blog Posts, Every Single Time](http://blog.ghost.org/great-blog-post-ideas/)."
+The trick to staying engaged with a specific topic is to always have something to say, and for that, we have a great post from John O'Nolan of [Ghost](https://iwantmyname.com/services/blog-hosting/ghost-custom-domain), titled "[How To Come up with Great Ideas for Blog Posts, Every Single Time](http://blog.ghost.org/great-blog-post-ideas/)."
 
 <!-- /excerpt -->
 
