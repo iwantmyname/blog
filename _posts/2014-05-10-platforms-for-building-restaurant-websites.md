@@ -51,7 +51,7 @@ Aside from the US, country code top-level domains (ccTLDs) are extremely popular
 
 ###Option 2: Even local-er
 
-Even more direct that the ccTLDs are the new city domiain extentions. You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now.
+Even more direct that the ccTLDs are the new [city domiain extentions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now.
 
 
 
