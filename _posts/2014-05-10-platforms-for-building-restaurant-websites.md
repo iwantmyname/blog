@@ -51,7 +51,9 @@ Aside from the US, country code top-level domains (ccTLDs) are extremely popular
 
 ###Option 2: Even local-er
 
-Even more direct that the ccTLDs are the new city domiain extentions. You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to)
+Even more direct that the ccTLDs are the new city domiain extentions. You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now.
+
+
 
 
 But if you can't get a good .com, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
