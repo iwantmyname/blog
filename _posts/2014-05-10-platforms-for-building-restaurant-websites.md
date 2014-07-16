@@ -41,13 +41,17 @@ Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to build
 
 LetsEat is another restaurant-only platform that integrates menus, photography and social together to create clean, simple sites. But the differentiator for LetsEat is its "app store." With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you need. 
 
-##Don't forget about the new gTLDs
+##Discoverability is all in a name
 
 Finding the perfect domain name can be just as important as building a great site. Most restaurants will likely want to grab their corresponding .com first, but if it's already taken, there are plenty of great options available. 
 
 ###Option 1: Look for something local
 
-Aside from the US, country code top-level domains are extremely popular, and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the .ca namespace than .com. 
+Aside from the US, country code top-level domains (ccTLDs) are extremely popular, and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the [.ca](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) namespace than .com.
+
+###Option 2: Even local-er
+
+Even more direct that the ccTLDs are the new city domiain extentions. You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to)
 
 
 But if you can't get a good .com, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
