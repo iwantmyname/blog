@@ -55,6 +55,8 @@ Even more direct that the ccTLDs are the new [city domiain extentions](http://bl
 
 ###Option 3: Try a generic term
 
+
+
 But if you can't get a good .com, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
 
 + [.CAFE](https://iwantmyname.com/domains/dot-cafe)
