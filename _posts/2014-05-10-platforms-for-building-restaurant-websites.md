@@ -2,7 +2,7 @@
 layout: post
 date: 2014-05-10 11:45:34 +1200
 author: Chris
-title: Web platforms and naming tips for building amazing restaurant websites (updated!)
+title: Web platforms and naming tips for building amazing restaurant sites (updated!)
 header_image: 2014-05-10-forks.jpg
 
 ---
@@ -13,7 +13,7 @@ Running a restaurant is a hard business, and as more and more customers choose t
 
 Fortunately, we're not living in the early 2000's, a time when cheesy Flash site creators using animated banners were all the rage. The web platforms of today can help even the most novice restauranteurs create slick, responsive sites with integrated social platforms and menu systems.
 
-And to make it even easier, here are four platforms you can easily link your domain name to from our [one-click marketplace](https://iwantmyname.com/services). 
+And to make it even easier, here are four platforms from our [one-click marketplace](https://iwantmyname.com/services) and a batch of great new generic top-level domains to make your site stand out.
 
 <!-- /excerpt -->
 
@@ -43,7 +43,7 @@ LetsEat is another restaurant-only platform that integrates menus, photography a
 
 ###Don't forget about the new gTLDs
 
-Finding the perfect domain name can be just as important as building a great site. But if you can't get a good .COM, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLD) coming out for restaurant sites, including:
+Finding the perfect domain name can be just as important as building a great site. But if you can't get a good .COM, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
 
 + [.CAFE](https://iwantmyname.com/domains/dot-cafe)
 + [.EAT](https://iwantmyname.com/domains/dot-eat)
