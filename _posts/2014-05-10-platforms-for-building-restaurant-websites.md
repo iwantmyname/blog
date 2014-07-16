@@ -25,11 +25,11 @@ For example, if your company name is Bar Chris (and barchris.com is taken), don'
 
 ###Option 1: Look for something local
 
-Aside from the US, country code top-level domains (ccTLDs) are extremely popular, and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the [.ca](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) namespace than .com.
+Unless you're in the US, country code top-level domains (ccTLDs) are extremely popular and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the [.ca](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) namespace than .com.
 
 ###Option 2: Even local-er
 
-Even more direct that the ccTLDs are the new [city domain extensions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
+Even more direct that the ccTLDs are the new [city domain extensions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be careful not to put yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering in each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
 
 ###Option 3: Try a generic term
 
