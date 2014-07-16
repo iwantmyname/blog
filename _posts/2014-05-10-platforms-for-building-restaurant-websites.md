@@ -55,14 +55,12 @@ Even more direct that the ccTLDs are the new [city domiain extentions](http://bl
 
 ###Option 3: Try a generic term
 
-The third option is to do away with localization altogether, and instead move to a TLD that better categorizes your domain on the web. Just as .com stands for commercial, these domain extensions actually mean something—and they can be a benefit for 
-
-But if you can't get a good .com, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
+The third option is to do away with localization altogether, and instead move to a TLD that better categorizes your domain on the web. Just as .com stands for commercial, these domain extensions actually mean something—and they can be a benefit for domain recall (BOBSPIZZA.london might not stick, but BOBS.pizza is nice and memorable):
 
 + [.CAFE](https://iwantmyname.com/domains/dot-cafe)
 + [.EAT](https://iwantmyname.com/domains/dot-eat)
 + [.FOOD](https://iwantmyname.com/domains/dot-food)
-+ [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen) - out now
++ [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen)
 + [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
 
 Pre-orders are open now, so get your restaurant's name on the list before they open to the public.
