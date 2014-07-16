@@ -55,7 +55,7 @@ Even more direct that the ccTLDs are the new [city domiain extentions](http://bl
 
 ###Option 3: Try a generic term
 
-
+The third option is to do away with localization altogether, and instead move to a TLD that better categorizes your domain on the web. Just as .com stands for commercial, these domain extensions actually mean something—and they can be a benefit for 
 
 But if you can't get a good .com, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
 
