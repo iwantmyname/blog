@@ -19,9 +19,9 @@ And to make it even easier, here are four platforms from our [one-click marketpl
 
 ##Discoverability is all in a name
 
-Finding the perfect domain name can be just as important as building a great site. And if you only take one thing from this post, it should be that your domain name should be the same as your company name. Most restaurants will likely try to grab a .com first, but don't sacrifice memorability just for that domain extension. 
+Finding the perfect domain name can be just as important as building a great site. And if you only take one thing from this post, it should be that **your domain name should be the same as your company name**. Most restaurants will likely try to grab a .com first, but don't sacrifice memorability just so you can have a specific domain extension. 
 
-For example, if your company name is Bar Chris (and barchris.com is taken already), don't register something like barchrisyum.com just to be in the .com namespace. It'll just confuse people—and besides, there are so many great alternatives available. 
+For example, if your company name is Bar Chris (and barchris.com is taken), don't register something like barchrisyum.com just to be in the .com namespace. It'll just confuse people—and besides, there are so many great alternatives available.
 
 ###Option 1: Look for something local
 
@@ -29,7 +29,7 @@ Aside from the US, country code top-level domains (ccTLDs) are extremely popular
 
 ###Option 2: Even local-er
 
-Even more direct that the ccTLDs are the new [city domiain extentions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
+Even more direct that the ccTLDs are the new [city domain extensions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
 
 ###Option 3: Try a generic term
 
@@ -44,6 +44,7 @@ The third option is to do away with localization altogether, and instead move to
 + [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen)
 + [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
 
+##4 DIY platforms to try out
 
 ![Squarespace]({{ site.images_url }}/2014-05-10-squarespace-restaurant.jpg)
 
