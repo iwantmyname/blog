@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-05-10 11:45:34 +1200
+date: 2014-07-17 08:14:25 +1200
 author: Chris
 title: Web platforms and naming tips for building amazing restaurant sites (updated!)
 header_image: 2014-05-10-forks.jpg
@@ -45,6 +45,8 @@ The third option is to do away with localization altogether, and instead move to
 + [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
 
 ##4 DIY platforms to try out
+
+Once you have your name in place, here are some nice platforms to try out. All offer modern templates and great features, and are perfect for people with little-to-no development knowledge. 
 
 ![Squarespace]({{ site.images_url }}/2014-05-10-squarespace-restaurant.jpg)
 
