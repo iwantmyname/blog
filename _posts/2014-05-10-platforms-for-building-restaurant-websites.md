@@ -47,7 +47,7 @@ Finding the perfect domain name can be just as important as building a great sit
 
 ###Option 1: Look for something local
 
-Aside from the US, country code top-level domains are extremely popular, and can significantly open up your naming options. 
+Aside from the US, country code top-level domains are extremely popular, and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the .ca namespace than .com. 
 
 
 But if you can't get a good .com, there are a bunch of [new top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (TLDs) coming out for restaurant sites, including:
