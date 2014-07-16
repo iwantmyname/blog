@@ -68,7 +68,7 @@ Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to build
 
 LetsEat is another restaurant-only platform that integrates menus, photography and social together to create clean, simple sites. But the differentiator for LetsEat is its "app store." With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you need. 
 
-![alt]({{ site.images_url }}/2014-05-10-letseat-restaurant.png)
+![LetsEat]({{ site.images_url }}/2014-05-10-letseat-restaurant.png)
 
 
 
