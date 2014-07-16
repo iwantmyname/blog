@@ -13,7 +13,7 @@ Running a restaurant is a hard business, and as more and more customers choose t
 
 Fortunately we're not living in the early 2000's, a time when cheesy Flash site creators using animated banners were all the rage. The web platforms of today can help even the most novice restauranteurs create slick, responsive sites with integrated social platforms and menu systems.
 
-And to make it even easier, here are four platforms from our [one-click marketplace](https://iwantmyname.com/services) and a batch of great naming suggestions to make your site stand out.
+So to make things easy, here are four modern platforms from our [one-click marketplace](https://iwantmyname.com/services) to choose from, as well as a batch of great naming suggestions to make your site as easy to find as possible.
 
 <!-- /excerpt -->
 
