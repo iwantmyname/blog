@@ -19,7 +19,9 @@ And to make it even easier, here are four platforms from our [one-click marketpl
 
 ##Discoverability is all in a name
 
-Finding the perfect domain name can be just as important as building a great site. Most restaurants will likely want to grab their corresponding .com first, but if it's already taken, there are plenty of great options available.
+Finding the perfect domain name can be just as important as building a great site. And if you only take one thing from this post, it should be that your domain name should be the same as your company name. 
+
+ Most restaurants will likely want to grab their corresponding .com first, but if it's already taken, there are plenty of great options available.
 
 **Tip:** When naming a restaurant, always look for your exact restaurant name first. Excess words or deviations from your brand name will likely result in confusion.
 
