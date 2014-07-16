@@ -13,11 +13,37 @@ Running a restaurant is a hard business, and as more and more customers choose t
 
 Fortunately, we're not living in the early 2000's, a time when cheesy Flash site creators using animated banners were all the rage. The web platforms of today can help even the most novice restauranteurs create slick, responsive sites with integrated social platforms and menu systems.
 
-And to make it even easier, here are four platforms from our [one-click marketplace](https://iwantmyname.com/services) and a batch of great new generic top-level domains to make your site stand out.
+And to make it even easier, here are four platforms from our [one-click marketplace](https://iwantmyname.com/services) and a batch of great naming suggestions to make your site stand out.
 
 <!-- /excerpt -->
 
-***
+##Discoverability is all in a name
+
+Finding the perfect domain name can be just as important as building a great site. Most restaurants will likely want to grab their corresponding .com first, but if it's already taken, there are plenty of great options available.
+
+**Tip:** When naming a restaurant, always look for your exact restaurant name first. Excess words or deviations from your brand name will likely result in confusion.
+
+###Option 1: Look for something local
+
+Aside from the US, country code top-level domains (ccTLDs) are extremely popular, and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the [.ca](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) namespace than .com.
+
+###Option 2: Even local-er
+
+Even more direct that the ccTLDs are the new [city domiain extentions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
+
+###Option 3: Try a generic term
+
+The third option is to do away with localization altogether, and instead move to a TLD that better categorizes your domain on the web. Just as .com stands for commercial, these domain extensions actually mean something—and they can be a benefit for domain recall (BOBSPIZZA.london might not stick, but BOBS.pizza is nice and memorable):
+
++ [.PUB](https://iwantmyname.com/domains/dot-pub)
++ [.BAR](https://iwantmyname.com/domains/dot-bar)
++ [.REST](https://iwantmyname.com/domains/dot-rest)
++ [.CAFE](https://iwantmyname.com/domains/dot-cafe)
++ [.EAT](https://iwantmyname.com/domains/dot-eat)
++ [.FOOD](https://iwantmyname.com/domains/dot-food)
++ [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen)
++ [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
+
 
 ![Squarespace]({{ site.images_url }}/2014-05-10-squarespace-restaurant.jpg)
 
@@ -41,28 +67,5 @@ Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to build
 
 LetsEat is another restaurant-only platform that integrates menus, photography and social together to create clean, simple sites. But the differentiator for LetsEat is its "app store." With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you need. 
 
-##Discoverability is all in a name
-
-Finding the perfect domain name can be just as important as building a great site. Most restaurants will likely want to grab their corresponding .com first, but if it's already taken, there are plenty of great options available. 
-
-###Option 1: Look for something local
-
-Aside from the US, country code top-level domains (ccTLDs) are extremely popular, and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the [.ca](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) namespace than .com.
-
-###Option 2: Even local-er
-
-Even more direct that the ccTLDs are the new [city domiain extentions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be weary about putting yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering for each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
-
-###Option 3: Try a generic term
-
-The third option is to do away with localization altogether, and instead move to a TLD that better categorizes your domain on the web. Just as .com stands for commercial, these domain extensions actually mean something—and they can be a benefit for domain recall (BOBSPIZZA.london might not stick, but BOBS.pizza is nice and memorable):
-
-+ [.CAFE](https://iwantmyname.com/domains/dot-cafe)
-+ [.EAT](https://iwantmyname.com/domains/dot-eat)
-+ [.FOOD](https://iwantmyname.com/domains/dot-food)
-+ [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen)
-+ [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
-
-Pre-orders are open now, so get your restaurant's name on the list before they open to the public.
 
 
