@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-18 12:24:33 +1200
+date: 2014-07-18 12:25:33 +1200
 author: Chris
 title: Watch out for this domain name certificate scam
 
