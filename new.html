@@ -31,6 +31,7 @@ title: New draft &mdash; iwantmyname Domain Blog
 layout: post
 author: Guest
 title: Example blog post title
+date: {{ site.time | date:'%F %T +1200' }}
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu justo, pellentesque non felis sit amet, tempus tristique tortor. Donec ut ultricies odio. Nulla at sodales quam. In dignissim sem metus, quis mollis urna adipiscing eget. Integer eu sapien at erat feugiat dapibus vel sed dui. Duis lectus erat, aliquam ut magna vel, egestas laoreet urna.
@@ -70,6 +71,8 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 				content = "# " + data.title + "\n\n" + content
 			}
 		}
+
+		content = content.replace(/\{\{\s*site\.images_url\s*\}\}/g, {{ site.images_url | jsonify }})
 
 		target.innerHTML = marked(content)
 	}
