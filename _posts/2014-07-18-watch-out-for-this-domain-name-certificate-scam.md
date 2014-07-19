@@ -18,4 +18,4 @@ From ICANN, in an article titled ["Fraudulent ICANN Domain Name Certificates"](h
 
 <!-- /excerpt -->
 
-If you come across anyone trying to sell you a fraudulent certificate like this (or [this](https://www.icann.org/sites/default/files/assets/fraud-example-700x917-2-16jul14-zh.png)), please steer clear. And if you're ever have a question about the authenticity of anything domain related, [we're always here to help](https://iwantmyname.com/support). 
+If you come across anyone trying to sell you a fraudulent certificate like this (or [this](https://www.icann.org/sites/default/files/assets/fraud-example-700x917-2-16jul14-zh.png)), please steer clear. And if you ever have a question about the authenticity of anything domain related, [we're always here to help](https://iwantmyname.com/support). 
