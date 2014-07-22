@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-23 09:26:59 +1200
+date: 2014-07-23 08:26:59 +1200
 author: Chris
 title: ".NZ, the new top-level domain for New Zealand, is launching September 30th"
 header_image: 2014-07-23-nz-infographic.png
