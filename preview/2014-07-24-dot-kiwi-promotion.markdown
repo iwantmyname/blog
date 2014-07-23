@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2014-07-24 10:20:46 +1200
+date: 2014-07-24 09:20:46 +1200
 author: Chris
-title: Get your .kiwi domain name before August 6th and you could win NZD$1,000
+title: "Get your .kiwi domain name before August 6th and you could win NZD$1,000"
 header_image: 2014-07-24-kiwi-sign.jpg
 ---
 
