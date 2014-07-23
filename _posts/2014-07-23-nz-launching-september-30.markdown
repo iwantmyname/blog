@@ -9,7 +9,7 @@ header_image: 2014-07-23-nz-infographic.png
 
 <!-- excerpt -->
 
-[From anyname.nz:](http://anyname.nz/):
+[From anyname.nz](http://anyname.nz/):
 
 >From 1pm, 30 September 2014, ‘second level’ domains like the .co in ‘.co.nz’ and the .org in ‘.org.nz’ will become optional. You’ll be able to get .nz names with them, without them, or both.
 
