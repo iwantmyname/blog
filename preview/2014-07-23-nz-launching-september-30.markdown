@@ -16,6 +16,6 @@ In plain English, the .NZ domain extension will be open to the public on Septemb
 We'll be sending out more specific details closer to the launch date, but in the meantime there are two things you can do. 
 
 1. If you want to know more about the .NZ domain extension, head over to [anyname.nz](http://anyname.nz/). The site has a bevy of information, including the full infographic seen above, additional information about registering your corresponding .NZ domain and a nice introduction video if you're interested.   
-2. If you want to make sure you're at the head of the line to get a brand new .NZ domain, we have an easy-to-remember page for .NZ pre-orders—[dropthecofromyour.co.nz](http://dropthecofromyour.co.nz) (which is, drop the co from your .co.nz).
+2. If you want to make sure you're at the head of the line to get a brand new .NZ domain, we have an easy-to-remember page for .NZ pre-orders—[dropthecofromyour.co.nz](http://dropthecofromyour.co.nz) (which is, drop the co from your .co.nz...we kind of love domain hacks).
 
 And as always, you have any questions along the way, [don't hesitate to ask](https://iwantmyname.com/support).
