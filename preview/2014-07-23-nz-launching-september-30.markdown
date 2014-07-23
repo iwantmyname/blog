@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-23 08:26:59 +1200
+date: 2014-07-23 08:27:59 +1200
 author: Chris
 title: "Drop the .CO New Zealand—.NZ is launching September 30th"
 header_image: 2014-07-23-nz-infographic.png
