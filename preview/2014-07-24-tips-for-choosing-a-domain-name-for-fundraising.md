@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-15 10:35:41 +1200
+date: 2014-07-15 11:35:41 +1200
 author: Chris
 title: "6 tips for choosing a domain name for fundraising"
 header_image: 2014-07-24-donationto-iwantmyname.jpg
