@@ -61,7 +61,7 @@ Your best bet is to stick with a name that utilizes three or fewer words and hyp
 
 ##5. Oversimplification is bad
 
-Now that we've touched base on the importance of keeping your domain name simple, you might be thinking about doing things that could actually hurt your goal. Therefore, it is critical to learn the difference between a simple domain name and an oversimplified one. 
+Now that we've touched base on the importance of keeping your domain name simple, you might be thinking about doing things that could actually hurt your goal. Therefore, it's critical to learn the difference between a simple domain name and an oversimplified one. 
 
 For example, if your friend goes by the name DJ, it would make perfect sense to choose dj-medical-fundraising.com as your domain name. However, it would be an oversimplification to select DJMF.com, as this has no easily discernible meaning.
 
