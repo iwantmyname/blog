@@ -67,12 +67,11 @@ For example, if your friend goes by the name DJ, it would make perfect sense to 
 
 Another trend that you may want to avoid is choosing a country extension in order to make a creative word. For example, it [used to be popular](http://www.90percentofeverything.com/2008/10/23/how-to-get-yourself-a-sweet-ly-domain-name/) to choose an English word then add .ly at the end such as useful.ly, but the practice has fallen out of favor recently because it's generally harder to verbalize these "domain hacks," and because they're unusual, they can be more difficult to remember.
 
-The avoidance of oversimplification and so-called cute wordplay will ultimately make it easier for you to connect with people who will be interested in supporting your cause. Just remember that keeping it simple without oversimplifying or being overly clever is always the best course of action.
+Just remember that keeping it simple without oversimplifying, using so-called cute wordplay or being overly clever is always the best course of action.
 
 ##6. The decision of whether or not to use numbers
 
-It is typically suggested that numbers should not be incorporated into domain names, but there are some compelling arguments for them. For example, the Internet provides you with access to the entire world, and
-numbers are often used to convey meaning in other languages (like Chinese, as highlighted in [this video](https://www.youtube.com/watch?v=DFTW_abinnM)). Another example is if the number is being used to increase specificity—like if you're raising money to pay for an 88th birthday party. Spelling out 88 would make your domain name unnecessarily long, and would most likely confuse people, so choosing something like james-88th-birthday.com or james-88th-fundraiser.com would make sense.
+It is typically suggested that numbers should not be incorporated into domain names, but there are some compelling arguments for them. For example, the Internet provides access to the entire world, and numbers are often used to convey meaning in other languages (like Chinese, as highlighted in [this video](https://www.youtube.com/watch?v=DFTW_abinnM)). Another example is if the number is being used to increase specificity—like if you're raising money to pay for an 88th birthday party. Spelling out 88 would make your domain name unnecessarily long, and would most likely confuse people, so choosing something like james-88th-birthday.com or james-88th-fundraiser.com would make sense.
 
 Just remember to use common sense when determining if numbers are appropriate for your domain. If their culturally relevant, or make things more specific, they may indeed be helpful for people trying to find your page.
 
