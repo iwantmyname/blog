@@ -26,8 +26,7 @@ Selecting the right domain name can be intimidating for some people though, so w
 
 ##1. Selecting the correct domain extension
 
-Before you even begin contemplating your online fundraising domain name,
-you will need to choose the domain extension (.net, .com, .io, .org, etc.) that makes the most sense for your particular cause. Although most people automatically assume that .com makes the most sense, this is not always the case. For example, if you are hosting a fundraiser specifically for a cause that is based out of Japan, it could be much more beneficial to add a personal touch by selecting the .jp domain extension. After all, going with a country-specific domain name will be much more relevant, and can help capture the attention of local supporters.
+Before you begin contemplating what your online fundraising domain name will be, you need to choose the domain extension (.net, .com, .io, .org, etc.) that makes the most sense for your particular cause. Although most people automatically assume that .com makes the most sense, this is not always the case. For example, if you are hosting a fundraiser specifically for a cause that is based out of Japan, it could be much more beneficial to add a personal touch by selecting the .jp domain extension. After all, going with a country-specific domain name will be much more relevant, and can help capture the attention of local supporters.
 
 On the other hand, if your fundraiser has global appeal, it could be ideal
 to choose .com or a new [generic domain extension](https://iwantmyname.com/domains/new-gtld-domain-extensions). As you can see, there's definitely a lot to think about and choose from before you lock yourself into any specific domain extension.
