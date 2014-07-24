@@ -55,14 +55,13 @@ The second tip is to think about specificity. If you choose to use a longer doma
 
 ##4. Keep it simple
 
-In the previous tip we explained that it's perfectly acceptable to utilize hyphens for clarity in your domain name, however, there is the danger of incorporating *too many* words or hyphens. Typically more than three hyphens will confuse your visitors, and even if you choose not use hyphens, that amount of words strung together can be confusing to read and even harder to memorize. It's also important to note that domain names that are more than four words long run the risk of being cut off by most link services like Twitter. 
+In the previous tip we explained that it's perfectly acceptable to utilize hyphens for clarity in your domain name, however, there is the danger of incorporating *too many* words or hyphens. Typically more than three hyphens will confuse your visitors, and even if you choose not use hyphens, that amount of words strung together can be confusing to read and even harder to memorize. It's also important to note that domain names that are more than four words long run the risk of being cut off by link services like Twitter. 
 
-Your best bet is to stick with a name that utilizes three or fewer words and
-hyphens. And if you follow the adage of keeping it simple, you will never need to worry about using too many characters or having a domain that's too hard to memorize.
+Your best bet is to stick with a name that utilizes three or fewer words and hyphens. And if you follow the adage of keeping it simple, you'll never need to worry about character limits or domains that are too hard to memorize.
 
 ##5. Oversimplification is bad
 
-Now that we've touched base on the importance of keeping your domain name simple, you might be looking at options that could actually hurt your goal. Therefore, it is critical to learn the difference between a simple domain name and an oversimplified one. 
+Now that we've touched base on the importance of keeping your domain name simple, you might be thinking about doing things that could actually hurt your goal. Therefore, it is critical to learn the difference between a simple domain name and an oversimplified one. 
 
 For example, if your friend goes by the name DJ, it would make perfect sense to choose dj-medical-fundraising.com as your domain name. However, it would be an oversimplification to select DJMF.com, as this has no easily discernible meaning.
 
