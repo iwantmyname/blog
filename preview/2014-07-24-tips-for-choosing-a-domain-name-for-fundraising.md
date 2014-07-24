@@ -5,7 +5,7 @@ author: Chris
 title: "6 tips for choosing a domain name for fundraising"
 header_image: 2014-07-24-donationto-iwantmyname.jpg
 guest_author:
-  name: Brion Hickey
+  name: Brion Hickey of DonationTo
   avatar: https://twitter.com/api/users/profile_image/donationto?size=reasonably_small
   twitter: donationto
   footer: >
