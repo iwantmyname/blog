@@ -14,12 +14,11 @@ guest_author:
 
 <!-- excerpt -->
 
-[DonationTo](http://www.donationto.com/) is an easy-to-use fundraising website that has [integrated with iwantmyname](https://iwantmyname.com/services/social/register-domain-donationto) to make it easy to use personalized domain names when crowd-funding online. The method is rather easy—it takes just five minutes to create a fundraising page at DonationTo and just a few moments more to purchase and plug in your domain name with iwantmyname. And by the end, you'll have a great, easy-to-remember domain such as 'james-fighting-cancer.com' as your home for accepting donations.
+[DonationTo](http://www.donationto.com/) is an easy-to-use fundraising website that has [integrated with iwantmyname](https://iwantmyname.com/services/social/register-domain-donationto) to make it easy to use personalized domain names when crowd-funding online. The method is rather easy—it takes just five minutes to create a fundraising page at DonationTo and just a few moments more to purchase and plug in your domain name with iwantmyname. And by the end, you'll have a great, easy-to-remember domain such as 'james-fighting-cancer.com' as your hub for accepting donations.
 
 <!-- /excerpt -->
 
-There are several reasons to use a personal domain name for your
-crowd-funding page, first of which is the fact that they make it easier for supporters to draw connections between who you are (friend/family) and what they are supposed to do (donate). After all, it's important to recognize that many people will not immediately visit your page, but put it off until later, so you'll want to provide them with a relevant domain name that's easy to remember for future reference. Taking this approach will help increase the total amount of contributions you'll receive, and will help show your commitment to hitting your goal.
+There are several reasons to use personal domain names for crowd-funding pages, first of which is the fact that they make it easier for supporters to draw connections between who you are (friend/family) and what they are supposed to do (donate). After all, it's important to recognize that many people will not immediately visit your page, but put it off until later, so you'll want to provide them with a relevant domain name that's easy to remember for future reference. Taking this approach will help increase the total amount of contributions you'll receive, and will help show your commitment to hitting your goal.
 
 Another major benefit of attaching your own domain name to your crowd-funding page is that it will build legitimacy for your cause. Keep in mind that people are exposed to hundreds of online fundraising campaigns each year, so you should take every possible step to make it easier for them to decide if yours will be one of the causes they decide to financially support.
 
