@@ -51,7 +51,7 @@ The first tip is to use your domain name to tell people who you are and what you
 
 One point to note is the use of hyphens in the domain name above (james-fighting-cancer.com). While some may question the use of hyphens, our experience indicates that they can actually add much-needed clarity. As an added bonus, choosing longer domains  such as james-fighting-cancer.com or james-medical-fundraising.com are much more likely to be available (buying domains that are already registered can be [quite expensive](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt1.html)), and are extremely easy to read and remember. And from a search engine perspective, hyphens are ok because they're just treated as spaces between words.
 
-The second tip is to think about specificity. If you choose to use a longer domain, make sure it's as precise as possible. For instance, james-fighting-cancer.com is good, but maybe james-medical-fundraising.com would add an extra layer of specificity. It's a good idea to be very up front with your needs, and james-medical-fundraising.com clearly spells out the fact that you're reaising money for James' medical bills. Choosing the right words will vary from case to case, so use your best judgement.
+The second tip is to think about specificity. If you choose to use a longer domain, make sure it's as precise as possible. For instance, james-fighting-cancer.com is good, but maybe james-medical-fundraising.com would add an extra layer of specificity. It's a good idea to be very up front with your needs, and james-medical-fundraising.com clearly spells out the fact that you're raising money for James' medical bills. Choosing the right words will vary from case to case, so use your best judgement.
 
 ##4. Keep it simple
 
@@ -71,13 +71,12 @@ Just remember that keeping it simple without oversimplifying, using so-called cu
 
 ##6. The decision of whether or not to use numbers
 
-It is typically suggested that numbers should not be incorporated into domain names, but there are some compelling arguments for them. For example, the Internet provides access to the entire world, and numbers are often used to convey meaning in other languages (like Chinese, as highlighted in [this video](https://www.youtube.com/watch?v=DFTW_abinnM)). Another good use of numbers to increase specificity without using too many characters—like if you're raising money to pay for an 88th birthday party. Spelling out 88 would make your domain name unnecessarily long, and would most likely confuse people, so choosing something like james-88th-birthday.com or james-88th-fundraiser.com would make sense.
+It is typically suggested that numbers should not be incorporated into domain names, but there are some compelling arguments for them. For example, the Internet provides access to the entire world, and numbers are often used to convey meaning in other languages (like Chinese, as highlighted in [this video](https://www.youtube.com/watch?v=DFTW_abinnM)). Another good use of numbers to increase specificity without using too many characters—like if you're raising money to pay for an 88th birthday party. Spelling out 88 would make your domain name unnecessarily long and would most likely confuse people, so choosing something like james-88th-birthday.com or james-88th-fundraiser.com would make sense.
 
-Just remember to use common sense when determining if numbers are appropriate for your domain. If their culturally relevant, or make things more specific, they may indeed be helpful for people trying to find your page.
+Just remember to use common sense when determining if numbers are appropriate for your domain. If they're culturally relevant or make things more specific, they may indeed be helpful for people trying to find your page.
 
 ##Summary
 
-Online fundraising is rather popular today, and with [DonationTo](http://donationto.com/) you can get your fundraising page up in just a few moments. And with an iwantmyname domain name, the whole process is easier than ever.
+Online fundraising is rather popular today, and with DonationTo you can get your fundraising page up in just a few minutes. And with an iwantmyname domain name, the whole process is easier than ever.
 
-As you make your selection, follow our six tips to point you in the right direction for clarity and legibility as you share your domain name across
-email and all your social networking tools.
+As you make your selection, follow our six tips to point you in the right direction for clarity and legibility as you share your domain name across email and all your social networks.
