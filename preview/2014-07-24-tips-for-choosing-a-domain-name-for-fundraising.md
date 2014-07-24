@@ -55,7 +55,7 @@ The second tip is to think about specificity. If you choose to use a longer doma
 
 ##4. Keep it simple
 
-In the previous tip we explained that it's perfectly acceptable to utilize hyphens for clarity in your domain name, however, there is the danger of incorporating *too many* words or hyphens. Many times, more than three hyphens is likely to confuse your visitors. And even if you choose not use hyphens, stringing too many words together can be equally confusing to read and even harder to memorize. It's also important to note that domain names that are more than four words long run the risk of being cut off by most link services like Twitter. 
+In the previous tip we explained that it's perfectly acceptable to utilize hyphens for clarity in your domain name, however, there is the danger of incorporating *too many* words or hyphens. Typically more than three hyphens will confuse your visitors, and even if you choose not use hyphens, that amount of words strung together can be confusing to read and even harder to memorize. It's also important to note that domain names that are more than four words long run the risk of being cut off by most link services like Twitter. 
 
 Your best bet is to stick with a name that utilizes three or fewer words and
 hyphens. And if you follow the adage of keeping it simple, you will never need to worry about using too many characters or having a domain that's too hard to memorize.
