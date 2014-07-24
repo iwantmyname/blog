@@ -1,15 +1,21 @@
 ---
 layout: post
-date: 2014-07-25 10:35:41 +1200
+date: 2014-07-25 11:02:47 +1200
 author: Melle
-title: Building audience or community for your website
+title: "Building an audience or community for your website"
+header_image: 2014-07-25-street-scene.jpg
+
 ---
+
+<!-- excerpt -->
 
 We regularly post articles to help you get started with your own website, whether it's [expected costs for a business site](http://blog.iwantmyname.com/2014/07/a-detailed-breakdown-of-what-small-business-websites-cost.html), [how to economically showcase your photos](http://blog.iwantmyname.com/2014/07/build-a-modern-hosted-photo-gallery-website.html), or [really easy ways to get a domain and site up and running](http://blog.iwantmyname.com/2014/06/squarespace-iwantmyname-makes-website-building-a-snap.html). 
 
 But then what? In the same way that just buying a domain won't magically make a website appear, getting your website online won't magically make customers, audience, or community appear. As a side note, while SEO can be an important part of building your presence online, we're not going to get into it in this post, as that's a whole other big, complex topic. For an intro though, [this is a great start](http://moz.com/beginners-guide-to-seo).
 
 Let's take a look at some things to think about and research. We'll also get into some actions to take to build your profile and engagement online and encourage people to visit your site. You could be trying to grow your customer base, build a community, or assemble an audience/fan base. People are people no matter how you're interacting with them, so these tactics can be broadly applied.
+
+<!-- /excerpt -->
 
 ##What are you trying to build?
 
