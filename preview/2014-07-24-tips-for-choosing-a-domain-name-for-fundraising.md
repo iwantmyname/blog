@@ -14,7 +14,7 @@ guest_author:
 
 <!-- excerpt -->
 
-[DonationTo](http://www.donationto.com/) is an easy-to-use fundraising website that has [integrated with iwantmyname](https://iwantmyname.com/services/social/register-domain-donationto) to provide an excellent way to obtain personalized domain names when crowd-funding online. The method is rather easy—it takes just five minutes to create a fundraising page at DonationTo and just a few moments more to purchase and reference a domain name with iwantmyname. The ultimate outcome is to have an easy-to-remember domain such as 'james-fighting-cancer.com' as your home for accepting donations.
+[DonationTo](http://www.donationto.com/) is an easy-to-use fundraising website that has [integrated with iwantmyname](https://iwantmyname.com/services/social/register-domain-donationto) to make it easy to use personalized domain names when crowd-funding online. The method is rather easy—it takes just five minutes to create a fundraising page at DonationTo and just a few moments more to purchase and plug in your domain name with iwantmyname. And by the end, you'll have a great, easy-to-remember domain such as 'james-fighting-cancer.com' as your home for accepting donations.
 
 <!-- /excerpt -->
 
