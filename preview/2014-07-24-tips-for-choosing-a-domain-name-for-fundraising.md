@@ -30,7 +30,7 @@ Before you begin contemplating what your online fundraising domain name will be,
 
 On the other hand, if your fundraiser has global appeal, it could be wise to choose .com or a new [generic top-level domain](https://iwantmyname.com/domains/new-gtld-domain-extensions). As you can see, there's quite a lot to think about before you lock yourself into any specific domain extension.
 
-Another important thing to note about extensions is that they can alter a potential supporter's perception of your efforts to crowd-fund. For instance, while .com has become synonymous with almost any type of website, the reality is that it was created for sites of a more business nature, whereas the original purpose of .org was to provide a resource for organizations—often nonprofits. Due to this, .org might be more appealing for some charity campaigns, but you should still carefully consider utilizing .com because it's usually easier for people to remember.
+Another important thing to note about extensions is that they can alter a potential supporter's perception of your efforts to crowd-fund. For instance, while .com has become synonymous with almost any type of website, the reality is that it was created for sites of a more business nature (com stands for commercial), whereas the original purpose of .org was to provide a resource for organizations—often nonprofits. Due to this, .org might be more appealing for some charity campaigns, but you should still carefully consider utilizing .com because it's usually easier for people to remember.
 
 ##2. Choosing your domain name
 
