@@ -37,14 +37,11 @@ Another important thing to note about extensions is that they can alter a potent
 It's easy for people to become overwhelmed with all the potential
 possibilities, but there is a very simple way for most to settle on a name that makes sense.
 
-"Your domain name should be your company name." Christopher Heng from [thesitewizard.com](http://www.thesitewizard.com/archive/domainname.shtml) explains that naming your domain after your company may
-seem obvious to some, but a surprising amount of domains aren't correlated at all.
+"Your domain name should be your company name." Christopher Heng from [thesitewizard.com](http://www.thesitewizard.com/archive/domainname.shtml) explains that while naming domains after company names may seem obvious to some, a surprising amount of domains aren't correlated at all.
 
-Consider, for example, how confusing it would be if your nonprofit was known by a name that was completely different from your domain name. This would make it much harder to remember what to type in the address bar, and could eventually lead to preventing people from visiting the site. And that, in turn, could make overall donations suffer.
+Consider, for example, how confusing it would be if your nonprofit was known by a name that was completely different from your domain name. It would be much harder to reach from memory, and would likely prevent people from visiting the site at all. And that, in turn, could make overall donations suffer.
 
-Another important reminder is that you want search engines to be on your side. If you are a nonprofit organization, your supporters are going to look for
-the ability to make online donations by entering your organization's name
-into their favorite search engine. But if your organization's name and your domain name aren't related, search engines like Google and DuckDuckGo might not be able to link to the appropriate content. 
+Another important reminder is that you want search engines to be on your side. If you're a nonprofit organization, supporters are going to look to make online donations by entering your organization's name into their favorite search engine. But if your organization's name and your domain name aren't related, search engines like Google and DuckDuckGo might not be able to link to the appropriate content. 
 
 ##3. Choosing a name without an organization
 
