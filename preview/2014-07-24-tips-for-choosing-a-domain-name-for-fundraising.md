@@ -34,12 +34,10 @@ Another important thing to note about extensions is that they can alter a potent
 
 ##2. Choosing your domain name
 
-It is easy for people to become overwhelmed with all the potential
-possibilities for their domain name, but there is a very simple way for
-most to settle on a name that makes sense.
+It's easy for people to become overwhelmed with all the potential
+possibilities, but there is a very simple way for most to settle on a name that makes sense.
 
-"Your domain name should be your company name." [Christopher Heng](http://www.thesitewizard.com/archive/domainname.shtml ) from
-thesitewizard.com explains that naming your domain after your company may
+"Your domain name should be your company name." Christopher Heng from [thesitewizard.com](http://www.thesitewizard.com/archive/domainname.shtml) explains that naming your domain after your company may
 seem obvious to some, but a surprising amount of domains aren't correlated at all.
 
 Consider, for example, how confusing it would be if your nonprofit was known by a name that was completely different from your domain name. This would make it much harder to remember what to type in the address bar, and could eventually lead to preventing people from visiting the site. And that, in turn, could make overall donations suffer.
