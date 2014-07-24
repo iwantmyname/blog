@@ -67,7 +67,7 @@ For example, if your friend goes by the name DJ, it would make perfect sense to 
 
 Another trend that you may want to avoid is choosing a country extension in order to make a creative word. For example, it [used to be popular](http://www.90percentofeverything.com/2008/10/23/how-to-get-yourself-a-sweet-ly-domain-name/) to choose an English word then add .ly at the end such as useful.ly, but the practice has fallen out of favor recently because it's generally harder to verbalize these "domain hacks," and because they're unusual, they can be more difficult to remember.
 
-The avoidance of oversimplification and so-called cute wordplay will ultimately make it easier for you to connect with people who will be interested in supporting your cause. With this in mind, you should also remind yourself not to give into the impulse of creating a domain name that is overly clever. It will only hurt your cause, especially because some people will not understand the intention of your chosen domain name. Keeping it simple without oversimplifying is always the best course of action.
+The avoidance of oversimplification and so-called cute wordplay will ultimately make it easier for you to connect with people who will be interested in supporting your cause. Just remember that keeping it simple without oversimplifying or being overly clever is always the best course of action.
 
 ##6. The decision of whether or not to use numbers
 
