@@ -71,7 +71,7 @@ Just remember that keeping it simple without oversimplifying, using so-called cu
 
 ##6. The decision of whether or not to use numbers
 
-It is typically suggested that numbers should not be incorporated into domain names, but there are some compelling arguments for them. For example, the Internet provides access to the entire world, and numbers are often used to convey meaning in other languages (like Chinese, as highlighted in [this video](https://www.youtube.com/watch?v=DFTW_abinnM)). Another example is if the number is being used to increase specificity—like if you're raising money to pay for an 88th birthday party. Spelling out 88 would make your domain name unnecessarily long, and would most likely confuse people, so choosing something like james-88th-birthday.com or james-88th-fundraiser.com would make sense.
+It is typically suggested that numbers should not be incorporated into domain names, but there are some compelling arguments for them. For example, the Internet provides access to the entire world, and numbers are often used to convey meaning in other languages (like Chinese, as highlighted in [this video](https://www.youtube.com/watch?v=DFTW_abinnM)). Another good use of numbers to increase specificity without using too many characters—like if you're raising money to pay for an 88th birthday party. Spelling out 88 would make your domain name unnecessarily long, and would most likely confuse people, so choosing something like james-88th-birthday.com or james-88th-fundraiser.com would make sense.
 
 Just remember to use common sense when determining if numbers are appropriate for your domain. If their culturally relevant, or make things more specific, they may indeed be helpful for people trying to find your page.
 
