@@ -9,7 +9,7 @@ guest_author:
   avatar: https://twitter.com/api/users/profile_image/donationto?size=reasonably_small
   twitter: donationto
   footer: >
-    Find more about DonationTo, including pricing, plans and testimonials, on [donationto.com](http://www.donationto.com/). And once you're ready to get started, be sure to grab your [custom domain name](https://iwantmyname.com/services/social/register-domain-donationto) right here at iwantmyname. 
+    Find more about DonationTo, including pricing, plans and testimonials on [donationto.com](http://www.donationto.com/). And once you're ready to get started, be sure to grab your [custom domain name](https://iwantmyname.com/services/social/register-domain-donationto) right here at iwantmyname. 
 
 ---
 
