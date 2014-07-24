@@ -45,7 +45,7 @@ Another important reminder is that you want search engines to be on your side. I
 
 ##3. Choosing a name without an organization
 
-We realize a lot of people host fundraising pages that are not associated with specific organizations. In fact, there are millions of people worldwide who are currently crowd-funding for a variety of reasons, including medical, memorial and natural disasters. If this is the case for your campaign, it might seem more daunting to pick an appropriate domain name. However, there is actually a simple process to help you land on a name that will be easy for supporters to remember. 
+There are millions of people worldwide crowd-funding for a variety of reasons—medical, memorial, natural disasters—and many of them aren't associated with any specific organization. If this is the case for your campaign, it may seem daunting to pick an appropriate domain name. However, there is actually a simple process to help you land on a name that will be easy for supporters to remember. 
 
 The first trick is to use your domain name to tell people who and what you are raising money for. For example, if you have a friend named James who is currently fighting cancer,  james-fighting-cancer.com would be a good choice. Anyone who knows James will draw the connection—this donation is for “James” and the money will go towards his medical bills to fight cancer. It's this logical process we're looking to achieve, and it can be all done with a domain name!
 
