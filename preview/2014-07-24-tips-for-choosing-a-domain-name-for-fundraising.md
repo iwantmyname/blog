@@ -26,10 +26,9 @@ Selecting the right domain name can be intimidating for some people though, so w
 
 ##1. Selecting the correct domain extension
 
-Before you begin contemplating what your online fundraising domain name will be, you need to choose the domain extension (.net, .com, .io, .org, etc.) that makes the most sense for your particular cause. Although most people automatically assume that .com makes the most sense, this is not always the case. For example, if you are hosting a fundraiser specifically for a cause that is based out of Japan, it could be much more beneficial to add a local touch by selecting the .jp domain extension. After all, going with a country-specific domain name will be much more relevant, and can help capture the attention of local supporters.
+Before you begin contemplating what your online fundraising domain name will be, you need to choose the domain extension (.net, .com, .io, .org, etc.) that makes the most sense for your particular cause. Although most people automatically assume that .com makes the most sense, this is not always the case. For example, if you're hosting a fundraiser specifically for a cause based in Japan, it could be beneficial to add a local touch by selecting the .jp domain extension. After all, going with a country-specific domain name may help capture the attention of local supporters.
 
-On the other hand, if your fundraiser has global appeal, it could be ideal
-to choose .com or a new [generic domain extension](https://iwantmyname.com/domains/new-gtld-domain-extensions). As you can see, there's definitely a lot to think about and choose from before you lock yourself into any specific domain extension.
+On the other hand, if your fundraiser has global appeal, it could be wise to choose .com or a new [generic top-level domain](https://iwantmyname.com/domains/new-gtld-domain-extensions). As you can see, there are definitely a lot to think about and choose from before you lock yourself into any specific domain extension.
 
 Another important thing to note about extensions is that they can alter a potential supporter's perception of your efforts to crowd-fund. For instance, while .com has become synonymous with almost any type of website, the reality is that it was created for sites of a more business nature, whereas the original purpose of .org was to provide a resource for organizations—often nonprofits. Due to this, .org might be more appealing for some charity campaigns, but you should still carefully consider utilizing .com because it's usually easier for people to remember.
 
