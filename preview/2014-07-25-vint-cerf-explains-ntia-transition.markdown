@@ -2,7 +2,7 @@
 layout: post
 date: 2014-07-25 13:00:42 +1200
 author: Chris
-title: Watch Vint Cerf explain the NTIA transition (he rides a giant cat at the end)
+title: "Watch Vint Cerf explain the NTIA transition (he rides a giant cat at the end)"
 excerpt: no
 ---
 
