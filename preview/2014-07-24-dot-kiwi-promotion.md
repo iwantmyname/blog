@@ -19,7 +19,7 @@ And now, to promote the quirkiest little domain extension on the web, we're exci
 
 ## The contest
 
-From now until 6 August 2014 (11:59 PM NZST), every .kiwi domain you register at iwantmyname counts as an entry to win a $1,000 NZD prize from Dot Kiwi ([terms and conditions](http://promotion.kiwi/terms/)). 
+From now until 6 August 2014 (11:59 PM NZST), every .kiwi domain you register at iwantmyname counts as an entry to win $1,000 NZD from Dot Kiwi ([terms and conditions](http://promotion.kiwi/terms/)). 
 
 So if you're a New Zealander, or just love the .kiwi domain, and are planning to start a website or blog in the foreseeable future, now's the time to grab your domain—because nothing (seriously, nothing) is better than winning money for obtaining something you'll actually use.
  
