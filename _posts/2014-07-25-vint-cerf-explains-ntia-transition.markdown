@@ -8,7 +8,7 @@ title: "Watch Vint Cerf explain the NTIA transition (he rides a giant cat at the
 
 <!-- excerpt -->
 
-We typically like to spare our customers the politics of the web, but Vint Cerf, the "father of the internet" (who now works for Google) recently narrated a great video explaining the transition of internet oversight from the NTIA to ICANN. 
+We typically like to spare our customers the politics of the web, but Vint Cerf, the "father of the internet" (who now works for Google) recently narrated a great video explaining the transition of internet oversight from the National Telecommunications and Information Administration (NTIA) to ICANN. 
 
 It's short, educational, and has a great frame at 2:22 where a drawn depiction of Vint Cerf is sitting on top of a giant angry cat under a rainbow (I believe he just won the internet). 
 
