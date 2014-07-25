@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-07-24 09:20:46 +1200
+date: 2014-07-26 06:37:21 +1200
 author: Chris
 title: "Get your .kiwi domain name before 6th August and you could win NZ$1,000"
 header_image: 2014-07-24-kiwi-sign.jpg
@@ -26,7 +26,7 @@ So if you're a New Zealander, or just love the .kiwi domain, and are planning to
 
 ## And to make it better, a .kiwi sale
 
-To make the contest even more appealing, we're dropping the price of .kiwi from $35.90/yr to XXXXXX. It's the least we can do to spread the love of New Zealand's most unique TLD.
+To make the contest even more appealing, we're dropping the price of .kiwi from $35.90/yr to $27.50/yr ($29.90 NZD). It's the least we can do to spread the love of New Zealand's most unique TLD.
 
 ***
 
