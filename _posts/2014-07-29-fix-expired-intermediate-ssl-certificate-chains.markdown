@@ -3,7 +3,7 @@ layout: post
 date: 2014-07-29 07:23:36 +1200
 author: Chris
 title: "Trust errors are bad—here's how to fix expired intermediate SSL certificate chains"
-
+excerpt: no
 ---
 
 [From Flavio Martins - DigiCert:](https://blog.digicert.com/expired-intermediate-certificate/)
