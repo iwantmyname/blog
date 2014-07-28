@@ -23,6 +23,6 @@ Learnings from this incident include the age-old mantra of "change your password
 
 However, it comes down to your personal password "hygiene" to make sure your passwords are unique, frequently updated and securely stored.
 
-Consider using a password manager that is both secure by design and proactive about security risks. We like [KeepassX](https://www.keepassx.org/) and [LastPass](https://lastpass.com/). Both are secure password storage mechanisms. If you want to roll your own password storage, make sure you use PGP/GPG to secure your passwords, and that your private keys are secured properly and long enough.
+Consider using a password manager that is both secure by design and proactive about security risks. We like [KeepassX](https://www.keepassx.org/) and [1password](https://agilebits.com/1password). Both are secure password storage mechanisms. If you want to roll your own password storage, make sure you use PGP/GPG to secure your passwords, and that your private keys are secured properly and long enough.
 
 One last initiative we are currently working on is a complete disaster escalation plan. Similar to the zombie apocalypse plans some cities and organizations have prepared, this helps us to have a well-organized and communicated plan in place so everyone knows exactly what to do. This time around we were able to lock everything down very quickly, but who knows what the next bug will look like. Software is written by humans after all.
