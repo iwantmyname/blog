@@ -16,7 +16,7 @@ Today we're happy to introduce two more European Top-Level Domains from the Chan
 
 The Channel Island domain extensions [first appeared on the web in 1996](http://en.wikipedia.org/wiki/.je) and were added together with [.IM (Isle Of Man)](https://iwantmyname.com/domains/im-domain-name-registration-for-isle-of-man) and [.AC (Ascension Island)](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island) by internet legend [Jon Postel](http://en.wikipedia.org/wiki/Jon_Postel).
 
-Both the .JE and .GG namespace is unrestricted and [new domains are offered]() at a special introductory price of $119.00 USD -- a saving of 20%. You can even [transfer them free of charge](https://iwantmyname.com/domains/domain-transfer) from another domain registrar to iwantmyname ([let us know if you need any help with your transfers](https://iwantmyname.com/transferservice)).
+Both the .JE and .GG namespace is unrestricted and [new domains are offered](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) at a special introductory price of $119.00 USD -- a saving of 20%. You can even [transfer them free of charge](https://iwantmyname.com/domains/domain-transfer) from another domain registrar to iwantmyname ([let us know if you need any help with your transfers](https://iwantmyname.com/transferservice)).
 
 For all [short domain geeks](https://iwantmyname.com/short-domain-search), the registry also allows two-letter domains. Here are some tiny domains that are still available at the time of writing... Happy registering!
 
