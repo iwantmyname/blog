@@ -21,7 +21,7 @@ For inspiration, here are ten influential brands using custom link shortening fo
 
 <!-- /excerpt -->
 
-+ Star Wars - [strw.rs](http://strw.rs)
++ Star Wars - [strw.rs](http://archived.link/http://strw.rs)
 + YouTube - [youtu.be](http://youtu.be)
 + Bon Appetit - [bonapp.it](http://bonapp.it)
 + Disney - [nyti.ms](http://di.sn)

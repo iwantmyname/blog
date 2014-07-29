@@ -61,7 +61,7 @@ Geared primarily towards clothing designers, SupaDupa offers more than 45 profes
 
 ###Airsquare
 
-Templates are wonderful tools for users with no design background to create online stores, but wouldn't it just be easier to have someone do it for you? Well, for $660, [Airsquare](http://www.airsquare.com) will do just that--or you could choose from a wide selection of responsive templates with customizable layouts, fonts and colors.
+Templates are wonderful tools for users with no design background to create online stores, but wouldn't it just be easier to have someone do it for you? Well, for $660, [Airsquare](http://www.airsquare.com/) will do just that--or you could choose from a wide selection of responsive templates with customizable layouts, fonts and colors.
 
 Online shops cost $39/mo, and include a 1% transaction fee, [custom domain usage](https://iwantmyname.com/services/business/airsquare-custom-domain), free email marketing tools and $5 upgrades for custom email addresses and Xero, MailChimp and Vend integration. 
 
