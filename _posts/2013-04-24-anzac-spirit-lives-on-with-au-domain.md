@@ -19,7 +19,7 @@ tags:
 
 ![anzac.jpg]({{ site.images_url }}/2013-04-24-anzac.jpg)
 
-New Zealand and Australia have a long tradition of mateship arising from a shared cultural context and solid friendships forged in the fields of past conflicts. Not only do we share a notable military history, but we also have close [business](http://geniusnet.blogtown.co.nz/2013/04/23/queensland-tech-scene/) and political links with our "cousins" across the Tasman Sea. So, after a long wait, it seems appropriate to be launching  some [Australian domain names](https://iwantmyname.co.nz/domains/com.au-australian-domain-name-registration-for-australia) on [iwantmyname](https://iwantmyname.com.au/) during ANZAC week. 
+New Zealand and Australia have a long tradition of mateship arising from a shared cultural context and solid friendships forged in the fields of past conflicts. Not only do we share a notable military history, but we also have close [business](http://geniusnet.blogtown.co.nz/2013/04/23/queensland-tech-scene/) and political links with our "cousins" across the Tasman Sea. So, after a long wait, it seems appropriate to be launching  some [Australian domain names](https://iwantmyname.co.nz/domains/com.au-australian-domain-name-registration-for-australia) on [iwantmyname](http://iwantmyname.com.au/) during ANZAC week. 
 
 With well over 2 million .AU domains registered, the Aussie registry has seen phenomenal growth over the previous decade. But unlike most domains, registrants for these domains must provide documentary proof of a right to register. We've had to make a few changes to allow for this in our processes, but are very pleased to finally have some Aussie domains on our menu of over 100 [global domains](https://iwantmyname.co.nz/domains). 
 
