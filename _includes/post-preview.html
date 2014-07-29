@@ -5,7 +5,7 @@
 	<small class="date">{{ post.date | date:'%B %-d, %Y' }}</small>
 
 	{% if author %}
-		<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name }}" title="{{ author.name }}"></a>
+		<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name | xml_escape  }}" title="{{ author.name | xml_escape  }}"></a>
 	{% endif %}
 
 	<h1 class="title">
@@ -13,7 +13,7 @@
 	</h1>
 	
 	{% if post.header_image %}
-		<p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.images_url }}/{{ post.header_image }}"></a></p>
+		<p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.images_url }}/{{ post.header_image }}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></a></p>
 	{% endif %}
 	{% if post.guest_author %}
 		<p class="small text-muted">The following is a guest post written by {{ author.name }}.</p>
