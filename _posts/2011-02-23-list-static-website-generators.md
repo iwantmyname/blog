@@ -43,8 +43,8 @@ Sometimes, all a geek needs is a quick way to generate a static site and put it 
 25. [Poole](http://bitbucket.org/obensonne/poole): Markdown driven static website generator with basic support for content generation by embedding Python code in page source files.
 26. [Pubtal](http://www.owlfish.com/software/PubTal/): Supports the authoring of web page content in several formats (e.g. text files, OpenOffice), uses templates written in TAL, and builds static HTML files.
 27. [Sphinx](http://sphinx.pocoo.org/): Creates HTML (including Windows HTML Help), LaTeX (for printable PDF versions), manual pages, plain text.
-28. [StaticMatic](http://staticmatic.rubyforge.org/): Static websites, the modern way.
-29. [Static](http://static.newqdev.com/): Write plain HTML sites.
+28. [StaticMatic](http://archived.link/http://staticmatic.rubyforge.org/): Static websites, the modern way.
+29. [Static](http://archived.link/http://static.newqdev.com/): Write plain HTML sites.
 30. [Vee](http://www.0x743.com/vee): Command line blog tool that is very portable across Unix systems.
 31. [Webby](http://webby.rubyforge.org/): Let's you choose your favorite templating language: ERB, Textile, Markdown, HAML or SASS. Just HTML, no special server requirements.
 32. [Webgen](http://webgen.rubyforge.org/): Free (GPL-licensed) command line application for generating static websites.
