@@ -28,16 +28,16 @@ Sometimes, all a geek needs is a quick way to generate a static site and put it 
 10. [Jekyll](http://github.com/mojombo/jekyll/tree/master): A simple, blog aware, static site generator.
 11. [Jinja](http://jinja.pocoo.org/): Jinja2 is a full featured template engine for Python. It has full unicode support, an optional integrated sandboxed execution environment, widely used and BSD licensed.
 12. [Korma](http://github.com/sandal/korma): Git based blog.
-13. [Lanyon](http://bitbucket.org/arthurk/lanyon/): Static site generator written in Python and licensed under the BSD license.
+13. [Lanyon](http://archived.link/http://bitbucket.org/arthurk/lanyon/): Static site generator written in Python and licensed under the BSD license.
 14. [Mako](http://www.makotemplates.org/): Template library written in Python.
 15. [Markdoc](http://markdoc.org/): Markdown-based wiki system. Allows you to create and manage wikis as quickly and easily as possible.
-16. [Middleman](http://github.com/tdreyno/middleman): Static site generator utilizing Haml, Sass, Less & Coffee Script and providing JS/CSS compression, image compression and cache busting.
+16. [Middleman](http://archived.link/http://github.com/tdreyno/middleman): Static site generator utilizing Haml, Sass, Less & Coffee Script and providing JS/CSS compression, image compression and cache busting.
 17. [nanoc](http://nanoc.stoneship.org/): Ruby web publishing system for building small to medium-sized websites.
 18. [Pagegen](http://pagegen.phnd.net/): Creates web sites from flat text files and directories. Great for managing sites from the command line.
 19. [Stacey](http://www.staceyapp.com/): Lightweight content management system. No database setup or installation files, simply drop the application on a server and it runs.
-20. [Tahchee](http://www.ivy.fr/tahchee/): Tool for developers and Web designers that makes it possible to easily build a static Web site using the Cheetah template system.
+20. [Tahchee](http://archived.link/http://www.ivy.fr/tahchee/): Tool for developers and Web designers that makes it possible to easily build a static Web site using the Cheetah template system.
 21. [Templeet](http://templeet.org/): Allows you to create photo galleries, news systems, personal sites, blogs, etc. generating HTML, CSS, SVG pictures, SMIL, and any kind of text files.
-22. [Toto](http://cloudhead.io/toto): Git-powered, minimalist blog engine for the hackers of Oz. Wizards? Hackers. Wizards. No? Yes, hackers!
+22. [Toto](http://archived.link/http://cloudhead.io/toto): Git-powered, minimalist blog engine for the hackers of Oz. Wizards? Hackers. Wizards. No? Yes, hackers!
 23. [ttree](http://template-toolkit.org/docs/tools/ttree.html): Template-toolkit based solution.
 24. [Pelican](http://github.com/ametaireau/pelican/): Weblog generator, written in python with a cli-tool to (re)generate the site. Completely static output, so easy to host anywhere.
 25. [Poole](http://bitbucket.org/obensonne/poole): Markdown driven static website generator with basic support for content generation by embedding Python code in page source files.
@@ -46,7 +46,7 @@ Sometimes, all a geek needs is a quick way to generate a static site and put it 
 28. [StaticMatic](http://archived.link/http://staticmatic.rubyforge.org/): Static websites, the modern way.
 29. [Static](http://archived.link/http://static.newqdev.com/): Write plain HTML sites.
 30. [Vee](http://www.0x743.com/vee): Command line blog tool that is very portable across Unix systems.
-31. [Webby](http://webby.rubyforge.org/): Let's you choose your favorite templating language: ERB, Textile, Markdown, HAML or SASS. Just HTML, no special server requirements.
+31. [Webby](http://archived.link/http://webby.rubyforge.org/): Let's you choose your favorite templating language: ERB, Textile, Markdown, HAML or SASS. Just HTML, no special server requirements.
 32. [Webgen](http://webgen.rubyforge.org/): Free (GPL-licensed) command line application for generating static websites.
 
 Let us know in the comments if you know any other static site generators and we will add it to the above list.
@@ -54,5 +54,5 @@ Let us know in the comments if you know any other static site generators and we 
 This list was compiled from the following sources:
 
 - [http://ruby-toolbox.com/categories/static_website_generation.html](http://ruby-toolbox.com/categories/static_website_generation.html)
-- [http://stackoverflow.com/questions/186290/best-static-website-generator](http://stackoverflow.com/questions/186290/best-static-website-generator)
+- [http://stackoverflow.com/questions/186290/best-static-website-generator](http://archived.link/http://stackoverflow.com/questions/186290/best-static-website-generator)
 - [http://wiki.python.org/moin/Templating](http://wiki.python.org/moin/Templating)
