@@ -17,7 +17,7 @@ This week is a big one for the gTLD rollout, with a massive eight new domain ext
 
 [From BBC News:](http://www.bbc.com/news/blogs-news-from-elsewhere-26576617)
 
-> Companies or individuals based in the German capital will be able to use .berlin at the end of their website addresses from 18 March, the [dpa news agency reports](http://www.sueddeutsche.de/news/wirtschaft/internet-berlin-geht-mit-eigener-staedte-domain-online-dpa.urn-newsml-dpa-com-20090101-140314-99-01746). The suffix - technically known as a generic top-level domain (gTLD) - was created under an agreement between Berlin's local government and ICANN, the US-based organisation that co-ordinates global internet systems.
+> Companies or individuals based in the German capital will be able to use .berlin at the end of their website addresses from 18 March, the [dpa news agency reports](http://archived.link/http://www.sueddeutsche.de/news/wirtschaft/internet-berlin-geht-mit-eigener-staedte-domain-online-dpa.urn-newsml-dpa-com-20090101-140314-99-01746). The suffix - technically known as a generic top-level domain (gTLD) - was created under an agreement between Berlin's local government and ICANN, the US-based organisation that co-ordinates global internet systems.
 > 
 > After Berlin, cities including London, Paris, New York, Johannesburg and Japanese city Nagoya will launch their own domains. The .london suffix will become available in April. A single website with the ending .wien, representing the Austrian capital Vienna, has been live since early March but public registration for that gTLD does not open until July. 
 

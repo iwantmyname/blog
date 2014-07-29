@@ -12,7 +12,7 @@ search:
 
 Canadians spend more time online than any other country—45.6 hours per month—[according to CIRA](http://www.cira.ca/factbook/2013/canada-online.html). So it's not surprising that [three-quarters of Canadians research purchases online](http://globalnews.ca/news/1215210/small-businesses-need-to-expand-web-presence/).
 
-What is surprising, then, is that [as this article states](http://globalnews.ca/news/1215210/small-businesses-need-to-expand-web-presence/), only 45.5 percent of Canadian small businesses are online. (41 percent have a website, specifically.) It's safe to say even fewer have a mobile-friendly web presence, despite the explosion in smartphone popularity and mobile usage. And despite having nearly [ten times the population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html), [the stats in the United States are similar](http://www.inforum.com/event/article/id/429783/group/homepage/).
+What is surprising, then, is that [as this article states](http://globalnews.ca/news/1215210/small-businesses-need-to-expand-web-presence/), only 45.5 percent of Canadian small businesses are online. (41 percent have a website, specifically.) It's safe to say even fewer have a mobile-friendly web presence, despite the explosion in smartphone popularity and mobile usage. And despite having nearly [ten times the population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html), [the stats in the United States are similar](http://archived.link/http://www.inforum.com/event/article/id/429783/group/homepage/).
 
 <!-- /excerpt -->
 

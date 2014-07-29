@@ -10,7 +10,7 @@ title: An interview with Frank Schilling about Uniregistry, .SEXY, .TATTOO and n
 
 {% include youtube.html id="p75KeJN9D0E" %}
 
-There are domain registries, and there are domain registries with ambitious founders located in the Cayman Islands. Much to the enjoyment of the likely tan staff at [Uniregistry](http://uniregistry.com/home), they are in the latter.
+There are domain registries, and there are domain registries with ambitious founders located in the Cayman Islands. Much to the enjoyment of the likely tan staff at [Uniregistry](http://uniregistry.com/), they are in the latter.
 
 Launched to the public in 2014, Uniregistry has seven domain extensions coming out this year, including [.LINK](https://iwantmyname.com/domains/dot-link), [.GIFT](https://iwantmyname.com/domains/dot-gift) (offered by Dot Gift, LLC), [.GUITARS](https://iwantmyname.com/domains/dot-guitars), [.PICS](https://iwantmyname.com/domains/dot-pics), [.PHOTO](https://iwantmyname.com/domains/dot-photo), and two that were just released yesterday—[.SEXY](https://iwantmyname.com/domains/dot-sexy) and [.TATTOO](https://iwantmyname.com/domains/dot-tattoo).
 
