@@ -31,6 +31,6 @@ Overseas delegates at the summit have been learning a great deal about New Zeala
 
 [Loomio](http://loomio.org/) is an open web-based tool that enables participative decision-making for organisations. Loomio team members played a big role in the lively panel session on 'Growing Up Digital' at the close of day two.
 
-[PocketJobs](http://pocket.jobs/) didn't feature at Digital Earth, but it's a nice example of an application that not only solves a problem but builds a social community that actually generates some real value. PocketJobs makes it easy to match 'micro-task' offers with willing workers.
+[PocketJobs](http://archived.link/http://pocket.jobs/) didn't feature at Digital Earth, but it's a nice example of an application that not only solves a problem but builds a social community that actually generates some real value. PocketJobs makes it easy to match 'micro-task' offers with willing workers.
 
 iwantmyname is a global domain registrar providing internet infrastructure that enables [next generation apps](https://iwantmyname.com/services). We also support community based initiatives that promote entrepreneurship and positive environmental and social outcomes through the intelligent use of technology.
