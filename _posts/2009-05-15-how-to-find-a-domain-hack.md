@@ -18,7 +18,7 @@ tags:
 
 ---
 
-While many domain names under .COM and country code top-level domains are already taken, domain hacks are a good alternative to express yourself** **on the web. Wait, domain hack? Does that mean something bad? No, [according to Wikipedia](http://domai.nr/) a domain hack is "an unconventional domain name that combines domain levels, especially the top-level domain (TLD), to spell out the full "name" or title of the domain, making a kind of pun."
+While many domain names under .COM and country code top-level domains are already taken, domain hacks are a good alternative to express yourself** **on the web. Wait, domain hack? Does that mean something bad? No, [according to Wikipedia](http://en.wikipedia.org/wiki/Domain_hack) a domain hack is "an unconventional domain name that combines domain levels, especially the top-level domain (TLD), to spell out the full "name" or title of the domain, making a kind of pun."
 
 Let's have a look at some examples:
 
@@ -48,7 +48,7 @@ There are two main reasons to get a domain hack. First of all it's fun. Secondly
 
 **Which domain extensions are suitable for domain hacks?**
 
-We'd say pretty much all except the ones you can't register because the country's internet address is not operational (imagine all the possibilities you would have with the Eritrean domain extension .ER) or there are other restrictions in place. Alledia's [Beginners Guide To Domain Hacks](http://www.alledia.com/blog/domain-names/a-beginners-guide-to-domain-hacks/) offers a good overview of the meaning for most country extensions.
+We'd say pretty much all except the ones you can't register because the country's internet address is not operational (imagine all the possibilities you would have with the Eritrean domain extension .ER) or there are other restrictions in place. Alledia's [Beginners Guide To Domain Hacks](http://archived.link/http://www.alledia.com/blog/domain-names/a-beginners-guide-to-domain-hacks/) offers a good overview of the meaning for most country extensions.
 
 iWantMyName is currently running a promotion for some of the more popular domain hack extensions. The ["brandtastic" country codes](http://blog.iwantmyname.com/2009/05/special-price-offer-brandable-domain-extensions.html) .IN (India), .AT (Austria), .BE (Belgium) & .IM (Isle Of Man) are available for $US 14.90 only! See our [domain list](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) for more details.
 
