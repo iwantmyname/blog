@@ -12,7 +12,7 @@ install:
 
 script:
   - bundle exec "jekyll build --drafts"
-  - bundle exec "htmlproof ./_site --verbose"
+  - rake test
 
 notifications:
   email: false
