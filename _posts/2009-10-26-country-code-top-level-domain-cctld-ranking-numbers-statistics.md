@@ -60,4 +60,4 @@ Below is a handy reference list showing which ccTLDs are most popular:
 34.  .HK (Hongkong) - 178,000
 35.  .TR (Turkey) - 133,000
 
-Source: [DomainesInfo Statistiques](http://www.domainesinfo.fr/statistiques.php "DomainesInfo Statistiques")
+Source: [DomainesInfo Statistiques](http://archived.link/http://www.domainesinfo.fr/statistiques.php "DomainesInfo Statistiques")
