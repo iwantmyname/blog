@@ -4,6 +4,8 @@ rvm:
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - export CURLOPT_TIMEOUT=60
+  - export CURLOPT_CONNECTTIMEOUT=10
 
 install:
   - bundle install
