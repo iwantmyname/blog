@@ -24,7 +24,7 @@ There were a lot of new gTLD initiatives popping up lately and there will be man
 
 *   [.AFRICA](http://dotafrica.blogspot.com/), [.AFRICA](http://www.dotafrica.org/) (African community)
 *   .ARAB (Arabic language)
-*   [.ARTIST](http://serointl.com/) (For artists)
+*   [.ARTIST](http://archived.link/http://serointl.com/) (For artists)
 *   [.BAY](http://www.dotbay.org/) (The Bay Area, US)
 *   [.BAYERN](http://www.dotbayern.de/) (Bavaria, Germany)
 *   [.BCN](http://www.bcn.cat/) (Barcelona, Spain)
@@ -47,7 +47,7 @@ There were a lot of new gTLD initiatives popping up lately and there will be man
 *   [.HAMBURG](http://www.dothamburg.de/) (Hamburg, Germany)
 *   [.HEALTH](http://www.dothealth.eu/)
 *   [.HOTEL](http://hotel-tld.de/)
-*   [.HOMES](http://serointl.com/)
+*   [.HOMES](http://archived.link/http://serointl.com/)
 *   [.INDIGI](http://www.dotindigi.com/) (For indigenous people)
 *   [.KER](http://www.dotker.org/) (Cornwall, United Kingdom)
 *   [.KÖLN](http://www.dotkoeln.de/) (Cologne, Germany)
