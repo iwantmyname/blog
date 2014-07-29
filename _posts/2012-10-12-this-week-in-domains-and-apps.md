@@ -12,7 +12,7 @@ What we've stumbled upon this week at iwantmyname:
 
 - [Tumblr introduces a new app for publishing photo sets](http://staff.tumblr.com/post/33365102264/today-we-are-proud-to-introduce-photoset-a-new)
 
-- [Google Apps alternative Zoho integrates Sites with Zoho Mail](http://www.zoho.com/announcements/blog/announcement-zoho-sites-is-now-integrated-with-zoho-mail.html)
+- [Google Apps alternative Zoho integrates Sites with Zoho Mail](http://archived.link/http://www.zoho.com/announcements/blog/announcement-zoho-sites-is-now-integrated-with-zoho-mail.html)
 
 - [Doh! Registrar accidentally shuts down Twitters t.co link shortener](http://domainnamewire.com/2012/10/09/doh-melbourne-it-accidentally-shut-down-twitters-t-co-link-shortener/)
 
