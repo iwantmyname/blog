@@ -16,7 +16,7 @@ tags:
 
 ---
 
-Kudos to the [Virb](http://virb.com) team who have just [relaunched their service](http://techcrunch.com/2010/08/16/virb-website-builder/) as a simple website creation tool. Virb allows you to easily make websites for personal use, create an online portfolio, promote your band and more. [Check out if the new Virb is for you](http://team.virb.com/post/944220088).
+Kudos to the [Virb](http://virb.com) team who have just [relaunched their service](http://techcrunch.com/2010/08/16/virb-website-builder/) as a simple website creation tool. Virb allows you to easily make websites for personal use, create an online portfolio, promote your band and more. [Check out if the new Virb is for you](http://archived.link/http://team.virb.com/post/944220088).
 
 ![virb-interface.png]({{ site.images_url }}/2010-08-17-virb-interface.png)
 

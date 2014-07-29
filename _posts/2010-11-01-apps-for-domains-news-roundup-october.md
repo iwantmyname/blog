@@ -15,7 +15,7 @@ Our monthly news digest for October 2010 covering the latest news from the recom
 
 - [bit.ly](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service) - is [running an API contest](http://blog.bit.ly/post/1307062006/its-a-bit-ly-api-contest) until November 18
 
-- [Goodsie](https://iwantmyname.com/services/ecommerce-hosting/simple-goodsie-custom-domain-setup) - more branding options and [improved digital product delivery](http://blog.goodsie.com/post/1351798768/custom-favicons-improved-digital-product-delivery-and)
+- [Goodsie](https://iwantmyname.com/services/ecommerce-hosting/simple-goodsie-custom-domain-setup) - more branding options and [improved digital product delivery](http://archived.link/http://blog.goodsie.com/post/1351798768/custom-favicons-improved-digital-product-delivery-and)
 
 - [Ning](https://iwantmyname.com/features/applications/custom-domain-apps/social-networks/ning-hosted-whitelabel-dns-setup) - gets an [API](http://blog.ning.com/2010/10/introducing-the-ning-api.html) and a [publishing plugin for Wordpress](http://blog.ning.com/2010/10/ning-publisher-for-wordpress.html)
 
