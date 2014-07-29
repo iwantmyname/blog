@@ -22,7 +22,7 @@ tags:
 
 ![pohu.jpg]({{ site.images_url }}/2012-12-18-pohu.jpg)
 
-From [Hobbits](http://blog.iwantmyname.com/2012/11/in-the-domain-of-middle-earth.html) to [hurricanes](http://blog.iwantmyname.com/2012/11/why-your-domain-survived-the-sandy-storm.html) to [Halloween](https://iwantmyname.co.nz/blog/2012/10/scared-bitless.html),
+From [Hobbits](http://blog.iwantmyname.com/2012/11/in-the-domain-of-middle-earth.html) to [hurricanes](http://blog.iwantmyname.com/2012/11/why-your-domain-survived-the-sandy-storm.html) to [Halloween](http://blog.iwantmyname.com/2012/10/scared-bitless.html),
  it has been a very full and challenging year here at iwantmyname. Now 
 with summer holidays approaching, rest assured that we'll be around to keep 
 an eye on your domains whilst you are at the beach.

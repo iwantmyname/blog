@@ -22,7 +22,7 @@ tags:
 
 ![lunch.jpg]({{ site.images_url }}/2012-09-21-lunch.jpg)
 
-Over the last couple of years at [iwantmyname](https://iwantmyname.co.nz/) we've loved playing a part in starting up Startup Weekend across New Zealand. We've provided technical and business mentorship, organiser team management resources, [prizes and cash sponsorship](https://iwantmyname.co.nz/blog/2012/07/wonderful-wellington-startup-w.html) - not to mention given away loads of free [domain names](https://iwantmyname.co.nz/domains). 
+Over the last couple of years at [iwantmyname](https://iwantmyname.co.nz/) we've loved playing a part in starting up Startup Weekend across New Zealand. We've provided technical and business mentorship, organiser team management resources, [prizes and cash sponsorship](http://blog.iwantmyname.com/2012/07/wonderful-wellington-startup-w.html) - not to mention given away loads of free [domain names](https://iwantmyname.co.nz/domains). 
 
 Judges at the recent [Tauranga Startup Weekend](http://tauranga.startupweekend.org/) reported that the final presentations were of the highest standard ever. That's a testament to all of the organisers, mentors, sponsors and participants who collaborate to bring each event to life. I'm sure we haven't seen the last of Sheldon Nesdale, Rowan Yeoman and the team, who did a fantastic job bringing it all together this time.
 
