@@ -30,7 +30,7 @@ ICANN's press conference is being streamed live [here](http://www.icann.org/en/n
 
 ### New Top-Level Domain List
 
-The full list including more information can also be found on [ICANN's website](https://gtldresult.icann.org/application-result/applicationstatus).
+The full list including more information can also be found on [ICANN's website](http://archived.link/https://gtldresult.icann.org/application-result/applicationstatus).
 
 - All TLD applications (Latin alphabet):
 
