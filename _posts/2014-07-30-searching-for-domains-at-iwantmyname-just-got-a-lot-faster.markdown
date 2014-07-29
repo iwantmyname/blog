@@ -6,9 +6,13 @@ title: "Searching for domains at iwantmyname just got a lot faster"
 
 ---
 
+<!-- excerpt -->
+
 ![new search]({{ site.images_url }}/2014-07-30-new-search.png)
 
 You rarely think about the cogs that make things work when you're browsing a site, but I'd like to direct your attention to our domain search—the big search bar on the homepage that lets you search for and buy domain names. 
+
+<!-- /excerpt -->
 
 The basic concept is a simple one. You type in a word, then our backend pings some servers and delivers a yes (available) or no (unavailable) for each top-level domain (TLD). A year ago, that wasn't such a big deal to manage, but once the new generic top-level domains (gTLDs) launched, the search quickly became a lumbering hulk. Every time you ran a search, hundreds of TLDs needed to be checked at once, and timeouts became more and more common. 
 
