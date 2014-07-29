@@ -21,7 +21,7 @@ tags:
 
 ![toolbox.jpg]({{ site.images_url }}/2011-09-07-toolbox.jpg)
 
-Fresh from the 3D scan and "make-off" [event](http://www.makers.org.nz/2011/08/15/3d-scan-and-print-showdown/), the Makers Movement is gathering steam in New Zealand - so to speak. Now the Makers are forging a [community](http://www.makers.org.nz/) to encourage [discussion](http://makers.org.nz/forums/) and collaboration amongst people who like to design and make stuff digitally. 
+Fresh from the 3D scan and "make-off" [event](http://www.makers.org.nz/2011/08/15/3d-scan-and-print-showdown/), the Makers Movement is gathering steam in New Zealand - so to speak. Now the Makers are forging a [community](http://www.makers.org.nz/) to encourage [discussion](http://archived.link/http://makers.org.nz/forums/) and collaboration amongst people who like to design and make stuff digitally. 
 
 Making and building things is in danger of becoming a lost art form as we become more and more reliant on pre-packaged, processed and pre-fabricated goods and with people spending more time with online entertainment. But the Maker community are fighting back.
 
