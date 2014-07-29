@@ -31,7 +31,7 @@ App Roundup is our monthly news digest covering the latest information from the 
 **MobileMe**
 
 
-*   [New MobileMe Mail with support for external email addresses](http://www.apple.com/mobileme/news/2010/06/the-new-mobileme-mail-available-to-all-members.html)
+*   [New MobileMe Mail with support for external email addresses](http://archived.link/http://www.apple.com/mobileme/news/2010/06/the-new-mobileme-mail-available-to-all-members.html)
 **Ning**
 
 
@@ -48,6 +48,6 @@ App Roundup is our monthly news digest covering the latest information from the 
 **Zoho**
 
 
-*   [Zoho Mail gets some new features](http://blogs.zoho.com/general/zoho-mail-gets-new-features)
+*   [Zoho Mail gets some new features](http://archived.link/http://blogs.zoho.com/general/zoho-mail-gets-new-features)
 *   [Affiliate program for Zoho apps launches](http://blogs.zoho.com/general/introducing-the-zoho-affiliate-program)
 iWantMyname customers can customize hosted web apps and services with their own domain names using our [easy domain setup service](https://iwantmyname.com/services).

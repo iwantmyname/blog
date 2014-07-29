@@ -21,5 +21,5 @@ More information about .MX and Mexico:
 *   Language: Spanish
 *   Total domains: approx. 300k
 *   Official registry: nic.mx
-Sources: [Wikipedia](http://en.wikipedia.org/wiki/Mexico), [DomainesInfo](http://domainesinfo.fr/statistiques.php)
+Sources: [Wikipedia](http://en.wikipedia.org/wiki/Mexico), [DomainesInfo](http://archived.link/http://domainesinfo.fr/statistiques.php)
 Start the [domain search](https://iwantmyname.com) for your .MX domain now.

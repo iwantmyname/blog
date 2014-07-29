@@ -37,7 +37,7 @@ Latest news from the most popular [web apps and services for your domains](https
 
 *   **[Flavors](http://flavors.me)**
 
-    Easy [website builder](https://iwantmyname.com/services/website-builder) Flavors introduces [new fonts](http://blog.hiidef.com/post/619915864/webfonts) using @font-face in HTML5.
+    Easy [website builder](https://iwantmyname.com/services/website-builder) Flavors introduces [new fonts](http://archived.link/http://blog.hiidef.com/post/619915864/webfonts) using @font-face in HTML5.
 
 *   **[Posterous](http://posterous.com)**
 
