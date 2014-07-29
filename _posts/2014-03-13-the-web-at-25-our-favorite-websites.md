@@ -40,7 +40,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [hypem.com](http://hypem.com/)
 + [twitter.com](http://twitter.com/)
 + [domaincite.com](http://domaincite.com/)
-+ [toucharcade.com](http://toucharcade/)
++ [toucharcade.com](http://toucharcade.com/)
 
 > When I'm not working on iwantmyname stuff, it's really more about consuming content, or even better, not spending time in front of a screen at all.
 
