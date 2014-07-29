@@ -17,7 +17,7 @@ categories:
 
 [Generic top-level domains (gTLDs)](https://iwantmyname.com/domains/new-gtld-domain-extensions) are going to rule the internet one day. .BLOG, .DOCTOR, .CLUB, .NYC. The fact that the internet of today is completely dominated by .COM is really just an availability fluke. It's what people are used to. But it doesn't take a ton of imagination to see how targeting your domain name to a specific category would make for a more useful web. 
 
-So today, [Donuts Inc.](http://archived.link/http://www.donuts.co), an extremely well-funded registry that "has applied for more than 300 TLDs and intends to secure and operate each," has announced the eminent general availability of seven new gTLDs. And it's a big deal for a number of reasons. One, these are amongst the first gTLDs announced for general availability. And whether you're interested in the names or not, they're part of the first true tide-change of internet naming.
+So today, [Donuts Inc.](http://www.donuts.co), an extremely well-funded registry that "has applied for more than 300 TLDs and intends to secure and operate each," has announced the eminent general availability of seven new gTLDs. And it's a big deal for a number of reasons. One, these are amongst the first gTLDs announced for general availability. And whether you're interested in the names or not, they're part of the first true tide-change of internet naming.
 
 Without further ado, here are the new gTLDs:
 
