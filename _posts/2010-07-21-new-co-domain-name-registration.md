@@ -32,7 +32,7 @@ You could also follow Twitter's example which registered the t.co domain name fo
 
 
 *   [265 .Co Domains That Weren't Registered in Landrush](http://domainnamewire.com/2010/07/18/265-co-domains-that-werent-registered-in-landrush/)
-*   [233 U.S. Cities Over 100,000 Population Available to Register As .CO Domains](http://www.dotsauce.com/2010/07/18/us-cities-over-100000-population/)
+*   [233 U.S. Cities Over 100,000 Population Available to Register As .CO Domains](http://archived.link/http://www.dotsauce.com/2010/07/18/us-cities-over-100000-population/)
 
 Maybe there's one or the other neat domain hack that's interesting for you too: [words ending with 'co'](http://www.morewords.com/ends-with/co/)
 
