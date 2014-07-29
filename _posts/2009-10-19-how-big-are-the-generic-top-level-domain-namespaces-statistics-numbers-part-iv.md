@@ -22,7 +22,7 @@ Part 4 of our *Domain Statistics & Numbers* article series breaks down the size 
 
 A useful resource for these domain name statistics is the [ICANN Dashboard](http://www.icann.org/idashboard/public/ "ICANN Public Dashboard") which provides an interactive timeline on the growth of generic TLDs.
 
-[.AERO - .MOBI interactive timeline](http://idashboard.icann.org/idashboards/engine.swf?dashID=159&serverURL=http://idashboard.icann.org/idashboards&guest=icannguest ".AERO - .MOBI domain name statistics") or click for larger view:
+[.AERO - .MOBI interactive timeline](http://archived.link/http://idashboard.icann.org/idashboards/engine.swf?dashID=159&serverURL=http://idashboard.icann.org/idashboards&guest=icannguest ".AERO - .MOBI domain name statistics") or click for larger view:
 
 ![gtld registration numbers]({{ site.images_url }}/2009-10-19-gtld-registration-numbers1-thumb-450x314-18.png)
 
