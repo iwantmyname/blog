@@ -36,7 +36,7 @@ There were a lot of new gTLD initiatives popping up lately and there will be man
 *   [.DELOITTE](http://archived.link/http://www.markmonitor.com/download/webinar/webinar-080930-deloitte.pdf)
 *   [.ECO](http://www.doteco.info/), [.ECO](http://www.dotecotld.com/) (Ecological)
 *   [.ENG](http://www.doteng.org/) (England)
-*   [.EUS](http://www.blogak.com/martinhalty/lortu-dezagun-eus) (Basque)
+*   [.EUS](http://archived.link/http://www.blogak.com/martinhalty/lortu-dezagun-eus) (Basque)
 *   [.FAM](http://archived.link/http://familytld.org/), [.FAM](http://www.dotfam.net/) (Family)
 *   .FOOD
 *   [.FRA](http://archived.link/http://www.corefra.org/) (French Language)
@@ -100,5 +100,3 @@ Sources:
 [http://twitter.com/ntlds](http://twitter.com/ntlds)
 
 **Update 1**: Added .BAY, .BLOG, .CAR, .DELOITTE, .FOOD, .ROMA, .SHOP, .SURF
-[domains](http://technorati.com/tag/domains), [icann](http://technorati.com/tag/icann), 
-[new top-level-domains](http://technorati.com/tag/new-top-level-domains)
