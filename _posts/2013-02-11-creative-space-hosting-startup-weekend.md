@@ -20,7 +20,7 @@ tags:
 
 ![swwlg2013.png]({{ site.images_url }}/2013-02-11-swwlg2013.png)
 
-[Wellington Startup Weekend](http://wellington.startupweekend.org/) kicks off the 2013 round of New Zealand events at a fantastic venue in the newly opened [College of Creative Arts building](http://www.massey.ac.nz/massey/learning/colleges/college-creative-arts/about/events/new-college-building-progress/new-college-of-creative-arts-building.cfm) on the Massey University campus. Of course iwantmyname is continuing to support Startup Weekend, as the initiative continues to grow in New Zealand. 
+[Wellington Startup Weekend](http://wellington.startupweekend.org/) kicks off the 2013 round of New Zealand events at a fantastic venue in the newly opened [College of Creative Arts building](http://archived.link/http://www.massey.ac.nz/massey/learning/colleges/college-creative-arts/about/events/new-college-building-progress/new-college-of-creative-arts-building.cfm) on the Massey University campus. Of course iwantmyname is continuing to support Startup Weekend, as the initiative continues to grow in New Zealand. 
 
 This weekend's event differs slightly in that it begins on Saturday evening 16th February, in order to dovetail nicely with world class design fest Webstock. So it will be our pleasure to shout a few drinks at the event launch as well as offer each team a free .com, .net, .org, or .nz [domain name](https://iwantmyname.co.nz/domains) for their project if needed. Some of the [iwantmyname team](https://iwantmyname.co.nz/about) will also be on hand to help out with mentoring throughout the weekend.
 
