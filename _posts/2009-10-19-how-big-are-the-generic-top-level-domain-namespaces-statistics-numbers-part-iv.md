@@ -26,7 +26,7 @@ A useful resource for these domain name statistics is the [ICANN Dashboard](http
 
 ![gtld registration numbers]({{ site.images_url }}/2009-10-19-gtld-registration-numbers1-thumb-450x314-18.png)
 
-[.MUSEUM - .TRAVEL interactive timeline](http://idashboard.icann.org/idashboards/engine.swf?dashID=160&serverURL=http://idashboard.icann.org/idashboards&guest=icannguest ".MUSEUM - .TRAVEL domain statistics ICANN") or click for larger view:
+[.MUSEUM - .TRAVEL interactive timeline](http://archived.link/http://idashboard.icann.org/idashboards/engine.swf?dashID=160&serverURL=http://idashboard.icann.org/idashboards&guest=icannguest ".MUSEUM - .TRAVEL domain statistics ICANN") or click for larger view:
 
 ![gtld registration statistics]({{ site.images_url }}/2009-10-19-gtld-registration-statistics2-thumb-450x314-21.png)
 
@@ -53,4 +53,4 @@ The number of registered gTLDs and their ranking is as follows:
 
 **Total number of generic domain extensions (September 2009): 111.3 million**
 
-Sources: [DomainesInfo Statistiques](http://www.domainesinfo.fr/statistiques.php "DomainesInfo Statistiques"), [ICANN Dashboard](http://www.icann.org/idashboard/public/ "ICANN Public Dashboard")
+Sources: [DomainesInfo Statistiques](http://archived.link/http://www.domainesinfo.fr/statistiques.php "DomainesInfo Statistiques"), [ICANN Dashboard](http://www.icann.org/idashboard/public/ "ICANN Public Dashboard")
