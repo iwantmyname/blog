@@ -20,7 +20,7 @@ tags:
 
 ![kiwi.jpg]({{ site.images_url }}/2012-09-13-kiwi.jpg)
 
-It may be a small flightless bird with poor eyesight, but our national symbol has proven to be a popular choice amongst New Zealand domain name fans. Over 1500 [.KIWI.NZ domains](http://blog.iwantmyname.com/2012/09/New-kiwinz-domain-stretches-wings.html) were registered in the first hour of sales when the plucky little bird was released into the wild this week. 
+It may be a small flightless bird with poor eyesight, but our national symbol has proven to be a popular choice amongst New Zealand domain name fans. Over 1500 [.KIWI.NZ domains](https://iwantmyname.com/domains/kiwi.nz-kiwi-domain-name-registration-for-new-zealand) were registered in the first hour of sales when the plucky little bird was released into the wild this week. 
 
 Creation of the domain within the [.NZ family](https://iwantmyname.co.nz/domains/co.nz-kiwi-domain-name-registration-for-new-zealand) puts a blow torch on the [dot Kiwi registry](http://blog.iwantmyname.com/2012/01/dot-kiwi-domain-takes-flight.html) which began a lengthy and expensive accreditation process for a new top level domain through ICANN earlier this year ([register your interest for .KIWI](https://iwantmyname.co.nz/dotkiwi)).
 
