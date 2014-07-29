@@ -44,7 +44,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 
 > When I'm not working on iwantmyname stuff, it's really more about consuming content, or even better, not spending time in front of a screen at all.
 
-**Melanie Baker - [@melle](https://twitter.com/melle‎):**
+**Melanie Baker - [@melle](https://twitter.com/melle):**
 
 + [medium.com](http://medium.com/)
 + [feverbee.com](http://feverbee.com/)
@@ -62,7 +62,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [stackoverflow.com](http://stackoverflow.com/)
 + [twitter.com](http://twitter.com/)
 + [everything2.org](http://everything2.org/)
-+ [bash.org/?random](http://bash.org/?random/)
++ [bash.org/?random](http://bash.org/?random)
 
 **Lenz Gschwendtner - [@norbu09](https://twitter.com/norbu09):**
 
