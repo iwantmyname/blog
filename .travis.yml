@@ -9,8 +9,8 @@ install:
   - bundle install
 
 script:
-  - bundle exec jekyll build --drafts
-  - bundle exec htmlproof ./_site
+  - bundle exec "jekyll build --drafts"
+  - bundle exec "htmlproof ./_site --verbose"
 
 notifications:
   email: false
