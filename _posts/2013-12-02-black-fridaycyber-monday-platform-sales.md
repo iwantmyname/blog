@@ -32,10 +32,10 @@ And if you know of a sale we're missing, definitely let us know in the comments.
 
 [500px](https://500px.com/upgrade) - Get an automatic 30% off an Awesome or Plus account until December 2. 
 
-[Storenvy](http://www.storenvy.com/sales/black-friday-through-cyber-monday-sale/) - Not a sale on setting up your own store, but you can get 30% off selected goods from Storenvy stores until December 2. 
+[Storenvy](http://archived.link/http://www.storenvy.com/sales/black-friday-through-cyber-monday-sale/) - Not a sale on setting up your own store, but you can get 30% off selected goods from Storenvy stores until December 2. 
 
 [WP Engine](http://bit.ly/1hn86gg) - $150 off WP Engines Premium Managed WordPress hosting. Contact for pricing details.
 
-[DudaMobile](http://www.dudamobile.com/blackfriday) - Get $20 off premium annual plans, and $60 off annual partner subscriptions until December 2. 
+[DudaMobile](http://archived.link/http://www.dudamobile.com/blackfriday) - Get $20 off premium annual plans, and $60 off annual partner subscriptions until December 2. 
 
 [SmugMug](http://www.smugmug.com/thanksgiving-sale) - 40% off new annual subscriptions until December 2.
