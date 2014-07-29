@@ -39,7 +39,7 @@ We also have a very small native market; to put it in perspective there are more
 
 As SaaS becomes more and more prevalent and SMBs take on a best-of-breed approach to SaaS, there are a lot of these light-weight apps and integrations happening. Our platform is ideal for connecting to an API and adding value through a well designed user interface with a Hoist backend.
 
-**iwmn:** We see that you've [recently added](https://blog.hoi.io/ship-day-new-hoist-features/) buckets and connectors  to Hoist--what kinds of upgrades/additions are you guys working on next?
+**iwmn:** We see that you've [recently added](http://hoistapps.com/blog/ship-day-new-hoist-features/) buckets and connectors  to Hoist--what kinds of upgrades/additions are you guys working on next?
 
 **Owen:** We're working on making application upload better (we're aware our current file upload solution was a bit janky; integrations such as Github and Dropbox will make that better), adding APIs for GeoOp, WorkflowMax and others as well as some work on building an API to make SaaS billing much easier for small businesses.
 
