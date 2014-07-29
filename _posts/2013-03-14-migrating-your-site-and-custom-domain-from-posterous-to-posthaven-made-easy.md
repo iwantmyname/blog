@@ -38,7 +38,7 @@ If your Posterous site was set up on the naked domain and 'www' subdomain, you h
 - 54.235.156.25 (A record for the naked domain)
 - posthaven.com (CNAME for the 'www' subdomain)
 
-You can also find a detailed description in [Posthaven's FAQ](http://posthaven.com/help/customdomain).
+You can also find a detailed description in [Posthaven's FAQ](http://archived.link/http://posthaven.com/help/customdomain).
 
 For domains registered with iwantmyname, we offer all this as an easy 1-click service from the "Setup" tab in your personal dashboard. Simply select Posthaven from the app marketplace and you're all done.
 
