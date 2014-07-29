@@ -34,7 +34,7 @@ But it doesn't stop here! You can move some popular domains such as .IO, .IM or 
 
 * [.AC (Ascension Island)](https://iwantmyname.com/domains/ac-domain-registrar-transfer-ascension-island)
 * [.AT (Austria)](https://iwantmyname.com/domains/at-domain-registrar-transfer-austria)
-* **[.CO.NZ (New Zealand)](https://iwantmyname.com/domains/co.nz-domain-registrar-transfer-new-zealand)**, [.NET.NZ](https://iwantmyname.com/domains/net.nz-domain-registrar-transfer-new-zealand), [.ORG.NZ](https://iwantmyname.com/domains/org.nz-domain-registrar-transfer-new-zealand), [.MAORI.NZ](), [.GEEK.NZ](https://iwantmyname.com/domains/geek.nz-domain-registrar-transfer-new-zealand), & [.SCHOOL.NZ](https://iwantmyname.com/domains/school.nz-domain-registrar-transfer-new-zealand)
+* **[.CO.NZ (New Zealand)](https://iwantmyname.com/domains/co.nz-domain-registrar-transfer-new-zealand)**, [.NET.NZ](https://iwantmyname.com/domains/net.nz-domain-registrar-transfer-new-zealand), [.ORG.NZ](https://iwantmyname.com/domains/org.nz-domain-registrar-transfer-new-zealand), [.MAORI.NZ](https://iwantmyname.com/domains/maori.nz-domain-name-registration-for-new-zealand), [.GEEK.NZ](https://iwantmyname.com/domains/geek.nz-domain-registrar-transfer-new-zealand), & [.SCHOOL.NZ](https://iwantmyname.com/domains/school.nz-domain-registrar-transfer-new-zealand)
 * [.IM (Isle Of Man)](https://iwantmyname.com/domains/im-domain-registrar-transfer-isle-of-man)
 * **[.IO (British Indian Ocean Territory)](https://iwantmyname.com/domains/io-domain-registrar-transfer-british-indian-ocean-territory)**
 * [.LA (Laos / Los Angeles)](https://iwantmyname.com/domains/la-domain-registrar-transfer-laos)
