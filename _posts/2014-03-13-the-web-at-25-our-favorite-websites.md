@@ -84,7 +84,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 
 > I usually check stuff.co.nz and spon.de for news once a day, but wouldn't say these are my favourite sites. It's rather a habit.
 
-**Chris Hall - [@hashtaghall](https://twitter.com/hashtaghall‎):**
+**Chris Hall - [@hashtaghall](https://twitter.com/hashtaghall):**
 
 + [techmeme.com](http://techmeme.com/)
 + [producthunt.co](http://producthunt.co/)
