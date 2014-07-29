@@ -47,7 +47,7 @@ Sometimes, all a geek needs is a quick way to generate a static site and put it 
 29. [Static](http://archived.link/http://static.newqdev.com/): Write plain HTML sites.
 30. [Vee](http://www.0x743.com/vee): Command line blog tool that is very portable across Unix systems.
 31. [Webby](http://archived.link/http://webby.rubyforge.org/): Let's you choose your favorite templating language: ERB, Textile, Markdown, HAML or SASS. Just HTML, no special server requirements.
-32. [Webgen](http://webgen.rubyforge.org/): Free (GPL-licensed) command line application for generating static websites.
+32. [Webgen](http://archived.link/http://webgen.rubyforge.org/): Free (GPL-licensed) command line application for generating static websites.
 
 Let us know in the comments if you know any other static site generators and we will add it to the above list.
 
