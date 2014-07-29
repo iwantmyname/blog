@@ -53,6 +53,6 @@ Let us know in the comments if you know any other static site generators and we 
 
 This list was compiled from the following sources:
 
-- [http://ruby-toolbox.com/categories/static_website_generation.html](http://ruby-toolbox.com/categories/static_website_generation.html)
+- [http://ruby-toolbox.com/categories/static_website_generation.html](http://archived.link/http://ruby-toolbox.com/categories/static_website_generation.html)
 - [http://stackoverflow.com/questions/186290/best-static-website-generator](http://archived.link/http://stackoverflow.com/questions/186290/best-static-website-generator)
 - [http://wiki.python.org/moin/Templating](http://wiki.python.org/moin/Templating)

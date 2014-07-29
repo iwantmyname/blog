@@ -37,7 +37,7 @@ Here's a bunch of article links that we thought might be useful for the entrepre
 6.[ Riding The Wave](http://geniusnet.blogtown.co.nz/2011/03/10/riding-the-wave/) - Paul Spence
 7. [The Age of Relevance](http://techcrunch.com/2011/03/03/the-age-of-relevance/) - Mahendra Palsule
 8. [Reid Hoffman's 10 Rules of Entrepreneurship](http://venturebeat.com/2011/03/15/reid-hoffman-10-rules-of-entrepreneurship/) - Anthony Ha
-9. [Contrast](http://www.contrast.ie/blog/wireframing-for-web-apps/) - A Great Design & Usability Blog
+9. [Contrast](http://archived.link/http://www.contrast.ie/blog/wireframing-for-web-apps/) - A Great Design & Usability Blog
 10. [If I launched A Startup](http://startuplawyer.com/startup-issues/if-i-launched-a-startup) - Startup Lawyer
 
 But for all the wisdom and buzz encapsulated by great blog articles and cool events for entrepreneurs, there's nothing like just getting out there and doing it! Build and test your product in an iterative way and keep an open mind. Good luck.

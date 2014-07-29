@@ -25,6 +25,6 @@ Read the latest buzz from the services in our [iWantMyName marketplace](https://
 
 - Viewbook [launches a new techblog](http://www.viewbook.com/weblog/2011/03/16/launched-viewbook-techblog) worth checking out and [new mobile galleries for iPad, iPhone and Android](http://www.viewbook.com/weblog/2011/03/17/new-mobile-galleries-for-ipad-iphone-and-android).
 
-- Zoho Discussions [now offers private communities](http://blogs.zoho.com/general/introducing-private-communities-in-zoho-discussions).
+- Zoho Discussions [now offers private communities](http://archived.link/http://blogs.zoho.com/general/introducing-private-communities-in-zoho-discussions).
 
 We also have some new additions to the [iWantMyName marketplace](https://iwantmyname.com/services), namely [BandCamp](https://iwantmyname.com/services/music/buy-custom-domain-bandcamp), [DropPages](https://iwantmyname.com/services/website-builder/droppages-dropbox-custom-domain-hosting), [Enstore](https://iwantmyname.com/services/ecommerce-hosting/enstore-custom-domain-mapping), [LaunchRock](https://iwantmyname.com/services/website-builder/viral-landing-page-launchrock), [Nodester](https://iwantmyname.com/services/developer/nodester-custom-domain), [SoundFolder](https://iwantmyname.com/services/music/soundfolder-band-websites) and [PregoApp](https://iwantmyname.com/services/website-builder/launch-page-pregoapp). All these web services can now be added to your domains in just one single click.
