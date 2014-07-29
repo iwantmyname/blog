@@ -35,7 +35,7 @@ More examples and inspiration can be found at [Intercyclopedia](http://meta.uncy
 
 The first [domain hack generator](http://xona.com/domainhacks/) was developed by [Xona](http://xona.com/) in 2004. While their classic tool is still around and also helps you to find email hacks ("a" replaced by "@", e.g. iw@ntmyname.com using the domain ntmyname.com), there is a newer service that we at iWantMyName really like (they're cool guys too). 
 
-We are talking about the already mentioned **[Domai.nr](http://domai.nr/)** which is absolutely fun to use. Brainstorming names with their search engine is easy and once you found something available you can directly [register your domain with iWantMyName](http://iwantmyame.com/) by chosing us in their list of registrars.
+We are talking about the already mentioned **[Domai.nr](http://domai.nr/)** which is absolutely fun to use. Brainstorming names with their search engine is easy and once you found something available you can directly [register your domain with iWantMyName](https://iwantmyname.com/) by chosing us in their list of registrars.
 
 ![screenshot-domainr.jpg]({{ site.images_url }}/2009-05-15-screenshot-domainr.jpg)
 
