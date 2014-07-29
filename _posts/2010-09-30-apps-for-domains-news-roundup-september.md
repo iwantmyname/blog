@@ -32,7 +32,7 @@ Congrats to Big Cartel on [100,000 stores](http://blog.bigcartel.com/post/120558
 
 - **Zenbe**
 
-  [Email service Zenbe will be shutting down in October](http://blog.zenbe.com/2010/09/03/zenbe-mail-will-be-shutting-down-oct-8th-2010) - here are [3 email hosting alternatives](https://iwantmyname.com/services/email-hosting).
+  [Email service Zenbe will be shutting down in October](http://archived.link/http://blog.zenbe.com/2010/09/03/zenbe-mail-will-be-shutting-down-oct-8th-2010) - here are [3 email hosting alternatives](https://iwantmyname.com/services/email-hosting).
 
 - **[Vanilla Forums](https://iwantmyname.com/services/forum-hosting/vanilla-forums-on-your-own-custom-domain)**
 

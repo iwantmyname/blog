@@ -18,4 +18,4 @@ Online branding goes well beyond [domain names](https://iwantmyname.com). Nevert
 
 {% include youtube.html id="YaYx52JR9Ew" %}
 
-More episodes can be found on [BuildYourOwnBrand.tv](http://www.buildyourownbrand.tv/), a great example for domain branding with a [.TV web address](https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu).
+More episodes can be found on [BuildYourOwnBrand.tv](http://archived.link/http://www.buildyourownbrand.tv/), a great example for domain branding with a [.TV web address](https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu).
