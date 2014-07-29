@@ -25,7 +25,7 @@ tags:
 
 It's always fun flicking through new domains that have been registered and especially any cool creative websites or interesting initiatives online. Naturally we like to share the love around a bit, so here's some great New Zealand sites that came to our attention recently. 
 
-First up, Canterbury University started up a great [video competition](http://uc360.co.nz/) called UC360. Contestants are invited to submit a 360 degree panoramic video clip that is funny and reflects student life. UC360 is only open to University of Canterbury students, but the introductory video on the homepage is very clever and worth checking out just for fun.
+First up, Canterbury University started up a great [video competition](http://archived.link/http://uc360.co.nz/) called UC360. Contestants are invited to submit a 360 degree panoramic video clip that is funny and reflects student life. UC360 is only open to University of Canterbury students, but the introductory video on the homepage is very clever and worth checking out just for fun.
 
 We've [raved about this site](http://blog.iwantmyname.com/2012/06/cargo-website-showcases-retro-revival.html) previously, but [Revival Furniture](http://revivalfurniture.co.nz/) are still going strong with their wonderful line of retro recycled furnishings. Imagine your favourite old comfy chair given a new lease of life with a woolly blankie upholstering. The site is also a good example of how to create a tasteful sales brochure using [Cargo Collective as your hosted website builder](https://iwantmyname.co.nz/services/website-builder/).
 
