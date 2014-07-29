@@ -13,7 +13,7 @@ categories:
 
 Great news for Virb and all the people using Virb for their creative sites and portfolios. 
 
-From Brad Smith of [Virb](http://blog.virb.com/post/64122176288/big-news-from-virb):
+From Brad Smith of [Virb](http://archived.link/http://blog.virb.com/post/64122176288/big-news-from-virb):
 
 > After early meetings with GoDaddy, it quickly became apparent that we shared different visions for our website builders. So... I'm thrilled to announce, GoDaddy has decided Virb will be sold back to its original founder and investors, Brad Smith (that's me) as well as Media Temple's co-founders Demian Sellfors and John Carey.
 >
