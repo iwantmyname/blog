@@ -7,7 +7,8 @@ task :test do
 		href_ignore: [
 			# ignore links to the main site to avoid thrashing the server
 			# intentionally don't ignore http links so the 301 errors show up
-			/^https:\/\/iwantmyname.com($|\/)/
+			/^https:\/\/iwantmyname\.com($|\/)/,
+			/^https:\/\/iwantmyname\.co\.nz($|\/)/
 		],
 		href_swap: {
 			# make blog links relative
