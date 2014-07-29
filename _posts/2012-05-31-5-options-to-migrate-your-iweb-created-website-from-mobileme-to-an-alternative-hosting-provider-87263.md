@@ -45,11 +45,11 @@ Quick links:
 
 ### Option 3: choose a Mac-friendly hosting service
 
-This topic has been covered by [Macworld](http://www.macworld.com/article/1166270/switch_your_iweb_site_to_a_mac_friendly_web_host.html) earlier this month and everything mentioned in the previous paragraph applies here as well. There are a few [Mac-friendly hosting providers](http://www.machighway.com/mobileme.php) and some even support certain [MobileMe-specific features]( http://www.ragesw.com/blog/2012/05/18/from-mobileme-to-rage-web-hosting-alternative-ways-to-retain-some-mobileme-features/). A new company called MacMate [specializes in replacing MobileMe](http://macmate.me) and is also worth checking out if you're looking for a new home for your iWeb site.
+This topic has been covered by [Macworld](http://archived.link/http://www.macworld.com/article/1166270/switch_your_iweb_site_to_a_mac_friendly_web_host.html) earlier this month and everything mentioned in the previous paragraph applies here as well. There are a few [Mac-friendly hosting providers](http://www.machighway.com/mobileme.php) and some even support certain [MobileMe-specific features]( http://www.ragesw.com/blog/2012/05/18/from-mobileme-to-rage-web-hosting-alternative-ways-to-retain-some-mobileme-features/). A new company called MacMate [specializes in replacing MobileMe](http://macmate.me) and is also worth checking out if you're looking for a new home for your iWeb site.
 
 Resources:
 
-- [Switch your iWeb site to a Mac-friendly Web host](http://www.macworld.com/article/1166270/switch_your_iweb_site_to_a_mac_friendly_web_host.html)
+- [Switch your iWeb site to a Mac-friendly Web host](http://archived.link/http://www.macworld.com/article/1166270/switch_your_iweb_site_to_a_mac_friendly_web_host.html)
 - [MacHighway hosting](http://www.machighway.com/mobileme.php)
 - [MacMate iWeb replacement](http://macmate.me)
 
@@ -65,6 +65,6 @@ Both applications have a built-in FTP client and can be used with the hosting op
 
 ### Option 5: backup your site on DropBox
 
-This option should only be used as a last resort or backup solution but publishing your website on [Dropbox](http://dropbox.com) is a free way to keep it online. However, there is a huge downside and that is the ugly and unmemorable web address. Sure, you could forward your domain name to the public Dropbox URL but it just looks unprofessional. Macworld has more information on [how to publish your site on Dropbox](http://www.macworld.com/article/1166277/how_to_publish_your_mobileme_iweb_site_on_dropbox.html).
+This option should only be used as a last resort or backup solution but publishing your website on [Dropbox](http://dropbox.com) is a free way to keep it online. However, there is a huge downside and that is the ugly and unmemorable web address. Sure, you could forward your domain name to the public Dropbox URL but it just looks unprofessional. Macworld has more information on [how to publish your site on Dropbox](http://archived.link/http://www.macworld.com/article/1166277/how_to_publish_your_mobileme_iweb_site_on_dropbox.html).
 
 If you need any help with changing your domain setup from MobileMe to one of the options above, please don't hesitate to [get in touch](https://iwantmyname.com/support).
