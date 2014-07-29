@@ -23,7 +23,7 @@ Backordering services are also popular, and if you want a maximum chance of gett
 
 * [NameJet](http://namejet.com)
 * [SnapNames](http://snapnames.com)
-* [BackorderZone](backorderzone.com)
+* [BackorderZone](http://backorderzone.com)
 * [Pool.com](http://pool.com)
 
 
