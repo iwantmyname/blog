@@ -29,6 +29,6 @@ News digest for January 2011 covering the latest from the apps and services in o
 
 *   [**Posterous**](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/posterous-blog-photos-mp3-video-by-email) &mdash; gets [new beautiful slideshows](http://blog.posterous.com/show-off-your-posterous-photos-beautiful-slid)
 
-*   [**Viewbook**](https://iwantmyname.com/services/portfolio-hosting/register-your-own-domain-for-viewbook) &mdash; what they are working on [for 2011](http://www.viewbook.com/weblog/2011/01/14/what-we-are-working-on-for-2011)
+*   [**Viewbook**](https://iwantmyname.com/services/portfolio-hosting/register-your-own-domain-for-viewbook) &mdash; what they are working on [for 2011](http://archived.link/http://www.viewbook.com/weblog/2011/01/14/what-we-are-working-on-for-2011)
 
 All domains registered with iWantMyname can be easily configured for hosted web applications using our [simplified one click setup service](https://iwantmyname.com/services).

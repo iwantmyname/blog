@@ -27,9 +27,9 @@ Our thoughts go out to the people of Christchurch and especially to our friends 
 *   Google have set up a [person finder site](http://christchurch-2011.person-finder.appspot.com/) that may be of some use.*   Red Cross missing persons phone line 0800 733 276 or +64 7 850 2199
 *   Other Google [resources](http://www.google.com/crisisresponse/christchurch_earthquake.html).*   Crisis Commons [wiki site](http://wiki.crisiscommons.org/wiki/CrisisCampNZ) available online.*   TradeMe [site](http://www.trademe.co.nz/christchurch-earthquake-support) with helpful links.
 *   Ushahidi [platform](http://eq.org.nz/main#) with localised information and civil defence updates.
-*   To make an offer of accomodation in [Wellington](http://www.wellington.govt.nz/news/display-item.php?id=4334) for evacuees.
+*   To make an offer of accomodation in [Wellington](http://archived.link/http://www.wellington.govt.nz/news/display-item.php?id=4334) for evacuees.
 *   **NEW** [Findaroom](http://findaroom.org.nz/) accomodation site.
-*   Offers of [accommodation](http://www.aucklandnz.com/index.php/content_B/?L1=36&L2=27&L3=&id=6160) in Auckland for evacuees.
+*   Offers of [accommodation](http://archived.link/http://www.aucklandnz.com/index.php/content_B/?L1=36&L2=27&L3=&id=6160) in Auckland for evacuees.
 *   To arrange to donate blood in NZ call 0800 GIVE BLOOD (0800 448 325).
 *   Donate cash to assist the Salvation Army's efforts in Chrischurch.
 *   Local New Zealand government phone emergency helpline for people affected by the quake **0800 779 997**.
