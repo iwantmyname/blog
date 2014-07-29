@@ -183,6 +183,6 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 + Timo's [original list](http://blog.iwantmyname.com/2011/02/list-static-website-generators.html) of 32, sources included
 + Klint Finley's ["5 Minimalist Static Blog Generators to Check Out"](http://siliconangle.com/blog/2012/03/20/5-minimalist-static-html-blog-generators-to-check-out/) on Silicon Angle
-+ Thorpe Obazee's ["Complete List of Static Site Generators for Python"](http://gistpages.com/2013/08/12/complete_list_of_static_site_generators_for_python) on gist.pages
++ Thorpe Obazee's ["Complete List of Static Site Generators for Python"](http://archived.link/http://gistpages.com/2013/08/12/complete_list_of_static_site_generators_for_python) on gist.pages
 + BitBalloon's static-site leaderboard, titled ["Top Static Site Generators Comparison"](http://staticgen.com/) 
 + The metric ton of comments and tweets we got from the last post. Thanks so much for helping us make this list great.

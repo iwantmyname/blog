@@ -77,4 +77,4 @@ Before you jump into it though, do a bit of research. Here are ten of the best n
 
 ***
 
-For more specialized small business platforms, we've created lists for [customizable online stores](http://blog.iwantmyname.com/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](http://blog.iwantmyname.com/2014/05/platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname).
+For more specialized small business platforms, we've created lists for [customizable online stores](http://blog.iwantmyname.com/2013/11/13-platforms-for-creating-a-customizable-online-store.html) and [restaurant site builders](http://blog.iwantmyname.com/2014/07/platforms-for-building-restaurant-websites.html). And of course, if you have any questions, just send us a tweet [@iwantmyname](https://twitter.com/iwantmyname).
