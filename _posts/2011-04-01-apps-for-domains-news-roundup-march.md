@@ -23,7 +23,7 @@ Read the latest buzz from the services in our [iWantMyName marketplace](https://
 
 - Shopify [releases an official Shopify theme especially for fashion shops](http://blog.shopify.com/2011/3/21/official-shopify-theme-released-with-fashion-shops-in-mind).
 
-- Viewbook [launches a new techblog](http://www.viewbook.com/weblog/2011/03/16/launched-viewbook-techblog) worth checking out and [new mobile galleries for iPad, iPhone and Android](http://www.viewbook.com/weblog/2011/03/17/new-mobile-galleries-for-ipad-iphone-and-android).
+- Viewbook [launches a new techblog](http://archived.link/http://www.viewbook.com/weblog/2011/03/16/launched-viewbook-techblog) worth checking out and [new mobile galleries for iPad, iPhone and Android](http://archived.link/http://www.viewbook.com/weblog/2011/03/17/new-mobile-galleries-for-ipad-iphone-and-android).
 
 - Zoho Discussions [now offers private communities](http://archived.link/http://blogs.zoho.com/general/introducing-private-communities-in-zoho-discussions).
 
