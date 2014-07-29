@@ -53,7 +53,7 @@ There were a lot of new gTLD initiatives popping up lately and there will be man
 *   [.KÖLN](http://www.dotkoeln.de/) (Cologne, Germany)
 *   [.LAT](http://en.wikipedia.org/wiki/.lat) (Latin American Region)
 *   [.LLI](http://archived.link/http://www.puntulli.org/) (Leonese Language / Culture)
-*   [.LONDON](http://www.dotlondon.net/), [.LONDON](http://archived.link/http://www.adomainforlondon.org.uk/) (London, United Kingdom)
+*   [.LONDON](http://archived.link/http://www.dotlondon.net/), [.LONDON](http://archived.link/http://www.adomainforlondon.org.uk/) (London, United Kingdom)
 *   .MAIL (For emails and to control spam)
 *   [.MED](http://archived.link/http://www.fmai.org/) (Mediterranean)
 *   .MUNICH (Munich, Germany)
@@ -98,5 +98,3 @@ Sources:
 [http://citytld.com/](http://citytld.com/)
 
 [http://twitter.com/ntlds](http://twitter.com/ntlds)
-
-**Update 1**: Added .BAY, .BLOG, .CAR, .DELOITTE, .FOOD, .ROMA, .SHOP, .SURF
