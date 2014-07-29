@@ -22,11 +22,11 @@ For those of you who don't know [Medium](http://medium.com), it has become popul
 Kenneth Reitz, developer at [Heroku](http://heroku.com), further elaborates on [why he switched from Medium back to self-hosted](http://kennethreitz.org/why-i-left-medium/):
 
 > * I couldn't embed any content in a post. Not even that tweet.
-* I couldn't track referrers to know where my readers are coming from.
-* I couldn't search Twitter for my posts because of the massively shared domain.
-* I couldn't even use [gaug.es](http:gaug.es).
-* I couldn't pick my own URLs.
-* I couldn't do anything but keep writing.
+> * I couldn't track referrers to know where my readers are coming from.
+> * I couldn't search Twitter for my posts because of the massively shared domain.
+> * I couldn't even use [gaug.es](http://gaug.es).
+> * I couldn't pick my own URLs.
+> * I couldn't do anything but keep writing.
 
 Our mission at iwantmyname is to make it as easy as possible to register and set up your own domain name. The [apps and services marketplace](https://iwantmyname.com/services) also lists lots of hosted apps for all types from individuals to businesses. We've handpicked a few of them that are especially suited for writers who want to have more control over their content:
 

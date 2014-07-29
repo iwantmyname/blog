@@ -27,7 +27,7 @@ Now as Dropbox platforms become more mature (and step out of permanent beta), th
 
 After the setup process, the real joy of using Silvrback is the content editor. Unlike many other platforms that have you write in a confined space with a nasty case of the WYSIWYGs, Silvrback lets you write in simple Markdown, and even has a little button for toggling distractions from the screen. It's just you and your content, autosaving every time you touch a key. Even image uploading is easy (one of Markdown's few drawbacks). Just hit "Insert Image," copy the link provided into your post and check it out in the preview pane. 
 
-So far, Silvrback seems to be a writers dream. But keep following throughout the week at [iwantmyblog.com](http://www.iwantmyblog.com/) as I try to break things and cause problems.
+So far, Silvrback seems to be a writers dream. But keep following throughout the week at [iwantmyblog.com](http://iwantmyblog.com/) as I try to break things and cause problems.
 
 ***
 
