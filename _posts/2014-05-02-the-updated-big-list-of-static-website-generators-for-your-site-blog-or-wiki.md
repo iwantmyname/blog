@@ -161,7 +161,7 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Toto](https://github.com/cloudhead/toto) - "The 10 second blog-engine for hackers." 
 
-[Webby](http://webby.rubyforge.org/) - Uses your favorite markup language to combine the contents of a page with a layout to produce HTML
+[Webby](http://archived.link/http://webby.rubyforge.org/) - Uses your favorite markup language to combine the contents of a page with a layout to produce HTML
 
 [Webgen](http://webgen.gettalong.org/) - Lets you concentrate on writing content with support for any markup and built-in helper tools.
 
