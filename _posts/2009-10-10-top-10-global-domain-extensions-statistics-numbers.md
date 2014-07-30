@@ -32,7 +32,7 @@ The ten largest domain extensions unite a whopping 150 million registrations:
 9.  [.EU](https://iwantmyname.com/domains/eu-european-domain-name-registration-for-europe) (European Union): 2.98 million
 10.  [.RU](https://iwantmyname.com/domains/ru-russian-domain-name-registration-for-russian-federation) (Russia): 2.31 million
 
-Source: [DomainesInfo Statistiques](http://www.domainesinfo.fr/statistiques.php "DomainesInfo Statistiques")
+Source: [DomainesInfo Statistiques](http://archived.link/http://www.domainesinfo.fr/statistiques.php "DomainesInfo Statistiques")
 
 .COM is by far the the largest namespace worldwide, followed by the German .DE internet code, the Chinese .CN country domain extension and the generic .NET web address. It is very likely that .CN will surpass .DE again shortly (they recently changed positions). However, it will be interesting to see which impact the introduction of a suffix with Chinese characters such as .中国 (.CHINA) might have on the future growth of the .CN address.
 
