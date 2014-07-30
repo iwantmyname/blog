@@ -16,7 +16,7 @@ tags:
 
 ---
 
-Having total [DNS](http://en.wikipedia.org/wiki/Domain_name_system) control has been one of the most requested features of our power users. DNS is not only the underlying technology for our [Domains for Apps](https://iwantmyname.com/features/custom-domain-applications-and-dns) but also probably [the most overlooked cloud service](http://blog.mosso.com/2009/06/dns-the-overlooked-cloud-service/). Hence we are pleased now to offer a low-level DNS editor which gives you full control over your domains and lets you manage DNS records completely in real-time.
+Having total [DNS](http://en.wikipedia.org/wiki/Domain_name_system) control has been one of the most requested features of our power users. DNS is not only the underlying technology for our [Domains for Apps](https://iwantmyname.com/features/custom-domain-applications-and-dns) but also probably [the most overlooked cloud service](http://archived.link/http://blog.mosso.com/2009/06/dns-the-overlooked-cloud-service/). Hence we are pleased now to offer a low-level DNS editor which gives you full control over your domains and lets you manage DNS records completely in real-time.
 
 The new DNS editor supports A, CNAME, MX, AAAA, TXT & SRV records. Have a look at this shiny new tool:
 
