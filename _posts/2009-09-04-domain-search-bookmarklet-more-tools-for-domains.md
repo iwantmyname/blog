@@ -20,7 +20,7 @@ It's often the little tools that make the services we love really useful. Theref
 
 To install the domain search bookmarklet you just have to drag the following link to your bookmarks bar:
 
-**[Domain Search](javascript:Qr=document.getSelection();if(!Qr){void(Qr=prompt( "Domain Search Bookmarklet")**
+~~Domain Search~~
 
 You should also visit our new [domain tools overview](https://iwantmyname.com/domain-tools "Domain Search Tools") page where we've listed all the other iWantMyName gadgets:
 
