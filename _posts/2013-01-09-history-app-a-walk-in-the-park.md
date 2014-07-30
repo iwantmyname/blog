@@ -21,7 +21,7 @@ tags:
 
 ![napier.jpg]({{ site.images_url }}/2013-01-09-napier.jpg)
 
-Hawkes Bay resident Lynette Cheyne extended her love of the region's rich history by developing a story telling app called [Walk The History](http://www.walkthehistory.co.nz/) to enliven historic walks. The app delivers compelling audio and graphical information via smartphone. We think that's a great idea, so we've made Walk The History our site of the month.
+Hawkes Bay resident Lynette Cheyne extended her love of the region's rich history by developing a story telling app called [Walk The History](http://archived.link/http://www.walkthehistory.co.nz/) to enliven historic walks. The app delivers compelling audio and graphical information via smartphone. We think that's a great idea, so we've made Walk The History our site of the month.
 
 Lyn began with three tours that illustrate the fascinating history around Hawkes Bay, including information about iconic architecture, the Napier earthquake and other historical points of interest. One of the target audiences are cruise ship passengers from huge vessels that make frequent visits to Napier port over summer. The company also has plans to develop content for historic walks in other regions as well.
 
