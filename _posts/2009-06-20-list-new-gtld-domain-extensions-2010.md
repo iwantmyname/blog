@@ -80,7 +80,7 @@ There were a lot of new gTLD initiatives popping up lately and there will be man
 *   [.VIDEOS](http://archived.link/http://serointl.com/)
 *   [.VIN](http://archived.link/http://www.dotvin.fr/) (Wine community)
 *   [.VLA](http://www.puntvl.net/) (Flanders, Belgium)
-*   [.WEB](http://archived.link/http://gtldrevolution.com/), [.WEB](http://www.webtld.com/)
+*   [.WEB](http://archived.link/http://gtldrevolution.com/), [.WEB](http://archived.link/http://www.webtld.com/)
 *   [.WIKI](http://archived.link/http://serointl.com/)
 *   [.XXX](http://www.icmregistry.com/)
 *   [.YKS](http://www.dotyks.org/) (Yorkshire)
