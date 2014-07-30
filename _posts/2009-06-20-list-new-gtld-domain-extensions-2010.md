@@ -32,7 +32,7 @@ There were a lot of new gTLD initiatives popping up lately and there will be man
 *   .BLOG
 *   [.BZH](http://archived.link/http://bzh.geobreizh.com/www/bzh/) (Brittany, France)
 *   [.CAR](http://archived.link/http://www.atxg.com/node/152)
-*   [.CYM](http://www.dotcym.org/) (Wales, United Kingdom)
+*   [.CYM](http://archived.link/http://www.dotcym.org/) (Wales, United Kingdom)
 *   [.DELOITTE](http://archived.link/http://www.markmonitor.com/download/webinar/webinar-080930-deloitte.pdf)
 *   [.ECO](http://www.doteco.info/), [.ECO](http://www.dotecotld.com/) (Ecological)
 *   [.ENG](http://www.doteng.org/) (England)

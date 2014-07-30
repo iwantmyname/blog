@@ -13,7 +13,7 @@ categories:
 
 ---
 
-As you may know, the web address space [is about to grow](http://blog.iwantmyname.com/2012/06/49-new-top-level-domain-bids-released-so-far.html) by hundreds of new suffixes in addition to the well-known .COM, .NET or .ORG over the course of the next few years. While the announcement of the [final list of new top-level domains (TLDs)](http://newgtlds.icann.org/en/program-status/application-results) by the internet's governing body ICANN is only two days away, there is one domain extension that gets us particularly excited at iWantMyName and that is the proposed .APP TLD. Today we are having a closer look at this future naming option for application developers, web apps and everyone's beloved smartphone software goodies as an example of how the name space expansion can benefit domain owners as well as end users.
+As you may know, the web address space [is about to grow](http://blog.iwantmyname.com/2012/06/49-new-top-level-domain-bids-released-so-far.html) by hundreds of new suffixes in addition to the well-known .COM, .NET or .ORG over the course of the next few years. While the announcement of the [final list of new top-level domains (TLDs)](https://gtldresult.icann.org/application-result/applicationstatus) by the internet's governing body ICANN is only two days away, there is one domain extension that gets us particularly excited at iWantMyName and that is the proposed .APP TLD. Today we are having a closer look at this future naming option for application developers, web apps and everyone's beloved smartphone software goodies as an example of how the name space expansion can benefit domain owners as well as end users.
 
 ### YourSoftwareApp.com vs YourSoftware.app
 
