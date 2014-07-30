@@ -35,7 +35,7 @@ Using these services is as easy as updating your nameservers to theirs at your d
 
 The easiest way is to simply forward the naked domain 'yoursitename.com' to the 'www' sub-domain. Most domain registrars and DNS hosting services offer URL forwarding. If you set up Heroku or other hosted apps with [our one-click services setup](https://iwantmyname.com/services), we take care of this automatically.
 
-Should your registrar charge extra for URL forwarding (some do) there are services like [RootRedirect.com](http://rootredirect.com) or [wwwizer](http://wwwizer.com) that allow you to achieve the same setup. The latter also offers a paid plan which gives you a dedicated IP address, and even includes an SSL certificate.
+Should your registrar charge extra for URL forwarding (some do) there are services like [RootRedirect.com](https://www.rootredirect.com/) or [wwwizer](http://wwwizer.com) that allow you to achieve the same setup. The latter also offers a paid plan which gives you a dedicated IP address, and even includes an SSL certificate.
 
 If you use forwarding, the main disadvantage is a cosmetic one—using the 'www' sub-domain as your primary address. But that's a small price to pay for a standards-compliant domain and DNS setup, in my opinion.
 
