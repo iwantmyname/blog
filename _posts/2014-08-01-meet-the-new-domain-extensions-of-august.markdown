@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-01 07:57:53 +1200
 author: Chris
 title: "Meet the new domain extensions of August, including .discount, .fitness and .wtf"
-header_image: 2014-08-01-ski.jpg
+header_image: 2014-08-01-fitness.jpg
 
 ---
 
