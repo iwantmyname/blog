@@ -6,6 +6,8 @@ title: Create a self-hosted Wordpress site with iwantmyname and Bluehost
 
 ---
 
+<!-- excerpt -->
+
 ![Bluehost]({{ site.images_url }}/2014-08-05-bluehost-logo.png)
 
 If there's one piece of advice we could give to someone who is just starting a website or blog, it's that you should do your research. If you have the resources to develop a custom site, that's a great option, but another is to use one of the many wonderful platforms currently on the market. 
@@ -15,6 +17,8 @@ For absolute beginners, we usually recommend some sort of [hosted solution](http
 But if you're comfortable dealing with managing your own hosting space, you're open to a whole world of platforms that give you control over even the smallest details. And the most popular of these platforms is [Wordpress](http://wordpress.org/) (.org, not .com, which is a hosted platform), which in 2013 made up [18.9%](http://www.elegantthemes.com/blog/general-news/wordpress-infographic-2013-a-visual-representation-of-matts-state-of-the-word) of the internet and was downloaded 46 million times.
 
 If this is an option you're looking into, here's a rundown of how to link a custom domain to [Bluehost](https://www.bluehost.com/track/iwantmyname/), our favorite web host for sites with minimal complexity.
+
+<!-- /excerpt -->
 
 1. Grab a domain at [iwantmyname](https://iwantmyname.com/).
 2. Once your domain is registered, select Setup in the top nav, then click Manage DNS.
