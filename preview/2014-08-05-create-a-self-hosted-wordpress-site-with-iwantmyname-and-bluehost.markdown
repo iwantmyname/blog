@@ -21,7 +21,6 @@ If this is an option you're looking into, here's a rundown of how to link a cust
 3. Next to your domain, click the Update Nameservers link.
 4. In the Popular Settings dropdown menu, select Bluehost, then click Update Nameservers. (Note: When you change your nameservers, one-click installs won't work anymore. If you have any platforms currently installed like Bit.ly or Google Apps, you'll need to reinstall those settings in your new Bluehost DNS manager.)
 ![Bluehost NS]({{ site.images_url }}/2014-08-05-bluehost-ns.png)
-
 5. Head over to [Bluehost](https://www.bluehost.com/track/iwantmyname/) to get your hosting space. From there, you'll have access the [Bluehost admin page](https://my.bluehost.com/cgi/home#main), which will let easily install Wordpress with your custom domain name.
 
 If you need any additional help with the domain side of the equation, be sure to [let us know](https://iwantmyname.com/support). Otherwise, the team at Bluehost should be able to answer any hosting-related questions.
