@@ -10,7 +10,7 @@ title: Create a self-hosted Wordpress site with iwantmyname and Bluehost
 
 ![Bluehost]({{ site.images_url }}/2014-08-05-bluehost-logo.png)
 
-If there's one piece of advice we could give to someone who is starting a website or blog, it's that you should take some time to pick the right web platform for your needs. Some are great for blogging, some for e-commerce, some for being social. And there's always the option of creating something entirely custom—although you'll either need some web development know-how or the resources to hire someone. Most sites though are created with  people go with one of the many wonderful platforms currently available. 
+If there's one piece of advice we could give to someone who is starting a website or blog, it's that you should take some time to pick the right web platform for your needs. Some are great for blogging, some for e-commerce, some for being social. And there's always the option of creating something entirely custom—although you'd either need some web development know-how or the resources to hire someone. Most sites though (including many of the biggest on the web) are created with the abundance of platforms currently available. 
 
 For absolute beginners, we usually recommend some sort of [hosted solution](https://iwantmyname.com/services/website-builder/)—a platform that bundles a modern content management system (CMS) with hosting space. You lose some flexibility with hosted platforms, but the benefits of something that's truly plug-and-play often outweigh the lack of control. 
 
