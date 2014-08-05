@@ -29,6 +29,6 @@ If WordPress is something you're looking into, here's a rundown of how to link y
 
 Now that you're setup on the iwantmyname end, head over to [Bluehost](https://www.bluehost.com/track/iwantmyname/) (or directly to Bluehost's [WordPress Optimized Hosting](https://www.bluehost.com/track/iwantmyname?page=/managed-wordpress-hosting) page) to get your hosting space. From there, you'll have access the [Bluehost admin page](https://my.bluehost.com/cgi/home#main), which will let you easily install WordPress with your custom domain name. And that's it!
 
-If you need any additional help with the domain side of the equation, be sure to [let us know](https://iwantmyname.com/support). Otherwise, the team at Bluehost should be able to answer any hosting-related questions.
+As always, if you need any additional help with the domain side of the equation, be sure to [let us know](https://iwantmyname.com/support). Otherwise, the team at Bluehost should be able to answer any hosting-related questions.
 
  
