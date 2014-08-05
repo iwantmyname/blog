@@ -16,7 +16,7 @@ For absolute beginners, we usually recommend some sort of [hosted solution](http
 
 But if you're comfortable managing your own hosting space, you're open to a whole world of platforms that give you control over even the smallest details. And the most popular of these platforms is [Wordpress](http://wordpress.org/) (.org, not .com, which is a hosted platform), which in 2013 made up [18.9%](http://www.elegantthemes.com/blog/general-news/wordpress-infographic-2013-a-visual-representation-of-matts-state-of-the-word) of the internet and was downloaded 46 million times.
 
-If this is an option you're looking into, here's a rundown of how to link a custom domain to [Bluehost](https://www.bluehost.com/track/iwantmyname/), our favorite web host for sites with minimal complexity.
+If Wordpress is something you're looking into, here's a rundown of how to link your iwantmyname domain to [Bluehost](https://www.bluehost.com/track/iwantmyname/), our favorite web host for sites with minimal complexity.
 
 <!-- /excerpt -->
 
@@ -27,7 +27,7 @@ If this is an option you're looking into, here's a rundown of how to link a cust
 
 ![Bluehost NS]({{ site.images_url }}/2014-08-05-bluehost-ns.png)
 
-Now that you're setup on the iwantmyname end, head over to [Bluehost](https://www.bluehost.com/track/iwantmyname/) to get your hosting space. From there, you'll have access the [Bluehost admin page](https://my.bluehost.com/cgi/home#main), which will let easily install Wordpress with your custom domain name.
+Now that you're setup on the iwantmyname end, head over to [Bluehost](https://www.bluehost.com/track/iwantmyname/) to get your hosting space. From there, you'll have access the [Bluehost admin page](https://my.bluehost.com/cgi/home#main), which will let easily install Wordpress with your custom domain name. And that's it!
 
 If you need any additional help with the domain side of the equation, be sure to [let us know](https://iwantmyname.com/support). Otherwise, the team at Bluehost should be able to answer any hosting-related questions.
 
