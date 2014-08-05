@@ -16,7 +16,7 @@ For absolute beginners, we usually recommend a [hosted solution](https://iwantmy
 
 But if you're comfortable managing your own hosting space, you're open to a whole world of platforms that give you control over even the smallest details. And the most popular of these platforms is [Wordpress](http://wordpress.org/) (.org, not .com, which is a hosted platform), which in 2013 made up [18.9%](http://www.elegantthemes.com/blog/general-news/wordpress-infographic-2013-a-visual-representation-of-matts-state-of-the-word) of the internet and was downloaded 46 million times.
 
-If Wordpress is something you're looking into, here's a rundown of how to link your iwantmyname domain to [Bluehost](https://www.bluehost.com/track/iwantmyname/), our favorite web host for sites with minimal complexity.
+If Wordpress is something you're looking into, here's a rundown of how to link your iwantmyname domain to [Bluehost](https://www.bluehost.com/track/iwantmyname/), one of our favorite web hosts.
 
 <!-- /excerpt -->
 
