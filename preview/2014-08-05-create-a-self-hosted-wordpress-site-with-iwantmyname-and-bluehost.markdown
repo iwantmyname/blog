@@ -21,9 +21,9 @@ If Wordpress is something you're looking into, here's a rundown of how to link y
 <!-- /excerpt -->
 
 1. Grab a domain at [iwantmyname](https://iwantmyname.com/).
-2. Once your domain is registered, select Setup in the top nav, then click Manage DNS.
-3. Next to your domain, click the Update Nameservers link.
-4. In the Popular Settings dropdown menu, select Bluehost, then click Update Nameservers. (Note: When you change your nameservers, one-click installs won't work anymore. If you have any platforms currently installed like Bit.ly or Google Apps, you'll need to reinstall those settings in your new Bluehost DNS manager.)
+2. Once your domain is registered, select Setup in the top nav, then click *Manage DNS*.
+3. Next to your domain, click the *Update Nameservers* link.
+4. In the *Popular Settings* dropdown menu, select *Bluehost*, then click *Update Nameservers*. (Note: When you change your nameservers, one-click installs won't work anymore. If you have any platforms currently installed like Bit.ly or Google Apps, you'll need to reinstall those settings in your new Bluehost DNS manager.)
 
 ![Bluehost NS]({{ site.images_url }}/2014-08-05-bluehost-ns.png)
 
