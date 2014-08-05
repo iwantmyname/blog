@@ -12,7 +12,7 @@ title: Create a self-hosted Wordpress site with iwantmyname and Bluehost
 
 If there's one piece of advice we could give to someone who is starting a website or blog, it's that you should take some time to pick the right web platform for your needs. Some are great for blogging, some for e-commerce, some for being social. And there's always the option of creating something entirely custom—although you'd either need some web development know-how or the resources to hire someone. Most sites though (including many of the biggest on the web) are created with one of the many platforms currently available. 
 
-For absolute beginners, we usually a [hosted solution](https://iwantmyname.com/services/website-builder/)—the platforms that bundle modern content management systems (CMS) with hosting space. They can cost a bit more, and you'll lose some development flexibility, but the benefits of using something that's truly plug-and-play often outweigh the lack of control. 
+For absolute beginners, we usually recommend a [hosted solution](https://iwantmyname.com/services/website-builder/)—the platforms that bundle modern content management systems (CMS) with hosting space. They can cost a bit more, and you'll lose some development flexibility, but the benefits of using something that's truly plug-and-play often outweigh the lack of control. 
 
 But if you're comfortable managing your own hosting space, you're open to a whole world of platforms that give you control over even the smallest details. And the most popular of these platforms is [Wordpress](http://wordpress.org/) (.org, not .com, which is a hosted platform), which in 2013 made up [18.9%](http://www.elegantthemes.com/blog/general-news/wordpress-infographic-2013-a-visual-representation-of-matts-state-of-the-word) of the internet and was downloaded 46 million times.
 
@@ -27,7 +27,7 @@ If Wordpress is something you're looking into, here's a rundown of how to link y
 
 ![Bluehost NS]({{ site.images_url }}/2014-08-05-bluehost-ns.png)
 
-Now that you're setup on the iwantmyname end, head over to [Bluehost](https://www.bluehost.com/track/iwantmyname/) to get your hosting space. From there, you'll have access the [Bluehost admin page](https://my.bluehost.com/cgi/home#main), which will let easily install Wordpress with your custom domain name. And that's it!
+Now that you're setup on the iwantmyname end, head over to [Bluehost](https://www.bluehost.com/track/iwantmyname/) to get your hosting space. From there, you'll have access the [Bluehost admin page](https://my.bluehost.com/cgi/home#main), which will let you easily install Wordpress with your custom domain name. And that's it!
 
 If you need any additional help with the domain side of the equation, be sure to [let us know](https://iwantmyname.com/support). Otherwise, the team at Bluehost should be able to answer any hosting-related questions.
 
