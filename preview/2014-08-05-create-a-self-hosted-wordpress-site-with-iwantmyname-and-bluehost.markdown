@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-08-05 12:21:16 +1200
+date: 2014-08-06 03:41:56 +1200
 author: Chris
 title: Create a self-hosted WordPress site with iwantmyname and Bluehost
 
