@@ -18,7 +18,7 @@ title: Gmail now recognizes addresses with accented and non-latin characters
 
 <!-- /excerpt -->
 
-One of the biggest hurdles for the adoption of non-Latin generic top-level domains (gTLDs) was the fact that their associated email addresses weren't compatible with many of the most popular mail platforms. But now, with Gmail making the jump, we're hopefully a few steps closer to a more welcoming web.
+One of the biggest hurdles for the adoption of non-Latin generic top-level domains (gTLDs) was the fact that their associated email addresses weren't compatible with many of the most popular mail platforms. But now, with Gmail making the jump, we're hopefully a few steps closer to a more welcoming web—one where characters from any language can be sent and recieved with no hangups or restrictions.
 
 ***
 
