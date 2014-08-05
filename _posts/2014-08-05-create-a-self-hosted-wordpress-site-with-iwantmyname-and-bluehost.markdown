@@ -14,7 +14,7 @@ If there's one piece of advice we could give to someone who is starting a websit
 
 For absolute beginners, we usually recommend a [hosted solution](https://iwantmyname.com/services/website-builder/)—the platforms that bundle modern content management systems (CMS) with hosting space. They can cost a bit more, and you'll lose some development flexibility, but the benefits of using something that's truly plug-and-play often outweigh the lack of control. 
 
-But if you're comfortable managing your own hosting space, you're open to a whole world of platforms that give you control over even the smallest details, and . And the most popular of these platforms is [WordPress](http://wordpress.org/) (.org, not .com, which is a hosted platform), which in 2013 made up [18.9%](http://www.elegantthemes.com/blog/general-news/wordpress-infographic-2013-a-visual-representation-of-matts-state-of-the-word) of the internet and was downloaded 46 million times.
+But if you're comfortable managing your own hosting space, you're open to a whole world of platforms that give you control over even the smallest details. And the most popular of these platforms is [WordPress](http://wordpress.org/) (.org, not .com, which is a hosted platform), which in 2013 made up [18.9%](http://www.elegantthemes.com/blog/general-news/wordpress-infographic-2013-a-visual-representation-of-matts-state-of-the-word) of the internet and was downloaded 46 million times.
 
 If WordPress is something you're looking into, here's a rundown of how to link your iwantmyname domain to [Bluehost](https://www.bluehost.com/track/iwantmyname/), one of our favorite web hosts.
 
