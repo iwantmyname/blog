@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-06 10:44:01 +1200
 author: Chris
-title: Gmail now recognizes addresses with accented and non-latin characters
+title: Gmail now recognizes addresses with accented and non-Latin characters
 
 ---
 
