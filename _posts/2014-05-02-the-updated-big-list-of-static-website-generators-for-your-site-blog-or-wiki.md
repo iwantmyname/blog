@@ -189,9 +189,3 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 + Thorpe Obazee's ["Complete List of Static Site Generators for Python"](http://archived.link/http://gistpages.com/2013/08/12/complete_list_of_static_site_generators_for_python) on gist.pages
 + BitBalloon's static-site leaderboard, titled ["Top Static Site Generators Comparison"](http://staticgen.com/) 
 + The metric ton of comments and tweets we got from the last post. Thanks so much for helping us make this list great.
-
-***
-
-### Hosting
-
-One thing you'll likely need for your static website
