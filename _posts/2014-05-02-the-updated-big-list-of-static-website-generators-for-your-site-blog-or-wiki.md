@@ -35,6 +35,11 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [yst](https://github.com/jgm/yst) - Generates static sites by filling string templates with data from YAML or CSV text files or SQLite 3 file-based databases.
 
+### Java
+
+
+[JBake](http://jbake.org/) - Structure your content any way you see fit with a Java-based site/blog generator.
+
 ### Lisp
 
 [Coleslaw](https://github.com/redline6561/coleslaw) - Aims to be flexible blogware that replaces single-user static compilers like Jekyll.
@@ -50,8 +55,6 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 [Harp](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
 [Hexo](http://hexo.io/index.html) - A Node.js powered generator that supports multi-thread generating, allowing it to process hundreds of files in seconds.
-
-[JBake](http://jbake.org/) - Structure your content any way you see fit with a Java-based site/blog generator.
 
 [Metalsmith](http://www.metalsmith.io/) - An extremely simple site generator with logic completely handled by plugins.
 
