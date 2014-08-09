@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-08-09 10:42:56 +1200
+date: 2014-08-09 19:42:56 +1200
 author: Chris
 title: "New domain extensions in the wild—an ongoing search"
 header_image: 2014-08-09-wild.jpg
