@@ -20,7 +20,7 @@ To get to that point, we need to start seeing more of these sites in the wild. I
 + [component.kitchen](http://component.kitchen/)
 + [insane.domains](http://insane.domains/)
 + [magicam.photos](http://magicam.photos/)
-+ [narwhals.cool](narwhals.cool)
++ [narwhals.cool](http://www.narwhals.cool/)
 + [marcolodovichi.photography](http://marcolodovichi.photography/)
 + [clever.land](http://clever.land/)
 
