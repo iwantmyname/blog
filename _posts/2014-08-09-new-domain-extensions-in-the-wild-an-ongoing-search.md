@@ -22,6 +22,7 @@ To get to that point, we need to start seeing more of these sites in the wild. I
 + [magicam.photos](http://magicam.photos/)
 + [narwhals.cool](narwhals.cool)
 + [marcolodovichi.photography](http://marcolodovichi.photography/)
++ [clever.land](http://clever.land/)
 
 ***
 
