@@ -3,6 +3,7 @@ layout: post
 date: 2014-08-12 11:07:38 +1200
 author: Chris
 title: Don't be a victim of domain hijacking
+header_image: 2014-08-12-fence.jpg
 
 ---
 
