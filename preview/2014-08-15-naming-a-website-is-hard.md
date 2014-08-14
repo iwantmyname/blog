@@ -19,7 +19,7 @@ Here are a few quick tips to make your naming process a bit easier.
 
 ###Don't stray from your brand, especially for keyword stuffing
 
-As a consumer, it's hard to remember a site when the brand name isn't the domain name. And you might think this is a common sense tip, but I see it all the time—especially with older sites trying to take advantage of keyword stuffing, an old SEO trick.
+As a consumer, it's hard to remember a site when the brand name doesn't match the domain name. And you might think this is a common sense tip, but I see it all the time—especially with older sites trying to take advantage of keyword stuffing, an old SEO trick.
 
 From Duane Forrester - Bing:
 
