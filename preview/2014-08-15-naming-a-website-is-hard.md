@@ -43,7 +43,7 @@ If you want to get a quick look at the variety of names people come up with for 
 
 1. **The change should be noticeable** - Taking a look at the Product Hunt list, the top hit at the time of writing is Humin, a cool new phonebook app. Its domain, humin.com, is obviously a derivation of the word "human", but it's short enough that people shouldn't get too confused (although I'm sure they'd love to get their hands on human.com). Further down the list is a brand called Vint, which is also a a minor change, but is likely short enough for people to notice on first glance (although its domain name is joinvint.com, which I would say uses an unnecessary keyword).
 2. **Certain variations are normal in certain circles** - While I probably wouldn't recommend a grocery store to change their name to "foodr", adding or removing certain letters (usually vowels) is totally fine in some circles. Becomr.com is a good example from the Product Hunt list, because the tech crowd they're aiming for is likely used to that sort of change. 
-3. **But other variations aren't** - Every common derivation had to start somewhere, but I'd be wary of being too original. For example, I found a brand called Kalibrr, which changes "" the 'c' to a 'k' and uses 'rr' at the end. It could work out fine for them, but I feel like there could be some recall issues down the line.
+3. **But other variations aren't** - Every common derivation had to start somewhere, but I'd be wary of being too original. For example, I found a brand called Kalibrr, which changes "caliber" by replacing the 'c' with a 'k' and uses 'rr' at the end. It could work out fine for them, but I'd guess there will be some recall issues down the line.
 
 ###A word about domain hacks
 
