@@ -9,7 +9,7 @@ header_image: 2014-08-15-typewriter.jpg
 
 <!-- excerpt -->
 
-Ask a random business owner or entrepreneur what the hardest part of their startup process was, and you're likely to hear "naming". Naming your business, brand or simple blog can be extremely challenging because there's no exact science or easy choice to lean on. It needs to be unique but uncomplicated, easy to say but different enough to separate you from the pack, and ultimately, it needs to embody your story. Or maybe it doesn't.
+Ask a random business owner or entrepreneur what the hardest part of their startup process was and you'll likely hear "naming". Naming your business, brand or simple blog can be extremely challenging because there's no exact science or guaranteed process to lean on. Your name needs to be unique but uncomplicated, easy to say but different enough to separate you from the pack, and ultimately, it needs to embody your story. Or maybe it doesn't.
 
 One thing is certain though, when you're starting your naming process, you should always keep in mind your domain name possibilities. In this modern internet era, your website might just be your brand's most public portal, so you need to make it count. 
 
