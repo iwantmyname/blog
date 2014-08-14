@@ -25,11 +25,11 @@ As a consumer, it's hard to remember a site when the brand name doesn't match th
 
 >Ranking today is a result of so many signals fed into the system the words used in a domain send less and less information into the stack as a percentage of overall decision making signals. This is great from our view (the engine) as it results in better results showing at the top since no one signal can be manipulated. From the searchers POV, it’s better simply because those sites trying to abuse their way to the top with a keyword rich domain and irrelevant or poor content cease to rank well.
 
-So for practical purposes, if you're a real estate agent, your top priority should be ease of discovery. If your brand is "The Hall Team", thehallteam.com would be a much better choice than best-real-estate-wellington.com.
+So for practical purposes, if you're a real estate agent, your top priority should be ease of discovery. If your brand is "The Hall Team", thehallteam.com would be a much better choice than best-real-estate-wellington.com. And it's not even close.
 
 ###It's much easier now to make your name work
 
-One of the biggest hangups in the past for naming is that brands felt like they were stuck with .COM as their only viable domain extension. And because it's so crowded, you'll often see names like BRANDNAMEbrand.com, BRANDNAMEclothing.com, or BRANDNAMEcompany.com, just to fit their brand name into the domain. But from a consumer's perspective, that's really pretty confusing. When you're looking for a brand on the internet, anything straying from BRANDNAME.EXTENSION gets lost in the ether. 
+One of the biggest hangups in the past for naming is that brands felt like they were stuck with .COM as their only viable domain extension. And because .COM was (and still is) so crowded, you'll often see names like BRANDNAMEbrand.com, BRANDNAMEclothing.com, or BRANDNAMEcompany.com, just to fit their brand name into the domain. But from a consumer's perspective, that's really pretty confusing. When you're looking for a brand on the internet, anything straying from BRANDNAME.EXTENSION gets lost in the ether. 
 
 With the new [generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (gTLDs) though, you can pair your brand name up with a memorable domain extension to create something easy to say and remember, while avoiding all the filler. So instead of something like BRANDNAMEcoffeeroasters.com, you could just use BRANDNAME.coffee.
 
