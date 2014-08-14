@@ -37,7 +37,7 @@ With the new [generic top-level domains](https://iwantmyname.com/domains/new-gtl
 
 The world of gTLDs opens you up to a lot of new naming possibilities, but remember that in search, you're still going to be competing with existing brands. For instance, you might find joy in naming your apple orchard "Apple", with the domain name, apple.farm, but you're going to have some pretty fierce competition (apple.com, applerecords.com) for the top Google spot for the term "apple". This isn't to say that you should always shy away from names because of search competition, but be smart about it. The goal is to be the number one search term for your brand name (at least), so if that's impossible, you may want to reconsider your strategy.
 
-###Beware of alternative spelling
+###Beware of alternative spellings
 
 If you want to get a quick look at the variety of names people come up with for brands, take a look at [Product Hunt](http://www.producthunt.com/). You'll find countless brand names, many of which are derivations of simple words or phrases. And that's fine, but you have to be careful. 
 
@@ -52,6 +52,6 @@ We've talked about [domain hacks](http://blog.iwantmyname.com/2013/10/what-is-a-
 
 ###It's more about you than the name
 
-No matter what I, or anyone, says about your domain name in the planning stages, the popularity of your brand will likely come down to your product and how well you market it. I'll always remember thinking how odd the name Google was when I first heard it (it's a [misspelling of googol](https://graphics.stanford.edu/~dk/google_name_origin.html)), and we all know how that turned out. So be brave, be smart and whatever you do, don't settle on something you're not happy with. Think of your domain like a marraige
+No matter what I, or anyone, says about your domain name in the planning stages, the popularity of your brand will likely come down to your product and how well you market it. I'll always remember thinking how odd the name Google was when I first heard it (it's a [misspelling of googol](https://graphics.stanford.edu/~dk/google_name_origin.html)), and we all know how that turned out. So be brave, be smart and whatever you do, don't settle on something you're not happy with. Think of your domain like a marriage—it's a longterm commitment, and getting out will probably hurt quite a bit.
 
 
