@@ -52,6 +52,6 @@ We've talked about [domain hacks](http://blog.iwantmyname.com/2013/10/what-is-a-
 
 ###It's more about you than the name
 
-No matter what I, or anyone, says about your domain name in the planning stages, the popularity of your brand will likely come down to your product and how well you market it. I'll always remember thinking how odd the name Google was when I first heard it (it's a [misspelling of googol](https://graphics.stanford.edu/~dk/google_name_origin.html)), and we all know how that turned out.
+No matter what I, or anyone, says about your domain name in the planning stages, the popularity of your brand will likely come down to your product and how well you market it. I'll always remember thinking how odd the name Google was when I first heard it (it's a [misspelling of googol](https://graphics.stanford.edu/~dk/google_name_origin.html)), and we all know how that turned out. So be brave
 
 
