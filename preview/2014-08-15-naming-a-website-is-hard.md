@@ -31,11 +31,11 @@ So for practical purposes, if you're a real estate agent, your top priority shou
 
 One of the biggest hangups in the past for naming is that brands felt like they were stuck with .COM as their only viable domain extension. And because .COM was (and still is) so crowded, you'll often see companies use naming conventions like BRANDNAMEbrand.com, getBRANDNAME.com, or BRANDNAMEcompany.com just to make sure their brand name is in the domain somewhere. But from a consumer's perspective, that's really pretty confusing. When you're looking for a brand on the internet, anything straying from BRANDNAME.EXTENSION seems like excess, and risks getting lost in the ether.
 
-With the new [generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (gTLDs) though, you can pair your brand name up with a memorable domain extension to create something easy to say and remember. So instead of something like BRANDNAMEcoffeeroasters.com, you could just use BRANDNAME.coffee.
+With the new [generic top-level domains](https://iwantmyname.com/domains/new-gtld-domain-extensions) (gTLDs) though, you can pair your brand name up with a memorable domain extension to create something easy to say, and even easier to remember. So instead of something like BRANDNAMEcoffeeroasters.com, you could just use BRANDNAME.coffee.
 
-###Watch out when going too generic though with gTLDs
+###Watch out when going too generic with gTLDs though
 
-The world of gTLDs opens you up to a lot of naming possibilities, but remember that in search, you're still going to be competing with existing brands. For instance, you might find joy in naming your apple orchard apple.farm, but you're going to have some pretty fierce competition for that top Google spot. This isn't to say that you should never choose a name because of search competition, but be smart about it. The goal should always be to be the number one search term for your brand name, so if that's impossible, you may want to reconsider.
+The world of gTLDs opens you up to a lot of new naming possibilities, but remember that in search, you're still going to be competing with existing brands. For instance, you might find joy in naming your apple orchard apple.farm, but you're going to have some pretty fierce competition for that top Google spot. This isn't to say that you should never choose a name because of search competition, but be smart about it. The goal should always be to be the number one search term for your brand name, so if that's impossible, you may want to reconsider.
 
 ###Beware of alternative spelling
 
