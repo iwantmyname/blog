@@ -35,7 +35,7 @@ With the new [generic top-level domains](https://iwantmyname.com/domains/new-gtl
 
 ###Watch out when going too generic with gTLDs though
 
-The world of gTLDs opens you up to a lot of new naming possibilities, but remember that in search, you're still going to be competing with existing brands. For instance, you might find joy in naming your apple orchard apple.farm, but you're going to have some pretty fierce competition (apple.com) for that top Google spot. This isn't to say that you should never choose a name because of search competition, but be smart about it. The goal should always be to be the number one search term for your brand name, so if that's impossible, you may want to reconsider your strategy.
+The world of gTLDs opens you up to a lot of new naming possibilities, but remember that in search, you're still going to be competing with existing brands. For instance, you might find joy in naming your apple orchard apple.farm, but you're going to have some pretty fierce competition (apple.com, applerecords.com) for that top Google spot. This isn't to say that you should never choose a name because of search competition, but be smart about it. The goal should always be to be the number one search term for your brand name, so if that's impossible, you may want to reconsider your strategy.
 
 ###Beware of alternative spelling
 
