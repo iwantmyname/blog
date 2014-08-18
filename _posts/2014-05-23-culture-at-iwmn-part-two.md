@@ -24,3 +24,12 @@ Obviously there are limits to this. There has to be at least one developer on ca
 With all the remote work opportunities, why then do we have an office at all? Turns out, having an office is awesome. You can hang out together if you want. Chat, have fun. An office is a very social place, and even though I'm often most productive when I work from home, time in the office is important when we collaborate to develop new features. It's also a good place for Friday drinks when we have other startups over or host user groups. 
 
 Having fun is an integral part of what we do at iwantmyname. Having fun makes sure our product is built by a team that likes doing what they do. In my opinion, working only for the sake of making money makes work a sad place. If financial incentives are the only reason you work where you work, then the products that come out are artifacts of people trying to drop the keyboard at 5pm to do fun things. I can't see those being products that will be fun for people to use. And this puts a much different perspective on the talent pool we draw from.
+
+***
+
+### Continue reading
+
+This is **part two** of an ongoing series about the culture of iwantmyname. 
+
+1. [The "one salary experiment"](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-one.html)
+2. The "work-from-anywhere experiment"
