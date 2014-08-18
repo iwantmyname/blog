@@ -6,7 +6,7 @@ title: "Codetoki, another JFDI Asia success story"
 
 ---
 
-![Singapore]({{ site.images_url }}/singapore-skyscrapers.jpg)
+![Singapore]({{ site.images_url }}/2014-08-19-singapore-skyscrapers.jpg)
 
 Last month my son and I jumped into a big silver bird and headed north to check out the [start-up scene in tropical Singapore](http://blog.iwantmyname.com/2014/07/leaping-into-singapores-startup-scene.html). During our visit to the business friendly island state we not only enjoyed the famous nighttime cuisine, but also made many new friends in the start-up community.
 
