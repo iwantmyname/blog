@@ -2,7 +2,7 @@
 layout: post
 date: 2014-05-23 09:49:01 +1200
 author: Lenz
-title: 'The culture of iwantmyname: The "work-from-anywhere experiment"'
+title: 'iwantmyname culture: The "work-from-anywhere experiment"'
 header_image: 2014-05-23-lenz-camper.jpg
 
 ---
