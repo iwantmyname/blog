@@ -1,8 +1,9 @@
 ---
 layout: post
 author: Lenz
-title: 'Culture at iwantmyname - Part 1: The "one salary experiment"'
+title: The iwantmyname one salary experiment
 date: 2014-05-08 15:13:17 +1200
+
 ---
 
 <!-- excerpt -->
