@@ -25,7 +25,7 @@ So yes, hiring for us is an important factor and we don't take it lightly. Hirin
 
 ###More on the subject
 
-Inc put out a great posts
+Chuck Blakeman of Inc put out a great post recently titled "How to Hire People You'll Never Have to Manage". 
 
 ### Continue reading
 
