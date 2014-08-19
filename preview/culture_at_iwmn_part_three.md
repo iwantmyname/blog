@@ -12,10 +12,7 @@ title: "iwantmyname culture: On hiring and hierarchy"
 
 The one truth about growing a company is that at some point you'll run out of qualified friends to employ. For us, our first hire outside of that group was a developer, because we badly needed someone who was good at the things we sucked at. And our hire was a good one, as he is an absolute expert in his field—but his most important trait was that he fit in really well with the team. Ever since our first hiring experience, we've made fitting in a top priority when adding team members, and it's worked out extremely well. 
 
-<!-- /excerpt -->
-
-*Fitting in* is understandably an interesting choice for a top criteria, but I hope we can stick with this strategy for the foreseeable future. The result thus far has been a company that has wonderful talent in
-each field, but work together well enough to achieve more than larger companies in the field. 
+<!-- /excerpt --> 
 
 When we first created iwantmyname we had all worked at companies of various sizes, and knew from the start that small, well-functioning teams almost always consisted of diverse people with different backgrounds, different (and abundant) experiences, and a high level of cohesiveness. And that high level of cohesiveness is important so that everyone can trust each other to do their jobs—which allows us to almost completely do away with the traditional management hierarchy. With everyone working on a defined aspect of the company, we can make sure everyone gets to try things out, make decisions, measure if they work, and report back to the team their successes and failures.
 
