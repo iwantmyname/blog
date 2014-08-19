@@ -20,4 +20,4 @@ A number of JFDI alumni are iwantmyname customers already, so it was a great thr
 
 [Codetoki](http://codetoki.com), which originally emerged as a concept from the 2012 Cebu Startup Weekend, is a gamified application that match-makes job applicants with employers in the software industry, based on credits earned through various coding challenges. Codetoki has already established some key relationships in the IT industry, and boasts a growing user base made up of the youthful and well-educated workforces throughout the Asia-Pacific countries and beyond. 
 
-Codetoki is but one of several startups I met with at JDFI though, many of whom are addressing real world needs in fun and practical ways. It was refreshing to see such a vibrant scene firsthand, and if you're ever in Singapore, this is one stop you shouldn't miss.
+Codetoki is one of several startups I met with at JDFI though, many of whom are addressing real world needs in fun and practical ways with the help of excellent mentors and advisors. It was refreshing to see such a vibrant scene firsthand, and if you're ever in Singapore, this is one stop you shouldn't miss.
