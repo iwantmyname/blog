@@ -33,3 +33,4 @@ This is **part two** of an ongoing series about the culture of iwantmyname.
 
 1. [The "one salary experiment"](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-one.html)
 2. The "work-from-anywhere experiment"
+3. [On hiring and heirarchy](http://blog.iwantmyname.com/2014/08/culture-at-iwmn-part-three.html)
