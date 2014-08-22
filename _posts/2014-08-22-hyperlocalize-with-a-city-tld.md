@@ -2,7 +2,7 @@
 layout: post
 date: 2014-08-22 10:49:16 +1200
 author: Chris
-title: Hyperlocalize your domain name with a city TLD
+title: "Hyperlocalize your domain name with a city TLD"
 header_image: 2014-08-22-nyc.jpg
 
 ---
