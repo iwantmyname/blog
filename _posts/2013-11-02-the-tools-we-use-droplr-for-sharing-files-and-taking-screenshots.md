@@ -9,7 +9,7 @@ categories:
 
 ---
 
-For a bigger, more updated look at Droplr, 
+For a bigger, more updated look at Droplr, head over to our new post, "Droplr is an exceptionally useful tool for sharing files and screenshots".
 
 ![Droplr]({{ site.images_url }}/2013-11-02-screen800x500.jpg)
 
