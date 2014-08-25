@@ -16,7 +16,7 @@ Completely replacing Grab on my computer is Droplr, which allows me to take regu
 
 **And screencasts!**: It's one thing to tell someone how to do something, but showing them is almost always a better solution. So if you want to to show someone how to do a Photoshop effect or just where a basic option is hidden, Droplr screen recordings are definitely the answer. Just drag open a window to record in, do what you need to do, stop the recording, then send the auto-generated link ([like this one](http://iwmn.me/gG8O/5Y16w4yd)). 
 
-**File sharing**: For all the efficiency advancements computers have made in the last decade, sending basic files still seems a bit slow. But with Droplr, just select a file (up to 2GB) and hit option-D to copy it to your clipboard to send out (it's great for sending private [dog photos](http://iwmn.me/le6c/4NaMlFYk)).
+**It makes file sharing simple**: For all the efficiency advancements computers have made in the last decade, sending basic files still seems a bit slow. But with Droplr, just select a file (up to 2GB) and hit option-D to copy it to your clipboard to send out (it's great for sending private [dog photos](http://iwmn.me/le6c/4NaMlFYk)).
 
 **All your files are attached to a custom domain**: To me, this is an invaluable feature. When you're sending files around, especially to clients, it's important to establish a level of trust. So first, Droplr allows you to password protect your links and create self-destructing drops. But then it takes the next step and allows you to send links with your very own custom short domain. So instead of sending emails or messages with links to shady files, we can send out links like iwmn.me./XXXXXXX. And the setup is incredibly simple. 
 
