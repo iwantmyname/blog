@@ -26,7 +26,7 @@ Completely replacing Grab on my computer is Droplr, which allows me to take regu
 
 ##Adding a custom domain to Droplr
 
-Like all [great apps and platforms](https://iwantmyname.com/services), adding a custom domain is painless with iwantmyname.
+Like all [the best apps and platforms](https://iwantmyname.com/services), adding a custom domain is painless with iwantmyname.
 
 ![Add Droplr]({{ site.images_url }}/2014-08-26-droplr-iwmn-add.png)
 
