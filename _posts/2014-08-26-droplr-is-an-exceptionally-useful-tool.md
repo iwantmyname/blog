@@ -1,14 +1,18 @@
 ---
 layout: post
-date: 2014-08-26 09:31:31 +1200
+date: 2014-08-26 09:31:32 +1200
 author: Chris
 title: "Droplr is an exceptionally useful tool for sharing files and screenshots"
 
 ---
 
+<!-- excerpt -->
+
 Quietly resting on my desktop nav, next to the icons for Twitter, Dropbox, OnePassword, Wifi and Finder, is the stylized Droplr drop—arguably one of the most useful apps on my computer. It doesn't do a whole lot, but what it does, it does quite well.
 
 ![Screenshot]({{ site.images_url }}/2014-08-26-droplr-screenshot-one-compressor.png)
+
+<!-- /excerpt -->
 
 **It takes, and lets you share, screenshots**: This may be a non-issue on the PC, but in OSX, the default screenshot app, Grab, really isn't all that useful. For one, the default filetype used by Grab is TIFF, which almost always needs to be exported to .jpg or .png for any kind of practical use. And once the shot is taken, there aren't any quick features for highlighting segments or leaving notes—you have to open files in other apps to do anything with them.
 
