@@ -9,6 +9,8 @@ categories:
 
 ---
 
+For a bigger, more updated look at Droplr, 
+
 ![Droplr]({{ site.images_url }}/2013-11-02-screen800x500.jpg)
 
 <!-- excerpt -->
