@@ -17,7 +17,7 @@ If you're interested in domain names or like to follow the domain name industry,
 
 We've [talked about this](http://blog.iwantmyname.com/2014/08/hyperlocalize-with-a-city-tld.html) a bunch in the past, but of the five city TLDs launched so far (.berlin, .hamburg, .nagoya, .tokyo, .wien), three are in the top 25 of domains registered:
 
- + .berlin at #2
+ + [.berlin](https://iwantmyname.com/domains/dot-berlin) at #2
  + .tokyo at #17
  + .hamburg at #24
 
@@ -53,7 +53,7 @@ While TLDs for companies that primarily live on the web are doing fairly well, t
 
 One of the more surprising trends is that the TLDs related to the deals industry aren't doing well at all. The top of the pack, .cheap, only has 3,281 domains registered, sitting just out of the top 100 at #105. And .blackfriday, the deals TLD for the day after Thanksgiving in the US? Only 657 total registrations.
 
-This is only a guess, but deal sites tend to struggle with legitimacy, and being an outlier in an industry with a lot of perceived fraud probably isn't a compelling business plan. Once the world deems these new gTLDs normal, I'm guessing the "discount TLDs" will start moving over to get out of the crowded .com namespace.
+This is only a guess, but deal sites tend to struggle with legitimacy, and being an outlier in an industry with a lot of perceived fraud probably isn't a compelling business plan. Once the world deems these new gTLDs normal, I'm guessing the "discount TLDs" will start changing over to get out of the crowded .com namespace.
 
 ***
 
