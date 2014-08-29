@@ -2,12 +2,16 @@
 layout: post
 date: 2014-08-30 10:43:06 +1200
 author: Chris
-title: New domain extension trends: cities, non-latin are in, retail is not
+title: "New domain extension trends: cities, non-latin are in, retail is not"
 header_image: 2014-08-30-berlin.JPG
 
 ---
 
+<!-- excerpt -->
+
 If you're interested in domain names or like to follow the domain registration industry, it's good to take a step back every once in a while to look at the new gTLD (generic top-level domain) trends that are emerging. iwantmyname's business model really doesn't benefit from the popularity of one domain extension over another, but for us, this is perhaps the most exciting namespace expansion we'll ever see. I mean, there's a real chance that decades from now we'll all look back at the early days of the internet and laugh about how everything ended in .com. We're still at the beginning of this whole "internet naming thing," but the scaffolding for the future is being constructed before our very eyes. Here are some of the trends we're noticing today.
+
+<!-- /excerpt -->
 
 ##City TLDs are definitely going to be popular
 
