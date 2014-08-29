@@ -47,7 +47,7 @@ Business TLDs as a whole are a bit of a mixed bag at this point, but some of the
 
 ##Retail and physical business TLDs are not
 
-While TLDs for companies that primarily live on the web are doing fairly well, traditionally brick-and-mortar businesses don't seem as ready to migrate from .com. Extensions like .clothing and .bike are the top pair, but neither have more that 13,000 registrations. And promising TLDs like .equipment, .coffee, .tattoo, .boutique, .plumbing and .shoes have yet to crack the 10,000 registration barrier. That's not to say that they won't eventually be successful, but it seems like small businesses with physical locations are hesitant to make the change.
+While TLDs for companies that primarily live on the web are doing fairly well, traditionally brick-and-mortar businesses don't seem as ready to migrate from .com. Extensions like .clothing and .bike are the top pair, but neither have more that 13,000 registrations. And promising TLDs like .equipment, .coffee, .tattoo, .boutique, .plumbing and .shoes have yet to crack the 10,000 registration mark. That's not to say that they won't eventually be successful, but it seems like small businesses with physical locations are hesitant to make the change.
 
 ##"Discount TLDs" aren't doing well at all
 
