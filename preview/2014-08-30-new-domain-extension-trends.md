@@ -21,11 +21,11 @@ We've [talked about this](http://blog.iwantmyname.com/2014/08/hyperlocalize-with
  + .tokyo at #17
  + .hamburg at #24
 
- And one, [.london](https://iwantmyname.com/domains/dot-london), is already at #18, even though it won't be available for general registration until September 9th. 
+And one, [.london](https://iwantmyname.com/domains/dot-london), is already at #18, even though it won't be available for general registration until September 9th. If current success is any indication, we'll be seeing a lot of local websites with city TLDs in the next few years.
 
 ##Non-Latin TLDs are picking up steam
 
-One of the more exciting trends in this new expansion is the launch of TLDs that don't use Latin characters. In the future we'll have domains in Chinese, Japanese, Arabic, Russian, and the internet will be better for it. The currently launched non-Latin gTLDs vary in popularity, but four are currently in the top 25:
+One of the more exciting trends of this new naming expansion is the launch of TLDs that don't use Latin characters. In the future we'll have domains in Chinese, Japanese, Arabic, Russian, and the internet will be better for it. The currently launched non-Latin gTLDs vary in popularity, but four are currently in the top 25:
 
 + .公司 at #8
 + .在线 at #10
