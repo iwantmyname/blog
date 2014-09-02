@@ -28,4 +28,4 @@ Before the launch of the gTLDs, .CLUB was simply trying harder at marketing than
 
 ***
 
-Catch domain discounts as they happen on our monthy each month on our 
+Catch domain sales as they happen on our monthy diseach month on our 
