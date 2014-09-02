@@ -26,3 +26,6 @@ We consider discount-oriented online businesses to be an unhealthy model, but ea
 
 Before the launch of the gTLDs, .CLUB was simply trying harder at marketing than the majority of the field. At the end of the day, the public will be the decider of gTLD popularity, but if any extension will reach mass expectancy by sheer will, it's going to be .CLUB. On the [Domain Incite Pro](http://domainincite.com/pro/new-gtld-zone-file-report/) registrations list, .CLUB is currently in third place, with just over 100,000 domains registered—a huge milestone for the overall namespace expansion.  
 
+***
+
+Catch domain discounts as they happen on our monthy each month on our 
