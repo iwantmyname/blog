@@ -28,4 +28,4 @@ Before the launch of the gTLDs, .CLUB was simply trying harder at marketing than
 
 ***
 
-Catch domain sales as they happen on our monthy diseach month on our 
+You don't have to wait for these posts to find our domain sales—catch them as they happen on our [monthly discounts page](https://iwantmyname.com/domains/special-offer).
