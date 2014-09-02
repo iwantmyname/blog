@@ -19,7 +19,7 @@ We consider discount-oriented online businesses to be an unhealthy model, but ea
 + [.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro) - $19.90/yr (from $24.90)
 + [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) - $49.00/yr (from $59.00)
 
-.CO, .ME and .IO (especially for tech sites) have been consistent for some time, but .TV has been especially newsworthy of late because of the twitch.tv acquisition by Amazon. I've always been interested in the idea of TLDs categorizing the web, and the .TV makes perfect sense for online video portals.
+.CO, .ME and .IO (especially for tech sites) have been consistent for some time, but .TV has been especially newsworthy of late because of the twitch.tv acquisition by Amazon. I've always been interested in the idea of TLDs categorizing the web, and .TV makes perfect sense for online video portals.
 
 + [.CLUB](https://iwantmyname.com/domains/dot-club) - $9.90/yr (from $19.90)
 + [.BUZZ](https://iwantmyname.com/domains/dot-buzz) - $34.90/yr (from $49.00)
