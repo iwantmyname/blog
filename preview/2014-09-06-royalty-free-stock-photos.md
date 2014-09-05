@@ -10,7 +10,7 @@ title: The one-stop-shop for royalty free stock photos
 
 <!-- excerpt -->
 
-If you maintain a blog or are working on a web project that requires good photography, you're probably well-traveled in the frightening world of stock photography. Giant sites, endless keyword results, and thousands upon thousands of pictures like this.
+If you maintain a blog or are working on a web project that requires good photography, you're probably well-traveled in the frightening world of stock photography. Giant sites, endless keyword results, and thousands upon thousands of pictures like this:
 
 ![Terrible]({{ site.images_url }}/2014-09-06-terrible-stock.jpg)
 
