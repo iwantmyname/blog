@@ -16,7 +16,7 @@ If you maintain a blog or are working on a web project that requires good photog
 
 <!-- /excerpt -->
 
-But there's been a bit of a movement lately to make stock photography better. Sites are popping up like [Unsplash](http://unsplash.com/) and [New Old Stock](http://nos.twnsnd.co/) that compile wonderful royalty free or Public Archive images together to give web creators a much nicer, much cheaper option for making things look nice. We posted an [article](http://blog.iwantmyname.com/2014/02/need-images-for-your-site-here-are-some-tips-for-doing-it-right-tip-1-never-use-the-corporate-high-five.html) back in February that mentioned Dustin Senos' [curated list](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) of stock photo sites, but now a site called [Panda](http://usepanda.com/) is taking this curation one step further.
+But there's been a bit of a movement lately to make stock photography better. Sites are popping up like [Unsplash](http://unsplash.com/) and [New Old Stock](http://nos.twnsnd.co/) that compile wonderful royalty free or Public Archive images together to give web creators a much nicer, much cheaper option for making things look nice. We posted an [article](http://blog.iwantmyname.com/2014/02/need-images-for-your-site-here-are-some-tips-for-doing-it-right-tip-1-never-use-the-corporate-high-five.html) back in February that mentioned Dustin Senos' [curated list](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b) of stock photo sites, but now a group called [Panda](http://usepanda.com/) is taking this curation one step further.
 
 ![The Stocks]({{ site.images_url }}/2014-09-06-the-stocks.png)
 
