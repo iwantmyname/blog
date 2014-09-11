@@ -8,7 +8,7 @@ header_image: 2014-09-12-laptop-glasses.JPG
 
 <!-- excerpt -->
 
->Hello
+>Hello,
 >
 >I have published articles occasionally online. So far, I've tended to write about football - here's my most recent effort: [brightonion.svbtle.com](brightonion.svbtle.com). They don't get read by many people but they seem to be appreciated by those who read them. I chose Svbtle to write because I liked the minimalist design and, as it was an ad hoc project, I didn't want to pay. Now Svbtle have started to charge for new users and existing users have to cough up for extra services. As an occasional writer I'm reluctant to commit to paying $6 every month.
 >
