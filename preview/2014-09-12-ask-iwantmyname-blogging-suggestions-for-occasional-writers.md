@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-09-11 11:00:56 +1200
+date: 2014-09-12 11:27:47 +1200
 author: Chris
 title: "Ask iwantmyname: Blogging suggestions for occasional writers"
 header_image: 2014-09-12-laptop-glasses.JPG
