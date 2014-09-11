@@ -1,7 +1,7 @@
 
 ---
 layout: post
-date: 2014-09-12 06:19:37 +1200
+date: 2014-09-12 05:19:37 +1200
 author: Chris
 title: "Get your site ready for the big .NZ launch"
 
