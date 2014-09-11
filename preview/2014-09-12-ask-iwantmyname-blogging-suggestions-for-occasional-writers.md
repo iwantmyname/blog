@@ -46,7 +46,7 @@ Now this goes right into your third question. **"Given my requirements, what wou
 
 Using Roon.io for free comes with a branded domain (something like brightonion.roon.com), but for $12/yr you can enable custom domains. Is that something you'd need? I'd say yes, and here's why.
 
-1. From a reader's perspective, there a strong sense of quality and permanence that comes with having a custom domain. For example, brightonion.com feels like a much stronger brand than brightonion.svbtle.com because it's the master of its domain, and isn't tied to the success of a platform.
+1. From a reader's perspective, there a strong sense of quality and permanence that comes with having a custom domain. For example, brightonion.com feels like a much stronger brand than brightonion.svbtle.com because it's the master of its domain, and isn't tied to the successes or whims of a platform.
 2. As you grow your site, you may want to start using a [custom email address](http://blog.iwantmyname.com/2013/09/how-to-get-a-custom-email-address.html) like peter@brightonion.com, which would require you to own the domain.
 3. With your own domain, you can pack up and move platforms without confusing your existing readers. 
 4. Owning a domain really doesn't cost a whole lot. You're looking at claiming a brand for yourself and solely possessing it for pennies a day. 
