@@ -17,14 +17,14 @@ header_image: 2014-09-12-laptop-glasses.JPG
 >I think that one of the blogging services that you recommend may suit me: roon.io. It has a similar minimal look which I like, most of the services are free, and I can add a domain, which is something that appeals if all goes well. However, you also recommend other similar minimalist sites, and there are many more out there. Also, most of the research I've done online recommends using Wordpress as it is more versatile in the long run.
 >
 >So, my questions are:
+>
 1. Do you think that roon.io is suitable for my current needs?
 2. Would you recommend a Wordpress site? Or would this be more suitable for a more regular blogger or if my output becomes more regular?
 3. Given my requirements, what would be the advantages of adding a domain to where I post my articles?
 >
-> Thank you in advance.
+> Thank you in advance,
 > 
 > Peter McFarlane
-> [@PeterJMcFarlane](https://twitter.com/PeterJMcFarlane)
 
 <!-- /excerpt -->
 
