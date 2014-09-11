@@ -60,8 +60,3 @@ Wordpress.com is the hosted version of Wordpress, meaning you don't have to worr
 The real flexibility comes when you have a Wordpress.org site, but that requires some work on your end. First, you'll have to have your own [hosting space](https://iwantmyname.com/features/domains/web-hosting), which isn't difficult or overly expensive, but does require some additional work. Then, if you want to change things, it's all up to you. You'll have full control of your HTML and CSS (plus an unlimited supply of templates and add-ons you can download), but you're not going to get a drag and drop interface to tweak the little things. I don't want to dissuade you here though—my first few website endeavors were through Wordpress.org, and after a little learning and tinkering, I was plenty happy.
 
 If you're unsure about Wordpress but want something more substantial than Roon.io, I'd also take a look at [Squarespace](http://www.squarespace.com/) and [Ghost](https://ghost.org/). The costs might be prohibitive if you're just looking at close-to-free casual writing, but both offer some nice features. Squarespace is probably the easiest to use of all the robust platforms on the market, and Ghost has some awesome features available if you have some dev skills in your toolkit.
-
-
-
-
-
