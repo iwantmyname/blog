@@ -36,15 +36,15 @@ Great questions! Let's run through the list.
 
 I know exactly what you mean about not necessarily wanting to pay for a site you're not updating regularly—my abandoned-site graveyard is probably larger than most. 
 
-For your circumstances, Roon.io would be a wonderful choice. There are a few things I like about it specifically. 
+For your circumstances, [Roon.io](https://roon.io/) would be a wonderful choice. There are a few things I like about it specifically. 
 
 1. It's Markdown native, but also allows for Rich Text if that's what you're comfortable with.
 2. It's super clean, which I'm always a fan of.
-3. You can start your site/blog for free, and the content exporter is quite nice, so if you find you don't like the platform, you can leave at any time.
+3. You can start your site/blog for free, and the content exporter is quite nice, so if you don't like the platform you can leave at any time.
 
 Now this goes right into your third question. **"Given my requirements, what would be the advantages of adding a domain to where I post my articles?"**
 
-Using Roon.io for free comes with a branded domain (something like brightonion.roon.com) , but for $12/yr you can enable custom domains. Is that something you'd need? I'd say yes, and here's why.
+Using Roon.io for free comes with a branded domain (something like brightonion.roon.com), but for $12/yr you can enable custom domains. Is that something you'd need? I'd say yes, and here's why.
 
 1. From a reader's perspective, there a strong sense of quality and permanence that comes with having a custom domain. For example, brightonion.com feels like a much stronger brand than brightonion.svbtle.com because it's the master of its domain, and isn't tied to the success of a platform.
 2. As you grow your site, you may want to start using a [custom email address](http://blog.iwantmyname.com/2013/09/how-to-get-a-custom-email-address.html) like peter@brightonion.com, which would require you to own the domain.
