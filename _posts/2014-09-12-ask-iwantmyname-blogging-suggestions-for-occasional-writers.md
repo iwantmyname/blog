@@ -63,4 +63,4 @@ If you're unsure about Wordpress but want something more substantial than Roon.i
 
 ***
 
-Big thanks to Peter for letting us use this as a blog post. And if you have a question you'd like answered (no blog post promises), just drop us a line.
+Big thanks to Peter for letting us use this as a blog post. And if you have a question you'd like answered (no blog post promises), just [send it over](https://iwantmyname.com/support).
