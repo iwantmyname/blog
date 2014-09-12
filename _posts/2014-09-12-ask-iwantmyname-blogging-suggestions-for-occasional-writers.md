@@ -14,11 +14,11 @@ header_image: 2014-09-12-laptop-glasses.JPG
 >
 >As I enjoyed writing those articles I'm planning to write more regularly and possibly about other topics. But, initially at least, not I don't envisage writing regularly enough to pay a monthly fee.
 >
->I think that one of the blogging services that you recommend may suit me: roon.io. It has a similar minimal look which I like, most of the services are free, and I can add a domain, which is something that appeals if all goes well. However, you also recommend other similar minimalist sites, and there are many more out there. Also, most of the research I've done online recommends using Wordpress as it is more versatile in the long run.
+>I think that one of the blogging services that you recommend may suit me: [Roon.io](https://roon.io/). It has a similar minimal look which I like, most of the services are free, and I can add a domain, which is something that appeals if all goes well. However, you also recommend other similar minimalist sites, and there are many more out there. Also, most of the research I've done online recommends using Wordpress as it is more versatile in the long run.
 >
 >So, my questions are:
 >
-1. Do you think that roon.io is suitable for my current needs?
+1. Do you think that Roon.io is suitable for my current needs?
 2. Would you recommend a Wordpress site? Or would this be more suitable for a more regular blogger or if my output becomes more regular?
 3. Given my requirements, what would be the advantages of adding a domain to where I post my articles?
 >
@@ -32,7 +32,7 @@ header_image: 2014-09-12-laptop-glasses.JPG
 
 Great questions! Let's run through the list.
 
-**"Do you think that roon.io is suitable for my current needs?"**
+**"Do you think that Roon.io is suitable for my current needs?"**
 
 I know exactly what you mean about not necessarily wanting to pay for a site you're not updating regularly—my abandoned-site graveyard is probably larger than most. 
 
