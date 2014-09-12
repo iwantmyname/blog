@@ -28,7 +28,6 @@ header_image: 2014-09-12-laptop-glasses.JPG
 
 <!-- /excerpt -->
 
-***
 
 Great questions! Let's run through the list.
 
