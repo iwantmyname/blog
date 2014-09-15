@@ -31,7 +31,7 @@ Yes, another social media platform. But after personally using Ello for a month 
 >
 >You are not a product.
 
-Ello is still in beta at the moment, but if you're already signed up, [please say hi](https://ello.co/iwantmyname)! And if you need an invite, just drop us a line in [Twitter](https://twitter.com/iwantmyname).
+Ello is still in beta, but if you're already signed up, [please say hi](https://ello.co/iwantmyname)! And if you need an invite, just drop us a line in [Twitter](https://twitter.com/iwantmyname).
 
 
 
