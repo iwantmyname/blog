@@ -1,7 +1,7 @@
 
 ---
 layout: post
-date: 2014-09-18 06:52:51 +1200
+date: 2014-09-18 05:52:51 +1200
 author: Chris
 title: Globe Runner sheds some light on the .COM vs. new gTLD debate
 
@@ -35,7 +35,7 @@ In short, if you're a google AdWords user, it'll generally cost you less to get 
 
 ***
 
-So this brings up a big point for me—not all gTLDs are equal. And it has nothing to do with the gTLD itself, but of the clientele you're trying to reach. People tend to be much more conservative when large amounts of money are on the table, and trying to lure someone into buying diamonds online with a .DIAMONDS domain name seems screams of a potential scam. But .MENU, especially when attached to a restaurant people already know, presents no threat. If I were a local business depending on matching branding for discoverability, I'd absolutely go with a new gTLD if the .COM was already taken.
+So this brings up a big point for me—not all gTLDs are equal. And it has nothing to do with the gTLD itself, but of the clientele you're trying to reach. People tend to be much more conservative when large amounts of money are on the table, and trying to lure someone in to buy diamonds online with a .DIAMONDS domain name seems screams of a potential scam. But .MENU, especially when attached to a restaurant people already know, presents no threat at all. If I were a local business depending on matching branding for discoverability, I'd absolutely go with a new gTLD if the .COM was already taken.
 
 Be sure to read through the [whole report](http://globerunner.com/com-vs-new-gtld/) though to see the entirety of the test. If your marketing relies on Google AdWords or PPC marketing, the results may be quite useful.
 
