@@ -35,6 +35,8 @@ So without further ado, here are my top 5 domain hack possibilities using .NZ.
 
 Have a better idea? Make sure to pre-order it by September 30th before geniuses like myself turn it into internet gold.
 
+Update: I was 
+
 
 
 
