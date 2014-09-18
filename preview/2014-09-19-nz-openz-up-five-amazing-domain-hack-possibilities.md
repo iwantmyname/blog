@@ -3,6 +3,8 @@ layout: post
 date: 2014-09-19 10:34:25 +1200
 author: Chris
 title: .NZ ope.nz up 5 amazing domain hack possibilities
+search:
+  tld: Nz
 
 ---
 <!-- excerpt -->
