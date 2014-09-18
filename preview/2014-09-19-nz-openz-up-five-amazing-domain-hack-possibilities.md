@@ -9,11 +9,11 @@ title: .NZ ope.nz up 5 amazing domain hack possibilities
 
 ![dot NZ]({{ site.images_url }}/2014-09-19-dot-nz.jpg)
 
-As New Zealanders patiently await the [.NZ](https://iwantmyname.com/domains/dot-nz) launch on September 30, we'd like to give the rest of the world a chance to get excited about our newly shortened domain extension. So I present to you... the top 5 domain hack possibilities using .NZ.
+As New Zealanders patiently await the [.NZ](https://iwantmyname.com/domains/dot-nz) launch on September 30, we'd like to give the rest of the world a chance to get excited about our newly shortened domain extension. So I present to you... my top 5 domain hack possibilities using .NZ.
 
 <!-- /excerpt -->
 
-Quickly, before I get too excited about pouring through the Scrabble Word Finder for [words ending in "ns"](http://www.scrabblefinder.com/ends-with/ns/), here's a quick refresher on what a domain hack is. [I'll quote myself](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html):
+But quickly, before I get too excited about pouring through the Scrabble Word Finder for [words ending in "ns"](http://www.scrabblefinder.com/ends-with/ns/), here's a quick refresher on what a domain hack is. [I'll quote myself](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html):
 
 >**Domain hack** - Using domain extensions like .es and .io to create words or phrases out of domain names.
 
