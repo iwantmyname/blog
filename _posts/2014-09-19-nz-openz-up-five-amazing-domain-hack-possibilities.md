@@ -39,7 +39,7 @@ Have a better idea? Make sure to pre-order it by September 30th before geniuses 
 
 **Update**: I was scolded for not adding kitte.nz (or the alternate, kitteh.nz). No explanation needed. 
 
-![kittenz]({{ site.images_url }}/2014-09-19-kittenz.gif)
+![kittens]({{ site.images_url }}/2014-09-19-kittenz.gif)
 
 
 
