@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-09-19 09:32:25 +1200
+date: 2014-09-19 09:32:26 +1200
 author: Chris
 title: .NZ ope.nz up 5 amazing domain hack possibilities
 search:
@@ -35,9 +35,11 @@ So without further ado, here are my top 5 domain hack possibilities using .NZ.
 
 Have a better idea? Make sure to pre-order it by September 30th before geniuses like myself turn it into internet gold.
 
+***
+
 Update: I was scolded for not adding kitte.nz (or the alternate, kitte.hz). No explanation needed. 
 
-
+![kittenz]({{ site.images_url }}/2014-09-19-kittenz.gif)
 
 
 
