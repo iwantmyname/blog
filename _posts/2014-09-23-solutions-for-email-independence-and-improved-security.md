@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-09-23 07:55:15 +1200
+date: 2014-09-23 06:55:15 +1200
 author: Chris
 title: 3 solutions for email independence and improved security
 
@@ -54,7 +54,7 @@ So if you're in the market to become your own ISP, you don't mind being the admi
 
 ##ProtonMail
 
-Another way to get around potential government spying is to house your email servers in a country with strict privacy laws. So, in addition to end-to-end encryption, zero tracking, and self-destructing messages (think Mission Impossible), [ProtonMail](https://protonmail.ch/) "is incorporated in Switzerland and our servers are located in Switzerland. We are outside of US and EU jurisdiction and user data is protected by strict Swiss data protection laws." Also, the company was founded by "scientists who met at CERN"—and that has to count for something.
+Another way to get around potential government spying is to house your email servers in a country with strict privacy laws. So, in addition to end-to-end encryption, zero tracking, and self-destructing messages (think [Mission Impossible](http://www.youtube.com/watch?v=MA2KmJMKFrQ)), [ProtonMail](https://protonmail.ch/) "is incorporated in Switzerland and our servers are located in Switzerland. We are outside of US and EU jurisdiction and user data is protected by strict Swiss data protection laws." Also, the company was founded by "scientists who met at CERN"—and that has to count for something.
 
 Unfortunately, the ProtonMail Beta is currently on hold due to demand, but more [invites](https://protonmail.ch/invite) will be going out once additional servers are put in place.
 
