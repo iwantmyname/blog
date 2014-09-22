@@ -45,7 +45,7 @@ It's email on your terms, and only you have access to it—which is how it shoul
 
 If you'd prefer to deploy your own email server (i.e. completely take control of your email), [Mail-in-a-Box](https://mailinabox.email/) is the solution for you. Just keep in mind that it's not a great solution for the average user.
 
-Here's the big holdup—from the FAQ.
+Here's the big holdup—from the "[Pre-flight Checklist](https://mailinabox.email/guide.html)":
 
 >Can I run it at home?
 >No. Most residential Internet service providers block outbound mail to prevent abuse by spammers, and most residential networks are blocked on the receiving end because of that spam problem. Your home IP address is also probably dynamic, which is also a problem.
