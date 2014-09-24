@@ -21,7 +21,7 @@ Starting 30 September at 1pm NZDT, .NZ will be available to everyone on a first 
 First, [check your "right of registration status"](http://anyname.nz/index.html) which can be one of the following:
 
 + Preferential Registration or Reservation (PRR) --  these are names that you are entitled to [register](http://iwantmyname.com/domains/dot-nz) before anyone else.
-+ Conflicted -- existing names that have more than one domain owner entitled to register them (like if different people owned website.CO.NZ and website.NET.NZ). Resolutions can be 
++ Conflicted -- existing names that have more than one domain owner entitled to register them (like if different people owned website.CO.NZ and website.NET.NZ). These conflicted domains can be resolved at [anyname.nz](http://anyname.nz/).
 + Available to anyone -- domains that were registered after Feb 11, 2014 are available to anyone on a first-come, first-served basis. We recommend [placing a pre-order for such .nz domains](http://iwantmyname.com/domains/dot-nz) to be first in line.
 
 Optionally, you can reserve your corresponding domain for up to two years without purchasing it through [anyname.nz](http://anyname.nz/) (not affiliated with iwantmyname). You must do this before 30 March 2015 though, so if this is the path you want to take, don't let it slip by.
