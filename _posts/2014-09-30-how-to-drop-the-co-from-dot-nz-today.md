@@ -12,7 +12,7 @@ title: How to drop the .co from your .co.nz domain today
 
 The shorter .nz domains have arrived! Now you can purchase New Zealand’s country-code domain extension without the additional ‘.co’, ‘.net’ or ‘.org’. This naming convention is already common in most countries, and we’re pleased to now be able to offer this option to iwantmyname customers.
 
-<iframe src="//player.vimeo.com/video/101478574" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/101478574">Anyname.nz — Overview</a> from <a href="http://vimeo.com/dncnz">Campbell Gardiner</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html id="101478574" %}
 
 <!-- /excerpt -->
 
