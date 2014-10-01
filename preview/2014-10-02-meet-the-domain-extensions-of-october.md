@@ -32,3 +32,7 @@ September was a giant month for new domain extensions, with 32 new top-level dom
 ###October 22
 
 + [.vet](https://iwantmyname.com/domains/dot-vet)
+
+***
+
+For the full list of gTLDs coming out (now updated through )
