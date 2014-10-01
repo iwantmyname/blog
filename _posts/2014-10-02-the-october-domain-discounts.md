@@ -12,21 +12,21 @@ Our new [monthly discounts](https://iwantmyname.com/domains/special-offer) are u
 
 <!-- /excerpt -->
 
-##Colors
+###Colors
 
 + [.BLACK](https://iwantmyname.com/domains/dot-black) - $9.90/yr (from $69.00)
 + [.BLUE](https://iwantmyname.com/domains/dot-blue) - $9.90/yr (from $19.90)
 + [.PINK](https://iwantmyname.com/domains/dot-black) - $9.90/yr (from $19.90)
 + [.RED](https://iwantmyname.com/domains/dot-red) - $9.90/yr (from $19.90)
 
-##Continued from last month
+###Continued from last month
 
 + [.CLUB](https://iwantmyname.com/domains/dot-club) - $9.90/yr (from $19.90)
 + [.CO](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia) -  $15.50/yr (from $29.90)
 + [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) - $49.00/yr (from $59.00)
 + [.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro) - $19.90/yr (from $24.90)
 
-##The rest
+###The rest
 
 + [.LINK](https://iwantmyname.com/domains/dot-link) - $9.90/yr (from $15.50)
 + [.SC](https://iwantmyname.com/domains/sc-seychellois-domain-name-registration-for-seychelles) - $99.00yr (from $119.00)
