@@ -35,4 +35,4 @@ September was a giant month for new domain extensions, with 32 new top-level dom
 
 ***
 
-For the full list of gTLDs coming out (now updated through )
+For the full list of the gTLDs coming out (now updated through November 25th), be sure to visit our [launch calendar](https://iwantmyname.com/domains/new-gtld-launch-dates).
