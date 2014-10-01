@@ -12,6 +12,10 @@ September was a giant month for new domain extensions, with 32 new top-level dom
 
 <!-- /excerpt -->
 
+And remember, pre-orders are still open for all future releases, so if you have a domain name in mind, be sure to get it on the list.
+
+***
+
 ###October 1
 
 + [.deals](https://iwantmyname.com/domains/dot-deals)
