@@ -9,7 +9,7 @@ title: Tech rock star launches new wonder wall
 
 ![wonder.fm]({{ site.images_url }}/2014-10-07-wonder-fm.png)
 
-Australian web developer and tech entrepreneur Stephen Phillips grew up with music in his life from an early age; he played guitar, sang and even recorded an album, inspired by the successes of popular Aussie rock bands like INXS and Midnight Oil. But his star ascended when he co-founded a little company called We Are Hunted that was subsequently [acquired by Twitter](http://techcrunch.com/2013/04/11/twitters-music-app-is-real-beta-testing-as-we-are-hunted-shuts-down/) in 2013.
+Australian web developer and tech entrepreneur Stephen Phillips grew up with music in his life from an early age; he played guitar, sang, and even recorded an album, inspired by the successes of popular Aussie rock bands like INXS and Midnight Oil. But his star ascended when he co-founded a little company called We Are Hunted that was subsequently [acquired by Twitter](http://techcrunch.com/2013/04/11/twitters-music-app-is-real-beta-testing-as-we-are-hunted-shuts-down/) in 2013.
 
 <!-- /excerpt -->
 
