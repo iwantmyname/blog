@@ -40,7 +40,7 @@ My hope though is that you won't have to use the free domain Squarespace provide
 
 Switching from Squarespace 5 to Squarespace 6 was a pretty big leap, but the biggest change what the quality of the templates. Squarespace 7 doesn't quite have that big of a jump, but there are 15 new designs to choose from. And for personal branding sites, the new Cover Pages tool looks kind of awesome (although I don't know if I want to spend a hefty monthly fee to host a landing page).
 
-##And one thing I don't need. $10 Getty Images
+##And one thing I don't personally need. Getty Images
 
 Let's get this out of the way first—I'm in no way trying to say that paid photography is a bad thing. If you're opening a restaurant, a store, or just building something neat, I'd be the first person to recommend hiring an awesome photographer to capture the mood and the feel. But if you're just looking for a massive picture of, say, New York to fill up your home page, there's no reason to spend $10 for a Getty image. Just go to [Unsplash](https://unsplash.com/), or any of the other great new [stock photography sites](http://thestocks.im/), and pick something amazing.
 
