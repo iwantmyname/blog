@@ -43,4 +43,6 @@ Switching from Squarespace 5 to Squarespace 6 was a pretty big leap, but the big
 
 ##And one thing I don't need. $10 Getty Images
 
-Let's get this out of the way first—I'm in no way trying to say that paid photography is a bad thing. If you're opening a restaurant, a store, or just building something neat, I'd be the first person to recommend hiring an awesome photographer to capture the mood and the feel. But if you're just looking for a massive picture of, say, New York to fill up your home page, there's no reason to spend $10 for a Getty image. Just go to [Unsplash](https://unsplash.com/), or any of the other great new [stock photography sites](http://thestocks.im/), and pick something amazing. 
+Let's get this out of the way first—I'm in no way trying to say that paid photography is a bad thing. If you're opening a restaurant, a store, or just building something neat, I'd be the first person to recommend hiring an awesome photographer to capture the mood and the feel. But if you're just looking for a massive picture of, say, New York to fill up your home page, there's no reason to spend $10 for a Getty image. Just go to [Unsplash](https://unsplash.com/), or any of the other great new [stock photography sites](http://thestocks.im/), and pick something amazing.
+
+$10 isn't a bad price for professional photography though. I guess if you find a need for it, this Getty partnership is a good deal. Just be sure to scour the free stock image sites first—they're better than you might think.
