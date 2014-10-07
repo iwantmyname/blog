@@ -15,7 +15,7 @@ As a user of Squarespace for a number of years now for personal sites, it's a pr
 
 <!-- /excerpt -->
 
-The new version is being rolled out "today in a controlled public beta format", but after looking at the official page, there are a number of things I'm quite excited about.
+The new version is being rolled out "today in a controlled public beta format", and after looking at the official page, there are a number of things I'm quite excited about.
 
 ![Interface]({{ site.images_url }}/2014-10-08-squarespace-interface.jpg)
 
