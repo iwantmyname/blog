@@ -8,7 +8,7 @@ title: Squarespace 7 is here, should you be excited?
 
 <!-- excerpt -->
 
-![Interface]({{ site.images_url }}/2014-10-08-squarespace-interface.jpg)
+{% include youtube.html id="9IDeKXQuiik" %}
 
 As a user of [Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) for a number of years now for personal sites, it's a pretty exciting day when a major update is released. And today, we have Squarespace 7.  From the [Squarespace Blog](https://blog.squarespace.com/blog/introducing-squarespace-7):
 
@@ -17,6 +17,8 @@ As a user of [Squarespace](https://iwantmyname.com/features/applications/custom-
 <!-- /excerpt -->
 
 The new version is being rolled out "today in a controlled public beta format", and after looking at the official page, there are a number of things I'm quite excited about.
+
+![Interface]({{ site.images_url }}/2014-10-08-squarespace-interface.jpg)
 
 ##On-page editing
 
