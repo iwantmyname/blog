@@ -392,7 +392,8 @@ img.author {
 .iwmn-articles article > ol,
 .iwmn-articles article > ul,
 .iwmn-articles article > blockquote,
-.iwmn-articles article > blockquote > p {
+.iwmn-articles article > blockquote > p,
+.iwmn-articles article > .embed-responsive {
   margin-bottom: 20px;
 }
 .iwmn-articles article > blockquote > :last-child {
@@ -469,11 +470,11 @@ p.read-more {
   margin: 40px 0 -10px;
 }
 .iwmn-article article > p,
+.iwmn-article article > ol,
+.iwmn-article article > ul,
 .iwmn-article article > blockquote,
 .iwmn-article article > blockquote > p,
-.iwmn-article article > .embed-responsive,
-.iwmn-article article > ul,
-.iwmn-article article > ol {
+.iwmn-article article > .embed-responsive {
   margin-top: 30px;
 }
 .iwmn-article article > blockquote > :first-child {
