@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-10-14 12:23:48 +1200
+date: 2014-10-14 12:23:47 +1200
 author: Chris
 title: "Sometimes it pays to work smart *and* hard"
 header_image: 2014-10-14-writing.jpg
@@ -12,7 +12,6 @@ From the Moz Blog, in an article titled "My Recipe for Success: How to Launch a 
 >So, five months on, where are we? Well, I'm particularly happy with the results so far, and this is why I wanted to outline the approach that I've taken from a content, social, and SEO perspective to get results.
 
 >On the topic of results, here's where we're at right now:
-
 + Page 1 rankings in Google for the terms pescetarian, pescetarian blog, pescetarian recipes and pescetarian meals. Go ahead, Google it if you don't believe me ;)
 + 4,700+ followers on our Facebook page
 + The average engagement on one of our Facebook posts will often result in around 100 likes, 5-15 comments, 20-50 shares and 100-300 clicks through to the website
