@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-10-14 06:18:42 +1200
+date: 2014-10-14 05:18:42 +1200
 author: Timo
 title: Why domain extensions still matter
 header_image: 2014-10-14-country-focus.jpg
