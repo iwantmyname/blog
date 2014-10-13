@@ -12,3 +12,5 @@ For the first five years of our existance, iwantmyname displayed all prices in o
 
 But now we're a bit bigger, and our customers are a bit more spread out, so we've officially launched our first two alternative currencies, the Euro (EUR) and New Zealand Dollars (NZD) (the Brittish Pound (GBP) will be coming soon). To change your currency, just head to our [homepage](https://iwantmyname.com/) and go down to the bottom-right of the footer.
 
+![NZD]({{ site.images_url }}/http://iwmn.me/1dT9t/4o9fnN13)
+
