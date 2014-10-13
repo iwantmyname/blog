@@ -6,7 +6,7 @@ title: Multicurrency? Oui!
 excerpt: no
 ---
 
-
+![Multicurrency]({{ site.images_url }}/2014-10-14-multicurrency.png)
 
 For the first five years of our existance, iwantmyname displayed all prices in one currency—USD. Dark times, indeed. It was a bit odd for us here in New Zealand, but the fact was that the majority of our business was done in the United States, and implementing multicurrency through our upstream partner was too big of a project for our small team to handle. 
 
