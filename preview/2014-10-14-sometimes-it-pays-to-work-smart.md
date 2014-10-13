@@ -7,7 +7,7 @@ header_image: 2014-10-14-writing.jpg
 excerpt: no
 ---
 
-From the Moz Blog, in an article titled "My Recipe for Success: How to Launch a Successful Blog":
+From the Moz Blog, in an article titled "[My Recipe for Success: How to Launch a Successful Blog](http://moz.com/blog/my-recipe-for-success-how-to-launch-a-successful-blog)":
 
 >So, five months on, where are we? Well, I'm particularly happy with the results so far, and this is why I wanted to outline the approach that I've taken from a content, social, and SEO perspective to get results.
 >
