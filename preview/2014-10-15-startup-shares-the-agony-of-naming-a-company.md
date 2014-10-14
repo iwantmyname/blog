@@ -24,7 +24,7 @@ I'd definitely recommend starting at the beginning, but the latest episode, titl
 
 ***
 
-The other day I wrote an article asking [whether domain extensions matter anymore](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html), and this episode really got me thinking. If you're creating a company with major business aspirations, do you need to get a .com?
+The other day I wrote an article asking [whether domain extensions matter anymore](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html), and this episode really got me thinking. If you're creating a company with global business aspirations, do you need to get a .com?
 
 In the episode, Alex Blumberg mentions a handful of tech companies that end with "ly"—and that was due to the brief popularity of the .ly domain extension at the end of the 00's. Bit.ly is one that sticks in my head, and even though the .ly domain now forwards to a .com, the reason for the change was more to do with .ly being the ccTLD for Libya (government instability is never good) than the domain not being successful. 
 
