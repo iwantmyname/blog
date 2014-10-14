@@ -28,7 +28,7 @@ The other day I wrote an article asking [whether domain extensions matter anymor
 
 In the episode, Alex Blumberg mentions a handful of tech companies that end with "ly"—and that was due to the brief popularity of the .ly domain extension at the end of the 00's. Bit.ly is one that sticks in my head, and even though the .ly domain now forwards to a .com, the reason for the change was more to do with .ly being the ccTLD for Libya (government instability is never good) than the domain not being successful. 
 
-To me, if you're a global business, the most important aspect is credibility. In 2014, .com is still probably the most credible extension for the average consumer, but we're at a point now where people probably aren't going to blink at .io, .co, .club, or really any extension that doesn't make your name seem spammy or computer generated. So YOURNAME.club probably works, while MISPELLEDNAME.club or YOURNAME567.club probably won't. 
+To me, if you're a new business, the most important aspect is credibility. In 2014, .com is still probably the most credible extension for the average consumer, but we're at a point now where people probably aren't going to blink at .io, .co, .club, or really any extension that doesn't make your name seem spammy or computer generated. So YOURNAME.club probably works, while MISPELLEDNAME.club or YOURNAME567.club probably won't. 
 
 If I had to create a small set of "rules to name by," this would be it:
 
