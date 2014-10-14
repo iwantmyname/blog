@@ -4,8 +4,10 @@ date: 2014-10-14 12:23:47 +1200
 author: Chris
 title: "Sometimes it pays to work smart *and* hard"
 header_image: 2014-10-14-writing.jpg
-excerpt: no
+
 ---
+
+<!-- excerpt -->
 
 From the Moz Blog, in an article titled "[My Recipe for Success: How to Launch a Successful Blog](http://moz.com/blog/my-recipe-for-success-how-to-launch-a-successful-blog)":
 
@@ -28,4 +30,10 @@ From the Moz Blog, in an article titled "[My Recipe for Success: How to Launch a
 On personal blogs, I've been a pretty strong proponent of what I call the John Gruber method—if you consistently write something worthwhile, people will eventually come. But if you have time, dedication, and resources, the "people will eventually come" part can sometimes be changed to "people will come very soon."
 
 Truth is, there's a real science behind generating blog traffic, and it involves some combination of great content, SEO, social media, email, and a open eye to new ways to promote what you write. You just have to know where to start—and you could do a lot worse than starting with the article above.
+
+<!-- /excerpt -->
+
+***
+
+
 
