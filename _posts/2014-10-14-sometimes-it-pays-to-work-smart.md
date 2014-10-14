@@ -35,5 +35,7 @@ Truth is, there's a real science behind generating blog traffic, and it involves
 
 ***
 
-One thing of particular interest was the fact that the blog the author created is using a .kitchen domain extension. The author says, "We started using this tool for our blog as we needed to have the term pescetarian within it. We finally decided on going with one of the new .kitchen TLDs that were made available."
+One thing of particular interest was the fact that the blog the author created is using the .kitchen domain extension. The author wrote, "we needed to have the term pescetarian within it. We finally decided on going with one of the new .kitchen TLDs that were made available."
+
+Proof that a new [generic top-level domain (gTLD)](https://iwantmyname.com/domains/new-gtld-domain-extensions) can make for a successful blog? I'd say so. 
 
