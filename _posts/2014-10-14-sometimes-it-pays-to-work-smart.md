@@ -27,5 +27,5 @@ From the Moz Blog, in an article titled "[My Recipe for Success: How to Launch a
 
 On personal blogs, I've been a pretty strong proponent of what I call the John Gruber method—if you consistently write something worthwhile, people will eventually come. But if you have time, dedication, and resources, the "people will eventually come" part can sometimes be changed to "people will come very soon."
 
-Truth is, there's a real science behind generating blog traffic, and it involves some combination of great content, SEO, social media, email, and a open eye to new ways to promote what you write. You just have to know where to start—and you could do a lot worse than starting here.
+Truth is, there's a real science behind generating blog traffic, and it involves some combination of great content, SEO, social media, email, and a open eye to new ways to promote what you write. You just have to know where to start—and you could do a lot worse than starting with the article above.
 
