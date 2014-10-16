@@ -82,10 +82,10 @@ This year we've been to Berlin a couple times, Florence, Toronto—they've come 
 
 And that wraps it up (I'll spare you the pleasantries). [The Grid](https://thegrid.io/)'s v1 release is currently scheduled for late Spring 2015, but you can be a "Founding Member" right now, which locks you in at $8/mo (instead of $25/mo), seven custom sites, and a few other nifty perks. 
 
-It's the future, y'all.
+It's the future, y'all. Embrace it.
 
 ***
 
-Also, don't forget to watch the promo video. 
+Before you go, don't forget to watch the promo video. 
 
 {% include youtube.html id="OXA4-5x31V0" %}
