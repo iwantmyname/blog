@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-10-16 10:28:41 +1200
+date: 2014-10-16 10:28:42 +1200
 author: Chris
 title: An interview with Dan Tocchini, Founder and CEO of The Grid
 header_image: 2014-10-16-the-grid-team.jpg
