@@ -1,40 +1,43 @@
 Chris:
   name: Chris Hall
-  avatar: https://pbs.twimg.com/profile_images/500059506039324672/kf610_OS.jpeg
+  avatar: /assets/images/authors/chris.jpg
   twitter: hashtaghall
+Joel:
+  name: Joel Pitt
+  avatar: /assets/images/authors/joel.jpg
+  twitter: ferrouswheel
 Kevin:
   name: Kevin Ingersoll
-  avatar: https://pbs.twimg.com/profile_images/459941013146988545/uiGy3-EG.jpeg
+  avatar: /assets/images/authors/kevin.jpg
   twitter: kingersoll
 Lenz:
   name: Lenz Gschwendtner
-  avatar: https://pbs.twimg.com/profile_images/439688465/avatar.jpg
+  avatar: /assets/images/authors/lenz.jpg
   twitter: norbu09
 Manu:
   name: Manu Vetters
-  avatar: https://pbs.twimg.com/profile_images/455913143168798721/uRVnFA-G.jpeg
+  avatar: /assets/images/authors/manu.jpg
   twitter: manucx
 Melle:
   name: Melanie Baker
-  avatar: https://pbs.twimg.com/profile_images/448790971057053696/hfsbBClE.jpeg
+  avatar: /assets/images/authors/melle.png
   twitter: melle
+Paul:
+  name: Paul Spence
+  avatar: /assets/images/authors/paul.png
+  twitter: geniusnet
+Timo:
+  name: Timo Reitnauer
+  avatar: /assets/images/authors/timo.jpg
+  twitter: treitnauer
+Tobi:
+  name: Tobi Kirschstein
+  avatar: /assets/images/authors/tobi.png
+  twitter: owner
+
+# Guest authors
+# TODO: edit post using new guest author feature
 Owen:
   name: Owen Wilson
   avatar: https://pbs.twimg.com/profile_images/500072107070353408/A9IRVg8F.jpeg
   twitter: ow
-Paul:
-  name: Paul Spence
-  avatar: https://pbs.twimg.com/profile_images/2456582383/rtw8ecbn1y849zq274n9.png
-  twitter: geniusnet
-Timo:
-  name: Timo Reitnauer
-  avatar: https://pbs.twimg.com/profile_images/1595235614/profile_2011_square.jpg
-  twitter: treitnauer
-Tobi:
-  name: Tobi Kirschstein
-  avatar: https://pbs.twimg.com/profile_images/3132168431/84f92a93b53dd4f79eb1870d8523087e.png
-  twitter: owner
-Joel:
-  name: Joel Pitt
-  avatar: https://pbs.twimg.com/profile_images/457322081319800832/JIj5zoNp.png
-  twitter: ferrouswheel
