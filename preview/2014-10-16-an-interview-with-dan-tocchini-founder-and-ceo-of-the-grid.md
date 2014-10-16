@@ -8,7 +8,7 @@ header_image: 2014-10-16-the-grid-team.jpg
 
 The internet has come a long way since the "dawn of the blogs" in the early 90's, but as Anil Dash [wrote recently](http://dashes.com/anil/2014/09/15-lessons-from-15-years-of-blogging.html), "The tools for blogging have been extraordinarily stagnant. And this stagnation is particularly egregious when we consider that almost every common behavior on the big social networks is a subset of what we originally thought blogging might be." 
 
-Forecasting the future of blogging, and website creation in general, is a tall task, but there's one upcoming platform that seems to be dreaming bigger than the rest—The Grid. So I had a chat with The Grid's founder and CEO, Dan Tocchini, to find out what the new platform is all about. 
+Forecasting the future of blogging—and website creation in general—is a tall task, but there's one upcoming platform that seems to be dreaming bigger than the rest—The Grid. So I had a chat with The Grid's founder and CEO, Dan Tocchini, to find out what the new platform is all about. 
 
 ***
 
