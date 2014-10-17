@@ -58,7 +58,7 @@ What we want is for you to treat The Grid as a designer. You send your content t
 
 **Dan:** No, but there's one thing we really want to do, and that's add the ability to create alternate titles for layout solution sets—so you could have multiple titles and see which one converts best. The real idea is to have A/B testing that scales, because everyone talks about A/B testing, but no one really does it.
 
-**Chris:** A/B testing always makes me thing of e-commerce, which seems to be a pretty big focus. How is it going to work? From what I gather, you just drop items in and set a price, then magic happens. 
+**Chris:** A/B testing always makes me think of e-commerce, which seems to be a pretty big focus. How is it going to work? From what I gather, you just drop items in and set a price, then magic happens. 
 
 **Dan:** Yeah. So first of all, e-commerce is a very big deal. When we first started this thing, we knew that to really solve a website problem, we'd have to make e-commerce a priority. It's critical. 
 
@@ -76,7 +76,7 @@ And then speaking really far down the line, to me, these are really just all 2D 
 
 **Dan:** You know, we're very non-local. Our team is about 20 people now, and most of the guys are in Europe. We're in, I think, eight time zones. I kind of like the non-traditional office thing. We get together every couple months in a different city around the world and rent the best Airbnb place we can find, and we just hack together for awhile without all the life distractions. It's really cool. 
 
-This year we've been to Berlin a couple times, Florence, Toronto—they've come out to San Francisco a couple times. I think what would be killer is to continue that, but we'll probably end up having a base here in San Francisco and a base in Berlin.
+This year we've been to Berlin a couple times, Florence, Toronto—they've come out to San Francisco a couple times.  I think it what would be killer to continue that, but we'll probably end up having a base here in San Francisco and a base in Berlin.
 
 ***
 
