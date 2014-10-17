@@ -6,9 +6,13 @@ title: An interview with Dan Tocchini, Founder and CEO of The Grid
 header_image: 2014-10-16-the-grid-team.jpg
 ---
 
+<!-- excerpt -->
+
 The internet has come a long way since the "dawn of the blogs" in the early 90's, but as Anil Dash [wrote recently](http://dashes.com/anil/2014/09/15-lessons-from-15-years-of-blogging.html), "The tools for blogging have been extraordinarily stagnant. And this stagnation is particularly egregious when we consider that almost every common behavior on the big social networks is a subset of what we originally thought blogging might be." 
 
 Forecasting the future of blogging—and website creation in general—is a tall task, but there's one upcoming platform that seems to be dreaming bigger than the rest—[The Grid](https://thegrid.io/). So I had a chat with The Grid's founder and CEO, Dan Tocchini (who also happens to be an awesome iwantmyname customer), to find out what the new platform is all about. 
+
+<!-- /excerpt -->
 
 ***
 
@@ -33,8 +37,6 @@ So The Grid is hopefully going to solve the entire website problem. Not just the
 **Chris:** How will that look?
 
 **Dan:** We have some prototypes laid out. It looks a little like [The Grid website](https://thegrid.io/)—our site is the first website we've really let loose in the wild that's fully built with our AI system. The newsfeed will look a lot like that—it won't be as linear and monotone as the newsfeeds you're used to right now. There will be some variation in the scrolling experience, and we'll let things take up space to create rhythm as you scroll. It'll feel more like a website, just without the branded header at the top. 
-
-![layout filter]({{ site.images_url }}/2014-10-18-the-grid-layout-filter-1.png)
 
 **Chris:** So speaking of design and how websites are built, is this the end of web design? 
 
