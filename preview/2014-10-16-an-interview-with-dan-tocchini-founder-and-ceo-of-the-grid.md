@@ -36,11 +36,11 @@ So The Grid is hopefully going to solve the entire website problem. Not just the
 
 **Chris:** So speaking of design and how websites are built, is this the end of web design? 
 
-**Dan:** <Laughter> Really, it begins with a good designers brain. We're doing our best to build a deep API so people can create layout filters, but the goal is for designers to take the things they're doing and really design a section of the layout. Get it totally right, and then give it constraints, or high level rules, for when that section of the layout should be used. 
+**Dan:** <Laughter> Really, it begins with a good designer's brain. We're doing our best to build a deep API so people can create layout filters, but the goal is for designers to take the things they're doing and really design a section of the layout. Get it totally right, and then give it constraints, or high level rules, for when that section of the layout should be used. 
 
 For example, on The Grid's website, we literally just threw in some Markdown files, Word docs, and images and it went. We didn't choose the sections, or the order. Other than the top section, all the colors were extracted from the content provided. 
 
-Here's an example. There's one section of the page that has a girl with crazy hair, and on the left there's text on top of the image, and that text doesn't have a background. What you can do is design a section that says, here's text on top of an image, and the text doesn't need a background because this image has an area of low contrast that's suitable to put text on top. So we give those API's to designers so they can create rules like that, then the way the content is marshaled in is determined by them. So we're not replacing designers, we're just replacing the people who are creating rigid templates, then filling in content. 
+Here's an example. There's one section of the page that has a girl with crazy hair, and on the left there's text on top of the image, and that text doesn't have a background. What you can do is design a section that says, here's text on top of an image, and the text doesn't need a background because this image has an area of low contrast that's suitable to put text on top. So we give those API's to designers so they can create rules like that, then the way the content is marshaled in is determined by them. So we're not replacing designers, we're replacing the task of manually putting content into rigid templates.
 
 Replacing designers would just be crazy. Maybe in 100 years. Right now, that's crazy.
 
