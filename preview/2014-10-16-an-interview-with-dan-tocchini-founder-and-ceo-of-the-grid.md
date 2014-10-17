@@ -34,6 +34,7 @@ So The Grid is hopefully going to solve the entire website problem. Not just the
 
 **Dan:** We have some prototypes laid out. It looks a little like [The Grid website](https://thegrid.io/)—our site is the first website we've really let loose in the wild that's fully built with our AI system. The newsfeed will look a lot like that—it won't be as linear and monotone as the newsfeeds you're used to right now. There will be some variation in the scrolling experience, and we'll let things take up space to create rhythm as you scroll. It'll feel more like a website, just without the branded header at the top. 
 
+
 **Chris:** So speaking of design and how websites are built, is this the end of web design? 
 
 **Dan:** <Laughter> Really, it begins with a good designer's brain. We're doing our best to build a deep API so people can create layout filters, but the goal is for designers to take the things they're doing and really design a section of the layout. Get it totally right, and then give it constraints, or high level rules, for when that section of the layout should be used. 
