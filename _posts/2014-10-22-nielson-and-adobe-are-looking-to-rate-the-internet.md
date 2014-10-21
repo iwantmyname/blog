@@ -16,5 +16,7 @@ This is just a reminder that internet advertising is still in its infancy. It'll
 
 >The old way made a lot of people in old media a lot of money. If someone can approximate the old way for new media, maybe more of that money will start rolling in, just like it used to.
 
+***
+
 {% include youtube.html id="DE27AwkGczo" %}
 
