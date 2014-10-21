@@ -54,8 +54,6 @@ Domain hacks won't work for everyone, but if you want to get clever, you could d
 
 ***
 
-At the end of the day, just about anything you choose will be fine as long as you stick with it (isn't that always the lesson?). The goal of a personal domain is for people to be able to find you, and if you stay in the same place long enough, they likely will. 
-
-Just know that no matter what domain extension you go with, it'll be better than sending people to Facebook or LinkedIn to discover who you are. 
+At the end of the day, just about anything you choose will be fine as long as you stick with it (isn't that always the lesson?). The goal of a personal domain is for people to be able to find you, and if you stay in the same place long enough, they likely will. Just know that no matter what domain extension you go with, it'll be better than sending people to Facebook or LinkedIn to discover who you are. 
 
 
