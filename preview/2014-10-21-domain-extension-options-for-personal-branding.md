@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-10-21 12:09:31 +1200
+date: 2014-10-21 11:09:31 +1200
 author: Chris
 title: Domain extension options for personal branding
 header_image: 2014-10-21-name.jpg
