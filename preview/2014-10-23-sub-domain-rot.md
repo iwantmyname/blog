@@ -6,11 +6,15 @@ title: Subdomain rot and the security implications
 
 ---
 
+<!-- excerpt -->
+
 If you're anything like us, you probably know all-to-well the excitement of trying out new hosted serves, then linking them to a subdomain of your main domain. You might try out a platform like Desk and put it on help.domain.tld, then try another platform on support.domain.tld. And inevitably, you'll find the one you like best and move on from there. 
 
 But so many of us make the mistake of forgetting all the unused subdomains we have. On the surface, nothing on your site is any different, but then you start noticing the credit card statements filled with services you're not actually using. Canceling them is easy, but then there's the domain side. Even after you cancel the billing, your unused subdomain (let's say help.domain.tld, which was on Desk) is still being linked to the platform, and when you go to the domain, you're met with the default platform error message. 
 
 Nothing to worry about. You're not using it anyway, right?
+
+<!-- /excerpt -->
 
 Wrong, wrong, wrong. Because your subdomain is still being linked to the platform on the domain side, any not-so-well-meaning person can register for a Desk account and link it to the subdomain that's already setup. Then, basically, they're you. Everything they do with that Desk account looks legit, and theres really no way for you to notice because it's all happening outside of your network.
 
