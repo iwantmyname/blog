@@ -12,7 +12,7 @@ If you're anything like us, you probably know all-to-well the excitement of tryi
 
 But so many of us make the mistake of forgetting all the unused subdomains we have. On the surface, nothing on your site is any different, but then you start noticing the credit card statements filled with services you're not actually using. Canceling them is easy, but then there's the domain side. Even after you cancel the billing, your unused subdomain (let's say help.domain.tld, which was on Desk) is still being linked to the platform, and when you go to the domain, you're met with the default platform error message. 
 
-Nothing to worry about. You're not using it anyway, right?
+Nothing to worry about, right?
 
 <!-- /excerpt -->
 
