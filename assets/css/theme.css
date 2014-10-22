@@ -567,6 +567,19 @@ p.read-more {
     padding-top: 150px;
   }
 }
+.iwmn-interview article > p > em:first-child {
+  display: block;
+  color: #bbb;
+}
+@media (min-width: 992px) {
+  .iwmn-interview article > p > em:first-child {
+    width: 200px;
+    padding-right: 20px;
+    float: left;
+    margin-left: -200px;
+    text-align: right;
+  }
+}
 .placeholder-overflow {
   color: transparent;
 }
