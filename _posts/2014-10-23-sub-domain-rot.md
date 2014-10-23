@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-10-22 17:03:59 +0200
+date: 2014-10-24 06:35:06 +1200
 author: Lenz
 title: Subdomain rot and the security implications
 header_image: 2014-10-23-sticker-logo.png
