@@ -22,4 +22,4 @@ Wrong, wrong, wrong. Because your subdomain is still being linked to the platfor
 
 This is a risk we've tried to keep under control with regular cleanups of our zone file, but we were reminded of it yesterday because of a post on the [detectify blog](http://blog.detectify.com/post/100600514143/hostile-subdomain-takeover-using-heroku-github-desk). Fortunately, they also link to a [quick tool](https://redoctober.detectify.com) that let's you know if you're in danger.
 
-So if you do anything today, be sure to use [the tool](https://redoctober.detectify.com). We were sure to run it right away, and if you like to try out new platforms even half as much as we do, you could save yourself from a lot of heartache down the line.
+So if you do anything today, be sure to use [the tool](https://redoctober.detectify.com). We were sure to run it right away, and if you like to try out new platforms even half as much as we do, you could save yourself a lot of headaches down the line.
