@@ -11,7 +11,7 @@ title: "Moving all your content to Facebook is a really bad idea"
 [From The New York Times:](http://www.nytimes.com/2014/10/27/business/media/facebook-offers-life-raft-but-publishers-are-wary.html?_r=0)
 
 >Facebook hopes it has a fix for all that. The company has been on something of a listening tour with publishers, discussing better ways to collaborate. The social network has been eager to help publishers do a better job of servicing readers in the News Feed, including improving their approach to mobile in a variety of ways. One possibility it mentioned was for publishers to simply send pages to Facebook that would live inside the social network’s mobile app and be hosted by its servers; that way, they would load quickly with ads that Facebook sells. The revenue would be shared.
-
+>
 >That kind of wholesale transfer of content sends a cold, dark chill down the collective spine of publishers, both traditional and digital insurgents alike. If Facebook’s mobile app hosted publishers’ pages, the relationship with customers, most of the data about what they did and the reading experience would all belong to the platform. Media companies would essentially be serfs in a kingdom that Facebook owns.
 
 No matter who you are, at the end of the day, if you're writing worthwhile content meant to be read by worthwhile people, *you* want to be in control of that content. And that requires your own domain name and a platform that gives you complete control over what happens.
