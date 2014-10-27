@@ -2,7 +2,7 @@
 layout: post
 date: 2014-10-28 07:30:32 +1200
 author: Chris
-title: Facebook is not a good place for your content
+title: Moving all your content to Facebook is a really bad idea
 
 ---
 
