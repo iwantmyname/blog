@@ -20,21 +20,21 @@ Check out all the app's details on the [FastMail Weblog](http://blog.fastmail.co
 
 From FastMail:
 
->Features
->+ All the power of the FastMail mobile web app
->+ Push notifications - get notified the instant a new email arrives
->+ Attach local files to emails
->+ Notification controls - ringtone, vibrate, LED and quiet hours (Android only)
->+ Integration with Android Wear and Pebble devices (Android only)
->+ Share text from other apps (Android only)
->+ Future plans
+Features
++ All the power of the FastMail mobile web app
++ Push notifications - get notified the instant a new email arrives
++ Attach local files to emails
++ Notification controls - ringtone, vibrate, LED and quiet hours (Android only)
++ Integration with Android Wear and Pebble devices (Android only)
++ Share text from other apps (Android only)
++ Future plans
 
 >We have lots of plans for future updates, including:
->+ Multiple accounts support
->+ Offline support
->+ Rich content sharing (images, videos, etc)
->+ Device contacts integration
->+ Share mail content with other apps
->+ More smartwatch/wearable integrations
++ Multiple accounts support
++ Offline support
++ Rich content sharing (images, videos, etc)
++ Device contacts integration
++ Share mail content with other apps
++ More smartwatch/wearable integrations
 
 
