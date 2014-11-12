@@ -21,6 +21,7 @@ Check out all the app's details on the [FastMail Weblog](http://blog.fastmail.co
 [From FastMail:](https://www.fastmail.com/help/clients/mobileapp.html)
 
 Features
+
 + All the power of the FastMail mobile web app
 + Push notifications - get notified the instant a new email arrives
 + Attach local files to emails
@@ -29,7 +30,8 @@ Features
 + Share text from other apps (Android only)
 + Future plans
 
->We have lots of plans for future updates, including:
+We have lots of plans for future updates, including:
+
 + Multiple accounts support
 + Offline support
 + Rich content sharing (images, videos, etc)
