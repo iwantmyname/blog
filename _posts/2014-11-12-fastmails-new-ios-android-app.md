@@ -18,7 +18,7 @@ Check out all the app's details on the [FastMail Weblog](http://blog.fastmail.co
 
 ***
 
-From FastMail:
+[From FastMail:](https://www.fastmail.com/help/clients/mobileapp.html)
 
 Features
 + All the power of the FastMail mobile web app
