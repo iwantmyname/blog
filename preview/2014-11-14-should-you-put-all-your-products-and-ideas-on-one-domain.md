@@ -28,7 +28,7 @@ So the solution, as suggested by the author, is this:
 
 ***
 
-So on one hand, I firmly agree with the one-site-all-product mentality for a lot of things (most of my ideas certainly don't need full sites), but I don' think it's the one-size-fits-all solution the author suggests. Yes, using one domain for everything in the brand "worked pretty well for Apple" (although I'd argue that Beats and FileMaker break the narrative), but would it be good for consumers to have Diageo roll up Guinness, Vox Media/Gawker roll up their numerous blogs, or your local restaurant group to roll up its various entities?
+So on one hand, I firmly agree with the one-site-all-product mentality for a lot of things (most of my ideas certainly don't need full sites), but I don' think it's the one-size-fits-all solution the author suggests. Yes, using one domain for everything in the brand "worked pretty well for Apple" (although one could argue that Beats and FileMaker break the narrative), but would it be good for consumers to have Diageo roll up Guinness, Vox Media/Gawker roll up their numerous blogs, or your local restaurant group to roll up its various entities?
 
 For one, when you pile everything into one domain, you're severely limiting your branding options. Instead of giving every new project its own personality, you're all but forced to roll everything into your overarching aesthetic. That's fine for a brand like Apple, but what happens when your ideas jump from music production to digital photography to urban farming? Might you want separate concepts then?
 
@@ -38,5 +38,5 @@ And, by putting all your ideas on one domain, are you limiting each idea's poten
 
 But alas, like most things, it all depends on what you're looking to accomplish. If you're finding yourself piling up domains to tickle your every fancy, it may be wise to take the advice of Brian Knapp. For me, my personal brand would be infinitely stronger if I'd just consolidated my random work over the years. 
 
-Don't be afraid to break out though. As I said before, the new gTLDs make it easier than ever to find great domain names ([straying from .com is A-ok](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html) in my opinion), and in the scheme of things, the costs associated are fairly minimal. Just know that with every new site/project you create, you're either stretching your capabilities or neglecting something old—and very few things in life come from divided focus.
+Don't be afraid to break out though. As I said before, the new gTLDs make it easier than ever to find great domain names ([straying from .com is A-ok](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html) in my opinion), and in the scheme of things, the costs associated are fairly minimal. Just know that with every new site/project you create, you're either stretching your capabilities or neglecting something old—and very few good things in life come from divided focus.
 
