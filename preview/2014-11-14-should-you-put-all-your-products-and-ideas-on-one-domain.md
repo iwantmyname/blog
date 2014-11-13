@@ -14,9 +14,7 @@ My ongoing quest has gotten a bit easier since the launch of the [new generic to
 
 But think of the process it takes to create a new site. You have to design it, come up with a consistent content strategy, create a bunch of social accounts and mailing lists, then promote the hell out of it. It's exhausting! 
 
-The solution? 
-
-From Brian Knapp, in an article titled, [Everything On One Domain](http://retromocha.com/learn/put-everything-on-one-domain/):
+The solution? From Brian Knapp, in an article titled, [Everything On One Domain](http://retromocha.com/learn/put-everything-on-one-domain/):
 
 >There is so much more value in having everything on this website than there is in having even two or three different domains we are managing. From an SEO perspective, every time we promote our website we get links and attention that helps promote our other products. From an email marketing perspective, we are building a single mailing list that we can promote anything on.
 
