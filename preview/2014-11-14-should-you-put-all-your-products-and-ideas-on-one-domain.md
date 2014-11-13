@@ -3,7 +3,7 @@ layout: post
 date: 2014-11-14 11:27:06 +1200
 author: Chris
 title: Should you put all your products and ideas on one domain?
-
+header_image: 2014-11-14-bike-basket.jpg
 ---
 
 <!-- excerpt -->
@@ -12,7 +12,7 @@ From Brian Knapp, in an article titled, [Everything On One Domain](http://retrom
 
 >Owning a lot of domains is bad for business, unless you are in the business of buying and selling domains. There are a lot of reasons why, but there is one overarching reason why you want to have just one domain - focus. Domains are a distraction.
 
-Let's face it, I, like many of my collegues, have a bit of a problem. I think of the web as a blank canvas, just waiting for my ideas to populate its empty space. And every time I have a new idea, I do one thing—scramble to grab the corresponding domain name. 
+Let's face it, I, like many of my colleagues, have a bit of a problem. I think of the web as a blank canvas, just waiting for my ideas to populate its empty space. And every time I have a new idea, I do one thing—scramble to grab the corresponding domain name. 
 
 <!-- /excerpt -->
 
@@ -28,7 +28,7 @@ So the solution, as suggested by the author, is this:
 
 ***
 
-So on one hand, I firmly agree with the one-site-all-product mentality for a lot of things (most of my ideas certainly don't need full sites), but I don' think it's the one-size-fits-all solution the author suggests. Yes, using one domain for everything in the brand "worked pretty well for Apple" (although I'd argue that Beats and FileMaker break the narrative), but would it be good for consumers to have Diageo roll up Guiness, Vox Media/Gawker roll up their numerous blogs, or your local restaurant group to roll up its various entities?
+So on one hand, I firmly agree with the one-site-all-product mentality for a lot of things (most of my ideas certainly don't need full sites), but I don' think it's the one-size-fits-all solution the author suggests. Yes, using one domain for everything in the brand "worked pretty well for Apple" (although I'd argue that Beats and FileMaker break the narrative), but would it be good for consumers to have Diageo roll up Guinness, Vox Media/Gawker roll up their numerous blogs, or your local restaurant group to roll up its various entities?
 
 For one, when you pile everything into one domain, you're severely limiting your branding options. Instead of giving every new project its own personality, you're all but forced to roll everything into your overarching aesthetic. That's fine for a brand like Apple, but what happens when your ideas jump from music production to digital photography to urban farming? Might you want separate concepts then?
 
