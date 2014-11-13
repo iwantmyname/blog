@@ -18,6 +18,8 @@ The proposed solution? From Brian Knapp, in an article titled, [Everything On On
 
 >There is so much more value in having everything on this website than there is in having even two or three different domains we are managing. From an SEO perspective, every time we promote our website we get links and attention that helps promote our other products. From an email marketing perspective, we are building a single mailing list that we can promote anything on.
 
+Further on...
+
 >The best part is when we want to launch something new or explore an idea, we just create a page and put it out there, email our list, and see what people think. Also, we don't have to hunt for a new domain name for every idea we have. We just create a new page and boom, we're done.
 
 <!-- /excerpt -->
