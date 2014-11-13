@@ -38,3 +38,5 @@ But alas, like most things, it all depends on what you're looking to accomplish.
 
 Don't be afraid to break out though. As I said before, the new gTLDs make it easier than ever to find great domain names ([straying from .com is A-ok](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html) in my opinion), and in the scheme of things, the costs associated are fairly minimal. Just know that with every new site/project you create, whether it's on your current site or a new one, you're either stretching your capabilities to some degree or neglecting something old—and very few good things in life come from divided focus.
 
+As the wise Kenny Rodgers once said, "You've got to know when to hold 'em. Know when to fold 'em. Know when to walk away. And know when to run."
+
