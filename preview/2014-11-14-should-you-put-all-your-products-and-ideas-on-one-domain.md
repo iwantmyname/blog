@@ -36,7 +36,7 @@ So I firmly agree with the one-site-all-product mentality for a lot of things (m
 
 For one, when you pile everything into one domain, you're severely limiting your branding options. Instead of giving every new project start its own personality, you're all but forced to roll everything into your overarching aesthetic. That's fine for a small dev shop, or even a giant cohesive brand like Apple, but what happens when your ideas jump from music production to digital photography to urban farming? Might you want separate concepts then?
 
-And, by putting all your ideas on one domain, are you limiting each idea's potential success? Would Twitter be Twitter if, in 2006, it shared a page with Odeo? 
+And, by putting all your ideas on one domain, are you limiting each idea's potential success? Would Twitter be Twitter if, in 2006, it shared a page with Odeo? Or would Basecamp have ever become a huge success if 37 Signals didn't roll it out on its own?
 
 ***
 
