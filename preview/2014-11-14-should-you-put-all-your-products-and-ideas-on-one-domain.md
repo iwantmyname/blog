@@ -24,7 +24,7 @@ The proposed solution? From Brian Knapp, in an article titled, [Everything On On
 
 ***
 
-So I firmly agree with the one-site-all-product mentality for a lot of things (most of my ideas certainly don't need full sites), but I don' think it's the one-size-fits-all solution the author suggests. Yes, using one domain for everything in the brand "worked pretty well for Apple" (although one could argue that Beats and FileMaker break the narrative), but would it be good for consumers to have Diageo roll up Guinness, Vox Media/Gawker roll up their numerous blogs, or your local restaurant group to roll up its various entities?
+So I firmly agree with the one-site-all-product mentality for a lot of things (most of my ideas certainly don't need full sites), but I don' think it's the one-size-fits-all solution the author suggests. Yes, using one domain for everything in the brand "worked pretty well for Apple" (although one could argue that Beats and FileMaker break the narrative), but would it have been good for an early Gawker , or your local restaurant group to roll up its various entities?
 
 For one, when you pile everything into one domain, you're severely limiting your branding options. Instead of giving every new project its own personality, you're all but forced to roll everything into your overarching aesthetic. That's fine for a brand like Apple, but what happens when your ideas jump from music production to digital photography to urban farming? Might you want separate concepts then?
 
