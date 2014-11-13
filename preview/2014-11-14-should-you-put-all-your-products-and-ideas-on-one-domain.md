@@ -16,7 +16,7 @@ The real hurdle is the process it takes to create and market new sites. It's muc
 
 The proposed solution? From Brian Knapp, in an article titled, [Everything On One Domain](http://retromocha.com/learn/put-everything-on-one-domain/):
 
->There is so much more value in having everything on this website than there is in having even two or three different domains we are managing. From an SEO perspective, every time we promote our website we get links and attention that helps promote our other products. From an email marketing perspective, we are building a single mailing list that we can promote anything on.
+>There is so much more value in having everything on this website than there is in having even two or three different domains we are managing.
 
 Further on...
 
@@ -26,6 +26,8 @@ Further on...
 
 >So, stop buying new domains and start focusing your energy on one domain.
 
+>P.S. Focusing on one domain worked pretty well for Apple, it might work for you too.
+
 <!-- /excerpt -->
 
 ***
@@ -34,7 +36,7 @@ So I firmly agree with the one-site-all-product mentality for a lot of things (m
 
 For one, when you pile everything into one domain, you're severely limiting your branding options. Instead of giving every new project start its own personality, you're all but forced to roll everything into your overarching aesthetic. That's fine for a small dev shop, or even a giant cohesive brand like Apple, but what happens when your ideas jump from music production to digital photography to urban farming? Might you want separate concepts then?
 
-And, by putting all your ideas on one domain, are you limiting each idea's potential success? Would Twitter be Twitter if, in 2006, it shared a page with Odeo?
+And, by putting all your ideas on one domain, are you limiting each idea's potential success? Would Twitter be Twitter if, in 2006, it shared a page with Odeo? 
 
 ***
 
