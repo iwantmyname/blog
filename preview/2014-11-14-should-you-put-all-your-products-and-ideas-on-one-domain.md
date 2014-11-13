@@ -12,17 +12,17 @@ Let's face it, I, like many of my colleagues, have a bit of a problem. I think o
 
 My ongoing quest has gotten a bit easier since the launch of the [new generic top-level domains (gTLDs)](https://iwantmyname.com/domains/new-gtld-domain-extensions) (being able to get just about any name in some form is a huge time-saver), but the underlying problem still remains. For a year at a time I'm sitting on a pile of empty dreams and untapped potential. 
 
-But think of the process it takes to create a new site. You have to design it, come up with a consistent content strategy, create a bunch of social accounts and mailing lists, then promote the hell out of it. It's exhausting!
+But think of the process it takes to create a new site. You have to design it, come up with a consistent content strategy, create a bunch of social accounts and mailing lists, then promote the hell out of it. It's exhausting! 
 
-So the solution? 
-
-<!-- /excerpt -->
+The solution? 
 
 From Brian Knapp, in an article titled, [Everything On One Domain](http://retromocha.com/learn/put-everything-on-one-domain/):
 
 >There is so much more value in having everything on this website than there is in having even two or three different domains we are managing. From an SEO perspective, every time we promote our website we get links and attention that helps promote our other products. From an email marketing perspective, we are building a single mailing list that we can promote anything on.
 
 >For our limited resources, it makes so much more sense to have one great website instead of multiple mediocre websites.
+
+<!-- /excerpt -->
 
 ***
 
