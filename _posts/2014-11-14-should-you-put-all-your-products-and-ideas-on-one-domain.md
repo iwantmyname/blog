@@ -10,7 +10,7 @@ header_image: 2014-11-14-bike-basket.jpg
 
 Let's face it, I, like many of my colleagues, have a bit of a problem. I think of the web as a blank canvas, just waiting for my ideas to populate its empty space. And every time I have a new idea, I do one thing—scramble to grab the corresponding domain name. 
 
-My ongoing quest has gotten a bit easier since the launch of the [new generic top-level domains (gTLDs)](https://iwantmyname.com/domains/new-gtld-domain-extensions) (being able to get just about any name in some form is a huge time-saver), but the underlying problem still remains. For a year at a time I'm sitting on a pile of empty dreams and untapped potential. 
+My ongoing quest has gotten a bit easier since the launch of the [new generic top-level domains (gTLDs)](https://iwantmyname.com/domains/new-gtld-domain-extensions) (being able to get just about any name in some form is a huge time-saver), but the underlying problem still remains. If/when I lose interest trying to make small ideas flourish, I find myself sitting on a pile of empty dreams and untapped potential (at least until the domains expire). 
 
 The real hurdle is the process it takes to create and market new sites. It's much easier today than it was a decade ago, but you still have to design them (although templates are getting better and better), brand them, come up with a consistent content strategy, create a bunch of social accounts and mailing lists, then promote the hell out of them. It's exhausting! 
 
