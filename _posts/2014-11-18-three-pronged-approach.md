@@ -29,7 +29,7 @@ Quick recap: So to get a blog post in front of me in 2014, it has to either get 
 
 Now that we've got a blog and all the social media platforms taken care of, our new goal is to find a way to reach our audience without having to make a constant scene. Something that's completely opt-in, doesn't get passed through too many confusing algorithm filters before it reaches people, and is distributed on a platform that everyone already has—email. Starting early 2015, we're going to start sending a monthly email, and we think it's the perfect channel for our brand. 
 
-Unlike a journalism outfit, most of our customers come to our site looking for something very specific—either to buy a domain or to mess with some DNS settings. The less we're in the way, the better. And in a way, that's how newsletters are meant to operate—just opt-in, read an occasional email (filled with all sorts of great stuff and interesting updates), and you're done.
+Unlike a journalism outfit, most of our customers come to our site looking for something very specific—either to buy a domain or to mess with some DNS settings. The less we're in the way, the better. And in a way, that's how newsletters are meant to operate—just opt-in, read an occasional email (filled with all sorts of great stuff and interesting updates), and you're done. Quick and painless.
 
 ***
 
