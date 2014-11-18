@@ -33,6 +33,6 @@ Unlike a journalism outfit, most of our customers come to our site looking for s
 
 ***
 
-Of all our channels, I really think the new email will be the best suited for our brand. But even still, I don't think it quite cracks the brand messaging conundrum. The goal of these messaging channels is to humanize the experience—to make us seem like real people who care (we really do!)—but is it human to have a coordinated, three-pronged approach to interfacing with people at their desired consumption times? I'm not so sure, but I also don't have a better solution yet (hence the communication insanity).
+Of all our channels, I really think the new email will be the best suited for our brand. But even still, I don't think it quite cracks the brand messaging conundrum. The goal of these messaging channels is to humanize the experience—to make us seem like real people who care (we really do!)—but is it human to have a coordinated, three-pronged approach to interfacing with people at their desired consumption times? I'm not so sure, but I also don't have a better solution yet (hence the insanity).
 
 So the thinking continues (a good NZ beer might help).
