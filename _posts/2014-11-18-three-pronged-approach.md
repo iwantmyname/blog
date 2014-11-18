@@ -23,7 +23,7 @@ So in addition to social, we also have an active blog. But here's the problem I 
 
 ***
 
-Quick recap: So to get a blog post in front of me in 2015, it has to either get picked up by a tiny handful of eyes attached to aggregators, or tweeted enough times to catch me right when I'm checking. Bad news for brands— getting picked up by aggregators is hard, and the odds I'll see any given tweet is quite low (and I check often... most people don't even check their feed every day). Basically, you'd need a coordinated plan to get me to read anything not reaching critical mass, and as a brand writer myself, that's so frustrating.
+Quick recap: So to get a blog post in front of me in 2014, it has to either get picked up by a tiny handful of eyes attached to aggregators, or tweeted enough times to catch me right when I'm checking. Bad news for brands—getting picked up by aggregators is hard, and the odds I'll see any given tweet is quite low (and I check often... most people don't even check their feed every day). Basically, you'd need a coordinated plan to get me to read anything not reaching critical mass, and as a brand writer myself, that's so frustrating.
 
 ***
 
