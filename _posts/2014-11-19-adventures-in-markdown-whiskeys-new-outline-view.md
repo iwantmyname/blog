@@ -2,7 +2,7 @@
 layout: post
 date: 2014-11-19 09:10:46 +1200
 author: Chris
-title: Adventures in Markdown: Whiskey's new outline view
+title: "Adventures in Markdown: Whiskey's new outline view"
 excerpt: no
 ---
 
