@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-11-19 19:49:56 +1200
+date: 2014-11-19 19:49:55 +1200
 author: Chris
 title: "A three-pronged approach to communications chaos"
 header_image: 2014-11-19-three-prong.jpg
