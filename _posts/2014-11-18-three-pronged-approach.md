@@ -9,7 +9,7 @@ header_image: 2014-11-19-three-prong.jpg
 
 <!-- excerpt -->
 
-If you talk to the communications manager (or similar position) of a brand of just about any size, you might notice a small tinge of panic in their voice. It's all just too much. On one hand, communicating with audiences is easier than ever, with seemingly infinite platforms to engage with infinite types of customers. But on the other hand, keeping up with it all without sounding insane is madness.
+If you talk to the communications manager (or similar position) of a brand of just about any size, you might notice a small tinge of panic in their voice. It's all just too much. On one hand, communicating with audiences is easier than ever, with seemingly infinite platforms to engage with infinite types of customers. But on the other hand, keeping up with it all while not sounding insane is madness.
 
 Here's an personal example. Our primary communications goal is to build an authentic brand relationship with our customers. That may sound like an oxymoron, but it's really not. We're not looking to be part of your social scene, and we'll never expect you to wake up every morning pining over what we have to say, but we do hope that when your friends ask for a domain registrar recommendation, you're confident enough in us steer them our way. And aside from constantly improving our platform, the best way to gain your trust is to let you in a bit—to show you what we're focusing on, thinking about, creating and improving.
 
