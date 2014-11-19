@@ -2,7 +2,7 @@
 layout: post
 date: 2014-10-07 17:13:39 +1200
 author: Chris
-title: Mou might hit 1.0 after all (correction: it will)
+title: Mou might hit 1.0 after all
 
 ---
 
@@ -33,10 +33,6 @@ The goal is only $20,000 USD, which is very doable, and the campaign doesn't end
 >We'll be glad to open source Mou if we can reach $100,000 USD (5 times of our $20,000 USD goal). Forget the crappy clones, let's open source the original Mou!
 
 So if you miss Mou updates as much as I do, head on over to [Indiegogo](https://www.indiegogo.com/projects/mou-1-0-markdown-editor-on-os-x-for-you) and give a few bucks. It would make a lot of Markdown people (like me) very happy.
-
-***
-
-Update: There's still 10 days 
 
 
 
