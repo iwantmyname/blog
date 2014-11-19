@@ -36,7 +36,7 @@ So if you miss Mou updates as much as I do, head on over to [Indiegogo](https://
 
 ***
 
-Update: The funding goal for open-
+Update: There's still 10 days 
 
 
 
