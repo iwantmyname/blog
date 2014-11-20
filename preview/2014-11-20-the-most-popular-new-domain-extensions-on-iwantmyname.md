@@ -6,9 +6,13 @@ title: The 25 most popular new domain extensions on iwantmyname
 header_image: 2014-11-20-photography.jpg
 ---
 
+<!-- excerpt -->
+
 According to [ntldstats.com](http://ntldstats.com/tld), there are 3,177,772 new generic top-level domains (gTLDs) registered to date. What that says about the overall popularity of the rollout is up for debate, but there's no denying the success of some of the extensions. .XYZ, .CLUB, and a bunch of the city gTLDs are doing quite well, and even some of the less popular ones (62 at the moment) have broken the 10,000 registrations mark. 
 
 But, at least for me, looking at an overall popularity list doesn't really say anything. I want to know what the people I identify with are using, and for that, I need some specific stats—stats from our customers. And here's what we found.
+
+<!-- /excerpt -->
 
 ## The top 25 gTLDs on iwantmyname
 
