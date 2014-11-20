@@ -42,8 +42,6 @@ But, at least for me, looking at an overall popularity list doesn't really say a
 24. .TECHNOLOGY
 25. .BEST
 
-***
-
 ## Selected thoughts
 
 The first thing that hit me after seeing the list was how different it was than the ntldstats [popularity list](http://ntldstats.com/tld). Here are a few of the more interesting findings. 
