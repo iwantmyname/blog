@@ -24,7 +24,7 @@ The most obvious choice for your personal site is yourname.com, and that's proba
 
 Next to [.COM](https://iwantmyname.com/domains/com-domain-name-registration-for-commercial), [.CO](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia) and [.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro) seem to be the next most common choices for personal sites. And in 2012, they were excellent choices, if only because they freed you from the confines of the .COM namespace.
 
-Today, the dearth of new domain extensions allow me to be picky, and I do have some concerns with these specific two. Starting with .CO, my primary concern is spelling errors—particularly with people unconsciously adding an "m" to .CO when sending emails. .ME is a little safer in that no one will mistake it for another extension, but I always wonder if people think .ME has an Apple affiliation due to the recently retired Mobile Me (I still regularly use my @me.com email address). 
+Today, the flood of new domain extensions allow me to be picky, and I do have some concerns with these specific two. Starting with .CO, my primary concern is spelling errors—particularly with people unconsciously adding an "m" to .CO when sending emails. .ME is a little safer in that no one will mistake it for another extension, but I always wonder if people think .ME has an Apple affiliation due to the recently retired Mobile Me (I still regularly use my @me.com email address). 
 
 ##Your local ccTLD
 
