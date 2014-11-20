@@ -52,3 +52,7 @@ The first thing that hit me after seeing the list was how different it was than 
 + As well as education: .INSTITUTE, .ACADEMY, .EDUCATION
 + This was to be expected—.GURU and .EXPERT are both quite popular (we clearly have brilliant customers).
 
+***
+
+If you haven't looked in a while, be sure to check out our gTLD page. 
+
