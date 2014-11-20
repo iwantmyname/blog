@@ -48,11 +48,11 @@ The first thing that hit me after seeing the list was how different it was than 
 
 + .XYZ is nowhere to be found on our list, but is clearly the most registered new gTLD on the web.
 + .BLUE is in our top 10, but is #120 overall. Perhaps our monthly [domain discounts](https://iwantmyname.com/domains/special-offer) are more popular than I thought.
-+ We're clearly hitting the creative professional crowd. .PHOTO, .PHOTOGRAPHY, .AGENCY, .GALLERY, .CLOTHING, .COMPANY, and .TECHNOLOGY are all in our top 25.
++ We're clearly popular amongst creative professionals. .PHOTO, .PHOTOGRAPHY, .AGENCY, .GALLERY, .CLOTHING, .COMPANY, and .TECHNOLOGY are all in our top 25.
 + As well as education: .INSTITUTE, .ACADEMY, .EDUCATION
 + This was to be expected—.GURU and .EXPERT are both quite popular (we clearly have brilliant customers).
 
 ***
 
-If you haven't looked in a while (or at all), be sure to check out our [gTLD page](https://iwantmyname.com/domains/new-gtld-domain-extensions). We have 241 extensions avaialble to be registered now, and a few hundred more that can be preordered through our system. New extensions are added every month, so don't be a stranger.
+If you haven't looked in a while (or at all), be sure to check out our [gTLD page](https://iwantmyname.com/domains/new-gtld-domain-extensions). We have 241 extensions available to be registered now, and a few hundred more that can be preordered through our system. New extensions are added every month, so don't be a stranger.
 
