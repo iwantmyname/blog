@@ -10,7 +10,7 @@ header_image: 2014-11-20-photography.jpg
 
 According to [ntldstats.com](http://ntldstats.com/tld), there are 3,177,772 new generic top-level domains (gTLDs) registered to date. What that says about the overall popularity of the rollout is up for debate, but there's no denying the success of some of the extensions. .XYZ, .CLUB, and a bunch of the city gTLDs are doing quite well, and even some of the less popular ones (62 at the moment) have broken the 10,000 registrations mark. 
 
-But, at least for me, looking at an overall popularity list doesn't really say anything. I want to know what the people I identify with are using, and for that, I need some specific stats—stats from our customers. And here's what we found.
+But, at least for me, looking at an overall popularity list doesn't really say anything. I want to know what the people I identify with are using, and for that, I need some specific stats—stats from our customers. Here's what we found.
 
 <!-- /excerpt -->
 
@@ -54,5 +54,5 @@ The first thing that hit me after seeing the list was how different it was than 
 
 ***
 
-If you haven't looked in a while, be sure to check out our gTLD page. 
+If you haven't looked in a while (or at all), be sure to check out our [gTLD page](https://iwantmyname.com/domains/new-gtld-domain-extensions). We have 241 extensions avaialble to be registered now, and a few hundred more that can be preordered through our system. New extensions are added every month, so don't be a stranger.
 
