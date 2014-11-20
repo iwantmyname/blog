@@ -46,7 +46,7 @@ But, at least for me, looking at an overall popularity list doesn't really say a
 
 The first thing that hit me after seeing the list was how different it was than the ntldstats [popularity list](http://ntldstats.com/tld). Here are a few of the more interesting findings. 
 
-+ .XYZ is nowhere to be found on our list, but is clearly the most registered new gTLD on the web.
++ .XYZ is nowhere to be found on our list, but it's far-and-away the most registered new gTLD on the web.
 + .BLUE is in our top 10, but is #120 overall. Perhaps our monthly [domain discounts](https://iwantmyname.com/domains/special-offer) are more popular than I thought.
 + We're clearly popular amongst creative professionals. .PHOTO, .PHOTOGRAPHY, .AGENCY, .GALLERY, .CLOTHING, .COMPANY, and .TECHNOLOGY are all in our top 25.
 + As well as education: .INSTITUTE, .ACADEMY, .EDUCATION
