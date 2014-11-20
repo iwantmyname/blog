@@ -50,7 +50,7 @@ The first thing that hit me after seeing the list was how different it was than 
 + .BLUE is in our top 10, but is #120 overall. Perhaps our monthly [domain discounts](https://iwantmyname.com/domains/special-offer) are more popular than I thought.
 + We're clearly popular amongst creative professionals. .PHOTO, .PHOTOGRAPHY, .AGENCY, .GALLERY, .CLOTHING, .COMPANY, and .TECHNOLOGY are all in our top 25.
 + As well as education: .INSTITUTE, .ACADEMY, .EDUCATION
-+ This was to be expected—.GURU and .EXPERT are both quite popular (we clearly have brilliant customers).
++ This was to be expected—.GURU and .EXPERT are both on the list (we clearly have brilliant customers).
 
 ***
 
