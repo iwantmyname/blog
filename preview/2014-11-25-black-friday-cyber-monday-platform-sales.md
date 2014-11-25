@@ -2,7 +2,7 @@
 layout: post
 date: 2014-11-25 12:19:05 +1200
 author: Chris
-title: Black Friday/Cyber Monday platform sales
+title: "Black Friday/Cyber Monday platform sales"
 header_image: 2014-11-25-black-friday.jpeg
 ---
 
