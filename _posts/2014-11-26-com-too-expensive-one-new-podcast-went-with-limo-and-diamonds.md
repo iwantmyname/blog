@@ -3,7 +3,7 @@ layout: post
 date: 2014-11-26 07:11:03 +1200
 author: Chris
 title: .COM too expensive? One new podcast went with .LIMO and .DIAMONDS
-
+excerpt: no
 ---
 
 For the "do domain extensions really matter" archives. [Gimlet Media](http://gimletmedia.com) just announced its first new podcast yesterday, Reply All. We're not a podcast review site so I won't go into details (tldr: it's a great, story based podcast about the internet), but there's one line in the end credits of the first episode I absolutely loved.
