@@ -26,4 +26,6 @@ We'll be updating this page throughout the week as sales are announced, so be on
 + Nov. 28 - Domains and Privacy 50% off
 + Nov. 29 - Mojo Themes Bundle: get 12 themes for only $29 (worth $500)
 + Nov. 30 - Backup & Restore 50% off
-+ Dec. 1 - Popular Add-ons 50% off (SSL, DedIP, SpamExperts) 
++ Dec. 1 - Popular Add-ons 50% off (SSL, DedIP, SpamExperts)
+
+## Duda Mobile
