@@ -28,6 +28,8 @@ We'll be updating this page throughout the week as sales are announced, so be on
 + Nov. 30 - Backup & Restore 50% off
 + Dec. 1 - Popular Add-ons 50% off (SSL, DedIP, SpamExperts)
 
-## [Duda Mobile](
+## [Duda Mobile](http://www.dudamobile.com)
 
 **Dec 1**: Use coupon code "50off" to get 50% off all annual plans.
+
+## [Tictail]
