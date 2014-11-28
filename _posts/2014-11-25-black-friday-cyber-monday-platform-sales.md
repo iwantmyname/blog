@@ -32,4 +32,5 @@ We'll be updating this page throughout the week as sales are announced, so be on
 
 **Dec 1**: Use coupon code "50off" to get 50% off all annual plans.
 
-## [Tictail]
+## [Tictail](https://tictail.com)
+
