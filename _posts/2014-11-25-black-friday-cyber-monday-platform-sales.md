@@ -29,3 +29,5 @@ We'll be updating this page throughout the week as sales are announced, so be on
 + Dec. 1 - Popular Add-ons 50% off (SSL, DedIP, SpamExperts)
 
 ## Duda Mobile
+
+**Dec 1**: 
