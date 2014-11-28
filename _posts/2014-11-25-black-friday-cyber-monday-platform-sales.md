@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-11-25 12:19:05 +1200
+date: 2014-11-29 11:10:33 +1200
 author: Chris
 title: "Black Friday/Cyber Monday platform sales"
 header_image: 2014-11-25-black-friday.jpeg
@@ -46,5 +46,5 @@ We'll be updating this page throughout the week as sales are announced, so be on
 
 ## [Zenfolio](http://www.zenfolio.com)
 
-**Nov 28 - Nov 30**: Movember isn't over
+**Nov 28 - Nov 30**: Movember isn't over... get 30% off an account with coupon code DONTSHAVE30.
 
