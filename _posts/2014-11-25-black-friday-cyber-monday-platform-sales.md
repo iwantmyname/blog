@@ -36,3 +36,5 @@ We'll be updating this page throughout the week as sales are announced, so be on
 
 **Nov 28**: It's not a traditional sale, but if you're in the shopping mood, you can save 30% off all original products from independent store owners.
 
+## Timely
+
