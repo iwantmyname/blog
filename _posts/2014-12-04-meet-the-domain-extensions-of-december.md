@@ -15,13 +15,11 @@ Also, with this being the last month of the year, be sure to check out how far t
 
 <!-- /excerpt -->
 
-***
-
-##December 2
+### December 2
 
 + [.Paris](https://iwantmyname.com/domains/dot-paris)
 
-##December 10
+### December 10
 
 + [.auction](https://iwantmyname.com/domains/dot-auction)
 + [.business](https://iwantmyname.com/domains/dot-business)
@@ -30,11 +28,8 @@ Also, with this being the last month of the year, be sure to check out how far t
 + [.pizza](https://iwantmyname.com/domains/dot-pizza)
 + [.software](https://iwantmyname.com/domains/dot-software)
 
-##December 24
+### December 24
 
 + [.rehab](https://iwantmyname.com/domains/dot-rehab)
 
-***
-
 For the full list of the gTLDs coming out (now updated through January 28th), be sure to visit our [launch calendar](https://iwantmyname.com/domains/new-gtld-launch-dates).
-
