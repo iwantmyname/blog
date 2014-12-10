@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-12-11 08:20:03 +1200
+date: 2014-12-11 08:20:02 +1200
 author: Chris
 title: "Is it still worthwhile to have keywords in domains?"
 header_image: 2014-12-11-car-line.jpg
