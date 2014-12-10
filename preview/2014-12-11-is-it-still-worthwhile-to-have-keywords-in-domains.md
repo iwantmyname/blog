@@ -13,6 +13,7 @@ header_image: 2014-12-11-car-line.jpg
 >What, if any, role do keyword domains play in SEO today? Is it still worth spending tens of thousands of dollars for a category-defining domain name if it’s not an automatic ticket the front of the line?
 >
 > Specifically, we want to examine:
+>
 + Are keyword domain names still beneficial?
 + How much do they help?
 + In what ways do they help?
