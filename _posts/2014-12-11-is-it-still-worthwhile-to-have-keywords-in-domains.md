@@ -19,5 +19,5 @@ header_image: 2014-12-11-car-line.jpg
 + In what ways do they help?
 + What is that help worth, in dollar terms?
 
-If you've ever gone through the process of naming a website, you've probably struggled with this very issue—is it better for business to have your domain name stick to a brand (dominos.com) or a keyword (dominos**pizza**.com)? I'd be the first to tell you not to worry about it—the quality of what you sell will eventually trump optimization in rankings—but my cavalier mentality might be getting in the way of a very real SEO benefit. Especially if your website/company is solely focused on a single topic or product.
+If you've ever gone through the process of naming a website, you've probably struggled with this very issue—is it better for business to have your domain name stick to a brand (dominos.com) or a keyword (dominos**pizza**.com)? I'd be the first to tell you not to worry about it—the quality of your product will eventually trump optimization in rankings—but my cavalier mentality might be getting in the way of a very real SEO benefit. Especially if your website is solely focused on a single topic or product.
 
