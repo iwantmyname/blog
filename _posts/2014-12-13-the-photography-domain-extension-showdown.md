@@ -104,6 +104,6 @@ Photographers do photography. They don't just create pictures, they create artâ€
 
 **WINNER (non-photographers): .pics**
 
-If you're not a photographer, you might as well eliminate all the fluff. Cut the letters, bypass the excess search traffic, and go with .pics.
+If you're not a photographer, you might as well eliminate all the fluff. Cut the letters, bypass the excess search competition, and go with .pics.
 
 
