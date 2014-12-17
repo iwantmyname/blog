@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-12-17 10:59:31 +1200
+date: 2014-12-17 10:59:30 +1200
 author: Chris
 title: "New feature alert—we now support USD, NZD, AUD, GBP and EUR!"
 excerpt: no
@@ -8,7 +8,7 @@ excerpt: no
 
 ![Multicurrency]({{ site.images_url }}/2014-10-14-multicurrency.png)
 
-If you've been on the [iwantmyname website](https://iwantmyname.com/) lately, you might've noticed a change in the bottom right corner of the footer—a multicurrency toggle. Now, instead of displaying prices in only USD (US Dollar), you can switch currencies to NZD (New Zealand Dollar), GBP (British Pound), AUD (Australian Dollar), and EUR (Euro). It's a small feature, but one we're really happy to roll out.
+If you've been on the [iwantmyname website](https://iwantmyname.com/) lately, you might've noticed a change in parts of the site—a new multicurrency toggle. Now, instead of displaying prices in only USD (US Dollar), you can switch currencies to NZD (New Zealand Dollar), GBP (British Pound), AUD (Australian Dollar), and EUR (Euro). It's a small feature, but one we're really happy to roll out.
 
 ###A Little Backstory
 
