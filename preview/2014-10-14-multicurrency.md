@@ -8,7 +8,7 @@ excerpt: no
 
 ![Multicurrency]({{ site.images_url }}/2014-10-14-multicurrency.png)
 
-If you've been on the [iwantmyname website](https://iwantmyname.com/) lately, you might've noticed a change in the bottom right corner of the footer—a multicurrency toggle. Now, instead of displaying prices in only US dollars, you can switch currencies to NZD, GBP, AUD, and EUR. It's a small feature, but one we're really happy to roll out.
+If you've been on the [iwantmyname website](https://iwantmyname.com/) lately, you might've noticed a change in the bottom right corner of the footer—a multicurrency toggle. Now, instead of displaying prices in only US dollars, you can switch currencies to NZD, GBP, AUD, and EUR (. It's a small feature, but one we're really happy to roll out.
 
 ###A Little Backstory
 
