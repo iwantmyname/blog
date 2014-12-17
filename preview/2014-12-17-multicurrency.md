@@ -16,7 +16,7 @@ For the first half-decade of iwantmyname, implementing multicurrency through our
 
 But now we're a bit bigger, and our customers are a bit more spread out, so we've officially launched our multicurrency expansion. We quietly launched it a few weeks ago, and we're really happy with how it's working (being based in New Zealand, it's nice to see things in NZD).
 
-So next time you're looking for a domain, there are three ways to change your currency: in the footer (see screenshot), on all our price lists (like [this one](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions)), and in your account payment settings. We've also set it up to be location aware, so new customers should automatically be assigned to their correct currency. Once switched, all prices on the site (minus the blog, which is currently static), should reflect the change.
+So next time you're looking for a domain, there are three ways to change your currency: in the footer (see screenshot below), on all our price lists (like [this one](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions)), and in your account payment settings. We've also set it up to be location aware, so new customers should automatically be assigned to their correct currency. Once switched, all prices on the site (minus the blog, which is currently static), should reflect the change.
 
 ![NZD]({{ site.images_url }}/2014-10-14-nzd.png)
 
