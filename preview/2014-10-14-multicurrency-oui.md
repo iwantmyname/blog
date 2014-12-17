@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-12-17 11:59:33 +1200
+date: 2014-12-17 11:59:32 +1200
 author: Chris
 title: Multicurrency? Oui!
 excerpt: no
