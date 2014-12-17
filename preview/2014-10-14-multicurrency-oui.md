@@ -2,7 +2,7 @@
 layout: post
 date: 2014-12-17 11:59:32 +1200
 author: Chris
-title: "We've added a new feature—multicurrency"
+title: "New feature alert—we now support USD, NZD, AUD, GBP and EUR!"
 excerpt: no
 ---
 
