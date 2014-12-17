@@ -22,4 +22,4 @@ So next time you're looking for a domain, there are three ways to change your cu
 
 ![NZD]({{ site.images_url }}/2014-10-14-nzd.png)
 
-Also, if you have any questions about multicurrency, [feel free to ask](http://help.iwantmyname.com). We're always here to help.
+Also, if you have any questions about multicurrency, [feel free to ask](https://iwantmyname.com/support). We're always here to help.
