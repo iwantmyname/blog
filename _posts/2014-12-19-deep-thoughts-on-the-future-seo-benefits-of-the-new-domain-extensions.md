@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-12-19 12:16:17 +1200
+date: 2014-12-19 11:16:15 +1200
 author: Chris
 title: Deep thoughts on the future SEO benefits of the new domain extensions
 excerpt: no
