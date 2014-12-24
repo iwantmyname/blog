@@ -17,7 +17,7 @@ The holidays are upon us, and we’d like to thank you all for making 2014 so gr
 
 ## Speaking of support
 
-Just a note. With Christmas and New Year’s coming up, support may be a little slower (but no less thorough) than our usual standard. Our [Support Center](http://help.iwantmyname.com) is stocked with answers to a bunch of questions though, so be sure to check there first if you’re running into any issues.
+Just a note. With Christmas here and New Year’s coming up, support may be a little slower (but no less thorough) than our usual standard. Our [Support Center](http://help.iwantmyname.com) is stocked with answers to a bunch of questions though, so be sure to check there first if you’re running into any issues.
 
 ***
 
