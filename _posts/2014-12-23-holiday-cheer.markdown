@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-12-23 13:43:26 -0700
+date: 2014-12-24 05:43:26 +1200
 author: Chris
 title: Holiday cheer, some news items, and a bit of relaxation
 header_image: 2014-12-23-sparkler.jpg
