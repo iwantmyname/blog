@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-01-02 13:35:28 -0700
+date: 2015-01-02 12:35:28 -0700
 author: Chris
-title: Reply All covers Longform.org’s attempt to buy their corresponding .com
+title: "Reply All covers Longform.org’s attempt to buy their corresponding .com"
 excerpt: no
 ---
 
