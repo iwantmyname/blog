@@ -13,7 +13,7 @@ header_image: 2015-01-05-space.jpg
 
 Now the big question...has the new gTLD launch been a success? Well, it depends what your metric is. .Xyz recently hit the 750,000 domains registered mark, making it the most registered new gTLD out there, and as Peter Roesler of Inc. [put it](http://www.inc.com/peter-roesler/will-new-top-level-domains-matter-in-2015.html), "If you want to use one of the new TLDs to build a site with an easy-to-remember name, you won't be disappointed". Sure, the registration numbers aren't to the level of .com yet, but I think any gTLD registry owner would tell you it's a marathon, not a sprint. 
 
-In 2015, I'd expect to see steady gTLD growth as more people become aware of their existence (if the general public was aware of the glorious [.pizza](https://iwantmyname.com/domains/dot-pizza) extension, we'd see an online pizza renaissance for sure). And with another year of new launches, paired with the ever-dwindling supply of good remaining .coms, the growth might be faster than people expect. 
+In 2015, I'd expect to see steady gTLD growth as more people become aware of their existence (if the general public knew about the glorious [.pizza](https://iwantmyname.com/domains/dot-pizza) extension, we'd see an online pizza renaissance for sure). And with another year of new launches, paired with the ever-dwindling supply of good remaining .coms, the growth might be faster than people expect. 
 
 Prognostication aside, we have a big year of gTLDs ahead of us, and it all begins with the nine new extensions we're launching this month. 
 
