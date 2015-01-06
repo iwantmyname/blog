@@ -15,7 +15,7 @@ Now the big question...has the new gTLD launch been a success? Well, it depends 
 
 In 2015, I'd expect to see steady gTLD growth as more people become aware of their existence (if the general public knew about the glorious [.pizza](https://iwantmyname.com/domains/dot-pizza) extension, we'd see an online pizza renaissance for sure). And with another year of new launches, paired with the ever-dwindling supply of good remaining .coms, the growth might be faster than people expect. 
 
-Prognostication aside, we have a big year of gTLDs ahead of us, and it all begins with the nine new extensions we're launching this month. 
+Prognostication aside, we have a big year of gTLDs ahead of us, and it all begins with the 11 new extensions we're launching this month. 
 
 <!-- /excerpt -->
 
