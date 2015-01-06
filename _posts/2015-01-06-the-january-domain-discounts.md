@@ -7,9 +7,13 @@ header_image: 2015-01-06-asia-mountains.jpg
 
 ---
 
+<!-- excerpt -->
+
 It's a new year, so let's talk a bit about domain discounts. This month, we have a host of sales carrying over from December, plus two location-based TLDs moonlighting as cultural favorites. .Vegas, hailing from the US city of Las Vegas, is synonymous on the web (and elsewhere) with gambling culture, and will likely draw interest with gaming sites and travel microsites. And .Asia, the world's largest continent, is attempting to bring online nations together for business and trade. 
 
 Take a look at 2015's first domain discount list, and start the new year right with a shiny new online space.
+
+<!-- /excerpt -->
 
 ***
 
