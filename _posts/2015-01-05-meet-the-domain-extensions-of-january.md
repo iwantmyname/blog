@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-01-05 15:25:33 -0700
+date: 2015-01-05 15:25:32 -0700
 author: Chris
 title: "Meet the domain extensions of January (2015!), including .degree, .space, and .band"
 header_image: 2015-01-05-space.jpg
