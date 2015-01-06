@@ -25,7 +25,10 @@ Prognostication aside, we have a big year of gTLDs ahead of us, and it all begin
 + [.gives](https://iwantmyname.com/domains/dot-gives)
 + [.world](https://iwantmyname.com/domains/dot-world)
 
-### January 
+### January 20
+
++ [.brussels](https://iwantmyname.com/domains/dot-brussels)
++ [.viaanderen](https://iwantmyname.com/domains/dot-viaanderen)
 
 ### January 21
 
