@@ -50,4 +50,4 @@ I remember what it was like to be a registrant. We want our spaces to be easy to
 
 ***
 
-Image from the [Uniregistry Careers page](http://uniregistry.com/careers).
+Image from the [Uniregistry Careers page](http://archived.link/http://uniregistry.com/careers).
