@@ -100,7 +100,7 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Cactus](http://cactusformac.com/) - A powerful static site builder using Python and the Django template system.
 
-[Chisel](https://github.com/ckunte/chisel) - An incredibly lightweight (less than 8kb) blog generation utility.
+[Chisel](http://archived.link/https://github.com/ckunte/chisel) - An incredibly lightweight (less than 8kb) blog generation utility.
 
 [Flask](http://flask.pocoo.org/) - A micro-framework for Python based on Werkzeug, Jija 2 and "good intentions."
 
