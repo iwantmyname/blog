@@ -7,7 +7,7 @@ title: Peter Orum on why he chose .PICS for his photography website
 header_image: 2014-04-19-street-pics.jpg
 guest_author:
   name: Peter Orum
-  avatar: https://twitter.com/api/users/profile_image/peterorum?size=reasonably_small
+  avatar: https://pbs.twimg.com/profile_images/482497861335007232/n6dSAdhw.jpeg
   twitter: peterorum
   footer: >
     Find more of Peter Orum's work on his new black and white street photography site, [street.pics](http://street.pics/), and on his personal domain, [peterorum.com](http://www.peterorum.com/#/).
