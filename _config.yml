@@ -4,7 +4,7 @@ twitter: iwantmyname
 
 # Plugins
 markdown: redcarpet
-pygments: yes
+highlighter: pygments
 
 # Base URL for GitHub Pages, use `jekyll serve --baseurl ""` locally
 # This needs to be an absolute URL for the RSS feeds
