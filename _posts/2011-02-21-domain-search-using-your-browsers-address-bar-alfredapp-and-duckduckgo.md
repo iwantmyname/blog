@@ -39,7 +39,7 @@ A right-click in your address bar lets you edit the search engines Chrome uses. 
 
 ### DuckDuckGo
 
-Thanks to [Louis Galipeau](http://twitter.com/muloka), you can also search for domains at iWantMyName directly from the [DuckDuckGo](http://duckduckgo.com) search box. Just enter `!iwant domainname` and you will be forwarded to the search result page.
+Thanks to [Louis Galipeau](https://twitter.com/muloka), you can also search for domains at iWantMyName directly from the [DuckDuckGo](http://duckduckgo.com) search box. Just enter `!iwant domainname` and you will be forwarded to the search result page.
 
 ![duckduckgo-domain-search.png]({{ site.images_url }}/2011-02-21-duckduckgo-domain-search.png)
 

@@ -29,7 +29,7 @@ Think of Clicky as Google Analytics' slightly worse looking cousin. It's got a g
 
 ![analytics-clicky-1.png]({{ site.images_url }}/2013-03-05-analytics-clicky-1.png)
 
-Clicky features real-time statistics, [Twitter](http://twitter.com "Twitter") monitoring, a [Wordpress](http://wordpress.org "WordPress") plugin as well as an [iPhone application](http://www.apple.com/itunes "App Store (iOS)"). It's great at letting you dig into your data and show it in meaningful ways. Clicky is slightly faster to update than Google Analytics too, so it's great for if you've got a large spike in traffic.
+Clicky features real-time statistics, [Twitter](https://twitter.com "Twitter") monitoring, a [Wordpress](http://wordpress.org "WordPress") plugin as well as an [iPhone application](http://www.apple.com/itunes "App Store (iOS)"). It's great at letting you dig into your data and show it in meaningful ways. Clicky is slightly faster to update than Google Analytics too, so it's great for if you've got a large spike in traffic.
 
 Clicky is a hosted solution, so has a few price tiers as well as a free version. It's free for up to 3,000 payviews per day, and after that will cost to use. We've found that the Wordpress plugin for Clicky works much better than Google's alternatives.
 
