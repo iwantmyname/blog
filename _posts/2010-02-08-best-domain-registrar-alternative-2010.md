@@ -27,4 +27,4 @@ Then look no further - meet iWantMyName, the easiest way to search, register and
 
 We also have some special offers in February so you can try out our service. Register .COM / .NET / .ORG domain names at $10.90 USD until February 15th or transfer them at only $9.90 USD for the rest of February. You should also check out our current [domain promos](https://iwantmyname.com/domain-promo) where you can save even more on international domains!
 
-Do you like what we have to offer at iWantMyName? Your friends might as well! **Help us to **[**spread the word on Twitter**](http://twitter.com/home?status=Looking for a domain registrar alternative? Meet @iwmn - the easiest way to register and manage domains: https://iwantmyname.com)** and **[**become a fan on Facebook**](http://facebook.com/iwantmyname).
+Do you like what we have to offer at iWantMyName? Your friends might as well! **Help us to **[**spread the word on Twitter**](https://twitter.com/home?status=Looking for a domain registrar alternative? Meet @iwmn - the easiest way to register and manage domains: https://iwantmyname.com)** and **[**become a fan on Facebook**](http://facebook.com/iwantmyname).

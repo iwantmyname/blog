@@ -16,7 +16,7 @@ tags:
 
 ---
 
-The iWantMyName team is about to head to Australia to attend the 35th [ICANN meeting in Sydney](http://twitter.com/ntlds) next week. [ICANN](http://icann.org/) is the governing body of the internet and the acronym for "**I**nternet **C**orporation For **A**ssigned **N**ames And **N**umbers". It's crucial for us to follow what's happening in the domain business and ICANN meetings are always a perfect place to mingle with industry experts, other domain registrars and registries.
+The iWantMyName team is about to head to Australia to attend the 35th [ICANN meeting in Sydney](https://twitter.com/ntlds) next week. [ICANN](http://icann.org/) is the governing body of the internet and the acronym for "**I**nternet **C**orporation For **A**ssigned **N**ames And **N**umbers". It's crucial for us to follow what's happening in the domain business and ICANN meetings are always a perfect place to mingle with industry experts, other domain registrars and registries.
 
 The most discussed topic at ICANN Sydney will be the so-called "[new gTLD program](http://icann.org/en/topics/new-gtld-program.htm)" which plans to **extend the current system of 20 generic top-level domains** such as .COM, .NET or .ORG with new domain name extensions. However, it will not be possible for everybody to have its own domain extension in a way you can [register a domain name](https://iwantmyname.com/) at the moment. There are still financial and technical requirements to be fullfilled. If you're interested to read more about the process we recommend Michele Neylon's "[New TLDs for Dummies (sort of)](http://www.circleid.com/posts/new_tlds_for_dummies_sort_of)" and ICANN's "[So where are we up to with these new internet extensions?](http://blog.icann.org/2009/05/so-where-are-we-up-to-with-these-new-internet-extensions/)".
 
@@ -97,4 +97,4 @@ Sources:
 
 [http://citytld.com/](http://citytld.com/)
 
-[http://twitter.com/ntlds](http://twitter.com/ntlds)
+[https://twitter.com/ntlds](https://twitter.com/ntlds)

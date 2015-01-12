@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Have you ever wondered about how to get an ultra short URL? We dugg around for you and compiled a list of some of the shortest domains that are still available for registration. Short URLs are primarily used from URL shortening services like [tr.im](http://tr.im/), [is.gd](http://is.gd/) or [bit.ly](http://bit.ly/) on Twitter ([follow us](http://twitter.com/iwmn)) and other microblogging sites, but not limited to it. You could also just forward a short domain to your existing blog or website and use it as a shortcut. It's not only easy to remember but also more visible in case long URLs are truncated. And last but not least it saves characters when you're tweeting with your custom short URL. In this case we'd say: the shorter the better!
+Have you ever wondered about how to get an ultra short URL? We dugg around for you and compiled a list of some of the shortest domains that are still available for registration. Short URLs are primarily used from URL shortening services like [tr.im](http://tr.im/), [is.gd](http://is.gd/) or [bit.ly](http://bit.ly/) on Twitter ([follow us](https://twitter.com/iwmn)) and other microblogging sites, but not limited to it. You could also just forward a short domain to your existing blog or website and use it as a shortcut. It's not only easy to remember but also more visible in case long URLs are truncated. And last but not least it saves characters when you're tweeting with your custom short URL. In this case we'd say: the shorter the better!
 
 Here's the list:
 

@@ -43,6 +43,6 @@ over the next few days without any service interruption.
 Thank you very much for your support and patience whilst we 
 experienced 
 these growing pains. Responding to feedback from our customers is how we
- improve, so please feel free to yell at us on [Twitter](http://twitter.com/iWantMyNameNZ), drop us an
+ improve, so please feel free to yell at us on [Twitter](https://twitter.com/iWantMyNameNZ), drop us an
 [ email](mailto:help@support.iwantmyname.com) or leave [feedback](https://iwantmyname.co.nz/support) if you encounter any problems in 
 the future.

@@ -31,14 +31,14 @@ After a bit of thought, we decided to pool together all of our favorite websites
 + [economist.com](http://economist.com/)
 + [nzherald.co.nz](http://nzherald.co.nz/)
 + [bbc.com](http://bbc.com/)
-+ [twitter.com](http://twitter.com/)
++ [twitter.com](https://twitter.com/)
 + [startupdigest.com](http://startupdigest.com/)
 
 **Timo Reitnauer - [@treitnauer](https://twitter.com/treitnauer):**
 
 + [soundcloud.com](http://soundcloud.com/)
 + [hypem.com](http://hypem.com/)
-+ [twitter.com](http://twitter.com/)
++ [twitter.com](https://twitter.com/)
 + [domaincite.com](http://domaincite.com/)
 + [toucharcade.com](http://toucharcade.com/)
 
@@ -60,7 +60,7 @@ After a bit of thought, we decided to pool together all of our favorite websites
 
 + [livejournal.com](http://livejournal.com/)
 + [stackoverflow.com](http://stackoverflow.com/)
-+ [twitter.com](http://twitter.com/)
++ [twitter.com](https://twitter.com/)
 + [everything2.org](http://everything2.org/)
 + [bash.org/?random](http://bash.org/?random)
 

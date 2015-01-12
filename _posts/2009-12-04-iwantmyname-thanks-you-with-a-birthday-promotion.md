@@ -21,4 +21,4 @@ CEO
 ## Birthday Domain Promotions##
 We really can't believe it ourselves but iWantMyName is turning one year old in December. So we hope you will join us in celebrating our first anniversary by taking advantage of some special prices for new domain registrations and transfers throughout December. Visit our [domain promotion site](https://iwantmyname.com/domain-promo) for more information
 
-To receive the newest offers, coupon codes and Twitter-only bargains, you should follow @domainpromos on Twitter [here](http://twitter.com/domainpromos).
+To receive the newest offers, coupon codes and Twitter-only bargains, you should follow @domainpromos on Twitter [here](https://twitter.com/domainpromos).

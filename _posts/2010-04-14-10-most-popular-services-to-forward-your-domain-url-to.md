@@ -17,7 +17,7 @@ So why would you choose to redirect a domain name? First, some web services do n
 **Here's our top 10 list of services to forward to:**
 
 1.  [Facebook](http://facebook.com) profile / page -&gt; _http://facebook.com/username_
-2.  [Twitter](http://twitter.com) profile -&gt; _http://twitter.com/username _
+2.  [Twitter](https://twitter.com) profile -&gt; _https://twitter.com/username _
 3.  [LinkedIn](http://linkedin.com) profile -&gt; http://linkedin.com/in/username
 4.  [Google Profiles](http://profiles.google.com) -&gt; _http://profiles.google.com/username_
 5.  [Flickr](http://flickr.com) fotos -&gt; _http://flickr.com/photos/username_

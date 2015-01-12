@@ -26,7 +26,7 @@ Useful [tip on the bit.ly blog](http://blog.bit.ly/post/1003484046/more-tips-for
 >
 >  &lt;div&gt;
 >
->  &lt;a href="http://twitter.com/share" class="twitter-share-button"&gt;Tweet&lt;/a&gt; 
+>  &lt;a href="https://twitter.com/share" class="twitter-share-button"&gt;Tweet&lt;/a&gt; 
 >
 >  &lt;/div&gt;
 > _

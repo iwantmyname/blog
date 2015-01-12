@@ -23,4 +23,4 @@ So now it's the perfect time to revisit this year's highlights on the iWantMyNam
 *   [Your First Name Under .COM Might Still Be Available (Upside Down)](http://blog.iwantmyname.com/2009/08/your-first-name-under-com-might-still-be-available.html)
 *   [Search IDNs With The Virtual Keyboard](http://blog.iwantmyname.com/2009/08/search-idns-virtual-keyboard-non-latin-layouts.html)
 
-We've got big plans for 2010, so please enjoy these articles and do keep in touch. You can also get handy domain tips and updates through [@iwmn](http://twitter.com/iwmn) and [@domainpromos](http://twitter.com/domainpromos) on Twitter.
+We've got big plans for 2010, so please enjoy these articles and do keep in touch. You can also get handy domain tips and updates through [@iwmn](https://twitter.com/iwmn) and [@domainpromos](https://twitter.com/domainpromos) on Twitter.

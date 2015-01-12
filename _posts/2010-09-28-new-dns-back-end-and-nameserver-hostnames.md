@@ -23,4 +23,4 @@ We take our responsibilities to our customers very seriously, so we have made so
 
 Existing domain names will be migrated to the new DNS infrastructure over the next few days without any service interruption.
 
-Thank you very much for your support and patience whilst we experienced these growing pains. Responding to feedback from our customers is how we improve, so please feel free to [yell at us on Twitter](http://twitter.com/iwantmyname), [drop us an email](https://iwantmyname.com/support) or [leave feedback](http://feedback.iwantmyname.com) if you encounter any problems in the future.
+Thank you very much for your support and patience whilst we experienced these growing pains. Responding to feedback from our customers is how we improve, so please feel free to [yell at us on Twitter](https://twitter.com/iwantmyname), [drop us an email](https://iwantmyname.com/support) or [leave feedback](http://feedback.iwantmyname.com) if you encounter any problems in the future.
