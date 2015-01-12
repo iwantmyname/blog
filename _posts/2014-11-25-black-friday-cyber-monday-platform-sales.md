@@ -36,7 +36,7 @@ We'll be updating this page throughout the week as sales are announced, so be on
 
 **Dec 1**: Use coupon code "50off" to get 50% off all annual plans.
 
-### [Storenvy](http://www.storenvy.com/sales/the-biggest-small-business-sale-ever/)
+### [Storenvy](http://archived.link/http://www.storenvy.com/sales/the-biggest-small-business-sale-ever/)
 
 **Nov 28**: It's not a traditional sale, but if you're in the shopping mood, you can save 30% off all original products from independent store owners.
 
