@@ -18,8 +18,8 @@ before_install:
   - chmod 600 .travis/deploy_key
   - eval "$(ssh-agent)"
   - ssh-add .travis/deploy_key
-  - git config user.name "Travis-CI"
-  - git config user.email "kingersoll+travis-ci-deploy@gmail.com"
+  - git --global config user.name "Travis-CI"
+  - git --global config user.email "kingersoll+travis-ci-deploy@gmail.com"
 
 install:
   - bundle install
