@@ -31,8 +31,5 @@ script:
   - bundle exec jekyll build
 
 after_success:
-  - cd _site
-  - git add -A
-  - git push origin gh-pages:gh-pages-test
-  - cd ..
+  - cd _site && git add -A && git push origin gh-pages:gh-pages-test
   - rake test
