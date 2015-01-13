@@ -33,6 +33,7 @@ script:
 after_success:
   - cd _site
   - git add -A
+  - git commit -m "Travis-CI build"
   - git push origin gh-pages-test
   - cd ..
   - rake test
