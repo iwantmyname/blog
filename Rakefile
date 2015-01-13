@@ -12,7 +12,9 @@ task :test do
 		],
 		href_swap: {
 			# make blog links relative
-			/^http:\/\/blog\.iwantmyname\.com/ => ""
+			# /^http:\/\/blog\.iwantmyname\.com/ => ""
+			# below ensures that there's at least a "/" href for links that match the exact href above
+			/^http:\/\/blog\.iwantmyname\.com(?:$|\/(.*)$)/ => "/\\1",
 		}
 	}).run
 end
