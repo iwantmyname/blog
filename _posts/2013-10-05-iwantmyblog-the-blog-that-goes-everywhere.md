@@ -30,6 +30,6 @@ So, to make it easier for myself, I'm giving each blog platform a solid week. Wi
 
 ###Follow me. 
 
-If you're so inclined, come follow me on my little journey at iwantmyblog.com, or just keep reading the [blog at iwantmyname.com](http://blog.iwantmyname.com) for all the bigger stories. And if you want to connect and talk about the platform I'm currently using (or the one I should use next), just send me an email at `<chris@ideegeo.com>`. 
+If you're so inclined, come follow me on my little journey at iwantmyblog.com, or just keep reading the [blog at iwantmyname.com](http://blog.iwantmyname.com/) for all the bigger stories. And if you want to connect and talk about the platform I'm currently using (or the one I should use next), just send me an email at `<chris@ideegeo.com>`. 
 
 **Next stop:** [Scriptogr.am](http://scriptogr.am/), a Markdown-using, Dropbox-based blog platform with a surprisingly nice website.

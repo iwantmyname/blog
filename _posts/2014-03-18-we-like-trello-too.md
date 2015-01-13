@@ -17,4 +17,4 @@ We really enjoyed this behind-the-scenes piece from [Bobby Grace](https://twitte
 
 We even use it *almost* the same way as the Fog Creek team does... though we celebrate with craft beers rather than champagne, and our development process has more of a blues guitar riff than a sax solo.
 
-The most important boards for myself and [Chris](https://twitter.com/hashtaghall) are the Content ones, focusing on resources for our [Support Center](http://help.iwantmyname.com) and [blog](http://blog.iwantmyname.com). We haven't managed to integrate a picture of a lumberjack punching a bear into our support documentation... yet.
+The most important boards for myself and [Chris](https://twitter.com/hashtaghall) are the Content ones, focusing on resources for our [Support Center](http://help.iwantmyname.com) and [blog](http://blog.iwantmyname.com/). We haven't managed to integrate a picture of a lumberjack punching a bear into our support documentation... yet.
