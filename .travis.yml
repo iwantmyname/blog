@@ -32,7 +32,6 @@ script:
 
 after_success:
   - cd _site
-  - pwd && git status
   - git add -A
   - git push origin gh-pages-test
   - cd ..
