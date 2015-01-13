@@ -32,6 +32,7 @@ script:
 
 after_success:
   - cd _site
+  - touch .nojekyll
   - git add -A
   - git commit -m "jekyll build"
   - git push origin gh-pages
