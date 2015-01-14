@@ -36,7 +36,7 @@ layout: page
 						<div class="col-sm-6">
 							{% if author %}
 								<p class="byline clearfix">
-										<img class="author" src="{{ author.avatar }}" alt="{{ author.name | xml_escape }}" title="{{ author.name | xml_escape }}">
+										<img class="author" src="{{ site.baseurl }}{{ author.avatar }}" alt="{{ author.name | xml_escape }}" title="{{ author.name | xml_escape }}">
 
 										&mdash; {{ author.name }}<br>
 										<a href="https://twitter.com/{{ author.twitter }}">@{{ author.twitter }}</a>
