@@ -5,7 +5,7 @@
 	<small class="date">{{ post.date | date:'%B %-d, %Y' }}</small>
 
 	{% if author %}
-		<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ author.avatar }}" alt="{{ author.name | xml_escape  }}" title="{{ author.name | xml_escape  }}"></a>
+		<a href="{{ site.baseurl }}{{ post.url }}"><img class="author" src="{{ site.baseurl }}{{ author.avatar }}" alt="{{ author.name | xml_escape  }}" title="{{ author.name | xml_escape  }}"></a>
 	{% endif %}
 
 	<h1 class="title">
