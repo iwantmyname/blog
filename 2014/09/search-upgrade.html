@@ -7,32 +7,32 @@
 	<title>How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO</title>
 
 	<!-- favicons for apple devices -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://blog.iwantmyname.com/assets/images/apple-touch-icon-xlarge.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://blog.iwantmyname.com/assets/images/apple-touch-icon-large.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://blog.iwantmyname.com/assets/images/apple-touch-icon-medium.png">
-<link rel="apple-touch-icon-precomposed" href="http://blog.iwantmyname.com/assets/images/apple-touch-icon-small.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
 <!-- favicons for IE -->
-<link rel="shortcut" href="http://blog.iwantmyname.com/favicon.ico">
+<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
 <!-- everyone else -->
-<link rel="icon" href="http://blog.iwantmyname.com/assets/images/favicon-64x64.png">
+<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
 
 	
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO">
-	<meta property="og:url" content="http://blog.iwantmyname.com/2014/09/search-upgrade.html">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2014/09/search-upgrade.html">
 	
-		<meta property="og:image" content="/assets/images/content/2014-09-09-long-view.jpg">
+		<meta property="og:image" content="/blog/assets/images/content/2014-09-09-long-view.jpg">
 	
 
 
 	
-	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="http://blog.iwantmyname.com/atom.xml">
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
 
-	<link rel="stylesheet" href="http://blog.iwantmyname.com/assets/css/libs.min.css?i4ufn272" media="all">
-	<link rel="stylesheet" href="http://blog.iwantmyname.com/assets/css/theme.min.css?i4ufn272" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i4ufn272" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i4ufn272" media="all">
 
 	<!--[if lt IE 9]>
-		<script src="http://blog.iwantmyname.com/assets/js/ie.min.js?i4ufn272"></script>
+		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i4ufn272"></script>
 	<![endif]-->
 
 	<script>
@@ -60,8 +60,8 @@
 	<div class="container iwmn-container">
 		<div class="row">
 			<div class="col-xs-9 col-sm-6">
-				<a href="http://blog.iwantmyname.com/" class="brand">
-					<img src="http://blog.iwantmyname.com/assets/images/logo.png" alt="iwantmyname logo">
+				<a href="https://iwantmyname.com/blog/" class="brand">
+					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
 					<span class="hidden-xs">Domain</span> blog
 				</a>
 			</div>
@@ -84,7 +84,7 @@
 
 
 
-	<div class="iwmn-article-header" style="background-image: url(/assets/images/content/2014-09-09-long-view.jpg);">
+	<div class="iwmn-article-header" style="background-image: url(/blog/assets/images/content/2014-09-09-long-view.jpg);">
 		<div class="container iwmn-container iwmn-article">
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
@@ -111,7 +111,7 @@
 
 <p>Our stack for search included an Erlang application (hereafter called <code>namesearchd</code>) that listened for WebSocket connections using SockJS. It also listened to RabbitMQ messages from our web servers to indicate a new search had been triggered.</p>
 
-<p><img src="/assets/images/content/2014-09-04-old-search-diagram.png" alt="Old search diagram"></p>
+<p><img src="/blog/assets/images/content/2014-09-04-old-search-diagram.png" alt="Old search diagram"></p>
 
 <p>When a customer loaded the search page, their browser connected to SockJS with their session ID. When they entered a domain name, the search was sent to the web application, and then after some validation, the search was forwarded via RabbitMQ to <code>namesearchd</code> with the session and search ID. This made <code>namesearchd</code> do the following:</p>
 
@@ -135,7 +135,7 @@
 
 <p>Given that our biggest concern was the SockJS connections being prematurely terminated, we looked for a new library to use for WebSockets. In the end we chose Socket.IO (on Node.js) after their version 1.0 release. This allowed us to change the focus of the Erlang backend to checking domain availability, and the Node.js daemon to maintain WebSocket connections and forwarding search requests (again, via RabbitMQ) to <code>namesearchd</code>, only this time, <code>namesearchd</code> would reply via RabbitMQ and let Socket.IO deal with handing the response back to the customer&#39;s web browser.</p>
 
-<p><img src="/assets/images/content/2014-09-04-new-search-diagram.png" alt="New search diagram"></p>
+<p><img src="/blog/assets/images/content/2014-09-04-new-search-diagram.png" alt="New search diagram"></p>
 
 <p>The other difference is that now the web application sends the TLD list to the client, which allows us to not have to send a list of all every TLD for each search request. The initial reason the TLD list was being sent for every search was that it could be different depending on what name you searched for. This filtering is now handled by client-side Javascript (and you’ll get an error if you cheekily use the Socket.IO connection to search for, say, a two-character domain on a TLD that doesn’t support two letter name registrations).</p>
 
@@ -153,7 +153,7 @@
 						<div class="col-sm-6">
 							
 								<p class="byline clearfix">
-										<img class="author" src="http://blog.iwantmyname.com/assets/images/authors/joel.jpg" alt="Joel Pitt" title="Joel Pitt">
+										<img class="author" src="https://iwantmyname.com/blog/assets/images/authors/joel.jpg" alt="Joel Pitt" title="Joel Pitt">
 
 										&mdash; Joel Pitt<br>
 										<a href="https://twitter.com/ferrouswheel">@ferrouswheel</a>
@@ -260,6 +260,6 @@
 
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="http://blog.iwantmyname.com/assets/js/libs.min.js?i4ufn272"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i4ufn272"></script>
 </body>
 </html>
