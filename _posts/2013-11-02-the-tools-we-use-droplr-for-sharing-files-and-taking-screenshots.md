@@ -9,7 +9,7 @@ categories:
 
 ---
 
-For a bigger, more updated look at Droplr, head over to our new post, "[Droplr is an exceptionally useful tool for sharing files and screenshots](http://blog.iwantmyname.com/2014/08/droplr-is-an-exceptionally-useful-tool.html)".
+For a bigger, more updated look at Droplr, head over to our new post, "[Droplr is an exceptionally useful tool for sharing files and screenshots](https://iwantmyname.com/blog/2014/08/droplr-is-an-exceptionally-useful-tool.html)".
 
 ![Droplr]({{ site.images_url }}/2013-11-02-screen800x500.jpg)
 

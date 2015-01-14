@@ -25,4 +25,4 @@ There's no hassle, no fuss, and it works with all the standard email hosting pla
 
 ***
 
-**Extra Credit:** If you need any help setting up a custom email address, [here's a good place to start](http://blog.iwantmyname.com/2013/09/how-to-get-a-custom-email-address.html).
+**Extra Credit:** If you need any help setting up a custom email address, [here's a good place to start](https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html).

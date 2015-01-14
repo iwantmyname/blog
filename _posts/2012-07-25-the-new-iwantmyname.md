@@ -15,7 +15,7 @@ We're happy to announce the launch of our site redesign and new iwantmyname logo
 
 **What has changed?**
 
-*   A new logo designed by New Zealand based designer [Jarred Bishop](http://jarredbishop.info/) who you also might know as the developer of several [awesome Tumblr themes](http://blog.iwantmyname.com/2010/04/3-awesome-simple-tumblr-themes-designed-by-jarred-bishop.html).
+*   A new logo designed by New Zealand based designer [Jarred Bishop](http://jarredbishop.info/) who you also might know as the developer of several [awesome Tumblr themes](https://iwantmyname.com/blog/2010/04/3-awesome-simple-tumblr-themes-designed-by-jarred-bishop.html).
 *   [Faster domain search](https://iwantmyname.com/search) with all [100+ domain extensions](https://iwantmyname.com/domains) on one single page.
 *   The layout has been moved to Twitter's [Bootstrap framework](http://twitter.github.com/bootstrap/), customized to our needs.
 *   Small improvements to our [marketplace](https://iwantmyname.com/services) and iwantmyname dashboard, mainly a new internal navigation.

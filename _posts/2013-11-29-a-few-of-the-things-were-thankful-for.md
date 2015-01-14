@@ -22,7 +22,7 @@ PhDs. Bloggers. Photographers. Developers. Each and every one we're thankful for
 
 ### The Community
 
-We couldn't possibly name all the people who've inspired us in 2013, so we won't try to come up with any sort of large, incomplete list. And as Paul said in an [August blog post](http://blog.iwantmyname.com/2013/08/iwantmyname-in-the-community.html), "the whole ecosystem here is fueled by good coffee and excellent local craft beer," so our memory might be a bit fuzzy anyway. But for all those in the community who've helped make us who we are today, thank you, thank you.
+We couldn't possibly name all the people who've inspired us in 2013, so we won't try to come up with any sort of large, incomplete list. And as Paul said in an [August blog post](https://iwantmyname.com/blog/2013/08/iwantmyname-in-the-community.html), "the whole ecosystem here is fueled by good coffee and excellent local craft beer," so our memory might be a bit fuzzy anyway. But for all those in the community who've helped make us who we are today, thank you, thank you.
 
 And if you're ever in the Wellington, New Zealand area for a conference or holiday (or if you happen to live here), be sure to stop by and [say hi to the team](https://iwantmyname.com/about).
 

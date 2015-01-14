@@ -9,7 +9,7 @@ header_image: 2014-05-22-philippines-haiyan.jpg
 
 <!-- excerpt -->
 
-You may recall that we [made a commitment](http://blog.iwantmyname.com/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) last year to contribute a portion of our earnings towards charitable purposes. [Typhoon Haiyan](http://blog.iwantmyname.com/2013/11/philippines-typhoon-how-you-can-help.html) was one of the most powerful tropical storms in recorded history and led to over 6,000 deaths when it struck the Philippines in November 2013. With the island nation sitting near our own back doorstep in Asia-Pacific, it was not a difficult choice where to spend the money this year.
+You may recall that we [made a commitment](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) last year to contribute a portion of our earnings towards charitable purposes. [Typhoon Haiyan](https://iwantmyname.com/blog/2013/11/philippines-typhoon-how-you-can-help.html) was one of the most powerful tropical storms in recorded history and led to over 6,000 deaths when it struck the Philippines in November 2013. With the island nation sitting near our own back doorstep in Asia-Pacific, it was not a difficult choice where to spend the money this year.
 
 <!-- /excerpt -->
 

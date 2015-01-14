@@ -8,7 +8,7 @@ header_image: 2014-03-27-email-inbox.jpg
 
 <!-- excerpt -->
 
-I [wrote a bit](http://blog.iwantmyname.com/2014/03/this-week-in-gtlds-is-rigged-up-for-the-it-crowd-plus-some-thoughts-on-email.html) yesterday about use cases (or a potential lack thereof) for .EMAIL domains, but it looks like plenty of brands have snapped them up in the Sunrise period. Or so it seems...
+I [wrote a bit](https://iwantmyname.com/blog/2014/03/this-week-in-gtlds-is-rigged-up-for-the-it-crowd-plus-some-thoughts-on-email.html) yesterday about use cases (or a potential lack thereof) for .EMAIL domains, but it looks like plenty of brands have snapped them up in the Sunrise period. Or so it seems...
 
 <!-- /excerpt -->
 

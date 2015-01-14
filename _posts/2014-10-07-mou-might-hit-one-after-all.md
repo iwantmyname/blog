@@ -10,7 +10,7 @@ title: Mou might hit 1.0 after all
 
 ![Mou]({{ site.images_url }}/2014-10-07-mou.png)
 
-When I started writing in Markdown, one of the first editors to draw me in was [Mou](http://blog.iwantmyname.com/2013/10/tools-we-use-mou-for-writing.html) (you know, after I got sick of writing solely in TextEdit). It was cleaner and faster than many of the editors out there, but what really excited me was the side-by-side Markdown editing and rendering. I loved the fact that when I created a link, I could see it instantly formed in the right pane—and if I fudged it up somehow, it was easy to find the error. 
+When I started writing in Markdown, one of the first editors to draw me in was [Mou](https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html) (you know, after I got sick of writing solely in TextEdit). It was cleaner and faster than many of the editors out there, but what really excited me was the side-by-side Markdown editing and rendering. I loved the fact that when I created a link, I could see it instantly formed in the right pane—and if I fudged it up somehow, it was easy to find the error. 
 
 But then Mou decided the development of the app was too taxing, tried to sell it, then kind of stopped supporting it after no offers were made. It was a sad day for Mou fans, and many of us scattered to various apps. For me, I've been playing around with MacDown as a replacement for the Mou experience and Byword for more of a pure writing tool, but still find myself using Mou from time to time—just for the nostalgia (or because I still have it as my default app for opening .md files).
 

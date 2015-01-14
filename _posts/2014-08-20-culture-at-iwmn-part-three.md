@@ -19,7 +19,7 @@ When we first created iwantmyname we had all worked at companies of various size
 Many companies speak about flat hierarchy and how they don't have many
 control structures in place, but for us it was really something that just developed out of hiring the right people. If you work with peers you trust, a management layer becomes obsolete, which frees up additional time to get actual work done and move the company forward. The speed of the company should be at the speed of the workers, not of the management layer.
 
-So yes, hiring for us is an important factor and we don't take it lightly. Hiring is also a limiting factor in our business, but by hiring the right people, taking longer to choose them, and not expanding our team too fast, we hope to maintain our culture of self direction, self empowerment and self development. With the backdrop of our [equal salaries](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-one.html), I hope this paints a rough picture of what it's like to work at iwantmyname. Flat hierarchy for us is a culture—an organic result of hiring the right people to do the right jobs.
+So yes, hiring for us is an important factor and we don't take it lightly. Hiring is also a limiting factor in our business, but by hiring the right people, taking longer to choose them, and not expanding our team too fast, we hope to maintain our culture of self direction, self empowerment and self development. With the backdrop of our [equal salaries](https://iwantmyname.com/blog/2014/05/culture-at-iwmn-part-one.html), I hope this paints a rough picture of what it's like to work at iwantmyname. Flat hierarchy for us is a culture—an organic result of hiring the right people to do the right jobs.
 
 ***
 
@@ -35,6 +35,6 @@ Chuck Blakeman of Inc.com recently put out a great post titled "[How to Hire Peo
 
 This is **part three** of an ongoing series about the culture of iwantmyname. 
 
-1. [The "one salary experiment"](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-one.html)
-2. [The "work-from-anywhere experiment"](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-two.html)
+1. [The "one salary experiment"](https://iwantmyname.com/blog/2014/05/culture-at-iwmn-part-one.html)
+2. [The "work-from-anywhere experiment"](https://iwantmyname.com/blog/2014/05/culture-at-iwmn-part-two.html)
 3. On hiring and hierarchy

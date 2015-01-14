@@ -24,7 +24,7 @@ tags:
 
 We can't believe another Startup Weekend has rolled around already! The global new venture development initiative has been taking New Zealand by storm as word has spread amongst developers, designers and young entrepreneurs. [Startup Weekend](http://wellington.startupweekend.org/) is being held in our home town of Wellington this time, which means the [iwantmyname team](https://iwantmyname.co.nz/about) will be right in the thick of it once again this weekend.
 
-We've been involved with Startup Weekend in New Zealand since the very first event through sponsorships, domain name giveaways as well as assisting with event management and mentoring at various times. At this event we are also co-sponsoring a [special prize](http://blog.iwantmyname.com/2012/08/booting-startup-weekends-mix-mashup.html) in partnership with Mix & Mash and the Digital Earth Summit, aimed specifically at teams leveraging open data.
+We've been involved with Startup Weekend in New Zealand since the very first event through sponsorships, domain name giveaways as well as assisting with event management and mentoring at various times. At this event we are also co-sponsoring a [special prize](https://iwantmyname.com/blog/2012/08/booting-startup-weekends-mix-mashup.html) in partnership with Mix & Mash and the Digital Earth Summit, aimed specifically at teams leveraging open data.
 
 Look out for the big new [iwantmyname](https://iwantmyname.co.nz/) banner at Startup Weekends throughout New Zealand to claim a free [domain name](https://iwantmyname.co.nz/domains) for your team. Don't forget, we also make it one-click easy to set up a wide range of handy [developer services](https://iwantmyname.co.nz/services/developer/) and apps on your domain.
 

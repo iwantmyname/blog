@@ -33,4 +33,4 @@ To celebrate the change of season we've got a whole bunch of country code top le
 [.IO](https://iwantmyname.co.nz/domains/io-domain-name-registration-for-british-indian-ocean-territory) - Suffix of the British Indian Ocean Territory - $99.00
 Check if your desired name is still available with our domain search.
 
-P.S. Want a chance to win a [free .ME domain](http://blog.iwantmyname.com/2010/08/me-domain-promotion-launches.html)? We have extended our .ME shout-out promotion.
+P.S. Want a chance to win a [free .ME domain](https://iwantmyname.com/blog/2010/08/me-domain-promotion-launches.html)? We have extended our .ME shout-out promotion.

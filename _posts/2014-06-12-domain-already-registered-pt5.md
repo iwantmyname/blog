@@ -55,11 +55,11 @@ There are many things that can influence the cost of a domain name. Some example
 
 ### Continue reading
 
-This is **part five** of a six-part series to help you find your ideal domain name. [Continue on to the next part](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt6.html) or jump to another part in the series:
+This is **part five** of a six-part series to help you find your ideal domain name. [Continue on to the next part](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html) or jump to another part in the series:
 
-1. [Someone has registered the domain I want. Help!](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt1.html)
-2. [How do I pick a domain that people will remember?](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt2.html)
-3. [Why it's important to have you own domain and web presence](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt3.html)
-4. [What is domain squatting/cybersquatting?](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt4.html)
+1. [Someone has registered the domain I want. Help!](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt1.html)
+2. [How do I pick a domain that people will remember?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt2.html)
+3. [Why it's important to have you own domain and web presence](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt3.html)
+4. [What is domain squatting/cybersquatting?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt4.html)
 5. Someone has registered a domain with my trademark. What do I do?
-6. [How do I find out if the domain I want becomes available?](http://blog.iwantmyname.com/2014/06/domain-already-registered-pt6.html)
+6. [How do I find out if the domain I want becomes available?](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html)

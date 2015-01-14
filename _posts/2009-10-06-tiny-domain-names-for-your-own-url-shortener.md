@@ -19,7 +19,7 @@ categories:
 
 ---
 
-With recent news of [cli.gs' shutdown](http://mashable.com/2009/10/04/cli-gs-shut-down/), the debate about URL shorteners and issues with possible broken links is coming up again. The only way to prevent this is to [run a custom URL shortener on your own domain](http://blog.iwantmyname.com/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html) but finding available short domain names with two letters is getting more challenging by the day.
+With recent news of [cli.gs' shutdown](http://mashable.com/2009/10/04/cli-gs-shut-down/), the debate about URL shorteners and issues with possible broken links is coming up again. The only way to prevent this is to [run a custom URL shortener on your own domain](https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html) but finding available short domain names with two letters is getting more challenging by the day.
 There are only a few country code domain extensions (ccTLDs) that allow the [registration of tiny 2-character domains](https://iwantmyname.com/short-domain-search) at regular prices, namely:
 
 
@@ -142,5 +142,5 @@ For specific pricing details please see our [short domain search](https://iwantm
 
 Also read the following related articles:
 
-*   [10 Tools To Run An URL Shortener On Your Own Domain](http://blog.iwantmyname.com/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html)
-*   [How You Can Own Your Online Identity With Domains](http://blog.iwantmyname.com/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html)
+*   [10 Tools To Run An URL Shortener On Your Own Domain](https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html)
+*   [How You Can Own Your Online Identity With Domains](https://iwantmyname.com/blog/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html)

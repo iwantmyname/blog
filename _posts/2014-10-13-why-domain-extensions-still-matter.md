@@ -7,7 +7,7 @@ header_image: 2014-10-14-country-focus.jpg
 
 ---
 
-iwantmyname chief writer Chris asked an interesting question the other day: [“Do domain extensions really matter anymore?”](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html). This is something I’ve also been thinking about, and here are three areas I believe they still do.
+iwantmyname chief writer Chris asked an interesting question the other day: [“Do domain extensions really matter anymore?”](https://iwantmyname.com/blog/2014/10/do-domain-extensions-really-matter-anymore.html). This is something I’ve also been thinking about, and here are three areas I believe they still do.
 
 ## Location
 
@@ -42,7 +42,7 @@ Domain extensions also still matter because they allow you to own your web addre
 
 That’s one of the reasons why I am excited about aforementioned new top-level domains. If there is a wider selection of domain extensions and you have more choice in picking a name you like (try finding something you really, really like in .COM) it means  you are more likely to take control of your web address.
 
-I wrote the following about [owning your domain](http://blog.iwantmyname.com/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html) 5 years ago which still holds true:
+I wrote the following about [owning your domain](https://iwantmyname.com/blog/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html) 5 years ago which still holds true:
 
 > Domains [have been around] 25 years(!) now and there’s no sign that they will go away anytime soon. A domain name is the only address that you can really own and control. You register it, you pay for it and you use it the way you want. It’s as simple as that.
 

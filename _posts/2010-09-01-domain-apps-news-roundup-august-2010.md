@@ -13,7 +13,7 @@ Monthly news digest covering the latest information from the web services recomm
 
 [bit.ly Pro](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service)
 
-*   [Simple Custom Domain Tweet Button With bit.ly Pro](http://blog.iwantmyname.com/2010/08/simple-custom-domain-tweet-button-with-bitly-pro.html)
+*   [Simple Custom Domain Tweet Button With bit.ly Pro](https://iwantmyname.com/blog/2010/08/simple-custom-domain-tweet-button-with-bitly-pro.html)
 
 [Blogger](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/blogger-blogspot-free-blog-with-own-url)
 

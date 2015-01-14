@@ -47,7 +47,7 @@ If you want to get a quick look at the variety of names people come up with for 
 
 ###A word about domain hacks
 
-We've talked about [domain hacks](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html) a lot in the past, but for a brand's primary site, they're a hard sell for a couple reasons. First, they're hard to verbalize. Instead of saying "BRANDNAME dot com", you end up saying things like "BRANDNAME, with the end being dot I T" or "B R A N D N A dot M E". Second, it's only human nature to look at clever domain names as unprofessional. It certainly depends on the industry you're in, but I'd think twice before putting my money in a bank using a domain like bankofthelak.es or bankingpl.us.
+We've talked about [domain hacks](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html) a lot in the past, but for a brand's primary site, they're a hard sell for a couple reasons. First, they're hard to verbalize. Instead of saying "BRANDNAME dot com", you end up saying things like "BRANDNAME, with the end being dot I T" or "B R A N D N A dot M E". Second, it's only human nature to look at clever domain names as unprofessional. It certainly depends on the industry you're in, but I'd think twice before putting my money in a bank using a domain like bankofthelak.es or bankingpl.us.
 
 
 ###It's more about you than the name

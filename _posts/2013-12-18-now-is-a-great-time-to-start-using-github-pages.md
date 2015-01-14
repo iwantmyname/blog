@@ -13,7 +13,7 @@ categories:
 
 <!-- excerpt -->
 
-For non-developers, [nothing is more intimidating](http://blog.iwantmyname.com/2013/11/dont-be-scared-of-github-pages.html) than stepping into the world of GitHub repositories. It seems like you could commit an infinite amount of time to learning various programming languages and still not get to where using GitHub makes sense. 
+For non-developers, [nothing is more intimidating](https://iwantmyname.com/blog/2013/11/dont-be-scared-of-github-pages.html) than stepping into the world of GitHub repositories. It seems like you could commit an infinite amount of time to learning various programming languages and still not get to where using GitHub makes sense. 
 
 <!-- /excerpt -->
 

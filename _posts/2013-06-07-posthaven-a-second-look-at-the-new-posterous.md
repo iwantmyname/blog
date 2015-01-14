@@ -5,7 +5,7 @@ author: Owen
 title: "Posthaven: A Second Look At The New Posterous"
 ---
 
-We wrote a [few months back](http://blog.iwantmyname.com/2013/03/migrating-your-site-and-custom-domain-from-posterous-to-posthaven-made-easy.html) about Posterous closing down and the new service created by the original co-founders called [Posthaven](http://posthaven.com), which was intended to save Posterous blogs forever. The company offers hosting for blogs for just $5 a month and says that they intend to keep it that way forever.
+We wrote a [few months back](https://iwantmyname.com/blog/2013/03/migrating-your-site-and-custom-domain-from-posterous-to-posthaven-made-easy.html) about Posterous closing down and the new service created by the original co-founders called [Posthaven](http://posthaven.com), which was intended to save Posterous blogs forever. The company offers hosting for blogs for just $5 a month and says that they intend to keep it that way forever.
 
 ![medium_image-galleries.png]({{ site.images_url }}/2013-06-07-medium_image-galleries-thumb-500x250-279.png)
 

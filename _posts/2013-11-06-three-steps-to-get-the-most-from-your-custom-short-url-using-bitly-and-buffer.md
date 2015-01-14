@@ -52,4 +52,4 @@ Now, when you go to post a link (or automatically post from your blog), Buffer w
 
 ***
 
-Extra Credit: Learn more about how we use [Bitly](http://blog.iwantmyname.com/2013/10/the-tools-we-use-bitly-for-link-shortening.html) and [Buffer](http://blog.iwantmyname.com/2013/10/the-tools-we-use-buffer-for-social-posting-and-analytics-1.html).
+Extra Credit: Learn more about how we use [Bitly](https://iwantmyname.com/blog/2013/10/the-tools-we-use-bitly-for-link-shortening.html) and [Buffer](https://iwantmyname.com/blog/2013/10/the-tools-we-use-buffer-for-social-posting-and-analytics-1.html).

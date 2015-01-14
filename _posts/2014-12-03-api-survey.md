@@ -10,7 +10,7 @@ header_image: 2014-12-03-build.jpg
 
 From the very beginning of iwantmyname, we wanted to build a beautiful API to let you to find, purchase, and manage domains names and DNS records programmatically. But until recently, we didn't have the manpower to develop an API alongside maintaining our current platform. We got close to tackling it last year with our expanded team, but new ICANN requirements and the launch of hundreds of new domain extensions took priority.
 
-While [in Bali](http://blog.iwantmyname.com/2014/11/bali-trip.html) last month, we decided that now is the time. With a clean slate, a newly formed "API Task Force", and 5+ years of industry learnings, we've started [documenting our ideal API](http://dev.iwantmyname.com/docs/) and laying the groundwork for development into 2015.
+While [in Bali](https://iwantmyname.com/blog/2014/11/bali-trip.html) last month, we decided that now is the time. With a clean slate, a newly formed "API Task Force", and 5+ years of industry learnings, we've started [documenting our ideal API](http://dev.iwantmyname.com/docs/) and laying the groundwork for development into 2015.
 
 This is where you come along.
 

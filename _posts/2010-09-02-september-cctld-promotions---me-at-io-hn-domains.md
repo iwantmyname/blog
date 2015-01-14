@@ -15,7 +15,7 @@ categories:
 
 ![worldmap.png]({{ site.images_url }}/2010-09-02-worldmap.png)
 
-We've got a few country code top-level domains on sale this month. So if you want to get your [personal .ME domain](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro), a geeky [.IO web address](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) or a [domain hack](http://blog.iwantmyname.com/2009/05/how-to-find-a-domain-hack.html) using the [.AT](https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria) or [.HN](https://iwantmyname.com/domains/hn-honduran-domain-name-registration-for-honduras) internet suffix now might be the right time to buy.
+We've got a few country code top-level domains on sale this month. So if you want to get your [personal .ME domain](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro), a geeky [.IO web address](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) or a [domain hack](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html) using the [.AT](https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria) or [.HN](https://iwantmyname.com/domains/hn-honduran-domain-name-registration-for-honduras) internet suffix now might be the right time to buy.
 
 * [.ME](https://iwantmyname.com/domains/me-domain-sale-promo-offer) -  Montenegrean domain and for personal sites - $12.90 USD
 * [.AT](https://iwantmyname.com/domains/at-domain-sale-promo-offer) - Austria's country code extension - $12.90 USD

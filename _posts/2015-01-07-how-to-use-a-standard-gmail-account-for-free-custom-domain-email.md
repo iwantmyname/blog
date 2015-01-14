@@ -13,4 +13,4 @@ excerpt: no
 
 > However, there’s a free way to use your GMail account with a custom domain: Mailgun.
 
-Neat trick for more advanced users to set up custom domain email using a standard Gmail account and [Mailgun](http://mailgun.com) (for up to 10,000 emails a month). [Yes, you can still get free custom domain email addresses](http://blog.iwantmyname.com/2014/06/yes-you-can-still-get-free-custom-email-addresses.html) — even in 2015.
+Neat trick for more advanced users to set up custom domain email using a standard Gmail account and [Mailgun](http://mailgun.com) (for up to 10,000 emails a month). [Yes, you can still get free custom domain email addresses](https://iwantmyname.com/blog/2014/06/yes-you-can-still-get-free-custom-email-addresses.html) — even in 2015.

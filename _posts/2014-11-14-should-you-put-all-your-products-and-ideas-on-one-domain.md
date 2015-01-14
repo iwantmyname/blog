@@ -42,7 +42,7 @@ And, by putting all your ideas on one domain, are you limiting each idea's poten
 
 But alas, like most things, it all depends on what you're looking to accomplish. If you're finding yourself piling up domains to tickle your every fancy, it may be wise to take the advice of Brian Knapp. For me, my personal brand would be infinitely stronger if I'd just consolidated my random work over the years. 
 
-Don't be afraid to break out though. As I said before, the new gTLDs make it easier than ever to find great domain names ([straying from .com is A-ok](http://blog.iwantmyname.com/2014/10/do-domain-extensions-really-matter-anymore.html) in my opinion), and in the scheme of things, the costs associated are fairly minimal. Just know that with every new site/project you create, whether it's on your current site or a new one, you're either stretching your capabilities to some degree or neglecting something old—and very few good things in life come from divided focus.
+Don't be afraid to break out though. As I said before, the new gTLDs make it easier than ever to find great domain names ([straying from .com is A-ok](https://iwantmyname.com/blog/2014/10/do-domain-extensions-really-matter-anymore.html) in my opinion), and in the scheme of things, the costs associated are fairly minimal. Just know that with every new site/project you create, whether it's on your current site or a new one, you're either stretching your capabilities to some degree or neglecting something old—and very few good things in life come from divided focus.
 
 As the wise Kenny Rodgers [once said](https://www.youtube.com/watch?v=kn481KcjvMo), "You've got to know when to hold 'em. Know when to fold 'em. Know when to walk away. And know when to run."
 

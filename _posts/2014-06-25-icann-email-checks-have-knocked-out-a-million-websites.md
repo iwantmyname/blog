@@ -8,7 +8,7 @@ title: "ICANN email checks have knocked out a million websites—don't let yours
 
 <!-- excerpt -->
 
-Back in January we [wrote an article](http://blog.iwantmyname.com/2014/01/icanns-new-rules-for-domain-registrants-require-you-to-verify-your-contact-details.html) informing everyone of ICANN's new rules for verifying contact information. To recap, "When you register a domain with new contact details, transfer existing domains or change the registrant (owner) or email address on your contact information, you will receive an additional email with an activation link. **If you don't press this link, your domain will be disabled after 15 days**."
+Back in January we [wrote an article](https://iwantmyname.com/blog/2014/01/icanns-new-rules-for-domain-registrants-require-you-to-verify-your-contact-details.html) informing everyone of ICANN's new rules for verifying contact information. To recap, "When you register a domain with new contact details, transfer existing domains or change the registrant (owner) or email address on your contact information, you will receive an additional email with an activation link. **If you don't press this link, your domain will be disabled after 15 days**."
 
 As a domain registrar, rules like these are quite scary because we're the point of contact when things go wrong, and there's really nothing we can do to fix an ICANN-suspended domain other than point customers to their verification error landing pages. Our hope was that the process would go smoothly for our customers (and thankfully we haven't had too many issues), but it seems to be a pretty big issue for the internet at large. 
 

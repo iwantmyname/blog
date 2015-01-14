@@ -21,6 +21,6 @@ This is how our company .TEL website [ideegeo.tel](http://ideegeo.tel) looks lik
 
 [![ideegeo.tel]({{ site.images_url }}/2010-03-12-ideegeo-tel-1.png)](http://ideegeo.tel)
 
-.TEL is a simple and affordable solution to own and manage a website without the need of having additional webhosting. You can even [update your contact information and location from your iPhone](http://blog.iwantmyname.com/2010/03/mytel-iphone-app-now-integrates-with-domainapp.html). The new design and personalization options make .TEL pages much more interesting for both individuals and businesses.
+.TEL is a simple and affordable solution to own and manage a website without the need of having additional webhosting. You can even [update your contact information and location from your iPhone](https://iwantmyname.com/blog/2010/03/mytel-iphone-app-now-integrates-with-domainapp.html). The new design and personalization options make .TEL pages much more interesting for both individuals and businesses.
 
 Check if your personal or company name is still available with our [domain search](https://iwantmyname.com).

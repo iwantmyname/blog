@@ -7,7 +7,7 @@ header_image: 2014-07-09-building.jpg
 
 ---
 
-Chris recently posted an article about [alternatives to .COM for review websites](http://blog.iwantmyname.com/2014/06/8-alternatives-to-com-for-review-websites.html). This is a great place to start if you're interested in starting a reviews site for anything from cameras to cafés. But what if you're part of a company or organization and concerned about reviews for _your_ products or services?
+Chris recently posted an article about [alternatives to .COM for review websites](https://iwantmyname.com/blog/2014/06/8-alternatives-to-com-for-review-websites.html). This is a great place to start if you're interested in starting a reviews site for anything from cameras to cafés. But what if you're part of a company or organization and concerned about reviews for _your_ products or services?
 
 ### Approach it with the right perspective
 
@@ -37,7 +37,7 @@ First off, ensure you have a solid policy in place before embarking on the great
 
 * Via what channels do you want people to contact your company? (E.g. email, phone, chat, etc.)
 
-* Via what channels will you offer support? (If you choose not to support a common channel, [like the phone](http://blog.iwantmyname.com/2014/05/its-not-that-your-call-isnt-important-to-us.html), make that very public and clear and make it easy to contact your company in other ways.)
+* Via what channels will you offer support? (If you choose not to support a common channel, [like the phone](https://iwantmyname.com/blog/2014/05/its-not-that-your-call-isnt-important-to-us.html), make that very public and clear and make it easy to contact your company in other ways.)
 
 * Who is going to have access to post content and respond to others who engage?
 
@@ -65,7 +65,7 @@ As much as social media has become pretty thoroughly integrated into consumers' 
 
 It provides a destination with your branding, correct and comprehensive information about your company, and a single location to receive questions, comments, and concerns (and potentially post replies). These days plenty of people are reticent to do business with a company that doesn't have a website, since it seems a bit sketchy. _Who are they, really?_ 
 
-To this end, registering your own domains and either creating sites or directing them to relevant existing properties is a good idea. (And yet, [many small businesses still don't have a web presence](http://blog.iwantmyname.com/2014/03/small-businesses-without-a-web-presence-are-missing-out.html).)
+To this end, registering your own domains and either creating sites or directing them to relevant existing properties is a good idea. (And yet, [many small businesses still don't have a web presence](https://iwantmyname.com/blog/2014/03/small-businesses-without-a-web-presence-are-missing-out.html).)
 
 ### Monitor, engage, and converse
 

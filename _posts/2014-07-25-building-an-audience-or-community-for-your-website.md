@@ -9,7 +9,7 @@ header_image: 2014-07-25-street-scene.jpg
 
 <!-- excerpt -->
 
-We regularly post articles to help you get started with your own website, whether it's [expected costs for a business site](http://blog.iwantmyname.com/2014/07/a-detailed-breakdown-of-what-small-business-websites-cost.html), [how to economically showcase your photos](http://blog.iwantmyname.com/2014/07/build-a-modern-hosted-photo-gallery-website.html), or [really easy ways to get a domain and site up and running](http://blog.iwantmyname.com/2014/06/squarespace-iwantmyname-makes-website-building-a-snap.html). 
+We regularly post articles to help you get started with your own website, whether it's [expected costs for a business site](https://iwantmyname.com/blog/2014/07/a-detailed-breakdown-of-what-small-business-websites-cost.html), [how to economically showcase your photos](https://iwantmyname.com/blog/2014/07/build-a-modern-hosted-photo-gallery-website.html), or [really easy ways to get a domain and site up and running](https://iwantmyname.com/blog/2014/06/squarespace-iwantmyname-makes-website-building-a-snap.html). 
 
 But then what? In the same way that just buying a domain won't magically make a website appear, getting your website online won't magically make customers, audience, or community appear. As a side note, while SEO can be an important part of building your presence online, we're not going to get into it in this post, as that's a whole other big, complex topic. For an intro though, [this is a great start](http://moz.com/beginners-guide-to-seo).
 

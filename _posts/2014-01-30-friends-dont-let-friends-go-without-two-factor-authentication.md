@@ -18,7 +18,7 @@ There are things you can do to make yourself safer though. An obvious tip is to 
 
 <!-- /excerpt -->
 
-As Timo wrote when we [first announced 2FA in May](http://blog.iwantmyname.com/2013/05/protect-your-domain-registrar-account-with-two-factor-authentication.html), "This adds an extra layer of login protection for your account to prevent third parties from accessing domains and making unauthorized changes to settings such as nameservers or DNS records."
+As Timo wrote when we [first announced 2FA in May](https://iwantmyname.com/blog/2013/05/protect-your-domain-registrar-account-with-two-factor-authentication.html), "This adds an extra layer of login protection for your account to prevent third parties from accessing domains and making unauthorized changes to settings such as nameservers or DNS records."
 
 And this isn't just something you should do with us, 2FA is an extra security step you should use for all your web presences. A ton of web platforms are adopting it as an extra security measure, so take advantage when you can. And if a platform you're on doesn't offer 2FA, ask them about it. Security is extremely important to everyone, and the more we can collectively improve security on the web, the safer we'll all be.
 

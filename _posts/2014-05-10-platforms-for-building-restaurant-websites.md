@@ -29,7 +29,7 @@ Unless you're in the US, country code top-level domains (ccTLDs) are extremely p
 
 ###Option 2: Even local-er
 
-Even more direct that the ccTLDs are the new [city domain extensions](http://blog.iwantmyname.com/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be careful not to put yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering in each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
+Even more direct that the ccTLDs are the new [city domain extensions](https://iwantmyname.com/blog/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be careful not to put yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering in each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
 
 ###Option 3: Try a generic term
 

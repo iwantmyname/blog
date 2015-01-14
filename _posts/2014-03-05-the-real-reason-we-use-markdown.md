@@ -12,7 +12,7 @@ title: The real reason we use Markdown
 
 We may be based in New Zealand, but a large percentage of our business is done in the US. And aside from driving on the wrong side of the road and using a perplexing system for measurements and temperatures, it's a fairly seamless cultural exchange.
 
-But early this year we made a change to ease some of our remaining differences. Specifically, [we switched to Markdown for blogging](http://blog.iwantmyname.com/2013/10/tools-we-use-mou-for-writing.html)—just to avoid any sort of confusion. 
+But early this year we made a change to ease some of our remaining differences. Specifically, [we switched to Markdown for blogging](https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html)—just to avoid any sort of confusion. 
 
 <!-- /excerpt -->
 

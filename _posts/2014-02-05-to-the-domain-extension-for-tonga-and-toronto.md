@@ -13,7 +13,7 @@ search:
 
 ![Toronto]({{ site.images_url }}/2014-02-04-toronto.jpg)
 
-In addition to the [new gTLDs coming out this week](http://blog.iwantmyname.com/2014/02/7-new-domain-extensions-are-coming-this-week.html), we're happy to announce the availability of .TO on iwantmyname. .TO is the official [ccTLD](http://help.iwantmyname.com/customer/portal/articles/1425384-what-is-a-cctld-) of Tonga, but seems to be undergoing a renaissance of sorts. [From Michael Berkens of The Domains:](http://www.thedomains.com/2013/11/04/with-new-gtlds-coming-to-market-to-rebrands-itself-to-represent-toronto/)
+In addition to the [new gTLDs coming out this week](https://iwantmyname.com/blog/2014/02/7-new-domain-extensions-are-coming-this-week.html), we're happy to announce the availability of .TO on iwantmyname. .TO is the official [ccTLD](http://help.iwantmyname.com/customer/portal/articles/1425384-what-is-a-cctld-) of Tonga, but seems to be undergoing a renaissance of sorts. [From Michael Berkens of The Domains:](http://www.thedomains.com/2013/11/04/with-new-gtlds-coming-to-market-to-rebrands-itself-to-represent-toronto/)
 
 > Following on the successful rebranding of .LA which is the ccTLD for Laos for Los Angeles , .TO which is the ccTLD for Tonga send out a press release today announcing the re-launch .TO for Toronto
 >

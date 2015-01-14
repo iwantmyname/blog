@@ -9,7 +9,7 @@ header_image: 2014-07-16-grid.jpg
 
 <!-- excerpt -->
 
-iwantmyname has made quite a few changes over the last few months. We've expanded our team to ten with the recent addition of [Travis](http://blog.iwantmyname.com/2014/06/say-hi-to-the-10th-iwantmynamer-travis-holton.html), we've added a ton of great documentation to our [Support Center](http://help.iwantmyname.com/) and we're constantly improving our backend to make it faster and more stable than ever. But there's still one gap in our collective skillset that we need to fill—UI design.
+iwantmyname has made quite a few changes over the last few months. We've expanded our team to ten with the recent addition of [Travis](https://iwantmyname.com/blog/2014/06/say-hi-to-the-10th-iwantmynamer-travis-holton.html), we've added a ton of great documentation to our [Support Center](http://help.iwantmyname.com/) and we're constantly improving our backend to make it faster and more stable than ever. But there's still one gap in our collective skillset that we need to fill—UI design.
 
 <!-- /excerpt -->
 

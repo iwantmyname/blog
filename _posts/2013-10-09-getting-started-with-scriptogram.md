@@ -33,11 +33,11 @@ From there, head to [iwantmyname.com](https://iwantmyname.com/) for a new domain
 
 In all, the entire process took me about 15 minutes—much faster than the average site setup. 
 
-**Note:** Want to see [iwantmyblog](http://blog.iwantmyname.com/2013/10/iwantmyblog-the-blog-that-goes-everywhere.html) in action? Head over to [iwantmyblog.com](http://iwantmyblog.com/). 
+**Note:** Want to see [iwantmyblog](https://iwantmyname.com/blog/2013/10/iwantmyblog-the-blog-that-goes-everywhere.html) in action? Head over to [iwantmyblog.com](http://iwantmyblog.com/). 
 
 ###Read all of #iwantmyblog's week with Scriptogram:
 
-+ [Getting Started With Scriptogram](http://blog.iwantmyname.com/2013/10/getting-started-with-scriptogram.html)
-+ [Using Scriptogram The Normal Way, And With Mou](http://blog.iwantmyname.com/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html)
-+ [Customizing Your Scriptogram Site](http://blog.iwantmyname.com/2013/10/customizing-your-scriptogram-site-iwantmyblog.html)
-+ [The Pros And Cons Of Individual Files. Our Last Day With Scriptogram](http://blog.iwantmyname.com/2013/10/the-pros-and-cons-of-individual-files-our-last-day-with-scriptogram-iwantmyblog.html)
++ [Getting Started With Scriptogram](https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html)
++ [Using Scriptogram The Normal Way, And With Mou](https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html)
++ [Customizing Your Scriptogram Site](https://iwantmyname.com/blog/2013/10/customizing-your-scriptogram-site-iwantmyblog.html)
++ [The Pros And Cons Of Individual Files. Our Last Day With Scriptogram](https://iwantmyname.com/blog/2013/10/the-pros-and-cons-of-individual-files-our-last-day-with-scriptogram-iwantmyblog.html)

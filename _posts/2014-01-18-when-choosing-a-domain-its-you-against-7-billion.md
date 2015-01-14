@@ -12,7 +12,7 @@ title: "When choosing a domain, it's you against 7+ billion"
 
 **I.** According to [worldometers.info](http://www.worldometers.info/world-population/), as of writing this post there are 7,207,045,692 people on Earth. Just this year we've added 3,732,015 people, and that number is going up every second. 
 
-On a similar rise is the world of domains. In many of our lifetimes, the internet has gone from 0 domains to [265 million worldwide](http://www.verisigninc.com/assets/infographic-dnib-Q32013.pdf) ([including every four-letter .COM combination](http://blog.iwantmyname.com/2013/12/four-letter-coms-are-a-four-letter-wordgone.html)). Needless to say, that's quite a lot. And with an estimated 77% of the developed world online at the moment, that number is getting larger and larger by the minute. 
+On a similar rise is the world of domains. In many of our lifetimes, the internet has gone from 0 domains to [265 million worldwide](http://www.verisigninc.com/assets/infographic-dnib-Q32013.pdf) ([including every four-letter .COM combination](https://iwantmyname.com/blog/2013/12/four-letter-coms-are-a-four-letter-wordgone.html)). Needless to say, that's quite a lot. And with an estimated 77% of the developed world online at the moment, that number is getting larger and larger by the minute. 
 
 But what's most important to remember about domains is that when people register them, they often do what they can to protect their brand. That often includes:
 
@@ -40,7 +40,7 @@ Heck, just look at what [Marco Arment went through](http://www.marco.org/2013/09
 
 If your name is Fred and you're opening a restaurant and can't get fredsfood.com, just pick up fred.restaurant, fred.pub, fred.food or fred.eat. Some of the more common names will certainly get snapped up, but your options will be much greater. 
 
-**IV.** At the end of the day, just know that there isn't a plot against you. [We promise that we're not secretly registering domains before you do](http://blog.iwantmyname.com/2013/05/iwantmyname-does-not-register-domains-you-have-searched-for.html), and it's *highly* unlikely that you're being singled out in a very large crowd.
+**IV.** At the end of the day, just know that there isn't a plot against you. [We promise that we're not secretly registering domains before you do](https://iwantmyname.com/blog/2013/05/iwantmyname-does-not-register-domains-you-have-searched-for.html), and it's *highly* unlikely that you're being singled out in a very large crowd.
 
 So next time you have a "Eureka!" moment and need a domain name, be really quick. As the saying goes, it's you against the world...
 

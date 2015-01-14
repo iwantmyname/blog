@@ -17,7 +17,7 @@ Fast-forward two decades and text editing is starting to come full circle. While
 
 <!-- /excerpt -->
 
-As a web writer, my best process is to get my ideas down as fast as I humanly can, then edit them down once I'm done. With Microsoft Word and Apple Pages, there are so many style options and formatting quirks that writing becomes a pain, but with an app like [Mou](http://blog.iwantmyname.com/2013/10/tools-we-use-mou-for-writing.html), there's nothing to hold me up. My new process is much like my old one:
+As a web writer, my best process is to get my ideas down as fast as I humanly can, then edit them down once I'm done. With Microsoft Word and Apple Pages, there are so many style options and formatting quirks that writing becomes a pain, but with an app like [Mou](https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html), there's nothing to hold me up. My new process is much like my old one:
 
 Click the Mou icon, write document, save to Dropbox, publish it.
 

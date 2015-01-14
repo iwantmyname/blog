@@ -35,4 +35,4 @@ Here's the rule. If you're on a URL other than iwantmyname.com or didn't receive
 
 ***
 
-**Extra Credit:** Don't get scammed by [Domain Registry of America](http://blog.iwantmyname.com/2013/10/dont-get-scammed-by-domain-registry-of-america.html) or [Domain Renewal Group](http://blog.iwantmyname.com/2012/06/beware-of-domain-renewal-scams.html) either!
+**Extra Credit:** Don't get scammed by [Domain Registry of America](https://iwantmyname.com/blog/2013/10/dont-get-scammed-by-domain-registry-of-america.html) or [Domain Renewal Group](https://iwantmyname.com/blog/2012/06/beware-of-domain-renewal-scams.html) either!

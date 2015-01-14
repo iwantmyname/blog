@@ -15,7 +15,7 @@ tags:
 
 ![gold.jpg]({{ site.images_url }}/2012-07-31-gold.jpg)
 
-The focus of the sporting world might be on the medal count at the [London 2012 Olympics](http://www.london2012.com/) right now, but our customers are [telling us](https://iwantmyname.com/about) that we've already won a gold medal with our [new design](http://blog.iwantmyname.com/2012/07/the-new-iwantmyname.html). We love getting that kind of feedback. In the meantime...are your favorite athletes winning?
+The focus of the sporting world might be on the medal count at the [London 2012 Olympics](http://www.london2012.com/) right now, but our customers are [telling us](https://iwantmyname.com/about) that we've already won a gold medal with our [new design](https://iwantmyname.com/blog/2012/07/the-new-iwantmyname.html). We love getting that kind of feedback. In the meantime...are your favorite athletes winning?
 
 The U.S. womens' soccer team has been keeping gold medal hopes alive this week as well as keeping the sports gossip columnists abuzz, in the lead up to the U.S. vs North Korea grudge match. Controversial goal keeper [Hope Solo](http://archived.link/http://www.washingtonpost.com/sports/dcunited/us-olympic-goalkeeper-solo-doesnt-back-down-from-tweets-critical-of-nbc-analyst-chastain/2012/07/30/gJQAgYNkKX_story.html) found herself in hot water after tweeting some rather harsh criticism of a media commentator. It was a timely reminder of how we need to manage our [online profile](https://iwantmyname.com/services/personal-profile/) carefully in an age of near instantaneous reportage. 
 

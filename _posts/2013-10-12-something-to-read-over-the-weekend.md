@@ -39,7 +39,7 @@ From Kyle York - [CircleID](http://www.circleid.com/posts/20131008_where_are_the
 
 > Google is pretty much the dominant player worldwide with Baidu as the dominant force in China and Korea. But I couldn't help but wonder what the most popular website based in each country was. So, I put the Dyn research team to work and they came up with a comprehensive list.
 
-From Chris Hall - [iwantmyname](http://blog.iwantmyname.com/2013/10/iwantmyblog-the-blog-that-goes-everywhere.html):
+From Chris Hall - [iwantmyname](https://iwantmyname.com/blog/2013/10/iwantmyblog-the-blog-that-goes-everywhere.html):
 
 > In the last decade, a lot has happened in the blogging world. Templates got better. Responsive design became a thing. Social media went bananas. There's quite a bit of catching up to do, and a ton of new blog platforms to try out. All said, it's going to take an incredible amount of time.
 >

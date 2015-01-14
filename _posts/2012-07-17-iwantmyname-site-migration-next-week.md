@@ -14,7 +14,7 @@ In the week starting July 23, we're making some updates to our service. The chan
 
 **What's changing?**
 
-We're introducing a new logo, site design and [domain search](http://blog.iwantmyname.com/2011/12/new-faster-domain-search.html) which is much faster and allows filtering of search results. There will also be small tweaks to our dashboard.
+We're introducing a new logo, site design and [domain search](https://iwantmyname.com/blog/2011/12/new-faster-domain-search.html) which is much faster and allows filtering of search results. There will also be small tweaks to our dashboard.
 
 Here's a screenshot of the new home page:
 

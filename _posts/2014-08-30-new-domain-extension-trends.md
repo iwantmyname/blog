@@ -15,7 +15,7 @@ If you're interested in domain names or like to follow the domain name industry,
 
 ##City TLDs are definitely going to be popular
 
-We've [talked about this](http://blog.iwantmyname.com/2014/08/hyperlocalize-with-a-city-tld.html) a bunch in the past, but of the five city TLDs launched so far (.berlin, .hamburg, [.nagoya](https://iwantmyname.com/domains/dot-nagoya), .tokyo, [.wien](https://iwantmyname.com/domains/dot-wien)), three are in the top 25 of domains registered:
+We've [talked about this](https://iwantmyname.com/blog/2014/08/hyperlocalize-with-a-city-tld.html) a bunch in the past, but of the five city TLDs launched so far (.berlin, .hamburg, [.nagoya](https://iwantmyname.com/domains/dot-nagoya), .tokyo, [.wien](https://iwantmyname.com/domains/dot-wien)), three are in the top 25 of domains registered:
 
  + [.berlin](https://iwantmyname.com/domains/dot-berlin) at #2
  + [.tokyo](https://iwantmyname.com/domains/dot-tokyo) at #17

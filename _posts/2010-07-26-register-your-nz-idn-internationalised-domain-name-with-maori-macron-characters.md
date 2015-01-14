@@ -24,4 +24,4 @@ Internationalised Domain Names are available for all second-level .NZ domains av
 
 We would like to take this opportunity to thank everyone involved in the process. This is a significant step for Māori on the internet which began with the introduction of the .MAORI.NZ domain a few years ago. [Karaitiana Taiuru](http://www.taiuru.maori.nz), a leading advocate for the multi-lingual internat says that, other [milestones for the Māori language](http://archived.link/http://blog.taiuru.maori.nz/2010/07/decade-of-advocating-for-maori.html) over the last 10 years have been the availability of Google, Microsoft Windows and many Open Source projects in Māori.
 
-.NZ IDNs can be registered at the [recently reduced](http://blog.iwantmyname.com/2010/07/mid-winter-specials-already-winner.html) price of $25.90 NZD. Go and [buy your Māori domain name](https://iwantmyname.co.nz) now.
+.NZ IDNs can be registered at the [recently reduced](https://iwantmyname.com/blog/2010/07/mid-winter-specials-already-winner.html) price of $25.90 NZD. Go and [buy your Māori domain name](https://iwantmyname.co.nz) now.

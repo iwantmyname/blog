@@ -16,6 +16,6 @@ title: Tumblr gets two-factor authentication
 
 <!-- /excerpt -->
 
-Basically, if you want to be extra sure your Tumblog is secure—or anything on the web, including [your data at iwantmyname](http://blog.iwantmyname.com/2014/01/friends-dont-let-friends-go-without-two-factor-authentication.html)—turn on two-factor authentication whenever and wherever you can.
+Basically, if you want to be extra sure your Tumblog is secure—or anything on the web, including [your data at iwantmyname](https://iwantmyname.com/blog/2014/01/friends-dont-let-friends-go-without-two-factor-authentication.html)—turn on two-factor authentication whenever and wherever you can.
 
 Be safe out there everyone. And kudos to Tumblr for making their sites significantly more secure.

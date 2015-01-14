@@ -15,7 +15,7 @@ As New Zealanders patiently await the [.NZ](https://iwantmyname.com/domains/dot-
 
 <!-- /excerpt -->
 
-But quickly, before I get too excited about pouring through the Scrabble Word Finder for [words ending in "ns"](http://www.scrabblefinder.com/ends-with/ns/), here's a quick refresher on what a domain hack is. [I'll quote myself](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html):
+But quickly, before I get too excited about pouring through the Scrabble Word Finder for [words ending in "ns"](http://www.scrabblefinder.com/ends-with/ns/), here's a quick refresher on what a domain hack is. [I'll quote myself](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html):
 
 >**Domain hack** - Using domain extensions like .es and .io to create words or phrases out of domain names.
 

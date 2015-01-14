@@ -12,11 +12,11 @@ categories:
 
 Part 4 of our *Domain Statistics & Numbers* article series breaks down the size of generic top-level domain (gTLD) namespaces:
 
-1.  [How many top-level domain name extensions exist in total](http://blog.iwantmyname.com/2009/09/how-many-domain-extensions-exist-worldwide-statistics-numbers.html "How many TLDs exist in total?")?
-2.  [How many domains are registered worldwide](http://blog.iwantmyname.com/2009/09/how-many-domains-are-registered-in-total.html "Total Number Of Domain Registrations Worldwide?")?
-3.  [What are the Top 10 global domain extensions](http://blog.iwantmyname.com/2009/10/top-10-global-domain-extensions-statistics-numbers.html "Top 10 Domain Extensions")?
+1.  [How many top-level domain name extensions exist in total](https://iwantmyname.com/blog/2009/09/how-many-domain-extensions-exist-worldwide-statistics-numbers.html "How many TLDs exist in total?")?
+2.  [How many domains are registered worldwide](https://iwantmyname.com/blog/2009/09/how-many-domains-are-registered-in-total.html "Total Number Of Domain Registrations Worldwide?")?
+3.  [What are the Top 10 global domain extensions](https://iwantmyname.com/blog/2009/10/top-10-global-domain-extensions-statistics-numbers.html "Top 10 Domain Extensions")?
 4.  **How big are the generic top-level domain (gTLD) namespaces?**
-5.  [What is the ranking of my country code top-level domain (ccTLD)](http://blog.iwantmyname.com/2009/10/country-code-top-level-domain-cctld-ranking-numbers-statistics.html)?
+5.  [What is the ranking of my country code top-level domain (ccTLD)](https://iwantmyname.com/blog/2009/10/country-code-top-level-domain-cctld-ranking-numbers-statistics.html)?
 
 ### 4. How big are the generic top-level domain (gTLD) namespaces?###
 

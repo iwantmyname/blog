@@ -32,4 +32,4 @@ The main features of My.tel are:
 
 The app works pretty well and especially the map feature helps to share your current location with your friends. Imagine being at this cool party (we all know how difficult to find they can be sometimes) and you could tell your mates: "Just go to my .TEL domain if you want to come by".
 
-If you [download the My.tel app](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=308822420&mt=8) you currently also have the chance to [win a $10,000 iTunes gift card or a MacBook Pro from Apple](http://blog.iwantmyname.com/2009/04/download-domainapp-win-itunes-gift-card-macbook-pro-ipod.html). You don't have a .TEL domain yet? [Check if your name is still available](https://iwantmyname.com/).
+If you [download the My.tel app](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=308822420&mt=8) you currently also have the chance to [win a $10,000 iTunes gift card or a MacBook Pro from Apple](https://iwantmyname.com/blog/2009/04/download-domainapp-win-itunes-gift-card-macbook-pro-ipod.html). You don't have a .TEL domain yet? [Check if your name is still available](https://iwantmyname.com/).

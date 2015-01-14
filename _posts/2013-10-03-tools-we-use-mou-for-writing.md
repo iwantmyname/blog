@@ -34,4 +34,4 @@ One thing I'm also playing around with right now is a responsive, web-based Mark
 [3]: http://mouapp.com/donate/
 [4]: http://editorially.com/
 [5]: http://aworkinglibrary.com/library/archives/editorially/
-[6]: http://blog.iwantmyname.com/2013/09/own-your-content-the-rise-of-dropbox-blogging.html
+[6]: https://iwantmyname.com/blog/2013/09/own-your-content-the-rise-of-dropbox-blogging.html

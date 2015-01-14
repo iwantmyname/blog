@@ -19,7 +19,7 @@ This scenario leaves you with two different options for setting up custom domain
 
 ## Option 1: ALIAS-type DNS records
 
-The answer for why you must not use CNAME records with naked domains is simple. It's not allowed [because the DNS specification says so](http://www.ietf.org/rfc/rfc1035.txt) (and some registries are very strict about this). While you can do it theoretically, there are certain side effects—the main one being that email services on your domain [will only work intermittently](http://blog.iwantmyname.com/2014/02/not-receiving-email-check-for-cname-record-on-root-domain.html), if at all.
+The answer for why you must not use CNAME records with naked domains is simple. It's not allowed [because the DNS specification says so](http://www.ietf.org/rfc/rfc1035.txt) (and some registries are very strict about this). While you can do it theoretically, there are certain side effects—the main one being that email services on your domain [will only work intermittently](https://iwantmyname.com/blog/2014/02/not-receiving-email-check-for-cname-record-on-root-domain.html), if at all.
 
 That's where DNS hosting services offering CNAME functionality on the zone apex come into play. As of writing this article, here are the companies that provide such a solution:
 
@@ -29,7 +29,7 @@ That's where DNS hosting services offering CNAME functionality on the zone apex 
 - [PointDNS](http://pointdns.com)
 - [Amazon Route 53](http://aws.amazon.com/route53/) (only for hosting on AWS)
 
-Using these services is as easy as updating your nameservers to theirs at your domain registrar. However, please note that there are no official standards around ALIAS-type DNS records yet, and there may be issues with general service availability, content delivery networks and DNSSEC. Some domain extensions like .IS don't even allow it. Also, if you do decide to use this method for domain mapping, [be aware of the implications](http://blog.iwantmyname.com/2014/01/why-alias-type-records-break-the-internet.html).
+Using these services is as easy as updating your nameservers to theirs at your domain registrar. However, please note that there are no official standards around ALIAS-type DNS records yet, and there may be issues with general service availability, content delivery networks and DNSSEC. Some domain extensions like .IS don't even allow it. Also, if you do decide to use this method for domain mapping, [be aware of the implications](https://iwantmyname.com/blog/2014/01/why-alias-type-records-break-the-internet.html).
 
 ## Option 2: URL forwarding as alternative
 

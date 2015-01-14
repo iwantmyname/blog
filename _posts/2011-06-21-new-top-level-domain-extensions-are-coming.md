@@ -13,7 +13,7 @@ categories:
 
 ![ICANN Logo]({{ site.images_url }}/2011-06-21-icann.png)
 
-Internet body [ICANN](http://icann.org) meeting in Singapore this week is presiding over the most significant opening up of the domain name system (DNS) for many years. ICANN has agreed in principle to allow [new top-level domain extensions](http://blog.iwantmyname.com/2009/06/list-new-gtld-domain-extensions-2010.html) known as generic top level domains (gTLDs). 
+Internet body [ICANN](http://icann.org) meeting in Singapore this week is presiding over the most significant opening up of the domain name system (DNS) for many years. ICANN has agreed in principle to allow [new top-level domain extensions](https://iwantmyname.com/blog/2009/06/list-new-gtld-domain-extensions-2010.html) known as generic top level domains (gTLDs). 
 
 Approval for new gTLDs has been long awaited by entrepreneurs and digital branding pundits who plan to create domains for cities, global corporations and popular commercial products such as food (.food, .restaurant), sports (.basketball, .ski), banks (.bank, .secure) or airlines (.united, .lufthansa). But the new TLDs also have their critics who claim the initiative is simply a money grabbing exercise and that the emphasis should be towards addressing better security and making the Internet more inclusive. 
 

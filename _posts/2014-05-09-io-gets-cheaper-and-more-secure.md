@@ -26,4 +26,4 @@ Privacy is a huge concern for many people, but until now, [WHOIS masking](http:/
 
 ***
 
-Additionally, we've dropped the price to $59 USD and added WHOIS masking for both [.SH](https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena) and [.AC](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island), the domain extensions for Saint Helena and Ascension Island. Both make great [domain hacks](http://blog.iwantmyname.com/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html), so get brainstorming! 
+Additionally, we've dropped the price to $59 USD and added WHOIS masking for both [.SH](https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena) and [.AC](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island), the domain extensions for Saint Helena and Ascension Island. Both make great [domain hacks](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html), so get brainstorming! 

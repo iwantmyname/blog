@@ -76,5 +76,5 @@ something you really want to know about us, [please get in touch](https://iwantm
 This is **part one** of an ongoing series about the culture of iwantmyname. 
 
 1. The "one salary experiment"
-2. [The "work-from-anywhere experiment"](http://blog.iwantmyname.com/2014/05/culture-at-iwmn-part-two.html)
-3. [On hiring and heirarchy](http://blog.iwantmyname.com/2014/08/culture-at-iwmn-part-three.html)
+2. [The "work-from-anywhere experiment"](https://iwantmyname.com/blog/2014/05/culture-at-iwmn-part-two.html)
+3. [On hiring and heirarchy](https://iwantmyname.com/blog/2014/08/culture-at-iwmn-part-three.html)

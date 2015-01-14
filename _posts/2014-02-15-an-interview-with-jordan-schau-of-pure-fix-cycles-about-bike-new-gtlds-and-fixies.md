@@ -14,7 +14,7 @@ search:
 
 ![purefixcycles.com]({{ site.images_url }}/2014-02-14-purefix.jpg)
 
-February 5th marked an important day in domain name history. [Seven new gTLDs were released to the public](http://blog.iwantmyname.com/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html), including .CLOTHING, .GURU, .HOLDINGS, .SINGLES, .PLUMBING, .VENTURES and .BIKE. As a domain registrar, we have unique insight into gTLD popularity—we have data!—but at the end of the day, we really have no idea how these domains will be used. Will companies completely switch over from .COM? Are these domains being used for fun side projects? We have no idea—so we decided to ask. 
+February 5th marked an important day in domain name history. [Seven new gTLDs were released to the public](https://iwantmyname.com/blog/2014/02/the-new-domain-extensions-are-here-with-guru-and-bike-leading-the-way.html), including .CLOTHING, .GURU, .HOLDINGS, .SINGLES, .PLUMBING, .VENTURES and .BIKE. As a domain registrar, we have unique insight into gTLD popularity—we have data!—but at the end of the day, we really have no idea how these domains will be used. Will companies completely switch over from .COM? Are these domains being used for fun side projects? We have no idea—so we decided to ask. 
 
 First up, we have Jordan Schau of [Pure Fix Cycles](http://purefixcycles.com/), who is the proud owner of quite a few [.BIKE domains](https://iwantmyname.com/domains/dot-bike).
 
