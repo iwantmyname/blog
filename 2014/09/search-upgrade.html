@@ -22,7 +22,7 @@
 	<meta property="og:title" content="How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO">
 	<meta property="og:url" content="https://iwantmyname.com/blog/2014/09/search-upgrade.html">
 	
-		<meta property="og:image" content="/blog/assets/images/content/2014-09-09-long-view.jpg">
+		<meta property="og:image" content="https://iwantmyname.com/blog/assets/images/content/2014-09-09-long-view.jpg">
 	
 
 
@@ -85,7 +85,7 @@
 
 
 
-	<div class="iwmn-article-header" style="background-image: url(/blog/assets/images/content/2014-09-09-long-view.jpg);">
+	<div class="iwmn-article-header" style="background-image: url(https://iwantmyname.com/blog/assets/images/content/2014-09-09-long-view.jpg);">
 		<div class="container iwmn-container iwmn-article">
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
@@ -112,7 +112,7 @@
 
 <p>Our stack for search included an Erlang application (hereafter called <code>namesearchd</code>) that listened for WebSocket connections using SockJS. It also listened to RabbitMQ messages from our web servers to indicate a new search had been triggered.</p>
 
-<p><img src="/blog/assets/images/content/2014-09-04-old-search-diagram.png" alt="Old search diagram"></p>
+<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-09-04-old-search-diagram.png" alt="Old search diagram"></p>
 
 <p>When a customer loaded the search page, their browser connected to SockJS with their session ID. When they entered a domain name, the search was sent to the web application, and then after some validation, the search was forwarded via RabbitMQ to <code>namesearchd</code> with the session and search ID. This made <code>namesearchd</code> do the following:</p>
 
@@ -136,7 +136,7 @@
 
 <p>Given that our biggest concern was the SockJS connections being prematurely terminated, we looked for a new library to use for WebSockets. In the end we chose Socket.IO (on Node.js) after their version 1.0 release. This allowed us to change the focus of the Erlang backend to checking domain availability, and the Node.js daemon to maintain WebSocket connections and forwarding search requests (again, via RabbitMQ) to <code>namesearchd</code>, only this time, <code>namesearchd</code> would reply via RabbitMQ and let Socket.IO deal with handing the response back to the customer&#39;s web browser.</p>
 
-<p><img src="/blog/assets/images/content/2014-09-04-new-search-diagram.png" alt="New search diagram"></p>
+<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-09-04-new-search-diagram.png" alt="New search diagram"></p>
 
 <p>The other difference is that now the web application sends the TLD list to the client, which allows us to not have to send a list of all every TLD for each search request. The initial reason the TLD list was being sent for every search was that it could be different depending on what name you searched for. This filtering is now handled by client-side Javascript (and you’ll get an error if you cheekily use the Socket.IO connection to search for, say, a two-character domain on a TLD that doesn’t support two letter name registrations).</p>
 

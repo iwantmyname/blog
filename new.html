@@ -102,7 +102,7 @@
 layout: post
 author: Guest
 title: Example blog post title
-date: 2015-01-15 00:27:04 +1200
+date: 2015-01-15 01:13:56 +1200
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu justo, pellentesque non felis sit amet, tempus tristique tortor. Donec ut ultricies odio. Nulla at sodales quam. In dignissim sem metus, quis mollis urna adipiscing eget. Integer eu sapien at erat feugiat dapibus vel sed dui. Duis lectus erat, aliquam ut magna vel, egestas laoreet urna.
@@ -143,7 +143,7 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 			}
 		}
 
-		content = content.replace(/\{\{\s*site\.images_url\s*\}\}/g, "/blog/assets/images/content")
+		content = content.replace(/\{\{\s*site\.images_url\s*\}\}/g, "https://iwantmyname.com/blog/assets/images/content")
 
 		target.innerHTML = marked(content)
 	}
