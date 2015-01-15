@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-06-12 16:00:00
+date: 2012-06-12 16:00:00 +1200
 author: Paul
 title: Cargo Website Showcases Retro Revival
 

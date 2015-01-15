@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-08-17 07:31:06
+date: 2011-08-17 07:31:06 +1200
 author: Timo
 title: "Don't Squash Your Customers Dreams"
 

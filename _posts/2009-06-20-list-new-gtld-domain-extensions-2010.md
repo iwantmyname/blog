@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-06-20 11:07:45
+date: 2009-06-20 11:07:45 +1200
 author: Timo
 title: 50+ New Domain Extensions We Might See In 2010
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-11 19:21:02
+date: 2013-10-11 19:21:02 +1200
 author: Chris
 title: Customizing Your Scriptogram Site #iwantmyblog   
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-09-07 13:25:27
+date: 2010-09-07 13:25:27 +1200
 author: Timo
 title: Free Online Brand Building Video Series From Loic Le Meur
 

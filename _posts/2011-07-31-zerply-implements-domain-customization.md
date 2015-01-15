@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-31 09:21:11
+date: 2011-07-31 09:21:11 +1200
 author: Paul
 title: Zerply Implements Profile Domain Customization
 

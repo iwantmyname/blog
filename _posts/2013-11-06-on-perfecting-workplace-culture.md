@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-06 08:31:09
+date: 2013-11-06 08:31:09 +1200
 author: Chris
 title: On Perfecting Workplace Culture
 

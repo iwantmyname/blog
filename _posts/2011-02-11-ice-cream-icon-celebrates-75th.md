@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-02-11 09:42:03
+date: 2011-02-11 09:42:03 +1200
 author: Paul
 title: Ice Cream Icon Celebrates 75th 
 

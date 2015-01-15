@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-05-15 13:05:50
+date: 2009-05-15 13:05:50 +1200
 author: Timo
 title: The Art of Finding a Domain Hack
 

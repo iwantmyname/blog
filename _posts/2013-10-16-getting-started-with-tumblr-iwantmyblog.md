@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-16 09:55:27
+date: 2013-10-16 09:55:27 +1200
 author: Chris
 title: Getting Started With Tumblr #iwantmyblog
 

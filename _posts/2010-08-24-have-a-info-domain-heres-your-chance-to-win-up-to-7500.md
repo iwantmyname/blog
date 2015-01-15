@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-08-24 19:21:50
+date: 2010-08-24 19:21:50 +1200
 author: Timo
 title: "Have a .INFO Domain? Here's Your Chance To Win Up To $7,500!"
 

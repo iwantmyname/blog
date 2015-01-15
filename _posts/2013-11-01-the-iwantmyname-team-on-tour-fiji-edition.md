@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-01 16:17:29
+date: 2013-11-01 16:17:29 +1200
 author: Timo
 title: "Fiji Time: Working From An Island In The Pacific Ocean"
 

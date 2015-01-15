@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-12-21 12:57:06
+date: 2012-12-21 12:57:06 +1200
 author: Paul
 title: Happy Holidays
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-02-16 12:00:00
+date: 2012-02-16 12:00:00 +1200
 author: Paul
 title: Photo Hosting Service 500px Increases Exposure
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-18 07:15:06
+date: 2014-01-18 07:15:06 +1200
 author: Chris
 title: This week in gTLDs, including .CHEAP, .AGENCY and .SOCIAL
 ---

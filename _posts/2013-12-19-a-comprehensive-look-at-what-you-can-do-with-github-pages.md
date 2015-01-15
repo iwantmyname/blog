@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-12-19 12:18:25
+date: 2013-12-19 12:18:25 +1200
 author: Chris
 title: A Comprehensive Look At What You Can Do With GitHub Pages
 

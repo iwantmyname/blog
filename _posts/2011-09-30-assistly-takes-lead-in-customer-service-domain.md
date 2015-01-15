@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-09-30 10:39:12
+date: 2011-09-30 10:39:12 +1200
 author: Paul
 title: Assistly Takes Lead In Customer Service Domain
 

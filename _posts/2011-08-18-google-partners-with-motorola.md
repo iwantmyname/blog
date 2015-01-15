@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-08-18 10:00:00
+date: 2011-08-18 10:00:00 +1200
 author: Paul
 title: Google Partners With Motorola
 

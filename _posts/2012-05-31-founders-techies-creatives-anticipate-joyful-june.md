@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-05-31 23:00:00
+date: 2012-05-31 23:00:00 +1200
 author: Paul
 title: Founders, Techies & Creatives Anticipate Joyful June 
 

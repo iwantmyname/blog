@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-10-27 15:32:28
+date: 2012-10-27 15:32:28 +1200
 author: Timo
 title: 12 Links For Weekend Reading And Experimenting
 

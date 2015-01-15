@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-10-12 17:58:25
+date: 2012-10-12 17:58:25 +1200
 author: Timo
 title: This Week In Domains And Apps
 

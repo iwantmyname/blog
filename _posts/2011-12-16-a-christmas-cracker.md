@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-12-16 07:41:33
+date: 2011-12-16 07:41:33 +1200
 author: Paul
 title: A Christmas Cracker
 

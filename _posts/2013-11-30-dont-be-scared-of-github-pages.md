@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-30 08:38:49
+date: 2013-11-30 08:38:49 +1200
 author: Chris
 title: "Don't Be Scared Of GitHub Pages"
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-03-11 12:35:34
+date: 2013-03-11 12:35:34 +1200
 author: Owen
 title: How To Easily Manage Multiple WordPress Installations
 

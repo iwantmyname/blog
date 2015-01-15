@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-03-12 10:43:27
+date: 2010-03-12 10:43:27 +1200
 author: Timo
 title: "Your .TEL Domain's Website Has A Shiny New Design"
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-10-05 22:25:20
+date: 2012-10-05 22:25:20 +1200
 author: Timo
 title: Sweden and Portugal Join the iwantmyname Domain Family
 

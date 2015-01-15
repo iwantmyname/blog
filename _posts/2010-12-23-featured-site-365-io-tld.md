@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-12-23 10:22:50
+date: 2010-12-23 10:22:50 +1200
 author: Timo
 title: "Featured Site: 365.io"
 

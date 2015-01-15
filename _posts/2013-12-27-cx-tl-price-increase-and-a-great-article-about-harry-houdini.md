@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-12-27 12:19:20
+date: 2013-12-27 12:19:20 +1200
 author: Chris
 title: .CX, .TL Price Increase And An Article About Harry Houdini
 

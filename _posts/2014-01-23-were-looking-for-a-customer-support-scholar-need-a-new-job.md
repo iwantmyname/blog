@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-23 11:24:33
+date: 2014-01-23 11:24:33 +1200
 author: Chris
 title: "We're looking for a Customer Support Scholar. Need a (new) job?"
 

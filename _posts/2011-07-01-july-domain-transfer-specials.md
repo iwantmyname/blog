@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-01 18:10:49
+date: 2011-07-01 18:10:49 +1200
 author: Timo
 title: iWantMyName July Domain Transfer Specials
 ---

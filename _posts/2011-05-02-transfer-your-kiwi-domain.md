@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-05-02 00:31:20
+date: 2011-05-02 00:31:20 +1200
 author: Paul
 title: Transfer Your Kiwi Domain For A Song
 

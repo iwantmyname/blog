@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-18 14:53:02
+date: 2013-10-18 14:53:02 +1200
 author: Chris
 title: "The Tools We Use: Bitly For Link Shortening"
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-18 13:43:00
+date: 2014-01-18 13:43:00 +1200
 author: Chris
 title: "When choosing a domain, it's you against 7+ billion"
 

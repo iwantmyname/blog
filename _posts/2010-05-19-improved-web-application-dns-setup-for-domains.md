@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-05-19 16:38:37
+date: 2010-05-19 16:38:37 +1200
 author: Timo
 title: Improved Web Application Setup & New DNS Manager
 

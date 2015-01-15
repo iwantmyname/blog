@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-13 19:57:41
+date: 2011-07-13 19:57:41 +1200
 author: Paul
 title: Domain Registrations Reflect Web Commerce Explosion
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-02-26 11:27:50
+date: 2011-02-26 11:27:50 +1200
 author: Paul
 title: "Startups - Let's Get Cracking!"
 

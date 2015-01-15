@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-09-26 13:00:00
+date: 2013-09-26 13:00:00 +1200
 author: Paul
 title: UX Design Day Student Surprise!
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-06-28 16:59:11
+date: 2011-06-28 16:59:11 +1200
 author: Timo
 title: Tumblr changes custom domain setup
 

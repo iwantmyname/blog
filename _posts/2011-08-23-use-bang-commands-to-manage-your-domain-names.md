@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-08-23 22:56:29
+date: 2011-08-23 22:56:29 +1200
 author: Timo
 title: Use !bang Commands To Manage Your Domain Names 
 

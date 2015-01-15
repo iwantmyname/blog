@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-15 10:20:21
+date: 2013-10-15 10:20:21 +1200
 author: Chris
 title: Ghost Is Open To The Public. Announces A $5,000 Theming Competition.
 

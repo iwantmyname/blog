@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-26 12:34:48
+date: 2013-10-26 12:34:48 +1200
 author: Chris
 title: Another Domain Registration Scam To Watch Out For
 

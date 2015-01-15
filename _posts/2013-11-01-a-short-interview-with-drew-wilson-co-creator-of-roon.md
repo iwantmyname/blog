@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-01 07:25:01
+date: 2013-11-01 07:25:01 +1200
 author: Chris
 title: A Short Interview With Drew Wilson, Co-Creator Of Roon
 

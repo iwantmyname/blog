@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-01-26 13:11:40
+date: 2011-01-26 13:11:40 +1200
 author: Paul
 title: Easily Domain Customise Five New Services
 

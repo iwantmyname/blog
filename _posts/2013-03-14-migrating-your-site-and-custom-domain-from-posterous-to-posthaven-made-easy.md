@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-03-14 16:30:48
+date: 2013-03-14 16:30:48 +1200
 author: Timo
 title: Migrating Your Site And Custom Domain From Posterous To Posthaven Made Easy
 

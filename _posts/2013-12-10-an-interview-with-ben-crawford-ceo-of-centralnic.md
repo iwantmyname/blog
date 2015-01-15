@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-12-10 08:27:57
+date: 2013-12-10 08:27:57 +1200
 author: Chris
 title: An Interview With Ben Crawford, CEO of CentralNic
 

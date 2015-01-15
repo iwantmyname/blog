@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-01-18 16:10:46
+date: 2010-01-18 16:10:46 +1200
 author: Timo
 title: Supporting Open Source at #LCA2010
 ---

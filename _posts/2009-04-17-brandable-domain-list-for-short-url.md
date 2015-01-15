@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-04-17 11:26:26
+date: 2009-04-17 11:26:26 +1200
 author: Timo
 title: List of short & brandable domain names
 

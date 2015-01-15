@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-01-14 13:45:01
+date: 2011-01-14 13:45:01 +1200
 author: Timo
 title: Some Browser Statistics
 

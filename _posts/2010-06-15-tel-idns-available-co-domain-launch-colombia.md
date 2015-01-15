@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-06-15 22:05:40
+date: 2010-06-15 22:05:40 +1200
 author: Timo
 title: .TEL IDNs Available As Of Today, .CO Domains Soon
 

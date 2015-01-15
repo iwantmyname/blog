@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-14 12:13:41
+date: 2014-01-14 12:13:41 +1200
 author: Chris
 title: This .KIWI is ready to go global
 

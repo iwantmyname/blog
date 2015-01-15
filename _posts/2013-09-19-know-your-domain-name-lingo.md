@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-09-19 10:14:00
+date: 2013-09-19 10:14:00 +1200
 author: Chris
 title: Know Your Domain Name Lingo
 

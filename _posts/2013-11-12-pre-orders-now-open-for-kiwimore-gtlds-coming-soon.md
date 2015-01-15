@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-12 14:36:55
+date: 2013-11-12 14:36:55 +1200
 author: Chris
 title: Pre-Orders Now Open For .KIWI—More gTLDs Coming Soon
 

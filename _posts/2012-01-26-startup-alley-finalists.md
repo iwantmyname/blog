@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-01-26 15:30:00
+date: 2012-01-26 15:30:00 +1200
 author: Paul
 title: iWantMyName Applauds Startup Alley Finalists
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-04-18 16:06:31
+date: 2011-04-18 16:06:31 +1200
 author: Timo
 title: Let Your Domains Take Flight
 

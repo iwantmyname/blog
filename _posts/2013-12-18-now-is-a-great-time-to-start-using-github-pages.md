@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-12-18 19:03:33
+date: 2013-12-18 19:03:33 +1200
 author: Chris
 title: Now Is A Great Time To Start Using GitHub Pages
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-06-04 16:08:48
+date: 2013-06-04 16:08:48 +1200
 author: Timo
 title: "What Is DNS? Here's What You Need To Know: Part 2"
 ---

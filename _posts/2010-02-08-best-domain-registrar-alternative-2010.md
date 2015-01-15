@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-02-08 09:11:09
+date: 2010-02-08 09:11:09 +1200
 author: Timo
 title: Looking For A Clean And Easy Domain Registrar Alternative?
 

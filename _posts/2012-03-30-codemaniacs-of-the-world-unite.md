@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-03-30 22:00:00
+date: 2012-03-30 22:00:00 +1200
 author: Paul
 title: Codemaniacs Of The World Unite
 

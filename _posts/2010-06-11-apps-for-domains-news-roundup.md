@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-06-11 15:50:50
+date: 2010-06-11 15:50:50 +1200
 author: Timo
 title: Apps for Domains News Roundup
 

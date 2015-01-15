@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-08-03 09:25:52
+date: 2010-08-03 09:25:52 +1200
 author: Timo
 title: Want A Free .ME Domain?
 

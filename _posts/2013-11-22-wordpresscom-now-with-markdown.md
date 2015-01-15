@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-22 18:29:08
+date: 2013-11-22 18:29:08 +1200
 author: Chris
 title: WordPress.com, Now With Markdown
 

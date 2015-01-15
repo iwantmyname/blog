@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-06-16 11:05:11
+date: 2011-06-16 11:05:11 +1200
 author: Timo
 title: 80+ .GY Domain Hack And Vanity URL Ideas
 

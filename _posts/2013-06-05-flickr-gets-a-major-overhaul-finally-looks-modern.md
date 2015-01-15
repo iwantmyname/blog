@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-06-05 08:28:12
+date: 2013-06-05 08:28:12 +1200
 author: Owen
 title: Flickr Gets A Major Overhaul, Finally Looks Modern
 ---

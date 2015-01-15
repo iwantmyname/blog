@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-11-20 10:50:19
+date: 2012-11-20 10:50:19 +1200
 author: Paul
 title: Thanksgiving Is Here. Start Your WordPress Engines!
 

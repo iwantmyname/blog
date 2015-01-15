@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-09-14 16:14:27
+date: 2009-09-14 16:14:27 +1200
 author: Timo
 title: Geekish Domain Extensions On Special
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-16 12:28:42
+date: 2014-01-16 12:28:42 +1200
 author: Chris
 title: Ghost's hosted platform is live, "enjoys Scotch"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-03-01 13:46:08
+date: 2013-03-01 13:46:08 +1200
 author: Paul
 title: Step Right Up Ladies And Gentlemen!
 

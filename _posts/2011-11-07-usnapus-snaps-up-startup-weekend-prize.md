@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-11-07 14:00:00
+date: 2011-11-07 14:00:00 +1200
 author: Paul
 title: uSnap.Us Snaps Up Startup Weekend Prize
 

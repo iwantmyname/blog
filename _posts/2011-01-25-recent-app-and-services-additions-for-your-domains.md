@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-01-25 07:48:23
+date: 2011-01-25 07:48:23 +1200
 author: Timo
 title: Recent App & Service Additions For Your Domains
 

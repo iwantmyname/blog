@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-07-08 18:06:43
+date: 2010-07-08 18:06:43 +1200
 author: Paul
 title: Mid-Winter Specials Already A Winner
 

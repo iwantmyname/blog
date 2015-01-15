@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-09-02 11:58:13
+date: 2010-09-02 11:58:13 +1200
 author: Timo
 title: September ccTLD Promotions (.ME, .AT, .IO & .HN)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-09-19 19:27:51
+date: 2013-09-19 19:27:51 +1200
 author: Chris
 title: "It's Time To .CLaim A Chilean Domain"
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-03-29 07:15:31
+date: 2013-03-29 07:15:31 +1200
 author: Timo
 title: O Canada! Your Home And Native Domain (yes we do offer the .CA web address now)
 

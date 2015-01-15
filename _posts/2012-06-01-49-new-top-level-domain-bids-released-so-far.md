@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-06-01 20:50:04
+date: 2012-06-01 20:50:04 +1200
 author: Timo
 title: 49 New Top-Level Domain Bids Revealed So Far
 

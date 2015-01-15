@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-02-01 17:00:00
+date: 2013-02-01 17:00:00 +1200
 author: Paul
 title: Internet Founder Values Openness
 

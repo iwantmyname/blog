@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-02-24 11:00:00
+date: 2012-02-24 11:00:00 +1200
 author: Paul
 title: WordPress Developers Get Your Blogs On
 

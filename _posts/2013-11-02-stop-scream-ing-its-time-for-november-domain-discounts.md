@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-02 12:29:04
+date: 2013-11-02 12:29:04 +1200
 author: Chris
 title: "Stop Scre.am-ing. It's Time For November Domain Discounts"
 

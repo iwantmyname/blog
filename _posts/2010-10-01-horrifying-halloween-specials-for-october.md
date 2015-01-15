@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-10-01 15:15:29
+date: 2010-10-01 15:15:29 +1200
 author: Paul
 title: Horrifying Halloween Specials for October
 

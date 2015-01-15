@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-10-12 20:48:12
+date: 2012-10-12 20:48:12 +1200
 author: Timo
 title: Domain Names Dominate Call To Action In Australian Football Grand Finals
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-01-22 13:12:39
+date: 2010-01-22 13:12:39 +1200
 author: Timo
 title: .ORG Chinese Internationalized Domain Names (IDNs) Available Shortly
 

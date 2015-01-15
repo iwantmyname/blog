@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-03-05 16:35:28
+date: 2013-03-05 16:35:28 +1200
 author: Timo
 title: Manu Makes Moving Domains Feel Like Magic
 

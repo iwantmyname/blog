@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-08-14 09:00:00
+date: 2009-08-14 09:00:00 +1200
 author: Timo
 title: Your First Name Under .COM Might Still Be Available (Upside Down)
 

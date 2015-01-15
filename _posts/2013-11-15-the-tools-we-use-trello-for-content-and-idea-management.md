@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-15 13:50:27
+date: 2013-11-15 13:50:27 +1200
 author: Chris
 title: "The Tools We Use: Trello For Content And Idea Management"
 

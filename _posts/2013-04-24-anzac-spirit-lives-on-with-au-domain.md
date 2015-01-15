@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-04-24 16:00:00
+date: 2013-04-24 16:00:00 +1200
 author: Paul
 title: ANZAC Spirit Lives On With .AU Domain
 

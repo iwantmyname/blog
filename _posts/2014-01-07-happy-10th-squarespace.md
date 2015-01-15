@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-07 15:52:16
+date: 2014-01-07 15:52:16 +1200
 author: Chris
 title: Happy 10th, Squarespace
 

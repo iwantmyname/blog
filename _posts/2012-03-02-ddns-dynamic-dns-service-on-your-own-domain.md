@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-03-02 17:48:24
+date: 2012-03-02 17:48:24 +1200
 author: Lenz
 title: Care For Dynamic DNS (DDNS) Updates?
 

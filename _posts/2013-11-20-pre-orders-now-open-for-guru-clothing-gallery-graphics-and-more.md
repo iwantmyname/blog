@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-20 10:47:36
+date: 2013-11-20 10:47:36 +1200
 author: Chris
 title: Pre-Orders Now Open For .GURU, .CLOTHING, .GALLERY .GRAPHICS And More
 

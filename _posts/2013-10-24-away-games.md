@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-24 10:00:00
+date: 2013-10-24 10:00:00 +1200
 author: Paul
 title: Away Games - iwantmyname On Tour
 

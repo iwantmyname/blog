@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-08-27 10:00:00
+date: 2012-08-27 10:00:00 +1200
 author: Paul
 title: "Booting Startup Weekend's Mix & Mashup"
 

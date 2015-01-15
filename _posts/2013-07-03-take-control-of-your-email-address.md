@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-07-03 17:55:58
+date: 2013-07-03 17:55:58 +1200
 author: Timo
 title: How to set up email forwarding on your own domain using Pobox and iwantmyname
 

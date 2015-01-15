@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-02-01 16:09:19
+date: 2010-02-01 16:09:19 +1200
 author: Timo
 title: Short URL Domain Name Ideas for Customizing bit.ly Pro
 

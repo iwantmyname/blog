@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-20 12:24:53
+date: 2011-07-20 12:24:53 +1200
 author: Paul
 title: New Services For Developers
 

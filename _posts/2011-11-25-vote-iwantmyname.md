@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-11-25 14:00:00
+date: 2011-11-25 14:00:00 +1200
 author: Paul
 title: Vote iWantMyName
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-08-03 11:22:35
+date: 2013-08-03 11:22:35 +1200
 author: Paul
 title: "Austria. Where Your Domain's .AT"
 

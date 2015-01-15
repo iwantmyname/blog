@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-27 12:42:10
+date: 2013-11-27 12:42:10 +1200
 author: Chris
 title: Holiday Shipping Made Easy With Squarespace x ShipStation
 

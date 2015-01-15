@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-03-07 13:25:06
+date: 2011-03-07 13:25:06 +1200
 author: Paul
 title: Online Profile Services Easy To Customise
 

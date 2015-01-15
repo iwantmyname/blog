@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-01-14 11:29:43
+date: 2010-01-14 11:29:43 +1200
 author: Timo
 title: Massive Price Reduction For Russian, Polish & Czech Domain Names
 

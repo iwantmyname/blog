@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-10-31 18:57:32
+date: 2009-10-31 18:57:32 +1200
 author: Timo
 title: 2010 Launch of Internationalized Country Code Domain Extensions Announced
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-03-23 12:40:19
+date: 2009-03-23 12:40:19 +1200
 author: Timo
 title: "New extension: why you should buy a .TEL domain name"
 

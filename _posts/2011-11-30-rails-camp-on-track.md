@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-11-30 23:00:00
+date: 2011-11-30 23:00:00 -0700
 author: Paul
 title: Rails Camp On Track
 
@@ -16,6 +16,9 @@ tags:
   - Ruby
   - Ruby on Rails
   - Webstock
+
+# Fix permalink issue caused by timezone overlap
+permalink: /2011/11/rails-camp-on-track.html
 
 ---
 

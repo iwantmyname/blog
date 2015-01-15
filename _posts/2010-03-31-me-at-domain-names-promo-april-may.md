@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-03-31 12:19:18
+date: 2010-03-31 12:19:18 +1200
 author: Timo
 title: .ME, .AT & .EU Domain Name Promo April/May 2010
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-11-30 14:00:00
+date: 2012-11-30 14:00:00 +1200
 author: Paul
 title: Celebrating Startups And Small Business Success
 

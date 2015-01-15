@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-06-12 13:14:18
+date: 2009-06-12 13:14:18 +1200
 author: Timo
 title: I want my name! Or how you can own your online identity.
 

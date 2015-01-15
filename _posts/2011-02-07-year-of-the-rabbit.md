@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-02-07 10:12:29
+date: 2011-02-07 10:12:29 +1200
 author: Paul
 title: Hop Into the New Lunar Year and Save
 

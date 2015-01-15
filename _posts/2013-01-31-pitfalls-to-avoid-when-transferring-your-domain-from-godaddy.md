@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-01-31 13:59:45
+date: 2013-01-31 13:59:45 +1200
 author: Timo
 title: Pitfalls To Avoid When Transferring Your Domain From GoDaddy
 

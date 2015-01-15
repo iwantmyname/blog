@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-11-21 10:41:28
+date: 2013-11-21 10:41:28 +1200
 author: Chris
 title: .UK Domains Without The .CO, Coming Summer 2014
 

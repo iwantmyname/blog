@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-05-04 10:56:15
+date: 2010-05-04 10:56:15 +1200
 author: Timo
 title: Internationalized Domain Name Extensions Are Coming Soon [VIDEO]
 

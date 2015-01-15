@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-09-07 17:00:00
+date: 2011-09-07 17:00:00 +1200
 author: Paul
 title: Making Magic
 

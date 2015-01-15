@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-06-05 13:00:00
+date: 2013-06-05 13:00:00 +1200
 author: Paul
 title: "What's Cool This Week In The Creative World Of Domains"
 

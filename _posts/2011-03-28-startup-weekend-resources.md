@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-03-28 11:32:02
+date: 2011-03-28 11:32:02 +1200
 author: Paul
 title: 10 Startup Weekend Resources
 

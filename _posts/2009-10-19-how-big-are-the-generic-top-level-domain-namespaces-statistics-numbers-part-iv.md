@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-10-19 08:27:03
+date: 2009-10-19 08:27:03 +1200
 author: Timo
 title: How Big Are The Generic Top-Level Domain Namespaces? Statistics & Numbers, Part IV
 

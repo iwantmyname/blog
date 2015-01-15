@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-08-05 09:55:13
+date: 2011-08-05 09:55:13 +1200
 author: Timo
 title: Introducing DNS Hosting For External Domains
 

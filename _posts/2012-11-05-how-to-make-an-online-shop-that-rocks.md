@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-11-05 10:30:00
+date: 2012-11-05 10:30:00 +1200
 author: Paul
 title: How To Make An Online Shop That Rocks
 

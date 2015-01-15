@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-08-05 11:39:34
+date: 2010-08-05 11:39:34 +1200
 author: Paul
 title: Stay Frosty! .GL Domain Name Registration Added
 

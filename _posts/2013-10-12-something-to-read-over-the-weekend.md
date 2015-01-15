@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-12 11:20:48
+date: 2013-10-12 11:20:48 +1200
 author: Chris
 title: Something To Read Over The Weekend
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-09-18 11:39:01
+date: 2010-09-18 11:39:01 +1200
 author: Paul
 title: Family Fun Forecast For Software Freedom Day
 

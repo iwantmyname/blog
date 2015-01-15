@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-12-17 13:57:04
+date: 2012-12-17 13:57:04 +1200
 author: Timo
 title: Iceland Haz Cheezburger?
 

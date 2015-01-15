@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-08-28 19:18:39
+date: 2010-08-28 19:18:39 +1200
 author: Timo
 title: Simple Custom Domain Tweet Button With Bit.ly Pro
 

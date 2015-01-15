@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-08-20 14:08:46
+date: 2010-08-20 14:08:46 +1200
 author: Paul
 title: Securing Your Domain Identity in China
 

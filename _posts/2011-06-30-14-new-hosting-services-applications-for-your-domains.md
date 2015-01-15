@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-06-30 18:32:48
+date: 2011-06-30 18:32:48 +1200
 author: Timo
 title: 14 New Domain Hosting Services And Applications
 

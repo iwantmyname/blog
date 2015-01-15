@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-12-24 13:59:00
+date: 2011-12-24 13:59:00 +1200
 author: Paul
 title: Make A Move For Good
 

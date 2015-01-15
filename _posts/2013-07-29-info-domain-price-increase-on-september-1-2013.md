@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-07-29 18:24:50
+date: 2013-07-29 18:24:50 +1200
 author: Timo
 title: .INFO Domain Price Increase On September 1, 2013
 

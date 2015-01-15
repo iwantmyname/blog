@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-08-17 00:49:58
+date: 2012-08-17 00:49:58 +1200
 author: Timo
 title: Short Domain Search Made Easy!
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-02-19 12:02:33
+date: 2010-02-19 12:02:33 +1200
 author: Timo
 title: Your Username Does Not Belong To You
 

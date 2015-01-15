@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-02-11 15:29:01
+date: 2013-02-11 15:29:01 +1200
 author: Paul
 title: Creative Space Hosting Startup Weekend
 

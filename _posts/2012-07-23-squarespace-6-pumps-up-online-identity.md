@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-07-23 15:18:42
+date: 2012-07-23 15:18:42 +1200
 author: Paul
 title: Squarespace 6 Pumps Up Online Identity
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-01-18 16:24:38
+date: 2012-01-18 16:24:38 +1200
 author: Paul
 title: Blackout Sheds Light On SOPA Madness 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-02-22 06:14:41
+date: 2011-02-22 06:14:41 +1200
 author: Timo
 title: Express DNS Setup For Amazon S3 Hosting Enabled
 

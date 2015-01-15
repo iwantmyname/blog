@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-10-01 11:04:32
+date: 2010-10-01 11:04:32 +1200
 author: Timo
 title: 10 Pumpkin-TASTIC October Domain Promotions
 

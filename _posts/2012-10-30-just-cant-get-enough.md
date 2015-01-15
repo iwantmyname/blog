@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-10-30 06:23:12
+date: 2012-10-30 06:23:12 +1200
 author: Paul
 title: "Just Can't Get Enough"
 

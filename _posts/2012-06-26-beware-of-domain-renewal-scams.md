@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-06-26 15:59:13
+date: 2012-06-26 15:59:13 +1200
 author: Timo
 title: Beware Of Domain Name Renewal Scams
 

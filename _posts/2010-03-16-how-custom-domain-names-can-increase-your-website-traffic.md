@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-03-16 16:02:55
+date: 2010-03-16 16:02:55 +1200
 author: Timo
 title: Using A Custom Domain Can Boost Your Website Traffic
 

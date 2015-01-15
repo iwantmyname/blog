@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-10-26 16:38:46
+date: 2010-10-26 16:38:46 +1200
 author: Timo
 title: SSL, Cookies and Caching
 

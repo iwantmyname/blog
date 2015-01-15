@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-08-13 22:00:00
+date: 2012-08-13 22:00:00 +1200
 author: Paul
 title: Adamsnames Advises Extraordinary Price Increase For .TC Registrations And Other Changes To .GD & .VG Domains
 

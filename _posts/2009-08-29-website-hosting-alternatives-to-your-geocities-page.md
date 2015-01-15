@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-08-29 00:05:39
+date: 2009-08-29 00:05:39 +1200
 author: Timo
 title: 20 Website Hosting Alternatives To Your Geocities Page
 

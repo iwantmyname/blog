@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-07-27 18:23:04
+date: 2009-07-27 18:23:04 +1200
 author: Timo
 title: Support For Internationalised Domain Names (IDNs)
 

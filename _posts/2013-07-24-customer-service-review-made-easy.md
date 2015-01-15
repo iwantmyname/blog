@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-07-24 13:39:03
+date: 2013-07-24 13:39:03 +1200
 author: Timo
 title: How To Track Customer Service Happiness
 

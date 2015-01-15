@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-07-05 11:35:34
+date: 2011-07-05 11:35:34 +1200
 author: Paul
 title: July Domain Transfer Offer
 

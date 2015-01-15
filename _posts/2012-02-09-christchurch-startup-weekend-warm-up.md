@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-02-09 12:00:00
+date: 2012-02-09 12:00:00 +1200
 author: Paul
 title: Christchurch Startup Weekend Warm Up
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-07-27 13:00:00
+date: 2012-07-27 13:00:00 +1200
 author: Paul
 title: Wonderful Wellington Startup Weekend
 

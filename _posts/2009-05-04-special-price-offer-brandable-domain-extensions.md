@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-05-04 17:11:41
+date: 2009-05-04 17:11:41 +1200
 author: Timo
 title: Brandtastic Domain Extensions for the Price of a .COM
 

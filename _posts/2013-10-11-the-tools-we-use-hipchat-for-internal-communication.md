@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-11 07:31:22
+date: 2013-10-11 07:31:22 +1200
 author: Chris
 title: "The Tools We Use: HipChat For Internal Communication"
 

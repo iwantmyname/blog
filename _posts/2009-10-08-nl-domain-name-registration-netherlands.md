@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-10-08 09:03:00
+date: 2009-10-08 09:03:00 +1200
 author: Timo
 title: .NL Domain Name Search & Registration Now Available
 

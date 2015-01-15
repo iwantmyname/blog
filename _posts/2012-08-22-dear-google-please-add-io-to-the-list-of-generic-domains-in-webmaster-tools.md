@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-08-22 20:58:54
+date: 2012-08-22 20:58:54 +1200
 author: Timo
 title: Dear Google, Please Add .IO To The List Of Generic Domains In Webmaster Tools
 

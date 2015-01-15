@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-12-04 16:11:12
+date: 2013-12-04 16:11:12 +1200
 author: Timo
 title: Happy 5th Birthday iwantmyname!
 

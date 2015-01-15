@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-07-13 15:24:07
+date: 2010-07-13 15:24:07 +1200
 author: Paul
 title: Beer Necessities
 

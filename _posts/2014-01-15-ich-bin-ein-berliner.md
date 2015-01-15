@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-01-15 06:35:48
+date: 2014-01-15 06:35:48 +1200
 author: Chris
 title: Ich bin ein .BERLINer
 

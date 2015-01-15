@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-11-10 05:46:08
+date: 2010-11-10 05:46:08 +1200
 author: Timo
 title: New Tumblr? Get Your Own Domain!
 
