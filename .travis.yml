@@ -37,7 +37,7 @@ after_success:
   - cd _site
   - touch .nojekyll
   - git add -A
-  - git commit -m "jekyll build"
+  - git commit -m "jekyll build" -m "https://travis-ci.org/iwantmyname/blog/builds/$TRAVIS_BUILD_ID"
   - git push origin gh-pages
   - cd ..
   - rake test
