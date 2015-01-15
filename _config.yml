@@ -20,4 +20,7 @@ exclude: [Gemfile, Rakefile, vendor]
 
 
 # Non-standard config settings for use throughout site
-images_url: /blog/assets/images/content
+
+# Absolute URL to images
+#   HTML Proofer doesn't have an src_swap option, so we need to treat images as external images
+images_url: https://iwantmyname.com/blog/assets/images/content

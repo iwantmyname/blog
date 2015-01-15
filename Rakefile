@@ -13,7 +13,7 @@ task :test do
 		href_swap: {
 			# make blog links relative
 			# if any "missing href" errors appear, it's due to a lack of trailing slash
-			/^(https:\/\/iwantmyname\.com)?\/blog/ => ""
+			/^https:\/\/iwantmyname\.com\/blog/ => ""
 		}
 	}).run
 end
