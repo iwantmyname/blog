@@ -17,9 +17,6 @@ tags:
   - Ruby on Rails
   - Webstock
 
-# Fix permalink issue caused by timezone overlap
-permalink: /2011/11/rails-camp-on-track.html
-
 ---
 
 ![rails.jpg]({{ site.images_url }}/2011-11-30-rails.jpg)

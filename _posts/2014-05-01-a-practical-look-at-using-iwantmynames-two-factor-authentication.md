@@ -4,8 +4,6 @@ date: 2014-05-01 06:45:23 +1200
 author: Chris
 title: A practical look at using iwantmyname's two-factor authentication
 header_image: 2014-05-01-armored-truck.jpg
-# Fix permalink issue caused by timezone overlap
-permalink: /2014/04/a-practical-look-at-using-iwantmynames-two-factor-authentication.html
 
 ---
 

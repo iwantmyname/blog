@@ -18,6 +18,9 @@ paginate_path: /page-:num/
 
 exclude: [Gemfile, Rakefile, vendor]
 
+# Set timezone for build consistency across platforms
+timezone: America/Los_Angeles
+
 
 # Non-standard config settings for use throughout site
 
