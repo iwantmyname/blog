@@ -6,6 +6,57 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>SEO penalties of moving our blog to a subdomain</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Let me start this article by confessing that we’re not SEO gurus at iwantmyname. Everything we&amp;#39;ve done in the last few years in terms of SEO was done with a basic understanding of the topic and by providing a good product with relevant content and landing pages. This always served us well and we were happy with our rankings overall. With that out of the way, I’d like to tell you about our experience with switching our blog to a subdomain. &lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;In July of last year, we moved our blog from a subdirectory URL (&lt;code&gt;iwantmyname.com/blog&lt;/code&gt;) to a subdomain (&lt;code&gt;blog.iwantmyname.com&lt;/code&gt;) for better maintainability and performance with GitHub Pages&amp;#39; &lt;abbr title=&quot;content delivery network&quot;&gt;CDN&lt;/abbr&gt; and future-proofing in case we wanted to switch to a different platform down the road. We made this decision after doing lots of research and had long discussions about how it might impact our search engine rankings, but we ultimately agreed to make the change. After all, it was 2014 and Google should be clever enough that it wouldn’t make any difference because they know the blog (subdomain or not) is part of iwantmyname, right? As Matt Cutts said &lt;a href=&quot;https://www.youtube.com/watch?v=_MswMYk05tk&quot;&gt;in one of his webmaster videos&lt;/a&gt; “it’s a question which one is easier for you and whichever one makes you happier I would go and do it that way”.&lt;/p&gt;
+
+&lt;p&gt;While we expected an initial hit after making the subdomain switch and traffic slowly recovering, the turnaround didn’t happen after 6 months, as you can see in the following example:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-01-16-blog-traffic-subdomain-switch.png&quot; alt=&quot;Blog traffic after switch to subdomain&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;From what we can tell, we did everything by the books with &lt;code&gt;301&lt;/code&gt; redirects for all URLs - so what happened? Could it have been just coincidence that Google updated their algorithm and we got penalized for some reason?&lt;/p&gt;
+
+&lt;p&gt;One signal that Google introduced one month after us making the switch was to give SSL-secured sites a little ranking boost. Since &lt;a href=&quot;https://github.com/iwantmyname/blog&quot;&gt;our blog is running on GitHub Pages&lt;/a&gt;, which &lt;a href=&quot;https://github.com/isaacs/github/issues/156&quot;&gt;doesn’t currently support HTTPS&lt;/a&gt;, could that have prevented the traffic from recovering? Certainly it can’t be that much of a ranking signal—although they mentioned it would increase in importance over time?&lt;/p&gt;
+
+&lt;p&gt;So after waiting for six months, we reverted the change and switched our blog back to the previous &lt;code&gt;/blog&lt;/code&gt; subdirectory. It’s still hosted on GitHub Pages and we’re using a simple Nginx proxy to show the content under &lt;code&gt;iwantmyname.com/blog&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;location = /blog {
+  # GitHub Pages doesn&amp;#39;t redirect this properly, so we&amp;#39;ll handle it
+  return 301 /blog/;
+}
+
+# ^~ to allow /blog/ to match before our other regex locations
+location ^~ /blog/ {
+  proxy_pass https://iwantmyname.github.io;
+  proxy_intercept_errors on;
+  # serve our custom 404 page from our blog repo instead of GitHub Pages&amp;#39; 404
+  error_page  404  /blog/404.html;
+  # allow GitHub to pass caching headers instead of using our own
+  expires off;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;An important side effect is that our blog pages are now secured under our primary SSL certificate again.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Based on this experience and the following &lt;a href=&quot;http://moz.com/community/q/moz-s-official-stance-on-subdomain-vs-subfolder-does-it-need-updating#reply_217479&quot;&gt;recommendation from Moz’s Rand Fishkin&lt;/a&gt;, we decided it would be better for our long-term SEO strategy to put our blog back on our primary domain:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I would still strongly urge folks to keep all content on a single subdomain. We recently were able to test this using a subdomain on Moz itself (when moving our beginner&amp;#39;s guide to SEO from guides.moz.com to the current URL http://moz.com/beginners-guide-to-seo). The results were astounding - rankings rose dramatically across the board for every keyword we tracked to the pages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We will certainly keep a close eye on traffic for the next few months and keep you updated. Hope this helps some of you when deciding on the age-old debate of wether you should have your blog on a subdomain or not!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 15 Jan 2015 15:53:45 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/01/seo-penalties-of-moving-our-blog-to-a-subdomain.html</link>
+				<guid isPermaLink="false">/2015/01/seo-penalties-of-moving-our-blog-to-a-subdomain.html</guid>
+			</item>
+		
+			<item>
 				<title>New gTLDs and SEO performance</title>
 				<description>&lt;p&gt;&lt;a href=&quot;http://www.circleid.com/posts/20150112_new_gtlds_show_promising_seo_performance/&quot;&gt;From Roland LaPlante - CircleID:&lt;/a&gt;&lt;/p&gt;
 
@@ -239,27 +290,6 @@
 				<pubDate>Tue, 23 Dec 2014 09:43:26 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2014/12/holiday-cheer.html</link>
 				<guid isPermaLink="false">/2014/12/holiday-cheer.html</guid>
-			</item>
-		
-			<item>
-				<title>The Sweet Setup’s top third-party email app for OSX</title>
-				<description>&lt;p&gt;&lt;a href=&quot;http://thesweetsetup.com/apps/favorite-email-client-os-x/&quot;&gt;From Jason Snell - The Sweet Setup:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Because Apple makes it, Mail is for everybody. But it’s not for everybody. Apple designed it to serve the masses, and if you want more–or less–from your email client, Apple Mail may not suit you. Maybe its old-school approach to mail, lifted from classic mail clients like Eudora and NeXTMail, just doesn’t fit the modern emailer. Maybe you want deep links to productivity apps on your Mac that Mail just won’t provide. Or maybe you’re just tired of being in a dysfunctional relationship with Mail.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;...&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We think Mailbox is the best alternative to Apple Mail out there, but it only works with Gmail or iCloud. If you’re not using either of those providers, the best Mail alternative compatible with most POP/IMAP/Exchange servers is the $10 Airmail 2. Airmail feels like an attempt to create a true replacement for Apple Mail, rather than rethinking the way we process email like Mailbox. However, Airmail also has the concept of filing a message to a “To Do” folder for later processing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Email is one of those things people really struggle with, but there are so many tools and apps out there you may find to be more tuned to your liking. If you’re looking for a New Year’s resolution you can actually stick to, commit to making your life a little saner with an email app that fits your workflow.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 22 Dec 2014 10:06:55 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2014/12/the-sweet-setups-top-third-party-email-app-for-osx.html</link>
-				<guid isPermaLink="false">/2014/12/the-sweet-setups-top-third-party-email-app-for-osx.html</guid>
 			</item>
 		
 	</channel>
