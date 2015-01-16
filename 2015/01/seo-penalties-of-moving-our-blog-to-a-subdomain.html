@@ -130,7 +130,7 @@
 location ^~ /blog/ {
   proxy_pass https://iwantmyname.github.io;
   proxy_intercept_errors on;
-  # serve our custom 404 page from our blog repo instead of GitHub Pages&#39; 404
+  # serve custom 404 page from our blog repo instead of GitHub Pages&#39; 404
   error_page  404  /blog/404.html;
   # allow GitHub to pass caching headers instead of using our own
   expires off;
