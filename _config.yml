@@ -16,7 +16,7 @@ permalink: /:year/:month/:title.html
 paginate: 10
 paginate_path: /page-:num/
 
-exclude: [Gemfile, Rakefile, vendor, _posts/2009*, _posts/2010*, _posts/2011*, _posts/2012*, _posts/2013*, _posts/2014*]
+exclude: [Gemfile, Rakefile, vendor]
 
 # Set timezone for build consistency across platforms
 timezone: America/Los_Angeles
