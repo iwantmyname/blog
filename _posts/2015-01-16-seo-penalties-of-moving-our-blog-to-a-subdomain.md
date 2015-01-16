@@ -49,4 +49,4 @@ Based on this experience and the following [recommendation from Moz’s Rand Fis
 
 > I would still strongly urge folks to keep all content on a single subdomain. We recently were able to test this using a subdomain on Moz itself (when moving our beginner's guide to SEO from guides.moz.com to the current URL http://moz.com/beginners-guide-to-seo). The results were astounding - rankings rose dramatically across the board for every keyword we tracked to the pages.
 
-We will certainly keep a close eye on traffic for the next few months and keep you updated. Hope this helps some of you when deciding on the age-old debate of wether you should have your blog on a subdomain or not!
+We will certainly keep a close eye on traffic for the next few months and keep you updated. Hope this helps some of you when deciding on the age-old debate of whether you should have your blog on a subdomain or not!
