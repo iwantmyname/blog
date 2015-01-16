@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>An introduction to Ghost with John O'Nolan</title>
+
+	<link rel="canonical" href="https://iwantmyname.com/blog/2014/02/an-intro-guide-to-ghost-with-john-onolan.html">
+	<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for IE -->
+<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<!-- everyone else -->
+<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+
+	
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="An introduction to Ghost with John O'Nolan">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2014/02/an-intro-guide-to-ghost-with-john-onolan.html">
+	
+
+
+
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
+
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+
+	<!--[if lt IE 9]>
+		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+	<![endif]-->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5387743-5', 'iwantmyname.com');
+  ga('send', 'pageview');
+
+  // track uncaught errors
+  window.onerror = function (message, file, line) {
+    if (line != null) file += ' (' + line + ')'; // add line number to file URL
+    ga('send', 'event', 'window.onerror', message, file, null, { nonInteraction: true });
+  };
+</script>
+
+</head>
+<body>
+
+	<div class="frame">
+	<div class="frame-row frame-row-expand">
+		<header>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-9 col-sm-6">
+				<a href="https://iwantmyname.com/blog/" class="brand">
+					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+					<span class="hidden-xs">Domain</span> blog
+				</a>
+			</div>
+			<div class="col-xs-3 col-sm-6">
+				<ul class="nav iwmn-nav pull-right">
+					<li>
+						<a href="https://iwantmyname.com/">
+							<span class="hidden-xs">&larr; Back to iwantmyname</span>
+							<span class="glyphicon glyphicon-home visible-xs"></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+		
+
+
+
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				
+					<h1>An introduction to Ghost with John O'Nolan</h1>
+				
+				
+				
+
+				<!-- excerpt -->
+
+<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-02-20-ghost.jpg" alt="Ghost"></p>
+
+<p>There are a number of platforms your could use to get a blog up and running, but one of the newest entries into the field is perhaps the most exciting—a platform called <a href="https://ghost.org/">Ghost</a>. And what makes it exciting is that it doesn&#39;t try to do everything for everyone. There are no e-commerce features, no integrated social networks and no ambitions to create fully blown-out sites—it&#39;s just a platform for (beautifully) publishing content.</p>
+
+<p>As the Ghost site states, &quot;Ghost is an Open Source application which allows you to write and publish your own blog, giving you the tools to make it easy and even fun to do. It&#39;s simple, elegant, and designed so that you can spend less time making your blog work and more time blogging.&quot;</p>
+
+<p>So to help you decide if Ghost is the right platform for your blog, I asked <a href="https://twitter.com/JohnONolan">John O&#39;Nolan</a>, the guy who <a href="http://john.onolan.org/project-ghost/">originally dreamed up the platform</a>, many of the questions people have asked me. And because he&#39;s such a great guy (I&#39;m serious, he&#39;s a really great guy), he was happy to oblige.</p>
+
+<!-- /excerpt -->
+
+<p><strong>Q: Say you&#39;re brand new to blogging. Starting from scratch. What differentiates a platform like Ghost from Wordpress, Squarespace, Tumblr and the rest of the platforms out there? What does the prototypical Ghost user look like?</strong></p>
+
+<p>That is an excellent question! Each of these platforms are actually pretty incredible pieces of software. The important thing is that they all do slightly different things, and are built in slightly different ways, so it really comes down to choosing what’s right for you.</p>
+
+<p>Do you want a simple website with e-commerce that you use to run your business website? Give Squarespace a try. If you want to participate in a social network with sharing and re-posting and lots of cats, maybe Tumblr would be a better fit for you. On the other hand, if you’re looking to develop your own fully-fledged website or application with every imaginable bell and whistle, WordPress might be ideal.</p>
+
+<p>If you want to have a simple but powerful independent publication. Something which is focused on the writing experience and giving you the freedom to be in complete control of your content. Well, then you might find Ghost interesting.</p>
+
+<p><strong>Q: Ok, so Ghost sounds like what I&#39;m looking for. <a href="https://iwantmyname.com/services/blog-hosting/ghost-custom-domain">With my domain name in hand</a>, how much work am I going to have to do to get my blog up and running? Do I need anything extra like hosting space?</strong></p>
+
+<p>I thought it might be! So there are two ways to set up a blog with Ghost and that shiny new domain name you’re holding:</p>
+
+<ol>
+<li><p>Head over to <a href="https://ghost.org/">Ghost.org</a> and start using our hosted platform. The hosted platform is a service which allows you to start a new Ghost blog in a couple of clicks, and has premium plans starting at just $5 per month. The other great thing about our hosted platform is that all the money we make from it actually goes towards funding developers to work on the Ghost software and make it better. We’re a very proud non-profit, so this helps the entire project in a big way - and yes! You can use your domain name here.</p></li>
+<li><p>Because Ghost is Open Source, you can actually download it and run the software on (almost) any computer in the world. It’ll work on your laptop, your web server, or even your <a href="http://www.raspberrypi.org/">Raspberry Pi</a>. So if you’re a developer and you’d like to roll-your-own installation of Ghost. You can certainly do that, too.</p></li>
+</ol>
+
+<p><strong>Q: The biggest fear I have is that my blog will feel super generic. What can I do to really personalize my blog&#39;s appearance?</strong></p>
+
+<p>That is a wise fear to have. It’s always important to make your blog unique and memorable, branding is a big deal! Fortunately, there are hundreds (soon: thousands) of beautiful Ghost themes which you can install to add a beautiful design to your blog and really make it stand out. <a href="http://marketplace.ghost.org">The best place to start is by having a look on our marketplace</a>, where you’ll find a very large collection of different styles and options to choose from.</p>
+
+<p><strong>Q: I&#39;ve read that on Wordpress I can get plugins like Yoast to boost my SEO—and ranking high in Google is super important to me. Is there something like that on Ghost? Should I even be worried about SEO?</strong></p>
+
+<p>Search Engine Optimisation is something which is absolutely pivotal to the success of a blog. We’ve done a huge amount of work inside Ghost to make sure that search engines can find your blog easily from the get-go. </p>
+
+<p>All of this is built-in so that you don’t have to rely on third party extensions to get a great SEO experience. It’s also worth noting that one of the biggest ranking factors that search engines look at these days is page-load speed. Because of the technology which Ghost is built on, it loads fast. Really fast.</p>
+
+<p><strong>Q: What does the future hold for Ghost? In 2020, will my blog seem as dated as my friend&#39;s Xanga site does today?</strong></p>
+
+<p>I have to tell you - you should immediately cut ties with this friend. Being associated with Xanga lover is just not something you want to come out in public. It’s time for an intervention!</p>
+
+<p>Ghost has very big ambitions. The future for Ghost is very much aimed towards creating a platform to power large online publications. Unlike some of the more trendy social networks which depend on buzz to survive - Ghost is really just a tool to get things done, so it will always be useful. We’ll be adding much more functionality around the publishing and collaborative writing experience as we grow and evolve.</p>
+
+<p><strong>Q: Is there anything else I should know before getting started? Anything I haven’t thought of yet?</strong></p>
+
+<p>Well, you’ve asked some really great questions, and I feel like that shouldn’t be ignored - so here’s a discount coupon which will give you 2 months free on the <a href="https://ghost.org/">Ghost.org</a> hosted platform, if you’d like to give it a try! </p>
+
+<p>Code: <code>IWMN2</code></p>
+
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+							
+								<p class="byline clearfix">
+										<img class="author" src="https://iwantmyname.com/blog/assets/images/authors/chris.jpg" alt="Chris Hall" title="Chris Hall">
+
+										&mdash; Chris Hall<br>
+										<a href="https://twitter.com/hashtaghall">@hashtaghall</a>
+								</p>
+							
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">February 19, 2014</small>
+							</p>
+						</div>
+					</div>
+					
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+<div class="page-section">
+	
+	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
+		<input type="hidden" name="hideUnavailable" value="false">
+	
+
+		
+			<h1>Find the perfect domain name.</h1>
+			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
+		
+
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+				<input type="text" class="form-control input-lg" name="domain" placeholder="I want my web address to be&hellip;">
+				<button type="submit" class="btn btn-lg">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+	</div>
+	
+	<div class="frame-row">
+		<footer>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Quick Links</li>
+					<li><a href="https://iwantmyname.com/domains/domain-name-registration-list-of-extensions">Domain pricing</a></li>
+					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
+					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
+					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">January discounts</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Company</li>
+					<li><a href="https://iwantmyname.com/about">About our team</a></li>
+					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
+					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
+					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
+				</ul>
+			</div>
+			
+			<!-- fix variable height columns on tiny screens -->
+			<div class="clearfix visible-xs"></div>
+
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Support</li>
+					<li><a href="https://help.iwantmyname.com/">Help center Q&amp;A</a></li>
+					<li><a href="http://status.iwantmyname.com/">Website status</a></li>
+					<li><a href="https://iwantmyname.com/support">Contact a human</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Extras</li>
+					<li><a href="https://iwantmyname.com/affiliate">Affiliate program</a></li>
+					<li><a href="https://iwantmyname.com/developer/domain-dns-api">Developer API</a></li>
+					<li><a href="https://iwantmyname.com/features/domains/web-hosting">Website hosting</a></li>
+					<li><a href="https://iwantmyname.com/ssl">SSL certificates</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<p>iwantmyname &copy; 2015</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	</div>
+</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+</body>
+</html>

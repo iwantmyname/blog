@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Using ALIAS-type DNS records for CNAME functionality on naked domains, and an easier alternative</title>
+
+	<link rel="canonical" href="https://iwantmyname.com/blog/2014/05/alias-type-dns-records-for-cname-functionality-on-naked-domains.html">
+	<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for IE -->
+<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<!-- everyone else -->
+<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+
+	
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Using ALIAS-type DNS records for CNAME functionality on naked domains, and an easier alternative">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2014/05/alias-type-dns-records-for-cname-functionality-on-naked-domains.html">
+	
+
+
+
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
+
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+
+	<!--[if lt IE 9]>
+		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+	<![endif]-->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5387743-5', 'iwantmyname.com');
+  ga('send', 'pageview');
+
+  // track uncaught errors
+  window.onerror = function (message, file, line) {
+    if (line != null) file += ' (' + line + ')'; // add line number to file URL
+    ga('send', 'event', 'window.onerror', message, file, null, { nonInteraction: true });
+  };
+</script>
+
+</head>
+<body>
+
+	<div class="frame">
+	<div class="frame-row frame-row-expand">
+		<header>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-9 col-sm-6">
+				<a href="https://iwantmyname.com/blog/" class="brand">
+					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+					<span class="hidden-xs">Domain</span> blog
+				</a>
+			</div>
+			<div class="col-xs-3 col-sm-6">
+				<ul class="nav iwmn-nav pull-right">
+					<li>
+						<a href="https://iwantmyname.com/">
+							<span class="hidden-xs">&larr; Back to iwantmyname</span>
+							<span class="glyphicon glyphicon-home visible-xs"></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+		
+
+
+
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				
+					<h1>Using ALIAS-type DNS records for CNAME functionality on naked domains, and an easier alternative</h1>
+				
+				
+				
+
+				<!-- excerpt -->
+
+<p>If you&#39;ve ever wanted to set up domains using cloud hosting services like Heroku or Windows Azure, you&#39;ve probably come across a limitation with their platforms in regards to using naked domains (the version without the &#39;www&#39; part, which is also called zone apex or root domain). There are two underlying problems here, due to the nature of how the Domain Name System works:</p>
+
+<ol>
+<li>CNAME records must not be used on naked domains, meaning they will ask you to use a sub-domain, e.g. &#39;www&#39; for your site or app.</li>
+<li>They are unable to provide you with A records for setting up naked domains due to scalability issues. If there is an attack on their infrastructure, it would take down all sites using the same A record(s).</li>
+</ol>
+
+<p>This scenario leaves you with two different options for setting up custom domains, both of which we will explore.</p>
+
+<!-- /excerpt -->
+
+<h2>Option 1: ALIAS-type DNS records</h2>
+
+<p>The answer for why you must not use CNAME records with naked domains is simple. It&#39;s not allowed <a href="http://www.ietf.org/rfc/rfc1035.txt">because the DNS specification says so</a> (and some registries are very strict about this). While you can do it theoretically, there are certain side effects—the main one being that email services on your domain <a href="https://iwantmyname.com/blog/2014/02/not-receiving-email-check-for-cname-record-on-root-domain.html">will only work intermittently</a>, if at all.</p>
+
+<p>That&#39;s where DNS hosting services offering CNAME functionality on the zone apex come into play. As of writing this article, here are the companies that provide such a solution:</p>
+
+<ul>
+<li><a href="http://cloudflare.com">CloudFlare</a> (free)</li>
+<li><a href="http://dnsmadeeasy.com">DNSMadeEasy</a></li>
+<li><a href="http://dnsimple.com">DNSimple</a></li>
+<li><a href="http://pointdns.com">PointDNS</a></li>
+<li><a href="http://aws.amazon.com/route53/">Amazon Route 53</a> (only for hosting on AWS)</li>
+</ul>
+
+<p>Using these services is as easy as updating your nameservers to theirs at your domain registrar. However, please note that there are no official standards around ALIAS-type DNS records yet, and there may be issues with general service availability, content delivery networks and DNSSEC. Some domain extensions like .IS don&#39;t even allow it. Also, if you do decide to use this method for domain mapping, <a href="https://iwantmyname.com/blog/2014/01/why-alias-type-records-break-the-internet.html">be aware of the implications</a>.</p>
+
+<h2>Option 2: URL forwarding as alternative</h2>
+
+<p>The easiest way is to simply forward the naked domain &#39;yoursitename.com&#39; to the &#39;www&#39; sub-domain. Most domain registrars and DNS hosting services offer URL forwarding. If you set up Heroku or other hosted apps with <a href="https://iwantmyname.com/services">our one-click services setup</a>, we take care of this automatically.</p>
+
+<p>Should your registrar charge extra for URL forwarding (some do) there are services like <a href="https://www.rootredirect.com/">RootRedirect.com</a> or <a href="http://wwwizer.com">wwwizer</a> that allow you to achieve the same setup. The latter also offers a paid plan which gives you a dedicated IP address, and even includes an SSL certificate.</p>
+
+<p>If you use forwarding, the main disadvantage is a cosmetic one—using the &#39;www&#39; sub-domain as your primary address. But that&#39;s a small price to pay for a standards-compliant domain and DNS setup, in my opinion.</p>
+
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+							
+								<p class="byline clearfix">
+										<img class="author" src="https://iwantmyname.com/blog/assets/images/authors/timo.jpg" alt="Timo Reitnauer" title="Timo Reitnauer">
+
+										&mdash; Timo Reitnauer<br>
+										<a href="https://twitter.com/treitnauer">@treitnauer</a>
+								</p>
+							
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">May 5, 2014</small>
+							</p>
+						</div>
+					</div>
+					
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+<div class="page-section">
+	
+	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
+		<input type="hidden" name="hideUnavailable" value="false">
+	
+
+		
+			<h1>Find the perfect domain name.</h1>
+			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
+		
+
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+				<input type="text" class="form-control input-lg" name="domain" placeholder="I want my web address to be&hellip;">
+				<button type="submit" class="btn btn-lg">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+	</div>
+	
+	<div class="frame-row">
+		<footer>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Quick Links</li>
+					<li><a href="https://iwantmyname.com/domains/domain-name-registration-list-of-extensions">Domain pricing</a></li>
+					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
+					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
+					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">January discounts</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Company</li>
+					<li><a href="https://iwantmyname.com/about">About our team</a></li>
+					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
+					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
+					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
+				</ul>
+			</div>
+			
+			<!-- fix variable height columns on tiny screens -->
+			<div class="clearfix visible-xs"></div>
+
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Support</li>
+					<li><a href="https://help.iwantmyname.com/">Help center Q&amp;A</a></li>
+					<li><a href="http://status.iwantmyname.com/">Website status</a></li>
+					<li><a href="https://iwantmyname.com/support">Contact a human</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Extras</li>
+					<li><a href="https://iwantmyname.com/affiliate">Affiliate program</a></li>
+					<li><a href="https://iwantmyname.com/developer/domain-dns-api">Developer API</a></li>
+					<li><a href="https://iwantmyname.com/features/domains/web-hosting">Website hosting</a></li>
+					<li><a href="https://iwantmyname.com/ssl">SSL certificates</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<p>iwantmyname &copy; 2015</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	</div>
+</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+</body>
+</html>

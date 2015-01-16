@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>What Is DNS? Here's What You Need To Know: Part 1</title>
+
+	<link rel="canonical" href="https://iwantmyname.com/blog/2013/05/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know.html">
+	<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for IE -->
+<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<!-- everyone else -->
+<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+
+	
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="What Is DNS? Here's What You Need To Know: Part 1">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2013/05/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know.html">
+	
+
+
+
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
+
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+
+	<!--[if lt IE 9]>
+		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+	<![endif]-->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5387743-5', 'iwantmyname.com');
+  ga('send', 'pageview');
+
+  // track uncaught errors
+  window.onerror = function (message, file, line) {
+    if (line != null) file += ' (' + line + ')'; // add line number to file URL
+    ga('send', 'event', 'window.onerror', message, file, null, { nonInteraction: true });
+  };
+</script>
+
+</head>
+<body>
+
+	<div class="frame">
+	<div class="frame-row frame-row-expand">
+		<header>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-9 col-sm-6">
+				<a href="https://iwantmyname.com/blog/" class="brand">
+					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+					<span class="hidden-xs">Domain</span> blog
+				</a>
+			</div>
+			<div class="col-xs-3 col-sm-6">
+				<ul class="nav iwmn-nav pull-right">
+					<li>
+						<a href="https://iwantmyname.com/">
+							<span class="hidden-xs">&larr; Back to iwantmyname</span>
+							<span class="glyphicon glyphicon-home visible-xs"></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+		
+
+
+
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				
+					<h1>What Is DNS? Here's What You Need To Know: Part 1</h1>
+				
+				
+				
+
+				<p><img src="https://iwantmyname.com/blog/assets/images/content/2013-05-27-blog-dns.jpg" alt="blog-dns.jpg"></p>
+
+<p>When you&#39;re new to building your own website it can feel like there&#39;s a bunch of things you need to know but you don&#39;t really have an idea where to start looking. Luckily <a href="https://iwantmyname.com/services">we make setting up domains really easy</a> for hosted services through our iwantmyname marketplace so you don&#39;t have to worry about technical details most of the time. If you are trying to delve a bit deeper into the technology involved there are so many acronyms and strange words that it can feel a bit overwhelming however. But don&#39;t worry, we&#39;re here to help clear the air a little and explain what each thing does.</p>
+
+<p><strong>DNS</strong></p>
+
+<p>DNS technology touches your life in <a href="http://www.huffingtonpost.com/paul-mockapetris/dns-what-celebrating-30-y_b_3211030.html">many ways you probably don&#39;t know</a> every day. It stands for <strong>Domain Name System</strong> which is the technology making it possible for you to type nice, human-friendly words into your address bar like <em>iwantmyname.com</em> instead of computer readable IP addresses such as 50.56.80.249.</p>
+
+<p>The interesting thing about DNS is that in this case, <em>iwantmyname.com</em> and e.g. <em>50.56.80.249</em> are the same thing. Try it out for yourself and put 50.56.80.249 into your address bar. It might give you a warning, but should still take you to our front page. DNS is simply that -- it allows computers to translate human readable things, like a URL, into an IP address. If you&#39;re not clear on what an IP address is, think of it as a phone number in the phone book. It tells the potential caller where your phone is and how to call you. The phone book provides names so you know who you&#39;re calling. DNS does the same thing. It provides a friendly, memorable name, which the DNS associates with a website at the numbered address.</p>
+
+<p>We&#39;re certainly glad this exists, otherwise it would be pretty hard for people to remember to visit us at 50.56.80.249, right?</p>
+
+<p><strong>Name Server</strong></p>
+
+<p>A name server is a web server with DNS software installed. It&#39;s where you manage all of your DNS records and set who your web/email host is. This is the part that allows you to determine who your visitors will be talking to when they ask for your website and where you&#39;ll be adding other records such as &#39;A&#39; records and &#39;MX&#39; records later on.</p>
+
+<p>If your domain is registered with us, we automatically set the nameservers to ns1.iwantmyname.net, ns2.iwantmyname.net, ns3.iwantmyname.net and ns4.iwantmyname.net for example. This would mean you&#39;re able to manage the remainder of your DNS records using our dashboard and still <a href="https://iwantmyname.com/features/domains/web-hosting">host your actual website elsewhere</a>. The only catch with DNS is that when you make a change to the name servers it may take a few hours before you can see the changes. This is called DNS propagation and depends on the Internet Service Providers involved between your computer and the hosting company. So if you have made an update to your DNS records and you don&#39;t see any effect immediately, all you have to do is wait a few hours until the changes have fully propagated throughout the internet.</p>
+
+<p>So much for the basics about DNS and nameservers. In our next article we will explain to you more about the different DNS record types such as A, CNAME, MX and TXT.</p>
+
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+							
+								<p class="byline clearfix">
+										<img class="author" src="https://iwantmyname.com/bloghttps://pbs.twimg.com/profile_images/500072107070353408/A9IRVg8F.jpeg" alt="Owen Wilson" title="Owen Wilson">
+
+										&mdash; Owen Wilson<br>
+										<a href="https://twitter.com/ow">@ow</a>
+								</p>
+							
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">May 27, 2013</small>
+							</p>
+						</div>
+					</div>
+					
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+<div class="page-section">
+	
+	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
+		<input type="hidden" name="hideUnavailable" value="false">
+	
+
+		
+			<h1>Find the perfect domain name.</h1>
+			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
+		
+
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+				<input type="text" class="form-control input-lg" name="domain" placeholder="I want my web address to be&hellip;">
+				<button type="submit" class="btn btn-lg">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+	</div>
+	
+	<div class="frame-row">
+		<footer>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Quick Links</li>
+					<li><a href="https://iwantmyname.com/domains/domain-name-registration-list-of-extensions">Domain pricing</a></li>
+					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
+					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
+					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">January discounts</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Company</li>
+					<li><a href="https://iwantmyname.com/about">About our team</a></li>
+					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
+					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
+					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
+				</ul>
+			</div>
+			
+			<!-- fix variable height columns on tiny screens -->
+			<div class="clearfix visible-xs"></div>
+
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Support</li>
+					<li><a href="https://help.iwantmyname.com/">Help center Q&amp;A</a></li>
+					<li><a href="http://status.iwantmyname.com/">Website status</a></li>
+					<li><a href="https://iwantmyname.com/support">Contact a human</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Extras</li>
+					<li><a href="https://iwantmyname.com/affiliate">Affiliate program</a></li>
+					<li><a href="https://iwantmyname.com/developer/domain-dns-api">Developer API</a></li>
+					<li><a href="https://iwantmyname.com/features/domains/web-hosting">Website hosting</a></li>
+					<li><a href="https://iwantmyname.com/ssl">SSL certificates</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<p>iwantmyname &copy; 2015</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	</div>
+</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+</body>
+</html>

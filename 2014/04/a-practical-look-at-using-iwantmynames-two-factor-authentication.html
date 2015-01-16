@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>A practical look at using iwantmyname's two-factor authentication</title>
+
+	<link rel="canonical" href="https://iwantmyname.com/blog/2014/04/a-practical-look-at-using-iwantmynames-two-factor-authentication.html">
+	<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for IE -->
+<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<!-- everyone else -->
+<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+
+	
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="A practical look at using iwantmyname's two-factor authentication">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2014/04/a-practical-look-at-using-iwantmynames-two-factor-authentication.html">
+	
+		<meta property="og:image" content="https://iwantmyname.com/blog/assets/images/content/2014-05-01-armored-truck.jpg">
+	
+
+
+
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
+
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+
+	<!--[if lt IE 9]>
+		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+	<![endif]-->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5387743-5', 'iwantmyname.com');
+  ga('send', 'pageview');
+
+  // track uncaught errors
+  window.onerror = function (message, file, line) {
+    if (line != null) file += ' (' + line + ')'; // add line number to file URL
+    ga('send', 'event', 'window.onerror', message, file, null, { nonInteraction: true });
+  };
+</script>
+
+</head>
+<body>
+
+	<div class="frame">
+	<div class="frame-row frame-row-expand">
+		<header>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-9 col-sm-6">
+				<a href="https://iwantmyname.com/blog/" class="brand">
+					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+					<span class="hidden-xs">Domain</span> blog
+				</a>
+			</div>
+			<div class="col-xs-3 col-sm-6">
+				<ul class="nav iwmn-nav pull-right">
+					<li>
+						<a href="https://iwantmyname.com/">
+							<span class="hidden-xs">&larr; Back to iwantmyname</span>
+							<span class="glyphicon glyphicon-home visible-xs"></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+		
+
+
+
+	<div class="iwmn-article-header imgix-fluid" data-src="https://iwmn-blog.imgix.net/2014-05-01-armored-truck.jpg">
+		<div class="container iwmn-container iwmn-article">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<h1>A practical look at using iwantmyname's two-factor authentication</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				
+				
+				
+
+				<!-- excerpt -->
+
+<p>In principle, making your online self more secure seems like a no-brainer. Of course you don&#39;t want to get hacked. Of course you don&#39;t want your identity to be stolen. But at what length are you willing to go to ensure your safety?</p>
+
+<p>One easy (and totally free) step we recommend you take for every platform that supports it is two-factor authentication (2FA). Stripping technical jargon, 2FA basically makes it so that in order to login to your account, you have to type in a code that&#39;s only accessable on your phone. So if Hacker X tries to access your account, they&#39;ll need the code sitting on your phone to get through. </p>
+
+<p>It&#39;s something we think is really important, so here&#39;s a quick look at how to set it up, and what using it looks like:</p>
+
+<!-- /excerpt -->
+
+<h3>The setup</h3>
+
+<ol>
+<li>Login to your account, then select &quot;Login &amp; Security&quot; under the &quot;Account&quot; dropdown menu</li>
+<li>Under &quot;Two-step verification&quot; type in your phone number and country code, then download the Authy app for iOS or Android (an SMS text option is available if you&#39;re on an unsupported platform).</li>
+</ol>
+
+<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-05-01-2fa-setup.png" alt="2FA setup"></p>
+
+<h3>Using 2FA</h3>
+
+<p>Now that you&#39;re all setup, your login will look like this:</p>
+
+<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-05-01-authy-login.png" alt="Authy login"></p>
+
+<p>Just open up your Authy app (or SMS text) and type in the code provided—and that&#39;s it. You&#39;ve quickly—and painlessly—added a second level of security to your iwantmyname account. </p>
+
+<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-05-01-2fa.png" alt="Authy"></p>
+
+<h3>But will this get annoying?</h3>
+
+<p>The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we&#39;re not a Bitcoin platform you&#39;re logging into every day. If you&#39;re like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you&#39;re slow, it can only take that long), you&#39;re only looking at losing a few seconds of your life a month. </p>
+
+<p>And that&#39;s a really small price to pay for peace of mind. </p>
+
+<hr>
+
+<p>Image Credit: <a href="https://secure.flickr.com/photos/moneyblognewz/5301647518/in/photolist-95uk6Q-95uk7y-baeqZX">MoneyBlogNewz</a></p>
+
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+							
+								<p class="byline clearfix">
+										<img class="author" src="https://iwantmyname.com/blog/assets/images/authors/chris.jpg" alt="Chris Hall" title="Chris Hall">
+
+										&mdash; Chris Hall<br>
+										<a href="https://twitter.com/hashtaghall">@hashtaghall</a>
+								</p>
+							
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">April 30, 2014</small>
+							</p>
+						</div>
+					</div>
+					
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+<div class="page-section">
+	
+	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
+		<input type="hidden" name="hideUnavailable" value="false">
+	
+
+		
+			<h1>Find the perfect domain name.</h1>
+			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
+		
+
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+				<input type="text" class="form-control input-lg" name="domain" placeholder="I want my web address to be&hellip;">
+				<button type="submit" class="btn btn-lg">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+	</div>
+	
+	<div class="frame-row">
+		<footer>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Quick Links</li>
+					<li><a href="https://iwantmyname.com/domains/domain-name-registration-list-of-extensions">Domain pricing</a></li>
+					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
+					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
+					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">January discounts</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Company</li>
+					<li><a href="https://iwantmyname.com/about">About our team</a></li>
+					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
+					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
+					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
+				</ul>
+			</div>
+			
+			<!-- fix variable height columns on tiny screens -->
+			<div class="clearfix visible-xs"></div>
+
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Support</li>
+					<li><a href="https://help.iwantmyname.com/">Help center Q&amp;A</a></li>
+					<li><a href="http://status.iwantmyname.com/">Website status</a></li>
+					<li><a href="https://iwantmyname.com/support">Contact a human</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Extras</li>
+					<li><a href="https://iwantmyname.com/affiliate">Affiliate program</a></li>
+					<li><a href="https://iwantmyname.com/developer/domain-dns-api">Developer API</a></li>
+					<li><a href="https://iwantmyname.com/features/domains/web-hosting">Website hosting</a></li>
+					<li><a href="https://iwantmyname.com/ssl">SSL certificates</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<p>iwantmyname &copy; 2015</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	</div>
+</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+</body>
+</html>

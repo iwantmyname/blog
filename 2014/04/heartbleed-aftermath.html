@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>The Heartbleed aftermath</title>
+
+	<link rel="canonical" href="https://iwantmyname.com/blog/2014/04/heartbleed-aftermath.html">
+	<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for IE -->
+<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<!-- everyone else -->
+<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+
+	
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="The Heartbleed aftermath">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2014/04/heartbleed-aftermath.html">
+	
+
+
+
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
+
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+
+	<!--[if lt IE 9]>
+		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+	<![endif]-->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5387743-5', 'iwantmyname.com');
+  ga('send', 'pageview');
+
+  // track uncaught errors
+  window.onerror = function (message, file, line) {
+    if (line != null) file += ' (' + line + ')'; // add line number to file URL
+    ga('send', 'event', 'window.onerror', message, file, null, { nonInteraction: true });
+  };
+</script>
+
+</head>
+<body>
+
+	<div class="frame">
+	<div class="frame-row frame-row-expand">
+		<header>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-9 col-sm-6">
+				<a href="https://iwantmyname.com/blog/" class="brand">
+					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+					<span class="hidden-xs">Domain</span> blog
+				</a>
+			</div>
+			<div class="col-xs-3 col-sm-6">
+				<ul class="nav iwmn-nav pull-right">
+					<li>
+						<a href="https://iwantmyname.com/">
+							<span class="hidden-xs">&larr; Back to iwantmyname</span>
+							<span class="glyphicon glyphicon-home visible-xs"></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+		
+
+
+
+
+<div class="container iwmn-container iwmn-article">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				
+					<h1>The Heartbleed aftermath</h1>
+				
+				
+				
+
+				<!-- excerpt -->
+
+<p>As you likely know, we are now coming to understand the full implications of the OpenSSL vulnerability (aka the &quot;<a href="http://heartbleed.com/">Heartbleed bug</a>&quot;) that was disclosed last week. <a href="http://xkcd.com/1354/">Here is an excellent graphical explanation of the vulnerability.</a> New angles of attack against vulnerable infrastructure come up every day. </p>
+
+<p>(Have you patched your home router and updated your passwords after <a href="http://heartbleed.com/">checking sites for vulnerability</a>?)</p>
+
+<p>At iwantmyname, we patched all servers the day the vulnerability was disclosed. However, we also did more. Read on for more in-depth information on how we handle our security, and recommendations for our customers on managing their accounts and passwords.</p>
+
+<!-- /excerpt -->
+
+<p>The iwantmyname infrastructure is split up into several layers, and the front-facing application server actually has very little data in memory. Most of our processing happens in backend servers that are not directly exposed and have had no vulnerable services running.</p>
+
+<p>To make sure none of our front-facing certificates are used in unintended ways we took the time to get new EV certificates for iwantmyname and revoked the old certs.</p>
+
+<p>Learnings from this incident include the age-old mantra of &quot;change your passwords frequently&quot; and consider <a href="http://en.wikipedia.org/wiki/Two-step_verification">two-factor authentication</a> (2fa) where appropriate. We support 2fa at iwantmyname, together with other risk mitigation technologies to make sure your account will not get compromised.</p>
+
+<p>However, it comes down to your personal password &quot;hygiene&quot; to make sure your passwords are unique, frequently updated and securely stored.</p>
+
+<p>Consider using a password manager that is both secure by design and proactive about security risks. We like <a href="https://www.keepassx.org/">KeepassX</a> and <a href="https://agilebits.com/1password">1password</a>. Both are secure password storage mechanisms. If you want to roll your own password storage, make sure you use PGP/GPG to secure your passwords, and that your private keys are secured properly and long enough.</p>
+
+<p>One last initiative we are currently working on is a complete disaster escalation plan. Similar to the zombie apocalypse plans some cities and organizations have prepared, this helps us to have a well-organized and communicated plan in place so everyone knows exactly what to do. This time around we were able to lock everything down very quickly, but who knows what the next bug will look like. Software is written by humans after all.</p>
+
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+							
+								<p class="byline clearfix">
+										<img class="author" src="https://iwantmyname.com/blog/assets/images/authors/lenz.jpg" alt="Lenz Gschwendtner" title="Lenz Gschwendtner">
+
+										&mdash; Lenz Gschwendtner<br>
+										<a href="https://twitter.com/norbu09">@norbu09</a>
+								</p>
+							
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">April 14, 2014</small>
+							</p>
+						</div>
+					</div>
+					
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+<div class="page-section">
+	
+	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
+		<input type="hidden" name="hideUnavailable" value="false">
+	
+
+		
+			<h1>Find the perfect domain name.</h1>
+			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
+		
+
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+				<input type="text" class="form-control input-lg" name="domain" placeholder="I want my web address to be&hellip;">
+				<button type="submit" class="btn btn-lg">
+					<span class="glyphicon glyphicon-search"></span>
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
+
+
+	</div>
+	
+	<div class="frame-row">
+		<footer>
+	<div class="container iwmn-container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Quick Links</li>
+					<li><a href="https://iwantmyname.com/domains/domain-name-registration-list-of-extensions">Domain pricing</a></li>
+					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
+					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
+					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">January discounts</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Company</li>
+					<li><a href="https://iwantmyname.com/about">About our team</a></li>
+					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
+					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
+					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
+				</ul>
+			</div>
+			
+			<!-- fix variable height columns on tiny screens -->
+			<div class="clearfix visible-xs"></div>
+
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Support</li>
+					<li><a href="https://help.iwantmyname.com/">Help center Q&amp;A</a></li>
+					<li><a href="http://status.iwantmyname.com/">Website status</a></li>
+					<li><a href="https://iwantmyname.com/support">Contact a human</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<ul class="list-unstyled">
+					<li class="list-header">Extras</li>
+					<li><a href="https://iwantmyname.com/affiliate">Affiliate program</a></li>
+					<li><a href="https://iwantmyname.com/developer/domain-dns-api">Developer API</a></li>
+					<li><a href="https://iwantmyname.com/features/domains/web-hosting">Website hosting</a></li>
+					<li><a href="https://iwantmyname.com/ssl">SSL certificates</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+				<p>iwantmyname &copy; 2015</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	</div>
+</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
+	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+</body>
+</html>

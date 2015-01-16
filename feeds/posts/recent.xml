@@ -246,38 +246,50 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Last minute Christmas gift idea: register a personal domain for your friends or family</title>
-				<description>&lt;p&gt;We all know the rush for the last few presents a couple of days before Christmas. But why should you go to overcrowded shopping centers when you can shop online? With iWantMyName you don&amp;#39;t even have to be afraid that it&amp;#39;s not delivered on time. It&amp;#39;s the 24th already? No worries, just &lt;a href=&quot;https://iwantmyname.com/&quot;&gt;search for a domain name&lt;/a&gt; and you&amp;#39;ll have it within a couple of minutes.&lt;/p&gt;
+				<title>Dear internet, it’s time to fix your footer (again)</title>
+				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;Buying a personal domain name for your friends or relatives is the perfect Christmas gift. Here are some ideas to find a good name:&lt;/p&gt;
+&lt;p&gt;There are very few certainties in life—death, taxes, the fact that eggs always taste better with a dash of hot sauce, and that on January 1st, the little numbers in the year will change ever so slightly. &lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;  Get a .COM or .ME with first name (middle name) last name, e.g. &lt;a href=&quot;https://iwantmyname.com/search/?domain=SantaNicholasClaus.com&quot;&gt;SantaNicholasClaus.com&lt;/a&gt;, &lt;a href=&quot;https://iwantmyname.com/search/?domain=SantaNClaus.com&quot;&gt;SantaNClaus.com&lt;/a&gt; or &lt;a href=&quot;https://iwantmyname.com/search/?domain=HolySantaClaus.me&quot;&gt;HolySantaClaus.me&lt;/a&gt;, &lt;a href=&quot;https://iwantmyname.com/search/?domain=HolySClaus.me&quot;&gt;HolySClaus.me&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;  Be creative with a &lt;a href=&quot;http://en.wikipedia.org/wiki/Domain_hack&quot;&gt;domain hack&lt;/a&gt;: &lt;a href=&quot;https://iwantmyname.com/search/?domain=NicholasCla.us&quot;&gt;NicholasCla.us&lt;/a&gt; or &lt;a href=&quot;https://iwantmyname.com/search/?domain=SantaLives.in&quot;&gt;SantaLives.in&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;  Register the Christmas domain .CX: &lt;a href=&quot;https://iwantmyname.com/search/?domain=SantaAndTheReindeer.cx&quot;&gt;SantaAndTheReindeer.cx&lt;/a&gt;
-Add one of our &lt;a href=&quot;https://iwantmyname.com/features/custom-domain-applications-and-dns&quot;&gt;free features&lt;/a&gt; to it and the presentee can use his name immediately. &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Pre-internet, this wasn’t such a big deal. Sure, you might write the wrong year on a check or document, but it wasn’t an error the world would have to see on a daily basis. Not like on a website, where nearly all the footers in existence—the big footers, small footers, dark footers, and light footers—share one tiny trait. © 2014.&lt;/p&gt;
 
-&lt;p&gt;The iWantMyName Team wishes Merry Christmas and a happy New Year!&lt;/p&gt;
+&lt;p&gt;I say “nearly” because every year there are those who forget to manually change the year from one to the next. It’s a bit of a minor tragedy, but entirely understandable. Fortunately, Mikko Järvenpää has your back, with a clever site called &lt;a href=&quot;http://updateyourfooter.com&quot;&gt;updateyourfooter.com&lt;/a&gt;. &lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ever looked at a website and wondered if it is still in operation? Maybe a thing or two looked like they could have been updated – and then you notice the copyright notice the in the footer. &amp;quot;2012. Right, this site must be dead. Let&amp;#39;s move along.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Of course, it could be that the owner just forgot to update the year in the footer. That happens a lot, especially if those years are hard-coded strings. To future-proof your footer, it&amp;#39;s better to just let computers take care of this. Grab one of these snippets and paste that on your page (or forward this site as a friendly reminder to someone who can do it for you).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So before the new year hits, grab a snippet for your site and leave your worries behind. Hakuna matata.&lt;/p&gt;
 </description>
-				<pubDate>Sat, 20 Dec 2008 19:43:53 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2008/12/last-minute-christmas-gift-idea-register-a-personal-domain-for-your-friends-or-family.html</link>
-				<guid isPermaLink="false">/2008/12/last-minute-christmas-gift-idea-register-a-personal-domain-for-your-friends-or-family.html</guid>
+				<pubDate>Mon, 29 Dec 2014 09:31:06 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2014/12/dear-internet-its-time-to-fix-your-footer.html</link>
+				<guid isPermaLink="false">/2014/12/dear-internet-its-time-to-fix-your-footer.html</guid>
 			</item>
 		
 			<item>
-				<title>The iWantMyName Blog has arrived</title>
-				<description>&lt;p&gt;A few weeks after our launch the iWantMyName Blog has finally arrived.&lt;/p&gt;
+				<title>Holiday cheer, some news items, and a bit of relaxation</title>
+				<description>&lt;p&gt;The holidays are upon us, and we’d like to thank you all for making 2014 so great. In the last year, we upped our &lt;a href=&quot;https://iwantmyname.com/about&quot;&gt;team&lt;/a&gt; size to ten, passed the &lt;a href=&quot;https://iwantmyname.com/blog/2014/05/celebrating-100000-domains-at-iwantmyname.html&quot;&gt;100,000 domains registered&lt;/a&gt; mark (and beyond), added more than &lt;a href=&quot;https://iwantmyname.com/domains/new-gtld-domain-extensions&quot;&gt;250 new generic top-level domains&lt;/a&gt; (gTLDs) to the list, and managed to keep our &lt;a href=&quot;http://public.nicereply.com/iwantmyname&quot;&gt;support satisfaction at 97%&lt;/a&gt;. It’s really been incredible—so thank you, thank you, thank you. We can’t say it enough.&lt;/p&gt;
 
-&lt;p&gt;Here we&amp;#39;ll keep you informed about what&amp;#39;s going on at iWantMyName: new features, special offers, tips how to use your domain etc.&lt;/p&gt;
+&lt;h3&gt;News&lt;/h3&gt;
 
-&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Starting January 2015, we’re launching our monthly newsletter. In it, we’ll include all our domain sales, new gTLD launches, important news, and interesting tidbits to make your month a little better. Here’s the &lt;a href=&quot;https://iwantmyname.com/monthly&quot;&gt;signup page&lt;/a&gt;—we really think you’ll enjoy it. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8To-6VIJZRE&quot;&gt;Developers, developers, developers!&lt;/a&gt; 2015 will be a big year for our API, and we’d love to hear &lt;a href=&quot;https://iwantmyname.com/blog/2014/12/api-survey.html&quot;&gt;your thoughts&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;P.S. Also don&amp;#39;t forget to &lt;a href=&quot;http://www.new.facebook.com/pages/iWantMyName-International-domain-name-registration/97823890470&quot;&gt;become a fan on Facebook&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/iwmn&quot;&gt;follow @iwmn on Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Speaking of support&lt;/h3&gt;
+
+&lt;p&gt;Just a note. With Christmas here and New Year’s coming up, support may be a little slower (but no less thorough) than our usual standard. Our &lt;a href=&quot;http://help.iwantmyname.com&quot;&gt;Support Center&lt;/a&gt; is stocked with answers to a bunch of questions though, so be sure to check there first if you’re running into any issues.&lt;/p&gt;
+
+&lt;p&gt;So... sweet as. And happy holidays!&lt;/p&gt;
 </description>
-				<pubDate>Fri, 19 Dec 2008 19:52:11 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2008/12/the-iwantmyname-blog-is-here.html</link>
-				<guid isPermaLink="false">/2008/12/the-iwantmyname-blog-is-here.html</guid>
+				<pubDate>Tue, 23 Dec 2014 09:43:26 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2014/12/holiday-cheer.html</link>
+				<guid isPermaLink="false">/2014/12/holiday-cheer.html</guid>
 			</item>
 		
 	</channel>
