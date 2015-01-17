@@ -8,7 +8,7 @@ header_image: 2015-01-16-bubbles.jpg
 
 <!-- excerpt -->
 
-It’s never more apparent how puzzling domain names are to people than when I get asked about my job. “A domain registrar? What the heck is that?” I get it all the time, but what surprises me most is that many of these same people already own domains in some form or another—usually brokered through legacy web-design firms charging $20-30/mo for Flash websites with glitzy visitor counters (seriously, if you're paying $30/mo for a site built a decade ago, you're getting ripped of).
+It’s never more apparent how puzzling domain names are to people than when I get asked about my job. “A domain registrar? What the heck is that?” I get it all the time, but what surprises me most is that many of these same people already own domains in some form or another—usually brokered through legacy web-design firms charging $20-30/mo for Flash websites with glitzy visitor counters (seriously, if you're paying $30/mo for a site built a decade ago, you're getting ripped off).
 
 So my goal of goals is to set them on the right path, usually with an abridged version of this very post—my spiel on domain names, what you’re buying, what the deal is with all the new domain extensions, what email has to do with it all, and a bit about Whois privacy.
 
