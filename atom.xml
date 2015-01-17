@@ -6,6 +6,128 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Things to know about domains before buying your first domain name</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;It’s never more apparent how puzzling domain names are to people than when I get asked about my job. “A domain registrar? What the heck is that?” I get it all the time, but what surprises me most is that many of these same people already own domains in some form or another—usually brokered through legacy web-design firms charging $20-30/mo for Flash websites with glitzy visitor counters (seriously, if you&amp;#39;re paying $30/mo for a site built a decade ago, you&amp;#39;re getting ripped of).&lt;/p&gt;
+
+&lt;p&gt;So my goal of goals is to set them on the right path, usually with an abridged version of this very post—my spiel on domain names, what you’re buying, what the deal is with all the new domain extensions, what email has to do with it all, and a bit about Whois privacy.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#section-1&quot;&gt;Domain name? Domain registrar?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#section-2&quot;&gt;Domain extensions, or top-level domains (TLDs)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#section-3&quot;&gt;The new gTLDs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#section-4&quot;&gt;What to do with your domain name?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#section-5&quot;&gt;A final word about privacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#section-6&quot;&gt;And please, don’t be shy&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;1. Domain name? Domain registrar?&lt;/h2&gt;
+
+&lt;p&gt;Just to get in the right frame of mind, let&amp;#39;s think of the internet at an entirely new planet Earth. Then, think of the domain extensions (like .com, ,net, .edu) as countries, and the individual domain names (like iwantmyname.com or yourname.com) as pieces of property within those countries. Then, as your domain registrar, iwantmyname is like a big real estate agency, able to sell you a piece of property in a ton of countries on the planet. &lt;/p&gt;
+
+&lt;p&gt;To recap:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The internet is a huge planet&lt;/li&gt;
+&lt;li&gt;Domain extensions are countries&lt;/li&gt;
+&lt;li&gt;Individual domain names are property&lt;/li&gt;
+&lt;li&gt;Domain registrars are your real estate agents&lt;/li&gt;
+&lt;li&gt;As the writer of this, I’m your content guide to internet real estate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;2. Domain extensions, or top-level domains (TLDs)&lt;/h2&gt;
+
+&lt;p&gt;In the beginnings of the public internet, the web was filled with a fairly limited number of domain extensions (also called top-level domains (or TLDs)). In the US, most websites ended in .com, .net, .org, .edu, or .gov, and around the world, many sites adopted their country code top-level domains (or ccTLDs)—like .co.uk in the UK and .co.nz in New Zealand. No matter where you were though, .com was the clear popularity leader, and that popularity advantage still exists today. &lt;/p&gt;
+
+&lt;p&gt;But remember, .com is like a country, and like any country, there’s limited desirable space. And limited desirable space always leads to overcrowding. The problem is twofold.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;With more and more people getting on the internet, we’re starting to run out of short, memorable domain names. And by run out, I mean that by 2014, every two, three, and &lt;a href=&quot;https://iwantmyname.com/blog/2013/12/four-letter-coms-are-a-four-letter-wordgone.html&quot;&gt;four letter .com domain had already been registered&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;It’s not like all these domains are being used though. Basic rules of supply and demand brought countless opportunistic businessmen who bought up these domains and started selling them on the domain aftermarket for premium prices (some even went in the million-dollar range!).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A lot of people blame these so-called cybersquatters for the lack of good .com names available, but it’s hard to blame them for wanting to be part of the action (do you blame real-estate speculators for the lack of cheap property in your area?). Just remember that this supply/demand issue is based on the fact that the only desirable TLD is .com, which was borderline true in years past. If the amount of good options multiply through...what then?&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;3. The new gTLDs&lt;/h2&gt;
+
+&lt;p&gt;I’ll spare you the details and backstory, but in 2014, &lt;a href=&quot;https://iwantmyname.com/domains/new-gtld-domain-extensions&quot;&gt;hundreds upon hundreds of new domain extensions&lt;/a&gt; were created (often called the new generic TLDs (gTLDs), or new TLDs (nTLDs)), making that lack of quality domain names a thing of the past. Now, if I want to use my name in a domain, I can get Chris.ninja, Chris.club, Chris.cool, Chris.enterprises, Chris.vodka, etc., etc.&lt;/p&gt;
+
+&lt;p&gt;As I hinted at already, the problem we’re running into now isn’t a supply issue, it’s a human nature issue—people are afraid of the unknown. Sticking with the property analogy, if you open a shiny new store in a brand new place, will people find it?&lt;/p&gt;
+
+&lt;p&gt;It all depends on how you’re being discovered.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If social media is your biggest traffic driver, your links will work fine no matter what your TLD is. &lt;/li&gt;
+&lt;li&gt;Depending on who you ask, there might actually be a small search engine optimization (SEO) advantage to using a new gTLD (but maybe none at all). As long as your brand is good and your copy isn’t spammy, your search engine results should be fine.&lt;/li&gt;
+&lt;li&gt;The only potential harm is if people think your domain looks like a scam because of your TLD. There&amp;#39;s a fairly small (in the scheme of things) history of spam websites buying up domain names similar to real brand names on various TLDs, but as long as your brand doesn&amp;#39;t include fake looking strings of numbers, random characters (usually lots of dashes), or fishy misspellings, you should be fine. As more and more big/legitimate websites adopt these new domain extensions, that stigma should go away.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a ton of articles online that have research “proving” either side of the discoverability debate (whether the new gTLDs are good or bad for business), but my stance is that there are too many people with too much money invested into these new gTLDs for them to completely fail. Maybe none of them will reach the popularity of .com, but people’s attitude towards domains that don’t end in .com is definitely starting to shift. My best advice would be to worry about the name of your brand first, then find an applicable TLD to fit it. There are &lt;a href=&quot;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&quot;&gt;hundreds to choose from&lt;/a&gt; now, so there&amp;#39;s no reason to be bound to the crowded land of .com.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;4. What to do with your domain name&lt;/h2&gt;
+
+&lt;p&gt;Now that we’ve established that domain names are property—what kinds of things can you build on it? Let’s run through a couple options.&lt;/p&gt;
+
+&lt;h3&gt;Build a website&lt;/h3&gt;
+
+&lt;p&gt;The most common thing to do with a domain name is to build a website. And unless you’re deft at writing code (if so, you probably don’t need to be reading this), the best course of action is to use one of the many platforms available to build your site with ease (many have templates or some form of drag-and-drop tools available, making web design easy enough for everyone).&lt;/p&gt;
+
+&lt;p&gt;So here’s the gist. On one end, you have your domain name, and on the other, you have a website built on a platform like Squarespace. To get your Squarespace site to pair with your domain, you have to add the correct DNS records to your domain name.&lt;/p&gt;
+
+&lt;p&gt;Here at iwantmyname, we make that part easy. Once you buy your domain, you can set it up to work with many of the web’s &lt;a href=&quot;https://iwantmyname.com/services/ecommerce-hosting/&quot;&gt;most popular platforms&lt;/a&gt; with just a few clicks. So instead of worrying about editing DNS records, you can get started with a platform like Squarespace, Shopify, Tumblr, or Ghost in a snap. &lt;/p&gt;
+
+&lt;p&gt;Seriously... it’s almost automatic.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h4&gt;A quick word about www.&lt;/h4&gt;
+
+&lt;p&gt;Every once in a while we get asked how much it costs to add the www. to a website. It’s totally free—the www. is just a subdomain that isn’t necessary, but still common because people got used to saying it in the 90’s. Our &lt;a href=&quot;https://iwantmyname.com/services/email-hosting/&quot;&gt;platform setups&lt;/a&gt; add the www. option automatically, so there’s no need to worry about it.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Get an email address&lt;/h3&gt;
+
+&lt;p&gt;One of the things we get asked most is how to get a custom email address. So first, let’s be clear about how your domain name fits into your email. &lt;/p&gt;
+
+&lt;p&gt;When you look at an email address, it usually looks something like this—chris@yourname.com. To create this, the owner of yourname.com had to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Get the yourname.com domain name&lt;/li&gt;
+&lt;li&gt;Select and sign up for an &lt;a href=&quot;https://iwantmyname.com/services/email-hosting/&quot;&gt;email hosting service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Point the domain name to that email hosting service&lt;/li&gt;
+&lt;li&gt;Add individual email addresses (like chris@yourname.com) through the email hosting service admin&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Like anything on the web, there are a lot of different companies out there that do email hosting—Google, Fastmail, Zoho, etc. All of them will be able to get your mail from point A to point B, but they all offer slightly different features at different price points. My suggestion would be to head to our &lt;a href=&quot;https://iwantmyname.com/services/email-hosting/&quot;&gt;email plugin page&lt;/a&gt;, then look at each platform’s website to see which features you’d be happiest with. &lt;/p&gt;
+
+&lt;h3&gt;Sometimes you just need to wait for inspiration&lt;/h3&gt;
+
+&lt;p&gt;For some people, getting a domain means there&amp;#39;s an immediate plan. For others, it’s important to wait for inspiration to strike. &lt;/p&gt;
+
+&lt;p&gt;This happens to me all the time. I’ll be driving home from lunch, thinking about how to best tell people about my awesome dining experience, then decide to create a restaurant review website. After an hour or so of quick naming exercises, I’ll grab a domain to kickstart the writing process (kind of like buying a guitar to guilt yourself into learning how to play). But sometimes, if I lose interest too fast, I’ll sit on the domain for a month or two while the ideas percolate—once you register a domain, it’s yours for a year, so there’s no big rush. &lt;/p&gt;
+
+&lt;p&gt;Just remember that if you don’t decide to use the domain, be sure to turn renewals off so you won’t keep paying for it year after year.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;5. A final word about privacy&lt;/h2&gt;
+
+&lt;p&gt;Online privacy has been all over the news lately (for good reason), and one of the easier things you can do to hide some of your information is to enable Whois privacy (it’s free) on your domain. &lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/184425-do-you-offer-a-whois-privacy-service-&quot;&gt;Here’s a good guide&lt;/a&gt; to how Whois privacy works and how to enable it, but please note that only the domain extensions listed in that article support it. &lt;/p&gt;
+
+&lt;h2 id=&quot;section-6&quot;&gt;6. And please, don’t be shy&lt;/h2&gt;
+
+&lt;p&gt;For the uninitiated, the internet can be a big, scary place. If you ever run into any issues with your domain, or just can’t figure out how to link it to the platform you want, &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;send us a message&lt;/a&gt; and we’ll be sure to help out. &lt;/p&gt;
+</description>
+				<pubDate>Fri, 16 Jan 2015 11:12:32 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/01/things-to-know-about-domains-before-buying-your-first-domain-name.html</link>
+				<guid isPermaLink="false">/2015/01/things-to-know-about-domains-before-buying-your-first-domain-name.html</guid>
+			</item>
+		
+			<item>
 				<title>SEO penalties of moving our blog to a subdomain</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -268,28 +390,6 @@ location ^~ /blog/ {
 				<pubDate>Mon, 29 Dec 2014 09:31:06 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2014/12/dear-internet-its-time-to-fix-your-footer.html</link>
 				<guid isPermaLink="false">/2014/12/dear-internet-its-time-to-fix-your-footer.html</guid>
-			</item>
-		
-			<item>
-				<title>Holiday cheer, some news items, and a bit of relaxation</title>
-				<description>&lt;p&gt;The holidays are upon us, and we’d like to thank you all for making 2014 so great. In the last year, we upped our &lt;a href=&quot;https://iwantmyname.com/about&quot;&gt;team&lt;/a&gt; size to ten, passed the &lt;a href=&quot;https://iwantmyname.com/blog/2014/05/celebrating-100000-domains-at-iwantmyname.html&quot;&gt;100,000 domains registered&lt;/a&gt; mark (and beyond), added more than &lt;a href=&quot;https://iwantmyname.com/domains/new-gtld-domain-extensions&quot;&gt;250 new generic top-level domains&lt;/a&gt; (gTLDs) to the list, and managed to keep our &lt;a href=&quot;http://public.nicereply.com/iwantmyname&quot;&gt;support satisfaction at 97%&lt;/a&gt;. It’s really been incredible—so thank you, thank you, thank you. We can’t say it enough.&lt;/p&gt;
-
-&lt;h3&gt;News&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Starting January 2015, we’re launching our monthly newsletter. In it, we’ll include all our domain sales, new gTLD launches, important news, and interesting tidbits to make your month a little better. Here’s the &lt;a href=&quot;https://iwantmyname.com/monthly&quot;&gt;signup page&lt;/a&gt;—we really think you’ll enjoy it. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8To-6VIJZRE&quot;&gt;Developers, developers, developers!&lt;/a&gt; 2015 will be a big year for our API, and we’d love to hear &lt;a href=&quot;https://iwantmyname.com/blog/2014/12/api-survey.html&quot;&gt;your thoughts&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Speaking of support&lt;/h3&gt;
-
-&lt;p&gt;Just a note. With Christmas here and New Year’s coming up, support may be a little slower (but no less thorough) than our usual standard. Our &lt;a href=&quot;http://help.iwantmyname.com&quot;&gt;Support Center&lt;/a&gt; is stocked with answers to a bunch of questions though, so be sure to check there first if you’re running into any issues.&lt;/p&gt;
-
-&lt;p&gt;So... sweet as. And happy holidays!&lt;/p&gt;
-</description>
-				<pubDate>Tue, 23 Dec 2014 09:43:26 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2014/12/holiday-cheer.html</link>
-				<guid isPermaLink="false">/2014/12/holiday-cheer.html</guid>
 			</item>
 		
 	</channel>
