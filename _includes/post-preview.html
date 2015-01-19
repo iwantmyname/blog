@@ -13,7 +13,7 @@
 	</h1>
 	
 	{% if post.header_image %}
-		<p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.images_url }}/{{ post.header_image }}" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></a></p>
+		<p><a href="{{ site.baseurl }}{{ post.url }}"><img data-src="https://iwmn-blog.imgix.net/{{ post.header_image }}" class="imgix-fluid" alt="{{ post.title | xml_escape }}" title="{{ post.title | xml_escape }}"></a></p>
 	{% endif %}
 	{% if post.guest_author %}
 		<p class="small text-muted">The following is a guest post written by {{ author.name }}.</p>
