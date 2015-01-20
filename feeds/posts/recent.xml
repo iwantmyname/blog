@@ -6,6 +6,23 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Start naming your brands and domains like a pro</title>
+				<description>&lt;p&gt;Naming and choosing domains often go hand-in-hand, but many don&amp;#39;t take either as seriously as they probably should. To get a glimpse of the professional naming process, take a gander at &lt;a href=&quot;http://www.nytimes.com/2015/01/18/magazine/the-weird-science-of-naming-new-products.html?_r=0&quot;&gt;&amp;quot;The Weird Science of Naming New Products&amp;quot;&lt;/a&gt; by Neal Gabler of the New York Times Magazine.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The idea is to do everything — to leave no word unturned. He visits the website onelook.com, which shows how words work with other words, or sketchengine.co.uk, which combs texts and concordances, flags parts of speech and shows how a specific word appears in billions of words of text. He visits rhymezone.com to find all the words that rhyme with a word. That is how he came up with the name for an ideation application for the Palm Pilot — he began with “brain,” looked for rhyming words and concluded with BrainForest. For this project, he thought of words about travel, but also about entertainment, the sense of engagement, connection, energy, even spheres. And he laid them all out on an Excel spreadsheet — 1,200 names in all by the time he had finished.&lt;/p&gt;
+
+&lt;p&gt;For a single project, namers can come up with as many as 6,500 names. Big naming companies will do anywhere from 40 to 50 projects a year, and smaller ones 15 to 20, which adds up to a lot of names. Of course, only one name will be chosen for each project, and that is the only one the client will own. The rest, however, won’t necessarily go to waste. Every naming agency keeps a list of its discards in a computer program. These are then classified by message (at Catchword); by distinctiveness, appeal, memorability and concept (at Interbrand); or by whatever other way the namers might want to retrieve them. Catchword has 650 of these categorized lists. And many of the names will be recycled, which suggests that there is a kind of Platonic ideal of good names, independent of products good or bad — a name so good that it could work, if not on anything, than at least on many things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now clearly many (if not most) people/brands can&amp;#39;t afford the premium costs of naming firms, but we should all strive to dig a bit deeper into our brands and ideals before coming up with names (if you don&amp;#39;t have at least 100 ideas on paper, you&amp;#39;re probably not trying hard enough). Just another something to add to your 2015 resolutions list. &lt;/p&gt;
+</description>
+				<pubDate>Mon, 19 Jan 2015 15:58:16 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/01/start-naming-your-brands-and-domains-like-a-pro.html</link>
+				<guid isPermaLink="false">/2015/01/start-naming-your-brands-and-domains-like-a-pro.html</guid>
+			</item>
+		
+			<item>
 				<title>Things to know about domains before buying your first domain name</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -365,31 +382,6 @@ location ^~ /blog/ {
 				<pubDate>Fri, 02 Jan 2015 11:35:28 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/01/reply-all-covers-longform-orgs-attempt-to-buy-their-corresponding-com.html</link>
 				<guid isPermaLink="false">/2015/01/reply-all-covers-longform-orgs-attempt-to-buy-their-corresponding-com.html</guid>
-			</item>
-		
-			<item>
-				<title>Dear internet, it’s time to fix your footer (again)</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;There are very few certainties in life—death, taxes, the fact that eggs always taste better with a dash of hot sauce, and that on January 1st, the little numbers in the year will change ever so slightly. &lt;/p&gt;
-
-&lt;p&gt;Pre-internet, this wasn’t such a big deal. Sure, you might write the wrong year on a check or document, but it wasn’t an error the world would have to see on a daily basis. Not like on a website, where nearly all the footers in existence—the big footers, small footers, dark footers, and light footers—share one tiny trait. © 2014.&lt;/p&gt;
-
-&lt;p&gt;I say “nearly” because every year there are those who forget to manually change the year from one to the next. It’s a bit of a minor tragedy, but entirely understandable. Fortunately, Mikko Järvenpää has your back, with a clever site called &lt;a href=&quot;http://updateyourfooter.com&quot;&gt;updateyourfooter.com&lt;/a&gt;. &lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Ever looked at a website and wondered if it is still in operation? Maybe a thing or two looked like they could have been updated – and then you notice the copyright notice the in the footer. &amp;quot;2012. Right, this site must be dead. Let&amp;#39;s move along.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;Of course, it could be that the owner just forgot to update the year in the footer. That happens a lot, especially if those years are hard-coded strings. To future-proof your footer, it&amp;#39;s better to just let computers take care of this. Grab one of these snippets and paste that on your page (or forward this site as a friendly reminder to someone who can do it for you).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So before the new year hits, grab a snippet for your site and leave your worries behind. Hakuna matata.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 29 Dec 2014 09:31:06 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2014/12/dear-internet-its-time-to-fix-your-footer.html</link>
-				<guid isPermaLink="false">/2014/12/dear-internet-its-time-to-fix-your-footer.html</guid>
 			</item>
 		
 	</channel>
