@@ -36,7 +36,7 @@ Domain extensions coming soon:
 - [.DATA](https://iwantmyname.com/domains/dot-data)
 - [.SYSTEMS](https://iwantmyname.com/domains/dot-systems)
 
-.APP is certainly the elephant in the room, and we’re expecting it to do really, really well (it’s also the TLD with the most pre-orders at iwantmyname).
+.APP is certainly the 800-pound gorilla here, and we’re expecting it to do really, really well (it’s the TLD with the most pre-orders at iwantmyname).
 
 ***
 
