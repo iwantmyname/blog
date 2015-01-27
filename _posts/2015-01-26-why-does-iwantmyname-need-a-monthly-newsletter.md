@@ -6,13 +6,9 @@ title: Why does iwantmyname need a monthly newsletter?
 header_image: 2015-01-26-book.jpg
 ---
 
-<!-- excerpt -->
-
 Newsletters and blogs. Every corner of the internet seems to now be filled with newsletters and blogs in an ongoing competition for user attention. It's easy to take a cynical view and say that it’s all just unnecessary noise, but in a way, we’re all laying the groundwork for the future of how brands can communicate effectively in a marketplace where competition can literally be created overnight in a bedroom. The reality is that brand culture and the way it’s communicated is one of the last differentiating factors a company has (right after user experience and innovation, I’d say), so it’s hugely important.
 
 But there’s a challenge. Digital startups today are looking to capture global audiences with smaller staffs, more competition, and leaner margins than the analog brands of yore. For example, here at iwantmyname, our current marketing/communications goal is to reach the entirety of the English-speaking world (and beyond) with 11 people and no giant marketing budget speak of. Basically, we've almost exclusively leveraged word-of-mouth to reach customers/visitors in 234 countries (Google Analytics even says we got a visit from N. Korea?)...something we're extremely proud of, but it's a constant grind to spread our message of simplicity even further—in a sincere way.
-
-<!-- /excerpt -->
 
 ### Sincerity in brand messaging
 
