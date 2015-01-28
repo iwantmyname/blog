@@ -6,6 +6,37 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>New in the Marketplace - Muut, a reimagined forum/commenting platform</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-01-28-muut-acion.gif&quot; alt=&quot;Muut Action&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Our &lt;a href=&quot;https://iwantmyname.com/services&quot;&gt;App Marketplace&lt;/a&gt; is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the New in the Marketplace blog series.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting a blog is quite the endeavor. It’s a commitment to consistent writing, creative thinking, and unending doubt as to whether or not you’re hitting your goals. But one think blog creators often overlook is the means for audiences to have conversations around your work. Too often, the commenting/forum tools used look like they were created in the late 90s, and often function in ways that discourage natural thought processes—and that’s something Muut is trying to change. &lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;Here’s a bit from the &lt;a href=&quot;https://muut.com/manifesto/&quot;&gt;Muut Manifesto&lt;/a&gt; (I always like a good manifesto):&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Muut is a radically different discussion platform that can be embedded on any website. It is unencumbered by the weight of unnecessary features and distractions, and places the conversation back to the forefront.&lt;/p&gt;
+
+&lt;p&gt;A clean user interface, persistent content and a deep integration to the site will allow a more natural and meaningful discussion to take place, and enable people to focus on topics they care about. It’s a lightweight, super fast, and responsive platform that places minimal strain on data bandwidth.&lt;/p&gt;
+
+&lt;p&gt;We’re on an important mission. A proper forums and commenting system will increase traffic on any given website, and the audience will stay longer. There is no sane reason not to have forums or commenting on a website.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-01-28-forum-placement.png&quot; alt=&quot;muut placement options&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;In short, Muut is a clean, embeddable, customizable (no iframes), crawlable, responsive, realtime, worry-free conversation platform for your site. And best of all, you can &lt;a href=&quot;https://muut.com/pricing/&quot;&gt;try it out&lt;/a&gt; (for an unlimited amount of time, with unlimited bandwidth, users, and data… just a few limited features) for free.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 28 Jan 2015 12:19:52 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/01/new-in-the-marketplace-muut.html</link>
+				<guid isPermaLink="false">/2015/01/new-in-the-marketplace-muut.html</guid>
+			</item>
+		
+			<item>
 				<title>Why does iwantmyname need a monthly newsletter?</title>
 				<description>&lt;p&gt;Newsletters and blogs. Every corner of the internet seems to now be filled with newsletters and blogs in an ongoing competition for user attention. It&amp;#39;s easy to take a cynical view and say that it’s all just unnecessary noise, but in a way, we’re all laying the groundwork for the future of how brands can communicate effectively in a marketplace where competition can literally be created overnight in a bedroom. The reality is that brand culture and the way it’s communicated is one of the last differentiating factors a company has (right after user experience and innovation, I’d say), so it’s hugely important.&lt;/p&gt;
 
@@ -371,31 +402,6 @@ location ^~ /blog/ {
 				<pubDate>Wed, 07 Jan 2015 18:25:06 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/01/how-to-use-a-standard-gmail-account-for-free-custom-domain-email.html</link>
 				<guid isPermaLink="false">/2015/01/how-to-use-a-standard-gmail-account-for-free-custom-domain-email.html</guid>
-			</item>
-		
-			<item>
-				<title>Doing is almost always more important than worrying</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.thenameinspector.com/weird-startup-names-of-2014/&quot;&gt;From The Name Inspector:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The Name Inspector has been reflecting on last year’s startup names while sipping on what’s left of the apple peel bourbon he made for the holidays. He’s got to say, it seems like some of these companies were named by people who sipped lots of bourbon. Here are some weird names of startups in CrunchBase that were founded in 2014.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I remember when Nirvana (the band) first started getting played on the radio. Most of my friends were really into the music, but all I could think was “I’m pretty sure I have what it takes to sing incomprehensible lyrics, too! I’m definitely going to be a rock star.” And sure, naming your brand is a whole lot different than singing songs, but the message is similar—extreme talent aside, Nirvana was a success because they actually made music. I wasn’t because I was too worried about everything to ever get on stage.&lt;/p&gt;
-
-&lt;p&gt;What I’m trying to say, and what a lot of the startups mentioned in &lt;a href=&quot;http://www.thenameinspector.com/weird-startup-names-of-2014/&quot;&gt;the article&lt;/a&gt; prove, is that you shouldn’t let branding uncertainty (or even wackiness) prevent you from doing what you want to do. Sure, maybe you think it’s a mistake to name a brand &lt;em&gt;AssessUp&lt;/em&gt; or &lt;em&gt;KeeeWeee&lt;/em&gt;, but look at all these brands. They exist...they’re real companies with profiles on CrunchBase! You just never know what might become the next big household brand.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;In many ways, that same thought process also works for domain extensions. I talk to people all the time who spend a lot of energy worrying about not getting the perfect .com, but the world is changing, and people’s comfort level with “strange” non-.com’s is growing by the day. If what you’re creating is good, people will find you wherever you’re at—.io, .co, your local country code top-level domain (ccTLD), or any of the &lt;a href=&quot;https://iwantmyname.com/domains/new-gtld-domain-extensions&quot;&gt;new domain extensions&lt;/a&gt; on the market. Just go with the domain that fits your brand best—the rest will often work itself out.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 07 Jan 2015 15:16:06 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2015/01/doing-is-almost-always-more-important-than-worrying.html</link>
-				<guid isPermaLink="false">/2015/01/doing-is-almost-always-more-important-than-worrying.html</guid>
 			</item>
 		
 	</channel>
