@@ -29,5 +29,9 @@ Here’s a bit from the [Muut Manifesto](https://muut.com/manifesto/) (I always 
 
 In short, Muut is a clean, embeddable, customizable (no iframes), crawlable, responsive, realtime, worry-free conversation platform for your site. And best of all, you can [try it out](https://muut.com/pricing/) (for an unlimited amount of time, with unlimited bandwidth, users, and data… just a few limited features) for free.
 
+***
+
+(Here's a little something extra if you're looking to sign up. Use [this link](http://www.anrdoezrs.net/click-3194335-12097132) and enter promo code MUUT20 by March 1, 2015 to get 20% off.)
+
 
 
