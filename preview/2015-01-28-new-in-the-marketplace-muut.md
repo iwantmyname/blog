@@ -3,10 +3,11 @@ layout: post
 date: 2015-01-28 13:19:52 -0700
 author: Chris
 title: New in the Marketplace: Muut - a reimagined forum/commenting platform
-header_image: 2015-01-28-muut-acion.gif
 ---
 
 <!-- excerpt -->
+
+![Muut Action]({{ site.images_url }}/2015-01-28-muut-acion.gif)
 
 *Our [App Marketplace](https://iwantmyname.com/services) is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the New in the Marketplace blog series.*
 
