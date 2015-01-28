@@ -11,6 +11,8 @@ title: New in the Marketplace - Muut, a reimagined forum/commenting platform
 
 *Our [App Marketplace](https://iwantmyname.com/services) is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the New in the Marketplace blog series.*
 
+***
+
 Starting a blog is quite the endeavor. It’s a commitment to consistent writing, creative thinking, and unending doubt as to whether or not you’re hitting your goals. But one think blog creators often overlook is the means for audiences to have conversations around your work. Too often, the commenting/forum tools used look like they were created in the late 90s, and often function in ways that discourage natural thought processes—and that’s something [Muut](https://iwantmyname.com/services/forum-hosting/muut) is trying to change. 
 
 <!-- /excerpt -->
