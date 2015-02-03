@@ -2,7 +2,7 @@
 layout: post
 date: 2015-02-02 13:45:54 -0700
 author: Chris
-title: Meet the domain extensions of February, including .work, .delivery, and .vegas
+title: Meet the domain extensions of February, including .work, .delivery, and .yoga
 
 ---
 
@@ -12,7 +12,7 @@ title: Meet the domain extensions of February, including .work, .delivery, and .
 
 Generic top-level domain (gTLD) launches have gotten off to a bit of a slow start in 2015, but the overall stats are looking more impressive by the day. According to [ntldstats.com](https://ntldstats.com), there are now 4,121,213 new gTLDs registered (a nearly 400,000 jump from Jan 1), and [so many options to choose from](https://iwantmyname.com/domains/new-gtld-domain-extensions)—there's literally never been a better time than today to get a unique domain with your brand name. 
 
-This month, we have eight new domain extensions, including .vegas, .work, and .energy. It's hard to predict individual TLD popularity because of the abundant options available, but city extensions have been quite popular, and some industry specific options (like .delivery for home delivery startups) have done pretty well in niche markets. 
+This month, we have eight new domain extensions, including .vegas, .work, and .energy. It's hard to predict individual TLD popularity because of the abundant options available, but some industry specific options (like .delivery for home delivery startups) have done pretty well in niche markets. 
 
 <!-- /excerpt -->
 
@@ -30,7 +30,7 @@ This month, we have eight new domain extensions, including .vegas, .work, and .e
 
 + [.cricket](https://iwantmyname.com/domains/dot-cricket)
 + [.party](https://iwantmyname.com/domains/dot-party)
-+ [.vegas](https://iwantmyname.com/domains/dot-vegas)
++ [.yoga](https://iwantmyname.com/domains/dot-yoga)
 
 ### Feb 24
 
