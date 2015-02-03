@@ -6,6 +6,82 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>It takes two to make a thing go right - setting up a website</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Actually getting your own website with your own domain name online can be a bit like exploring a foreign land. Navigating uncharted territory, trying to decipher unfamiliar language. Creating a web presence is not for the weak.&lt;/p&gt;
+
+&lt;p&gt;At iwantmyname, we&amp;#39;ve put a lot of work into trying to make that process as painless as possible. And now, with designer &lt;a href=&quot;https://iwantmyname.com/blog/2015/01/say-hi-to-the-newest-iwantmynamer-kevin-layshock.html&quot;&gt;Kevin&lt;/a&gt; on board, we&amp;#39;re hoping to make even greater strides in user experience friendliness.&lt;/p&gt;
+
+&lt;p&gt;One thing some people still sometimes struggle with, though, is just how to get a website up and running. If only it all happened by magic as soon as your domain was registered!&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;h2&gt;Understanding web hosting&lt;/h2&gt;
+
+&lt;p&gt;Typically, you can think of the process a bit like setting up a piece of electronics equipment. The cable needs to be plugged into the machine &lt;em&gt;and&lt;/em&gt; into an electrical outlet. Your domain name needs to be connected to a web platform in our system &lt;em&gt;and&lt;/em&gt; in the system of your hosting service platform. When setting up your website, you can do these steps in whatever order you choose. I&amp;#39;ll explain in a bit more detail.&lt;/p&gt;
+
+&lt;p&gt;All websites need a host, somewhere to &amp;quot;live&amp;quot;. Think of your domain name as the address of your house, and the hosting as the actual house the address refers to. &lt;/p&gt;
+
+&lt;p&gt;At iwantmyname, we focus on domains and DNS management, so we don&amp;#39;t offer hosting. However, we want it to be as easy as possible for you to set up hosting with whatever provider you choose. That can be done a couple of different ways, depending on your hosting choice.&lt;/p&gt;
+
+&lt;h2&gt;Setting up your site with a service platform&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-03-apps.png&quot; alt=&quot;Apps&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;You can sign up with a service that provides a platform: this includes web hosting &lt;em&gt;and&lt;/em&gt; the software to create and display your website and its contents. Examples of this include Squarespace, Big Cartel, Zenfolio, or Tumblr. In those cases, you have an account with the service, and set up and make changes to your website in that account.&lt;/p&gt;
+
+&lt;p&gt;Many of those platforms make it incredibly easy to set up great-looking sites with little technical know-how. Click on preferred colours, drag and drop how you want things to look, and you&amp;#39;re all set. &lt;/p&gt;
+
+&lt;p&gt;Sometimes you pay just to have an account, sometimes the services are free. Or they can be free for a basic account, and then you pay to scale up the features and flexibility: a &amp;quot;pro&amp;quot; account.&lt;/p&gt;
+
+&lt;p&gt;Many of the services in &lt;a href=&quot;https://iwantmyname.com/services&quot;&gt;our one-click marketplace&lt;/a&gt; are that kind. They provide the hosting and platform for your blog, portfolio, online store, etc. Clicking that green &lt;strong&gt;Install&lt;/strong&gt; button adds DNS records for your domain in your iwantmyname dashboard. Those DNS records connect your domain name to your account and site with the service platform. That&amp;#39;s half the battle.&lt;/p&gt;
+
+&lt;h3&gt;Verifying your domain name&lt;/h3&gt;
+
+&lt;p&gt;Some services require you to verify your domain ownership in their system for security purposes. In those cases you&amp;#39;ll likely have to add another DNS record that contains a unique code, which the service checks for. &lt;/p&gt;
+
+&lt;p&gt;You get the code from the other service (Squarespace and Google Apps are good examples) and add a CNAME or or TXT record containing the code, then save the new settings. Where we can, we ask you for that code in our one-click setup, and add that extra record for you. The screenshot below shows the one-click setup for Squarespace. (You can see an example of instructions on how to get the verification code &lt;a href=&quot;http://help.squarespace.com/guides/domain-mapping-with-iwantmyname&quot;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-03-squarespace-verification.png&quot; alt=&quot;Squarespace verification&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the settings have some time to propagate around the Internet (a few hours is plenty of time, usually), you can verify ownership in your account with the platform service. Often you can do this by just entering your domain name in your account there and clicking a button. These services generally have excellent documentation to explain where and how to complete that. But if you have questions, &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;we&amp;#39;re happy to help, too&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This verification is often the biggest part of setting up your domain with the other service. When verification isn&amp;#39;t needed, it&amp;#39;s often as simple as logging in to your account on that platform, adding your domain name in your account, and saving the new settings.&lt;/p&gt;
+
+&lt;p&gt;Where possible, when you finish setting up the DNS records you need in our system, we try to send you to the other site to complete the setup there, too. Once setup is done on both ends and the new settings have time to propagate around the Internet — voila! — you have your new website! (If there&amp;#39;s a snag, &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;we&amp;#39;re here to help&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;h2&gt;Setting up your site with third-party hosting&lt;/h2&gt;
+
+&lt;p&gt;Web hosting can also be provided by a third-party hosting service, on which your website&amp;#39;s files reside. Those services generally only provide hosting, and not the software to create your website or email accounts. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://iwantmyname.com/features/domains/web-hosting&quot;&gt;Our recommended hosting partners are Bluehost and Digital Ocean&lt;/a&gt;, which provide only the hosting. Then you can use whatever software and services you like. WordPress is also a popular option, though it provides both the hosting and the software.&lt;/p&gt;
+
+&lt;p&gt;When you use external web hosting, you connect your domain to the hosting account by adding their nameservers in your iwantmyname dashboard. Using external nameservers is kind of like having your mail forwarded after you move. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-03-nameserver-options.png&quot; alt=&quot;Nameservers&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;In your iwantmyname account dashboard, on the nameserver update page, there&amp;#39;s a drop-down list of many popular hosting providers. Clicking on the one with which you have an account will automatically fill in their nameservers. Then you just have to save the new settings. &lt;/p&gt;
+
+&lt;p&gt;Alternatively, you can get the nameservers from your hosting company (or set up your own, if you&amp;#39;re techy) and add them. They often look something like this: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ns1.domainhosting.com&lt;/li&gt;
+&lt;li&gt;ns2.domainhosting.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you use external web hosting, there is one important thing to remember, which is that you then have to set up any DNS records in your web hosting account, &lt;em&gt;not&lt;/em&gt; in your iwantmyname account. Our DNS management dashboard can only work when our nameservers are in place. If there&amp;#39;s any trouble with the DNS records, we can&amp;#39;t access or see them in your hosting account, so you&amp;#39;d need to ask your hosting provider for help.&lt;/p&gt;
+
+&lt;p&gt;When setting up your website with a domain name you have registered with us, you will only have to set things up in one of these two ways: either adding DNS records to a service platform, or updating nameservers for an external web hosting.&lt;/p&gt;
+
+&lt;p&gt;It is possible to set up more than one service platform in your iwantmyname account. For example, if you would like to set up a website and email accounts. Or have an online store and a blog. &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;Feel free to get in touch&lt;/a&gt; if you have questions about how to do any of these things.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 03 Feb 2015 11:55:04 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/02/setting-up-a-website.html</link>
+				<guid isPermaLink="false">/2015/02/setting-up-a-website.html</guid>
+			</item>
+		
+			<item>
 				<title>Meet the domain extensions of February, including .work, .delivery, and .yoga</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -422,57 +498,6 @@
 				<pubDate>Fri, 16 Jan 2015 11:12:32 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/01/things-to-know-about-domains-before-buying-your-first-domain-name.html</link>
 				<guid isPermaLink="false">/2015/01/things-to-know-about-domains-before-buying-your-first-domain-name.html</guid>
-			</item>
-		
-			<item>
-				<title>SEO penalties of moving our blog to a subdomain</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Let me start this article by confessing that we’re not SEO gurus at iwantmyname. Everything we&amp;#39;ve done in the last few years in terms of SEO was done with a basic understanding of the topic and by providing a good product with relevant content and landing pages. This always served us well and we were happy with our rankings overall. With that out of the way, I’d like to tell you about our experience with switching our blog to a subdomain. &lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;At the very beginning of July last year, we moved our blog from a subdirectory URL (&lt;code&gt;iwantmyname.com/blog&lt;/code&gt;) to a subdomain (&lt;code&gt;blog.iwantmyname.com&lt;/code&gt;) for better maintainability and performance with GitHub Pages&amp;#39; &lt;abbr title=&quot;content delivery network&quot;&gt;CDN&lt;/abbr&gt; and future-proofing in case we wanted to switch to a different platform down the road. We made this decision after doing lots of research and had long discussions about how it might impact our search engine rankings, but we ultimately agreed to make the change. After all, it was 2014 and Google should be clever enough that it wouldn’t make any difference because they know the blog (subdomain or not) is part of iwantmyname, right? As Matt Cutts said &lt;a href=&quot;https://www.youtube.com/watch?v=_MswMYk05tk&quot;&gt;in one of his webmaster videos&lt;/a&gt; “it’s a question which one is easier for you and whichever one makes you happier I would go and do it that way”.&lt;/p&gt;
-
-&lt;p&gt;While we expected an initial hit after making the subdomain switch and traffic slowly recovering, the turnaround didn’t happen after 6 months, as you can see in the following example:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-01-16-blog-traffic-subdomain-switch.png&quot; alt=&quot;Blog traffic after switch to subdomain&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;From what we can tell, we did everything by the books with &lt;code&gt;301&lt;/code&gt; redirects for all URLs - so what happened? Could it have been just coincidence that Google updated their algorithm and we got penalized for some reason?&lt;/p&gt;
-
-&lt;p&gt;One signal that Google introduced one month after us making the switch was to give SSL-secured sites a little ranking boost. Since &lt;a href=&quot;https://github.com/iwantmyname/blog&quot;&gt;our blog is running on GitHub Pages&lt;/a&gt;, which &lt;a href=&quot;https://github.com/isaacs/github/issues/156&quot;&gt;doesn’t currently support HTTPS&lt;/a&gt;, could that have prevented the traffic from recovering? Certainly it can’t be that much of a ranking signal—although they mentioned it would increase in importance over time?&lt;/p&gt;
-
-&lt;p&gt;So after waiting for six months, we reverted the change and switched our blog back to the previous &lt;code&gt;/blog&lt;/code&gt; subdirectory. It’s still hosted on GitHub Pages and we’re using a simple Nginx proxy to show the content under &lt;code&gt;iwantmyname.com/blog&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;location = /blog {
-  # GitHub Pages doesn&amp;#39;t redirect this properly, so we&amp;#39;ll handle it
-  return 301 /blog/;
-}
-
-# ^~ to allow /blog/ to match before our other regex locations
-location ^~ /blog/ {
-  proxy_pass https://iwantmyname.github.io;
-  proxy_intercept_errors on;
-  # serve custom 404 page from our blog repo instead of GitHub Pages&amp;#39; 404
-  error_page  404  /blog/404.html;
-  # allow GitHub to pass caching headers instead of using our own
-  expires off;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;An important side effect is that our blog pages are now secured under our primary SSL certificate again.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Based on this experience and the following &lt;a href=&quot;http://moz.com/community/q/moz-s-official-stance-on-subdomain-vs-subfolder-does-it-need-updating#reply_217479&quot;&gt;recommendation from Moz’s Rand Fishkin&lt;/a&gt;, we decided it would be better for our long-term SEO strategy to put our blog back on our primary domain:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I would still strongly urge folks to keep all content on a single subdomain. We recently were able to test this using a subdomain on Moz itself (when moving our beginner&amp;#39;s guide to SEO from guides.moz.com to the current URL http://moz.com/beginners-guide-to-seo). The results were astounding - rankings rose dramatically across the board for every keyword we tracked to the pages.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We will certainly keep a close eye on traffic for the next few months and keep you updated. Hope this helps some of you when deciding on the age-old debate of whether you should have your blog on a subdomain or not!&lt;/p&gt;
-</description>
-				<pubDate>Thu, 15 Jan 2015 15:53:45 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2015/01/seo-penalties-of-moving-our-blog-to-a-subdomain.html</link>
-				<guid isPermaLink="false">/2015/01/seo-penalties-of-moving-our-blog-to-a-subdomain.html</guid>
 			</item>
 		
 	</channel>
