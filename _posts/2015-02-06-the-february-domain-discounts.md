@@ -41,4 +41,4 @@ It's still summer in NZ, but with [Punxsutawney Phil](http://en.wikipedia.org/wi
 
 ***
 
-Don't want to miss a deal? Be sure to check our [domain discounts page](https://iwantmyname.com/domains/special-offer) at the beginning of each month for the full list of what we have for sale.
+Don't want to miss a deal? Be sure to check our [domain discounts page](https://iwantmyname.com/domains/special-offer) at the beginning of each month, or sign up for our new [monthly newsletter](https://iwantmyname.com/monthly) (our [first edition](http://us1.campaign-archive1.com/?u=54f078a925697a4e5f21c0fbe&id=314e5bfab8) will be in inboxes by Monday!). 
