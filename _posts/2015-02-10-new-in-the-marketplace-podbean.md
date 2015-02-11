@@ -1,4 +1,4 @@
-—
+---
 layout: post
 date: 2015-02-10 17:21:18 -0700
 author: Chris
@@ -6,7 +6,7 @@ title: New in the Marketplace - PodBean, the podcast platform with its own netwo
 
 ---
 
-<!-- excerpt —>
+<!-- excerpt -->
 
 ![Best of]({{ site.images_url }}/2015-02-10-podbean-best-of.png)
 
@@ -16,7 +16,7 @@ Our [App Marketplace](https://iwantmyname.com/services) is filled with dozens of
 
 One of the more interesting challenges podcasters face is exposure, and most of the podcast hosting platforms on the market don’t provide much in terms of built-in audiences. [PodBean](https://iwantmyname.com/services/podcast/podbean) does, and their built-in podcast marketplace has more than 500,000 independent podcasts covering any category you could ever want. And on top of that, PodBean gives you the tools you need to create customizable websites that can instantly ship shows off to all the biggest podcatchers, with options like unlimited bandwidth and storage, a simple platform for creating premium content, and advertising options via third-party networks for additional monetization. 
 
-<!-- /excerpt —>
+<!-- /excerpt -->
 
 ![PodBean]({{ site.images_url }}/2015-02-10-podbean.jpg)
 
