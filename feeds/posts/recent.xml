@@ -6,16 +6,8 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>New In The Marketplace Podbean</title>
-				<description>&lt;p&gt;—
-layout: post
-date: 2015-02-10 17:21:18 -0700
-author: Chris
-title: New in the Marketplace - PodBean, the podcast platform with its own network&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&amp;lt;!-- excerpt —&amp;gt;&lt;/p&gt;
+				<title>New in the Marketplace - PodBean, the podcast platform with its own network</title>
+				<description>&lt;!-- excerpt --&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-10-podbean-best-of.png&quot; alt=&quot;Best of&quot;&gt;&lt;/p&gt;
 
@@ -25,13 +17,13 @@ title: New in the Marketplace - PodBean, the podcast platform with its own netwo
 
 &lt;p&gt;One of the more interesting challenges podcasters face is exposure, and most of the podcast hosting platforms on the market don’t provide much in terms of built-in audiences. &lt;a href=&quot;https://iwantmyname.com/services/podcast/podbean&quot;&gt;PodBean&lt;/a&gt; does, and their built-in podcast marketplace has more than 500,000 independent podcasts covering any category you could ever want. And on top of that, PodBean gives you the tools you need to create customizable websites that can instantly ship shows off to all the biggest podcatchers, with options like unlimited bandwidth and storage, a simple platform for creating premium content, and advertising options via third-party networks for additional monetization. &lt;/p&gt;
 
-&lt;p&gt;&amp;lt;!-- /excerpt —&amp;gt;&lt;/p&gt;
+&lt;!-- /excerpt --&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-10-podbean.jpg&quot; alt=&quot;PodBean&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Pricing starts at $3/mo, so if you’re looking for a podcast host that does it all, be sure to check out &lt;a href=&quot;http://www.podbean.com&quot;&gt;PodBean&lt;/a&gt;.&lt;/p&gt;
 </description>
-				<pubDate>Tue, 10 Feb 2015 00:00:00 -0800</pubDate>
+				<pubDate>Tue, 10 Feb 2015 16:21:18 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/02/new-in-the-marketplace-podbean.html</link>
 				<guid isPermaLink="false">/2015/02/new-in-the-marketplace-podbean.html</guid>
 			</item>
