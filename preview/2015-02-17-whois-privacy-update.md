@@ -10,17 +10,19 @@ title: A big WHOIS privacy update
 
 ![Superhero]({{ site.images_url }}/2015-02-17-superhero.jpg)
 
-Privacy is rightly a huge issue for many people, and we're actively updating our platform to be keep as much of your information off the internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is using a WHOIS service, which basically replaces your domain registration information (name, address, phone number, etc) with the information of your domain registrar.
+Privacy is rightly a huge concern for many people, and we're actively updating our platform to keep as much of your information off the Internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is to use a WHOIS privacy service, which basically eliminates your domain registration information (name, address, phone number, etc.) from the WHOIS record altogether.
 
-In the past, we've used our own WHOIS masking service, which masked phone numbers and home/business addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we've received a number of requests over the past year for a more robust solution... so last week we rolled out full WHOIS privacy, brought to you by our upstream provider, HEXONET.
+In the past, we've used our own WHOIS privacy service, which masked phone numbers and addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we've received a number of requests for a more robust solution. So last week we rolled out full WHOIS privacy, brought to you by our upstream provider, HEXONET.
 
 <!-- /excerpt -->
 
-With the new WHOIS privacy in place, all personal information, including names and email addresses, will now be masked. When using WHOIS privacy, you are still the legal owner (registrant) of the domain name, and have full control should you wish to update the registrant details, change the owner, or transfer it to another registrar—but a WHOIS lookup will show none of your personal information.
+With the new WHOIS privacy in place, all personal information, including names and email addresses, will now be masked. When using WHOIS privacy, you are still the legal owner (registrant) of the domain name, and have full control should you wish to update the registrant details, change the owner, or transfer it to another registrar. But a WHOIS lookup will show none of your personal information.
 
-You can add the service (for free) from the WHOIS update page of your domains under **Domains > yourdomain.com > Domain owner > enable privacy.** Also, if you currently have our WHOIS masking in place, please turn it off, then add it back to start using our full WHOIS privacy service.
+You can add the service (for free) from the WHOIS update page for your domain(s) under **Domains > yourdomain.com > Domain owner > enable privacy.** Also, if you currently have our old WHOIS privacy service in place, you can update it to the new full masking service. In your dashboard it will show **disable privacy**. Click that to remove the old service, let the page refresh, then click **enable privacy** to add the new WHO privacy service.
 
-Please note that WHOIS privacy isn't available for all domain extensions (WHOIS privacy availability is determined by the individual registries). Currently, you can use it with the following top-level domains (TLDs): 
+Please note that WHOIS privacy is _not_ added to domains automatically. It's optional, so you need to add it in your dashboard.
+
+WHOIS privacy isn't available for all domain extensions (WHOIS privacy availability is determined by the individual registries). Currently, you can use it with the following top-level domains (TLDs): 
 
 + [.COM](http://iwantmyname.com/domains/com-domain-name-registration-for-commercial)
 + [.NET](http://iwantmyname.com/domains/com-domain-name-registration-for-commercial)
