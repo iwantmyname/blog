@@ -12,7 +12,7 @@ title: A big WHOIS privacy update
 
 Privacy is rightly a huge concern for many people, and we're actively updating our platform to keep as much of your information off the Internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is to use a WHOIS privacy service, which basically eliminates your domain registration information (name, address, phone number, etc.) from the WHOIS record altogether.
 
-In the past, we've used our own WHOIS privacy service, which masked phone numbers and addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we've received a number of requests for a more robust solution. So last week we rolled out full WHOIS privacy, brought to you by our upstream provider, HEXONET.
+In the past, we've used our own WHOIS privacy service, which masked phone numbers and addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we've received a number of requests for a more robust solution.
 
 <!-- /excerpt -->
 
@@ -40,7 +40,6 @@ WHOIS privacy isn't available for all domain extensions (WHOIS privacy availabil
 + [.AC](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island)
 + [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory)
 + [.SH](https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena)
-+ .UK (via Nominet)
 + the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions)
 
 If you have any questions about WHOIS privacy or your current setup, definitely [let us know](https://iwantmyname.com/support). 
