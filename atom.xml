@@ -6,6 +6,33 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A big WHOIS privacy update</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-17-superhero.jpg&quot; alt=&quot;Superhero&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Privacy is rightly a huge concern for many people, and we&amp;#39;re actively updating our platform to keep as much of your information off the Internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is to use a WHOIS privacy service, which basically eliminates your domain registration information (name, address, phone number, etc.) from the WHOIS record altogether.&lt;/p&gt;
+
+&lt;p&gt;In the past, we&amp;#39;ve used our own WHOIS privacy service, which masked phone numbers and addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we&amp;#39;ve received a number of requests for a more robust solution.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;With the new WHOIS privacy in place, all personal information, including names and email addresses, will now be masked. With the service turned on, you are still the legal owner (registrant) of the domain name, and have full control should you wish to update the registrant details, change the owner, or transfer it to another registrar, but a WHOIS lookup will show none of your personal information.&lt;/p&gt;
+
+&lt;p&gt;Please note that WHOIS privacy is &lt;em&gt;not&lt;/em&gt; added to domains automatically (it&amp;#39;s entirely optional), but you can add the service (for free) from your domain&amp;#39;s WHOIS update page under &lt;strong&gt;Domains &amp;gt; yourdomain.com &amp;gt; Domain owner &amp;gt; enable privacy.&lt;/strong&gt; If you currently have our old WHOIS privacy service in place, you can update to the new full masking service by clicking &lt;strong&gt;disable privacy&lt;/strong&gt; in your dashboard to remove the old service, let the page refresh, then click &lt;strong&gt;enable privacy&lt;/strong&gt; to add the new WHO privacy service.&lt;/p&gt;
+
+&lt;p&gt;Also note that WHOIS privacy isn&amp;#39;t available for all domain extensions (WHOIS privacy availability is determined by the individual registries). Currently, you can use it with the following extensions (this list is constantly growing as we add new generic top-level domains (gTLDs), so please refer to our knowledge base for the &lt;a href=&quot;(https://help.iwantmyname.com/customer/portal/articles/184425-do-you-offer-a-whois-privacy-service-)&quot;&gt;updated list&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;.ac, .academy, .accountants, .actor, .ae.org, .ag, .agency, .ar.com, .associates, .auction, .band, .bar, .bargains, .bayern, .beer, .bike, .biz, .black, .blue, .boutique, .br.com, .builders, .business, .bz, .cab, .camera, .camp, .cards, .care, .careers, .casa, .cash, .catering, .cc, .cheap, .church, .city, .claims, .cleaning, .clinic, .clothing, .club, .cn.com, .co, .codes, .coffee, .com, .community, .company, .computer, .condos, .construction, .consulting, .contractors, .cooking, .cool, .country, .credit, .dance, .degree, .delivery, .democrat, .dental, .diamonds, .digital, .direct, .directory, .discount, .domains, .education, .email, .energy, .engineer, .engineering, .enterprises, .equipment, .estate, .eu.com, .events, .exchange, .expert, .exposed, .fail, .finance, .financial, .fish, .fishing, .fitness, .flights, .florist, .fm, .forsale, .foundation, .fund, .furniture, .futbol, .gallery, .gb.com, .gifts, .gives, .glass, .graphics, .gratis, .gripe, .guide, .guru, .haus, .holdings, .holiday, .horse, .house, .hu.com, .immo, .immobilien, .industries, .info, .ink, .institute, .insure, .investments, .io, .jpn.com, .kaufen, .kim, .kitchen, .kiwi, .kr.com, .la, .land, .lc, .lease, .life, .lighting, .limo, .loans, .maison, .management, .market, .marketing, .me, .media, .mn, .mobi, .moda, .moe, .mortgage, .nagoya, .name, .net, .network, .ninja, .no.com, .okinawa, .org, .partners, .parts, .photography, .photos, .pictures, .pink, .pizza, .place, .plumbing, .press, .productions, .properties, .pub, .pw, .qc.com, .quebec, .recipes, .red, .rehab, .reisen, .rentals, .report, .republican, .rest, .restaurant, .reviews, .rip, .rocks, .rodeo, .ru.com, .ryukyu, .sa.com, .sarl, .sc, .schule, .se.com, .services, .sh, .shiksha, .shoes, .singles, .so, .social, .software, .solar, .solutions, .soy, .supplies, .supply, .support, .surf, .surgery, .systems, .tax, .technology, .tienda, .tips, .today, .tokyo, .tools, .town, .toys, .training, .tv, .university, .uno, .us.com, .uy.com, .vacations, .vc, .vet, .viajes, .villas, .vision, .vodka, .voyage, .watch, .website, .wiki, .work, .works, .world, .ws, .wtf, .在线, .移动, .中文网, .みんな, .xyz, .yoga, .yokohama, .za.com, .zone&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about WHOIS privacy or your current setup, definitely &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 17 Feb 2015 10:23:48 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/02/whois-privacy-update.html</link>
+				<guid isPermaLink="false">/2015/02/whois-privacy-update.html</guid>
+			</item>
+		
+			<item>
 				<title>Found reviews - Fastmail, the &quot;slickest web interface currently available&quot;</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -405,37 +432,6 @@
 				<pubDate>Fri, 30 Jan 2015 14:30:07 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/01/new-in-the-marketplace-simplecast.html</link>
 				<guid isPermaLink="false">/2015/01/new-in-the-marketplace-simplecast.html</guid>
-			</item>
-		
-			<item>
-				<title>New in the Marketplace - Webflow, a drag-and-drop site builder for modern websites</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-01-29-webflow-moving.gif&quot; alt=&quot;Webflow gif&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Our &lt;a href=&quot;https://iwantmyname.com/services&quot;&gt;App Marketplace&lt;/a&gt; is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the &amp;quot;New in the Marketplace&amp;quot; blog series.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;It seems like every website builder has some sort of drag-and-drop feature these days, but the functionality is never quite what you think it will be. There are often limitations, and the dragging and dropping is often limited to template locations and conventional ideas. With &lt;a href=&quot;https://iwantmyname.com/services/website-builder/webflow&quot;&gt;Webflow&lt;/a&gt; though, you really can tinker to your heart’s desire—it’s almost like a modern rethinking of Dreamweaver, but fully hosted and not tied to a Creative Cloud.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Here’s what others are saying:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://techcrunch.com/2014/03/11/responsive-website-builder-webflow-raises-1-5-million-from-khosla-tim-draper-others/&quot;&gt;TechCrunch&lt;/a&gt;: &amp;quot;Today, Webflow lets designers build responsive websites using a drag-and-drop website builder with an intuitive interface in order to customize their site with common web elements, like sliders, maps, buttons, divs, videos, social widgets, and more. On the backend, Webflow generates W3C-compliant HTML5 and CSS3 code. There aren’t many competitors for a service like this, beyond to some extent, Bootstrap, Foundation or Adobe’s Edge Reflow – but those require more a more advanced skill set to use.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2014/08/05/designing-responsive-websites-browser-webflow/&quot;&gt;Smashing Magazine&lt;/a&gt;: &amp;quot;Webflow is a tool targeted at designers who are looking for an alternative to Photoshop and Fireworks for responsive web design. It’s not an all-encompassing solution for creating websites — at least not yet — but by enabling me to focus on layout, interaction and content behavior without having to code, it sped up our team’s design phase immensely.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.forbes.com/sites/alextaub/2014/05/08/webflow-lets-designers-create-websites-without-learning-to-code/&quot;&gt;Forbes&lt;/a&gt;: &amp;quot;Webflow’s vision is to do the same thing for web design as tools like Blogger and WordPress did for personal publishing. Those tools completely took down technical barriers (previously you had to be a master of HTML and FTP to get your thoughts online) and opened up the world of publishing to orders of a magnitude of more people, and in the process transformed the web. Similarly, web design currently requires designers to be masters of HTML, CSS and JavaScript, but the change is inevitable and Webflow plans to lead the charge.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-01-29-webflow.jpg&quot; alt=&quot;Webflow&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you’re a designer who knows what you want, but doesn’t have the time to get your hands too dirty in the dev world, &lt;a href=&quot;https://webflow.com&quot;&gt;Webflow&lt;/a&gt; just might be your next killer tool. Best of all, the platform has a free tier to get started on, and a ton (seriously, a lot) of short &lt;a href=&quot;http://tutorials.webflow.com&quot;&gt;tutorial videos&lt;/a&gt; to help you learn the platform. Give it a go, we think you&amp;#39;ll like it.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Jan 2015 12:00:27 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2015/01/new-in-the-marketplace-webflow.html</link>
-				<guid isPermaLink="false">/2015/01/new-in-the-marketplace-webflow.html</guid>
 			</item>
 		
 	</channel>
