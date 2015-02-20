@@ -2,7 +2,7 @@
 layout: post
 date: 2015-02-20 16:15:43 -0700
 author: Chris
-title: A guide to finding the right domain name for your podcast
+title: The simple guide to finding the right domain name for your podcast
 
 ---
 
