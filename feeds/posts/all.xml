@@ -6,6 +6,23 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Trustworthiness as a factor in Google rankings</title>
+				<description>&lt;p&gt;&lt;a href=&quot;http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html#.VPSuQUIylBW&quot;&gt;From Hal Hodson - New Scientist:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A Google research team is adapting that model to measure the trustworthiness of a page, rather than its reputation across the web. Instead of counting incoming links, the system – which is not yet live – counts the number of incorrect facts within a page. &amp;quot;A source that has few false facts is considered to be trustworthy,&amp;quot; says the team (arxiv.org/abs/1502.03519v1). The score they compute for each page is its Knowledge-Based Trust score.&lt;/p&gt;
+
+&lt;p&gt;The software works by tapping into the Knowledge Vault, the vast store of facts that Google has pulled off the internet. Facts the web unanimously agrees on are considered a reasonable proxy for truth. Web pages that contain contradictory information are bumped down the rankings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So much time and effort these days goes into search engine optimization (SEO), but every time I see an article like this, I see a day in the far-off future where all the &amp;quot;tips and tricks&amp;quot; will be replaced by variations of a single question—is your website helping the world or hurting it?&lt;/p&gt;
+</description>
+				<pubDate>Mon, 02 Mar 2015 10:37:58 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/03/trustworthiness-as-a-factor-in-google-rankings.html</link>
+				<guid isPermaLink="false">/2015/03/trustworthiness-as-a-factor-in-google-rankings.html</guid>
+			</item>
+		
+			<item>
 				<title>Leonard Nimoy&#39;s final tweet</title>
 				<description>&lt;p&gt;&lt;a href=&quot;http://www.theverge.com/2015/2/27/8121021/leonard-nimoy-spock-live-long-and-prosper&quot;&gt;From Bryan Bishop - The Verge:&lt;/a&gt;&lt;/p&gt;
 
