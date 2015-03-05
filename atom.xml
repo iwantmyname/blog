@@ -6,6 +6,21 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>New feature alert - domain hacks in search</title>
+				<description>&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-05-domain-hack.png&quot; alt=&quot;work trip&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;In the world of domains, naming is a bit like an architecture project. The domain name has to stand on its own, make sense to those who use it, and be conventional enough to attract all types of potential guests. A standard domain name is much like a standard building—the outside can be nice, but it&amp;#39;s really what&amp;#39;s inside that counts.&lt;/p&gt;
+
+&lt;p&gt;But &lt;a href=&quot;https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html&quot;&gt;domain hacks&lt;/a&gt; are a bit different. They&amp;#39;re the circular buildings with no conventional walls, the tiny houses that don&amp;#39;t make sense to most, the underground mud huts that only the adventurous flock to. A domain hack will likely never be the primary domain of a multinational corporation, but for those who appreciate cultural oddities, there&amp;#39;s simply nothing better. &lt;/p&gt;
+
+&lt;p&gt;So here&amp;#39;s the deal. In our domain search, when you type in a word or brand, a single domain hack will now appear as the second result (if one is able to be made). It&amp;#39;s nothing Earth-shattering—just a little something for your Thursday afternoon/Friday morning (depending on what side of the international date line you&amp;#39;re on) pleasure.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 05 Mar 2015 12:01:55 -0800</pubDate>
+				<link>https://iwantmyname.com/blog/2015/03/domain-hacks-in-search.html</link>
+				<guid isPermaLink="false">/2015/03/domain-hacks-in-search.html</guid>
+			</item>
+		
+			<item>
 				<title>Price increase alert for .INFO and .MU</title>
 				<description>&lt;p&gt;Heads up, folks. We&amp;#39;re not fond of domain extension price increases, but we have two to announce, both of which affect the registration and renewal costs for the domains.&lt;/p&gt;
 
@@ -542,81 +557,6 @@
 				<pubDate>Thu, 12 Feb 2015 15:50:10 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/02/new-in-the-marketplace-quickmvp.html</link>
 				<guid isPermaLink="false">/2015/02/new-in-the-marketplace-quickmvp.html</guid>
-			</item>
-		
-			<item>
-				<title>4 tools for remembering your passwords... a year later</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-11-vault.jpg&quot; alt=&quot;Vault&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;We&amp;#39;ve worked hard over the past half-decade making domain registration as easy as possible, but one pain point we often encounter is password memorization. The vast majority of our customers simply don&amp;#39;t need to interact with us very often, and what seems like a strong, easily remembered password could be completely alien when domain renewals come around a year later. But there are solutions for this very problem—all you need is a solid password manager.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Here&amp;#39;s an intro to password managers from &lt;a href=&quot;The%20paranoid%20guide%20to%20digital%20security&quot;&gt;Consumer Reports&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The concept is straightforward: You sign up for a service that generates and stores a unique, strong password for each of the websites where you need log-in credentials. You can do that yourself if you have a savant-like memory for numbers, but in all likelihood you don’t. Then, you just need to remember one, excellent password in order to access the service. Yes, you may ask, but what if the password manager gets hacked? Not to worry, says Chris Soghoian. “Password managers encrypt their data, so these services are safe. And, ultimately, in 2015 it’s not a good idea to use the same password for more than one website. That effectively means that you have to outsource the task.” &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;1Password&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-11-one-password.png&quot; alt=&quot;1Password&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;As the name suggests, &lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt; is a tool that acts as a vault for all your passwords, secured by a single password of your creation. Basically, using a browser extension (available for Safari, Firefox, Chrome, and Opera), app, or smartphone app, you can open your vault with your master password and have instant access to all the passwords you&amp;#39;ve created, on any device you happen to be using.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s a little excerpt from an extremely in-depth piece by the Sweet Setup, titled &amp;quot;&lt;a href=&quot;http://thesweetsetup.com/apps/best-password-manager-and-why-you-need-one/&quot;&gt;The best password manager (and why you need one) - 1Password&lt;/a&gt;&amp;quot;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In short, 1Password is the best app for managing your passwords because it does the best job of taking hold of our slippery digital identity, all the myriad digital bits of ourselves we use to prove who we are, and helps ease the friction of our travels through the digital world.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Here&amp;#39;s another glowing review from &lt;a href=&quot;http://www.macstories.net/reviews/1password-4-for-mac-review/&quot;&gt;MacStories&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Every time a new version of 1Password comes out, I feel like repeating myself: if you’re serious about your secure data and web logins, you need 1Password. While it’s a great thing that Apple will be providing native options for increased password security and form-filling with iCloud Keychain, my recommendation still goes to 1Password if you’re looking for a dedicated app with more and better options aimed at managing your passwords, login details, credit card information, software licenses, and more. iCloud Keychain is meant for Safari, whereas 1Password is system-wide, powered by great customizable menus with keyboard shortcuts, and goes beyond web logins to let you encrypt and protect just about anything. I can’t work without 1Password.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;LastPass&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-11-lastpass.jpg&quot; alt=&quot;LastPass&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Another good password manager is &lt;a href=&quot;https://lastpass.com&quot;&gt;LastPass&lt;/a&gt;, which works basically the same way 1Password does, but with a few less bells and whistles (although LastPass has been making huge strides), and a cheaper price (there&amp;#39;s a free option!).&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s a bit from PC Mag&amp;#39;s &lt;a href=&quot;http://www.pcmag.com/article2/0,2817,2426798,00.asp&quot;&gt;LastPass 3.0 review&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Storing all of your passwords in a single, secure password manager means you can use a different, strong password for every site, without worrying that you&amp;#39;ll forget. It also means that a successful attack on your password stash could give a hacker access to every one of your secure sites. If that thought worries you, the free LastPass 3.0 is just what you need. Your data is stored online in encrypted form that even the company can&amp;#39;t read, and it&amp;#39;s encrypted going to and from your PCs. You can protect your LastPass data with more different kinds of two-factor authentication than any other password manager I&amp;#39;ve encountered.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;Dashlane&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-11-dashlane.png&quot; alt=&quot;Dashlane&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.dashlane.com&quot;&gt;Dashlane&lt;/a&gt; is similar in many ways to the other password managers on the market (if you want details, David Pogue wrote a &lt;a href=&quot;http://www.nytimes.com/2013/06/06/technology/personaltech/too-many-passwords-and-no-way-to-remember-them-until-now.html&quot;&gt;very positive review&lt;/a&gt; in the New York Times, as did &lt;a href=&quot;http://thenextweb.com/apps/2014/12/09/dashlanes-automatic-password-changer-makes-precious-accounts-less-hackable/&quot;&gt;The Next Web&lt;/a&gt; in late 2014), but a new feature dropped in December that makes it extremely enticing. Here&amp;#39;s the description from &lt;a href=&quot;http://www.theverge.com/2014/12/9/7357251/dashlane-can-now-change-all-your-passwords-with-a-single-click-and&quot;&gt;the Verge&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Dashlane, the subscription-based password management service, is introducing a feature today that ought to become standard in every product like it: the ability to change all your passwords with a single click, including accounts with two-factor authentication enabled. The feature will work with about 75 major websites at launch, including Amazon, Apple, Facebook, Google, LinkedIn, PayPal, Pinterest, and Twitter.&lt;/p&gt;
-
-&lt;p&gt;Password Changer, as the feature is called, is made possible by Dashlane’s acquisition of PassOmatic, a New York startup that developed the core technology. For now, it works on desktop versions of Dashlane for PC and Mac, though the company is working on a mobile version. Dashlane now includes a big green &amp;quot;change all passwords&amp;quot; button; click it, and it will replace your existing passwords with ones that are unique and randomly generated. If you have two-factor authentication enabled, a pop-up will ask you for a code or for the answer to a security question.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;Safari Passwords&lt;/h3&gt;
-
-&lt;p&gt;If you want to avoid the master password thing and just want a simple password storage system, the Safari Password Manager is a pretty nice tool. Basically, when you&amp;#39;re setting up an account online, Safari can auto-generate and save a secure password that will sync via iCloud Keychain for you to use on any device. It&amp;#39;s incredibly easy, but for some, it might be too easy. Here&amp;#39;s a specific pain-point, from the pro-1Password &lt;a href=&quot;http://thesweetsetup.com/apps/best-password-manager-and-why-you-need-one/&quot;&gt;Sweet Setup&lt;/a&gt; article above:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Different people also have different levels of comfort with iCloud Keychain. I, for one, don’t actually love the frictionless experience. I want to be intentional about how I use my passwords and my credit card information, and I like how 1Password makes me conscious of when I’m using those things. I also like how I have more control over access to my information on my devices. I can require a login to 1Password after not using it for even a few minutes. I also like that if my daughter is using my iPad, she can’t easily hop over to Zappos and buy herself a new pair of shoes with my credit card.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;At the end of the day, practically anything is better than using the same passwords for all your online accounts (or forgetting your clever creations after a week), and without the help of a password manager, that&amp;#39;s almost always what happens. So before you create yet another password you&amp;#39;ll forget, do a little comparison shopping and leave the memorization to the machines. It&amp;#39;ll change your online life forever.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 11 Feb 2015 15:34:45 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2015/02/tools-for-remembering-your-passwords.html</link>
-				<guid isPermaLink="false">/2015/02/tools-for-remembering-your-passwords.html</guid>
 			</item>
 		
 	</channel>
