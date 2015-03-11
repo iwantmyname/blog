@@ -2,11 +2,11 @@
 layout: post
 date: 2015-03-11 14:41:44 -0700
 author: Chris
-title: Ben Carson compiles the 1457 most popular .io domains
+title: Mike Carson compiles the 1457 most popular .io domains
 excerpt: no
 ---
 
-[From Ben Carson:](http://hack.ly/articles/the-most-popular-dot-io-domains-2015/)
+[From Mike Carson:](http://hack.ly/articles/the-most-popular-dot-io-domains-2015/)
 
 > Exactly one year ago today I created a list of the top .io domains. At that time there were only 676 .io domains in the top 1 million sites in the world (from Alexa). In one year that number has more than doubled to 1457.
 
