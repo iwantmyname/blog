@@ -6,6 +6,43 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Usability is something we should all be striving for</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://melodykramer.github.io/how-betty-who-is-89-gets-her-news/&quot;&gt;From Melody Kramer:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;After we drank tea, I watched Betty read articles on her iPad. Her Internet was really slow. She kept accidentally clicking on the ads, or on parts of the story that she didn’t mean to click on. And she was getting a bit frustrated and worried — that by clicking on something, she was going to install malware or not be able to return to her story.&lt;/p&gt;
+
+&lt;p&gt;There are 13 million people between the ages of 75 and 84 in the US. There are 5 million between the ages of 85 and 94. (census) That population will grow. At some point, it will be composed of digital natives but that’s a while away. In the interim, are there better ways to design websites for this population? Are there better ways to design the news for them? Of course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Like any good web entity, we&amp;#39;re always planning for the next evolution of our website. Whether we like it or not, trends change, platforms that were built for one thing get weighed down by incremental additions, and new technologies emerge (like responsive design) that change how sites move through the world. Those things are always moving targets that need to be addressed, but one factor that cannot be overlooked, no matter when your design/redesign occurs, is usability. At the end of the day, the single most important thing you can offer is an easy path from idea to completion. &lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s a good example of where the internet is going. After I wrote our &lt;a href=&quot;https://iwantmyname.com/blog/2015/03/what-should-the-internet-do-with-money.html&quot;&gt;post about .money&lt;/a&gt;, I started looking through various finance websites. What I found didn&amp;#39;t really surprise me, but it&amp;#39;s worth noting nonetheless.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-11-fidelity-homepage.png&quot; alt=&quot;Fidelity homepage&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s Fidelity&amp;#39;s homepage. As you can see, it&amp;#39;s packed with information, but if your goal is to start an account (which, I&amp;#39;d argue, should be the goal in a logged-out state) , you have a lot to contend with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-11-wealthfront-homepage.png&quot; alt=&quot;Wealthfront homepage&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;On the other end of the spectrum is Wealthfront, an investment startup that puts usability first. Big buttons. Clear calls to action. &lt;/p&gt;
+
+&lt;p&gt;You could certainly make the argument that Fidelity&amp;#39;s website is more immediately useful, strictly from a knowledge-density perspective, but we&amp;#39;re heading in a direction, as a society, where screens are rapidly shrinking in size.  Apple recently announced their new 12&amp;quot; Macbook, which is their most technically advanced laptop to date (not to be confused with fastest), and the only reason the screen is as big as it is is because they didn&amp;#39;t want the keyboard to be any smaller. There &lt;em&gt;will&lt;/em&gt; come a day, and it may come faster than we think, where an iPad/phablet-type device will be the primary device for many, and then what? Will the Fidelity content-density model hold up? Are we just going to sit around while our aging population is designed off these unusable platforms?&lt;/p&gt;
+
+&lt;p&gt;/rant&lt;/p&gt;
+
+&lt;p&gt;Just something to think about when you&amp;#39;re starting your next design/redesign process.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 11 Mar 2015 11:47:11 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/03/usability-is-something-we-should-all-be-striving-for.html</link>
+				<guid isPermaLink="false">/2015/03/usability-is-something-we-should-all-be-striving-for.html</guid>
+			</item>
+		
+			<item>
 				<title>What should the internet do with its new .money?</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -550,36 +587,6 @@
 				<pubDate>Tue, 17 Feb 2015 10:23:48 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/02/whois-privacy-update.html</link>
 				<guid isPermaLink="false">/2015/02/whois-privacy-update.html</guid>
-			</item>
-		
-			<item>
-				<title>Found reviews - Fastmail, the &quot;slickest web interface currently available&quot;</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-13-fastmail.png&quot; alt=&quot;FastMail&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://lemery.io/review-fastmail&quot;&gt;From Sebastian Lemery:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I pay $40 a year for FastMail. That&amp;#39;s $3.33 a month for something I use every day, multiple times an hour. Because I pay for this product, I get:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Customer service oriented towards my happiness&lt;/li&gt;
-&lt;li&gt;No ads&lt;/li&gt;
-&lt;li&gt;A company focused on me, the customer, instead of advertisers&lt;/li&gt;
-&lt;li&gt;Features targeting users, not advertisers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I cannot stress this enough: pay for what you use. I love that I pay Fastmail to handle my email. I enjoy knowing their engineers are making money, improving the app I thoroughly enjoy using. When you don&amp;#39;t pay for software, you create a void that must be filled by either selling your data or catering a product to advertisers. Even if you are indifferent, it still creates an environment where engineers are potentially assigned to features that appease advertisers over users.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;We&amp;#39;re big fans of &lt;a href=&quot;https://www.fastmail.com&quot;&gt;FastMail&lt;/a&gt; here at iwantmyname, and this review seems pretty dead-on—it&amp;#39;s fast, reliable, and always customer-focused. If you&amp;#39;re on the market for a new email service, check FastMail out (also, using our Marketplace, you can &lt;a href=&quot;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&quot;&gt;add it to your domain&lt;/a&gt; in a snap). &lt;/p&gt;
-</description>
-				<pubDate>Fri, 13 Feb 2015 09:46:06 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2015/02/found-reviews-fastmail.html</link>
-				<guid isPermaLink="false">/2015/02/found-reviews-fastmail.html</guid>
 			</item>
 		
 	</channel>
