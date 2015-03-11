@@ -15,7 +15,7 @@ Money is a hard thing for a lot of people to talk about, so let's shift the focu
 + money = aghhhhhhh
 + .money = awesome!
 
-So what should the people of the internet do with their new .money (domains... [.money](https://iwantmyname.com/domains/dot-money)) goes live tomorrow)? Let me count the ways.
+So what should the people of the internet do with their new .money (domains... [.money](https://iwantmyname.com/domains/dot-money) goes live tomorrow)? Let me count the ways.
 
 <!-- /excerpt -->
 
