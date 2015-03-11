@@ -6,6 +6,38 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ben Carson compiles the 1457 most popular .io domains</title>
+				<description>&lt;p&gt;&lt;a href=&quot;http://hack.ly/articles/the-most-popular-dot-io-domains-2015/&quot;&gt;From Ben Carson:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Exactly one year ago today I created a list of the top .io domains. At that time there were only 676 .io domains in the top 1 million sites in the world (from Alexa). In one year that number has more than doubled to 1457.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here&amp;#39;s a little sample (the top 10):&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;github.io - rank 307&lt;/li&gt;
+&lt;li&gt;codepen.io - rank 1372&lt;/li&gt;
+&lt;li&gt;soup.io - rank 3161&lt;/li&gt;
+&lt;li&gt;intercom.io - rank 3375&lt;/li&gt;
+&lt;li&gt;t411.io - rank 3477&lt;/li&gt;
+&lt;li&gt;meduza.io - rank 3546&lt;/li&gt;
+&lt;li&gt;keywordtool.io - rank 3637&lt;/li&gt;
+&lt;li&gt;popcorntime.io - rank 4816&lt;/li&gt;
+&lt;li&gt;spring.io - rank 5566&lt;/li&gt;
+&lt;li&gt;greenhouse.io - rank 6263&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Short lists are interesting. Massive lists are amazing. &lt;/p&gt;
+</description>
+				<pubDate>Wed, 11 Mar 2015 14:41:44 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/03/ben-carson-compiles-the-most-popular-io-domains.html</link>
+				<guid isPermaLink="false">/2015/03/ben-carson-compiles-the-most-popular-io-domains.html</guid>
+			</item>
+		
+			<item>
 				<title>Usability is something we should all be striving for</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -312,281 +344,6 @@
 				<pubDate>Fri, 20 Feb 2015 15:15:43 -0800</pubDate>
 				<link>https://iwantmyname.com/blog/2015/02/guide-to-finding-the-right-domain-name-for-your-podcast.html</link>
 				<guid isPermaLink="false">/2015/02/guide-to-finding-the-right-domain-name-for-your-podcast.html</guid>
-			</item>
-		
-			<item>
-				<title>A big WHOIS privacy update</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-02-17-superhero.jpg&quot; alt=&quot;Superhero&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Privacy is rightly a huge concern for many people, and we&amp;#39;re actively updating our platform to keep as much of your information off the Internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is to use a WHOIS privacy service, which basically eliminates your domain registration information (name, address, phone number, etc.) from the WHOIS record altogether.&lt;/p&gt;
-
-&lt;p&gt;In the past, we&amp;#39;ve used our own WHOIS privacy service, which masked phone numbers and addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we&amp;#39;ve received a number of requests for a more robust solution.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;With the new WHOIS privacy in place, all personal information, including names and email addresses, will now be masked. With the service turned on, you are still the legal owner (registrant) of the domain name, and have full control should you wish to update the registrant details, change the owner, or transfer it to another registrar, but a WHOIS lookup will show none of your personal information.&lt;/p&gt;
-
-&lt;p&gt;Please note that WHOIS privacy is &lt;em&gt;not&lt;/em&gt; added to domains automatically (it&amp;#39;s entirely optional), but you can add the service (for free) from your domain&amp;#39;s WHOIS update page under &lt;strong&gt;Domains &amp;gt; yourdomain.com &amp;gt; Domain owner &amp;gt; enable privacy.&lt;/strong&gt; If you currently have our old WHOIS privacy service in place, you can update to the new full masking service by clicking &lt;strong&gt;disable privacy&lt;/strong&gt; in your dashboard to remove the old service, let the page refresh, then click &lt;strong&gt;enable privacy&lt;/strong&gt; to add the new WHO privacy service.&lt;/p&gt;
-
-&lt;p&gt;Also note that WHOIS privacy isn&amp;#39;t available for all domain extensions (WHOIS privacy availability is determined by the individual registries). Currently, you can use it with the following extensions (this list is constantly growing as we add new generic top-level domains (gTLDs), so please refer to our knowledge base for the &lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/184425-do-you-offer-a-whois-privacy-service-&quot;&gt;updated list&lt;/a&gt;):&lt;/p&gt;
-
-&lt;ul class=&quot;list-inline&quot;&gt;
-    &lt;li&gt;.ac&lt;/li&gt;
-    &lt;li&gt;.academy&lt;/li&gt;
-    &lt;li&gt;.accountants&lt;/li&gt;
-    &lt;li&gt;.actor&lt;/li&gt;
-    &lt;li&gt;.ae.org&lt;/li&gt;
-    &lt;li&gt;.ag&lt;/li&gt;
-    &lt;li&gt;.agency&lt;/li&gt;
-    &lt;li&gt;.ar.com&lt;/li&gt;
-    &lt;li&gt;.associates&lt;/li&gt;
-    &lt;li&gt;.auction&lt;/li&gt;
-    &lt;li&gt;.band&lt;/li&gt;
-    &lt;li&gt;.bar&lt;/li&gt;
-    &lt;li&gt;.bargains&lt;/li&gt;
-    &lt;li&gt;.bayern&lt;/li&gt;
-    &lt;li&gt;.beer&lt;/li&gt;
-    &lt;li&gt;.bike&lt;/li&gt;
-    &lt;li&gt;.biz&lt;/li&gt;
-    &lt;li&gt;.black&lt;/li&gt;
-    &lt;li&gt;.blue&lt;/li&gt;
-    &lt;li&gt;.boutique&lt;/li&gt;
-    &lt;li&gt;.br.com&lt;/li&gt;
-    &lt;li&gt;.builders&lt;/li&gt;
-    &lt;li&gt;.business&lt;/li&gt;
-    &lt;li&gt;.bz&lt;/li&gt;
-    &lt;li&gt;.cab&lt;/li&gt;
-    &lt;li&gt;.camera&lt;/li&gt;
-    &lt;li&gt;.camp&lt;/li&gt;
-    &lt;li&gt;.cards&lt;/li&gt;
-    &lt;li&gt;.care&lt;/li&gt;
-    &lt;li&gt;.careers&lt;/li&gt;
-    &lt;li&gt;.casa&lt;/li&gt;
-    &lt;li&gt;.cash&lt;/li&gt;
-    &lt;li&gt;.catering&lt;/li&gt;
-    &lt;li&gt;.cc&lt;/li&gt;
-    &lt;li&gt;.cheap&lt;/li&gt;
-    &lt;li&gt;.church&lt;/li&gt;
-    &lt;li&gt;.city&lt;/li&gt;
-    &lt;li&gt;.claims&lt;/li&gt;
-    &lt;li&gt;.cleaning&lt;/li&gt;
-    &lt;li&gt;.clinic&lt;/li&gt;
-    &lt;li&gt;.clothing&lt;/li&gt;
-    &lt;li&gt;.club&lt;/li&gt;
-    &lt;li&gt;.cn.com&lt;/li&gt;
-    &lt;li&gt;.co&lt;/li&gt;
-    &lt;li&gt;.codes&lt;/li&gt;
-    &lt;li&gt;.coffee&lt;/li&gt;
-    &lt;li&gt;.com&lt;/li&gt;
-    &lt;li&gt;.community&lt;/li&gt;
-    &lt;li&gt;.company&lt;/li&gt;
-    &lt;li&gt;.computer&lt;/li&gt;
-    &lt;li&gt;.condos&lt;/li&gt;
-    &lt;li&gt;.construction&lt;/li&gt;
-    &lt;li&gt;.consulting&lt;/li&gt;
-    &lt;li&gt;.contractors&lt;/li&gt;
-    &lt;li&gt;.cooking&lt;/li&gt;
-    &lt;li&gt;.cool&lt;/li&gt;
-    &lt;li&gt;.country&lt;/li&gt;
-    &lt;li&gt;.credit&lt;/li&gt;
-    &lt;li&gt;.dance&lt;/li&gt;
-    &lt;li&gt;.degree&lt;/li&gt;
-    &lt;li&gt;.delivery&lt;/li&gt;
-    &lt;li&gt;.democrat&lt;/li&gt;
-    &lt;li&gt;.dental&lt;/li&gt;
-    &lt;li&gt;.diamonds&lt;/li&gt;
-    &lt;li&gt;.digital&lt;/li&gt;
-    &lt;li&gt;.direct&lt;/li&gt;
-    &lt;li&gt;.directory&lt;/li&gt;
-    &lt;li&gt;.discount&lt;/li&gt;
-    &lt;li&gt;.domains&lt;/li&gt;
-    &lt;li&gt;.education&lt;/li&gt;
-    &lt;li&gt;.email&lt;/li&gt;
-    &lt;li&gt;.energy&lt;/li&gt;
-    &lt;li&gt;.engineer&lt;/li&gt;
-    &lt;li&gt;.engineering&lt;/li&gt;
-    &lt;li&gt;.enterprises&lt;/li&gt;
-    &lt;li&gt;.equipment&lt;/li&gt;
-    &lt;li&gt;.estate&lt;/li&gt;
-    &lt;li&gt;.eu.com&lt;/li&gt;
-    &lt;li&gt;.events&lt;/li&gt;
-    &lt;li&gt;.exchange&lt;/li&gt;
-    &lt;li&gt;.expert&lt;/li&gt;
-    &lt;li&gt;.exposed&lt;/li&gt;
-    &lt;li&gt;.fail&lt;/li&gt;
-    &lt;li&gt;.finance&lt;/li&gt;
-    &lt;li&gt;.financial&lt;/li&gt;
-    &lt;li&gt;.fish&lt;/li&gt;
-    &lt;li&gt;.fishing&lt;/li&gt;
-    &lt;li&gt;.fitness&lt;/li&gt;
-    &lt;li&gt;.flights&lt;/li&gt;
-    &lt;li&gt;.florist&lt;/li&gt;
-    &lt;li&gt;.fm&lt;/li&gt;
-    &lt;li&gt;.forsale&lt;/li&gt;
-    &lt;li&gt;.foundation&lt;/li&gt;
-    &lt;li&gt;.fund&lt;/li&gt;
-    &lt;li&gt;.furniture&lt;/li&gt;
-    &lt;li&gt;.futbol&lt;/li&gt;
-    &lt;li&gt;.gallery&lt;/li&gt;
-    &lt;li&gt;.gb.com&lt;/li&gt;
-    &lt;li&gt;.gifts&lt;/li&gt;
-    &lt;li&gt;.gives&lt;/li&gt;
-    &lt;li&gt;.glass&lt;/li&gt;
-    &lt;li&gt;.graphics&lt;/li&gt;
-    &lt;li&gt;.gratis&lt;/li&gt;
-    &lt;li&gt;.gripe&lt;/li&gt;
-    &lt;li&gt;.guide&lt;/li&gt;
-    &lt;li&gt;.guru&lt;/li&gt;
-    &lt;li&gt;.haus&lt;/li&gt;
-    &lt;li&gt;.holdings&lt;/li&gt;
-    &lt;li&gt;.holiday&lt;/li&gt;
-    &lt;li&gt;.horse&lt;/li&gt;
-    &lt;li&gt;.house&lt;/li&gt;
-    &lt;li&gt;.hu.com&lt;/li&gt;
-    &lt;li&gt;.immo&lt;/li&gt;
-    &lt;li&gt;.immobilien&lt;/li&gt;
-    &lt;li&gt;.industries&lt;/li&gt;
-    &lt;li&gt;.info&lt;/li&gt;
-    &lt;li&gt;.ink&lt;/li&gt;
-    &lt;li&gt;.institute&lt;/li&gt;
-    &lt;li&gt;.insure&lt;/li&gt;
-    &lt;li&gt;.investments&lt;/li&gt;
-    &lt;li&gt;.io&lt;/li&gt;
-    &lt;li&gt;.jpn.com&lt;/li&gt;
-    &lt;li&gt;.kaufen&lt;/li&gt;
-    &lt;li&gt;.kim&lt;/li&gt;
-    &lt;li&gt;.kitchen&lt;/li&gt;
-    &lt;li&gt;.kiwi&lt;/li&gt;
-    &lt;li&gt;.kr.com&lt;/li&gt;
-    &lt;li&gt;.la&lt;/li&gt;
-    &lt;li&gt;.land&lt;/li&gt;
-    &lt;li&gt;.lc&lt;/li&gt;
-    &lt;li&gt;.lease&lt;/li&gt;
-    &lt;li&gt;.life&lt;/li&gt;
-    &lt;li&gt;.lighting&lt;/li&gt;
-    &lt;li&gt;.limo&lt;/li&gt;
-    &lt;li&gt;.loans&lt;/li&gt;
-    &lt;li&gt;.maison&lt;/li&gt;
-    &lt;li&gt;.management&lt;/li&gt;
-    &lt;li&gt;.market&lt;/li&gt;
-    &lt;li&gt;.marketing&lt;/li&gt;
-    &lt;li&gt;.me&lt;/li&gt;
-    &lt;li&gt;.media&lt;/li&gt;
-    &lt;li&gt;.mn&lt;/li&gt;
-    &lt;li&gt;.mobi&lt;/li&gt;
-    &lt;li&gt;.moda&lt;/li&gt;
-    &lt;li&gt;.moe&lt;/li&gt;
-    &lt;li&gt;.mortgage&lt;/li&gt;
-    &lt;li&gt;.nagoya&lt;/li&gt;
-    &lt;li&gt;.name&lt;/li&gt;
-    &lt;li&gt;.net&lt;/li&gt;
-    &lt;li&gt;.network&lt;/li&gt;
-    &lt;li&gt;.ninja&lt;/li&gt;
-    &lt;li&gt;.no.com&lt;/li&gt;
-    &lt;li&gt;.okinawa&lt;/li&gt;
-    &lt;li&gt;.org&lt;/li&gt;
-    &lt;li&gt;.partners&lt;/li&gt;
-    &lt;li&gt;.parts&lt;/li&gt;
-    &lt;li&gt;.photography&lt;/li&gt;
-    &lt;li&gt;.photos&lt;/li&gt;
-    &lt;li&gt;.pictures&lt;/li&gt;
-    &lt;li&gt;.pink&lt;/li&gt;
-    &lt;li&gt;.pizza&lt;/li&gt;
-    &lt;li&gt;.place&lt;/li&gt;
-    &lt;li&gt;.plumbing&lt;/li&gt;
-    &lt;li&gt;.press&lt;/li&gt;
-    &lt;li&gt;.productions&lt;/li&gt;
-    &lt;li&gt;.properties&lt;/li&gt;
-    &lt;li&gt;.pub&lt;/li&gt;
-    &lt;li&gt;.pw&lt;/li&gt;
-    &lt;li&gt;.qc.com&lt;/li&gt;
-    &lt;li&gt;.quebec&lt;/li&gt;
-    &lt;li&gt;.recipes&lt;/li&gt;
-    &lt;li&gt;.red&lt;/li&gt;
-    &lt;li&gt;.rehab&lt;/li&gt;
-    &lt;li&gt;.reisen&lt;/li&gt;
-    &lt;li&gt;.rentals&lt;/li&gt;
-    &lt;li&gt;.report&lt;/li&gt;
-    &lt;li&gt;.republican&lt;/li&gt;
-    &lt;li&gt;.rest&lt;/li&gt;
-    &lt;li&gt;.restaurant&lt;/li&gt;
-    &lt;li&gt;.reviews&lt;/li&gt;
-    &lt;li&gt;.rip&lt;/li&gt;
-    &lt;li&gt;.rocks&lt;/li&gt;
-    &lt;li&gt;.rodeo&lt;/li&gt;
-    &lt;li&gt;.ru.com&lt;/li&gt;
-    &lt;li&gt;.ryukyu&lt;/li&gt;
-    &lt;li&gt;.sa.com&lt;/li&gt;
-    &lt;li&gt;.sarl&lt;/li&gt;
-    &lt;li&gt;.sc&lt;/li&gt;
-    &lt;li&gt;.schule&lt;/li&gt;
-    &lt;li&gt;.se.com&lt;/li&gt;
-    &lt;li&gt;.services&lt;/li&gt;
-    &lt;li&gt;.sh&lt;/li&gt;
-    &lt;li&gt;.shiksha&lt;/li&gt;
-    &lt;li&gt;.shoes&lt;/li&gt;
-    &lt;li&gt;.singles&lt;/li&gt;
-    &lt;li&gt;.so&lt;/li&gt;
-    &lt;li&gt;.social&lt;/li&gt;
-    &lt;li&gt;.software&lt;/li&gt;
-    &lt;li&gt;.solar&lt;/li&gt;
-    &lt;li&gt;.solutions&lt;/li&gt;
-    &lt;li&gt;.soy&lt;/li&gt;
-    &lt;li&gt;.supplies&lt;/li&gt;
-    &lt;li&gt;.supply&lt;/li&gt;
-    &lt;li&gt;.support&lt;/li&gt;
-    &lt;li&gt;.surf&lt;/li&gt;
-    &lt;li&gt;.surgery&lt;/li&gt;
-    &lt;li&gt;.systems&lt;/li&gt;
-    &lt;li&gt;.tax&lt;/li&gt;
-    &lt;li&gt;.technology&lt;/li&gt;
-    &lt;li&gt;.tienda&lt;/li&gt;
-    &lt;li&gt;.tips&lt;/li&gt;
-    &lt;li&gt;.today&lt;/li&gt;
-    &lt;li&gt;.tokyo&lt;/li&gt;
-    &lt;li&gt;.tools&lt;/li&gt;
-    &lt;li&gt;.town&lt;/li&gt;
-    &lt;li&gt;.toys&lt;/li&gt;
-    &lt;li&gt;.training&lt;/li&gt;
-    &lt;li&gt;.tv&lt;/li&gt;
-    &lt;li&gt;.university&lt;/li&gt;
-    &lt;li&gt;.uno&lt;/li&gt;
-    &lt;li&gt;.us.com&lt;/li&gt;
-    &lt;li&gt;.uy.com&lt;/li&gt;
-    &lt;li&gt;.vacations&lt;/li&gt;
-    &lt;li&gt;.vc&lt;/li&gt;
-    &lt;li&gt;.vet&lt;/li&gt;
-    &lt;li&gt;.viajes&lt;/li&gt;
-    &lt;li&gt;.villas&lt;/li&gt;
-    &lt;li&gt;.vision&lt;/li&gt;
-    &lt;li&gt;.vodka&lt;/li&gt;
-    &lt;li&gt;.voyage&lt;/li&gt;
-    &lt;li&gt;.watch&lt;/li&gt;
-    &lt;li&gt;.website&lt;/li&gt;
-    &lt;li&gt;.wiki&lt;/li&gt;
-    &lt;li&gt;.work&lt;/li&gt;
-    &lt;li&gt;.works&lt;/li&gt;
-    &lt;li&gt;.world&lt;/li&gt;
-    &lt;li&gt;.ws&lt;/li&gt;
-    &lt;li&gt;.wtf&lt;/li&gt;
-    &lt;li&gt;.在线&lt;/li&gt;
-    &lt;li&gt;.移动&lt;/li&gt;
-    &lt;li&gt;.中文网&lt;/li&gt;
-    &lt;li&gt;.みんな&lt;/li&gt;
-    &lt;li&gt;.xyz&lt;/li&gt;
-    &lt;li&gt;.yoga&lt;/li&gt;
-    &lt;li&gt;.yokohama&lt;/li&gt;
-    &lt;li&gt;.za.com&lt;/li&gt;
-    &lt;li&gt;.zone&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you have any questions about WHOIS privacy or your current setup, definitely &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 17 Feb 2015 10:23:48 -0800</pubDate>
-				<link>https://iwantmyname.com/blog/2015/02/whois-privacy-update.html</link>
-				<guid isPermaLink="false">/2015/02/whois-privacy-update.html</guid>
 			</item>
 		
 	</channel>
