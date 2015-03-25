@@ -41,4 +41,4 @@ Sustainability is a buzzword that's here to stay, and "being green" is something
 
 ### And if you're Kermit the Frog
 
-+ itainteasybeing.green 
++ itsnoteasybeing.green 
