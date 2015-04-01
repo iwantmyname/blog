@@ -6,6 +6,29 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Does open source contribute to a more open society?</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Many companies say they love open source, but what does that actually mean? Does it mean they use a lot of software other people have written? Does it mean they like that they don&amp;#39;t have to pay for things? Or do they understand that &lt;em&gt;loving open source&lt;/em&gt; also means contributing back to the community the code came from?&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s start again. We at iwantmyname love open source! And when I say we love open source, I mean that we&amp;#39;re always trying to work and live up to its ethos—to continuously share the things we learn, and to approach challenges with facts instead of emotion. Open-source development is all about learning and developing in the open, with people we may never meet in real life—it doesn&amp;#39;t matter to any of us what we look like, who we are, what our gender is, our race, religious beliefs, or sexual preference. It&amp;#39;s all irrelevant. The only thing that matters is how we can work together to make projects awesome.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;Having lived in this environment for many years, I&amp;#39;ve started to apply this same thinking to other parts of my life. With less time these days to contribute to actual code, I make efforts to talk at conferences and user groups, and, even more importantly, to grab coffee with people who ask for feedback (or are willing to give feedback) on ideas, architectures, and random happenings. The open source community I&amp;#39;m in has become a very real community, where the people I know can discuss, in the open, critical business-related things without fear.&lt;/p&gt;
+
+&lt;p&gt;But why the trust? Well, open source also teaches ethics—to be able to work and share with a loose team of contributors. You need a level of trust to have someone you&amp;#39;ve never met in person contribute code to a project, and you need the right thought technology in place to create the expectation of not breaching that trust. If that trust is breached, projects get forked, communities split up, and egos clash until everyone gets back to the hard facts and finds new ways of implementation.&lt;/p&gt;
+
+&lt;p&gt;At iwantmyname, we not only use open source technologies at the heart of our business, but we also strive to support the cultivation of a community based on the ethics of open-source. We actively do this by working closely with local tech incubators, hosting like-minded user groups and meetups, and sponsoring innovative events like the upcoming &lt;a href=&quot;http://www.opensourceopensociety.com&quot;&gt;OS//OS 2015&lt;/a&gt; conference here in Wellington, which is very much aligned with our core values.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s exciting to be part of a brand that makes such a large impact relative to our size, and I love that we&amp;#39;ve been given the opportunity to be so deeply embedded in what&amp;#39;s going on in New Zealand and the rest of the world.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 31 Mar 2015 15:33:41 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/03/does-open-source-contribute-to-a-more-open-society.html</link>
+				<guid isPermaLink="false">/2015/03/does-open-source-contribute-to-a-more-open-society.html</guid>
+			</item>
+		
+			<item>
 				<title>Last chance to get your short .NZ domain before anyone else</title>
 				<description>&lt;p&gt;Time is running out, but you still have until 30 March 2015 to either register or reserve the shorter version of your .NZ domain name before anyone else. As you may know, all ‘second level’ domains like the .CO in ‘.CO.NZ’ and the .NET in ‘.NET.NZ’ are now optional, meaning you can register .NZ names with them, without them, or both (you can read more about it on &lt;a href=&quot;http://anyname.nz/&quot;&gt;anyname.nz&lt;/a&gt;).&lt;/p&gt;
 
@@ -276,58 +299,6 @@ great, we&amp;#39;ve dug a bit deeper to help out our neighbours in their time o
 				<pubDate>Wed, 11 Mar 2015 11:47:11 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/03/usability-is-something-we-should-all-be-striving-for.html</link>
 				<guid isPermaLink="false">/2015/03/usability-is-something-we-should-all-be-striving-for.html</guid>
-			</item>
-		
-			<item>
-				<title>What should the internet do with its new .money?</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-10-money-bowtie.png&quot; alt=&quot;Money bowtie&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Money is a hard thing for a lot of people to talk about, so let&amp;#39;s shift the focus a bit by putting a &amp;quot;.&amp;quot; in front. &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;money = aghhhhhhh&lt;/li&gt;
-&lt;li&gt;.money = awesome!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So what should the people of the internet do with their new .money (domains... &lt;a href=&quot;https://iwantmyname.com/domains/dot-money&quot;&gt;.money&lt;/a&gt; goes live tomorrow)? Let me count the ways.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;h3&gt;1. Start the world&amp;#39;s most trusted Bitcoin blog&lt;/h3&gt;
-
-&lt;p&gt;As a brilliant financier who rode Bitcoins from around $200 to nearly $1,000, then back down to $200, I can safely say that I don&amp;#39;t know right from left when it comes to Bitcoin valuations. But you know who else doesn&amp;#39;t know anything about Bitcoin valuations? The rest of the internet. And if I know anything, it&amp;#39;s that general confusion means there&amp;#39;s a gap in the market, just waiting to be filled. And really, using .money for a digital publication about digital money is magic in the making.&lt;/p&gt;
-
-&lt;h3&gt;2. Forget Bitcoins... start your own digital currency&lt;/h3&gt;
-
-&lt;p&gt;This is beyond my scope, but there have to be a few iwantmynamers out there with cryptocurrency running through their veins. Seriously, if someone can build a currency around the doge meme, I think we (as in you and your friends) can band together to make something better. Just don&amp;#39;t forget the .money.&lt;/p&gt;
-
-&lt;h3&gt;3. Start a finance blog&lt;/h3&gt;
-
-&lt;p&gt;Yes, if your finance blog gets big, you might have to buy (and sometimes wear) a suit or two, but that&amp;#39;s the price you have to pay when you&amp;#39;re a big time analyst.&lt;/p&gt;
-
-&lt;h3&gt;4. Become a &amp;quot;startup finance expert&amp;quot;&lt;/h3&gt;
-
-&lt;p&gt;Speaking of analysts, I feel like startup financing is having a bit of a PR issue these days. I read all the time about the overabundance of money flowing through places like Silicon Valley, but I rarely read about analysts saying the opposite. Going back to my gap-that-needs-to-be-filled theory, I think there&amp;#39;s a big opportunity for someone to start an expert site telling the world that tech startups need more cash. &lt;/p&gt;
-
-&lt;p&gt;Or maybe your site could be about bootstrapped companies like iwantmyname... your call.&lt;/p&gt;
-
-&lt;h3&gt;5. Make your financial institution more &amp;quot;me&amp;quot; focused&lt;/h3&gt;
-
-&lt;p&gt;Hear me out. Take your average bank, I&amp;#39;ll go with Wells Fargo for this example.  The website for Wells Fargo is wellsfargo.com—.com meaning commercial. What this says to me is that Wells Fargo is a commercial entity that wants to make money. But I don&amp;#39;t put money in the bank for them to make money, I do it so &lt;em&gt;I&lt;/em&gt; can make money. So why not swap the bank&amp;#39;s .com with .money and give people a little something to aspire to? wellsfargo.money sounds like a bank I could get on board with. &lt;/p&gt;
-
-&lt;h3&gt;6. Give your personal brand a makeover&lt;/h3&gt;
-
-&lt;p&gt;Looking for a little personal brand boost? Change your personal website to &lt;code&gt;YOURNAME.money&lt;/code&gt;. You&amp;#39;re welcome.&lt;/p&gt;
-
-&lt;h3&gt;7. Coupon site?&lt;/h3&gt;
-
-&lt;p&gt;If the internet is in desperate need of something, it&amp;#39;s definitely more coupon sites. Retail coupon sites, online services coupon sites, coupon sites for coupon sites—the possibilities are endless! &lt;/p&gt;
-</description>
-				<pubDate>Tue, 10 Mar 2015 16:47:14 -0700</pubDate>
-				<link>https://iwantmyname.com/blog/2015/03/what-should-the-internet-do-with-money.html</link>
-				<guid isPermaLink="false">/2015/03/what-should-the-internet-do-with-money.html</guid>
 			</item>
 		
 	</channel>
