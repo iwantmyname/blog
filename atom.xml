@@ -6,6 +6,38 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Can non-devs be part of the open source community?</title>
+				<description>&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=9307255&quot;&gt;From thomk - Hacker News:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ask HN: How do technical non-developers help with open source projects?&lt;/p&gt;
+
+&lt;p&gt;I used to code for a living but decided that I enjoy being a technical writer and PM much, much more. Things I enjoy:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Writing detailed functional specifications.&lt;/li&gt;
+&lt;li&gt;Creating wireframes &amp;amp; mockups.&lt;/li&gt;
+&lt;li&gt;Creating flowcharts, BPMN docs &amp;amp; graphs to explain a project.&lt;/li&gt;
+&lt;li&gt;Planning Poker, Creating sprints.&lt;/li&gt;
+&lt;li&gt;Discussing technical issues with developers.&lt;/li&gt;
+&lt;li&gt;Simplifying technical issues for customers.&lt;/li&gt;
+&lt;li&gt;Learning about new technologies.&lt;/li&gt;
+&lt;li&gt;Explaining new technology to customers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My question is; Is there a need for someone like me in any open source projects and if so, how do I contribute?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As Lenz &lt;a href=&quot;https://iwantmyname.com/blog/2015/03/does-open-source-contribute-to-a-more-open-society.html&quot;&gt;recently wrote&lt;/a&gt;, &amp;quot;At iwantmyname, we not only use open-source technologies at the heart of our business, but we also strive to support the cultivation of a community based on the ethics of open source.&amp;quot; But as a non-developer, truly understanding what open source stands for is a hard thing to grasp. Writers, designers, and project managers can make educated guesses, but getting non-devs involved in the world of open source can only mean good things and more well-rounded ideas for the community. &lt;/p&gt;
+
+&lt;p&gt;In short, questions like the Hacker News thread above are definitely a step in the right direction. &lt;/p&gt;
+</description>
+				<pubDate>Wed, 01 Apr 2015 20:08:28 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/04/can-non-devs-be-part-of-the-open-source-community.html</link>
+				<guid isPermaLink="false">/2015/04/can-non-devs-be-part-of-the-open-source-community.html</guid>
+			</item>
+		
+			<item>
 				<title>Does open source contribute to a more open society?</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -262,43 +294,6 @@ great, we&amp;#39;ve dug a bit deeper to help out our neighbours in their time o
 				<pubDate>Wed, 11 Mar 2015 14:41:44 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/03/mike-carson-compiles-the-most-popular-io-domains.html</link>
 				<guid isPermaLink="false">/2015/03/mike-carson-compiles-the-most-popular-io-domains.html</guid>
-			</item>
-		
-			<item>
-				<title>Usability is something we should all be striving for</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://melodykramer.github.io/how-betty-who-is-89-gets-her-news/&quot;&gt;From Melody Kramer:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;After we drank tea, I watched Betty read articles on her iPad. Her Internet was really slow. She kept accidentally clicking on the ads, or on parts of the story that she didn’t mean to click on. And she was getting a bit frustrated and worried — that by clicking on something, she was going to install malware or not be able to return to her story.&lt;/p&gt;
-
-&lt;p&gt;There are 13 million people between the ages of 75 and 84 in the US. There are 5 million between the ages of 85 and 94. (census) That population will grow. At some point, it will be composed of digital natives but that’s a while away. In the interim, are there better ways to design websites for this population? Are there better ways to design the news for them? Of course.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Like any good web entity, we&amp;#39;re always planning for the next evolution of our website. Whether we like it or not, trends change, platforms that were built for one thing get weighed down by incremental additions, and new technologies emerge (like responsive design) that change how sites move through the world. Those things are always moving targets that need to be addressed, but one factor that cannot be overlooked, no matter when your design/redesign occurs, is usability. At the end of the day, the single most important thing you can offer is an easy path from idea to completion. &lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s a good example of where the internet is going. After I wrote our &lt;a href=&quot;https://iwantmyname.com/blog/2015/03/what-should-the-internet-do-with-money.html&quot;&gt;post about .money&lt;/a&gt;, I started looking through various finance websites. What I found didn&amp;#39;t really surprise me, but it&amp;#39;s worth noting nonetheless.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-11-fidelity-homepage.png&quot; alt=&quot;Fidelity homepage&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s Fidelity&amp;#39;s homepage. As you can see, it&amp;#39;s packed with information, but if your goal is to start an account (which, I&amp;#39;d argue, should be the goal in a logged-out state) , you have a lot to contend with.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-11-wealthfront-homepage.png&quot; alt=&quot;Wealthfront homepage&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;On the other end of the spectrum is Wealthfront, an investment startup that puts usability first. Big buttons. Clear calls to action. &lt;/p&gt;
-
-&lt;p&gt;You could certainly make the argument that Fidelity&amp;#39;s website is more immediately useful, strictly from a knowledge-density perspective, but we&amp;#39;re heading in a direction, as a society, where screens are rapidly shrinking in size.  Apple recently announced their new 12&amp;quot; Macbook, which is their most technologically advanced laptop to date (not to be confused with fastest), and the only reason the screen is as big as it is is because they didn&amp;#39;t want the keyboard to be any smaller. There &lt;em&gt;will&lt;/em&gt; come a day, and it may come faster than we think, where an iPad/phablet-type device will be the primary device for many, and then what? Will the Fidelity content-density model hold up? Are we just going to sit around while our aging population is designed off these unusable platforms?&lt;/p&gt;
-
-&lt;p&gt;/rant&lt;/p&gt;
-
-&lt;p&gt;Just something to think about when you&amp;#39;re starting your next design/redesign process.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 11 Mar 2015 11:47:11 -0700</pubDate>
-				<link>https://iwantmyname.com/blog/2015/03/usability-is-something-we-should-all-be-striving-for.html</link>
-				<guid isPermaLink="false">/2015/03/usability-is-something-we-should-all-be-striving-for.html</guid>
 			</item>
 		
 	</channel>
