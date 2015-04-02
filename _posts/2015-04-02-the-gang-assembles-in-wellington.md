@@ -13,7 +13,7 @@ Being all over the world makes it easy (or at least, easier) to handle support a
 One of our main focuses though is to find better ways to communicate and share ideas. Lots of tools, lots of ideas. Here are some highlights:
 
 + We're trying to fold all our content tools into GitHub, because GitHub makes GitHub with Github, and we mostly like GitHub
-+ Sharing wireframes and designs is tough, so we're trying out a local company/tool, Atomic
++ Sharing wireframes and designs is tough, so we're trying out a local company/tool, [Atomic](https://atomic.io)
 + Getting weekly team face time is a priority, but maybe a mandatory weekly meeting isn't the best way to build organic trust?
 + Slack has made group chat rooms all the rage, but we've been using HipChat for quite a while. Can we do all we need to do with it?
 
