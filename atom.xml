@@ -6,6 +6,31 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The nearly foolproof three-step test for determining the quality of a website</title>
+				<description>&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-04-15-twitter-logo.png&quot; alt=&quot;Twitter Logos&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Go to their website
+&lt;strong&gt;Step 2:&lt;/strong&gt; Find their social icons
+&lt;strong&gt;Step 3:&lt;/strong&gt; If their Twitter icon isn&amp;#39;t shaped like the birds above (angled slightly up), you&amp;#39;ve probably found a brand that either doesn&amp;#39;t understand the internet or doesn&amp;#39;t care about details (possibly worse?).&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;Note that there are levels of terribleness here.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-04-15-twitter-logo-old.png&quot; alt=&quot;Old Twitter Logo&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quality Score -100:&lt;/strong&gt; Definitely the wrong logo, but I can see how someone could see this and not instantly think it&amp;#39;s wrong. If you see something like this on a personal site, politely send an email to the site owner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-04-15-twitter-logo-older.png&quot; alt=&quot;Older Twitter Logo&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quality Score -4000:&lt;/strong&gt; You know that feeling when you walk into a restaurant with carpet clearly from the 1980&amp;#39;s? &lt;/p&gt;
+</description>
+				<pubDate>Wed, 15 Apr 2015 11:34:36 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/04/the-nearly-foolproof-three-step-test-for-determining-the-quality-of-a-website.html</link>
+				<guid isPermaLink="false">/2015/04/the-nearly-foolproof-three-step-test-for-determining-the-quality-of-a-website.html</guid>
+			</item>
+		
+			<item>
 				<title>Can non-devs be part of the open source community?</title>
 				<description>&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=9307255&quot;&gt;From thomk - Hacker News:&lt;/a&gt;&lt;/p&gt;
 
@@ -262,38 +287,6 @@ great, we&amp;#39;ve dug a bit deeper to help out our neighbours in their time o
 				<pubDate>Mon, 16 Mar 2015 16:51:59 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/03/happy-belated-to-com.html</link>
 				<guid isPermaLink="false">/2015/03/happy-belated-to-com.html</guid>
-			</item>
-		
-			<item>
-				<title>Mike Carson compiles the 1457 most popular .io domains</title>
-				<description>&lt;p&gt;&lt;a href=&quot;http://hack.ly/articles/the-most-popular-dot-io-domains-2015/&quot;&gt;From Mike Carson:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Exactly one year ago today I created a list of the top .io domains. At that time there were only 676 .io domains in the top 1 million sites in the world (from Alexa). In one year that number has more than doubled to 1457.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Here&amp;#39;s a little sample (the top 10):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;github.io - rank 307&lt;/li&gt;
-&lt;li&gt;codepen.io - rank 1372&lt;/li&gt;
-&lt;li&gt;soup.io - rank 3161&lt;/li&gt;
-&lt;li&gt;intercom.io - rank 3375&lt;/li&gt;
-&lt;li&gt;t411.io - rank 3477&lt;/li&gt;
-&lt;li&gt;meduza.io - rank 3546&lt;/li&gt;
-&lt;li&gt;keywordtool.io - rank 3637&lt;/li&gt;
-&lt;li&gt;popcorntime.io - rank 4816&lt;/li&gt;
-&lt;li&gt;spring.io - rank 5566&lt;/li&gt;
-&lt;li&gt;greenhouse.io - rank 6263&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Short lists are interesting. Massive lists are amazing. &lt;/p&gt;
-</description>
-				<pubDate>Wed, 11 Mar 2015 14:41:44 -0700</pubDate>
-				<link>https://iwantmyname.com/blog/2015/03/mike-carson-compiles-the-most-popular-io-domains.html</link>
-				<guid isPermaLink="false">/2015/03/mike-carson-compiles-the-most-popular-io-domains.html</guid>
 			</item>
 		
 	</channel>
