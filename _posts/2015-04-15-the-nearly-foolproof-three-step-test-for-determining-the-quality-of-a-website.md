@@ -8,9 +8,9 @@ excerpt: no
 
 ![Twitter Logos]({{ site.images_url }}/2015-04-15-twitter-logo.png)
 
-**Step 1:** Go to their website
-**Step 2:** Find their social icons
-**Step 3:** If their Twitter icon isn't shaped like the birds above (angled slightly up), you've probably found a brand that either doesn't understand the internet or doesn't care about details (possibly worse?).
++ **Step 1:** Go to their website
++ **Step 2:** Find their social icons
++ **Step 3:** If their Twitter icon isn't shaped like the birds above (angled slightly up), you've probably found a brand that either doesn't understand the internet or doesn't care about details (possibly worse?).
 
 ***
 
