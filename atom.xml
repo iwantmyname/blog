@@ -6,6 +6,93 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Contacting the owner of a domain you want to buy</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-04-20-passing-domain.jpg&quot; alt=&quot;Passing domain&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We published a fairly extensive series a while back to help you figure out what to do if there&amp;#39;s a domain you want that&amp;#39;s already been registered, or similar issues. Two of the most relevant posts for our purposes here are &lt;a href=&quot;https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html&quot;&gt;Part 5&lt;/a&gt; and &lt;a href=&quot;https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html&quot;&gt;Part 6&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We didn&amp;#39;t go into a lot of detail about exactly &lt;em&gt;how&lt;/em&gt; to contact the current owner of a domain that you&amp;#39;re interested in acquiring though. Or what to do if you do manage to get in touch and make an offer. We&amp;#39;ll start with the easy way. &lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;h3&gt;Contacting a registrant - WHOIS lookup&lt;/h3&gt;
+
+&lt;p&gt;If you go to your favorite &lt;a href=&quot;http://whois.domaintools.com/&quot;&gt;WHOIS lookup site&lt;/a&gt;, you can enter the domain and get the publicly available details of who owns the domain. Be aware that not all WHOIS lookups are official and present accurate information. Also be aware that sometimes registries (like for &lt;a href=&quot;http://nic.io/&quot;&gt;ccTLDs such as .IO&lt;/a&gt;) have their own WHOIS lookups, which may provide different or additional details.&lt;/p&gt;
+
+&lt;p&gt;Ideally you want the registrant contact email address, as the registrant is the domain&amp;#39;s legal owner. gTLDs have four registrant contacts: registrant/owner, admin, technical, and billing. These can all be the same person/organization, or four different ones. Some ccTLDs, like .UK, only have two contacts.&lt;/p&gt;
+
+&lt;h3&gt;Registrant email address considerations&lt;/h3&gt;
+
+&lt;p&gt;Unfortunately, just finding an email address for the registrant doesn&amp;#39;t guarantee contact. Particularly if someone has owned a domain for a long time, they may not use the email address anymore that they provided for registration. Lots of things can change: leaving school, getting hacked, and changing addresses, or simply upgrading the email hosting you use.&lt;/p&gt;
+
+&lt;p&gt;Also, many email clients have stringent spam filtering, and emails from addresses that they&amp;#39;ve never received email from before may not be allowed through automatically. There are lots of articles out there outlining other spam filter triggers. &lt;a href=&quot;http://blog.mailchimp.com/most-common-spam-filter-triggers/&quot;&gt;Here&amp;#39;s a good example.&lt;/a&gt; These are good things to be aware of for how you craft your email to the owner of the domain you want.&lt;/p&gt;
+
+&lt;p&gt;Some people also use WHOIS privacy services, either provided by their registrar (&lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/184425&quot;&gt;more information about ours&lt;/a&gt;) or by a third-party service. Sometimes it&amp;#39;s obvious when one of these services is in place. For example, for customers using our new WHOIS privacy service, information for &lt;a href=&quot;http://www.whoistrustee.com/&quot;&gt;WhoisTrustee&lt;/a&gt; will be shown instead of a person or organization&amp;#39;s contact information.&lt;/p&gt;
+
+&lt;p&gt;There will be email addresses shown for the contacts when a WHOIS privacy service is in place, but there&amp;#39;s a chance that the registrant cannot receive email sent to them. (For example, if the underlying email address is outdated or the forwarding filters out certain messages.)&lt;/p&gt;
+
+&lt;h3&gt;Registrant is unreachable&lt;/h3&gt;
+
+&lt;p&gt;For whatever the reason, it is quite possible the registrant&amp;#39;s contact information is not available for the domain you want. Obviously, this presents a problem. Unfortunately, it&amp;#39;s not necessarily a solveable one. &lt;/p&gt;
+
+&lt;p&gt;From time to time people who can&amp;#39;t get contact information for a domain they want contact us to ask us for that information, or to ask us to contact the domain owner for them. We can&amp;#39;t speak for other registrars, but our policy is not to do this. We take customers&amp;#39; privacy very seriously. Additionally, we are not in the brokerage business. &lt;/p&gt;
+
+&lt;p&gt;It is possible that unless the domain is allowed to expire and is released, you may have no way of acquiring it. In these cases we recommend having some viable alternatives. And make sure you&amp;#39;ve secured a domain name &lt;em&gt;before&lt;/em&gt; printing signs, business cards, etc. (You&amp;#39;d be surprised how often people don&amp;#39;t do this...)&lt;/p&gt;
+
+&lt;h3&gt;Domain brokerage&lt;/h3&gt;
+
+&lt;p&gt;If you are interested in having a third party try to contact a domain&amp;#39;s owner for you, we recommend &lt;a href=&quot;http://www.sedo.com/us/buy-domains/domain-brokerage/&quot;&gt;Sedo&lt;/a&gt; or &lt;a href=&quot;https://domainagents.com/&quot;&gt;DomainAgents&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What brokerage services will do is contact the domain owner (if they can), then make an offer for the domain for you, handle negotiations, and finalize the agreement to purchase and transfer the domain. In addition to whatever price you pay for the domain, you will also pay a fee to the broker.&lt;/p&gt;
+
+&lt;h3&gt;You&amp;#39;ve contacted the domain owner... now what?&lt;/h3&gt;
+
+&lt;p&gt;That&amp;#39;s up to you, really. First, you need to see if the person is interested in parting with the domain. It&amp;#39;s a good idea, when you&amp;#39;re looking up the WHOIS details, to check the date on which the domain was registered. If someone has had the domain for a decade, there may be pretty good odds that they&amp;#39;re not interested in getting rid of it.&lt;/p&gt;
+
+&lt;p&gt;That said, it&amp;#39;s possible the person registered the domain hoping to sell it, but the right buyer just hadn&amp;#39;t come along until you did. And, as we&amp;#39;ve previously mentioned, just because there is no website up for the domain doesn&amp;#39;t mean it&amp;#39;s not in use or not wanted. There are a lot of ways to use domains that don&amp;#39;t involve publicly accessible websites. (And even if the domain isn&amp;#39;t being used for anything, no, we (&lt;em&gt;nor any other registrar&lt;/em&gt;) can&amp;#39;t just take it for you.)&lt;/p&gt;
+
+&lt;p&gt;All you can do is contact the owner and hope they receive the message and reply. If they don&amp;#39;t reply, or they say no, there&amp;#39;s not much you can do. If they are interested, then you have a chance. And typically, if someone is interested in selling a domain, they&amp;#39;ll make it quite easy to contact them.&lt;/p&gt;
+
+&lt;p&gt;You need to know beforehand how much you&amp;#39;re willing to spend on the domain. Some domains are quite reasonable, others very, very expensive. Essentially, the domain is worth what someone is willing to pay for it. Even if the owner says they&amp;#39;re willing to sell, if they want a million dollars and you don&amp;#39;t have or aren&amp;#39;t willing to pay that, then the domain might as well not be for sale at all.&lt;/p&gt;
+
+&lt;p&gt;Often, sounding too interested (read: desperate) can make the asking price go up steeply and quickly. And there&amp;#39;s really nothing you can do about it, except walk away. So, again, having a budget and an alternative plan is important.&lt;/p&gt;
+
+&lt;h3&gt;We&amp;#39;ve come to an agreement... now what?&lt;/h3&gt;
+
+&lt;p&gt;Congratulations! You&amp;#39;ve managed to contact the domain owner, they were interested in selling, and now you&amp;#39;ve made a deal. How do you actually get the domain? Well, it depends. For gTLDs (e.g. .COM) the transfer process is standardized. &lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/1336688&quot;&gt;There&amp;#39;s information on the requirements here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For ccTLDs there can be a lot of variance in what&amp;#39;s required to transfer, so if you have trouble figuring it out or getting started, &lt;a href=&quot;https://iwantmyname.com/support&quot;&gt;let us know&lt;/a&gt;. We&amp;#39;re happy to help.&lt;/p&gt;
+
+&lt;p&gt;If the domain owner is an iwantmyname customer and so are you, you can do what&amp;#39;s called &lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/184478&quot;&gt;an internal transfer or move.&lt;/a&gt;. (Provided the domain is old enough, etc.)&lt;/p&gt;
+
+&lt;p&gt;If you want to transfer the domain from the owner&amp;#39;s account at another registrar to your account with iwantmyname, then the owner would unlock the domain, get the transfer auth code, remove any privacy services, and one of you (whomever has the auth code) would initiate the transfer at our website. (That is for gTLDs. As noted, the process may differ somewhat for ccTLDs.) &lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/184465&quot;&gt;More information on transferring TO iwantmyname here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If the owner is an iwantmyname customer and you want to transfer the domain to your account at another registrar, then the owner would unlock the domain, get the transfer auth code, remove any privacy services, and one of you (whomever has the auth code) would initiate the transfer at the new registrar&amp;#39;s website. &lt;a href=&quot;https://help.iwantmyname.com/customer/portal/articles/184477&quot;&gt;More information on transferring FROM iwantmyname here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Depending on the domain type and registrars involved, transfers can be immediate, or take up to 5 days to complete.&lt;/p&gt;
+
+&lt;p&gt;Of course, be sure that all payments and other arrangements have been made &lt;em&gt;before&lt;/em&gt; initiating the transfer. Once a domain has been transferred, it&amp;#39;s likely no longer yours or accessible, and you have no way of getting it back or withholding it to demand payment if you get shafted. &lt;/p&gt;
+
+&lt;h3&gt;Anything else?&lt;/h3&gt;
+
+&lt;p&gt;To be the legal owner of a domain, your name and/or organization&amp;#39;s name needs to be in the registrant/owner contact details. This information may not automatically change when a domain is transferred. Be sure to check.&lt;/p&gt;
+
+&lt;p&gt;At iwantmyname, you can update the registrant contacts for many types of domains in your dashboard, under &lt;em&gt;edit contacts&lt;/em&gt;. If you&amp;#39;re unable to do that, there may be an issue, or we may need to make the update for you, so let us know. If your domain is registered elsewhere, you&amp;#39;ll need to contact that registrar for help updating the details if needed.&lt;/p&gt;
+
+&lt;p&gt;Be aware that changing the registrant contact details is often called an &lt;em&gt;owner change&lt;/em&gt;. For some types of domains, this change is considered by registries to be similar to a domain registration, so there may be a fee involved. Some registries also require identification and paperwork to be included. (We can help clarify this as well.)&lt;/p&gt;
+
+&lt;p&gt;With hundreds of millions of domains registered, there is a pretty good chance that one you want is taken already. If it&amp;#39;s one you really want, you may be fortunate and able to procure it. &lt;/p&gt;
+
+&lt;p&gt;If not, nowadays at least there are &lt;a href=&quot;https://iwantmyname.com/domains/new-gtld-domain-extensions&quot;&gt;hundreds of new TLDs&lt;/a&gt; to choose from to help you come up with just the right alternative. Good luck.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 20 Apr 2015 12:21:32 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html</link>
+				<guid isPermaLink="false">/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html</guid>
+			</item>
+		
+			<item>
 				<title>Cool Gary</title>
 				<description>&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-04-17-gary-cool.jpg&quot; alt=&quot;Cool Gary&quot;&gt;&lt;/p&gt;
 </description>
@@ -272,38 +359,6 @@ great, we&amp;#39;ve dug a bit deeper to help out our neighbours in their time o
 				<pubDate>Mon, 23 Mar 2015 14:51:56 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/03/a-call-to-help-vanuatu-after-cyclone-pam.html</link>
 				<guid isPermaLink="false">/2015/03/a-call-to-help-vanuatu-after-cyclone-pam.html</guid>
-			</item>
-		
-			<item>
-				<title>The story of how Buffer bought buffer.com, and why a short .com isn&#39;t necessary for startup success</title>
-				<description>&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-03-19-buffer-home.png&quot; alt=&quot;Buffer&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://open.bufferapp.com/acquired-buffer-com/&quot;&gt;From Rodolphe Dutel - Buffer:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;There was a great blogpost that Joel wrote on how to name your startup, where he mentioned that the domain name of your startup doesn’t matter. In fact, thinking about Buffer’s own domain history, we originally started out with bfffr.com, when Joel launched Buffer in late 2010.&lt;/p&gt;
-
-&lt;p&gt;Joel went on to change it to bufferapp.com, to make things more clear and worry less about not having the exact domain of your startup’s name, “Buffer” in our case. It can be a huge time-suck in the early days of your company, where your first and foremost goal should be to hit product-market fit and building something people want.&lt;/p&gt;
-
-&lt;p&gt;Spending time on acquiring a certain domain name could be a very futile exercise without a product that works. In fact, as Joel illustrates, most well-known companies all had “placeholder” domains for a long time before they got their actual name as their domain too:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Square was squareup.com&lt;/li&gt;
-&lt;li&gt;DropBox was getdropbox.com&lt;/li&gt;
-&lt;li&gt;Facebook was thefacebook.com&lt;/li&gt;
-&lt;li&gt;Instagram was instagr.am&lt;/li&gt;
-&lt;li&gt;Twitter was twttr.com&lt;/li&gt;
-&lt;li&gt;Foursquare was playfoursquare.com&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The primary point of the post is to tell the story of how Buffer acquired buffer.com, but the real story to me is that while most of us aren&amp;#39;t &amp;quot;generat(ing) over $5m/year,&amp;quot; and probably don&amp;#39;t have the time or money to pay what it would cost to get a short .com in 2015, there&amp;#39;s no reason you can&amp;#39;t get to that level of success with a domain name you find less than perfect. Buffer had a $60m valuation while using bufferapp.com, and the roster of huge brands listed in the post that started with dodgy domains is pretty incredible. &lt;/p&gt;
-
-&lt;p&gt;If you take anything away from this, it&amp;#39;s that the domain name you choose is only a minor piece of a very large puzzle. Before you go throwing resources at the domain aftermarket, just grab a name that fits and make your product as solid as it can possibly be. Good work attracts customers—your domain is just a sticker on the door.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 19 Mar 2015 15:35:22 -0700</pubDate>
-				<link>https://iwantmyname.com/blog/2015/03/the-story-of-how-buffer-bought-buffer-com.html</link>
-				<guid isPermaLink="false">/2015/03/the-story-of-how-buffer-bought-buffer-com.html</guid>
 			</item>
 		
 	</channel>
