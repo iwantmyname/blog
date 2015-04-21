@@ -6,6 +6,8 @@ title: Reach an international audience with these 19 country code top-level doma
 header_image: 2015-04-21-airport-amsterdam.jpg
 ---
 
+<!-- excerpt -->
+
 If you’re in the process of starting a new website and want to go with a shorter country domain extension rather than any of the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) (or .COM), there's one thing you should know:
 
 > Google treats some ccTLDs (such as .tv, .me, etc.) as gTLDs, as we’ve found that users and webmasters frequently see these more generic than country-targeted.
@@ -13,6 +15,8 @@ If you’re in the process of starting a new website and want to go with a short
 This means you can [set a geographic target through Google Webmaster Tools](https://support.google.com/webmasters/answer/1347922?hl=en), e.g. use a .co domain and be listed in search results in the United States, Canada or France although it is actually Colombia’s top-level domain. The same is true if you don’t want to target a specific country, i.e. have a .me domain for your personal online profile.
 
 But which ones of these so-called gccTLDs (generic country code top-level domains) are the most popular and more likely to be recognized by visitors?
+
+<!-- /excerpt -->
 
 Let’s take a look at Verisign’s [latest domain industry brief](http://www.verisigninc.com/assets/domain-name-report-march2015.pdf):
 
