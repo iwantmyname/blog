@@ -16,7 +16,7 @@ But which ones of these so-called gccTLDs (generic country code top-level domain
 
 Let’s take a look at Verisign’s [latest domain industry brief](http://www.verisigninc.com/assets/domain-name-report-march2015.pdf):
 
-![industry graph](http://iwmn.me/18qqs/jrVxjJel.png)
+![verisign graph]({{ site.images_url }}/2015-04-21-gcctld-chart.png)
 
 > Some ccTLDs, including .tk, .co, .me and .tv are frequently used by registrants and treated by search engines as gTLDs. This chart ranks the zone size of both gTLDs and ccTLDs marketed as gTLDs, as of Dec. 31, 2014, with that classification taken into account. The top 10 largest gTLDs and ccTLDs marketed as gTLDs by zone size were .com, .tk, .net, .org, .info, .biz, .co, .mobi, .me and .tv, as of Dec. 31, 2014, which account for 180.6 million domain name registrations, or 62.8 percent of the total global domain name registrations.
 
