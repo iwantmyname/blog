@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-04-21 19:51:38 -0700
+date: 2015-04-22 15:43:14 -0700
 author: Timo
 title: Registering .au domains without the .com part may soon become reality
 header_image: 2015-04-21-no-com-dot-au.jpg
@@ -25,4 +25,6 @@ For example, .com.au currently requires you to provide a company ID such as and 
 
 Until then, Australians might as well consider other alternatives for their online identity like the [new gTLDs](https://iwantmyname.com/domains/new-gtld-domain-extensions) (or the recently mentioned [gccTLDs](https://iwantmyname.com/blog/2015/04/reach-an-international-audience-with-these-country-code-top-level-domains.html)) which you can specifically target at local visitors.
 
-"<a href="http://commons.wikimedia.org/wiki/File:Australia_(orthographic_projection).svg#/media/File:Australia_(orthographic_projection).svg">Australia (orthographic projection)</a>" by <a href="//commons.wikimedia.org/wiki/User:Ssolbergj" title="User:Ssolbergj">Ssolbergj</a> - Own work,<a href="//commons.wikimedia.org/wiki/File:Inkscape_Logo.svg" title="File:Inkscape Logo.svg"></a>This <a href="//en.wikipedia.org/wiki/Vector_images" class="extiw" title="w:Vector images">vector image</a> was created with <a href="//commons.wikimedia.org/wiki/Help:Inkscape" title="Help:Inkscape">Inkscape</a>.<a rel="nofollow" class="external text" href="http://www.aquarius.geomar.de/omc/make_map.html">Aquarius.geomar.de</a>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
+***
+
+Photo Credit: "<a href="http://commons.wikimedia.org/wiki/File:Australia_(orthographic_projection).svg#/media/File:Australia_(orthographic_projection).svg">Australia (orthographic projection)</a>" by <a href="//commons.wikimedia.org/wiki/User:Ssolbergj" title="User:Ssolbergj">Ssolbergj</a> - Own work,<a href="//commons.wikimedia.org/wiki/File:Inkscape_Logo.svg" title="File:Inkscape Logo.svg"></a>This <a href="//en.wikipedia.org/wiki/Vector_images" class="extiw" title="w:Vector images">vector image</a> was created with <a href="//commons.wikimedia.org/wiki/Help:Inkscape" title="Help:Inkscape">Inkscape</a>.<a rel="nofollow" class="external text" href="http://www.aquarius.geomar.de/omc/make_map.html">Aquarius.geomar.de</a>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
