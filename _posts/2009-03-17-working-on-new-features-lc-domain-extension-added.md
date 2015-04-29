@@ -8,6 +8,7 @@ categories:
   - Announcement
   - New feature
 
+redirect_to: https://iwantmyname.com/domains/lc-saint-lucian-domain-name-registration-for-saint-lucia
 ---
 
 Over the last couple of weeks we were primarily working under the hood of iWantMyName with necessary back end changes for the [new version of our iPhone DomainApp](https://iwantmyname.com/iphone), preparing the site for new [features](https://iwantmyname.com/features/custom-domain-applications-and-dns) and migrating our DNS infrastructure to a more flexible solution.

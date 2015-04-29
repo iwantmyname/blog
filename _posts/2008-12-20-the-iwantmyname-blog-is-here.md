@@ -8,6 +8,7 @@ categories:
   - Announcement
   - General
 
+redirect_to: https://iwantmyname.com/blog/
 ---
 
 A few weeks after our launch the iWantMyName Blog has finally arrived.

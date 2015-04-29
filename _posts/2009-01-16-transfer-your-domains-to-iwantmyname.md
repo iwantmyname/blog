@@ -12,6 +12,7 @@ categories:
 tags:
   - domain transfer
 
+redirect_to: https://iwantmyname.com/domains/domain-transfer
 ---
 
 We're welcoming the new year 2009 with the activation of [domain transfers](https://iwantmyname.com/domains/domain-transfer) to iWantMyName.

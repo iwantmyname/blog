@@ -11,6 +11,7 @@ categories:
 tags:
   - tel domain extension registration why buy address book
 
+redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-communication
 ---
 
 The new [**.TEL domain extension is available for general registration**](https://iwantmyname.com/domains/tel-domain-name-registration-for-communication) from March 24th, 2009 and a lot of you may wonder what this new address stands for. While .COM, .NET, .ORG and the country extensions are meant for general websites, the .TEL domain is completely different:

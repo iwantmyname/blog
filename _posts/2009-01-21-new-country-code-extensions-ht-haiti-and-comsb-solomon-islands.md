@@ -15,6 +15,7 @@ tags:
   - domain extensions
   - domain transfer
 
+redirect_to: https://iwantmyname.com/domains/domain-name-registration-list-of-extensions
 ---
 
 As of today we're adding two new country code top-level domains (ccTLDs) to our [list of international extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions):

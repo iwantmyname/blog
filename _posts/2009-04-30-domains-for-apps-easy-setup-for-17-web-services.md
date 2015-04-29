@@ -30,6 +30,7 @@ tags:
   - website builder
   - wiki
 
+redirect_to: https://iwantmyname.com/services
 ---
 
 The main reason [why we've built iWantMyName](https://iwantmyname.com/about) was to make domain
