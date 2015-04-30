@@ -11,7 +11,7 @@ header_image: 2015-04-30-small-island.jpg
 
 No matter what service you offer or product you sell, a good chunk of any business is customer support. But unlike many other aspects of running a business, how companies handle customer support can vary widely, even among companies in the same industry.
 
-In our little corner of the Internet, the domain industry, we have a couple of unique challenges. First, domain registration is a comparatively low margin business, so to keep our business afloat, we rely on the support of a lot of customers. Tens of thousands, with 100,000+ domains under management. And no matter how stable your platform, when you're dealing with that many moving parts, any flaw, bug, or confusing process will be uncovered very quickly.
+In our little corner of the Internet, the domain industry, we have a couple of unique challenges. First, domain registration is a comparatively low margin business, so to keep our business afloat, we rely on the support of a lot of customers. Tens of thousands, with 150,000+ domains under management. And no matter how stable your platform, when you're dealing with that many moving parts, any flaw, bug, or confusing process will be uncovered very quickly.
 
 <!-- /excerpt -->
 
