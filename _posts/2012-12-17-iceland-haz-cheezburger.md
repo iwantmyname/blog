@@ -8,6 +8,8 @@ categories:
   - .is domains
   - Iceland
 
+redirect_to: https://iwantmyname.com/domains/is-icelandic-domain-name-registration-for-iceland
+
 ---
 
 We're not to sure if they do because both [cheezburger.is](https://iwantmyname.com/search?domain=cheezburger.is&hideUnavailable=false) and [cheeseburger.is](https://iwantmyname.com/search?domain=cheeseburger.is&hideUnavailable=false) are still available for registration. There seems to be an Iceland Cheeseburger Pizza though?!?
