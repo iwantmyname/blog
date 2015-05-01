@@ -6,6 +6,33 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Taking stock of our 2015 community involvement</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Being involved in the local community is vastly important to us, so this year we made a conscious decision to support more events that at least some of the iwantmyname team could actively participate in. Since we are already one-third of the way through 2015, I think it&amp;#39;s about time to take stock of what has been achieved so far and look at where we plan to go in the future.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;Startup Weekends loom large in our consciousness, and this year has been no exception. Organisers of &lt;a href=&quot;http://www.startupweekend.co.nz/&quot;&gt;Startup Weekends here in New Zealand&lt;/a&gt; have a busy schedule planned, and we&amp;#39;ve already been lucky enough to sponsor and participate in the recent Wellington event. Lenz and I put on our mentor hats, Kevin Ingersoll participated in a team, and Coco the domain dog lent moral support by snoozing blissfully throughout. So imagine our excitement when the judges announced that Kevin&amp;#39;s team had &lt;a href=&quot;https://twitter.com/iwantmynameNZ/status/587195037274005504&quot;&gt;scored a well-earned win&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;The thrills of Startup Weekend were soon followed by intellectual debate and thorough workshopping of the open source paradigm at the &lt;a href=&quot;http://opensourceopensociety.com/&quot;&gt;Open Source Open Society conference&lt;/a&gt;, held in conjunction with Github and Enspiral. We employ open source technologies and open thinking &lt;a href=&quot;https://iwantmyname.com/blog/2015/03/does-open-source-contribute-to-a-more-open-society.html&quot;&gt;throughout our business&lt;/a&gt;, so it seemed like the perfect event for us to be a part of. There was also a cool closing party with a funky, indie DJ on tap, so nobody wanted to leave—but that&amp;#39;s another story.&lt;/p&gt;
+
+&lt;p&gt;We also remain keen backers of the PHP Meetup and JavaScript Meetup in our city, and have been helping out with the R9 initiative, an experimental incubator aiming to solve important business problems in the government sector by using lean methodologies. Many of these events have our local tech business incubator &lt;a href=&quot;http://creativehq.co.nz/&quot;&gt;Creative HQ&lt;/a&gt; at their heart, so we&amp;#39;re more than thrilled to be announcing a strategic partnership.&lt;/p&gt;
+
+&lt;p&gt;From this week on, we will be shouting the beers at the highly popular &lt;a href=&quot;http://www.meetup.com/StartupGarage/&quot;&gt;Startup Garage&lt;/a&gt; Meetup. Each month, Creative HQ hosts an interesting speaker from the start-up world, many of whom bring wisdom from afar. Recent appearances have included SXSW organiser Shawn O&amp;#39;Keefe and President of Y Combinator, Sam Altman. &lt;/p&gt;
+
+&lt;p&gt;2015 is shaping up to be a big year for community involvement here at iwantmyname, and we&amp;#39;re excited to make further inroads in the local start-up ecosystem. If you see us around, come say hi! We&amp;#39;d love to chat. &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Photo Credit: &lt;a href=&quot;http://marktantrum.photoshelter.com/gallery-image/Startup-Weekend-Wellington-2015/G0000kh_BLuFtiHg/I0000cpYprJxO9W8/C00009qyVsLVsm0o&quot;&gt;Mark Tantrum Photography&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Thu, 30 Apr 2015 14:27:22 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/04/taking-stock-of-our-community-involvement.html</link>
+				<guid isPermaLink="false">/2015/04/taking-stock-of-our-community-involvement.html</guid>
+			</item>
+		
+			<item>
 				<title>Making customer support sustainable with a small team based on a tiny island</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -379,29 +406,6 @@
 				<pubDate>Wed, 01 Apr 2015 20:08:28 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/04/can-non-devs-be-part-of-the-open-source-community.html</link>
 				<guid isPermaLink="false">/2015/04/can-non-devs-be-part-of-the-open-source-community.html</guid>
-			</item>
-		
-			<item>
-				<title>Does open source contribute to a more open society?</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Many companies say they love open source, but what does that actually mean? Does it mean they use a lot of software other people have written? Does it mean they like that they don&amp;#39;t have to pay for things? Or do they understand that &lt;em&gt;loving open source&lt;/em&gt; also means contributing back to the community the code came from?&lt;/p&gt;
-
-&lt;p&gt;Let&amp;#39;s start again. We at iwantmyname love open source! And when I say we love open source, I mean that we&amp;#39;re always trying to work and live up to its ethos—to continuously share the things we learn, and to approach challenges with facts instead of emotion. Open-source development is all about learning and developing in the open, with people we may never meet in real life—it doesn&amp;#39;t matter to any of us what we look like, who we are, what our gender is, our race, religious beliefs, or sexual preference. It&amp;#39;s all irrelevant. The only thing that matters is how we can work together to make projects awesome.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Having lived in this environment for many years, I&amp;#39;ve started to apply this same thinking to other parts of my life. With less time these days to contribute to actual code, I make efforts to talk at conferences and user groups, and, even more importantly, to grab coffee with people who ask for feedback (or are willing to give feedback) on ideas, architectures, and random happenings. The open source community I&amp;#39;m in has become a very real community, where the people I know can discuss, in the open, critical business-related things without fear.&lt;/p&gt;
-
-&lt;p&gt;But why the trust? Well, open source also teaches ethics—to be able to work and share with a loose team of contributors. You need a level of trust to have someone you&amp;#39;ve never met in person contribute code to a project, and you need the right thought technology in place to create the expectation of not breaching that trust. If that trust is breached, projects get forked, communities split up, and egos clash until everyone gets back to the hard facts and finds new ways of implementation.&lt;/p&gt;
-
-&lt;p&gt;At iwantmyname, we not only use open source technologies at the heart of our business, but we also strive to support the cultivation of a community based on the ethics of open-source. We actively do this by working closely with local tech incubators, hosting like-minded user groups and meetups, and sponsoring innovative events like the upcoming &lt;a href=&quot;http://www.opensourceopensociety.com&quot;&gt;OS//OS 2015&lt;/a&gt; conference here in Wellington, which is very much aligned with our core values.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s exciting to be part of a brand that makes such a large impact relative to our size, and I love that we&amp;#39;ve been given the opportunity to be so deeply embedded in what&amp;#39;s going on in New Zealand and the rest of the world.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 31 Mar 2015 15:33:41 -0700</pubDate>
-				<link>https://iwantmyname.com/blog/2015/03/does-open-source-contribute-to-a-more-open-society.html</link>
-				<guid isPermaLink="false">/2015/03/does-open-source-contribute-to-a-more-open-society.html</guid>
 			</item>
 		
 	</channel>
