@@ -16,38 +16,38 @@ What's not quite as intuitive though is the domain setup. We pride ourselves in 
 
 ***
 
-Get started with Squarespace by clicking **Get Started** on the [Squarespace homepage](http://squarespace.com), choosing a template, then clicking the **Start With This Design** button. There are a couple quick questions you can answer after that , or you can skip them for now. 
+**1.** Get started with Squarespace by clicking **Get Started** on the [Squarespace homepage](http://squarespace.com), choosing a template, then clicking the **Start With This Design** button. There are a couple quick questions you can answer after that, or you can skip them for now. 
 
 ![Squarespace home]({{ site.images_url }}/2015-05-11-squarespace-home.jpg)
 
-From Squarespace's side navigation, click **Settings** > **Domains** > **Connect a Third-Party Domain**
+**2.** From Squarespace's side navigation, click **Settings** > **Domains** > **Connect a Third-Party Domain**
 
 ![Settings]({{ site.images_url }}/2015-05-11-squarespace-settings.jpg)
 
-Enter your domain name in the Domain Name field provided.
+**3.** Enter your domain name in the Domain Name field provided.
 
 ![Add domain]({{ site.images_url }}/2015-05-11-squarespace-domain-iwantmyblog.jpg)
 
-Select **iwantmyname** from the Domain Provider dropdown list. Click **Connect Domain**.
+**4.** Select **iwantmyname** from the Domain Provider dropdown list. Click **Connect Domain**.
 
 ![Dropdown iwantmyname]({{ site.images_url }}/2015-05-11-squarespace-select-iwantmyname.jpg)
 
-Squarespace is now linking your domain. Click **okay**. 
+**5.** Squarespace is now linking your domain. Click **okay**. 
 
 ![Click okay]({{ site.images_url }}/2015-05-11-squarespace-in-progress.jpg)
 
-Copy that long string of letters and numbers listed first under the Host column (it'll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you'll add in the iwantmyname dashboard. 
+**6.** Copy that long string of letters and numbers listed first under the Host column (it'll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you'll add in the iwantmyname dashboard. 
 
 ![Copy string]({{ site.images_url }}/2015-05-11-squarespace-host.jpg)
 
-Open a new window and log into your iwantmyname account and head to the [Squarespace app setup page](https://iwantmyname.com/dashboard/apps/setup/Squarespace/). Click Add Squarespace. 
+**7.** Open a new window and log into your iwantmyname account and head to the [Squarespace app setup page](https://iwantmyname.com/dashboard/apps/setup/Squarespace/). Click Add Squarespace. 
 
-Since you've already signed up for squarespace, so now add the verification code to the 'Unique verification code' input. Then click **Install Squarespace**.
+**8.**Since you've already signed up for squarespace, so now add the verification code to the 'Unique verification code' input. Then click **Install Squarespace**.
 
 ![Unique Code]({{ site.images_url }}/2015-05-11-squarespace-unique-ver.jpg)
 
-Back on your Squarespace window, if you click **Refresh**, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don't be alarmed if things don't look correct right away. Just jump to the next step.
+**9.** Back on your Squarespace window, if you click **Refresh**, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don't be alarmed if things don't look correct right away. Just jump to the next step.
 
 ![Correct]({{ site.images_url }}/2015-05-11-squarespace-correct.jpg)
 
-Start building your Squarespace site!
+**10.** Start building your Squarespace site!
