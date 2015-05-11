@@ -6,7 +6,14 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{{ page.title }}</title>
 
-	<link rel="canonical" href="{{ site.baseurl }}{{ page.url | replace: '/index.html', '/' }}">
+	{% if page.redirect_to %}
+		<link rel="canonical" href="{{ page.redirect_to }}">
+		<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">
+		<script>window.location.replace({{ page.redirect_to | jsonify }})</script>
+	{% else %}
+		<link rel="canonical" href="{{ site.baseurl }}{{ page.url | replace: '/index.html', '/' }}">
+	{% endif %}
+
 	{% include favicon.html %}
 	{% include open-graph-meta.html %}
 
