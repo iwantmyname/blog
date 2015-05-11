@@ -42,7 +42,7 @@ What's not quite as intuitive though is the domain setup. We pride ourselves in 
 
 **7.** Open a new window and log into your iwantmyname account and head to the [Squarespace app setup page](https://iwantmyname.com/dashboard/apps/setup/Squarespace/). Click Add Squarespace. 
 
-**8.**Since you've already signed up for squarespace, so now add the verification code to the 'Unique verification code' input. Then click **Install Squarespace**.
+**8.**You've already signed up for squarespace, so now add the verification code to the 'Unique verification code' input. Then click **Install Squarespace**.
 
 ![Unique Code]({{ site.images_url }}/2015-05-11-squarespace-unique-ver.jpg)
 
@@ -50,4 +50,4 @@ What's not quite as intuitive though is the domain setup. We pride ourselves in 
 
 ![Correct]({{ site.images_url }}/2015-05-11-squarespace-correct.jpg)
 
-**10.** Start building your Squarespace site!
+**10.** You're all done! Have fun building your Squarespace site!
