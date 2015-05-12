@@ -17,41 +17,58 @@
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Get started with Squarespace by clicking &lt;strong&gt;Get Started&lt;/strong&gt; on the &lt;a href=&quot;http://squarespace.com&quot;&gt;Squarespace homepage&lt;/a&gt;, choosing a template, then clicking the &lt;strong&gt;Start With This Design&lt;/strong&gt; button. There are a couple quick questions you can answer after that, or you can skip them for now. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get started with Squarespace by clicking &lt;strong&gt;Get Started&lt;/strong&gt; on the &lt;a href=&quot;http://squarespace.com&quot;&gt;Squarespace homepage&lt;/a&gt;, choosing a template, then clicking the &lt;strong&gt;Start With This Design&lt;/strong&gt; button. There are a couple quick questions you can answer after that, or you can skip them for now. &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-home.jpg&quot; alt=&quot;Squarespace home&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; From Squarespace&amp;#39;s side navigation, click &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Domains&lt;/strong&gt; &amp;gt; &lt;strong&gt;Connect a Third-Party Domain&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From Squarespace&amp;#39;s side navigation, click &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Domains&lt;/strong&gt; &amp;gt; &lt;strong&gt;Connect a Third-Party Domain&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-settings.jpg&quot; alt=&quot;Settings&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Enter your domain name in the Domain Name field provided.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enter your domain name in the Domain Name field provided.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-domain-iwantmyblog.jpg&quot; alt=&quot;Add domain&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Select &lt;strong&gt;iwantmyname&lt;/strong&gt; from the Domain Provider dropdown list. Click &lt;strong&gt;Connect Domain&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Select &lt;strong&gt;iwantmyname&lt;/strong&gt; from the Domain Provider dropdown list. Click &lt;strong&gt;Connect Domain&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-select-iwantmyname.jpg&quot; alt=&quot;Dropdown iwantmyname&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Squarespace is now linking your domain. Click &lt;strong&gt;okay&lt;/strong&gt;. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Squarespace is now linking your domain. Click &lt;strong&gt;okay&lt;/strong&gt;. &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-in-progress.jpg&quot; alt=&quot;Click okay&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;6.&lt;/strong&gt; Copy that long string of letters and numbers listed first under the Host column (it&amp;#39;ll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you&amp;#39;ll add in the iwantmyname dashboard. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Copy that long string of letters and numbers listed first under the Host column (it&amp;#39;ll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you&amp;#39;ll add in the iwantmyname dashboard. &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-host.jpg&quot; alt=&quot;Copy string&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;7.&lt;/strong&gt; Open a new window and log into your iwantmyname account and head to the &lt;a href=&quot;https://iwantmyname.com/dashboard/apps/setup/Squarespace/&quot;&gt;Squarespace app setup page&lt;/a&gt;. Click Add Squarespace. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;8.&lt;/strong&gt;You&amp;#39;ve already signed up for squarespace, so now add the verification code to the &amp;#39;Unique verification code&amp;#39; input. Then click &lt;strong&gt;Install Squarespace&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Open a new window and log into your iwantmyname account, then head to the &lt;a href=&quot;https://iwantmyname.com/dashboard/apps/setup/Squarespace/&quot;&gt;Squarespace app setup page&lt;/a&gt;. Click Add Squarespace. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You&amp;#39;ve already signed up for squarespace, so now add the verification code to the &amp;#39;Unique verification code&amp;#39; input. Then click &lt;strong&gt;Install Squarespace&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-unique-ver.jpg&quot; alt=&quot;Unique Code&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;9.&lt;/strong&gt; Back on your Squarespace window, if you click &lt;strong&gt;Refresh&lt;/strong&gt;, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don&amp;#39;t be alarmed if things don&amp;#39;t look correct right away. Just jump to the next step.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Back on your Squarespace window, if you click &lt;strong&gt;Refresh&lt;/strong&gt;, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don&amp;#39;t be alarmed if things don&amp;#39;t look correct right away. Just jump to the next step.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-correct.jpg&quot; alt=&quot;Correct&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;10.&lt;/strong&gt; You&amp;#39;re all done! Have fun building your Squarespace site!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You&amp;#39;re all done! Have fun building your Squarespace site!&lt;/li&gt;
+&lt;/ol&gt;
 </description>
 				<pubDate>Mon, 11 May 2015 15:48:53 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</link>
