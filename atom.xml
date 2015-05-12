@@ -6,6 +6,59 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The guide to adding Squarespace to your iwantmyname domain</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&quot;&gt;Squarespace&lt;/a&gt; is an amazing, all-in-one site builder that makes top-end web design accessible to everyone. Seriously, with no skill going in, you&amp;#39;ll be able to build sites, stores, photo galleries, and blogs in minutes. It&amp;#39;s that intuitive. &lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;s not quite as intuitive though is the domain setup. We pride ourselves in providing one-click installs to a ton of platforms, but sometimes there&amp;#39;s an extra step involved that can turn that one click into a bunch of clicks. Have no fear though, with this short guide, you&amp;#39;ll have your domain working with your Squarespace site in no time. &lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Get started with Squarespace by clicking &lt;strong&gt;Get Started&lt;/strong&gt; on the &lt;a href=&quot;http://squarespace.com&quot;&gt;Squarespace homepage&lt;/a&gt;, choosing a template, then clicking the &lt;strong&gt;Start With This Design&lt;/strong&gt; button. There are a couple quick questions you can answer after that, or you can skip them for now. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-home.jpg&quot; alt=&quot;Squarespace home&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; From Squarespace&amp;#39;s side navigation, click &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Domains&lt;/strong&gt; &amp;gt; &lt;strong&gt;Connect a Third-Party Domain&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-settings.jpg&quot; alt=&quot;Settings&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Enter your domain name in the Domain Name field provided.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-domain-iwantmyblog.jpg&quot; alt=&quot;Add domain&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Select &lt;strong&gt;iwantmyname&lt;/strong&gt; from the Domain Provider dropdown list. Click &lt;strong&gt;Connect Domain&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-select-iwantmyname.jpg&quot; alt=&quot;Dropdown iwantmyname&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Squarespace is now linking your domain. Click &lt;strong&gt;okay&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-in-progress.jpg&quot; alt=&quot;Click okay&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6.&lt;/strong&gt; Copy that long string of letters and numbers listed first under the Host column (it&amp;#39;ll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you&amp;#39;ll add in the iwantmyname dashboard. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-host.jpg&quot; alt=&quot;Copy string&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7.&lt;/strong&gt; Open a new window and log into your iwantmyname account and head to the &lt;a href=&quot;https://iwantmyname.com/dashboard/apps/setup/Squarespace/&quot;&gt;Squarespace app setup page&lt;/a&gt;. Click Add Squarespace. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8.&lt;/strong&gt;You&amp;#39;ve already signed up for squarespace, so now add the verification code to the &amp;#39;Unique verification code&amp;#39; input. Then click &lt;strong&gt;Install Squarespace&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-unique-ver.jpg&quot; alt=&quot;Unique Code&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9.&lt;/strong&gt; Back on your Squarespace window, if you click &lt;strong&gt;Refresh&lt;/strong&gt;, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don&amp;#39;t be alarmed if things don&amp;#39;t look correct right away. Just jump to the next step.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-correct.jpg&quot; alt=&quot;Correct&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10.&lt;/strong&gt; You&amp;#39;re all done! Have fun building your Squarespace site!&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 May 2015 15:48:53 -0700</pubDate>
+				<link>https://iwantmyname.com/blog/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</link>
+				<guid isPermaLink="false">/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</guid>
+			</item>
+		
+			<item>
 				<title>Taking stock of our 2015 community involvement</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -374,38 +427,6 @@
 				<pubDate>Wed, 15 Apr 2015 11:34:36 -0700</pubDate>
 				<link>https://iwantmyname.com/blog/2015/04/the-nearly-foolproof-three-step-test-for-determining-the-quality-of-a-website.html</link>
 				<guid isPermaLink="false">/2015/04/the-nearly-foolproof-three-step-test-for-determining-the-quality-of-a-website.html</guid>
-			</item>
-		
-			<item>
-				<title>Can non-devs be part of the open source community?</title>
-				<description>&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=9307255&quot;&gt;From thomk - Hacker News:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Ask HN: How do technical non-developers help with open source projects?&lt;/p&gt;
-
-&lt;p&gt;I used to code for a living but decided that I enjoy being a technical writer and PM much, much more. Things I enjoy:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Writing detailed functional specifications.&lt;/li&gt;
-&lt;li&gt;Creating wireframes &amp;amp; mockups.&lt;/li&gt;
-&lt;li&gt;Creating flowcharts, BPMN docs &amp;amp; graphs to explain a project.&lt;/li&gt;
-&lt;li&gt;Planning Poker, Creating sprints.&lt;/li&gt;
-&lt;li&gt;Discussing technical issues with developers.&lt;/li&gt;
-&lt;li&gt;Simplifying technical issues for customers.&lt;/li&gt;
-&lt;li&gt;Learning about new technologies.&lt;/li&gt;
-&lt;li&gt;Explaining new technology to customers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My question is; Is there a need for someone like me in any open source projects and if so, how do I contribute?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As Lenz &lt;a href=&quot;https://iwantmyname.com/blog/2015/03/does-open-source-contribute-to-a-more-open-society.html&quot;&gt;recently wrote&lt;/a&gt;, &amp;quot;At iwantmyname, we not only use open-source technologies at the heart of our business, but we also strive to support the cultivation of a community based on the ethics of open source.&amp;quot; But as a non-developer, truly understanding what open source stands for is a hard thing to grasp. Writers, designers, and project managers can make educated guesses, but getting non-devs involved in the world of open source can only mean good things and more well-rounded ideas for the community. &lt;/p&gt;
-
-&lt;p&gt;In short, questions like the Hacker News thread above are definitely a step in the right direction. &lt;/p&gt;
-</description>
-				<pubDate>Wed, 01 Apr 2015 20:08:28 -0700</pubDate>
-				<link>https://iwantmyname.com/blog/2015/04/can-non-devs-be-part-of-the-open-source-community.html</link>
-				<guid isPermaLink="false">/2015/04/can-non-devs-be-part-of-the-open-source-community.html</guid>
 			</item>
 		
 	</channel>
