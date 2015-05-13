@@ -5,8 +5,6 @@ author: Chris
 title: Making customer support sustainable with a small team based on a tiny island
 header_image: 2015-04-30-small-island.jpg
 
-redirect_to: https://iwantmyname.com/blog/2015/04/making-customer-support-sustainable-with-a-small-team-based-on-a-tiny-island.html
-
 ---
 
 <!-- excerpt -->
