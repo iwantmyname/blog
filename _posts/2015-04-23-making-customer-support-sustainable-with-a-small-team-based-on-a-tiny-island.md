@@ -19,7 +19,7 @@ The second challenge is the clock. Most of the iwantmyname team is in New Zealan
 
 The Web is an instant answer world without any face-to-face dialogue, which strips a lot of the humanity out of the process. And we all fall into it—if my website breaks, I expect instant answers, but if my car breaks, I know I have to set an appointment during business hours. It's all about setting expectations, and that's one of the hardest things for businesses to do.
 
-<iframe src="//giphy.com/embed/j62Hmj6SMpJV6?html5=true" width="480" height="269" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+{% include iframe.html url="https://giphy.com/embed/j62Hmj6SMpJV6?html5=true" %}
 
 To handle the support load, companies can go a few different directions. As I stated before, they can stock up a support team or outsource all the support to a third party, but that's expensive, impersonal, and honestly, a little underwhelming in the experience department. Sure, there are a lot of quick Q&A type issues that can be handled quickly by anyone with basic knowledge of the domain industry, but if you have a real problem, you want real solutions. Nothing is more aggravating than dealing with a support layer that clearly won't be able to solve your problem.
 
