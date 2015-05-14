@@ -10,7 +10,7 @@ search:
 
 <!-- excerpt -->
 
-Designers. Friends. Frienemies. For too long you've been using domain names like fullnamedesign.com (or the slightly more mysterious *lastname*design.com) to show off your online portfolios. So many letters! So much waste! Before you spend one more day fiddling around with this madness, let's get down to clearly identifying the problem you probably don't even know you're facing, and how we can fix it. Together.
+Designers. Friends. Frienemies. For too long you've been using domain names like fullnamedesign.com (or the slightly more mysterious *lastname*design.com) to show off your online portfolios. So many letters! So much waste! Before you spend one more day fiddling around with this madness, let's get down to clearly identifying the problem you probably don't even know you're facing. Then let's fix it. Together.
 
 <!-- /excerpt -->
 
