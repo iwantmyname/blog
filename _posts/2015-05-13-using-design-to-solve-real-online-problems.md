@@ -25,3 +25,7 @@ So how do we fix this? Just nix the word "design" before the dot and go with the
 And from May 18-31, we're dropping the price of .DESIGN from $69 USD to $39 USD. That's less than some people spend over the summer on a week of morning cold brews (coffee, not beer... although morning beer is delicious).
 
 Let's make this happen, designers. Your domain names are all cluttered with excess and it's giving people anxiety attacks.
+
+***
+
+Photo Credit: [Mathieu Cheviron](https://www.flickr.com/photos/mcinteractivity/13033013324/in/photolist-kRFANh-dqgU8-2Svg1v-LQmKM-MCB3v-6zJagD-6VJvq6-LQb3m-dqgYt-dqgTf-6Hswze-8QRqEW-8QRqx1-8QNkxa-dqgYM-MCtyw-MCtyh-MCtxC-MCtwf-diMYjG-6CEyhw-p5Z936-93Q4XY-6ZJQ9A-6ZEPC4-4ZwPqo-6HwzC1-oNua8R-4ZsACT-LQkwt-6HwzzC-6HwzyU-6zJ62p-2Svf9z-dqgTP-oNuiLd-p5HNRr-p5Z6HM-p5HNkB-p5HMZg-au4v3X-cg3Kj5-dqgUs-p5HT1P-2SveHg-dqgQ5-MCB66-6ZEPUg-MCtBL-dqgNG)
