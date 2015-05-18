@@ -4,6 +4,7 @@
 		<div class="col-md-8">
 			{{ with paginator . }}
 				{{ range .Pages }}
+					<!-- .Content appears to already be processed :( -->
 					{{ template "post-preview" }}
 
 					<!-- TODO: don't show for last item in range -->

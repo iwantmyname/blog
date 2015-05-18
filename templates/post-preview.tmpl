@@ -14,9 +14,12 @@
 		<p><a href="{{ .Url }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.header_image }}" class="imgix-fluid" alt="{{ .Title }}" title="{{ .Title }}"></a></p>
 	{{ end }}
 
-	{{ if not (isset .Other "excerpt") }}
+	<!-- check excerpt -->
+	{{ if and (isset .Other "excerpt") (not .Other.excerpt) }}
+		<!-- no excerpt -->
 		{{ .Content }}
 	{{ else }}
+		<!-- has excerpt -->
 		{{ template "excerpt" }}
 		<p class="read-more">
 			<a href="{{ .Url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
