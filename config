@@ -16,14 +16,12 @@ pages/*.page: posts/*/*/*.md
 	ext .html
 	directorify
 	template archive
-	markdown
 	template page
 	template base
 
 pages/1.page: pages/*.page
 	rename ../index.html
 	template archive
-	markdown
 	template page
 	template base
 
