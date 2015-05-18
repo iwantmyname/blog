@@ -4,7 +4,7 @@ author: Chris
 title: "It's Time To .CLaim A Chilean Domain"
 ----
 
-![Chile]({{ site.images_url }}/2013-09-19-4130990745_b3182f920a_z.jpg)
+![Chile](/media/2013-09-19-4130990745_b3182f920a_z.jpg)
 
 <!-- excerpt -->
 

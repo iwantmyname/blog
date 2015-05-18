@@ -4,7 +4,7 @@ author: Paul
 title: Southware As A Service
 ----
 
-![yep]({{ site.images_url }}/2011-10-04-yep.jpg)
+![yep](/media/2011-10-04-yep.jpg)
 
 This month's featured website is [Codecraft](http://codecraft.org.nz/), a group that has become a focus point for happenings in the software innovation scene around Dunedin. Codecraft is part of an active information technology [community](http://archived.link/http://codecraft.org.nz/?q=node/8) in the region and is based at Otago University's [Centre for Innovation](http://www.otago.ac.nz/centreforinnovation/).
 

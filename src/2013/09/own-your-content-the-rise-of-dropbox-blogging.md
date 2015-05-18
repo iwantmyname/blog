@@ -4,7 +4,7 @@ author: Chris
 title: "Own Your Content: The Rise Of Dropbox Blogging"
 ----
 
-![dropbox-logos_dropbox-logotype-blue.jpg]({{ site.images_url }}/2013-09-24-dropbox-logos_dropbox-logotype-blue.jpg)
+![dropbox-logos_dropbox-logotype-blue.jpg](/media/2013-09-24-dropbox-logos_dropbox-logotype-blue.jpg)
 
 <!-- excerpt -->
 

@@ -4,7 +4,7 @@ author: Timo
 title: Register Your .SO Domains (Somalia) At iWantMyName
 ----
 
-![Screen shot 2011-03-30 at 19.26.32.png]({{ site.images_url }}/2011-03-31-Screen_shot_2011-03-30_at_19.26.32.png)
+![Screen shot 2011-03-30 at 19.26.32.png](/media/2011-03-31-Screen_shot_2011-03-30_at_19.26.32.png)
 
 As of April 1 you will be able to [purchase .SO domain names](https://iwantmyname.com/domains/so-somali-domain-name-registration-for-somalia), the official country code extension of Somalia at iWantMyName. The .SO web address is newly introduced and apart from being used in the African country it should also offer plenty of opportunities to register [cool domain hacks](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html). It is a completely unrestricted country code top-level domain meaning anybody can buy the Somali internet extension.
 

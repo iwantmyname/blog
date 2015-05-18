@@ -4,7 +4,7 @@ author: Paul
 title: Startup Weekend Science
 ----
 
-![swmega.jpg]({{ site.images_url }}/2011-08-30-swmega.jpg)
+![swmega.jpg](/media/2011-08-30-swmega.jpg)
 
 Test tube experiment. Assemble 300 keen young entrepreneurs in the same town as a world famous [tech conference](http://www.demo.com/), invite one of Silicon Valley's leading identities to speak and stir vigorously. Sounds like a recipe for success!
 

@@ -4,7 +4,7 @@ author: Paul
 title: uSnap.Us Snaps Up Startup Weekend Prize
 ----
 
-![usnap.png]({{ site.images_url }}/2011-11-07-usnap.png)
+![usnap.png](/media/2011-11-07-usnap.png)
 
 We had a huge amount of fun during Wellington Startup Weekend and were greatly pleased that we were able to contribute time and resources towards making it such a successful [community](https://iwantmyname.com/blog/2011/10/being-good-neighbours.html) event.
 

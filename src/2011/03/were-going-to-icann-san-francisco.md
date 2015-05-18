@@ -6,7 +6,7 @@ title: "We're Going To ICANN San Francisco"
 
  
 
-![svsf-logo-final-330x194-08feb11.png]({{ site.images_url }}/2011-03-11-svsf-logo-final-330x194-08feb11.png)
+![svsf-logo-final-330x194-08feb11.png](/media/2011-03-11-svsf-logo-final-330x194-08feb11.png)
 
  
 

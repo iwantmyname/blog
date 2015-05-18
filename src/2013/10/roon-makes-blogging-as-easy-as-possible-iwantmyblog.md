@@ -4,7 +4,7 @@ author: Chris
 title: Roon Makes Blogging As Easy As Possible #iwantmyblog
 ----
 
-![Roon Top]({{ site.images_url }}/2013-10-30-Screen_Shot_2013-10-29_at_13.39.27.png)
+![Roon Top](/media/2013-10-30-Screen_Shot_2013-10-29_at_13.39.27.png)
 
 ***
 
@@ -23,7 +23,7 @@ Less obvious is where to find your settings (hint: your image on the bottom left
 + There are no HTML/CSS customization options. Just a toggle between a serif/sans serif font, an input for an accent color and some bio entry tools. Before you start with Roon, get a good look at what the template looks like. It's clean, easy to read and responsive, but if you don't like it, maybe this platform isn't for you.
 + There's also a wonderful export button that lets you export your content if you ever choose to move platforms. Not that you should be looking to leave, but if you do, the Roon team sends you a nice folder with all your posts in Markdown file format. I kind of love that they do this.
 
-![Screen Shot 2013-10-29 at 14,07,56]({{ site.images_url }}/2013-10-30-giant.png)
+![Screen Shot 2013-10-29 at 14,07,56](/media/2013-10-30-giant.png)
 
 Additionally, there's an [iOS app](https://itunes.apple.com/app/id634949849) available for mobile posting, and it comes complete with all the tools available on the web app. If you get your hands on an iPad with an [Incase Origami](http://goincase.com/shop/incase-origami-workstation-for-ipad-2) and Apple keyboard, there's really no need here for a computer.
 

@@ -8,7 +8,7 @@ title: Domain Names Dominate Call To Action In Australian Football Grand Finals
 
 The study by ARI Registry Service revealed that domains were used as primary call to action in 32 vs. social media only 8 times:
 
-[![ari-infographics.png]({{ site.images_url }}/2012-10-12-ari-infographics.png)](http://www.ariservices.com/grand_final_marketing-infographic.php)
+[![ari-infographics.png](/media/2012-10-12-ari-infographics.png)](http://www.ariservices.com/grand_final_marketing-infographic.php)
 
 A further strong indicator that social media is only a complementing tool for engaging with customers but owning your web address is still the best way to advertise your brand.
 

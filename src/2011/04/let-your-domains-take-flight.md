@@ -4,7 +4,7 @@ author: Timo
 title: Let Your Domains Take Flight
 ----
 
-[![a red dart against a blue canvas]({{ site.images_url }}/2011-04-18-608161288_31d19e6708_m.jpg)](http://www.flickr.com/photos/73584213@N00/608161288)
+[![a red dart against a blue canvas](/media/2011-04-18-608161288_31d19e6708_m.jpg)](http://www.flickr.com/photos/73584213@N00/608161288)
 
 Image by [monkeyc.net](http://www.flickr.com/photos/73584213@N00/608161288) via Flickr
 Hugely successful media, travel and entertainment group Virgin operates literally [dozens of companies](http://www.virgin.com/company/), but obviously there can only be one Virgin. So how did the they solve the problem of finding unique domain names for the multitude of businesses and markets the company was engaged in?

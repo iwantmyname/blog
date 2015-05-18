@@ -4,7 +4,7 @@ author: Chris
 title: An Easier Way To Migrate Your Email Accounts
 ----
 
-![YippieMove]({{ site.images_url }}/2013-10-29-logo.png)
+![YippieMove](/media/2013-10-29-logo.png)
 
 <!-- excerpt -->
 

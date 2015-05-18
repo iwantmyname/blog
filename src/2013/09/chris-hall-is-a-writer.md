@@ -4,7 +4,7 @@ author: Timo
 title: Chris Hall Is A Writer
 ----
 
-![Chris Pic]({{ site.images_url }}/2013-09-18-IMG_3643.jpg)
+![Chris Pic](/media/2013-09-18-IMG_3643.jpg)
 
 A writer? Why does iwantmyname need a writer?
 

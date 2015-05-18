@@ -14,7 +14,7 @@ For example, a movement called the "Good for Nothing Challenge" started recently
 
 ###Cambodia Shows True Grit
 
-![grit-cambodia.png]({{ site.images_url }}/2013-03-06-grit-cambodia.png)
+![grit-cambodia.png](/media/2013-03-06-grit-cambodia.png)
 
 Cambodia is a nation with a predominantly young population emerging bravely from a difficult history and now facing many developmental challenges. In April, Lenz and Manu from the [iwantmyname team](https://iwantmyname.com/about) will fly to Cambodia and work on Grit, a program that gives tablets to kids in very poor areas to improve the quality of learning in an environment that currently has too few teachers and too large class sizes to efficiently teach young kids. We will work with the Kampuchean Action for Primary Education (KAPE) to help roll out Grit in a larger field trial and work on Grit itself to improve the quality of the application and align it with international education standards. We are excited to be in a position where we can begin supporting the GFN Challenge and other similar projects down the track.
 

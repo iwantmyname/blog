@@ -4,7 +4,7 @@ author: Timo
 title: Move Aside .LY, Here Come The .GY Domain Hacks
 ----
 
-![Flag Guyana Domain Name]({{ site.images_url }}/2011-06-13-Guyana-Flag-128.png)
+![Flag Guyana Domain Name](/media/2011-06-13-Guyana-Flag-128.png)
 
 .LY, the Lybian domain extension which is popular (but not uncontroversial) among startups is getting domain hack competition from the South American country of Guyana.
 

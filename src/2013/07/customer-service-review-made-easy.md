@@ -8,7 +8,7 @@ We pride ourselves in excellent customer support and have recently started track
 
 After four weeks of receiving votes, here's the verdict from iwantmyname customers:
 
-[![iwantmyname-customer-support.png]({{ site.images_url }}/2013-07-24-iwantmyname-customer-support.png)](http://public.nicereply.com/iwantmyname)
+[![iwantmyname-customer-support.png](/media/2013-07-24-iwantmyname-customer-support.png)](http://public.nicereply.com/iwantmyname)
 
 This metric part of a public profile page (see our [iwantmyname results](http://public.nicereply.com/iwantmyname)) where you can publish any comments left by your customers. If you don't include [testimonials or reviews](https://iwantmyname.com/about) on your website, it's an easy way to show prospects what to expect.
 

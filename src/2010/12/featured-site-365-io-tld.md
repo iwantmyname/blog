@@ -6,7 +6,7 @@ title: "Featured Site: 365.io"
 
 iWantMyName featured site: [365.io](http://365.io)
 
-[![screenshot-365.jpg]({{ site.images_url }}/2010-12-23-screenshot-365.jpg)](http://365.io)
+[![screenshot-365.jpg](/media/2010-12-23-screenshot-365.jpg)](http://365.io)
 
 [365.io](http://365.io) is a simple photo platform that lets you upload one image each day. Over the course of a year you will get a collection of memories which can be shared with your friends or you simply keep them for yourself.
 

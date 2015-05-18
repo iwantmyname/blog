@@ -4,7 +4,7 @@ author: Timo
 title: 10 Pumpkin-TASTIC October Domain Promotions
 ----
 
-![Pumpkin]({{ site.images_url }}/2010-10-01-Screen_shot_2010-09-30_at_13.29.31.png)
+![Pumpkin](/media/2010-10-01-Screen_shot_2010-09-30_at_13.29.31.png)
 
 Halloween is around the corner and we've got some great promotion deals for international, Asian, European & exotic domain extensions throughout the month of October 2010:
 

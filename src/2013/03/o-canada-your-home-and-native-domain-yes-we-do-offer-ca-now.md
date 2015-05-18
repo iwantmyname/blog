@@ -4,7 +4,7 @@ author: Timo
 title: O Canada! Your Home And Native Domain (yes we do offer the .CA web address now)
 ----
 
-![Canada Flag]({{ site.images_url }}/2013-03-29-Canada-Flag-256.png)
+![Canada Flag](/media/2013-03-29-Canada-Flag-256.png)
 
 It's been a long time in the making but we're very proud to introduce [the Canadian top-level domain .CA](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) at iwantmyname! It is now available for registration at an affordable $19 USD/yr.
 

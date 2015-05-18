@@ -6,7 +6,7 @@ title: The new domain extensions are here, with .GURU and .BIKE leading the way
 
 <!-- excerpt -->
 
-![Guru]({{ site.images_url }}/2014-02-06-guru.jpg)
+![Guru](/media/2014-02-06-guru.jpg)
 
 Chat log from this morning:
 

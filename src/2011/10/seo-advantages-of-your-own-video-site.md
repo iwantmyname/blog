@@ -24,13 +24,13 @@ Let's take a look at an example of how [Hackers and Founders](http://www.hackers
 
 Because their video site is set up at [hackersandfounders.tv](http://www.hackersandfounders.tv/) (which means their brand name is right there in the URL), if we [search for "Hackers and Founders" in Google](http://www.google.com/search?q=hackers+and+founders), right on the first page of results we see a video coming from their site:
 
-![Search Result]({{ site.images_url }}/2011-10-08-vidcaster-blog_post_3.rtfd.png)
+![Search Result](/media/2011-10-08-vidcaster-blog_post_3.rtfd.png)
 
 Not only is this the only video result shown on the page, but as an individual searching that brand name, I instantly know from the URL that this is official content coming directly from that brand &mdash; not user-generated content on a video-sharing site.
 
 If we click through, we are taken to a landing page on that site: 
 
-![hackersfounders.png]({{ site.images_url }}/2011-10-08-hackersfounders.png)
+![hackersfounders.png](/media/2011-10-08-hackersfounders.png)
 
 Note that all the related videos are videos from Hackers & Founders &mdash; there is no way that the viewer can get lost to someone else's video. Try doing that on a video-sharing site!
 

@@ -4,7 +4,7 @@ author: Paul
 title: "Where It's .AT"
 ----
 
-![austria]({{ site.images_url }}/2010-09-07-austria.png)
+![austria](/media/2010-09-07-austria.png)
 
 This month we launched a [promotion for the .AT domain](https://iwantmyname.co.nz/domains/at-austrian-domain-name-registration-for-austria). For only $19 you can score a nifty domain that can offer many permutations for word play and domain hacks, especially in English. The .AT domain of Austria also has some quirky facts behind it.
 

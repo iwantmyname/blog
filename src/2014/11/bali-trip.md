@@ -15,7 +15,7 @@ But sometimes you need some face-to-face time to make in-person connections. To 
 
 ***
 
-![monkeys]({{ site.images_url }}/2014-11-11-monkeys.JPG)
+![monkeys](/media/2014-11-11-monkeys.JPG)
 
 Bali, in case you don't know, is a little tropical island east of Jakarta in Indonesia. You've likely heard of it, but unless you live in the region you probably don't have a grasp of how dense its cities are. Here's a quick comparison:
 
@@ -24,13 +24,13 @@ Bali, in case you don't know, is a little tropical island east of Jakarta in Ind
 
 So in a fraction of the land area, Bali fits in basically the same amount of people as all of New Zealand. And you can tell right away, from the moment you race out of the airport. Sure, there are vast stretches of jungle and open space, but the cities we were in—Denpasar and Ubud—are decidedly urban. Everything is packed in tight, and just a few steps in any direction are cafes, art shops, clothing stores, spas, and markets. And the roads are filled with a type of traffic I'd never seen before—lanes are really just guidelines, a coordination of emergency blinkers and honks replace traditional turn signal use, and every inch of free road is filled by daring scooter drivers. For the uninitiated, driving in Bali is complete chaos (just don't do it), but with a cab or driver, it's really quite amazing. 
 
-![beach]({{ site.images_url }}/2014-11-11-bali-beach.JPG)
+![beach](/media/2014-11-11-bali-beach.JPG)
 
 Beyond the city cores though are a collection of magical little places. Grand rice terraces, an unforgettable monkey forest, spectacular beaches, giant cliffs, ancient temples, the works. The island can be anything you want it to be—an exotic urban destination with spicy food and endless shopping, or a relaxing paradise with countless amenities. And it's more affordable than you'd ever think—having the entire team come and stay in Bali for the week turned out to cost about the same as having everyone meet up in New Zealand.
 
 ***
 
-![Hubud Villa]({{ site.images_url }}/2014-11-11-hubud-villa.png)
+![Hubud Villa](/media/2014-11-11-hubud-villa.png)
 
 Because the main purpose of the trip was 2015 planning, we found a unique rental in Ubud, a city in the forest, around 30-45 minutes north of Denpasar and the beach. It was [a villa](http://www.hubud.org/hubud-villa/) owned by the [Hubud](http://www.hubud.org) CoWorking Space, a popular spot for all the area's brightest tech founders, designers, writers, and developers. But in Ubud, even the coworking spaces are a bit funky, as the typical working environment is augmented by an in-house vegan raw bar/coffee shop, outdoor beanbag seating, and tons of events and learning opportunities. (As well as conferences like [Startup Weekend Bali](http://www.up.co/communities/indonesia/bali/startup-weekend/4891), which we're happily sponsoring.)
 
@@ -44,7 +44,7 @@ So in 2015, we're going to work harder than ever to simplify domain registration
 
 ##Quick Bali tips
 
-![Seniman]({{ site.images_url }}/2014-11-11-bali-coffee.JPG)
+![Seniman](/media/2014-11-11-bali-coffee.JPG)
 
 1. If you're ever in Ubud searching for an excellent cup of coffee (I crave a solid pour-over in the morning), [Seniman Coffee](http://senimancoffee.com) is a great choice. The place is awesome for working or hanging out, the coffee and food are really good, and their cold brew is the best I had on the trip (there's nothing quite like a cold brew on a hot Bali day).
 2. Mexican food addiction is real (particularly *my* Mexican food addiction), and [Taco Casa](http://tacocasabali.com) is a fantastic option (they make their own tortillas).

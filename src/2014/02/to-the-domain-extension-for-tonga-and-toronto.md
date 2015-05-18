@@ -6,7 +6,7 @@ title: .TO, the domain extension for Tonga AND Toronto
 
 <!-- excerpt -->
 
-![Toronto]({{ site.images_url }}/2014-02-04-toronto.jpg)
+![Toronto](/media/2014-02-04-toronto.jpg)
 
 In addition to the [new gTLDs coming out this week](https://iwantmyname.com/blog/2014/02/7-new-domain-extensions-are-coming-this-week.html), we're happy to announce the availability of .TO on iwantmyname. .TO is the official [ccTLD](http://help.iwantmyname.com/customer/portal/articles/1425384-what-is-a-cctld-) of Tonga, but seems to be undergoing a renaissance of sorts. [From Michael Berkens of The Domains:](http://www.thedomains.com/2013/11/04/with-new-gtlds-coming-to-market-to-rebrands-itself-to-represent-toronto/)
 

@@ -4,7 +4,7 @@ author: Paul
 title: iWantMyName Sweetens App Marketplace
 ----
 
-![gummy.jpg]({{ site.images_url }}/2011-11-18-gummy.jpg)
+![gummy.jpg](/media/2011-11-18-gummy.jpg)
 
 The "appitization" of the Internet continues unabated as new and ever better [hosted services](https://iwantmyname.co.nz/services) continue to disrupt traditional business software models. Ensuring your business brand is secure within this new context remains a challenge within a jungle of service offerings. So we went on a mission to pick the ripest apps for you! 
 

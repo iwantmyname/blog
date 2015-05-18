@@ -8,7 +8,7 @@ We're excited to release a [new version of the iWantMyName domain search](https:
 
 With almost 100 different domain extensions on offer, the main focus has been on improving speed and more efficiently displaying the search results on a single page. We've also added several different optional display filters such as categories and domain availability:
 
-[![blog-new-domain-search.png]({{ site.images_url }}/2011-12-13-blog-new-domain-search.png)](https://iwantmyname.com/search)
+[![blog-new-domain-search.png](/media/2011-12-13-blog-new-domain-search.png)](https://iwantmyname.com/search)
 
 It's now also easier to search for [two-letter domain names](https://iwantmyname.com/short-domain-search) as we will only show TLDs supporting these little goodies.
 

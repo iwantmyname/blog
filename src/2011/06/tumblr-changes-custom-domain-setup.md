@@ -8,8 +8,8 @@ Blog hosting service Tumblr recently [released a new dashboard version](http://s
 
 Here's a quick tutorial on how you can domain customize your Tumblr web address in their new dashboard:
 
-![New Tumblr Dashboard Custom Domain Setup]({{ site.images_url }}/2011-06-28-new-tumblr-setup-small-1.png)
+![New Tumblr Dashboard Custom Domain Setup](/media/2011-06-28-new-tumblr-setup-small-1.png)
 
-![Change Your Tumblr URL]({{ site.images_url }}/2011-06-28-new-tumblr-setup-small-2.png)
+![Change Your Tumblr URL](/media/2011-06-28-new-tumblr-setup-small-2.png)
 
 Don't have your own custom domain yet? [Change your Tumblr URL in 3 simple steps today!](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url)

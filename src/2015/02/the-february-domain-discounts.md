@@ -6,7 +6,7 @@ title: The February domain discounts, including .CLUB, .CM, and .IO
 
 <!-- excerpt -->
 
-![Phil]({{ site.images_url }}/2015-02-06-groundhog.jpg)
+![Phil](/media/2015-02-06-groundhog.jpg)
 
 It's still summer in NZ, but with [Punxsutawney Phil](http://en.wikipedia.org/wiki/Punxsutawney_Phil) seeing his shadow in on Feb. 2, the US and Canada will have winter chills for at least six more weeks—and chilly bones deserve especially good domain discounts. So this month, .CLUB, one of our most popular new generic top-level domains (gTLDs), is on sale, and we're hoping to see a bunch of new clubs (Summer.club? Winter.club?) pop up all around the world. And if clubs aren't your thing, we have 12 other extensions set at great prices.
 

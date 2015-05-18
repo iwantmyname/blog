@@ -19,7 +19,7 @@ The main features of My.tel are:
 *   Manage privacy settings
 *   Add or remove keywords
 
-![dottel-domain-iphone-app.png]({{ site.images_url }}/2009-04-20-dottel-domain-iphone-app.png)
+![dottel-domain-iphone-app.png](/media/2009-04-20-dottel-domain-iphone-app.png)
 
 The app works pretty well and especially the map feature helps to share your current location with your friends. Imagine being at this cool party (we all know how difficult to find they can be sometimes) and you could tell your mates: "Just go to my .TEL domain if you want to come by".
 

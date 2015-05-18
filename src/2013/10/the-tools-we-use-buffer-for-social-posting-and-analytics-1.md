@@ -4,7 +4,7 @@ author: Chris
 title: "The Tools We Use: Buffer For Social Posting And Analytics"
 ----
 
-![logo-dark.jpg]({{ site.images_url }}/2013-10-26-logo-dark.jpg)
+![logo-dark.jpg](/media/2013-10-26-logo-dark.jpg)
 
 <!-- excerpt -->
 

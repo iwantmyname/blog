@@ -4,7 +4,7 @@ author: Paul
 title: Blackout Sheds Light On SOPA Madness
 ----
 
-![stop.png]({{ site.images_url }}/2012-01-18-stop.png)
+![stop.png](/media/2012-01-18-stop.png)
 
 Led by major Internet sites such as [Reddit](http://blog.reddit.com/2012/01/technical-examination-of-sopa-and.html) and [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), January 18th is now shaping up as a major online protest event aimed at raising public awareness regarding the highly controversial Stop Online Piracy (SOPA) bill that is before the U.S. congress at present. 
 

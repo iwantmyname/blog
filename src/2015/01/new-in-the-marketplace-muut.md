@@ -6,7 +6,7 @@ title: New in the Marketplace - Muut, a reimagined forum/commenting platform
 
 <!-- excerpt -->
 
-![Muut Action]({{ site.images_url }}/2015-01-28-muut-acion.gif)
+![Muut Action](/media/2015-01-28-muut-acion.gif)
 
 *Our [App Marketplace](https://iwantmyname.com/services) is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the New in the Marketplace blog series.*
 
@@ -24,7 +24,7 @@ Here’s a bit from the [Muut Manifesto](https://muut.com/manifesto/) (I always 
 >
 >We’re on an important mission. A proper forums and commenting system will increase traffic on any given website, and the audience will stay longer. There is no sane reason not to have forums or commenting on a website.
 
-![muut placement options]({{ site.images_url }}/2015-01-28-forum-placement.png)
+![muut placement options](/media/2015-01-28-forum-placement.png)
 
 In short, Muut is a clean, embeddable, customizable (no iframes), crawlable, responsive, realtime, worry-free conversation platform for your site. And best of all, you can [try it out](https://muut.com/pricing/) (for an unlimited amount of time, with unlimited bandwidth, users, and data… just a few limited features) for free.
 

@@ -4,7 +4,7 @@ author: Paul
 title: iwantmyname Scores International Gold In Domains Finale
 ----
 
-![gold.jpg]({{ site.images_url }}/2012-07-31-gold.jpg)
+![gold.jpg](/media/2012-07-31-gold.jpg)
 
 The focus of the sporting world might be on the medal count at the [London 2012 Olympics](http://www.london2012.com/) right now, but our customers are [telling us](https://iwantmyname.com/about) that we've already won a gold medal with our [new design](https://iwantmyname.com/blog/2012/07/the-new-iwantmyname.html). We love getting that kind of feedback. In the meantime...are your favorite athletes winning?
 

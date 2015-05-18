@@ -6,7 +6,7 @@ title: Celebrating 100,000 domains at iwantmyname!
 
 <!-- excerpt -->
 
-![iwantmyname growth]({{ site.images_url }}/2014-05-13-iwantmyname-growth.png)
+![iwantmyname growth](/media/2014-05-13-iwantmyname-growth.png)
 
 We're just a few months past our [5th birthday](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) now, and we're proud to announce that we've crossed a major milestone: 100,000 domains managed by iwantmyname.
 

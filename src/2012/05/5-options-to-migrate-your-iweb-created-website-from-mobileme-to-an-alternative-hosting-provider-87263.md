@@ -4,7 +4,7 @@ author: Timo
 title: 5 options to migrate your iWeb-created website from MobileMe to an alternative hosting provider
 ----
 
-![logo-mobileme.png]({{ site.images_url }}/2012-05-31-logo-mobileme.png)
+![logo-mobileme.png](/media/2012-05-31-logo-mobileme.png)
 
 The end of MobileMe as you know it is near! While most services such as email, contacts or calendars found their way into iCloud, Apple will discontinue their iWeb publishing service on June 30th, 2012. This means your website created in iWeb will no longer work on Apple's old MobileMe platform and it's high time to switch to another hosting option.
 
@@ -26,7 +26,7 @@ Here are some of our staff picks:
 
 More hosting options can be found in the [iWantMyName marketplace](https://iwantmyname.com/services):
 
-[![website-builder-apps.png]({{ site.images_url }}/2012-05-31-website-builder-apps.png)](https://iwantmyname.com/services)
+[![website-builder-apps.png](/media/2012-05-31-website-builder-apps.png)](https://iwantmyname.com/services)
 
 ### Option 2: pick a new hosting provider
 

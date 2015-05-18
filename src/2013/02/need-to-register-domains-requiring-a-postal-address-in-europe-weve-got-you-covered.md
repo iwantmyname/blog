@@ -4,7 +4,7 @@ author: Timo
 title: "Need To Register Domains Requiring A Postal Address In Europe? We've Got You Covered!"
 ----
 
-![europe-flag.jpg]({{ site.images_url }}/2013-02-15-europe-flag.jpg)
+![europe-flag.jpg](/media/2013-02-15-europe-flag.jpg)
 
 Almost 20 years after founding the European Union, one would think that it may also have had a profound impact on the country code top-level domains (ccTLDs) of its member states -- but the reality is looking somewhat different. In 2013 there are still quite a few restricted European top-level domains (TLDs) which require a local presence in the respective country.
 

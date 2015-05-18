@@ -4,7 +4,7 @@ author: Chris
 title: "A Few Of The Things We're Thankful For"
 ----
 
-![bigstock-Homemade-Delicious-Pumpkin-Pie-52098646.jpg]({{ site.images_url }}/2013-11-29-bigstock-Homemade-Delicious-Pumpkin-Pie-52098646.jpg)
+![bigstock-Homemade-Delicious-Pumpkin-Pie-52098646.jpg](/media/2013-11-29-bigstock-Homemade-Delicious-Pumpkin-Pie-52098646.jpg)
 
 <!-- excerpt -->
 

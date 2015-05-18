@@ -4,7 +4,7 @@ author: Paul
 title: Codemaniacs Of The World Unite
 ----
 
-![meetup.jpg]({{ site.images_url }}/2012-03-30-meetup.jpg)
+![meetup.jpg](/media/2012-03-30-meetup.jpg)
 
 [Codemania](http://codemania.co.nz/) was very likely the coolest
 tech conference to hit Auckland in a long time, so it was a pleasure

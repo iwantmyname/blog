@@ -18,7 +18,7 @@ And here we go with the first anwer. Enjoy!
 
 ### Part 1: How many top-level domain name extensions exist in total?
 
-![tld census]({{ site.images_url }}/2009-09-25-blogtld-census-480px.png)
+![tld census](/media/2009-09-25-blogtld-census-480px.png)
 
 Source: [ICANN Blog](http://blog.icann.org/2009/03/tld-census/)
 

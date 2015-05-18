@@ -10,10 +10,10 @@ Here's how youMust.me works:
 
 1. Share your personal URL youmust.me/yourusername with your friends and ask them what you must "do", "hear", "read" or "see".
 
-   ![youmust2.png]({{ site.images_url }}/2011-01-27-youmust2.png)
+   ![youmust2.png](/media/2011-01-27-youmust2.png)
 
 2. Get the results on your personal youMust.me homepage:
 
-   ![youmust1.png]({{ site.images_url }}/2011-01-27-youmust1.png)
+   ![youmust1.png](/media/2011-01-27-youmust1.png)
 
 Congrats to Zack for launching his site! Want to have your domain featured on our blog? Send me an email to [timo@iwantmyname.com](mailto:timo@iwantmyname.com).

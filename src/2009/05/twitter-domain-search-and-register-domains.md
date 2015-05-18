@@ -8,14 +8,14 @@ In addition to being [Apple geeks](https://iwantmyname.com/iphone), we're also b
 
 As of today you're able to **check domain name availability** by sending a direct message to the _@iwantmyname_ Twitter account. Just start following us, send "d iwantmyname thedomainyouwant.com" and we'll reply with the search result including a link to immediately register the domain:
 
-![twitter-domain-search.png]({{ site.images_url }}/2009-05-19-twitter-domain-search.png)
+![twitter-domain-search.png](/media/2009-05-19-twitter-domain-search.png)
 
 **Search for alternatives** if a domain is taken:
 
-![twitter-domain-search-taken.png]({{ site.images_url }}/2009-05-19-twitter-domain-search-taken.png)
+![twitter-domain-search-taken.png](/media/2009-05-19-twitter-domain-search-taken.png)
 
 Immediately **register the domain** if it's available:
 
- ![twitter-domain-search-free.png]({{ site.images_url }}/2009-05-19-twitter-domain-search-free.png)
+ ![twitter-domain-search-free.png](/media/2009-05-19-twitter-domain-search-free.png)
 
 So **whenever you think "I want my name"** just open the Twitter client of your choice and off you go!

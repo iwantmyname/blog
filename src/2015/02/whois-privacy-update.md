@@ -6,7 +6,7 @@ title: A big WHOIS privacy update
 
 <!-- excerpt -->
 
-![Superhero]({{ site.images_url }}/2015-02-17-superhero.jpg)
+![Superhero](/media/2015-02-17-superhero.jpg)
 
 Privacy is rightly a huge concern for many people, and we're actively updating our platform to keep as much of your information off the Internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is to use a WHOIS privacy service, which basically eliminates your domain registration information (name, address, phone number, etc.) from the WHOIS record altogether.
 

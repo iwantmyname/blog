@@ -19,6 +19,6 @@ We appreciate that some of you may not want this due to obvious privacy reasons 
 
 After enabling whois masking for one of your domains, you will still be the legal owner (registrant) and have access to all email addresses should you want to move to a different registrar.
 
-![Unprotected whois vs. protected whois entry]({{ site.images_url }}/2011-10-26-whois-masking.png)
+![Unprotected whois vs. protected whois entry](/media/2011-10-26-whois-masking.png)
 
 If you need more information, we've got a detailed [whois privacy FAQ](http://help.iwantmyname.com/customer/portal/articles/184425-do-you-offer-a-whois-privacy-service-) in our [knowledge base](http://help.iwantmyname.com).

@@ -4,7 +4,7 @@ author: Paul
 title: Happy Birthday dotFM
 ----
 
-![radiodj.jpg]({{ site.images_url }}/2012-04-30-radiodj.jpg)
+![radiodj.jpg](/media/2012-04-30-radiodj.jpg)
 
 Top level domains may be on the way soon, but the dotFM registry was amongst the first to promote a country code domain (ccTLD) for wider commercial use. Fifteen years along the track, our domain DJ charts the progress of this ground-breaking registry.
 

@@ -6,7 +6,7 @@ title: New in the Marketplace - Webflow, a drag-and-drop site builder for modern
 
 <!-- excerpt -->
 
-![Webflow gif]({{ site.images_url }}/2015-01-29-webflow-moving.gif)
+![Webflow gif](/media/2015-01-29-webflow-moving.gif)
 
 *Our [App Marketplace](https://iwantmyname.com/services) is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the "New in the Marketplace" blog series.*
 
@@ -24,6 +24,6 @@ Here’s what others are saying:
 
 [Forbes](http://www.forbes.com/sites/alextaub/2014/05/08/webflow-lets-designers-create-websites-without-learning-to-code/): "Webflow’s vision is to do the same thing for web design as tools like Blogger and WordPress did for personal publishing. Those tools completely took down technical barriers (previously you had to be a master of HTML and FTP to get your thoughts online) and opened up the world of publishing to orders of a magnitude of more people, and in the process transformed the web. Similarly, web design currently requires designers to be masters of HTML, CSS and JavaScript, but the change is inevitable and Webflow plans to lead the charge."
 
-![Webflow]({{ site.images_url }}/2015-01-29-webflow.jpg)
+![Webflow](/media/2015-01-29-webflow.jpg)
 
 If you’re a designer who knows what you want, but doesn’t have the time to get your hands too dirty in the dev world, [Webflow](https://webflow.com) just might be your next killer tool. Best of all, the platform has a free tier to get started on, and a ton (seriously, a lot) of short [tutorial videos](http://tutorials.webflow.com) to help you learn the platform. Give it a go, we think you'll like it.

@@ -16,7 +16,7 @@ As a user of [Squarespace](https://iwantmyname.com/features/applications/custom-
 
 The new version is being rolled out "today in a controlled public beta format", and after looking at the official page, there are a number of things I'm quite excited about.
 
-![Interface]({{ site.images_url }}/2014-10-08-squarespace-interface.jpg)
+![Interface](/media/2014-10-08-squarespace-interface.jpg)
 
 ##On-page editing
 
@@ -36,7 +36,7 @@ My hope though is that you won't have to use the free domain Squarespace provide
 
 ##New designs
 
-![Cover Pages]({{ site.images_url }}/2014-10-08-squarespace-cover-splash.jpg)
+![Cover Pages](/media/2014-10-08-squarespace-cover-splash.jpg)
 
 Switching from Squarespace 5 to Squarespace 6 was a pretty big leap, but the biggest change what the quality of the templates. Squarespace 7 doesn't quite have that big of a jump, but there are 15 new designs to choose from. And for personal branding sites, the new Cover Pages tool looks kind of awesome (although I don't know if I want to spend a hefty monthly fee to host a landing page).
 

@@ -4,7 +4,7 @@ author: Paul
 title: Amex Checks In To Four Square
 ----
 
-![mobi.png]({{ site.images_url }}/2011-06-23-mobi-thumb-150x150-112.png)
+![mobi.png](/media/2011-06-23-mobi-thumb-150x150-112.png)
 
 The [recently reported](https://foursquare.com/) deal between Four Square and American Express deepens the context of the connection between retailers and location based games and services and is another step towards fulfilling the promise of mobile commerce.
 

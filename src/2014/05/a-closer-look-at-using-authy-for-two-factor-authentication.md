@@ -42,17 +42,17 @@ I personally have Authy downloaded on iOS and Chrome, so I'll walk through what 
 
 **iOS**
 
-![setup iOS]({{ site.images_url }}/2014-05-02-authy-setup.png)
+![setup iOS](/media/2014-05-02-authy-setup.png)
 
 Once you download the app, you're shown a screen that lets you attach a phone number to your Authy app. Then, to verify that you are the owner of the phone number, you just follow the directions in the screen below.
 
-![verification iOS]({{ site.images_url }}/2014-05-02-authy-ver.png)
+![verification iOS](/media/2014-05-02-authy-ver.png)
 
 Now, when you add your number into a platform like iwantmyname, verifications and such will go to the correct device.
 
 **Chrome**
 
-![alt]({{ site.images_url }}/2014-05-02-authy-chrome.png)
+![alt](/media/2014-05-02-authy-chrome.png)
 
 Once you install Authy for Chrome, you're shown a similar screen as the iOS install that lets you enter your phone number. Just add it in, type in the code from the following text and you're good to go. 
 

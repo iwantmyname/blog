@@ -4,7 +4,7 @@ author: Timo
 title: "Tech Behind The Scenes: CouchDB Case Study"
 ----
 
-![Apache CouchDB logo]({{ site.images_url }}/2010-07-22-Couchdb-logo.png)
+![Apache CouchDB logo](/media/2010-07-22-Couchdb-logo.png)
 
 Thanks to our friends at [Couch.io](http://archived.link/http://couch.io) for publishing their case study about [CouchDB at iWantMyName](http://archived.link/http://www.couch.io/case-study-iwantmyname). We started using the [NoSQL database](http://couchdb.apache.org/) mainly for serving content but meanwhile switched nearly all site functionality from PostgreSQL to CouchDB.
 

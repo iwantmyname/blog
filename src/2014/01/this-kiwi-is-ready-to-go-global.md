@@ -4,7 +4,7 @@ author: Chris
 title: This .KIWI is ready to go global
 ----
 
-![bigstock-Kiwi-Crossing-road-sign-and-vo-35099339.jpg]({{ site.images_url }}/2014-01-14-bigstock-Kiwi-Crossing-road-sign-and-vo-35099339.jpg)
+![bigstock-Kiwi-Crossing-road-sign-and-vo-35099339.jpg](/media/2014-01-14-bigstock-Kiwi-Crossing-road-sign-and-vo-35099339.jpg)
 
 <!-- excerpt -->
 

@@ -4,7 +4,7 @@ author: Chris
 title: Ghost Is Open To The Public. Announces A $5,000 Theming Competition.
 ----
 
-![Ghost Trio]({{ site.images_url }}/2013-10-15-b193f8cb64ed847dedcb99f743531028_large.jpg)
+![Ghost Trio](/media/2013-10-15-b193f8cb64ed847dedcb99f743531028_large.jpg)
 
 From [Ghost](http://blog.ghost.org/public-launch/):
 

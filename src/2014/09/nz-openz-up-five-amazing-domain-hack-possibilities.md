@@ -5,7 +5,7 @@ title: .NZ ope.nz up 5 amazing domain hack possibilities
 ----
 <!-- excerpt -->
 
-![dot NZ]({{ site.images_url }}/2014-09-19-dot-nz.jpg)
+![dot NZ](/media/2014-09-19-dot-nz.jpg)
 
 As New Zealanders patiently await the [.NZ](https://iwantmyname.com/domains/dot-nz) launch on September 30, we'd like to give the rest of the world a chance to get excited about our newly shortened domain extension. So I present to you... my top 5 domain hack possibilities using .NZ.
 
@@ -35,7 +35,7 @@ Have a better idea? Make sure to pre-order it by September 30th before geniuses 
 
 **Update**: I was scolded for not adding kitte.nz (or the alternate, kitteh.nz). No explanation needed. 
 
-![kittens]({{ site.images_url }}/2014-09-19-kittenz.gif)
+![kittens](/media/2014-09-19-kittenz.gif)
 
 rapid de-oxygenation
 

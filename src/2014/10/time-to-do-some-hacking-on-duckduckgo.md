@@ -6,7 +6,7 @@ title: Time to do some hacking on DuckDuckGo
 
 <!-- excerpt -->
 
-![DDH]({{ site.images_url }}/2014-10-30-ddg.png)
+![DDH](/media/2014-10-30-ddg.png)
 
 [DuckDuckGo](https://duckduckgo.com/) has long been one of our favorite search engines, and given the amount of programmers and developers we have in our community, it's probably one of your favorites, too. (If you're not using it, give DuckDuckGo a shot. Unlike Google/Bing, DDG doesn't collect or share any personal information, and ads really are kept to a minimum.)
 

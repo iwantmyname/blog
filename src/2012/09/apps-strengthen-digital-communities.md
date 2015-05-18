@@ -4,7 +4,7 @@ author: Paul
 title: Apps Empowering Digital Communities
 ----
 
-![panel.jpg]({{ site.images_url }}/2012-09-04-panel.jpg)
+![panel.jpg](/media/2012-09-04-panel.jpg)
 
 This week at the [Digital Earth Summit](http://www.digitalearth12.org.nz/) we've been hearing a lot about how digital communities of interest can leverage a variety of new technologies to get involved in making a difference to society and the environment. So we started looking at some cool New Zealand made apps that help deliver on these goals and which were also featured at the conference.
 

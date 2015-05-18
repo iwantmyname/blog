@@ -4,7 +4,7 @@ author: Owen
 title: Unbounce Custom Domain Setup Made Easy
 ----
 
-![Unbounce logo]({{ site.images_url }}/2013-05-07-blog-unbounce.png)
+![Unbounce logo](/media/2013-05-07-blog-unbounce.png)
 
 Good news, everyone! We've got a great new service in the iwantmyname marketplace this week: [Unbounce - the DIY landing page platform](http://try.unbounce.com/with-iwantmyname/?utm_source=Partnerships&utm_medium=iwantmyname-Listing&utm_campaign=iwantmyname-Partnership). If you haven't heard of A/B testing, you probably don't know who Unbounce are just yet.
 

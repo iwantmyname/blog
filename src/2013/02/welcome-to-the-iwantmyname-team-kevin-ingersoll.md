@@ -4,7 +4,7 @@ author: Timo
 title: Welcome to the iwantmyname team, Kevin Ingersoll
 ----
 
-![kevin.jpg]({{ site.images_url }}/2013-02-16-kevin.jpg)
+![kevin.jpg](/media/2013-02-16-kevin.jpg)
 
 *(As you can see, Kevin is enjoying the beaches in New Zealand)*
 

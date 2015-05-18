@@ -6,7 +6,7 @@ title: "Happy New Year! It's time for January domain sales."
 
 ---
 
-![bigstock-Year---handwritten-on-the-s-47541919.jpg]({{ site.images_url }}/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg)
+![bigstock-Year---handwritten-on-the-s-47541919.jpg](/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg)
 
 <!-- excerpt -->
 

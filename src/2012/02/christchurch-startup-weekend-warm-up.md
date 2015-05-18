@@ -4,7 +4,7 @@ author: Paul
 title: Christchurch Startup Weekend Warm Up
 ----
 
-![sw65.jpg]({{ site.images_url }}/2012-02-09-sw65.jpg)
+![sw65.jpg](/media/2012-02-09-sw65.jpg)
 
 Excitement is mounting as [Christchurch Startup Weekend](http://christchurch.startupweekend.org/) draws closer. Once again we are looking forward to supporting the event, which kicks off on Friday, February 24th. 
 

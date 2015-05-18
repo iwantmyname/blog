@@ -4,7 +4,7 @@ author: Paul
 title: Pukekos and Pongas
 ----
 
-![santa.jpg]({{ site.images_url }}/2010-12-20-santa.jpg)
+![santa.jpg](/media/2010-12-20-santa.jpg)
 
 We didn't manage to spot any pukekos in ponga trees on the First Day of Christmas, but otherwise it has certainly been quite a year of achievements at [iWantMyName](https://iwantmyname.co.nz/). Not only did we refine our service offering by overhauling the technology, but we also delivered seamless and straightforward domain management to many new Kiwi customers through the launch of our New Zealand domain registrar site. Even better, we were able to contribute to our local community with tech talks, [event sponsorships](https://iwantmyname.com/blog/2010/09/family-fun-forecast-for-software-freedom-day.html) and behind the scenes project management support for some very [cool events](http://up.org.nz/media/news/wellington_to_the_world_2010_review) promoting technology entrepreneurship.
 

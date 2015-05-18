@@ -6,7 +6,7 @@ title: Price reduction for .CH and .LI
 
 ---
 
-![bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg]({{ site.images_url }}/2014-01-14-bigstock-Postage-Stamp-Liechtenstein----54694160-2.jpg)
+![bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg](/media/2014-01-14-bigstock-Postage-Stamp-Liechtenstein----54694160-2.jpg)
 
 <!-- excerpt -->
 

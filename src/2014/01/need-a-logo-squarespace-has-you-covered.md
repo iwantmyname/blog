@@ -18,7 +18,7 @@ But [Squarespace Logo](http://www.squarespace.com/logo) gives you all the tools 
 
 So I made one. You know, what the hell. 
 
-![rPz7.png]({{ site.images_url }}/2014-01-23-rPz7.png)
+![rPz7.png](/media/2014-01-23-rPz7.png)
 
 Functionality is fairly limited at this point--for instance, I couldn't add a second lightning bolt or a pair of underpants to hide the shame of my logo, but I can say that it's super easy to use and quite effective at accomplishing a relatively important task. Also, you don't  need an account to make one. Squarespace Logo is entirely free for everyone to use, and if you love what you make, you can pay $10 for a high-res PNG (free for [Squarespace customers](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url)). 
 

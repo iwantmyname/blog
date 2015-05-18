@@ -4,7 +4,7 @@ author: Chris
 title: Happy 10th, Squarespace
 ----
 
-![squarespace-logo-horizontal-black.jpg]({{ site.images_url }}/2014-01-07-squarespace-logo-horizontal-black.jpg)
+![squarespace-logo-horizontal-black.jpg](/media/2014-01-07-squarespace-logo-horizontal-black.jpg)
 
 [From Anthony Casalena - Squarespace Blog:](http://blog.squarespace.com/blog/ten-years)
 

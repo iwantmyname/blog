@@ -6,7 +6,7 @@ title: Have questions? Melanie Baker is our new support scholar
 
 <!-- excerpt -->
 
-![Waterloo]({{ site.images_url }}/2014-03-14-waterloo.png)
+![Waterloo](/media/2014-03-14-waterloo.png)
 
 First, some math. A good portion of our business comes from good-ol' North America, which creates a huge problem for us—timely time-zone support coverage. In short, we're in NZDT (UTC+13), while New York is in EST (UTC-5). 13--(+)5=18. 
 

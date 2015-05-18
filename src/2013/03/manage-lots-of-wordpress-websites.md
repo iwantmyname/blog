@@ -4,7 +4,7 @@ author: Owen
 title: How To Easily Manage Multiple WordPress Installations
 ----
 
-![managewp-logo.png]({{ site.images_url }}/2013-03-11-managewp-logo.png)
+![managewp-logo.png](/media/2013-03-11-managewp-logo.png)
 
 If you're having [WordPress](http://wordpress.org) websites left, right and center, then you're probably suffering from the same headache as most power users. Every time you log in to another site there's something needing to be updated or maintained. It feels like you're endlessly updating WordPress and while it's not a bad thing to have updates, there's a better way to do that. Enter [ManageWP](https://managewp.com/).
 

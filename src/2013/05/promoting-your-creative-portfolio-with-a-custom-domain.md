@@ -4,7 +4,7 @@ author: Paul
 title: Promoting Your Creative Portfolio With A Custom Domain
 ----
 
-![22slides.png]({{ site.images_url }}/2013-05-06-22slides.png)
+![22slides.png](/media/2013-05-06-22slides.png)
 
 At iwantmyname we have a growing following amongst the creative community who love the idea of customising an online portfolio site with their chosen domain name. Once you [purchase a domain](https://iwantmyname.co.nz/), it is a simple step to select the required [hosted portfolio app](https://iwantmyname.com/services/portfolio-hosting/) and click to automagically add the correct DNS settings on the domain. Voila!
 

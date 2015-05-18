@@ -4,7 +4,7 @@ author: Paul
 title: Startup Weekend Brings Entrepreneurial Buzz To Capital
 ----
 
-![sw65.jpg]({{ site.images_url }}/2011-10-31-sw65.jpg)
+![sw65.jpg](/media/2011-10-31-sw65.jpg)
 
 It's almost time for [Wellington Startup Weekend](http://wellington.startupweekend.org/) and we are once again getting excited about being involved in the initiative. Startup Weekend is a global phenomenon that assists entrepreneurial designers, developers and business heads to devise, build and launch a product in the short space of 54 hours.
 

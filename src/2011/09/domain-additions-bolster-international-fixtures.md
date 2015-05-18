@@ -4,7 +4,7 @@ author: Paul
 title: Domain Additions Bolster International Fixtures
 ----
 
-![fan50.jpg]({{ site.images_url }}/2011-09-30-fan50.jpg)
+![fan50.jpg](/media/2011-09-30-fan50.jpg)
 
 This month has seen an increase in the variety of country code top level domains (ccTLD) on offer at [iWantMyname](https://iwantmyname.co.nz/). With four new domains joining us, it means we have by far the [largest selection of domain extensions](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) of any New Zealand registrar, with almost 100 on offer.
 

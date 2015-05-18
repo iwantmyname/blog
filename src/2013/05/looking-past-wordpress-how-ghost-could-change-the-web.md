@@ -4,7 +4,7 @@ author: Owen
 title: "Looking Past WordPress: How Ghost Could Change The Web"
 ----
 
-![53cb7cffa27c89a43bc91b40f604f7e2_large.jpg]({{ site.images_url }}/2013-05-06-53cb7cffa27c89a43bc91b40f604f7e2_large.jpg)
+![53cb7cffa27c89a43bc91b40f604f7e2_large.jpg](/media/2013-05-06-53cb7cffa27c89a43bc91b40f604f7e2_large.jpg)
 
 WordPress has been around for so long that it's hard to remember a time where it didn't exist. Rightfully so, too, with the blogging platform [running over 65 Million websites](http://en.wordpress.com/stats/) around the world.
 

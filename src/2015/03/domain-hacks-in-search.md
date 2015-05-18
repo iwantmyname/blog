@@ -7,7 +7,7 @@ excerpt: no
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
 ----
 
-![work trip]({{ site.images_url }}/2015-03-05-domain-hack.png)
+![work trip](/media/2015-03-05-domain-hack.png)
 
 In the world of domains, naming is a bit like an architecture project. The domain name has to stand on its own, make sense to those who use it, and be conventional enough to attract all types of potential guests. A standard domain name is much like a standard building—the outside can be nice, but it's really what's inside that counts.
 

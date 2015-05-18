@@ -4,7 +4,7 @@ author: Paul
 title: .kiwi Domain Ready To Fly
 ----
 
-![logo_dotkiwi2.png]({{ site.images_url }}/2013-06-15-logo_dotkiwi2.png)
+![logo_dotkiwi2.png](/media/2013-06-15-logo_dotkiwi2.png)
 
 It's been a long time coming but the [dot Kiwi registry bid](https://iwantmyname.com/blog/2012/01/dot-kiwi-domain-takes-flight.html) to launch the new .kiwi domain has been approved by internet regulatory body ICANN. The organisation opened the door for listings of new generic top level domains (gTLDs) in 2012 and almost 2000 applications were received. ICANN has been steadily working its way through the huge pile of submissions and recently gave the green light to .kiwi . 
 

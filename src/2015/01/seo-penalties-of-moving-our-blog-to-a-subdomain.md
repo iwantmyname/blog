@@ -15,7 +15,7 @@ At the very beginning of July last year, we moved our blog from a subdirectory U
 
 While we expected an initial hit after making the subdomain switch and traffic slowly recovering, the turnaround didn’t happen after 6 months, as you can see in the following example:
 
-![Blog traffic after switch to subdomain]({{ site.images_url }}/2015-01-16-blog-traffic-subdomain-switch.png)
+![Blog traffic after switch to subdomain](/media/2015-01-16-blog-traffic-subdomain-switch.png)
 
 From what we can tell, we did everything by the books with `301` redirects for all URLs - so what happened? Could it have been just coincidence that Google updated their algorithm and we got penalized for some reason?
 

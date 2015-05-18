@@ -7,7 +7,7 @@ title: Greece Is the Word &mdash; .GR Rebuilds
 redirect_to: https://iwantmyname.com/domains/gr-greek-domain-name-registration-for-greece
 ----
 
-![Greece-Flag-128.png]({{ site.images_url }}/2013-02-09-Greece-Flag-128.png)
+![Greece-Flag-128.png](/media/2013-02-09-Greece-Flag-128.png)
 
 This week we welcome .GR as the first addition to our portfolio of domain extensions in 2013! The Greek top-level domain is the most popular choice in the South European country and also makes for neat domain hacks of words ending in 'gr'.
 

@@ -7,7 +7,7 @@ title: .CO Domain Deal Sparks Startup Flame
 
 ---
 
-![dotco.png]({{ site.images_url }}/2012-09-01-dotco.png)
+![dotco.png](/media/2012-09-01-dotco.png)
 
 Earlier this year we [challenged you](https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html) to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there's no excuse for not signing up and getting your .COOL new business online.
 

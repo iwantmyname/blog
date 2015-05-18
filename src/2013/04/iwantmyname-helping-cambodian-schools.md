@@ -15,7 +15,7 @@ speakers that told us about their experience in the aid sector and shared about 
 lives in Cambodia, which really made a big difference in understanding
 the environment we worked in._
 
-![Cambodian School]({{ site.images_url }}/2013-04-11-gfn-cambodian-school.jpg)
+![Cambodian School](/media/2013-04-11-gfn-cambodian-school.jpg)
 
 _Our first day saw us visiting a school next to an old rubbish dump in
 one of the poorest slums in Phnom Penh. Grit, the [project](http://www.gritlearning.com/what-is-grit.html) Manu and I worked on,

@@ -16,7 +16,7 @@ Here are a few of our favorites to help you get started.
 
 ###Big Cartel
 
-![Big Cartel]({{ site.images_url }}/2013-11-05-Screen_Shot_2013-11-04_at_12.38.33.png)
+![Big Cartel](/media/2013-11-05-Screen_Shot_2013-11-04_at_12.38.33.png)
 
 [Big Cartel](http://bigcartel.com) is one of the biggest ecommerce platforms on the web, primarily focusing on designers, artists, bands and other creative folks. Most notably, Big Cartel has some great templates you can tweak (no code needed, but you can use your own CSS/HTML if you want), and a host of analytics tools to track your activity and growth.
 
@@ -48,7 +48,7 @@ Starter plans start at $14/mo, and give you the ability to use [custom domains](
 
 ###SupaDupa
 
-![SupaDupa]({{ site.images_url }}/2013-11-05-Screen_Shot_2013-11-04_at_12.47.05.png)
+![SupaDupa](/media/2013-11-05-Screen_Shot_2013-11-04_at_12.47.05.png)
 
 There's something refreshingly honest about [SupaDupa](http://supadupa.me)'s mission statement, "We didn't set out to build something for everyone, our job is not to appeal to the most people, it's to create a place for the people who care about the things we care about, like beauty, truth and making things to love, with love."
 
@@ -88,7 +88,7 @@ For the purposes of running a small business store, we recommend using [Magento 
 
 ###Storenvy
 
-![Storenvy]({{ site.images_url }}/2013-11-05-Screen_Shot_2013-11-04_at_12.52.18.png)
+![Storenvy](/media/2013-11-05-Screen_Shot_2013-11-04_at_12.52.18.png)
 
 While many of the other platforms on the list feature infinite individuality, [Storenvy](http://www.storenvy.com) thrives in providing a large Etsy-like storefront for all its sites to feature their wares (including [this lovely shirt](http://www.storenvy.com/products/3201786-merry)).
 

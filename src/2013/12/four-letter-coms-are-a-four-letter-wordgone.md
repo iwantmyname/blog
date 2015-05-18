@@ -4,7 +4,7 @@ author: Chris
 title: Four-Letter .COMs Are A Four-Letter Word--Gone
 ----
 
-![bigstock-Sold-Out-Rubber-Stamp-43310818.jpg]({{ site.images_url }}/2013-12-05-bigstock-Sold-Out-Rubber-Stamp-43310818.jpg)
+![bigstock-Sold-Out-Rubber-Stamp-43310818.jpg](/media/2013-12-05-bigstock-Sold-Out-Rubber-Stamp-43310818.jpg)
 
 [From Will Oremus - Slate:](http://www.slate.com/blogs/future_tense/2013/12/04/four_letter_domain_names_zero_unclaimed_llll_dot_coms_left_on_the_internet.html)
 

@@ -13,12 +13,12 @@ The domain name system (DNS) was invented in 1983 and .COM celebrates its [25th 
 
 ### You don't control your username...###
 
-![username-facebook.png]({{ site.images_url }}/2010-02-19-username-facebook.png)
+![username-facebook.png](/media/2010-02-19-username-facebook.png)
 
 
 ### ...but you can control your own domain name###
 
-![domainname-dns.png]({{ site.images_url }}/2010-02-19-domainname-dns.png)
+![domainname-dns.png](/media/2010-02-19-domainname-dns.png)
 
 *Source: [http://www.identitywoman.net/personal-anchors-on-the-web-for-digital-identities](http://www.identitywoman.net/personal-anchors-on-the-web-for-digital-identities)*
 

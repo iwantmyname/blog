@@ -4,7 +4,7 @@ author: Paul
 title: Stay Frosty! .GL Domain Name Registration Added
 ----
 
-![pb60.jpg]({{ site.images_url }}/2010-08-05-pb60.jpg)
+![pb60.jpg](/media/2010-08-05-pb60.jpg)
 
 [.GL Domains](https://iwantmyname.co.nz/domains/gl-greenlandic-domain-name-registration-for-greenland) (from Greenland) are the latest "cool" addition to the ever growing [list of TLDs](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) (Top-Level Domains) available for registration at iWantMyName. 
 

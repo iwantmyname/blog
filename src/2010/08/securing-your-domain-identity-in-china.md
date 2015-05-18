@@ -4,7 +4,7 @@ author: Paul
 title: Securing Your Domain Identity in China
 ----
 
-![prc.png]({{ site.images_url }}/2010-08-20-prc.png)
+![prc.png](/media/2010-08-20-prc.png)
 
 Earlier this year the Chinese government instituted some law changes that led to .CN domain registrations by overseas registrars being blocked. For a period of time foreign individuals were effectively prevented from registering a domain name within China. For the time being this restriction has been lifted but extensive documentation is still required from foreign businesses before .CN domains are released. Unfortunately, as a result of these issues, we decided to remove the .CN domain extension from iWantMyName. However, China is a rapidly growing market and many New Zealand businesses now have extensive interests there. These companies should be considering how best to protect their identity online. 
 

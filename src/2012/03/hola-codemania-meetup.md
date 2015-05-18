@@ -4,7 +4,7 @@ author: Paul
 title: Hola! Codemania Meetup
 ----
 
-![codemania.png]({{ site.images_url }}/2012-03-08-codemania.png)
+![codemania.png](/media/2012-03-08-codemania.png)
 
 Hay Carramba! [Codemania](http://codemania.co.nz/) is storming into town and guess who's riding shotgun with the unofficial official [pre-event party](http://twtvite.com/iwantmyname-codemania) at **5pm on** **Thursday 29th March**? 
 

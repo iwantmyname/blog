@@ -4,7 +4,7 @@ author: Paul
 title: Away Games - iwantmyname On Tour
 ----
 
-![SDC10263]({{ site.images_url }}/2013-10-24-SDC10263.jpg)
+![SDC10263](/media/2013-10-24-SDC10263.jpg)
 
 <!-- excerpt -->
 

@@ -4,7 +4,7 @@ author: Paul
 title: Saucy Thanksgiving Holiday Domain Deals
 ----
 
-![turkey-icon.png]({{ site.images_url }}/2011-11-25-turkey-icon.png)
+![turkey-icon.png](/media/2011-11-25-turkey-icon.png)
 
 Right about now, turkeys all across the nation are getting very nervous as earnest Moms and Dads prepare for family homecomings and reunions. In the same way that cranberry sauce adds spice to your favourite Thanksgiving feast, we've added some flavorsome domain deals for the holiday weekend &mdash; valid until Cyber Monday at midnight.
 

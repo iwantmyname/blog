@@ -4,7 +4,7 @@ author: Paul
 title: Stellar Cast Headlines Kiwi WordCamp
 ----
 
-![wp35.png]({{ site.images_url }}/2011-02-18-wp35.png)
+![wp35.png](/media/2011-02-18-wp35.png)
 
 Over 25 million users globally have set up web sites using open source CMS [WordPress](http://wordpress.com/). So we are greatly pleased to be a micro-sponsor at this weekend's [WordCamp New Zealand](http://wordcamp.org.nz/). We've made a bunch of domains available as prize giveaways for conference delegates. Planning a new WordPress site? You might just score yourself a free 12 month domain registration on us. The offer extends to .COM, .NET, .ORG, .ME and .NZ domains. Conference organisers will provide more information on the day. But you need to [sign up](http://wordcamp.org.nz/products-page-2/) and attend WordCamp NZ to be in the running.
 

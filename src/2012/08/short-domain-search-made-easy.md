@@ -6,7 +6,7 @@ title: Short Domain Search Made Easy!
 
 One of the nice things about our [new iwantmyname search](https://iwantmyname.com) is the ability to check domain availability for ultra-short domains. If you enter a 2-letter domain, we will automatically display only search results for top-level domains (TLDs) allowing registration of these little gems:
 
-![Short Domain Search]({{ site.images_url }}/2012-08-17-short-domain-search.png)
+![Short Domain Search](/media/2012-08-17-short-domain-search.png)
 
 The current [list of country code TLDs supporting domains consisting of two characters](https://iwantmyname.com/short-domain-search) is:
 

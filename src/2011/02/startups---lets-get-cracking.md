@@ -4,7 +4,7 @@ author: Paul
 title: "Startups - Let's Get Cracking!"
 ----
 
-![sw65.jpg]({{ site.images_url }}/2011-02-26-sw65.jpg)
+![sw65.jpg](/media/2011-02-26-sw65.jpg)
 
 New Zealand is expected to take a big economic growth hit after a second devastating [earthquake](https://iwantmyname.com/blog/2011/02/christchurch-quake-shock.html) in Christchurch. The seriousness of this catastrophe cannot be overstated. That's why we urge everyone to get behind [Startup Weekend](http://auckland.startupweekend.org/) a networking and web venture catalyst event being held in Auckland on the weekend of **1st-3rd April**.
 

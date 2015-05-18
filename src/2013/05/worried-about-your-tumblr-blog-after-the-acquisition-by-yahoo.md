@@ -4,7 +4,7 @@ author: Timo
 title: Worried About Your Tumblr Blog After The Acquisition By Yahoo!?
 ----
 
-![Tumblr acquired]({{ site.images_url }}/2013-05-22-tumblr-blog.png)
+![Tumblr acquired](/media/2013-05-22-tumblr-blog.png)
 
 It's been all over the tech news as [Yahoo! acquired Tumblr for a whopping $1.1 billion](http://techcrunch.com/2013/05/20/its-official-yahoo-is-buying-tumblr-for-1-1b-promises-to-keep-it-independent/) this week. Now the big question is will the internet <del>dinosaur</del>giant keep [their promise not to screw it up](http://marissamayr.tumblr.com/post/50902274591/im-delighted-to-announce-that-weve-reached-an) and let the blogging service blossom as a standalone product or is it going to be neglected like so many other bought-out services after a while? How will Tumblr change when they are required to integrate more closely with other Yahoo! properties or ads will start popping up on your site?
 

@@ -13,7 +13,7 @@ So you've come up with a plan to create a fully functional website with a blog, 
 
 With [Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url), even writers like myself can take one of the many professional [templates](https://squarespace.com/templates/) provided and tweak it to become something that's completely original—all without needing to deal with hosting space and servers like you would with Wordpress.org. You can easily edit things like colors, fonts (from Google and Typekit) and sizes using simple sliders, you can integrate blogs and photo galleries to any page, and third-party integrations like Amazon products, Instagram feeds and Soundcloud files are just a few clicks away. And if you're really on a shoestring budget, you can even use [Squarespace Logos](https://iwantmyname.com/blog/2014/01/need-a-logo-squarespace-has-you-covered.html) to craft a logo with some nice fonts and simple designs.
 
-![Products]({{ site.images_url }}/2014-06-24-squarespace-products.png)
+![Products](/media/2014-06-24-squarespace-products.png)
 
 For many users though, the [Commerce](http://www.squarespace.com/tour/shops) features are the main draw. Using a the same simple integration tools you use to add third-party integrations, you can add products to your site, manage your inventory, take payments and customize marketing emails. It really is a one-stop-shop for all your ecommerce needs.
 
@@ -21,7 +21,7 @@ For many users though, the [Commerce](http://www.squarespace.com/tour/shops) fea
 
 Once you're ready to build your Squarespace site, adding your domain is super simple. First, head over to your iwantmyname dashboard and select **Apps & Services** under the **Setup** menu. Then, under the **Website Builder** category, click on Squarespace (or just type in Squarespace in the search field). Now, just add it to your domain and click **Install Squarespace**.
 
-![Squarespace install]({{ site.images_url }}/2014-06-24-squarespace-iwantmyname.png)
+![Squarespace install](/media/2014-06-24-squarespace-iwantmyname.png)
 
 Once you're done with the iwantmyname side, just login to your Squarespace account (or sign up for one) and click on the **Settings** icon. In that menu, you'll see a **Domains** option, which will show a **Link Existing** button in the top-right corner. From there, just type in your domain and you're all set up (if you need help on the Squarespace side, their [tech support](http://help.squarespace.com/) is quite responsive).
 

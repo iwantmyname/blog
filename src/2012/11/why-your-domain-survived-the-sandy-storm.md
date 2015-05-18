@@ -4,7 +4,7 @@ author: Paul
 title: Why Your Domain Survived The Sandy Storm
 ----
 
-![sandy.jpg]({{ site.images_url }}/2012-11-01-sandy.jpg)
+![sandy.jpg](/media/2012-11-01-sandy.jpg)
 
 Before co-founding [iwantmyname](https://iwantmyname.com/), I was employed as an aviation meteorologist, so the events of this week have been both fascinating and frightening as New York and the Eastern Seaboard of the United States endured a full frontal assault from Extra-Tropical Storm Sandy. Forecasts of the danger led to mass evacuations and shut-downs of key infrastructure such as airports, subway and power utilities. But how did Sandy get so damn big and is there a threat to Internet services and data security when disaster strikes in the future?
 

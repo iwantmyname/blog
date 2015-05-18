@@ -4,7 +4,7 @@ author: Chris
 title: .UK Domains Without The .CO, Coming Summer 2014
 ----
 
-![bigstock-Big-Ben-with-autumn-leaves-Lo-49194818.jpg]({{ site.images_url }}/2013-11-21-bigstock-Big-Ben-with-autumn-leaves-Lo-49194818.jpg)
+![bigstock-Big-Ben-with-autumn-leaves-Lo-49194818.jpg](/media/2013-11-21-bigstock-Big-Ben-with-autumn-leaves-Lo-49194818.jpg)
 
 <!-- excerpt -->
 

@@ -4,7 +4,7 @@ author: Paul
 title: "What's Cool This Week In The Creative World Of Domains"
 ----
 
-![revival.jpg]({{ site.images_url }}/2013-06-05-revival.jpg)
+![revival.jpg](/media/2013-06-05-revival.jpg)
 
 It's always fun flicking through new domains that have been registered and especially any cool creative websites or interesting initiatives online. Naturally we like to share the love around a bit, so here's some great New Zealand sites that came to our attention recently. 
 

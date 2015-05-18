@@ -4,7 +4,7 @@ author: Paul
 title: New .KIWI.NZ Domain Stretches Wings
 ----
 
-![kiwi.jpg]({{ site.images_url }}/2012-09-13-kiwi.jpg)
+![kiwi.jpg](/media/2012-09-13-kiwi.jpg)
 
 It may be a small flightless bird with poor eyesight, but our national symbol has proven to be a popular choice amongst New Zealand domain name fans. Over 1500 [.KIWI.NZ domains](https://iwantmyname.com/domains/kiwi.nz-kiwi-domain-name-registration-for-new-zealand) were registered in the first hour of sales when the plucky little bird was released into the wild this week. 
 

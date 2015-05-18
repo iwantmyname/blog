@@ -4,7 +4,7 @@ author: Paul
 title: Springtime ccTLD Domain Promotion
 ----
 
-![daffodils]({{ site.images_url }}/2010-09-02-daffs.jpg)
+![daffodils](/media/2010-09-02-daffs.jpg)
 
 Daffodils are blooming, baby lambs are frolicking and the weather is moody and confused. Welcome to Spring!
 

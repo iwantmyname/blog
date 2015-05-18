@@ -6,7 +6,7 @@ title: September domain discounts, featuring .CLUB and .TV
 
 <!-- excerpt -->
 
-![TV]({{ site.images_url }}/2014-09-03-tiny-tv.jpg)
+![TV](/media/2014-09-03-tiny-tv.jpg)
 
 We consider discount-oriented online businesses to be an unhealthy model, but each month we do like to put a few domain extensions on sale as a market predictor of sorts. This month, we're really excited about a few country code top-level domains (ccTLDs) that double as generic phrases and a couple of generic top-level domains (gTLDs) that we just like right now.
 

@@ -4,7 +4,7 @@ author: Paul
 title: Rails Girls Rally
 ----
 
-![heroku-logo.jpg]({{ site.images_url }}/2013-06-06-heroku-logo.jpg)
+![heroku-logo.jpg](/media/2013-06-06-heroku-logo.jpg)
 
 There's been a lot of discussion recently about getting more young people interested in software development and in particular getting more women into the game. Whichever way you look at it, there's no denying that the developer scene is predominantly a male one. Show up to any hackathon and 90% or more of the players will be guys. Boring!!
 

@@ -6,7 +6,7 @@ title: 4 tools for remembering your passwords... a year later
 
 <!-- excerpt -->
 
-![Vault]({{ site.images_url }}/2015-02-11-vault.jpg)
+![Vault](/media/2015-02-11-vault.jpg)
 
 We've worked hard over the past half-decade making domain registration as easy as possible, but one pain point we often encounter is password memorization. The vast majority of our customers simply don't need to interact with us very often, and what seems like a strong, easily remembered password could be completely alien when domain renewals come around a year later. But there are solutions for this very problem—all you need is a solid password manager.
 
@@ -18,7 +18,7 @@ Here's an intro to password managers from [Consumer Reports](The paranoid guide 
 
 ### 1Password
 
-![1Password]({{ site.images_url }}/2015-02-11-one-password.png)
+![1Password](/media/2015-02-11-one-password.png)
 
 As the name suggests, [1Password](https://agilebits.com/onepassword) is a tool that acts as a vault for all your passwords, secured by a single password of your creation. Basically, using a browser extension (available for Safari, Firefox, Chrome, and Opera), app, or smartphone app, you can open your vault with your master password and have instant access to all the passwords you've created, on any device you happen to be using.
 
@@ -32,7 +32,7 @@ Here's another glowing review from [MacStories](http://www.macstories.net/review
 
 ### LastPass
 
-![LastPass]({{ site.images_url }}/2015-02-11-lastpass.jpg)
+![LastPass](/media/2015-02-11-lastpass.jpg)
 
 Another good password manager is [LastPass](https://lastpass.com), which works basically the same way 1Password does, but with a few less bells and whistles (although LastPass has been making huge strides), and a cheaper price (there's a free option!).
 
@@ -42,7 +42,7 @@ Here's a bit from PC Mag's [LastPass 3.0 review](http://www.pcmag.com/article2/0
 
 ### Dashlane
 
-![Dashlane]({{ site.images_url }}/2015-02-11-dashlane.png)
+![Dashlane](/media/2015-02-11-dashlane.png)
 
 [Dashlane](https://www.dashlane.com) is similar in many ways to the other password managers on the market (if you want details, David Pogue wrote a [very positive review](http://www.nytimes.com/2013/06/06/technology/personaltech/too-many-passwords-and-no-way-to-remember-them-until-now.html) in the New York Times, as did [The Next Web](http://thenextweb.com/apps/2014/12/09/dashlanes-automatic-password-changer-makes-precious-accounts-less-hackable/) in late 2014), but a new feature dropped in December that makes it extremely enticing. Here's the description from [the Verge](http://www.theverge.com/2014/12/9/7357251/dashlane-can-now-change-all-your-passwords-with-a-single-click-and):
  	

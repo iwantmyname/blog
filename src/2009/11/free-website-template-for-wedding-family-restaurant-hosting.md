@@ -14,12 +14,12 @@ The introduction of Google Sites webpage templates is great news for iWantMyName
 
 Build your family website - Template:
 
-![family-website-template.png]({{ site.images_url }}/2009-11-20-family-website-template.png)
+![family-website-template.png](/media/2009-11-20-family-website-template.png)
 
 Create a website for your restaurant business - Template:
-![restaurant-website-template.png]({{ site.images_url }}/2009-11-20-restaurant-website-template.png)
+![restaurant-website-template.png](/media/2009-11-20-restaurant-website-template.png)
 
 Make a wedding website - Templates:
-![wedding-website-template.png]({{ site.images_url }}/2009-11-20-wedding-website-template.png)
+![wedding-website-template.png](/media/2009-11-20-wedding-website-template.png)
 
 Customers managing their domains through iWantMyName get free provisioning so that they can hang all their Google docs, including GMail and Sites beneath their own personal domain name. So now you don't need a team of web experts to set up all the services you need for a home office, small or medium sized enterprise or not-for-profit organisation.

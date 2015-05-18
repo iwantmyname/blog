@@ -4,7 +4,7 @@ author: Paul
 title: A Christmas Mission
 ----
 
-![pohu.jpg]({{ site.images_url }}/2011-12-22-pohu.jpg)
+![pohu.jpg](/media/2011-12-22-pohu.jpg)
 
 Well it's that time of year once again when both credit card limits and shoppers' good humour are stretched to breaking point. Are you dreading your next excursion to the overcrowded shopping mall? No fear. 
 

@@ -8,6 +8,6 @@ Having total [DNS](http://en.wikipedia.org/wiki/Domain_name_system) control has 
 
 The new DNS editor supports A, CNAME, MX, AAAA, TXT & SRV records. Have a look at this shiny new tool:
 
-![real-time-dns-management-editor.png]({{ site.images_url }}/2009-06-10-real-time-dns-management-editor.png)
+![real-time-dns-management-editor.png](/media/2009-06-10-real-time-dns-management-editor.png)
 
  As always, we appreciate your feedback in the comments, our [forum](http://feedback.iwantmyname.com/) and by [email](https://iwantmyname.com/support).

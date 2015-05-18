@@ -8,11 +8,11 @@ As you may know, the web address space [is about to grow](https://iwantmyname.co
 
 ### YourSoftwareApp.com vs YourSoftware.app
 
-![iPad]({{ site.images_url }}/2012-06-12-i-pad-2.png)
+![iPad](/media/2012-06-12-i-pad-2.png)
 
 So what does the .APP suffix offer to application developers? First of all, the days of simply appending 'app' as in yoursoftwareAPP.com or prefixing your domain with 'get', e.g. GETsoftwarename.com and settling for an inferior web address will finally be over! We see these type of domains being registered almost on a daily basis at iWantMyName and .APP domains would certainly increase the chances of getting the name you really want for your site. The dotAPP ending could be used for marketing desktop software on Mac, Windows or Linux, general web applications and obviously apps for iOS devices such as iPhone or iPad and Android powered smartphones or tablets. It's simply a platform-independent internet address for any kind of software but at the same time easy to recognize as a trusted source to find information about an application.
 
-![Android]({{ site.images_url }}/2012-06-12-android.png)
+![Android](/media/2012-06-12-android.png)
 
 Just imagine a popular game, for example Angry Birds, on the domain AngryBirds.app with links to app stores where it can be downloaded. Wouldn't that come in handy? Of course, the naysayers will tell you that the same can be done on any other top-level domain. If users who want to download your application see .COM and .APP web addresses in their search result which one will be more likely clicked, though? Adoption might take a while but once they know that .APP gets them faster to the desired information, it will become their preferred choice.
 

@@ -6,7 +6,7 @@ title: The Brand New iwantmyname
 
 We're happy to announce the launch of our site redesign and new iwantmyname logo. As mentioned last week this refresh is a first step towards a new control panel which will speed up the interaction with your domains dramatically. We can't wait to share it with you!
 
-![iwmn.png]({{ site.images_url }}/2012-07-25-iwmn.png)
+![iwmn.png](/media/2012-07-25-iwmn.png)
 
 **What has changed?**
 

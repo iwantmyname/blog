@@ -4,7 +4,7 @@ author: Paul
 title: ANZAC Spirit Lives On With .AU Domain
 ----
 
-![anzac.jpg]({{ site.images_url }}/2013-04-24-anzac.jpg)
+![anzac.jpg](/media/2013-04-24-anzac.jpg)
 
 New Zealand and Australia have a long tradition of mateship arising from a shared cultural context and solid friendships forged in the fields of past conflicts. Not only do we share a notable military history, but we also have close [business](http://geniusnet.blogtown.co.nz/2013/04/23/queensland-tech-scene/) and political links with our "cousins" across the Tasman Sea. So, after a long wait, it seems appropriate to be launching  some [Australian domain names](https://iwantmyname.co.nz/domains/com.au-australian-domain-name-registration-for-australia) on [iwantmyname](http://iwantmyname.com.au/) during ANZAC week. 
 

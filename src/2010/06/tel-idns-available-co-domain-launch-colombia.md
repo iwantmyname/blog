@@ -6,7 +6,7 @@ title: .TEL IDNs Available As Of Today, .CO Domains Soon
 
 **Internationalized Domain Names under .TEL**
 
-![tel-domain-logo.png]({{ site.images_url }}/2010-06-15-tel-domain-logo.png)
+![tel-domain-logo.png](/media/2010-06-15-tel-domain-logo.png)
 
 Starting on June 15, you will be able to register [.TEL domains](https://iwantmyname.com/domains/tel-domain-name-registration-for-communication) in the following languages:
 
@@ -16,7 +16,7 @@ _Chinese, Danish, Finnish, German, Hungarian, Icelandic, Japanese, Korean, Latvi
 
 **.CO - the Colombian country code extension**
 
-![co-domain-logo.png]({{ site.images_url }}/2010-06-15-co-domain-logo.png)
+![co-domain-logo.png](/media/2010-06-15-co-domain-logo.png)
 
 The top-level domain (TLD) of Colombia is [opening up to anyone worldwide](http://www.cointernet.co/domain/launch/general-availability) on July 20, 2010. While the registry [.CO Internet](http://cointernet.co) is marketing the TLD as a domain extension for general use, you should be aware that it is in fact a country code suffix.
 

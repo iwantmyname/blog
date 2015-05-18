@@ -6,7 +6,7 @@ title: New in the Marketplace - Simplecast, podcast hosting made easy
 
 <!-- excerpt -->
 
-![Simplecast]({{ site.images_url }}/2015-01-30-simplecast.png)
+![Simplecast](/media/2015-01-30-simplecast.png)
 
 *Our [App Marketplace](https://iwantmyname.com/services) is filled with dozens of great platforms you can add to your domain with just a few clicks (no DNS knowledge required), and in 2015, we’re looking to add a ton more. As we add new platforms to the list, you can get a little taste of what they offer here in the "New in the Marketplace" blog series.*
 
@@ -18,7 +18,7 @@ Ladies and gentleman, podcasts are a thing now, and real people are listening to
 
 The biggest hangup I've seen lately though is hosting. Once you create your show and record some episodes, how do you get them online (and then to podcatchers like iTunes, Stitcher, and Overcast)? Well, if you're looking for a hassle-free solution, [Simplecast](https://iwantmyname.com/services/podcast/simplecast) just might be perfect. With Simplecast, you get unlimited storage and a one-step file importer to build clean sites (using templates or your own design), collaboration tools to facilitate your future team (you know, for when you get big), and easy-to-understand metrics for seeing how you're doing. It's all pretty painless, giving you all the energy you need to post your show on a consistent schedule. 
 
-![Analytics]({{ site.images_url }}/2015-01-30-simplecast-analytics.png)
+![Analytics](/media/2015-01-30-simplecast-analytics.png)
 
 I'm not usually one to read too much into [About](https://simplecast.fm/about) page copy, but the message of simplicity on the Simplecast site really rings true:
 

@@ -4,7 +4,7 @@ author: Timo
 title: WebFaction Gives Away $100,000 In Hosting Services To Celebrate 10th Anniversary
 ----
 
-[![webfaction-logo-tr.png]({{ site.images_url }}/2013-02-05-webfaction-logo-tr.png)](http://www.webfaction.com/signup?affiliate=ideegeo)
+[![webfaction-logo-tr.png](/media/2013-02-05-webfaction-logo-tr.png)](http://www.webfaction.com/signup?affiliate=ideegeo)
 
 Happy 10th Birthday [WebFaction](http://www.webfaction.com/signup?affiliate=ideegeo) from the iwantmyname team! To celebrate this milestone, the hosting company is giving away $100,000 in services to new and existing customers. Here are the details of their awesome web hosting deal:
 

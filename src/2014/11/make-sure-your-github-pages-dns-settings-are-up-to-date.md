@@ -6,7 +6,7 @@ title: "This is important—make sure your GitHub Pages DNS settings are up-to-d
 
 <!-- excerpt -->
 
-![GitHub]({{ site.images_url }}/2014-11-08-github.png)
+![GitHub](/media/2014-11-08-github.png)
 
 At the beginning of 2014, GitHub Pages announced some major [content delivery improvements](https://github.com/blog/1715-faster-more-awesome-github-pages)—and the DNS changes were made in our one-click installs nearly right away. But for customers who added GitHub Pages (using the old GitHub Pages DNS settings) before the announcement, this is an important message. 
 

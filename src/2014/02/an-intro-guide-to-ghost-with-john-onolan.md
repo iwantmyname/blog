@@ -6,7 +6,7 @@ title: An introduction to Ghost with John O'Nolan
 
 <!-- excerpt -->
 
-![Ghost]({{ site.images_url }}/2014-02-20-ghost.jpg)
+![Ghost](/media/2014-02-20-ghost.jpg)
 
 There are a number of platforms your could use to get a blog up and running, but one of the newest entries into the field is perhaps the most exciting—a platform called [Ghost](https://ghost.org/). And what makes it exciting is that it doesn't try to do everything for everyone. There are no e-commerce features, no integrated social networks and no ambitions to create fully blown-out sites—it's just a platform for (beautifully) publishing content.
 

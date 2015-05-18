@@ -8,12 +8,12 @@ September has been our "TLD month" so far, with popular European extensions [.IT
 
 ### Italy
 
-[![Italy-Flag-128.png]({{ site.images_url }}/2011-09-29-Italy-Flag-128.png)](https://iwantmyname.com/domains/it-italian-domain-name-registration-for-italy)
+[![Italy-Flag-128.png](/media/2011-09-29-Italy-Flag-128.png)](https://iwantmyname.com/domains/it-italian-domain-name-registration-for-italy)
 
 With a population of just over 60 million, the Italian Republic is the 4th largest member state of the European Union (EU). The country shares borders with France, Switzerland, Austria and Slovenia. Most Italians prefer .IT domains over international domain extensions such as .COM, .NET or .ORG making it a must-have for companies or organizations who want to be present in the local market. Internationally, .IT domains are also popular for IT companies and domain hacks such as dlvr.it, play.it or fold.it which contributes to the growing number of 2.3 million registered domains in Italy. So join the club and [purchase your .IT domain today](https://iwantmyname.com/domains/it-italian-domain-name-registration-for-italy).
 
 ### France
 
-[![France-Flag-128.png]({{ site.images_url }}/2011-09-29-France-Flag-128.png)](https://iwantmyname.com/domains/fr-french-domain-name-registration-for-france)
+[![France-Flag-128.png](/media/2011-09-29-France-Flag-128.png)](https://iwantmyname.com/domains/fr-french-domain-name-registration-for-france)
 
 The French Republic is number 2 in Europe when it comes to population size (64 million) but the biggest Western European country and largest member of the EU. With borders to Germany, Italy, Spain, Luxembourg and Belgium, the nation is literally located in the heart of Europe. Despite being a relatively large country, the French domain suffix only recently passed the milestone of 2 million registered domains having been held back by more stringent regulations in the past. However, these days, there is much greater "libert&eacute;" in the .FR domain if you want to [establish your brand in France](https://iwantmyname.com/domains/fr-french-domain-name-registration-for-france).

@@ -4,7 +4,7 @@ author: Paul
 title: Celebrating Startups And Small Business Success
 ----
 
-![parrotdog.jpg]({{ site.images_url }}/2012-11-30-parrotdog.jpg)
+![parrotdog.jpg](/media/2012-11-30-parrotdog.jpg)
 
 As you know, we are huge supporters of start-ups and small business in New Zealand and we've also [backed Startup Weekends](https://iwantmyname.com/blog/2012/09/starting-up-new-zealand.html) since they began. So we are really pleased to be continuing these associations further by supporting next week's [Startup Party](http://www.meetup.com/Lean-Startup-Wellington/events/90958952/). 
 

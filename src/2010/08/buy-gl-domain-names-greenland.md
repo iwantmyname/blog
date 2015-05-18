@@ -4,7 +4,7 @@ author: Timo
 title: .GL Domain Name Registration Enabled (Greenland)
 ----
 
-![polarbear.jpg]({{ site.images_url }}/2010-08-05-polarbear.jpg)
+![polarbear.jpg](/media/2010-08-05-polarbear.jpg)
 
 [.GL Domains](https://iwantmyname.com/domains/gl-greenlandic-domain-name-registration-for-greenland) (Greenland) are the latest addition to the ever growing [list of TLDs](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) (Top-Level Domains) available for registration at iWantMyName.
 

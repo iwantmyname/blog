@@ -6,7 +6,7 @@ title: Hemingway is the coach you need to make your web content better
 
 <!-- excerpt -->
 
-![Hemingway]({{ site.images_url }}/2014-02-13-hemingway.png)
+![Hemingway](/media/2014-02-13-hemingway.png)
 
 Nine out of ten writers agree—writing is tough. And one of the toughest things writers face is falling into comfort zones. 
 

@@ -6,7 +6,7 @@ title: Found reviews - Fastmail, the "slickest web interface currently available
 
 <!-- excerpt -->
 
-![FastMail]({{ site.images_url }}/2015-02-13-fastmail.png)
+![FastMail](/media/2015-02-13-fastmail.png)
 
 [From Sebastian Lemery:](http://lemery.io/review-fastmail)
 

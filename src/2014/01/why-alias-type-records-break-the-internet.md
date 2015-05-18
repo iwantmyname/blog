@@ -8,11 +8,11 @@ Today, [GitHub announced faster, more awesome GitHub Pages](https://github.com/b
 
 As you may know DNS is, by definition, a heavily cached protocol. This means that if you change a DNS record, it will take some time until everyone who knows about the record actually sees the changes. Why did the DNS industry think this was a good idea? Because DNS is an old protocol and old servers used to have downtime and connectivity issues. If your nameserver is unreachable, the DNS caching built into the specification makes sure your domain still resolves if it has been cached in a resolver along your resolution path. That is a lot of stuff to digest, so here is how it looks:
 
-![cache-name-res.png]({{ site.images_url }}/2014-01-08-cache-name-res.png)
+![cache-name-res.png](/media/2014-01-08-cache-name-res.png)
 
 First time a DNS record is looked up at the authoritative DNS, the record gets cached in your ISPs resolver cache.
 
-![auth-name-res.png]({{ site.images_url }}/2014-01-08-auth-name-res.png)
+![auth-name-res.png](/media/2014-01-08-auth-name-res.png)
 
 Subsequent lookups for the same record will only hit the resolver cache even if the authoritative cache is offline.
 

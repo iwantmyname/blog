@@ -6,7 +6,7 @@ title: The real reason we use Markdown
 
 <!-- excerpt -->
 
-![Markdown logo]({{ site.images_url }}/2014-03-05-markdown.png)
+![Markdown logo](/media/2014-03-05-markdown.png)
 
 We may be based in New Zealand, but a large percentage of our business is done in the US. And aside from driving on the wrong side of the road and using a perplexing system for measurements and temperatures, it's a fairly seamless cultural exchange.
 

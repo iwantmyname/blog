@@ -4,7 +4,7 @@ author: Chris
 title: WordPress.com, Now With Markdown
 ----
 
-![wordpress-logo-hoz-rgb.png]({{ site.images_url }}/2013-11-22-wordpress-logo-hoz-rgb.png)
+![wordpress-logo-hoz-rgb.png](/media/2013-11-22-wordpress-logo-hoz-rgb.png)
 
 <!-- excerpt -->
 

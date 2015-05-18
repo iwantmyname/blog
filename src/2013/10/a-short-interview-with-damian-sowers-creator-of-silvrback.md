@@ -4,7 +4,7 @@ author: Chris
 title: A Short Interview With Damian Sowers, Creator Of Silvrback
 ----
 
-![damian.jpg]({{ site.images_url }}/2013-10-15-damian.jpg)
+![damian.jpg](/media/2013-10-15-damian.jpg)
 
 <!-- excerpt -->
 

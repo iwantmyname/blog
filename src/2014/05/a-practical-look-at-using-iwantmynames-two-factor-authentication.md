@@ -20,17 +20,17 @@ It's something we think is really important, so here's a quick look at how to se
 1. Login to your account, then select "Login & Security" under the "Account" dropdown menu
 2. Under "Two-step verification" type in your phone number and country code, then download the Authy app for iOS or Android (an SMS text option is available if you're on an unsupported platform).
 
-![2FA setup]({{ site.images_url }}/2014-05-01-2fa-setup.png)
+![2FA setup](/media/2014-05-01-2fa-setup.png)
 
 ###Using 2FA
 
 Now that you're all setup, your login will look like this:
 
-![Authy login]({{ site.images_url }}/2014-05-01-authy-login.png)
+![Authy login](/media/2014-05-01-authy-login.png)
 
 Just open up your Authy app (or SMS text) and type in the code provided—and that's it. You've quickly—and painlessly—added a second level of security to your iwantmyname account. 
 
-![Authy]({{ site.images_url }}/2014-05-01-2fa.png)
+![Authy](/media/2014-05-01-2fa.png)
 
 ###But will this get annoying?
 

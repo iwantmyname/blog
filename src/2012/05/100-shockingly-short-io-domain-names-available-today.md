@@ -4,7 +4,7 @@ author: Timo
 title: 100+ Shockingly Short .IO Domain Names Available Today At 20% OFF!
 ----
 
-![256Px - 194.png]({{ site.images_url }}/2012-05-18-256Px_-_194.png)
+![256Px - 194.png](/media/2012-05-18-256Px_-_194.png)
 
 These goodies will go fast, so without further ado, here are the few remaining (letter-only) two-character [.io domains](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory):
 

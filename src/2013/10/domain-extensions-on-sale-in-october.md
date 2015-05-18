@@ -4,7 +4,7 @@ author: Chris
 title: Domain Extensions On Sale In October
 ----
 
-![Zombie]({{ site.images_url }}/2013-10-01-4003660200_37af59ed1b_z.jpg)
+![Zombie](/media/2013-10-01-4003660200_37af59ed1b_z.jpg)
 
 <!-- excerpt -->
 

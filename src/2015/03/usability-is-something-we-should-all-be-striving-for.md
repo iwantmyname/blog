@@ -18,11 +18,11 @@ Here's a good example of where the internet is going. After I wrote our [post ab
 
 <!-- /excerpt -->
 
-![Fidelity homepage]({{ site.images_url }}/2015-03-11-fidelity-homepage.png)
+![Fidelity homepage](/media/2015-03-11-fidelity-homepage.png)
 
 Here's Fidelity's homepage. As you can see, it's packed with information, but if your goal is to start an account (which, I'd argue, should be the goal in a logged-out state) , you have a lot to contend with.
 
-![Wealthfront homepage]({{ site.images_url }}/2015-03-11-wealthfront-homepage.png)
+![Wealthfront homepage](/media/2015-03-11-wealthfront-homepage.png)
 
 On the other end of the spectrum is Wealthfront, an investment startup that puts usability first. Big buttons. Clear calls to action. 
 

@@ -4,7 +4,7 @@ author: Timo
 title: February Domain Transfer Promotions
 ----
 
-![Transfer Domains To iWantMyName]({{ site.images_url }}/2011-02-01-Screen_shot_2011-01-29_at_17.28.26.png)
+![Transfer Domains To iWantMyName](/media/2011-02-01-Screen_shot_2011-01-29_at_17.28.26.png)
 
 If they can do it, so can you! [Transfer your domains to iWantMyName](https://iwantmyname.com/domains/domain-transfer) with our special domain transfer deals for February:
 

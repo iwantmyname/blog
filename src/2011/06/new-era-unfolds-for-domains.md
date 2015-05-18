@@ -4,7 +4,7 @@ author: Paul
 title: New Era Unfolds For Domains
 ----
 
-![dotme.gif]({{ site.images_url }}/2011-06-21-dotme.gif)
+![dotme.gif](/media/2011-06-21-dotme.gif)
 
 Internet body ICANN meeting in Singapore this week is presiding over the most significant opening up of the domain name system (DNS) for many years. ICANN has agreed in principle to allow new domain extensions known as generic top level domains (gTLDs). 
 

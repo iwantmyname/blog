@@ -4,7 +4,7 @@ author: Chris
 title: "The Tools We Use: Bitly For Link Shortening"
 ----
 
-![bitly_logo.png]({{ site.images_url }}/2013-10-18-bitly_logo.png)
+![bitly_logo.png](/media/2013-10-18-bitly_logo.png)
 
 <!-- excerpt -->
 

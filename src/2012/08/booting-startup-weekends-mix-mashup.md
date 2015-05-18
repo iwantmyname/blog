@@ -4,7 +4,7 @@ author: Paul
 title: "Booting Startup Weekend's Mix & Mashup"
 ----
 
-![sw65.jpg]({{ site.images_url }}/2012-08-27-sw65.jpg)
+![sw65.jpg](/media/2012-08-27-sw65.jpg)
 
 **Updated: Mon 27 August**
 

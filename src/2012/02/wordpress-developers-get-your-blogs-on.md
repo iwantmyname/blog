@@ -4,7 +4,7 @@ author: Paul
 title: WordPress Developers Get Your Blogs On
 ----
 
-![wp.jpg]({{ site.images_url }}/2012-02-24-wp.jpg)
+![wp.jpg](/media/2012-02-24-wp.jpg)
 
 After almost a decade of development, WordPress has steadily evolved from being a slightly clunky system for blogging enthusiasts into a mature, widely used content management system deployed with well over [70 million sites](http://en.wordpress.com/stats/) globally. 
 

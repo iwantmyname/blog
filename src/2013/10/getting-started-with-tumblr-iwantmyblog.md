@@ -4,7 +4,7 @@ author: Chris
 title: Getting Started With Tumblr #iwantmyblog
 ----
 
-![Tumblr Dashboard]({{ site.images_url }}/2013-10-16-Screen_Shot_2013-10-15_at_14.16.14.png)
+![Tumblr Dashboard](/media/2013-10-16-Screen_Shot_2013-10-15_at_14.16.14.png)
 
 <!-- excerpt -->
 
@@ -42,7 +42,7 @@ So follow five people (you can/should follow more later) and get to the dashboar
 
 Let it sink in.
 
-![Tumblr Domain Test]({{ site.images_url }}/2013-10-16-Screen_Shot_2013-10-14_at_11.40.11-1.png)
+![Tumblr Domain Test](/media/2013-10-16-Screen_Shot_2013-10-14_at_11.40.11-1.png)
 
 And one last thing before we're done. Go to Settings then click on your Tumblr name (it'll be the last option in the navigation on the left) and type in your custom domain. Since you've already set it up on iwantmyname, it should test with no issues. 
 

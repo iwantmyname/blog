@@ -4,7 +4,7 @@ author: Chris
 title: .MY New Malaysian Domain Extension
 ----
 
-![Malaysia]({{ site.images_url }}/2013-10-03-bigstock-KUALA-LUMPUR-MALAYSIA--AUGUS-42681250.jpg)
+![Malaysia](/media/2013-10-03-bigstock-KUALA-LUMPUR-MALAYSIA--AUGUS-42681250.jpg)
 
 Home to more than 28 million people, Malaysia is a beautiful coastal country split into two parts by the South China Sea—Peninsular Malaysia and Malaysian Borneo. And amongst its endless white-sand beaches and prehistoric rain forests, there's quite a bit going on.
 

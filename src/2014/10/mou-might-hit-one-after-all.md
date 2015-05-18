@@ -6,7 +6,7 @@ title: Mou might hit 1.0 after all
 
 <!-- excerpt -->
 
-![Mou]({{ site.images_url }}/2014-10-07-mou.png)
+![Mou](/media/2014-10-07-mou.png)
 
 When I started writing in Markdown, one of the first editors to draw me in was [Mou](https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html) (you know, after I got sick of writing solely in TextEdit). It was cleaner and faster than many of the editors out there, but what really excited me was the side-by-side Markdown editing and rendering. I loved the fact that when I created a link, I could see it instantly formed in the right pane—and if I fudged it up somehow, it was easy to find the error. 
 

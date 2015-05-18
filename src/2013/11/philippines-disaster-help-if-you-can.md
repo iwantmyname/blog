@@ -4,7 +4,7 @@ author: Paul
 title: "Philippines Disaster: Help If You Can"
 ----
 
-![asiapac.jpg]({{ site.images_url }}/2013-11-13-asiapac.jpg)
+![asiapac.jpg](/media/2013-11-13-asiapac.jpg)
 
 <!-- excerpt -->
 

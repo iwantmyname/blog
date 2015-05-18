@@ -6,7 +6,7 @@ title: What should the internet do with its new .money?
 
 <!-- excerpt -->
 
-![Money bowtie]({{ site.images_url }}/2015-03-10-money-bowtie.png)
+![Money bowtie](/media/2015-03-10-money-bowtie.png)
 
 Money is a hard thing for a lot of people to talk about, so let's shift the focus a bit by putting a "." in front. 
 

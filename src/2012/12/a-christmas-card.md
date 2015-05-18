@@ -4,7 +4,7 @@ author: Paul
 title: A Christmas Card
 ----
 
-![pohu.jpg]({{ site.images_url }}/2012-12-18-pohu.jpg)
+![pohu.jpg](/media/2012-12-18-pohu.jpg)
 
 From [Hobbits](https://iwantmyname.com/blog/2012/11/in-the-domain-of-middle-earth.html) to [hurricanes](https://iwantmyname.com/blog/2012/11/why-your-domain-survived-the-sandy-storm.html) to [Halloween](https://iwantmyname.com/blog/2012/10/scared-bitless.html),
  it has been a very full and challenging year here at iwantmyname. Now 

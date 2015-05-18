@@ -6,7 +6,7 @@ title: The simple guide to finding the right domain name for your podcast
 
 <!-- excerpt -->
 
-![podcast]({{ site.images_url }}/2015-02-20-podcast.jpg)
+![podcast](/media/2015-02-20-podcast.jpg)
 
 Podcasts seem to be getting more and more popular by the week, with big shows and big names finally getting the mainstream media attention they deserve. But one of the best things about podcasting is that it can be done by anyone. There aren't any expensive broadcasting rights or legal hurdles to deal with—all you have to do is get a mic, learn how to use some basic audio software (free options like Garageband are readily available), and find a reliable platform to [host your show](https://iwantmyname.com/services/podcast/). 
 

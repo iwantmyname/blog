@@ -6,7 +6,7 @@ title: "Tumblr + Gmail: How To Easily Customize Your Page And Email With An Own 
 
 It's dead easy to set up [Tumblr](http://tumblr.com) and [Gmail](http://google.com/a) on a custom domain name with iWantMyName. If you [register a domain](https://iwantmyname.com) with us, you do not need any geeky knowledge to get the customized version of both the popular blog and email service up and running. Moreover, it's completely free to host your domain on Tumblr and Google Apps and hence the perfect combination to [start owning your online identity](https://iwantmyname.com/blog/2010/02/your-usernames-do-not-belong-to-you.html).
 
-![tumblr-and-gmail.png]({{ site.images_url }}/2010-04-08-tumblr-and-gmail.png)
+![tumblr-and-gmail.png](/media/2010-04-08-tumblr-and-gmail.png)
 
 **Simply follow these 5 steps to personalize your experience of the web:**
 

@@ -4,7 +4,7 @@ author: Paul
 title: Birthday Bash Domain Price Slash
 ----
 
-![cake4.jpg]({{ site.images_url }}/2012-12-04-cake4.jpg)
+![cake4.jpg](/media/2012-12-04-cake4.jpg)
 
 It's hard to believe that this week already marks the 4th birthday of [iwantmyname](https://iwantmyname.co.nz/). In 2008 we blew a raspberry at the economic recession and launched the coolest and easiest to use [international domain registrar](https://iwantmyname.co.nz/domains) site on the planet. Judging by how fast we've grown globally, plus all the [positive feedback](https://iwantmyname.co.nz/about) we've received from customers, we must be heading in the right direction. It's been a lot of hard work, but also a great deal of fun.
 

@@ -4,7 +4,7 @@ author: Paul
 title: Creative Space Hosting Startup Weekend
 ----
 
-![swwlg2013.png]({{ site.images_url }}/2013-02-11-swwlg2013.png)
+![swwlg2013.png](/media/2013-02-11-swwlg2013.png)
 
 [Wellington Startup Weekend](http://wellington.startupweekend.org/) kicks off the 2013 round of New Zealand events at a fantastic venue in the newly opened [College of Creative Arts building](http://archived.link/http://www.massey.ac.nz/massey/learning/colleges/college-creative-arts/about/events/new-college-building-progress/new-college-of-creative-arts-building.cfm) on the Massey University campus. Of course iwantmyname is continuing to support Startup Weekend, as the initiative continues to grow in New Zealand. 
 

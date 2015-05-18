@@ -6,7 +6,7 @@ title: A free tool for finding the top sites in each domain extension
 
 <!-- excerpt -->
 
-![Domain Punch]({{ site.images_url }}/2014-08-28-domain-punch.png)
+![Domain Punch](/media/2014-08-28-domain-punch.png)
 
 There are countless sites on the web dishing out advice for how you should name your website/company, but sometimes the very best recommendation is to look at what's currently popular. And [Domain Name Wire](http://domainnamewire.com/2014/08/26/quickly-find-the-top-websites-built-on-new-tlds/) recently found a great site for this—[Domain Punch](https://domainpunch.com/topm/).
 

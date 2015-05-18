@@ -4,7 +4,7 @@ author: Paul
 title: Rails Camp On Track
 ----
 
-![rails.jpg]({{ site.images_url }}/2011-11-30-rails.jpg)
+![rails.jpg](/media/2011-11-30-rails.jpg)
 
 With Ruby going from strength to strength as a web development environment, it's encouraging to see plans for [Rails Camp 2012](https://groups.google.com/forum/#%21forum/railscamp) are already in full swing. The camp is an "unconference" style event that convenes Ruby On Rails hackers for a weekend of talking, coding and drinking.
 

@@ -4,7 +4,7 @@ author: Paul
 title: Free Zoho Sites Delivers Value On Custom Domain Setup
 ----
 
-![zohosites.jpg]({{ site.images_url }}/2012-05-29-zohosites.jpg)
+![zohosites.jpg](/media/2012-05-29-zohosites.jpg)
 
 It's been a long time coming but Zoho have finally added a website builder to their suite of [hosted business services](https://iwantmyname.com/features/applications/custom-domain-apps/zoho/email-hosting-and-online-office-suite). Nimble Zoho already had a fantastic offering with useful cross-platform functionality that has been nibbling at the heels of arch-competitor [Google Apps](https://iwantmyname.com/features/applications/google-apps-for-your-domain) for years, but now the circle is complete - so to speak. 
 

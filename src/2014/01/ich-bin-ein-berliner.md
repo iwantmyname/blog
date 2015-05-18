@@ -4,7 +4,7 @@ author: Chris
 title: Ich bin ein .BERLINer
 ----
 
-![bigstock-Berlin-Germany-viewed-from-ab-52294057.jpg]({{ site.images_url }}/2014-01-15-bigstock-Berlin-Germany-viewed-from-ab-52294057.jpg)
+![bigstock-Berlin-Germany-viewed-from-ab-52294057.jpg](/media/2014-01-15-bigstock-Berlin-Germany-viewed-from-ab-52294057.jpg)
 
 <!-- excerpt -->
 

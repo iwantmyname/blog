@@ -6,7 +6,7 @@ title: "Get your site ready for the big .NZ launch"
 
 <!-- excerpt -->
 
-![nz]({{ site.images_url }}/2014-09-12-nz-launch.jpg)
+![nz](/media/2014-09-12-nz-launch.jpg)
 
 Our US customers might have a hard time wrapping their heads around this, but local websites in much of the world end with something like this—.CO.NZ. But the days of ".CO" littering otherwise clean domains seems to be coming to an end. The United Kingdom recently opened up their [.UK](https://iwantmyname.com/domains/uk-domain-name-registration-for-united-kingdom) second-level domains, and New Zealand is now following suit.
 

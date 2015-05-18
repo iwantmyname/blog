@@ -4,7 +4,7 @@ author: Chris
 title: The internet is (finally) for everyone
 ----
 
-![ODNG.png]({{ site.images_url }}/2014-01-17-ODNG.png)
+![ODNG.png](/media/2014-01-17-ODNG.png)
 
 <!-- excerpt -->
 

@@ -6,7 +6,7 @@ title: Ello, a new ad-free social network to say hello
 
 <!-- excerpt -->
 
-![Ello]({{ site.images_url }}/2014-09-16-ello.jpeg)
+![Ello](/media/2014-09-16-ello.jpeg)
 
 From Gabriel Weinberg's Blog, in an article titled, "[What I use instead of Google services](http://www.gabrielweinberg.com/blog/2014/09/what-i-use-instead-of-google-services.html)"
 

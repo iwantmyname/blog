@@ -4,7 +4,7 @@ author: Chris
 title: Now Is A Great Time To Start Using GitHub Pages
 ----
 
-![Screen Shot 2013-12-17 at 23.06.23.png]({{ site.images_url }}/2013-12-18-Screen_Shot_2013-12-17_at_23.06.23.png)
+![Screen Shot 2013-12-17 at 23.06.23.png](/media/2013-12-18-Screen_Shot_2013-12-17_at_23.06.23.png)
 
 <!-- excerpt -->
 

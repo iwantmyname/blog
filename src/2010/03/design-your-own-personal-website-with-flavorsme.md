@@ -6,7 +6,7 @@ title: Design Your Own Personal Website With Flavors.me
 
 Are you tired of having your content spread all over the internet? Do you wish there was a place online that is YOU? If you ever felt like this, then [Flavors.me](http://flavors.me) might be the service you were waiting for. The new website builder lets you design and publish a beautiful personal profile website within just a few minutes.
 
-![flavorsme-timoreitnauer.jpg]({{ site.images_url }}/2010-03-09-flavorsme-timoreitnauer.jpg)
+![flavorsme-timoreitnauer.jpg](/media/2010-03-09-flavorsme-timoreitnauer.jpg)
 
 Flavors.me takes all your content feeds from around the web and displays it on a single homepage which makes it an ideal tool for hosting your own domain name. As soon as you publish or create entries on services like Twitter, Facebook, Last.fm, Flickr or Tumblr it will automatically show up on your Flavors.me page.
 

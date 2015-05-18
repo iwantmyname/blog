@@ -5,7 +5,7 @@ title: A call to help Vanuatu after Cyclone Pam
 excerpt: no
 ----
 
-![Vanuatu]({{ site.images_url }}/2015-03-23-vanuatu-cyclone.jpg)
+![Vanuatu](/media/2015-03-23-vanuatu-cyclone.jpg)
 
 For those of us who live in temperate climates, it's difficult to imagine
 the unfolding horror of a category 5 tropical cyclone bearing down on your

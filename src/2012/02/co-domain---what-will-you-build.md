@@ -4,7 +4,7 @@ author: Paul
 title: .CO Domain - What Will You Build?
 ----
 
-![dotco.png]({{ site.images_url }}/2012-02-29-dotco.png)
+![dotco.png](/media/2012-02-29-dotco.png)
 
 The [.CO domain](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia) launched at the end of 2009 and after only 18 months had already built a customer base of over 1 million registrations. That's astounding growth by any standard. But it's not all one way traffic for the perky upstart. The .CO registry is firmly focused on reaching out to and supporting entrepreneurs because it wants to be the new [.COM domain](https://iwantmyname.com/domains/com-domain-name-registration-for-commercial) for business.
 

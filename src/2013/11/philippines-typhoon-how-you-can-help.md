@@ -4,7 +4,7 @@ author: Paul
 title: "Philippines Typhoon: How You Can Help"
 ----
 
-![haiyan2.jpg]({{ site.images_url }}/2013-11-14-haiyan2.jpg)
+![haiyan2.jpg](/media/2013-11-14-haiyan2.jpg)
 
 <!-- excerpt -->
 

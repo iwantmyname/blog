@@ -4,7 +4,7 @@ author: Paul
 title: iWantMyName Applauds Startup Alley Finalists
 ----
 
-![webstock.png]({{ site.images_url }}/2012-01-26-webstock.png)
+![webstock.png](/media/2012-01-26-webstock.png)
 
 [Webstock](http://www.webstock.org.nz/) is a world class web usability and design conference being held right here in our own back yard. This year Kiwi web companies attending the event are getting a leg up through an initiative called [Startup Alley](http://www.webstock.org.nz/12/bnz-startup-alley.php) which is generously offering return flights to San Francisco and a short residency at [Kiwi Landing Pad](http://www.klp.org.nz/).
 

@@ -6,7 +6,7 @@ title: "The web at 25: Our favorite websites"
 
 <!-- excerpt -->
 
-![internet]({{ site.images_url }}/2014-03-13-macbook-internet.jpg)
+![internet](/media/2014-03-13-macbook-internet.jpg)
 
 The web is 25 today. A big birthday indeed—but what do you get a good friend who has everything? Cake? A [Mistobox](http://www.mistobox.com/) coffee membership?
 

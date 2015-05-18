@@ -6,7 +6,7 @@ title: StartUp shares the agony of naming a company, plus my short list of namin
 
 <!-- excerpt -->
 
-![StartUp]({{ site.images_url }}/2014-10-15-startup.jpg)
+![StartUp](/media/2014-10-15-startup.jpg)
 
 If you're a podcast listener, Alex Blumberg's new show, StartUp, just might be the best new show around. Here's the synopsis, from the StartUp about page:
 

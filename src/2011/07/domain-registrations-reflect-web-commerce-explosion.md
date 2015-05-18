@@ -4,7 +4,7 @@ author: Paul
 title: Domain Registrations Reflect Web Commerce Explosion
 ----
 
-![growth.jpg]({{ site.images_url }}/2011-07-13-growth.jpg)
+![growth.jpg](/media/2011-07-13-growth.jpg)
 
 The number of registered domains grew by over 4.5 million in the first three months of 2011, suggesting that the industry remains in good heart. Despite other businesses emerging only tentatively from global economic recession, domain registrars clocked up almost 8% in growth over the previous 12 months.
 

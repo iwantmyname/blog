@@ -4,7 +4,7 @@ author: Paul
 title: Starting Up New Zealand
 ----
 
-![lunch.jpg]({{ site.images_url }}/2012-09-21-lunch.jpg)
+![lunch.jpg](/media/2012-09-21-lunch.jpg)
 
 Over the last couple of years at [iwantmyname](https://iwantmyname.co.nz/) we've loved playing a part in starting up Startup Weekend across New Zealand. We've provided technical and business mentorship, organiser team management resources, [prizes and cash sponsorship](https://iwantmyname.com/blog/2012/07/wonderful-wellington-startup-w.html) - not to mention given away loads of free [domain names](https://iwantmyname.co.nz/domains). 
 

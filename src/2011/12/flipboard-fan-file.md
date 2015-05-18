@@ -4,7 +4,7 @@ author: Paul
 title: Flipboard Fan File
 ----
 
-![flipboard.jpg]({{ site.images_url }}/2011-12-08-flipboard.jpg)
+![flipboard.jpg](/media/2011-12-08-flipboard.jpg)
 
 There's been a lot of [buzz](http://thenextweb.com/apps/2011/12/07/flipboard-comes-to-the-iphone-and-you-can-download-it-now/) around this week about the new [Flipboard](http://itunes.apple.com/nz/app/flipboard/id358801284?mt=8) offering.The technology editor at UK's [Daily Telegraph](http://www.telegraph.co.uk/technology/mobile-app-reviews/8941206/Flipboard-for-iPhone-review.html) calls it "one of the essential iPad Apps". So with the iPhone version now launched, its quite likely to gather a huge following. But does Flipboard have universal appeal?
 

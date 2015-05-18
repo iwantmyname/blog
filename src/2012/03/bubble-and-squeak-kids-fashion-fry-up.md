@@ -4,7 +4,7 @@ author: Paul
 title: Bubble And Squeak Kids Fashion Fry-Up
 ----
 
-![cute.jpg]({{ site.images_url }}/2012-03-16-cute.jpg)
+![cute.jpg](/media/2012-03-16-cute.jpg)
 
 Growing a little tired of cookie cutter, mass produced clothing lines for kids? Our domain of the month might have the answer for you. [Bubble and Squeak](http://www.kidsclothesonline.co.nz/) offers online retailing for fun and funky childrenswear at affordable price points.
 

@@ -4,7 +4,7 @@ author: Chris
 title: A Short Interview With Tim Johnson, CEO Of Dot Kiwi
 ----
 
-![dot-kiwi-logo-blog.png]({{ site.images_url }}/2013-10-24-dot-kiwi-logo-blog.png)
+![dot-kiwi-logo-blog.png](/media/2013-10-24-dot-kiwi-logo-blog.png)
 
 <!-- excerpt -->
 

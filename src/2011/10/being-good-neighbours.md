@@ -4,7 +4,7 @@ author: Paul
 title: Being Good Neighbours
 ----
 
-![event.jpg]({{ site.images_url }}/2011-10-21-event.jpg)
+![event.jpg](/media/2011-10-21-event.jpg)
 
 As an emerging company within the [New Zealand domain](https://iwantmyname.co.nz/domains/co.nz-kiwi-domain-name-registration-for-new-zealand) technology industry, we take our community responsibilities seriously. But there's a sound business strategy behind being a friendly neighbour. We are only as good as the people around us.
 

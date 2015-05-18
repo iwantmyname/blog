@@ -8,7 +8,7 @@ Different [types of domain name scams](http://en.wikipedia.org/wiki/Domain_name_
 
 **Example letter "Domain Renewal Group":**
 
-![Domain Renewal Scam Letter]({{ site.images_url }}/2012-06-26-domain-renewal-scam-small.jpg)
+![Domain Renewal Scam Letter](/media/2012-06-26-domain-renewal-scam-small.jpg)
 
 Some things to check when you receive an email or letter regarding your domain registration, renewal or transfer:
 

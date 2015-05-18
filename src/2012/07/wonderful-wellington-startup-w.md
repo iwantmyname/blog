@@ -4,7 +4,7 @@ author: Paul
 title: Wonderful Wellington Startup Weekend
 ----
 
-![sw65.jpg]({{ site.images_url }}/2012-07-27-sw65.jpg)
+![sw65.jpg](/media/2012-07-27-sw65.jpg)
 
 We can't believe another Startup Weekend has rolled around already! The global new venture development initiative has been taking New Zealand by storm as word has spread amongst developers, designers and young entrepreneurs. [Startup Weekend](http://wellington.startupweekend.org/) is being held in our home town of Wellington this time, which means the [iwantmyname team](https://iwantmyname.co.nz/about) will be right in the thick of it once again this weekend.
 

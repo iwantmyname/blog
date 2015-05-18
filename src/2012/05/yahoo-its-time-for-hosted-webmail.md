@@ -4,7 +4,7 @@ author: Paul
 title: "Yahoo! It's Time For Hosted WebMail"
 ----
 
-![stuffed.jpg]({{ site.images_url }}/2012-05-18-stuffed.jpg)
+![stuffed.jpg](/media/2012-05-18-stuffed.jpg)
 
 **Update 14/02/13**.
 

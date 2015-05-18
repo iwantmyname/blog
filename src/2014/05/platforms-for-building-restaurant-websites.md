@@ -50,13 +50,13 @@ Once you have your name in place, here are some nice platforms to try out. All o
 
 Squarespace does a lot right with its simple website template system. With no design or development skill, you can create a responsive site (meaning it resizes automatically for any screen size) with beautiful photography, a great menu system, OpenTable integration, social connections and even an online sales platform. 
 
-![Squarespace]({{ site.images_url }}/2014-05-10-squarespace-restaurant.jpg)
+![Squarespace](/media/2014-05-10-squarespace-restaurant.jpg)
 
 **[Virb](https://iwantmyname.com/services/website-builder/virb-custom-domain) ([website](http://virb.com/restaurants))** - "Virb makes it easy to serve up a great website for your hungry guests, with simple tools and features to keep up with your fast-moving world."
 
 Like Squarespace, Virb is a comprehensive site builder that has entered the restaurant market in a big way. With no dev background, you get a number of beautiful templates with menu systems, contact pages, social integrations and OpenTable.
 
-![Virb]({{ site.images_url }}/2014-05-10-virb-restaurant.jpg)
+![Virb](/media/2014-05-10-virb-restaurant.jpg)
 
 **[Site Hungry](https://iwantmyname.com/services/website-builder/site-hungry-for-restaurants) ([website](http://sitehungry.com/))** - "Site Hungry allows you to set up a brand new restaurant website in less than 5 minutes. Share all of your restaurant's hours, location and contact information, menu, and social media in one place."
 
@@ -66,7 +66,7 @@ Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to build
 
 LetsEat is another restaurant-only platform that integrates menus, photography and social together to create clean, simple sites. But the differentiator for LetsEat is its "app store." With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you need. 
 
-![LetsEat]({{ site.images_url }}/2014-05-10-letseat-restaurant.png)
+![LetsEat](/media/2014-05-10-letseat-restaurant.png)
 
 
 

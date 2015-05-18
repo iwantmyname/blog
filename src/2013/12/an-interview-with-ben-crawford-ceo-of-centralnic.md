@@ -4,7 +4,7 @@ author: Chris
 title: An Interview With Ben Crawford, CEO of CentralNic
 ----
 
-![Screen Shot 2013-12-09 at 12.27.38.png]({{ site.images_url }}/2013-12-10-Screen_Shot_2013-12-09_at_12.27.38.png)
+![Screen Shot 2013-12-09 at 12.27.38.png](/media/2013-12-10-Screen_Shot_2013-12-09_at_12.27.38.png)
 
 <!-- excerpt -->
 

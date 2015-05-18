@@ -18,7 +18,7 @@ After the latest [VeriSign's Domain Industry Brief](http://www.verisign.com/Reso
 
 The following graph shows the growth over time and the distribution between different domain extensions:
 
-![Total Domain Name Registrations Graph]({{ site.images_url }}/2009-09-30-graph-how-many-domains-worldwide.png)
+![Total Domain Name Registrations Graph](/media/2009-09-30-graph-how-many-domains-worldwide.png)
 
 From these 184 million total registrations, **gTLDs account for 109.6 million registered domains and ccTLDs have a registration base of 74.4 million addresses**.
 

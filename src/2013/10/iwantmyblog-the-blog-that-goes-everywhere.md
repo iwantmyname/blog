@@ -4,7 +4,7 @@ author: Chris
 title: "iwantmyblog: The Blog That Goes Everywhere"
 ----
 
-![iwantmyblog-logo.png]({{ site.images_url }}/2013-10-05-iwantmyblog-logo.png)
+![iwantmyblog-logo.png](/media/2013-10-05-iwantmyblog-logo.png)
 
 <!-- excerpt -->
 

@@ -6,7 +6,7 @@ title: 100+ Hosted Services For Your Domains
 
 Since launching iwantmyname, our mission has been to help you find and set up the best hosted services through our unique [app marketplace for domains](https://iwantmyname.com/services). The number of listings is constantly growing and now features more than 100 applications with easy 1-click DNS setup.
 
-[![iwmn-marketplace.png]({{ site.images_url }}/2013-01-30-iwmn-marketplace.png)](https://iwantmyname.com/services)
+[![iwmn-marketplace.png](/media/2013-01-30-iwmn-marketplace.png)](https://iwantmyname.com/services)
 
 The iwantmyname marketplace lets you discover hosting services and apps from 15 different categories:
 

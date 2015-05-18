@@ -4,7 +4,7 @@ author: Chris
 title: Open admission to the "Cool Club" and the potentially murky future of Svbtle
 ----
 
-![x7rg26fs3udzxa.png]({{ site.images_url }}/2014-01-30-x7rg26fs3udzxa.png)
+![x7rg26fs3udzxa.png](/media/2014-01-30-x7rg26fs3udzxa.png)
 
 <!-- excerpt -->
 

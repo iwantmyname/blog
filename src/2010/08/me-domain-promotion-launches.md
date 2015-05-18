@@ -4,7 +4,7 @@ author: Paul
 title: .ME Domain Contest Launches
 ----
 
-![.me domain logo]({{ site.images_url }}/2010-08-03-me-domain-logo-slogan.png)
+![.me domain logo](/media/2010-08-03-me-domain-logo-slogan.png)
 
 It's all about .ME this month with the launch of a [fun contest](https://iwantmyname.co.nz/win-free-domain) that could give you a refund on the purchase of your own personal .ME domain. People are already making good use of .ME to domain customise their favourite [web services](https://iwantmyname.co.nz/services) such as [Tumblr](https://iwantmyname.co.nz/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url), [Blogger](https://iwantmyname.co.nz/features/applications/custom-domain-apps/blogs/blogger-blogspot-free-blog-with-own-url) or even [MobileMe](http://archived.link/https://iwantmyname.co.nz/features/applications/custom-domain-apps/apple/mobileme-personal-domains). Search and register your favourite name and then configure your shiny new domain using your iWantMyName account dashboard. This video explains [how to set up a domain on Posterous](https://iwantmyname.co.nz/services) for example.
 

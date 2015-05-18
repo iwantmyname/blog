@@ -18,7 +18,7 @@ Now as Dropbox platforms become more mature (and step out of permanent beta), th
 
 ###Writing
 
-![sb_float]({{ site.images_url }}/2013-10-22-Silvrback_Writing_medium.png)
+![sb_float](/media/2013-10-22-Silvrback_Writing_medium.png)
 
 After the setup process, the real joy of using Silvrback is the content editor. Unlike many other platforms that have you write in a confined space with a nasty case of the WYSIWYGs, Silvrback lets you write in simple Markdown, and even has a little button for toggling distractions from the screen. It's just you and your content, autosaving every time you touch a key. Even image uploading is easy (one of Markdown's few drawbacks). Just hit "Insert Image," copy the link provided into your post and check it out in the preview pane. 
 

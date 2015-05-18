@@ -4,7 +4,7 @@ author: Paul
 title: Community Warms To Domain Registrar Upstart
 ----
 
-![warm.jpg]({{ site.images_url }}/2013-05-29-warm.jpg)
+![warm.jpg](/media/2013-05-29-warm.jpg)
 
 Last week, with the colder weather driving people indoors, we had a few friends over for a quiet celebration...as you do. It's been five years since we first formed the company and started writing code to develop [iwantmyname](https://iwantmyname.co.nz/); so we really wanted to thank a bunch of people who had helped along the way with advice, support or the odd bit of work that kept us going as we built up the business.
 

@@ -4,7 +4,7 @@ author: Paul
 title: "App Developers: Make A Splash At Startup Weekend"
 ----
 
-![sw65.jpg]({{ site.images_url }}/2012-08-22-sw65.jpg)
+![sw65.jpg](/media/2012-08-22-sw65.jpg)
 
 The next New Zealand Startup Weekend has rolled around and we hear that the [Palmerston North event](http://palmynorth.startupweekend.org/) is almost sold out already. That's a testament to all of the organisers, sponsors and media that have got behind the global initiative and especially to all the participants who played so far. Startup Weekend makes entrepreneurial education fun and interactive which is fantastic because we need to boost and celebrate entrepreneurial culture more than ever before.
 

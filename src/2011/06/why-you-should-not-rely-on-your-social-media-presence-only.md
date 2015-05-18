@@ -6,7 +6,7 @@ title: Why You Should Not Rely On Your Social Media Presence Only
 
 Rand Fishkin of [SEOmoz](http://seomoz.org/) fame hits the nail on the head with [his answer](http://www.seomoz.org/blog/answers-to-4-excellent-seo-questions) to the following Tweet: "if he could have just one: site or social media presence. Which one would he choose and why!"
 
-[![Twitter Question Own Site Or Social Media Presence]({{ site.images_url }}/2011-06-29-seoquestion1.gif)](https://twitter.com/#!/pedrodias/status/82902994831687680)
+[![Twitter Question Own Site Or Social Media Presence](/media/2011-06-29-seoquestion1.gif)](https://twitter.com/#!/pedrodias/status/82902994831687680)
 
 Rand's excellent answer:
 

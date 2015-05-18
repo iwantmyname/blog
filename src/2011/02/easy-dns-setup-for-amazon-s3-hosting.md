@@ -8,6 +8,6 @@ The [iWantMyName marketplace](https://iwantmyname.com/services) is growing and w
 
 **Amazon S3 DNS setup example**
 
-![add-dns-amazon-s3-iwantmyname.png]({{ site.images_url }}/2011-02-22-add-dns-amazon-s3-iwantmyname.png)
+![add-dns-amazon-s3-iwantmyname.png](/media/2011-02-22-add-dns-amazon-s3-iwantmyname.png)
 
 Other recent DNS template additions for [developers](https://iwantmyname.com/services/developer) are cloud hosting platforms [DuoStack](https://iwantmyname.com/services/developer/duostack-custom-domain) and [PHP Fog](https://iwantmyname.com/services/developer/phpfog-custom-domain-setup). Want to have your favorite service added to the iWantMyName marketplace? [Let us know](https://iwantmyname.com/support).

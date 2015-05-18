@@ -4,7 +4,7 @@ author: Paul
 title: Step Right Up Ladies And Gentlemen!
 ----
 
-![registrator.jpg]({{ site.images_url }}/2013-03-01-registrator.jpg)
+![registrator.jpg](/media/2013-03-01-registrator.jpg)
 
 I suppose it was inevitable that, with German co-founders on board, we'd be mentioned alongside colourful and jovial circus master Mr Dotcom at some point. Leading Austrian tech author and blogger Jakob Steinschaden visited recently and looked into the [New Zealand start-up scene](http://digitalsirocco.tumblr.com/post/44210163962/neuseeland-im-schatten-von-kim-dotcom-gedeiht-eine) in the context of Mega. He uncovered a lively and well established tech start-up community with numerous other global success stories bubbling under the surface.
 

@@ -6,7 +6,7 @@ title: "Pagely Turns 4. Doesn't Ask For Any Gifts."
 
 <!-- excerpt -->
 
-![logo-blog-pagely.png]({{ site.images_url }}/2013-09-20-logo-blog-pagely.png)
+![logo-blog-pagely.png](/media/2013-09-20-logo-blog-pagely.png)
 
 Remember how great turning 4 was? No bills. Worries. Responsibilities. Just an unrelenting desire to build block towers and eat cookies. 
 

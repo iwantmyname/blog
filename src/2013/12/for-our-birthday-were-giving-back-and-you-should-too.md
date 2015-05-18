@@ -18,7 +18,7 @@ It might sound odd for a tech company to have a donation strategy; but we feel t
 
 ### Our First Charity
 
-![Save The Children]({{ site.images_url }}/2013-12-05-save-the-children.png)
+![Save The Children](/media/2013-12-05-save-the-children.png)
 
 With a nearly perfect [Charity Navigator score](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4438), as well as impressively using 91.7% of its budget on programs and services, we've selected [Save the Children](http://www.savethechildren.org) as our first charity of choice. More specifically, it's our intention to support the fantastic work that Save The Children is doing right now [on the ground in typhoon ravaged Philippines](http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.6150549/).
 

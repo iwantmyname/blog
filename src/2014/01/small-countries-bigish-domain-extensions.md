@@ -4,7 +4,7 @@ author: Chris
 title: Small countries, big(ish) domain extensions
 ----
 
-![bigstock-Adelie-Penguins-Jumping-From-I-36934342.jpg]({{ site.images_url }}/2014-01-19-bigstock-Adelie-Penguins-Jumping-From-I-36934342.jpg)
+![bigstock-Adelie-Penguins-Jumping-From-I-36934342.jpg](/media/2014-01-19-bigstock-Adelie-Penguins-Jumping-From-I-36934342.jpg)
 
 [From Akshat Rathi - Pando Daily:](http://pando.com/2014/01/16/10-tiny-places-that-have-their-own-domain-names/)
 

@@ -6,7 +6,7 @@ title: "The Tools We Use: Droplr For Sharing Files And Taking Screenshots"
 
 For a bigger, more updated look at Droplr, head over to our new post, "[Droplr is an exceptionally useful tool for sharing files and screenshots](https://iwantmyname.com/blog/2014/08/droplr-is-an-exceptionally-useful-tool.html)".
 
-![Droplr]({{ site.images_url }}/2013-11-02-screen800x500.jpg)
+![Droplr](/media/2013-11-02-screen800x500.jpg)
 
 <!-- excerpt -->
 

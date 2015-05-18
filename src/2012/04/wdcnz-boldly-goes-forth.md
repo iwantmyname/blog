@@ -4,7 +4,7 @@ author: Paul
 title: WDCNZ Boldly Goes Forth
 ----
 
-![wdcnz.jpg]({{ site.images_url }}/2012-04-24-wdcnz.jpg)
+![wdcnz.jpg](/media/2012-04-24-wdcnz.jpg)
 
 If Wellington is the centre of the digital creative universe, then [WDCNZ](http://wdcnz.com/)  must surely be the natural focus point for the New Zealand web [software developer](https://iwantmyname.co.nz/services/developer/) community. And since iWantMyName is simply the coolest [domain management](https://iwantmyname.co.nz/) service in the galaxy (and also based in the Capital) then it follows we'd "jump at light speed" for the chance to get involved, right? You bet!
 

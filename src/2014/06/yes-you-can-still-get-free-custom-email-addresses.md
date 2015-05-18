@@ -13,7 +13,7 @@ In short, Zoho Mail offers [just about everything](https://www.zoho.com/mail/zoh
 
 <!-- /excerpt -->
 
-![Tiers]({{ site.images_url }}/2014-06-19-zoho-tiers.png)
+![Tiers](/media/2014-06-19-zoho-tiers.png)
 
 ##Setting up your custom email address
 
@@ -21,10 +21,10 @@ Once you're ready to get started with Zoho Mail, the setup is quite simple. Firs
 
 Now that the domain is set up, head to [Zoho Mail](http://www.zoho.com/mail/zohomail-pricing.html) and select **Get Started**. Then, after you type in all the information needed, you're on to verifying ownership of your domain.
 
-![Zoho Domain]({{ site.images_url }}/2014-06-19-zoho-domain.png)
+![Zoho Domain](/media/2014-06-19-zoho-domain.png)
 
 As you can see in the screenshot below, just select **TXT Method** and click **Verify**. Since you already have your domain configured, everything should go through without a hitch.
 
-![Verify]({{ site.images_url }}/2014-06-19-zoho-verify.png)
+![Verify](/media/2014-06-19-zoho-verify.png)
 
 That's it! You now have your very own custom email address (it may take a while to start working, so hang tight if it's not instant). And as always, if you have any questions about the install, just let us know via our [support](https://iwantmyname.com/support) channel.

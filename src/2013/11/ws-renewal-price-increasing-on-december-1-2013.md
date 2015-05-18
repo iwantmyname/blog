@@ -4,7 +4,7 @@ author: Chris
 title: .WS Renewal Price Increasing On December 1, 2013
 ----
 
-![main-logo.png]({{ site.images_url }}/2013-11-14-main-logo.png)
+![main-logo.png](/media/2013-11-14-main-logo.png)
 
 A bit of unfortunate news this morning from your friendly neighborhood domain registrar—if you've registered, or are looking to register, a [.WS domain name](https://iwantmyname.com/domains/ws-samoan-domain-name-registration-for-western-samoa), be aware that the domain registry manager [WebSite.ws](http://website.ws) has announced that **renewal prices will be increasing** on December 1, 2013.
 

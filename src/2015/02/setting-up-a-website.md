@@ -25,7 +25,7 @@ At iwantmyname, we focus on domains and DNS management, so we don't offer hostin
 
 ## Setting up your site with a service platform
 
-![Apps]({{ site.images_url }}/2015-02-03-apps.png)
+![Apps](/media/2015-02-03-apps.png)
 
 You can sign up with a service that provides a platform: this includes web hosting _and_ the software to create and display your website and its contents. Examples of this include Squarespace, Big Cartel, Zenfolio, or Tumblr. In those cases, you have an account with the service, and set up and make changes to your website in that account.
 
@@ -41,7 +41,7 @@ Some services require you to verify your domain ownership in their system for se
 
 You get the code from the other service (Squarespace and Google Apps are good examples) and add a CNAME or or TXT record containing the code, then save the new settings. Where we can, we ask you for that code in our one-click setup, and add that extra record for you. The screenshot below shows the one-click setup for Squarespace. (You can see an example of instructions on how to get the verification code [here](http://help.squarespace.com/guides/domain-mapping-with-iwantmyname).)
 
-![Squarespace verification]({{ site.images_url }}/2015-02-03-squarespace-verification.png)
+![Squarespace verification](/media/2015-02-03-squarespace-verification.png)
 
 Once the settings have some time to propagate around the Internet (a few hours is plenty of time, usually), you can verify ownership in your account with the platform service. Often you can do this by just entering your domain name in your account there and clicking a button. These services generally have excellent documentation to explain where and how to complete that. But if you have questions, [we're happy to help, too](https://iwantmyname.com/support).
 
@@ -57,7 +57,7 @@ Web hosting can also be provided by a third-party hosting service, on which your
 
 When you use external web hosting, you connect your domain to the hosting account by adding their nameservers in your iwantmyname dashboard. Using external nameservers is kind of like having your mail forwarded after you move. 
 
-![Nameservers]({{ site.images_url }}/2015-02-03-nameserver-options.png)
+![Nameservers](/media/2015-02-03-nameserver-options.png)
 
 In your iwantmyname account dashboard, on the nameserver update page, there's a drop-down list of many popular hosting providers. Clicking on the one with which you have an account will automatically fill in their nameservers. Then you just have to save the new settings. 
 

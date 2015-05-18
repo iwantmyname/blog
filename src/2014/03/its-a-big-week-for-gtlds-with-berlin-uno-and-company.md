@@ -6,7 +6,7 @@ title: It's a big week for gTLDs, with .BERLIN, .UNO and .COMPANY
 
 <!-- excerpt -->
 
-![Berlin]({{ site.images_url }}/2014-03-18-berlin-river.jpg)
+![Berlin](/media/2014-03-18-berlin-river.jpg)
 
 This week is a big one for the gTLD rollout, with a massive eight new domain extensions to choose from: [.ACADEMY](https://iwantmyname.com/domains/dot-academy), [.BERLIN](https://iwantmyname.com/domains/dot-berlin), [.CENTER](https://iwantmyname.com/domains/dot-center), [.COMPANY](https://iwantmyname.com/domains/dot-company), [.COMPUTER](https://iwantmyname.com/domains/dot-computer), [.MANAGEMENT](https://iwantmyname.com/domains/dot-management), [.SYSTEMS](https://iwantmyname.com/domains/dot-systems) and [.UNO](https://iwantmyname.com/domains/dot-uno).
 

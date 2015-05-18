@@ -14,13 +14,13 @@ To connect your iwantmyname domain to a hosting account, all you need to do on o
 
 2. Login to your account at iwantmyname and select ***Manage DNS*** under ***Setup*** in the main navigation.
 
-![Screen Shot 2014-01-03 at 11.38.23.png]({{ site.images_url }}/2014-01-03-Screen_Shot_2014-01-03_at_11.38.23.png)
+![Screen Shot 2014-01-03 at 11.38.23.png](/media/2014-01-03-Screen_Shot_2014-01-03_at_11.38.23.png)
 
 3. On the next screen, select ***Update nameservers*** next to your desired domain.
 
 4. By default, your nameservers will be set to iwantmyname. With these settings, you can perform one-click installs for any of the apps in our marketplace, but with self-hosting, you'll be moving your DNS management to your new host. To do this, click the dropdown menu labelled ***Popular settings*** and select your host. For this example, we're going to select Site5 Hosting.
 
-![Screen Shot 2014-01-03 at 10.32.39.png]({{ site.images_url }}/2014-01-03-Screen_Shot_2014-01-03_at_10.32.39.png)
+![Screen Shot 2014-01-03 at 10.32.39.png](/media/2014-01-03-Screen_Shot_2014-01-03_at_10.32.39.png)
 
 If your host is not on the list, select ***I have my own nameservers...*** from the list and input the records provided by your host. Also, when changing from the iwantmyname nameservers, make sure any excess iwantmyname information is deleted from Nameserver 3 and Nameserver 4. Mixing custom host nameservers with iwantmyname nameservers can have odd results.
 

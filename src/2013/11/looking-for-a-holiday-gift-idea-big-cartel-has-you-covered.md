@@ -4,7 +4,7 @@ author: Chris
 title: Looking For Holiday Gift Ideas? Big Cartel Has You Covered
 ----
 
-![Lord_Lady_Nerd_EDIT_4.jpg]({{ site.images_url }}/2013-11-26-Lord_Lady_Nerd_EDIT_4.jpg)
+![Lord_Lady_Nerd_EDIT_4.jpg](/media/2013-11-26-Lord_Lady_Nerd_EDIT_4.jpg)
 
 [From Big Cartel:](http://shopindie.bigcartel.com)
 

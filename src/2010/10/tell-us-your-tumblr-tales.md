@@ -8,7 +8,7 @@ Owning a personal or business related domain name is the first step to controlli
 
 [Tumblr](http://www.tumblr.com/) is great blogging platform that lets you easily share stories, images and other digital content with the world. Everything about Tumblr makes setting up and managing a blog easy.  We now have a special custom domain promotion for both new and existing Tumblr users. Simply use [this link](https://iwantmyname.co.nz/tumblr) and we will apply a 20% discount on your domain registration with iWantMyName.
 
-![tumblr-domains-promo.png]({{ site.images_url }}/2010-10-30-tumblr-domains-promo.png)
+![tumblr-domains-promo.png](/media/2010-10-30-tumblr-domains-promo.png)
 
 **5 good reasons why you should secure your own domain name for your Tumblr:**
 

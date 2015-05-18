@@ -4,7 +4,7 @@ author: Paul
 title: Photo Hosting Service 500px Increases Exposure
 ----
 
-![500px.png]({{ site.images_url }}/2012-02-16-500px.png)
+![500px.png](/media/2012-02-16-500px.png)
 
 Every so often we come across a web app that simply blows our socks off. [500px](http://500px.com/) is one such. It's a portfolio offering for photographers that is jam packed full of absolutely gorgeous images. Of course we simply had to add it to our recommendation list of [hosted services](https://iwantmyname.com/services) and it has been great to see users taking early advantage of our easy [domain customization facility for 500px](https://iwantmyname.com/services/portfolio/500px-custom-domain-registration) portfolios.
 

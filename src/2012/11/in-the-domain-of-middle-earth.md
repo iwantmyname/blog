@@ -4,7 +4,7 @@ author: Paul
 title: In The Domain of Middle Earth
 ----
 
-![orc3.jpg]({{ site.images_url }}/2012-11-26-orc3.jpg)
+![orc3.jpg](/media/2012-11-26-orc3.jpg)
 
 Many of you will be aware that [iwantmyname](https://iwantmyname.com/) is based in New Zealand, which is the location for filming of both the Lord of the Rings movie trilogy and now The Hobbit. In fact Oscar winning director Peter Jackson shot much of the movie footage on a huge sound stage just a few minutes drive from our office in downtown Wellington. 
 

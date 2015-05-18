@@ -4,7 +4,7 @@ author: Paul
 title: 10 Startup Weekend Resources
 ----
 
-![sw65.jpg]({{ site.images_url }}/2011-03-28-sw65.jpg)
+![sw65.jpg](/media/2011-03-28-sw65.jpg)
 
 This year [iWantMyName](https://iwantmyname.co.nz/) has been involved in supporting Startup Weekend events around the globe. We are also giving away some domains so that each team has a digital coat hanger to [anchor](https://iwantmyname.com/blog/2010/11/anchor-your-social-media-presence-with-a-domain.html) their web venture upon.
 

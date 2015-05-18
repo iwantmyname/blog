@@ -6,7 +6,7 @@ title: Contacting the owner of a domain you want to buy
 
 <!-- excerpt -->
 
-![Passing domain]({{ site.images_url }}/2015-04-20-passing-domain.jpg)
+![Passing domain](/media/2015-04-20-passing-domain.jpg)
 
 We published a fairly extensive series a while back to help you figure out what to do if there's a domain you want that's already been registered, or similar issues. Two of the most relevant posts for our purposes here are [Part 5](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt5.html) and [Part 6](https://iwantmyname.com/blog/2014/06/domain-already-registered-pt6.html).
 

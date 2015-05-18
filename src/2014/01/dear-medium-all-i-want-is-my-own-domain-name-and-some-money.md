@@ -4,7 +4,7 @@ author: Chris
 title: Dear Medium, all I want is my own domain name. And some money.
 ----
 
-![cxj3.png]({{ site.images_url }}/2014-01-31-cxj3.png)
+![cxj3.png](/media/2014-01-31-cxj3.png)
 
 <!-- excerpt -->
 

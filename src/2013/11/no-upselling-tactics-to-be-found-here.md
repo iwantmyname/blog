@@ -17,7 +17,7 @@ We came across this post last week from Econsultancy titled, "[Nine upselling le
 
 > Upsells should be priced low enough to be an impulse buy. When offering an upsell, make it a price point that appears to the user as significantly cheaper than the original product they were buying.
 
-![namecheap-shopping-cart.png]({{ site.images_url }}/2013-11-07-namecheap-shopping-cart.png)
+![namecheap-shopping-cart.png](/media/2013-11-07-namecheap-shopping-cart.png)
 
 Just look at the mess in this basket. $2 here. $3.33/mo there. At iwantmyname, we don't try to nitpick you with upsells in your cart. A domain is a domain, and our prices are set to provide the best balance of value and support we can offer.
 
@@ -25,7 +25,7 @@ Just look at the mess in this basket. $2 here. $3.33/mo there. At iwantmyname, w
 
 > Present the upsell as benefits to the user. By highlighting the benefits of a product, rather than its features, customers will understand what it offers them and will be more likely to buy.
 
-![crazydomains_certification.png]({{ site.images_url }}/2013-11-07-crazydomains_certification.png)
+![crazydomains_certification.png](/media/2013-11-07-crazydomains_certification.png)
 
 This is a trick many online businesses use to upsell--providing services that users don't quite understand as a scare tactic. The example here shows a Domain Certification that can be purchased at extra cost, complete with a paragraph of the benefits it can provide for your business. And for many users, that sort of add-on might sound reasonable. 
 
@@ -53,7 +53,7 @@ Using bundled sales as a marketing strategy could take up a post on its own, but
 
 > Make the differences between options clear. Make higher cost packages appear more comprehensive by showing icons or checklists (and don't forget to explain what these additional features are, if it's not clear).
 
-![register-options.png]({{ site.images_url }}/2013-11-07-register-options.png)
+![register-options.png](/media/2013-11-07-register-options.png)
 
 We're probably starting to sound like a broken record here, but if you find yourself questioning the complexity of your purchase because of a confusing sales pitch, it may be time to find a new registrar.
 

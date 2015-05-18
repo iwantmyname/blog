@@ -4,7 +4,7 @@ author: Paul
 title: Web Domain Underpins Social Media Stream
 ----
 
-![network.jpg]({{ site.images_url }}/2011-06-30-network.jpg)
+![network.jpg](/media/2011-06-30-network.jpg)
 
 **Social Media Day** kicks off around the world today with a bunch of [events](http://up.org.nz/events/social_media_day_mashup) aimed at promoting discussion about social media. So now with the prospect of many [new domain extensions](https://iwantmyname.com/blog/2011/06/new-era-unfolds-for-domains.html) on the horizon, it is timely to think about the importance of a good domain name in relation to social media. Whether you are promoting a business or a personal brand, your domain name ultimately forms the foundation for all your online marketing initiatives because the website you own should be the confluence of your social media stream.
 

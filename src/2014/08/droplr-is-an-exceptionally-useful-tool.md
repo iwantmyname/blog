@@ -8,7 +8,7 @@ title: "Droplr is an exceptionally useful tool for sharing files and screenshots
 
 Quietly resting on my desktop nav, next to the icons for Twitter, Dropbox, OnePassword, Wifi and Finder, is the stylized Droplr drop—arguably one of the most useful apps on my computer. It doesn't do a whole lot, but what it does, it does quite well.
 
-![Screenshot]({{ site.images_url }}/2014-08-26-droplr-screenshot-one-compressor.png)
+![Screenshot](/media/2014-08-26-droplr-screenshot-one-compressor.png)
 
 <!-- /excerpt -->
 
@@ -26,7 +26,7 @@ Completely replacing Grab on my computer is Droplr, which allows me to take regu
 
 Like all [the best apps and platforms](https://iwantmyname.com/services), adding a custom domain is painless with iwantmyname.
 
-![Add Droplr]({{ site.images_url }}/2014-08-26-droplr-iwmn-add.png)
+![Add Droplr](/media/2014-08-26-droplr-iwmn-add.png)
 
 1. Assuming you already have a short domain registered (if not, start [here](https://iwantmyname.com/services/url-shortener/customize-droplr-with-your-own-domain)), login to your iwantmyname account and select **Apps & Services** under the **Setup** menu in the top nav. 
 2. From here, either type **Droplr** into the search field, or select the app under the **URL Shortener** menu. 

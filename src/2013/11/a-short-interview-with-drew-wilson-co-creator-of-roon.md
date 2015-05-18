@@ -4,7 +4,7 @@ author: Chris
 title: A Short Interview With Drew Wilson, Co-Creator Of Roon
 ----
 
-![roon-520.png]({{ site.images_url }}/2013-11-01-roon-520.png)
+![roon-520.png](/media/2013-11-01-roon-520.png)
 
 <!-- excerpt -->
 

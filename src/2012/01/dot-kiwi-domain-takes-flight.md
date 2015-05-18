@@ -4,7 +4,7 @@ author: Paul
 title: Dot Kiwi Domain Takes Flight
 ----
 
-![DotKiwi-Logo-small.jpg]({{ site.images_url }}/2012-01-18-DotKiwi-Logo-small.jpg)
+![DotKiwi-Logo-small.jpg](/media/2012-01-18-DotKiwi-Logo-small.jpg)
 
 Vancouver based ex-pat New Zealander Tim Johnson wanted to do something to help out his quake damaged hometown of Christchurch, so he set up a company called [Dot Kiwi](http://dot-kiwi.com/) to create and administer a new domain name. Appropriately, a portion of the profit from sales of the proposed .kiwi domain will be earmarked for the Christchurch recovery. 
 

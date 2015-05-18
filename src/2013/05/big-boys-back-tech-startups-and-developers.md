@@ -4,7 +4,7 @@ author: Paul
 title: Big Boys Back Tech Startups And Developers
 ----
 
-![swakl1.jpg]({{ site.images_url }}/2013-05-13-swakl1.jpg)
+![swakl1.jpg](/media/2013-05-13-swakl1.jpg)
 
 At iwantmyname we've been longtime fans and supporters of Startup Weekends in New Zealand. Last weekend's [Auckland](http://auckland.startupweekend.org/) event was no exception and we were pleased to shout some drinks for thirsty punters who rocked up to the Viaduct Basin on Friday night ready to do battle. Lenz and Paul from the [iwantmyname team](https://iwantmyname.co.nz/about) also took time out to travel north and get involved.
 

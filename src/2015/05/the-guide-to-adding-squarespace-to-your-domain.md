@@ -17,36 +17,36 @@ What's not quite as intuitive though is the domain setup. We pride ourselves in 
 
 1.  Get started with Squarespace by clicking **Get Started** on the [Squarespace homepage](http://squarespace.com), choosing a template, then clicking the **Start With This Design** button. There are a couple quick questions you can answer after that, or you can skip them for now. 
 
-    ![Squarespace home]({{ site.images_url }}/2015-05-11-squarespace-home.jpg)
+    ![Squarespace home](/media/2015-05-11-squarespace-home.jpg)
 
 2.  From Squarespace's side navigation, click **Settings** > **Domains** > **Connect a Third-Party Domain**
 
-    ![Settings]({{ site.images_url }}/2015-05-11-squarespace-settings.jpg)
+    ![Settings](/media/2015-05-11-squarespace-settings.jpg)
 
 3.  Enter your domain name in the Domain Name field provided.
 
-    ![Add domain]({{ site.images_url }}/2015-05-11-squarespace-domain-iwantmyblog.jpg)
+    ![Add domain](/media/2015-05-11-squarespace-domain-iwantmyblog.jpg)
 
 4.  Select **iwantmyname** from the Domain Provider dropdown list. Click **Connect Domain**.
 
-    ![Dropdown iwantmyname]({{ site.images_url }}/2015-05-11-squarespace-select-iwantmyname.jpg)
+    ![Dropdown iwantmyname](/media/2015-05-11-squarespace-select-iwantmyname.jpg)
 
 5.  Squarespace is now linking your domain. Click **okay**. 
 
-    ![Click okay]({{ site.images_url }}/2015-05-11-squarespace-in-progress.jpg)
+    ![Click okay](/media/2015-05-11-squarespace-in-progress.jpg)
 
 6.  Copy that long string of letters and numbers listed first under the Host column (it'll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you'll add in the iwantmyname dashboard. 
 
-    ![Copy string]({{ site.images_url }}/2015-05-11-squarespace-host.jpg)
+    ![Copy string](/media/2015-05-11-squarespace-host.jpg)
 
 7.  Open a new window and log into your iwantmyname account, then head to the [Squarespace app setup page](https://iwantmyname.com/dashboard/apps/setup/Squarespace/). Click Add Squarespace. 
 
 8.  You've already signed up for squarespace, so now add the verification code to the 'Unique verification code' input. Then click **Install Squarespace**.
 
-    ![Unique Code]({{ site.images_url }}/2015-05-11-squarespace-unique-ver.jpg)
+    ![Unique Code](/media/2015-05-11-squarespace-unique-ver.jpg)
 
 9.  Back on your Squarespace window, if you click **Refresh**, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don't be alarmed if things don't look correct right away. Just jump to the next step.
 
-    ![Correct]({{ site.images_url }}/2015-05-11-squarespace-correct.jpg)
+    ![Correct](/media/2015-05-11-squarespace-correct.jpg)
 
 10. You're all done! Have fun building your Squarespace site!

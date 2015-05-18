@@ -6,7 +6,7 @@ title: "iwantmyname culture: On hiring and hierarchy"
 
 <!-- excerpt -->
 
-![Team]({{ site.images_url }}/2014-08-19-iwmn-team.gif)
+![Team](/media/2014-08-19-iwmn-team.gif)
 
 The one truth about growing a company is that at some point you'll run out of qualified friends to employ. For us, our first hire outside of that group was a developer, because we badly needed someone who was good at the things we sucked at. And our hire was a good one, as he is an absolute expert in his field—but his most important trait was that he fit in really well with the team. Ever since our first hiring experience, we've made fitting in a top priority when adding team members, and it's worked out extremely well. 
 

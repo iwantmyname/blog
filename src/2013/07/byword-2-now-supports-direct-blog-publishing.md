@@ -4,7 +4,7 @@ author: Owen
 title: Writing App Byword Now Supports Direct Blog Publishing
 ----
 
-![Byword 2.0]({{ site.images_url }}/2013-07-30-124075-1280-thumb-540x337-286.png)
+![Byword 2.0](/media/2013-07-30-124075-1280-thumb-540x337-286.png)
 
 The beautiful text editing app for Mac, iPhone and iPad that is designed to make writing more enjoyable and productive has received a pretty large update recently.
 

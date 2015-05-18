@@ -4,7 +4,7 @@ author: Paul
 title: A Domain For Chinese New Year
 ----
 
-![dragon]({{ site.images_url }}/2012-01-26-dragon.jpg)
+![dragon](/media/2012-01-26-dragon.jpg)
 
 This week sees the start of the Chinese or Lunar New Year with 2012 being a "most auspicious" year of the dragon. There's no denying that China remains an economic juggernaut and despite the uncertain global economic outlook, growth is expected to exceed 8% this year. So what is the best way for companies trading there to build a secure web profile?
 

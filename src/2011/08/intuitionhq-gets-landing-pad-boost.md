@@ -4,7 +4,7 @@ author: Paul
 title: IntuitionHQ Gets Landing Pad Boost
 ----
 
-![ihq.png]({{ site.images_url }}/2011-08-31-ihq.png)
+![ihq.png](/media/2011-08-31-ihq.png)
 
 Could Boost New Media be the next 37 Signals? The emerging Wellington company not only has a collection of award winning web design and development [projects](http://archived.link/http://www.boost.co.nz/work) under its belt, but the Boost team have also been working on a suite of web-based software products.
 

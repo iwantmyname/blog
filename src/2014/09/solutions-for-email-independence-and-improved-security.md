@@ -6,7 +6,7 @@ title: 3 solutions for email independence and improved security
 
 <!-- excerpt -->
 
-![Post Office]({{ site.images_url }}/2014-09-23-post-office.jpg)
+![Post Office](/media/2014-09-23-post-office.jpg)
 
 Email is one of those things most of us take for granted—this is your email address, and you can put it in any email app you want via IMAP or POP3. But each email address isn't the same, and many platforms leave security/privacy minded individuals looking for better alternatives.
 

@@ -4,7 +4,7 @@ author: Paul
 title: Assistly Takes Lead In Customer Service Domain
 ----
 
-![logo-customer-support-assistly.png]({{ site.images_url }}/2011-09-30-logo-customer-support-assistly.png)
+![logo-customer-support-assistly.png](/media/2011-09-30-logo-customer-support-assistly.png)
 
 Just like the Remington shaver man, high flying hosted enterprise software provider Salesforce.com loved [Assistly](http://www.assistly.com/) so much that they acquired the company. It's no surprise really. Assistly hits the sweet spot for small businesses using social software for customer support and looks set to take off.
 

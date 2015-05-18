@@ -4,7 +4,7 @@ author: Paul
 title: How To Make An Online Shop That Rocks
 ----
 
-![rock.png]({{ site.images_url }}/2012-11-05-rock.png)
+![rock.png](/media/2012-11-05-rock.png)
 
 Lower Hutt web designer and rock fan Dave Keyes recently decided to combine his passions by launching an [e-commerce website](https://iwantmyname.co.nz/services/ecommerce-hosting/) to distribute rock themed clothing and gifts. Part of the profits go to the Cancer Society of New Zealand, so we figured [thisisatribute.com](http://archived.link/http://thisisatribute.com/) was the perfect candidate for our November website of the month.
 

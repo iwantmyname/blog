@@ -6,7 +6,7 @@ title: "Mashable highlights some great moments in a \"brief history of the domai
 
 <!-- excerpt -->
 
-![retro pic]({{ site.images_url }}/2014-03-11-retro-computer.jpg)
+![retro pic](/media/2014-03-11-retro-computer.jpg)
 
 [From Max Knoblauch - Mashable:](http://mashable.com/2014/03/10/domain-names-history/)
 

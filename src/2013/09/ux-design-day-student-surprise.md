@@ -4,7 +4,7 @@ author: Paul
 title: UX Design Day Student Surprise!
 ----
 
-![uxdd]({{ site.images_url }}/2013-09-26-uxdd.jpg)
+![uxdd](/media/2013-09-26-uxdd.jpg)
 
 If you are involved with product development, design or user experience in any way at all, then you will love [UX Design Day](http://uxdesignday.org/wellington/) which is coming to Wellington very soon. The local speaker line-up reads like a who's who of our web design glitterati, including Philip Fierlinger (Xero), Ruth Brown (TradeMe) and the fabulous Philippa Dawe from design agency Alexander Rose. Keynoting is Wesley Yun, Samsung's U.S. based creative director. 
 

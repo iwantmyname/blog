@@ -9,7 +9,7 @@ redirect_to: https://iwantmyname.com/domains/is-icelandic-domain-name-registrati
 
 We're not to sure if they do because both [cheezburger.is](https://iwantmyname.com/search?domain=cheezburger.is&hideUnavailable=false) and [cheeseburger.is](https://iwantmyname.com/search?domain=cheeseburger.is&hideUnavailable=false) are still available for registration. There seems to be an Iceland Cheeseburger Pizza though?!?
 
-![iceland-cheezburger.png]({{ site.images_url }}/2012-12-17-iceland-cheezburger.png)
+![iceland-cheezburger.png](/media/2012-12-17-iceland-cheezburger.png)
 
 Now THAT sounds healthy! Anyway, as one of the most requested country code top-level domains (ccTLDs) at [iwantmyname](https://iwantmyname.com), it is with great pleasure to announce the addition of the Icelandic domain extension to our [TLD family](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions).
 

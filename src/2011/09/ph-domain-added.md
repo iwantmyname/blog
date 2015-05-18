@@ -4,7 +4,7 @@ author: Paul
 title: .PH Domains Added
 ----
 
-![ph.png]({{ site.images_url }}/2011-09-15-ph.png)
+![ph.png](/media/2011-09-15-ph.png)
 
 We've added some oom.ph to our extensive list of almost 100 unique Internet [domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) by adding .PH the [Philippines domain](https://iwantmyname.com/domains/ph-filipino-domain-name-registration-for-philippines). So now's a great time to dream up some crazy domain hacks or perhaps a few [scientific domain names](https://iwantmyname.com/search?domain=acidic.ph).
 

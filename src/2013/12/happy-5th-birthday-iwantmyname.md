@@ -4,7 +4,7 @@ author: Timo
 title: Happy 5th Birthday iwantmyname!
 ----
 
-[![The first weeks at iwantmyname]({{ site.images_url }}/2013-12-04-the-first-weeks.jpg)](http://www.flickr.com/photos/ideegeo/sets/72157638335879185/)
+[![The first weeks at iwantmyname](/media/2013-12-04-the-first-weeks.jpg)](http://www.flickr.com/photos/ideegeo/sets/72157638335879185/)
 
 Flickr set: [The first few weeks at iwantmyname in 2008](http://www.flickr.com/photos/ideegeo/sets/72157638335879185/)
 

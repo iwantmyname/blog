@@ -12,7 +12,7 @@ You're always giving something in exchange for [Google](http://google.com "Googl
 
 Think of Clicky as Google Analytics' slightly worse looking cousin. It's got a great set of tools that won't leave you wanting alternatives and guarantees your data isn't disappearing into somewhere to be used for research.
 
-![analytics-clicky-1.png]({{ site.images_url }}/2013-03-05-analytics-clicky-1.png)
+![analytics-clicky-1.png](/media/2013-03-05-analytics-clicky-1.png)
 
 Clicky features real-time statistics, [Twitter](https://twitter.com "Twitter") monitoring, a [Wordpress](http://wordpress.org "WordPress") plugin as well as an [iPhone application](http://www.apple.com/itunes "App Store (iOS)"). It's great at letting you dig into your data and show it in meaningful ways. Clicky is slightly faster to update than Google Analytics too, so it's great for if you've got a large spike in traffic.
 
@@ -24,7 +24,7 @@ To sign up for [Clicky](http://clicky.com/), visit their website.
 
 This is a self-hosted Google Analytics solution and comes from the same developer as the very inspiring Google Reader alternative, [Fever](http://www.feedafever.com/). Mint is all about "less is more" and offers very basic functionality but shows data in a very meaningful and easy to read way.
 
-![analytics-mint.png]({{ site.images_url }}/2013-03-05-analytics-mint.png)
+![analytics-mint.png](/media/2013-03-05-analytics-mint.png)
 
 The basic functionality can be extended upon with their "Peppers" which are 3rd-party developed tools that extend the platform. Some may be turned off by the basic nature of the solution, as it only really shows you basic statistics and they can't be sorted much further past that.
 
@@ -36,7 +36,7 @@ The other catch is, whilst it's a great tool, there isn't a free trial. You eith
 
 Did somebody say [Open Source](http://www.wikinvest.com/concept/Open_Source "Open Source")? We're glad you did. There's a few great open source tools too, such as Piwik, which lists itself as a direct competitor to Google Analytics and is totally free.
 
-![analytics-piwik.png]({{ site.images_url }}/2013-03-05-analytics-piwik.png)
+![analytics-piwik.png](/media/2013-03-05-analytics-piwik.png)
 
 Piwik has been downloaded 1.2 million times, so it's definitely popular for a reason. The product is stylish, self-hosted and highly customizable. There's even a live demo [available on their website](http://demo.piwik.org/index.php?module=CoreHome&action=index&idSite=7&period=day&date=yesterday#module=Dashboard&action=embeddedIndex&idSite=7&period=day&date=yesterday&idDashboard=1) so you can try it out before you actually go ahead and install it.
 
@@ -46,7 +46,7 @@ The dashboard is entirely customizable and allows for setting it up just how you
 
 **If you're looking for something that's extremely similar to Google Analytics in its ease of use and even design style, this is the one for you. You'll feel right at home.
 
-![analytics-open-web.png]({{ site.images_url }}/2013-03-05-analytics-open-web.png)
+![analytics-open-web.png](/media/2013-03-05-analytics-open-web.png)
 
 Open Web Analytics is an open-source self-hosted alternative to Google Analytics and is even able to run inside of Wordpress as a plugin, which makes it especially easy for those new to these kinds of services to set up.
 

@@ -4,7 +4,7 @@ author: Paul
 title: NASA Cloud Collaboration Launches
 ----
 
-![shuttle70.jpg]({{ site.images_url }}/2011-07-22-shuttle70.jpg)
+![shuttle70.jpg](/media/2011-07-22-shuttle70.jpg)
 
 With the final space shuttle mission completed, one could be forgiven for thinking NASA might be looking around for a new line of business altogether - but it's not. In a collaboration with rock star hosting provider Rackspace, the American space explorer is launching into the cloud, to underpin its core business.
 

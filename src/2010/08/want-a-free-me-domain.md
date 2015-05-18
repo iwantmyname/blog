@@ -4,7 +4,7 @@ author: Timo
 title: Want A Free .ME Domain?
 ----
 
-![.me domain logo]({{ site.images_url }}/2010-08-03-me-domain-logo.png)
+![.me domain logo](/media/2010-08-03-me-domain-logo.png)
 
 It's all about .ME this month with the launch of a fun [fun promotion](http://archived.link/https://iwantmyname.com/win-free-domain) that could give you a refund on the purchase of your own personal .ME domain. People are already making good use of .ME to customize their favorite [web services](https://iwantmyname.com/services) such as [Tumblr](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url), [Blogger](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/blogger-blogspot-free-blog-with-own-url) or even [MobileMe](https://iwantmyname.com/features/applications/custom-domain-apps/apple/mobileme-personal-domains) with their web address.
 

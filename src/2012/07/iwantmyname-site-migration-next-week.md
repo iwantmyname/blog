@@ -12,7 +12,7 @@ We're introducing a new logo, site design and [domain search](https://iwantmynam
 
 Here's a screenshot of the new home page:
 
-![New iWantMyName Home Page]({{ site.images_url }}/2012-07-17-new-website-small.png)
+![New iWantMyName Home Page](/media/2012-07-17-new-website-small.png)
 
 **How will I be affected?**
 

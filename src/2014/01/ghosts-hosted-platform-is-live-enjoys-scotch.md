@@ -4,7 +4,7 @@ author: Chris
 title: Ghost's hosted platform is live, "enjoys Scotch"
 ----
 
-![Ghost-Logo-on-White.png]({{ site.images_url }}/2014-01-16-Ghost-Logo-on-White.png)
+![Ghost-Logo-on-White.png](/media/2014-01-16-Ghost-Logo-on-White.png)
 
 <!-- excerpt -->
 

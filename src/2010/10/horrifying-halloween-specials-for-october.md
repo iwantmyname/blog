@@ -4,7 +4,7 @@ author: Paul
 title: Horrifying Halloween Specials for October
 ----
 
-![pumpkin]({{ site.images_url }}/2010-10-01-pumpkin2.png)
+![pumpkin](/media/2010-10-01-pumpkin2.png)
 
 Halloween is just around the corner so we've terrified ourselves by madly slashing prices all over! That's great news for our customers however, with some shockingly good deals for international, Asian, European & [exotic domain extensions](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) throughout the month of October 2010. Our pain is your gain, because no way in Hell are we going to be beaten on price or variety.
 

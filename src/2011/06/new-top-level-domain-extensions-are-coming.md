@@ -4,7 +4,7 @@ author: Timo
 title: New Top Level Domain Extensions Are Coming!
 ----
 
-![ICANN Logo]({{ site.images_url }}/2011-06-21-icann.png)
+![ICANN Logo](/media/2011-06-21-icann.png)
 
 Internet body [ICANN](http://icann.org) meeting in Singapore this week is presiding over the most significant opening up of the domain name system (DNS) for many years. ICANN has agreed in principle to allow [new top-level domain extensions](https://iwantmyname.com/blog/2009/06/list-new-gtld-domain-extensions-2010.html) known as generic top level domains (gTLDs). 
 

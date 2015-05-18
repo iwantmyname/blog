@@ -6,7 +6,7 @@ title: New in the Marketplace - QuickMVP, the easiest way to test your next big 
 
 <!-- excerpt -->
 
-![5-Minute Technique]({{ site.images_url }}/2015-02-12-quickmvp.png)
+![5-Minute Technique](/media/2015-02-12-quickmvp.png)
 
 How many times have you come up with a big idea, spent the money, time, and effort needed to get it going, only to watch it flame out after a few months due to a lack of traction. It's hard to know how successful an idea will be before launch, but and easy way to find out is with [QuickMVP](https://iwantmyname.com/services/marketing/quickmvp).
 

@@ -4,7 +4,7 @@ author: Paul
 title: Sharing Easter Fun Online
 ----
 
-![egg.jpg]({{ site.images_url }}/2012-04-06-egg.jpg)
+![egg.jpg](/media/2012-04-06-egg.jpg)
 
 It's Easter time. For some people this means chocolate confectionery, [egg rolling](http://en.wikipedia.org/wiki/Easter_egg_roll) and a curiously wet tradition called [Dyngus Day](http://goodgrape.com/index.php/articles/comments/oh_dyngus_day_and_drinking_with_the_prez/). For others it's a time of religious reflection. However you celebrate Easter, there's sure to be fun with friends and family and probably some amusing photos and stories to tell. It's a great time to begin or update your blog or image portfolio.
 

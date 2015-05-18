@@ -4,7 +4,7 @@ author: Paul
 title: Welcome 2012, And A Thank You To All Our Customers
 ----
 
-![fireworks.jpg]({{ site.images_url }}/2012-01-06-fireworks.jpg)
+![fireworks.jpg](/media/2012-01-06-fireworks.jpg)
 
 **Wilkommen Bienvenido 欢迎光临  Kia Ora Velkommen Namastey Добро пожаловать Selamat Datang Bienvenue Welcome!**
 

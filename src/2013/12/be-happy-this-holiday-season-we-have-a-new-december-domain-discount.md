@@ -4,7 +4,7 @@ author: Chris
 title: .BE Happy This Holiday Season, We Have A New December Domain Discount
 ----
 
-![bigstock-Grote-Markt-At-Night-4174196.jpg]({{ site.images_url }}/2013-12-11-bigstock-Grote-Markt-At-Night-4174196.jpg)
+![bigstock-Grote-Markt-At-Night-4174196.jpg](/media/2013-12-11-bigstock-Grote-Markt-At-Night-4174196.jpg)
 
 <!-- excerpt -->
 

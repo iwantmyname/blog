@@ -4,7 +4,7 @@ author: Timo
 title: .INFO Domain Price Increase On September 1, 2013
 ----
 
-[![.INFO Domain]({{ site.images_url }}/2013-07-29-logo-dot-info-domain.png)](https://iwantmyname.com/domains/info-domain-name-registration-for-information)
+[![.INFO Domain](/media/2013-07-29-logo-dot-info-domain.png)](https://iwantmyname.com/domains/info-domain-name-registration-for-information)
 
 The .INFO domain manager [Afilias](http://afilias.info) recently announced that they will be increasing their annual registration fee for registrars on September 1, 2013. Unfortunately, we have to pass on this registry price change and our registration/renewal fee for .INFO domains will increase from $14.90/yr to $15.50/yr accordingly.
 

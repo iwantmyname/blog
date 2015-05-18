@@ -40,7 +40,7 @@ Also called Authorization Code, EPP key, transfer key or transfer password. Some
 
 You're so close! At this point, you're ready to start the transfer at https://iwantmyname.com/domains/domain-transfer. Just put the domain name in the field provided and hit the "Go" button.
 
-![start-transfer.png]({{ site.images_url }}/2013-10-25-start-transfer.png)
+![start-transfer.png](/media/2013-10-25-start-transfer.png)
 
 ###7. Check The Email Address And Add The Auth Code.
 
@@ -48,7 +48,7 @@ On the next page, check the email address shown. If it's an email address, you'l
 
 If you don't have access to the email address shown, go back to your current registrar and update the admin contact email address of your domain (Step 4). Please note that it may take a bit for the email address to update, depending on the update process of your current registrar. Continue with Step 6.
 
-![add-auth-code.png]({{ site.images_url }}/2013-10-25-add-auth-code.png)
+![add-auth-code.png](/media/2013-10-25-add-auth-code.png)
 
 ###8. Confirm the Transfer Authorization Email.
 

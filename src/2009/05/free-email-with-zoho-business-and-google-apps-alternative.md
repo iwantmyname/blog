@@ -12,11 +12,11 @@ We have added another email hosting & online collaboration service to our [Domai
 >
 > 3. **Add your domain name** to Zoho Business:
 >
->    ![zoho_add_domain.png]({{ site.images_url }}/2009-05-28-zoho_add_domain.png)
+>    ![zoho_add_domain.png](/media/2009-05-28-zoho_add_domain.png)
 >
 > 4. Choose the **CNAME validation** method:
 >
->    ![zoho_validate_domain.png]({{ site.images_url }}/2009-05-28-zoho_validate_domain.png)
+>    ![zoho_validate_domain.png](/media/2009-05-28-zoho_validate_domain.png)
 >
 > 5. Enter the validation code in your iWantMyName dashboard under "Services --> Zoho Business" and **we will configure your domain** with the respective DNS settings (CNAME and MX records) automatically.
 

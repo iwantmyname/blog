@@ -4,7 +4,7 @@ author: Chris
 title: An Interview About .NZ With Patrick Watson, DNCL Communications Advisor
 ----
 
-![DNClogo.gif]({{ site.images_url }}/2013-12-13-DNClogo.gif)
+![DNClogo.gif](/media/2013-12-13-DNClogo.gif)
 
 <!-- excerpt -->
 

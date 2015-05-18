@@ -4,7 +4,7 @@ author: Timo
 title: Express Your Interest In 100+ New Domain Extensions
 ----
 
-![new-domain-extensions-2013.png]({{ site.images_url }}/2013-07-19-new-domain-extensions-2013.png)
+![new-domain-extensions-2013.png](/media/2013-07-19-new-domain-extensions-2013.png)
 
 With over 250 million domain names currently registered globally, you may be wondering just why there's a need for more internet real estate in the form of newly announced top level domains (TLDs). But let's put that number in perspective. There's already around 2.4 billion internet users now and that number continues to expand rapidly. The cost for individual users to create a personal presence on the web is dropping all the time as the cost of hosting has become a commodity and the quality of [online website builder services](https://iwantmyname.com/services/website-builder) has improved markedly. So it's a safe bet a lot more people out there will be needing a web address in the future. There's still plenty of room for growth.
 

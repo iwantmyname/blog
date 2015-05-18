@@ -5,4 +5,4 @@ title: Cool Gary
 excerpt: no
 ----
 
-![Cool Gary]({{ site.images_url }}/2015-04-17-gary-cool.jpg)
+![Cool Gary](/media/2015-04-17-gary-cool.jpg)

@@ -4,7 +4,7 @@ author: Chris
 title: "The Tools We Use: Mou For Writing On The Web"
 ----
 
-![Mou]({{ site.images_url }}/2013-10-03-Mou_Screenshot_1_402x.png)
+![Mou](/media/2013-10-03-Mou_Screenshot_1_402x.png)
 
 <!-- excerpt -->
 

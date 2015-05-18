@@ -4,7 +4,7 @@ author: Timo
 title: Dot-IS domain names selling like red hot Atlantic lava!
 ----
 
-![Iceland Flag]({{ site.images_url }}/2013-07-01-Iceland-Flag-128.png)
+![Iceland Flag](/media/2013-07-01-Iceland-Flag-128.png)
 
 The sparsely populated European island nation of Iceland could become the powerhouse of Europe with an enormous recently completed hydro power project, abundant geothermal energy supplies and plans afoot to export electricity to Britain. Perched on the fiery mid-Atlantic volcanic ridge, Iceland also has [one of the hottest domain names](https://iwantmyname.com/domains/is-icelandic-domain-name-registration-for-iceland) around.
 

@@ -6,7 +6,7 @@ title: Some new additions to our gTLD page
 
 <!-- excerpt -->
 
-![gTLD page]({{ site.images_url }}/2014-03-08-gtld-page.png)
+![gTLD page](/media/2014-03-08-gtld-page.png)
 
 There are 499 new generic Top-Level Domains currently sitting in our list. 499—a ton of domain extensions just waiting to be discovered. But categorizing them all and breaking them into useful lists is quite a chore.
 

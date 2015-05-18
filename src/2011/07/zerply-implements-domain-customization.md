@@ -4,7 +4,7 @@ author: Paul
 title: Zerply Implements Profile Domain Customization
 ----
 
-![z.jpg]({{ site.images_url }}/2011-07-31-z.jpg)
+![z.jpg](/media/2011-07-31-z.jpg)
 
 [Zerply](http://zerply.com) is an online personal profile service that is rapidly gaining traction with creatives and young Internet users. The company has just launched domain customization, which means you can direct a chosen domain to your Zerply profile site.
 

@@ -4,7 +4,7 @@ author: Chris
 title: KPMG Is Moving From .COM To .KPMG
 ----
 
-![KPMG.png]({{ site.images_url }}/2013-12-30-KPMG.png)
+![KPMG.png](/media/2013-12-30-KPMG.png)
 
 [From WIPR:](http://www.worldipreview.com/article/kpmg-migrating-from-com)
 

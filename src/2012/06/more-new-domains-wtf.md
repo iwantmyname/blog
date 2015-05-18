@@ -8,7 +8,7 @@ ICANN's ["big reveal"](https://iwantmyname.com/blog/2012/06/new-top-level-domain
 
 Suggestions of an eighteen month turnaround time for applicants are looking rather optimistic at this point. But whilst the domain gnomes at ICANN are pondering these multitudinous possibilities, sit down and grab yourself a .BEER. Here's a glimpse at some of the more amusing TLDs that might just be winging their way into our browser address bars in the near future **.JUSTFORU**.
 
-![regretful-transformer-1.png]({{ site.images_url }}/2012-06-18-regretful-transformer-1.png)
+![regretful-transformer-1.png](/media/2012-06-18-regretful-transformer-1.png)
 
 Digital domains for tech geeks are .COOL this year. If you are a .DEV .NINJA, we've got you covered. You can host your [.APP](https://iwantmyname.com/blog/2012/06/app-domain-names-will-create-new-naming-opportunities-for-developers.html) in the .CLOUD, after all it's the safest place to be when the .TRANSFORMERS invade from outer .SPACE . Blue pill or red one? We can't wait to enter the .MATRIX to do battle with the dreaded .BOT. After a trippy experience like that, I'm surprised someone didn't nominate .POT. But that may be going a little too far...
 

@@ -17,7 +17,7 @@ The new standard price of .IO is **$59 USD**, down from $69 USD. We're still run
 
 ###Whois masking
 
-![alt]({{ site.images_url }}/2014-05-09-whois-privacy-masking-protection.png)
+![alt](/media/2014-05-09-whois-privacy-masking-protection.png)
 
 Privacy is a huge concern for many people, but until now, [WHOIS masking](http://help.iwantmyname.com/customer/portal/articles/184425) wasn't available for .IO domains. Now, when you enable WHOIS masking from your dashboard, you'll be able to hide your street address, city and phone number from the public (as shown in the image above).
 

@@ -5,7 +5,7 @@ title: The story of how Buffer bought buffer.com, and why a short .com isn't nec
 excerpt: no
 ----
 
-![Buffer]({{ site.images_url }}/2015-03-19-buffer-home.png)
+![Buffer](/media/2015-03-19-buffer-home.png)
 
 [From Rodolphe Dutel - Buffer:](https://open.bufferapp.com/acquired-buffer-com/)
 

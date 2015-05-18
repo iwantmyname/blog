@@ -4,7 +4,7 @@ author: Paul
 title: iWantMyName Backs Startup Weekend
 ----
 
-![sw65.jpg]({{ site.images_url }}/2011-09-20-sw65.jpg)
+![sw65.jpg](/media/2011-09-20-sw65.jpg)
 
 Startup Weekend is a global initiative that sees entrepreneurial developers, designers and business heads conceptualise, build and launch a tech venture over the space of a single weekend. We've been involved with the New Zealand events from day one with our free domain name offer for participating teams.
 

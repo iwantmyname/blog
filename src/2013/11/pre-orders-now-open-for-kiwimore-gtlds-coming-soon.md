@@ -4,7 +4,7 @@ author: Chris
 title: Pre-Orders Now Open For .KIWI—More gTLDs Coming Soon
 ----
 
-![dot-kiwi-domain-preorder.png]({{ site.images_url }}/2013-11-12-dot-kiwi-domain-preorder.png)
+![dot-kiwi-domain-preorder.png](/media/2013-11-12-dot-kiwi-domain-preorder.png)
 
 <!-- excerpt -->
 

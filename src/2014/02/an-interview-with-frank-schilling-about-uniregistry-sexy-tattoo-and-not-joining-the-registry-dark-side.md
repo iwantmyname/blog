@@ -32,7 +32,7 @@ No—none at all. There is safety in numbers and with so many new extensions com
 
 We're going to rely on our registrar partners to suggest our names as viable alternatives—and we have our own registrar and direct marketing for that beginning March 8th. I definitely view this as a marathon.
 
-![alt]({{ site.images_url }}/2014-02-27-uniregistry-careers.jpg)
+![alt](/media/2014-02-27-uniregistry-careers.jpg)
 
 **Tell us a bit about Uniregistry itself. Many people probably think you all just sit on gorgeous Cayman Island beaches all day, but your job page has openings for software developers, systems specialists and marketing people. What's day to day life like at Uniregistry? And what kinds of things are you working on?**
 

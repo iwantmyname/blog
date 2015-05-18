@@ -4,7 +4,7 @@ author: Paul
 title: Google Partners With Motorola
 ----
 
-![gplusm.png]({{ site.images_url }}/2011-08-18-gplusm.png)
+![gplusm.png](/media/2011-08-18-gplusm.png)
 
 Remember [C.H.iPs](http://en.wikipedia.org/wiki/CHiPs), the popular 1970s cop show? Lead characters Jon and Ponch had Motorola radios prominently displayed on their police motorbikes. Now Motorola makes a different kind of chip and has just sold it's mobile division to cash rich Google in a US $12.5 billion mega deal that pulls no punches about where the online behemoth is heading.
 

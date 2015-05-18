@@ -4,7 +4,7 @@ author: Chris
 title: "TIME's Person of the Year Going Social With RebelMouse"
 ----
 
-![Screen Shot 2013-11-26 at 17.24.16.png]({{ site.images_url }}/2013-11-27-Screen_Shot_2013-11-26_at_17.24.16.png)
+![Screen Shot 2013-11-26 at 17.24.16.png](/media/2013-11-27-Screen_Shot_2013-11-26_at_17.24.16.png)
 
 [From Time:](http://poy.time.com/2013/11/25/time-partners-with-twitter-to-launch-times-person-of-the-year/?xid=gonewsedit)
 

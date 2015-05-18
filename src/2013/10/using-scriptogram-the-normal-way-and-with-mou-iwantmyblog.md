@@ -14,7 +14,7 @@ But first, a mini intro to to Dropbox blogging. [Like I've said before](https://
 
 ###Using Mou.
 
-![Screen Shot 2013-10-09 at 11.26.58.png]({{ site.images_url }}/2013-10-10-Screen_Shot_2013-10-09_at_11.26.58.png)
+![Screen Shot 2013-10-09 at 11.26.58.png](/media/2013-10-10-Screen_Shot_2013-10-09_at_11.26.58.png)
 
 So here's how I'm posting. First, get Mou, [my new favorite Markdown editor](https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html). Under Actions -> Insert -> Scriptogram Header is a one-click meta data header that lists the date, the title and all the other details you'll need. From there, all you have to do is hit File -> Post -> Scriptogram (it uses your Scriptogram ID, listed in the Scriptogram Settings) and you're done. Couldn't be easier.
 
@@ -24,7 +24,7 @@ So here's how I'm posting. First, get Mou, [my new favorite Markdown editor](htt
 
 Without Mou, the default way to post is to go to your Scriptogram dashboard, click Add Post, then start writing in the browser (or copy paste your Markdown). But to me, the best part of using a Dropbox blog platform is to completely do away with browser editing (not that there's anything wrong with writing in the browser, I just prefer using apps).
 
-![Auto Scriptogram]({{ site.images_url }}/2013-10-10-Screen_Shot_2013-10-09_at_11.29.42.png)
+![Auto Scriptogram](/media/2013-10-10-Screen_Shot_2013-10-09_at_11.29.42.png)
 
 To get around the Dashboard, you first must go to Settings and turn on "Automatically publish from Dropbox" (still in beta). In the past, even if you added a file to Dropbox, you still had to go to the Scriptogram dashboard to hit Synchronize, but now that's changed. 
 

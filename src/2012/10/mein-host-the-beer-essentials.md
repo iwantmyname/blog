@@ -4,7 +4,7 @@ author: Paul
 title: "Mein Host: The Beer Essentials"
 ----
 
-![beerglasses.jpg]({{ site.images_url }}/2012-10-12-beerglasses.jpg)
+![beerglasses.jpg](/media/2012-10-12-beerglasses.jpg)
 
 The craft beer craze is sweeping the country as micro-breweries pop up all over the show. Now some of the early craft brew pioneers are spreading their wings as well. Moa is doing a [trendy IPO](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10840093) and Tuatara just had their fantastic new facilities on the Kapiti Coast [opened](http://wellington.scoop.co.nz/?p=49141) by a certain rather forgetful high profile politician. The beer scene is clearly undergoing a [Renaissance](http://www.renaissancebrewing.co.nz/) at present.
 

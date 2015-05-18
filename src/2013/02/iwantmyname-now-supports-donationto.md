@@ -4,7 +4,7 @@ author: Owen
 title: iwantmyname now supports DonationTo!
 ----
 
-![logo-social-donationto.png]({{ site.images_url }}/2013-02-28-logo-social-donationto.png)
+![logo-social-donationto.png](/media/2013-02-28-logo-social-donationto.png)
 
 We're excited to announce the addition of [DonationTo](http://www.donationto.com) to the iwantmyname hosted services marketplace!
 

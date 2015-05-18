@@ -10,7 +10,7 @@ For those of you who want to quickly search for domain names from the address ba
 
 [Glims](http://www.machangout.com/) is not only useful for custom keyword search but also adds lots of other helpful features to Safari. You need to install this plugin first to do the following.
 
-![search-domain-glims.png]({{ site.images_url }}/2011-02-21-search-domain-glims.png)
+![search-domain-glims.png](/media/2011-02-21-search-domain-glims.png)
 
 Once you've installed Glims go to you Safari preferences, add iWantMyName to the search engine list using the URL `https://iwantmyname.com/search?domain=#query#` and choose the keyword for your custom query. All you have to do now is enter `iwmn domainname` (or any other keyword of your choice) in your browser's address bar and you will get our domain search result in an instant.
 
@@ -18,7 +18,7 @@ Once you've installed Glims go to you Safari preferences, add iWantMyName to the
 
 Add a bookmark in Firefox and replace the domain in our search URL, e.g. `https://iwantmyname.com/search/?domain=yourdomainname` needs to be replaced with `https://iwantmyname.com/search/?domain=%s`.
 
-![firefox-custom-search-add.png]({{ site.images_url }}/2011-02-21-firefox-custom-search-add.png)
+![firefox-custom-search-add.png](/media/2011-02-21-firefox-custom-search-add.png)
 
 By adding a tag of your choice, you can now type `tagname domainname` in your address bar which will give you the results for your domain search.
 
@@ -28,13 +28,13 @@ Alternatively, you can use the [iWantMyName Open Search plugin](http://mycroft.m
 
 A right-click in your address bar lets you edit the search engines Chrome uses. Simply add our search URL `https://iwantmyname.com/search/?domain=%s` and add the keyword you would like to use for your custom search.
 
-![google-chrome-domain-search-iwantmyname.png]({{ site.images_url }}/2011-02-21-google-chrome-domain-search-iwantmyname.png)
+![google-chrome-domain-search-iwantmyname.png](/media/2011-02-21-google-chrome-domain-search-iwantmyname.png)
 
 ### DuckDuckGo
 
 Thanks to [Louis Galipeau](https://twitter.com/muloka), you can also search for domains at iWantMyName directly from the [DuckDuckGo](http://duckduckgo.com) search box. Just enter `!iwant domainname` and you will be forwarded to the search result page.
 
-![duckduckgo-domain-search.png]({{ site.images_url }}/2011-02-21-duckduckgo-domain-search.png)
+![duckduckgo-domain-search.png](/media/2011-02-21-duckduckgo-domain-search.png)
 
 ### AlfredApp
 
@@ -42,7 +42,7 @@ The [Swiss knife of all app launchers](http://alfredapp.com) makes it really eas
 
 Now define a keyword and you can immediately search from the AlfredApp window.
 
-![alfred-app-domain-search.png]({{ site.images_url }}/2011-02-21-alfred-app-domain-search.png)
+![alfred-app-domain-search.png](/media/2011-02-21-alfred-app-domain-search.png)
 
 
 If you have any other suggestions, tips or tricks we'd love to hear them in the comments.

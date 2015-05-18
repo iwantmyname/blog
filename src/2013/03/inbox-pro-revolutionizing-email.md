@@ -8,7 +8,7 @@ If you're like almost everyone I know and are drowning in email, you probably re
 
 Inbox Pro, an ambitious new startup has set out to solve that problem and help evolve email past a basic concept. No longer should it be just a messaging protocol, it should be able to assist us in actually dealing with information overload. Currently being kickstarted using a pledge based platform, the service that promises to solve our email woes is just 12 days and $29,000 out from being a reality.
 
-![Inbox Pro Screenshot]({{ site.images_url }}/2013-03-19-inbox-pro.png)
+![Inbox Pro Screenshot](/media/2013-03-19-inbox-pro.png)
 
 [The Next Web](http://thenextweb.com/voice/2013/02/08/inboxpro-com-structured-communications/) calls Inbox Pro a "frighteningly ambitious" project and rightfully so. There are plenty of projects out there that plan to revolutionize email -- and have to some extent -- but none have caught on to the mainstream just yet.
 

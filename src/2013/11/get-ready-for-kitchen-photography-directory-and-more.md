@@ -4,7 +4,7 @@ author: Chris
 title: Get Ready For .KITCHEN, .PHOTOGRAPHY, .DIRECTORY And More
 ----
 
-![bigstock-Kitchen-restaurant-31552076.jpg]({{ site.images_url }}/2013-11-23-bigstock-Kitchen-restaurant-31552076.jpg)
+![bigstock-Kitchen-restaurant-31552076.jpg](/media/2013-11-23-bigstock-Kitchen-restaurant-31552076.jpg)
 
 <!-- excerpt -->
 

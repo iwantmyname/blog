@@ -4,7 +4,7 @@ author: Chris
 title: "Droplr 4.0 is out, and it's better than ever"
 ----
 
-![mac-headline.png]({{ site.images_url }}/2014-01-11-mac-headline.png)
+![mac-headline.png](/media/2014-01-11-mac-headline.png)
 
 <!-- excerpt -->
 

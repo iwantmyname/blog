@@ -6,7 +6,7 @@ title: "FastMail's new iOS/Android app makes it an even more viable Google Apps 
 
 <!-- excerpt -->
 
-![FastMail]({{ site.images_url }}/2014-11-12-fastmail-logo.png)
+![FastMail](/media/2014-11-12-fastmail-logo.png)
 
 Google Apps are fine—in fact, they're quite wonderful and have changed the industry in so many ways—but there are countless reasons why you might want to go with something non-Google for your email. Fortunately, there are quite a few alternatives out there, and one of our very favorites, [FastMail](https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain), released an awesome new app today making it an even more viable Google alternative. 
 

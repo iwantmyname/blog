@@ -4,7 +4,7 @@ author: Owen
 title: "What Is DNS? Here's What You Need To Know: Part 1"
 ----
 
-![blog-dns.jpg]({{ site.images_url }}/2013-05-27-blog-dns.jpg)
+![blog-dns.jpg](/media/2013-05-27-blog-dns.jpg)
 
 When you're new to building your own website it can feel like there's a bunch of things you need to know but you don't really have an idea where to start looking. Luckily [we make setting up domains really easy](https://iwantmyname.com/services) for hosted services through our iwantmyname marketplace so you don't have to worry about technical details most of the time. If you are trying to delve a bit deeper into the technology involved there are so many acronyms and strange words that it can feel a bit overwhelming however. But don't worry, we're here to help clear the air a little and explain what each thing does.
 

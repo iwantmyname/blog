@@ -6,7 +6,7 @@ title: You can now use Getty Images for free. Really.
 
 <!-- excerpt -->
 
-![Getty imbed]({{ site.images_url }}/2014-03-06-getty.png)
+![Getty imbed](/media/2014-03-06-getty.png)
 
 We [wrote a bit about using stock photography](https://iwantmyname.com/blog/2014/02/need-images-for-your-site-here-are-some-tips-for-doing-it-right-tip-1-never-use-the-corporate-high-five.html) a few weeks ago, but today we found some news that might change everything.
 

@@ -7,7 +7,7 @@ title: 2013 A Year Of Domains
 
 ---
 
-![pohu.jpg]({{ site.images_url }}/2013-12-23-pohu.jpg)
+![pohu.jpg](/media/2013-12-23-pohu.jpg)
 
 <!-- excerpt -->
 

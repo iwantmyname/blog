@@ -4,7 +4,7 @@ author: Paul
 title: Anchor Your Social Media Presence With A Domain
 ----
 
-![anchor.jpg]({{ site.images_url }}/2010-11-29-anchor.jpg)
+![anchor.jpg](/media/2010-11-29-anchor.jpg)
 
 Mashable just published an excellent [summary](http://mashable.com/2010/11/28/small-business-resources/) of its recent best articles on how small business can leverage social media. Whether it be using [Facebook](http://www.facebook.com/pages/iWantMyName-NZ/118040718222943), working with [Twitter](https://twitter.com/iwantmynamenz) or learning how to get a [mobile app](https://iwantmyname.co.nz/iphone) for your business, it's a great set of resources. But it is important to remember that your domain is the brand anchor for all these services - choose wisely.
 

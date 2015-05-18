@@ -4,7 +4,7 @@ author: Paul
 title: Bag A New Year Domain Bargain
 ----
 
-![bag.jpg]({{ site.images_url }}/2011-01-05-bag.jpg)
+![bag.jpg](/media/2011-01-05-bag.jpg)
 
 Bricks and mortar retailers traditionally slash prices over the New Year holidays. At [iWantMyName](https://iwantmyname.co.nz/) we are going one better and offering some [great sale prices on domains](https://iwantmyname.co.nz/domain-promo-nz) for the entire month of January. What a great way to kick off 2011 on the Web! With over 80 domain extensions on offer and dozens of discounts, you are bound to find the perfect domain for that special New Years website project, online blog or [hosted service](https://iwantmyname.co.nz/services).
 

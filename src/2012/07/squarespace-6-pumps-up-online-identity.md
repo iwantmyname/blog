@@ -4,7 +4,7 @@ author: Paul
 title: Squarespace 6 Pumps Up Online Identity
 ----
 
-![squarespace.jpg]({{ site.images_url }}/2012-07-23-squarespace.jpg)
+![squarespace.jpg](/media/2012-07-23-squarespace.jpg)
 
 Hosted website builder service Squarespace has been offering bloggers, website developers and other professionals a creative home base for almost a decade now. But that hasn't made them complacent about innovating. In fact the latest iteration of the popular website builder demonstrates how the company is evolving with the web.
 

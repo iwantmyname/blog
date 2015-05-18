@@ -10,7 +10,7 @@ We've recently released major upgrades to our dashboard which dramatically impro
 
 There is a new overview page that lists all available apps and services. We've also added more documentation and information within the dashboard for custom domain mapping of your favourite service.
 
-![services-setup1-1.png]({{ site.images_url }}/2010-05-19-services-setup1-1.png)
+![services-setup1-1.png](/media/2010-05-19-services-setup1-1.png)
 
 Our web app directory now contains more than 30 services in the following categories: [email](https://iwantmyname.com/services/email-hosting), [blogs](https://iwantmyname.com/services/blog-hosting), [website builder](https://iwantmyname.com/services/website-builder), [forums](https://iwantmyname.com/services/forum-hosting), [ecommerce](https://iwantmyname.com/services/ecommerce-hosting), [portfolios](https://iwantmyname.com/services/portfolio-hosting), [social networks](https://iwantmyname.com/services/social-network), [url shortener](https://iwantmyname.com/services/url-shortener) and [wikis](https://iwantmyname.com/services/wiki-hosting).
 

@@ -14,7 +14,7 @@ This is an overview of the issues in our old system and how the new one solves t
 
 Our stack for search included an Erlang application (hereafter called `namesearchd`) that listened for WebSocket connections using SockJS. It also listened to RabbitMQ messages from our web servers to indicate a new search had been triggered.
 
-![Old search diagram]({{ site.images_url }}/2014-09-04-old-search-diagram.png)
+![Old search diagram](/media/2014-09-04-old-search-diagram.png)
 
 When a customer loaded the search page, their browser connected to SockJS with their session ID. When they entered a domain name, the search was sent to the web application, and then after some validation, the search was forwarded via RabbitMQ to `namesearchd` with the session and search ID. This made `namesearchd` do the following:
 
@@ -35,7 +35,7 @@ While this served us okay for a while, there were a few problems causing frustra
 
 Given that our biggest concern was the SockJS connections being prematurely terminated, we looked for a new library to use for WebSockets. In the end we chose Socket.IO (on Node.js) after their version 1.0 release. This allowed us to change the focus of the Erlang backend to checking domain availability, and the Node.js daemon to maintain WebSocket connections and forwarding search requests (again, via RabbitMQ) to `namesearchd`, only this time, `namesearchd` would reply via RabbitMQ and let Socket.IO deal with handing the response back to the customer's web browser.
 
-![New search diagram]({{ site.images_url }}/2014-09-04-new-search-diagram.png)
+![New search diagram](/media/2014-09-04-new-search-diagram.png)
 
 The other difference is that now the web application sends the TLD list to the client, which allows us to not have to send a list of all every TLD for each search request. The initial reason the TLD list was being sent for every search was that it could be different depending on what name you searched for. This filtering is now handled by client-side Javascript (and you’ll get an error if you cheekily use the Socket.IO connection to search for, say, a two-character domain on a TLD that doesn’t support two letter name registrations).
 

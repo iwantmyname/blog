@@ -4,7 +4,7 @@ author: Paul
 title: Airline Builds Brand With Domains
 ----
 
-[![a red dart against a blue canvas]({{ site.images_url }}/2011-06-02-608161288_31d19e6708_m.jpg)](http://www.flickr.com/photos/73584213@N00/608161288)
+[![a red dart against a blue canvas](/media/2011-06-02-608161288_31d19e6708_m.jpg)](http://www.flickr.com/photos/73584213@N00/608161288)
 
 Image by [monkeyc.net](http://www.flickr.com/photos/73584213@N00/608161288) via Flickr
 Highly successful media, travel and entertainment group Virgin operates literally [dozens of companies](http://www.virgin.com/company/), but obviously you can only be a Virgin once. So how did they solve the problem of finding and securing unique domain names for the many businesses and markets the company was engaged in?

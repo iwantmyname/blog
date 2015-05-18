@@ -4,7 +4,7 @@ author: Paul
 title: Domain Of Digital Earth
 ----
 
-![earth.jpg]({{ site.images_url }}/2012-08-16-earth.jpg)
+![earth.jpg](/media/2012-08-16-earth.jpg)
 
 Landsat, the orbiting Earth imaging satellite has been faithfully transmitting data home for forty years. Now with the aid of [Google Earth Engine](https://earthengine.google.org/), scientists can perform amazing time series studies across the globe on all sorts of natural features as well as looking at cultural impacts such as deforestation, urban sprawl and agricultural land use. Opening up of this data puts [new perspectives](http://www.youtube.com/watch?v=Ezn1ne2Fj6Y) on the concept of a digital earth and has implications for a remote island nation such as New Zealand that depends heavily on natural resource exploitation to earn a living.
 

@@ -4,7 +4,7 @@ author: Paul
 title: Cargo Website Showcases Retro Revival
 ----
 
-![revival.jpg]({{ site.images_url }}/2012-06-12-revival.jpg)
+![revival.jpg](/media/2012-06-12-revival.jpg)
 
 Remember the brightly coloured, tartan woolen blankets that your parents used to set up summer picnics on down at the beach? Those iconic blankies are now enjoying a second life as upholstering on recycled furniture. Brilliant idea, or what?
 

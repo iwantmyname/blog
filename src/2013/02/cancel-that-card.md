@@ -4,7 +4,7 @@ author: Paul
 title: Cancel That Card Saves The Day
 ----
 
-![madness.jpg]({{ site.images_url }}/2013-02-08-madness.jpg)
+![madness.jpg](/media/2013-02-08-madness.jpg)
 
 Goodness knows why banks insist on printing lovely pictures on our credit cards, since our cards spend 99% of the time in the dark, wedged tightly inside our wallets. I guess it differentiates one credit card provider from another and it's a bit of fun showing off picture cards to friends. What is not so fun however is the hangover from posting an image of your lovely credit card online.
 

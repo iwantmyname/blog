@@ -4,7 +4,7 @@ author: Paul
 title: A Year For The People
 ----
 
-![demo.jpg]({{ site.images_url }}/2011-12-31-demo.jpg)
+![demo.jpg](/media/2011-12-31-demo.jpg)
 
 It has been a remarkable year in many respects with a continuing catalogue of financial, political and environmental upheavals that affected both New Zealand and many other nations across the planet. However, it has been both inspiring and satisfying to witness the extent to which the Internet played a significant role in the human responses to such challenges.
 

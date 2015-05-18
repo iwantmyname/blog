@@ -6,7 +6,7 @@ title: Personal Domains Anchor Creative Customization
 
 It is always exciting to see domain names released into the wild and being put to good use. We've noticed that there is a burgeoning community of artists, designers and makers promoting their pet projects on the web these days. There's also a growing number of attractively designed [hosted services](https://iwantmyname.com/services) like [Cargo](https://iwantmyname.com/services/portfolio-hosting/cargo-custom-domain), [Tumblr](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url) and [500px](https://iwantmyname.com/blog/2012/02/photo-hosting-service-500px-increases-exposure.html) that make it really easy to create and domain customize an attractive art [portfolio](https://iwantmyname.com/services/portfolio-hosting/).
 
-![reclaiming value-1.png]({{ site.images_url }}/2012-05-16-reclaiming_value-1.png)
+![reclaiming value-1.png](/media/2012-05-16-reclaiming_value-1.png)
 
 Here are some great examples of creative showcases. [Reclaiming Value](http://www.reclaimingvalue.com/) is a U.S. based site that sharpens our imagination by exposing the simplicity and beauty inherent within tastefully recycled objects. [Anais Gato](http://www.anaisgato.com/) is a freelance graphic designer from Barcelona who attracts new projects from all over Europe by posting examples of previous assignments on her [Cargo Collective](http://cargocollective.com/) site. [Tessa Fox](http://tessafox.com/) is a talented photo-journalist who covers the film and music scenes in both U.K. and Australia. 
 

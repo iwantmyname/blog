@@ -6,7 +6,7 @@ title: Channel Island Domains .JE And .GG Activated
 
 Today we're happy to introduce two more European Top-Level Domains from the Channel Islands [Jersey](https://iwantmyname.com/domains/je-channel-island-domain-name-registration-for-jersey) and [Guernsey](https://iwantmyname.com/domains/gg-channel-island-domain-name-registration-for-guernsey). In case you were wondering, the islands are located off the coast of Normandy in France. And look how beautiful it is there:
 
-[![The Sinking Sun - Pleinmont, Guernsey]({{ site.images_url }}/2012-10-15-7945455410_406eb8db39.jpg)](http://www.flickr.com/photos/janicskovsky/7945455410/ "The Sinking Sun - Pleinmont, Guernsey by Janicskovsky, on Flickr")
+[![The Sinking Sun - Pleinmont, Guernsey](/media/2012-10-15-7945455410_406eb8db39.jpg)](http://www.flickr.com/photos/janicskovsky/7945455410/ "The Sinking Sun - Pleinmont, Guernsey by Janicskovsky, on Flickr")
 
 The Channel Island domain extensions [first appeared on the web in 1996](http://en.wikipedia.org/wiki/.je) and were added together with [.IM (Isle Of Man)](https://iwantmyname.com/domains/im-domain-name-registration-for-isle-of-man) and [.AC (Ascension Island)](https://iwantmyname.com/domains/ac-international-domain-name-registration-for-ascension-island) by internet legend [Jon Postel](http://en.wikipedia.org/wiki/Jon_Postel).
 

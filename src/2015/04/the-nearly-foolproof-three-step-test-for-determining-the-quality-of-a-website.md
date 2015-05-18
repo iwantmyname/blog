@@ -5,7 +5,7 @@ title: The nearly foolproof three-step test for determining the quality of a web
 excerpt: no
 ----
 
-![Twitter Logos]({{ site.images_url }}/2015-04-15-twitter-logo.png)
+![Twitter Logos](/media/2015-04-15-twitter-logo.png)
 
 + **Step 1:** Go to a website
 + **Step 2:** Find the social icons
@@ -15,11 +15,11 @@ excerpt: no
 
 *Note that there are levels of terribleness here.*
 
-![Old Twitter Logo]({{ site.images_url }}/2015-04-15-twitter-logo-old.png)
+![Old Twitter Logo](/media/2015-04-15-twitter-logo-old.png)
 
 **Quality Score -100:** Definitely the wrong logo, but I can see how someone could see this and not instantly think it's wrong. If you see something like this on a personal site, politely send an email to the site owner.
 
-![Older Twitter Logo]({{ site.images_url }}/2015-04-15-twitter-logo-older.png)
+![Older Twitter Logo](/media/2015-04-15-twitter-logo-older.png)
 
 **Quality Score -4000:** You know that feeling when you walk into a restaurant with carpet clearly from the 1980's? 
 

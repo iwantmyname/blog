@@ -6,7 +6,7 @@ title: New in the Marketplace - Bigcommerce, for beautiful online stores
 
 <!-- excerpt -->
 
-![Bigcommerce]({{ site.images_url }}/2015-02-05-bigcommerce-main.jpg)
+![Bigcommerce](/media/2015-02-05-bigcommerce-main.jpg)
 
 For many people, e-commerce was the first big draw of the internet. You could go online, pick out things like clothing or electronics, then have the items shipped directly to your house. It was the future. 
 

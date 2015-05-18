@@ -4,7 +4,7 @@ author: Chris
 title: "Stop Scre.am-ing. It's Time For November Domain Discounts"
 ----
 
-![bigstock-Goofy-young-man-with-full-bea-45789868.jpg]({{ site.images_url }}/2013-11-02-bigstock-Goofy-young-man-with-full-bea-45789868.jpg)
+![bigstock-Goofy-young-man-with-full-bea-45789868.jpg](/media/2013-11-02-bigstock-Goofy-young-man-with-full-bea-45789868.jpg)
 
 <!-- excerpt -->
 

@@ -6,7 +6,7 @@ title: How A Personal Website Can Boost Your Business
 
 *Guest post by Per Schmitz -- Founder of [DooID](http://dooid.com):*
 
-![DooID]({{ site.images_url }}/2012-02-23-logo-profile-dooid.png)
+![DooID](/media/2012-02-23-logo-profile-dooid.png)
 
 At [DooID](http://dooid.com) we focus on developing an outstanding platform for simple and clean personal websites. Our aim is to help you build an effective tool that will enhance your accessibility and promote your personal brand, in a painless, easy way.
 

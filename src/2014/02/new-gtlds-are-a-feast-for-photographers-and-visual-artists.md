@@ -6,7 +6,7 @@ title: New gTLDs are a feast for photographers and visual artists
 
 <!-- excerpt -->
 
-![Photographer]({{ site.images_url }}/2014-02-12-photographer.jpg)
+![Photographer](/media/2014-02-12-photographer.jpg)
 
 If you scan through [Dribbble](http://dribbble.com/) or [Designspiration](http://designspiration.net/) for any period of time, you'll quickly discover hundreds, if not thousands, of artists and photographers with personal websites ending in .com. And that's fine. Seriously. There's absolutely nothing wrong with a .com name. 
 

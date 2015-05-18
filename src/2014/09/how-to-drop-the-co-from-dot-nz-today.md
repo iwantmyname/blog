@@ -6,7 +6,7 @@ title: How to drop the .co from your .co.nz domain today
 
 <!-- excerpt -->
 
-![.nz]({{ site.images_url }}/2014-09-30-more-nz.jpg)
+![.nz](/media/2014-09-30-more-nz.jpg)
 
 The shorter .nz domains have arrived! Now you can purchase New Zealand’s country-code domain extension without the additional ‘.co’, ‘.net’ or ‘.org’. This naming convention is already common in most countries, and we’re pleased to now be able to offer this option to iwantmyname customers.
 
@@ -28,7 +28,7 @@ The third option is that if you registered your .co.nz domain name after 9am, 30
 
 Once you've registered ‘yourname.nz’, the easiest way to start is to simply forward it to your existing ‘yourname.co.nz’ domain name. You can do this using the “Web Forwarding” option in your iwantmyname dashboard.
 
-![.nz URL forwarding]({{ site.images_url }}/2014-09-30-url-forwarding.png)
+![.nz URL forwarding](/media/2014-09-30-url-forwarding.png)
 
 If you just want to be done with your .co.nz domain altogether though, be sure to read Google's [instructions for transferring, moving, or migrating your site to a new domain](https://support.google.com/webmasters/topic/6029673?hl=en&ref_topic=6001951). The act of changing your domain over is simple, but you can lose your search engine ranking if the transition isn't planned carefully.
 

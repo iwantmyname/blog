@@ -4,7 +4,7 @@ author: Chris
 title: Virb Goes Indie As GoDaddy Buys Media Temple
 ----
 
-![virb-box.png]({{ site.images_url }}/2013-10-16-virb-box.png)
+![virb-box.png](/media/2013-10-16-virb-box.png)
 
 Great news for Virb and all the people using Virb for their creative sites and portfolios. 
 

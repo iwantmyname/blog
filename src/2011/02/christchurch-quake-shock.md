@@ -4,7 +4,7 @@ author: Paul
 title: Christchurch Quake Shock
 ----
 
-![cross]({{ site.images_url }}/2011-02-22-redcross.jpg)
+![cross](/media/2011-02-22-redcross.jpg)
 
 As you will be aware New Zealand suffered one of it's most devastating natural disasters of modern times earlier today when our second largest city Christchurch was struck by a [severe earthquake](http://www.youtube.com/user/TVNewZealand#p/a/u/2/KetOf15Q3lc). We already know that many small historic buildings were badly damaged, several large office buildings were completely destroyed and sadly it appears likely that the number of deaths will rise substantially from the first estimate of 65. The region had only just begun to recover from a quite severe quake event in September 2010, but this time it is much more serious.
 

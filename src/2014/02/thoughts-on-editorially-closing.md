@@ -6,7 +6,7 @@ title: Thoughts on Editorially closing, why I don't use web-based editors (yet) 
 
 <!-- excerpt -->
 
-![WordPerfect]({{ site.images_url }}/2014-02-21-wordperfect.png)
+![WordPerfect](/media/2014-02-21-wordperfect.png)
 
 The first document I can clearly remember typing into a computer was a fake constitution for a fake country I made up in 5th grade. It was awesome, and I typed it out on WordPerfect for DOS—a platform so hideously ugly that you never worried about what the documents looked like. You just wrote and wrote, and when you were done, you saved the file and printed.
 
@@ -30,7 +30,7 @@ I'll be the first to tell you that Editorially does a lot of cool things—espec
 
 Open browser, go to editorially.com, sign in, click "New document", name the document, write document, save to Dropbox, publish it.
 
-![signin]({{ site.images_url }}/2014-02-21-editorially.png)
+![signin](/media/2014-02-21-editorially.png)
 
 Many of these tasks are practically reflexes at this point, but it's still eight steps against four. And it gets even worse when you look at opening a file. With Mou, I can just click on a file in a folder and it opens. With Editorially, I have to enter the walled garden. Again, nothing too dramatic, but every little bit matters. 
 

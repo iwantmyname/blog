@@ -4,7 +4,7 @@ author: Paul
 title: "Opinion: Scared Bitless"
 ----
 
-![pumpkin.jpg]({{ site.images_url }}/2012-10-29-pumpkin.jpg)
+![pumpkin.jpg](/media/2012-10-29-pumpkin.jpg)
 
 The [origins](http://en.wikipedia.org/wiki/Halloween) of Halloween are a little obscure with explanations varying from harvest festivals to paying homage to the recently departed. The celebration has evolved considerably over the centuries however, as it spread from Europe across the Atlantic and further afield. Scary costumes and regalia are dusted off each year to ward off evil spirits and fairies whilst gifts of food or sweets are given to appease pranksters. It's all harmless fun for the kids.
 

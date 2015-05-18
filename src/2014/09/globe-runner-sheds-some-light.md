@@ -6,7 +6,7 @@ title: "Globe Runner sheds some light on the .COM vs. new gTLD debate"
 
 <!-- excerpt -->
 
-![Menu]({{ site.images_url }}/2014-09-18-big-menu.jpg)
+![Menu](/media/2014-09-18-big-menu.jpg)
 
 There was a time not so long ago when the domain selecting process was as easy as finding a short, available name that sounded good. But then came the new generic top-level domains (gTLDs). Do you go with the shortest, most brand-centric domain name in the .COM space now or do you get the exact name you want in a new gTLD like .CLUB, .LINK, or .TODAY? It's a big question that everyone in the space is asking, and now there's some data to help make your decision.
 

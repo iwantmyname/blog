@@ -4,7 +4,7 @@ author: Timo
 title: Manu Makes Moving Domains Feel Like Magic
 ----
 
-![blog-manu.jpg]({{ site.images_url }}/2013-03-05-blog-manu.jpg)
+![blog-manu.jpg](/media/2013-03-05-blog-manu.jpg)
 
 Welcome Manuela Vetters to the [iwantmyname family](https://iwantmyname.com/about)! Manu joins us to help with [managing your domain transfers](https://iwantmyname.com/transferservice) and general support enquiries. She brings plenty of domain industry experience to the table, having worked for both the registrar and registry side of things.
 

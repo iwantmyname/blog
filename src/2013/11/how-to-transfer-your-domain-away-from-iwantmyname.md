@@ -21,7 +21,7 @@ Once you've retrieved your Transfer Auth Code (sometimes registrars also call it
 
 As soon as your new registrar has informed us about the transfer request, you will be able to approve it from within the iwantmyname dashboard:
 
-![outgoing-transfer.png]({{ site.images_url }}/2013-11-21-outgoing-transfer.png)
+![outgoing-transfer.png](/media/2013-11-21-outgoing-transfer.png)
 
 Domain extensions that don't require an authorization code usually bypass the registrar and the transfer process is handled by the underlying registry. For example if you want to transfer an Austrian domain, you start the process with your new registrar and the .AT registry Nic.at sends you an email to confirm the transaction. Easy!
 

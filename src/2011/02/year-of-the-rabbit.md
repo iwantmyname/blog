@@ -4,7 +4,7 @@ author: Paul
 title: Hop Into the New Lunar Year and Save
 ----
 
-![rabbits.jpg]({{ site.images_url }}/2011-02-07-rabbits.jpg)
+![rabbits.jpg](/media/2011-02-07-rabbits.jpg)
 
 2011 marks the Year of the Rabbit and Lunar New Year celebrations are underway across Asia. The Rabbit is said to be kind, amiable, cautious and artistic as well as good luck.
 

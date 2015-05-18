@@ -4,7 +4,7 @@ author: Paul
 title: "Timely Reminder: Domain Customise Your Calendar"
 ----
 
-![timely.jpg]({{ site.images_url }}/2013-07-23-timely.jpg)
+![timely.jpg](/media/2013-07-23-timely.jpg)
 
 It's been quite a year for the founders of Kiwi tech start-up [Timely](http://www.gettimely.com/), a cloud hosted calendar and scheduling system for small business. They not only aced the BNZ Startup Alley at Webstock and received accolades from the media. They also secured a "timely" investment round from wily tech entrepreneur [Rowan Simpson](http://rowansimpson.com/2013/06/21/timely/).
 

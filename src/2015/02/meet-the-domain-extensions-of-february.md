@@ -6,7 +6,7 @@ title: Meet the domain extensions of February, including .work, .delivery, and .
 
 <!-- excerpt -->
 
-![work]({{ site.images_url }}/2015-02-02-business.jpg)
+![work](/media/2015-02-02-business.jpg)
 
 Generic top-level domain (gTLD) launches have gotten off to a bit of a slow start in 2015, but the overall stats are looking more impressive by the day. According to [ntldstats.com](https://ntldstats.com), there are now 4,121,213 new gTLDs registered (a nearly 400,000 jump from Jan 1), and [so many options to choose from](https://iwantmyname.com/domains/new-gtld-domain-extensions)—there's literally never been a better time than today to get a unique domain with your brand name. 
 

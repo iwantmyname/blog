@@ -4,7 +4,7 @@ author: Paul
 title: Online Profile Services Easy To Customise
 ----
 
-![flavors50.png]({{ site.images_url }}/2011-03-07-flavors50.png)
+![flavors50.png](/media/2011-03-07-flavors50.png)
 
 At iWantMyName we make it really easy to personalise your web profile service with a domain of your choice. A number of the big social networking sites don't allow this, so where do you go if you want a profile site that reflects your personality? We've dug up some [cool web profile services](https://iwantmyname.co.nz/services/personal-profile/) that we think you'll love. 
 

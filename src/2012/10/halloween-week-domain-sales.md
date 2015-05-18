@@ -4,7 +4,7 @@ author: Timo
 title: Halloween Week Domain Sales
 ----
 
-![pumpkin-small.png]({{ site.images_url }}/2012-10-31-pumpkin-small.png)
+![pumpkin-small.png](/media/2012-10-31-pumpkin-small.png)
 
 Since we did not have a pumpkin at our office for a photo, I proudly present you my first attempt of painting the versatile vegetable instead (as you can see I'm **really** good at it). It somehow reminds me of that horrendous clipart collection on 10 CDs that I bought in the 90s for my first website.
 

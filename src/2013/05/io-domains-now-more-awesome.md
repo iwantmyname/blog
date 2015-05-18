@@ -4,7 +4,7 @@ author: Timo
 title: .IO domains now even more awesome for startups!
 ----
 
-![.io domain logo]({{ site.images_url }}/2013-05-30-logo-dot-io-domain-128.png)
+![.io domain logo](/media/2013-05-30-logo-dot-io-domain-128.png)
 
 Good news for .io domain lovers: the [popular domain for internet startups](https://iwantmyname.com/blog/2013/04/io-domain-website-showcase.html) and personal sites is now seen as a generic country code top-level domain or short "gccTLD" by Google. This means you can target your site at a specific geographical audience such as the USA or UK in Google Webmaster Tools ([full list of generic country code extensions](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=1347922)). We've been [advocating for this change](https://iwantmyname.com/blog/2012/08/dear-google-please-add-io-to-the-list-of-generic-domains-in-webmaster-tools.html) since last year and are happy the search engine giant finally listened. Thank-you for that Google!
 

@@ -4,7 +4,7 @@ author: Paul
 title: Six Revisions Promotes Site Builder Trial
 ----
 
-![squarespace.jpg]({{ site.images_url }}/2011-10-12-squarespace.jpg)
+![squarespace.jpg](/media/2011-10-12-squarespace.jpg)
 
 In an inspired multi-media match, popular web design and development blog site [Six Revisions](http://sixrevisions.com/) has teamed up with one of our favourite apps Squarespace to offer a one year [free account subscription](http://sixrevisions.com/contests/giveaway-3-subscriptions-to-squarespace-website-builder/#more-5999) for three lucky users.
 

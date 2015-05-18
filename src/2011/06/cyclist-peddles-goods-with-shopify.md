@@ -4,7 +4,7 @@ author: Paul
 title: Cyclist Peddles Goods With Shopify
 ----
 
-![cycle.jpg]({{ site.images_url }}/2011-06-28-cycle.jpg)
+![cycle.jpg](/media/2011-06-28-cycle.jpg)
 
 Claire Pascoe loved bicycles and cycling so much that when she left New Zealand to go on her travels she soon spotted a unique opportunity for an importing business. Impressed by the multitude of artistic pannier bags available for riders overseas, she decided to bring some home and open her own online shop.
 

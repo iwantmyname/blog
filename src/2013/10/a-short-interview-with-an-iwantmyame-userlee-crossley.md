@@ -4,7 +4,7 @@ author: Chris
 title: A Short Interview With iwantmyname Customer Lee Crossley
 ----
 
-![Lee Crossley Big]({{ site.images_url }}/2013-10-30-A6clKGTCQAA75He.jpg-large.jpg)
+![Lee Crossley Big](/media/2013-10-30-A6clKGTCQAA75He.jpg-large.jpg)
 
 <!-- excerpt -->
 

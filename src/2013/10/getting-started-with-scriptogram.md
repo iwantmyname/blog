@@ -14,15 +14,15 @@ From [scriptogr.am](http://scriptogr.am/about):
 
 > Put simply, Scriptogr.am is a tool for generating simple, elegant, static weblogs by reading Markdown files stored in your Dropbox folder. Writers are free to write with their preferred editor app, and publishing is as easy as hitting the "Synchronize" button in the Scriptogr.am dashboard.
 
-![Dropbox Signup]({{ site.images_url }}/2013-10-09-Screen_Shot_2013-10-08_at_11.09.06.png)
+![Dropbox Signup](/media/2013-10-09-Screen_Shot_2013-10-08_at_11.09.06.png)
 
 Getting started is incredibly easy. First, you have to get a [Dropbox account](https://www.dropbox.com/)—and the free plan is plenty large enough to get started. If you've never been exposed to Dropbox before, it's a wonderfully simple hard drive in the cloud that acts like a local folder on your computer. But unlike your local folder, you can access your data from any device on the planet with an internet connection. For the sake of Dropbox blogging, a folder will be created in your Dropbox account that can be added to, moved or deleted without a hitch. It's really quite impressive.
 
-![Scriptogram Signup]({{ site.images_url }}/2013-10-09-Screen_Shot_2013-10-07_at_09.26.00.png)
+![Scriptogram Signup](/media/2013-10-09-Screen_Shot_2013-10-07_at_09.26.00.png)
 
 Next, sign up for [Scriptogram](http://scriptogr.am/) and fill in all the necessary information. 
 
-![Scriptogram Install]({{ site.images_url }}/2013-10-09-Screen_Shot_2013-10-07_at_09.23.02.png)
+![Scriptogram Install](/media/2013-10-09-Screen_Shot_2013-10-07_at_09.23.02.png)
 
 From there, head to [iwantmyname.com](https://iwantmyname.com/) for a new domain name (you can also use one you already own) and install Scriptogram. Now you're all setup!
 
