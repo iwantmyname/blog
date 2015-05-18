@@ -7595,7 +7595,7 @@ something you really want to know about us, &lt;a href=&quot;https://iwantmyname
 				<title>The updated big list of static website generators for your site, blog or wiki</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;Dynamic websites certainly have their place on the internet, but you may find the enhanced security, performance and ease of hosting a static site to be just what you need. So here&amp;#39;s the big list of static site generators (the sequel to Timo&amp;#39;s original &lt;a href=&quot;https://iwantmyname.com/blog/2011/02/list-static-website-generators.html&quot;&gt;&amp;quot;32 static website generators for your site, blog or wiki&amp;quot;&lt;/a&gt;) to get you started, sorted by language/platform.&lt;/p&gt;
+&lt;p&gt;Dynamic websites certainly have their place on the internet, but you may find the enhanced security, performance, and ease of hosting a static site to be just what you need. So here&amp;#39;s a big list of static site generators to get you started, sorted by language/platform.&lt;/p&gt;
 
 &lt;p&gt;Note: Writing a comprehensive list of static site generators would be nearly impossible (the quantity is astounding), and not all that useful, so the following list only contains generators that are actively being maintained and/or have a decent website. If you have anything to add to the list, just let us know via Twitter &lt;a href=&quot;https://twitter.com/iwantmyname&quot;&gt;@iwantmyname&lt;/a&gt;.&lt;/p&gt;
 
@@ -7770,7 +7770,6 @@ something you really want to know about us, &lt;a href=&quot;https://iwantmyname
 &lt;h3&gt;The list of sources&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Timo&amp;#39;s &lt;a href=&quot;https://iwantmyname.com/blog/2011/02/list-static-website-generators.html&quot;&gt;original list&lt;/a&gt; of 32, sources included&lt;/li&gt;
 &lt;li&gt;Klint Finley&amp;#39;s &lt;a href=&quot;http://siliconangle.com/blog/2012/03/20/5-minimalist-static-html-blog-generators-to-check-out/&quot;&gt;&amp;quot;5 Minimalist Static Blog Generators to Check Out&amp;quot;&lt;/a&gt; on Silicon Angle&lt;/li&gt;
 &lt;li&gt;Thorpe Obazee&amp;#39;s &lt;a href=&quot;http://archived.link/http://gistpages.com/2013/08/12/complete_list_of_static_site_generators_for_python&quot;&gt;&amp;quot;Complete List of Static Site Generators for Python&amp;quot;&lt;/a&gt; on gist.pages&lt;/li&gt;
 &lt;li&gt;BitBalloon&amp;#39;s static-site leaderboard, titled &lt;a href=&quot;http://staticgen.com/&quot;&gt;&amp;quot;Top Static Site Generators Comparison&amp;quot;&lt;/a&gt; &lt;/li&gt;
