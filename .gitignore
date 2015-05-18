@@ -4,8 +4,5 @@ Icon?
 *.vimbk
 *.un~
 
-# ignore Jekyll output
-_site/
-
-# ignore Gemfile.lock as we're only using the Gemfile for Travis-CI tests
-Gemfile.lock
+# ignore gostatic output
+site/

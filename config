@@ -1,0 +1,28 @@
+TEMPLATES = templates
+SOURCE = src
+OUTPUT = site
+
+posts/*.md:
+	config
+	paginate 10 pages/*.page
+	ext .html
+	markdown
+	template post
+	template page
+
+pages/*.page: posts/*.md
+	rename ../page-*
+	ext .html
+	directorify
+	template archive
+	markdown
+	template page
+
+pages/1.page: pages/*.page
+	rename ../index.html
+	template archive
+	markdown
+	template page
+
+media/*:
+	rename ../assets/images/content/*
