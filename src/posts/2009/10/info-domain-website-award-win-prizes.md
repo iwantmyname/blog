@@ -3,10 +3,6 @@ date: 2009-10-15 08:20:16 +1200
 author: Timo
 title: Best .INFO Domain Website Awards - Win Cash Prizes
 
-categories:
-  - .info domains
-  - Contest
-  - gTLD
 
 ----
 

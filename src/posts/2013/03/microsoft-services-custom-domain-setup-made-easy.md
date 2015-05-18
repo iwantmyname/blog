@@ -3,19 +3,7 @@ date: 2013-03-21 10:28:12 +1200
 author: Owen
 title: Simplified Custom Domain Setup For Windows Azure And Other Microsoft Apps
 
-categories:
-  - Announcement
-  - DNS
 
-tags:
-  - Hotmail
-  - Mail
-  - Microsoft
-  - Outlook.com
-  - Twitter
-  - Webmail
-  - Windows Live
-  - Windows Live SkyDrive
 
 ----
 

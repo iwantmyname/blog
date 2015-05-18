@@ -3,14 +3,7 @@ date: 2013-02-08 09:59:40 +1200
 author: Paul
 title: Cancel That Card Saves The Day
 
-categories:
-  - Sponsorship
 
-tags:
-  - Credit card
-  - domain name
-  - fraud
-  - Twitter bot
 
 ----
 

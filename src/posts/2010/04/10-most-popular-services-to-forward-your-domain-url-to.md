@@ -3,9 +3,6 @@ date: 2010-04-14 18:55:16 +1200
 author: Timo
 title: 10 Most Popular Services To Forward Your Domain To
 
-categories:
-  - Services
-  - URL Forwarding
 
 ----
 

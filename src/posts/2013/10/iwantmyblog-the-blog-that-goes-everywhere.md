@@ -3,9 +3,6 @@ date: 2013-10-05 06:02:41 +1200
 author: Chris
 title: "iwantmyblog: The Blog That Goes Everywhere"
 
-categories:
-  - Blogging
-  - iwantmyblog
 
 ----
 

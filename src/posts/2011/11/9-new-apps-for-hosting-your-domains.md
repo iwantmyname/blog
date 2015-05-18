@@ -3,8 +3,6 @@ date: 2011-11-24 16:03:13 +1200
 author: Timo
 title: 9 New Marketplace Apps For Your Domains
 
-categories:
-  - News
 
 ----
 

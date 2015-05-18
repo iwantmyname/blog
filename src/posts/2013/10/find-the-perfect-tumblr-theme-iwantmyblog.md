@@ -3,8 +3,6 @@ date: 2013-10-19 11:10:35 +1200
 author: Chris
 title: Find The Perfect Tumblr Theme #iwantmyblog
 
-categories:
-  - iwantmyblog
 
 ----
 

@@ -3,9 +3,6 @@ date: 2010-09-15 11:35:14 +1200
 author: Timo
 title: Join Our Affiliate Program In September And Get An Extra 5% Lifetime Bonus
 
-categories:
-  - Affiliate
-  - Special Offer
 
 ----
 

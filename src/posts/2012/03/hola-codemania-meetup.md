@@ -3,19 +3,7 @@ date: 2012-03-08 15:00:00 +1200
 author: Paul
 title: Hola! Codemania Meetup
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Auckland
-  - Codemania
-  - developers
-  - iWantMyName
-  - Meetup
-  - start-ups
-  - web software
 
 ----
 

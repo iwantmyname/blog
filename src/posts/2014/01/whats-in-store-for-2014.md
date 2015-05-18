@@ -3,18 +3,7 @@ date: 2014-01-21 19:00:00 +1200
 author: Paul
 title: "What's In Store For 2014"
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .KIWI
-  - .NZ
-  - new gTLD
-  - New Zealand
-  - startup weekend
-  - tech
 
 ----
 

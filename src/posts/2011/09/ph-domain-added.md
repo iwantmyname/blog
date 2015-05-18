@@ -3,15 +3,7 @@ date: 2011-09-15 11:38:00 +1200
 author: Paul
 title: .PH Domains Added
 
-categories:
-  - New domain extension
 
-tags:
-  - .PH
-  - Domain hack
-  - Domain name
-  - dotPH
-  - Philippines
 
 ----
 

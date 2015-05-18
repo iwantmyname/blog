@@ -3,8 +3,6 @@ date: 2012-06-18 11:48:16 +1200
 author: Paul
 title: More New Domains .WTF?
 
-categories:
-  - New domain extension
 
 ----
 

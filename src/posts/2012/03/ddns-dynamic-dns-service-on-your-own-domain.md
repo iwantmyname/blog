@@ -3,9 +3,6 @@ date: 2012-03-02 17:48:24 +1200
 author: Lenz
 title: Care For Dynamic DNS (DDNS) Updates?
 
-categories:
-  - DNS
-  - Dynamic DNS
 
 ----
 

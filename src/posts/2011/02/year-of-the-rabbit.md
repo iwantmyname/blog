@@ -3,17 +3,7 @@ date: 2011-02-07 10:12:29 +1200
 author: Paul
 title: Hop Into the New Lunar Year and Save
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - .Asia
-  - domain
-  - new year
-  - rabbit
 
 ----
 

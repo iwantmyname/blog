@@ -3,20 +3,7 @@ date: 2010-09-07 12:49:46 +1200
 author: Paul
 title: "Where It's .AT"
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - apps
-  - Austria
-  - ccTLD
-  - discount
-  - Domain name
-  - domains
-  - promotion
 
 ----
 

@@ -3,15 +3,7 @@ date: 2010-01-15 11:45:54 +1200
 author: Timo
 title: Kiwi iWantMyName Domain Registrar Site Launches
 
-categories:
-  - Announcement
-  - New Zealand
 
-tags:
-  - Domain name registrar
-  - Domains
-  - New Zealand
-  - Open source
 
 ----
 

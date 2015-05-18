@@ -3,8 +3,6 @@ date: 2010-11-01 23:46:26 +1200
 author: Timo
 title: Apps for Domains News Roundup October
 
-categories:
-  - News
 
 ----
 

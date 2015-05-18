@@ -3,16 +3,7 @@ date: 2013-10-24 10:00:00 +1200
 author: Paul
 title: Away Games - iwantmyname On Tour
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - fun
-  - iwantmyname
-  - jobs
-  - travel
 
 ----
 

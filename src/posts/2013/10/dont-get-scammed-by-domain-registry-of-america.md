@@ -3,8 +3,6 @@ date: 2013-10-09 18:56:33 +1200
 author: Chris
 title: "Don't Get Scammed By Domain Registry Of America"
 
-categories:
-  - Scam
 
 ----
 

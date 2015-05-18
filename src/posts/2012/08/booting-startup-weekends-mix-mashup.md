@@ -3,19 +3,7 @@ date: 2012-08-27 10:00:00 +1200
 author: Paul
 title: "Booting Startup Weekend's Mix & Mashup"
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Digital Earth
-  - Entrepreneur
-  - newzealand
-  - start-ups
-  - Startup Weekend
-  - tech
-  - Wellington
 
 ----
 

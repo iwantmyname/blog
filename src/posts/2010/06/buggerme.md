@@ -3,20 +3,7 @@ date: 2010-06-09 15:14:40 +1200
 author: Paul
 title: Bugger.me
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - All Whites
-  - bugger
-  - domains
-  - English
-  - iWantMyName
-  - Kiwi
-  - Twitter
-  - World Cup
 
 ----
 

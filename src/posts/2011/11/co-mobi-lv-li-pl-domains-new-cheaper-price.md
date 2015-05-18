@@ -3,8 +3,6 @@ date: 2011-11-17 16:48:30 +1200
 author: Timo
 title: .CO, .MOBI, .LV, .LI & .PL Domains Now Permanently Reduced In Price
 
-categories:
-  - Price reduction
 
 ----
 

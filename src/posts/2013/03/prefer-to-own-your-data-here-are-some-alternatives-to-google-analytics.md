@@ -3,18 +3,7 @@ date: 2013-03-05 08:28:02 +1200
 author: Owen
 title: Prefer to own your data? Here are some alternatives to Google Analytics
 
-categories:
-  - Website Analytics
 
-tags:
-  - Alternatives
-  - Clicky
-  - Google Analytics
-  - Mint
-  - Open Source
-  - Piwik
-  - Self Hosted
-  - Website Analytics
 
 ----
 

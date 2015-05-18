@@ -3,19 +3,7 @@ date: 2010-02-14 10:10:56 +1200
 author: Timo
 title: Remaining Freely Available 2-Character Domain Names
 
-categories:
-  - .gd domains
-  - .ht domains
-  - .ms domains
-  - .tc domains
-  - .vg domains
-  - Domain ideas
 
-tags:
-  - available domains
-  - bit.ly pro
-  - short domain names
-  - url shortener
 
 ----
 

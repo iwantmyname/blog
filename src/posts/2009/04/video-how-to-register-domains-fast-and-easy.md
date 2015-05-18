@@ -3,12 +3,7 @@ date: 2009-04-06 06:59:20 +1200
 author: Timo
 title: "Video: How to register domains fast and easy"
 
-categories:
-  - Tutorial
-  - Video
 
-tags:
-  - video tutorial domain registration domains registration iwantmyname
 
 ----
 

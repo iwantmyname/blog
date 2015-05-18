@@ -3,16 +3,7 @@ date: 2013-04-24 16:00:00 +1200
 author: Paul
 title: ANZAC Spirit Lives On With .AU Domain
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .AU domains
-  - ANZAC
-  - Australia
-  - New Zealand
 
 ----
 

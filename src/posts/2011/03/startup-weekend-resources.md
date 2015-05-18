@@ -3,21 +3,7 @@ date: 2011-03-28 11:32:02 +1200
 author: Paul
 title: 10 Startup Weekend Resources
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Auckland
-  - domains
-  - Entrepreneur
-  - New Zealand
-  - Reid Hoffman
-  - start-ups
-  - Startup Weekend
-  - Steve Blank
-  - web
 
 ----
 

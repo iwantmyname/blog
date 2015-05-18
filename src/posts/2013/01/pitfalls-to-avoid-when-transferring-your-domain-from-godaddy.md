@@ -3,8 +3,6 @@ date: 2013-01-31 13:59:45 +1200
 author: Timo
 title: Pitfalls To Avoid When Transferring Your Domain From GoDaddy
 
-categories:
-  - Domain transfer
 
 ----
 

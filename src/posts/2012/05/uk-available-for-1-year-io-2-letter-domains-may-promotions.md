@@ -3,8 +3,6 @@ date: 2012-05-04 14:54:27 +1200
 author: Timo
 title: .UK Available For 1 Year, .IO 2-Letter Domains & May Promotions
 
-categories:
-  - Special Offer
 
 ----
 

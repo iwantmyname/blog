@@ -3,15 +3,7 @@ date: 2010-08-17 15:41:28 +1200
 author: Timo
 title: "'Virb'alize Your Domain Name!"
 
-categories:
-  - Custom domains
-  - Virb
 
-tags:
-  - custom domain
-  - domains
-  - virb
-  - website builder
 
 ----
 

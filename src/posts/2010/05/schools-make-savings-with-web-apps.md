@@ -3,21 +3,7 @@ date: 2010-05-30 16:38:23 +1200
 author: Paul
 title: Kiwi Schools Make Savings With Web Apps
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Blog
-  - Brand
-  - Computers and Internet
-  - Domain name
-  - Domain transfer
-  - iWantMyName
-  - Schools
-  - Webmail
-  - Website
 
 ----
 

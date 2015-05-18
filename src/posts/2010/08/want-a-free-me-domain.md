@@ -3,16 +3,7 @@ date: 2010-08-03 09:25:52 +1200
 author: Timo
 title: Want A Free .ME Domain?
 
-categories:
-  - .me domains
-  - Contest
-  - Special Offer
 
-tags:
-  - contest
-  - domains
-  - free .me domain
-  - win
 
 ----
 

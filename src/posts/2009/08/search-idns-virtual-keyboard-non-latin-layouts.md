@@ -3,14 +3,7 @@ date: 2009-08-07 15:20:26 +1200
 author: Timo
 title: Search IDNs with the Virtual Keyboard
 
-categories:
-  - Internationalised Domain Names
-  - New feature
 
-tags:
-  - domains
-  - idns
-  - tool
 
 ----
 

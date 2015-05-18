@@ -3,8 +3,6 @@ date: 2014-02-22 08:25:44 +1200
 author: Chris
 title: .UNO looks to unite the Spanish-speaking web—an interview with Desiree Boxberger of Dot Latin LLC
 
-search:
-  tld: Uno
   
 ----
 

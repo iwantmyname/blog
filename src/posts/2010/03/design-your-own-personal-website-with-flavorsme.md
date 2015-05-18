@@ -3,15 +3,7 @@ date: 2010-03-09 08:41:48 +1200
 author: Timo
 title: Design Your Own Personal Website With Flavors.me
 
-categories:
-  - Flavors.me
 
-tags:
-  - Domain Name
-  - Domains
-  - Lifestream
-  - Personal Profile
-  - Website Builder
 
 ----
 

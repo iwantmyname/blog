@@ -3,17 +3,7 @@ date: 2009-05-15 13:05:50 +1200
 author: Timo
 title: The Art of Finding a Domain Hack
 
-categories:
-  - Domain hacks
-  - Domain ideas
-  - Domain tools
-  - Tutorial
-  - ccTLD
 
-tags:
-  - domain hack
-  - domains
-  - howto
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
 

@@ -3,14 +3,7 @@ date: 2011-12-29 15:05:24 +1200
 author: Paul
 title: A Helping Hand For Domain Transfers
 
-categories:
-  - New feature
 
-tags:
-  - December 29th
-  - Domain name registrar
-  - Domain name transfer
-  - Go Daddy
 
 ----
 

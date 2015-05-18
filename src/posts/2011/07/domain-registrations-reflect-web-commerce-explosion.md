@@ -3,17 +3,7 @@ date: 2011-07-13 19:57:41 +1200
 author: Paul
 title: Domain Registrations Reflect Web Commerce Explosion
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Business and Economy
-  - Domain name
-  - Domain name registrar
-  - e-commerce
-  - Mobile commerce
 
 ----
 

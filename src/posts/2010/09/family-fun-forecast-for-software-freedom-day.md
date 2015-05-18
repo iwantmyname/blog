@@ -3,17 +3,7 @@ date: 2010-09-18 11:39:01 +1200
 author: Paul
 title: Family Fun Forecast For Software Freedom Day
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - domains
-  - Free Open Source Software
-  - iPhone App
-  - Open source
-  - QR code
 
 ----
 

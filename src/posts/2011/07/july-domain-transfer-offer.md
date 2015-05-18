@@ -3,18 +3,7 @@ date: 2011-07-05 11:35:34 +1200
 author: Paul
 title: July Domain Transfer Offer
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - domain
-  - Domain name
-  - free domain transfer
-  - new domains
-  - registrar
 
 ----
 

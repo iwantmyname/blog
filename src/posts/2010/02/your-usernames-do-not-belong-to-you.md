@@ -3,15 +3,7 @@ date: 2010-02-19 12:02:33 +1200
 author: Timo
 title: Your Username Does Not Belong To You
 
-categories:
-  - Identity
 
-tags:
-  - Digital Identity
-  - DNS
-  - Domain Name
-  - Domains
-  - Username
 
 ----
 

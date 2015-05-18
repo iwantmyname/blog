@@ -3,15 +3,7 @@ date: 2011-07-31 09:21:11 +1200
 author: Paul
 title: Zerply Implements Profile Domain Customization
 
-categories:
-  - Apps
 
-tags:
-  - customize
-  - Domain name
-  - LinkedIn
-  - personal profile
-  - Social network
 
 ----
 

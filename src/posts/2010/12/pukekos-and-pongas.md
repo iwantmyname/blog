@@ -3,19 +3,7 @@ date: 2010-12-20 15:59:50 +1200
 author: Paul
 title: Pukekos and Pongas
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Christmas
-  - domains
-  - holiday
-  - iWantMyName
-  - New Year
-  - New Zealand
-  - registrar
 
 ----
 

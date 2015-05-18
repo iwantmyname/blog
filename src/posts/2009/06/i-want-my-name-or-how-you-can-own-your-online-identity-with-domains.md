@@ -3,25 +3,7 @@ date: 2009-06-12 13:14:18 +1200
 author: Timo
 title: I want my name! Or how you can own your online identity.
 
-categories:
-  - .com domains
-  - .im domains
-  - .info domains
-  - .me domains
-  - .name domains
-  - .net domains
-  - .org domains
-  - .tel domains
-  - Custom domains
-  - Domain ideas
-  - Identity
-  - Special Offer
 
-tags:
-  - apps
-  - domains
-  - online identity
-  - special offer
 
 ----
 

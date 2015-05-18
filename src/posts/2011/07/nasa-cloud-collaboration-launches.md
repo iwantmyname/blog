@@ -3,20 +3,7 @@ date: 2011-07-22 16:00:00 +1200
 author: Paul
 title: NASA Cloud Collaboration Launches
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Apache License
-  - Cloud computing
-  - Final Shuttle Mission
-  - Mars
-  - NASA
-  - Open source
-  - Rackspace
-  - Space Shuttle
 
 ----
 

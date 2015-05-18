@@ -3,17 +3,7 @@ date: 2009-07-02 19:19:25 +1200
 author: Timo
 title: Happy Birthday Moonfruit! Now also supported at iWantMyName.
 
-categories:
-  - Custom domains
-  - New feature
-  - Twitter
-  - Website builder
-  - sweepstake
 
-tags:
-  - custom domains
-  - free
-  - website builder
 
 ----
 

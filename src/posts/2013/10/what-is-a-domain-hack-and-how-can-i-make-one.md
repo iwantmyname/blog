@@ -3,8 +3,6 @@ date: 2013-10-18 09:40:22 +1200
 author: Chris
 title: What Is A Domain Hack And How Can I Make One?
 
-categories:
-  - Custom domains
 
 ----
 

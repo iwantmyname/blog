@@ -3,8 +3,6 @@ date: 2011-06-27 00:51:00 +1200
 author: Timo
 title: An Introduction To New Top-Level Domains [VIDEO]
 
-categories:
-  - New gTLDs
 
 ----
 

@@ -3,13 +3,7 @@ date: 2009-04-13 18:26:14 +1200
 author: Timo
 title: Win a $10,000 iTunes gift card, a MacBook Pro or an iPod from Apple
 
-categories:
-  - Announcement
-  - iPhone
-  - sweepstake
 
-tags:
-  - domain iphone app contest sweepstake download
 
 ----
 

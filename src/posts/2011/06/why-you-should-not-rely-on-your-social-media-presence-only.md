@@ -3,9 +3,6 @@ date: 2011-06-29 10:30:25 +1200
 author: Timo
 title: Why You Should Not Rely On Your Social Media Presence Only
 
-categories:
-  - Identity
-  - SEO
 
 ----
 

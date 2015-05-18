@@ -3,8 +3,6 @@ date: 2013-05-06 14:43:32 +1200
 author: Owen
 title: "Looking Past WordPress: How Ghost Could Change The Web"
 
-categories:
-  - Blogging
 
 ----
 

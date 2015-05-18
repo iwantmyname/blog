@@ -3,19 +3,7 @@ date: 2010-08-05 11:39:34 +1200
 author: Paul
 title: Stay Frosty! .GL Domain Name Registration Added
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - .GL
-  - Domain name
-  - Google
-  - Greenland
-  - iWantMyName
-  - Top-level domain
 
 ----
 

@@ -3,9 +3,6 @@ date: 2013-09-20 09:56:11 +1200
 author: Chris
 title: "Pagely Turns 4. Doesn't Ask For Any Gifts."
 
-categories:
-  - Apps
-  - Pagely
 
 ----
 

@@ -3,8 +3,6 @@ date: 2009-11-06 22:16:27 +1200
 author: Timo
 title: "Doppelgänger Double: Benikvrij & meinName start in Europe"
 
-categories:
-  - Announcement
 
 ----
 

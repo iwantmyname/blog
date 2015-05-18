@@ -3,18 +3,6 @@ date: 2011-05-19 16:40:30 +1200
 author: Timo
 title: Free .CO.UK, .CO.NZ & .IO Domain Transfers + Newly Transferable Extensions
 
-categories:
-  - Austria
-  - Belgium
-  - Europe
-  - Isle of Man
-  - Liechtenstein
-  - New Zealand
-  - Spain
-  - Switzerland
-  - Transfer
-  - United Kingdom
-  - ccTLD
 
 ----
 

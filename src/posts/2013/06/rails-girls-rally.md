@@ -3,17 +3,7 @@ date: 2013-06-06 15:00:00 +1200
 author: Paul
 title: Rails Girls Rally
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .IO domains
-  - Heroku
-  - hosting
-  - rails
-  - rails girls
 
 ----
 

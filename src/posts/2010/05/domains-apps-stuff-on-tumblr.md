@@ -3,15 +3,7 @@ date: 2010-05-24 16:00:49 +1200
 author: Timo
 title: Domains, Apps & Stuff on Tumblr
 
-categories:
-  - Announcement
-  - Tumblr
 
-tags:
-  - Blog
-  - Domain name
-  - iWantMyName
-  - Tumblr
 
 ----
 

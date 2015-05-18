@@ -3,18 +3,7 @@ date: 2010-06-30 12:07:47 +1200
 author: Paul
 title: Domains On Your iPhone
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Domain name
-  - DomainApp
-  - iPhone
-  - iTunes
-  - iWantMyName
-  - mobile
 
 ----
 

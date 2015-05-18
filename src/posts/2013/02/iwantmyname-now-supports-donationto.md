@@ -3,17 +3,6 @@ date: 2013-02-28 17:25:31 +1200
 author: Owen
 title: iwantmyname now supports DonationTo!
 
-categories:
-  - Apps
-tags:
-  - Cancer
-  - Conditions and Diseases
-  - Donation
-  - Health
-  - Kickstarter
-  - Natural disaster
-  - Philanthropy
-  - Traffic collision
 
 ----
 

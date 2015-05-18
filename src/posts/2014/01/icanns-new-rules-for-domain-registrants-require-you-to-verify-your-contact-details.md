@@ -3,8 +3,6 @@ date: 2014-01-03 10:51:07 +1200
 author: Timo
 title: "ICANN's new rules for domain registrants require you to verify your contact details"
 
-categories:
-  - ICANN
 
 ----
 

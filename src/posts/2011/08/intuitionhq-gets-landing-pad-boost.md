@@ -3,19 +3,7 @@ date: 2011-08-31 14:05:23 +1200
 author: Paul
 title: IntuitionHQ Gets Landing Pad Boost
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - 37 Signals
-  - agile
-  - community
-  - IntuitionHQ
-  - Software as a service
-  - web design
-  - Wellington
 
 ----
 

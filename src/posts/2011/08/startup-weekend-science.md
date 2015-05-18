@@ -3,15 +3,6 @@ date: 2011-08-30 10:16:37 +1200
 author: Paul
 title: Startup Weekend Science
 
-tags:
-  - DEMO
-  - DNS
-  - domains
-  - Entrepreneur
-  - Mega
-  - Silicon Valley
-  - Startup Weekend
-  - tech
 
 ----
 

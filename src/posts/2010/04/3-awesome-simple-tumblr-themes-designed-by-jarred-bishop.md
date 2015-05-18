@@ -3,16 +3,7 @@ date: 2010-04-19 17:04:56 +1200
 author: Timo
 title: 3 Awesomely Simple Tumblr Themes Designed by Jarred Bishop
 
-categories:
-  - Tumblr
 
-tags:
-  - Blogger
-  - Customization
-  - Posterous
-  - Templates
-  - Themes
-  - Tumblr
 
 ----
 

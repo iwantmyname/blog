@@ -3,9 +3,6 @@ date: 2013-05-07 18:23:44 +1200
 author: Owen
 title: Unbounce Custom Domain Setup Made Easy
 
-categories:
-  - Apps
-  - Custom domains
 
 ----
 

@@ -3,18 +3,7 @@ date: 2010-09-08 06:37:30 +1200
 author: Timo
 title: "Vox.com Users: Now Is Your Chance To Upgrade To A Custom Domain"
 
-categories:
-  - Custom domains
-  - Identity
-  - Posterous
-  - TypePad
 
-tags:
-  - Domain Name
-  - Migrate
-  - Posterous
-  - Vox.com
-  - Wordpress.com
 
 ----
 

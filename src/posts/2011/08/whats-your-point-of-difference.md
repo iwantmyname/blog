@@ -3,16 +3,7 @@ date: 2011-08-25 12:42:22 +1200
 author: Paul
 title: "What's Your Point Of Difference?"
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Domain name registrar
-  - iWantMyName
-  - New Zealand
-  - product development
 
 ----
 

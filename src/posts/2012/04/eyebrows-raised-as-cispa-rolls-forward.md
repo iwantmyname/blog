@@ -3,16 +3,6 @@ date: 2012-04-27 13:53:23 +1200
 author: Paul
 title: Eyebrows Raised As CISPA Rolls Forward
 
-tags:
-  - CISPA
-  - cyber
-  - Internet
-  - laws
-  - privacy
-  - security
-  - SOPA
-  - U.S. House of Representatives
-  - Veto
 
 ----
 

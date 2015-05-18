@@ -3,9 +3,6 @@ date: 2012-12-17 13:57:04 +1200
 author: Timo
 title: Iceland Haz Cheezburger?
 
-categories:
-  - .is domains
-  - Iceland
 
 redirect_to: https://iwantmyname.com/domains/is-icelandic-domain-name-registration-for-iceland
 

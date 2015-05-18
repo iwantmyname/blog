@@ -3,21 +3,7 @@ date: 2010-08-03 09:45:02 +1200
 author: Paul
 title: .ME Domain Contest Launches
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - .me
-  - Blogger
-  - Domain name
-  - iWantMyName
-  - Posterous
-  - Promotion
-  - Refund
-  - Tumblr
 
 ----
 

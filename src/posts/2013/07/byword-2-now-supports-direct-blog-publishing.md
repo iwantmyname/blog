@@ -3,8 +3,6 @@ date: 2013-07-30 10:22:32 +1200
 author: Owen
 title: Writing App Byword Now Supports Direct Blog Publishing
 
-categories:
-  - Mac
 
 ----
 

@@ -3,21 +3,7 @@ date: 2011-09-30 13:00:00 +1200
 author: Paul
 title: Domain Additions Bolster International Fixtures
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - domain name
-  - domains
-  - France
-  - international
-  - Italy
-  - Latvia
-  - New Zealand
-  - Philippines
-  - rugby world cup
 
 ----
 

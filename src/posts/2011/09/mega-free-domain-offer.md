@@ -3,19 +3,7 @@ date: 2011-09-10 11:00:00 +1200
 author: Paul
 title: Startup Weekend Mega Free Domain Offer 
 
-categories:
-  - Conference
-  - Special Offer
 
-tags:
-  - demo
-  - domain registrar
-  - entrepreneur
-  - free domain
-  - iWantMyName
-  - Mega
-  - offer
-  - startup weekend
 
 ----
 

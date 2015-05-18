@@ -3,8 +3,6 @@ date: 2013-02-05 12:10:42 +1200
 author: Timo
 title: WebFaction Gives Away $100,000 In Hosting Services To Celebrate 10th Anniversary
 
-categories:
-  - Special Offer
 
 ----
 

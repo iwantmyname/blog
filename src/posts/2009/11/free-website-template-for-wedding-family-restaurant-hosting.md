@@ -3,11 +3,6 @@ date: 2009-11-20 13:18:06 +1200
 author: Timo
 title: Google Sites Website Templates For Your Wedding, Family, Restaurant & More
 
-categories:
-  - Domain ideas
-  - Google Apps
-  - Video
-  - Website builder
 
 ----
 

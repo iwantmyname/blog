@@ -3,21 +3,7 @@ date: 2010-07-31 14:32:49 +1200
 author: Timo
 title: Apps for Domains News Roundup July
 
-categories:
-  - Apple MobileMe
-  - Apps
-  - Google Apps
-  - News
-  - Posterous
-  - Tumblr
 
-tags:
-  - applications
-  - apps
-  - customize
-  - domain
-  - domains
-  - web address
 
 ----
 

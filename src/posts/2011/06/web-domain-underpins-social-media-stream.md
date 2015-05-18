@@ -3,20 +3,7 @@ date: 2011-06-30 11:20:39 +1200
 author: Paul
 title: Web Domain Underpins Social Media Stream
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - brand
-  - Brand
-  - domains
-  - Internet marketing
-  - Mashable
-  - Rand Fishkin
-  - Social media
-  - web services
 
 ----
 

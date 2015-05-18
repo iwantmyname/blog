@@ -3,15 +3,7 @@ date: 2009-06-10 15:54:23 +1200
 author: Timo
 title: Real-time DNS Management For Your Domains
 
-categories:
-  - Announcement
-  - DNS
-  - New feature
 
-tags:
-  - dns
-  - domains
-  - editor
 
 ----
 

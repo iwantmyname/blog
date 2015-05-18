@@ -3,8 +3,6 @@ date: 2013-05-14 13:09:59 +1200
 author: Timo
 title: iwantmyname does not register domains you have searched for on our site. EVER.
 
-categories:
-  - Domain search
 
 ----
 

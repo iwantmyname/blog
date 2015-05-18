@@ -3,17 +3,7 @@ date: 2011-02-22 23:25:31 +1200
 author: Paul
 title: Christchurch Quake Shock
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Christchurch
-  - earthquake
-  - Google
-  - New Zealand
-  - Red Cross
 
 ----
 

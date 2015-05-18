@@ -3,9 +3,6 @@ date: 2012-10-15 23:28:12 +1200
 author: Timo
 title: Channel Island Domains .JE And .GG Activated
 
-categories:
-  - Announcement
-  - New domain extension
 
 ----
 

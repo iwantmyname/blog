@@ -3,8 +3,6 @@ date: 2014-05-09 12:14:22 +1200
 author: Chris
 title: .IO gets cheaper and more secure (i.e. better)
 header_image: 2014-05-09-io.jpg
-search:
-  tld: io
 ----
 
 <!-- excerpt -->

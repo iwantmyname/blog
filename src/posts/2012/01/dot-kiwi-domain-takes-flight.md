@@ -3,21 +3,7 @@ date: 2012-01-18 12:00:00 +1200
 author: Paul
 title: Dot Kiwi Domain Takes Flight
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .kiwi
-  - Canada
-  - Christchurch
-  - Domain name
-  - Dot Kiwi
-  - ICANN
-  - KEA
-  - new gTLD
-  - New Zealand
 
 ----
 

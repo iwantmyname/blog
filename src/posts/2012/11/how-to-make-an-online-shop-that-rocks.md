@@ -3,17 +3,7 @@ date: 2012-11-05 10:30:00 +1200
 author: Paul
 title: How To Make An Online Shop That Rocks
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - custom domain
-  - design
-  - e-commerce
-  - online shop
-  - Shopify
 
 ----
 

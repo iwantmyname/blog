@@ -3,15 +3,7 @@ date: 2010-05-19 16:38:37 +1200
 author: Timo
 title: Improved Web Application Setup & New DNS Manager
 
-categories:
-  - Apps
-  - DNS
-  - New feature
 
-tags:
-  - apps
-  - dns
-  - domains
 
 ----
 

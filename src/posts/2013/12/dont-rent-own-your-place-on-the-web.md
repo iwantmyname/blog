@@ -3,8 +3,6 @@ date: 2013-12-21 07:36:37 +1200
 author: Chris
 title: "Don't Rent. Own Your Place On The Web"
 
-categories:
-  - Blogging
 
 ----
 

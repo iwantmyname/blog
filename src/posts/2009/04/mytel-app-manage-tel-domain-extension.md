@@ -3,16 +3,7 @@ date: 2009-04-20 06:50:15 +1200
 author: Timo
 title: Manage your .TEL domain with the My.tel iPhone app
 
-categories:
-  - .tel domains
-  - gTLD
-  - iPhone
-  - sweepstake
 
-tags:
-  - .tel domains
-  - iphone
-  - my.tel
 
 redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-communication
 ----

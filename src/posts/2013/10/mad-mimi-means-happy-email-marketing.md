@@ -3,8 +3,6 @@ date: 2013-10-02 11:57:24 +1200
 author: Chris
 title: Mad Mimi Means Happy Email Marketing
 
-categories:
-  - Email
 
 ----
 

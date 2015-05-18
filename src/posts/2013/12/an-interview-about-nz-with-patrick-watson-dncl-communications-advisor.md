@@ -3,9 +3,6 @@ date: 2013-12-13 11:35:47 +1200
 author: Chris
 title: An Interview About .NZ With Patrick Watson, DNCL Communications Advisor
 
-categories:
-  - .nz domains
-  - Interview
 
 ----
 

@@ -3,9 +3,6 @@ date: 2013-07-01 16:34:46 +1200
 author: Timo
 title: Dot-IS domain names selling like red hot Atlantic lava!
 
-categories:
-  - .is domains
-  - Special Offer
 
 ----
 

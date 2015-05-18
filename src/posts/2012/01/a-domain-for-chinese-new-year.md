@@ -3,12 +3,6 @@ date: 2012-01-26 12:00:00 +1200
 author: Paul
 title: A Domain For Chinese New Year
 
-tags:
-  - Asia-Pacific
-  - China
-  - Chinese New Year
-  - IDN
-  - Internationalized domain name
 
 ----
 

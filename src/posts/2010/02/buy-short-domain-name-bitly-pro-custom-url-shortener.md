@@ -3,15 +3,6 @@ date: 2010-02-01 16:09:19 -0800
 author: Timo
 title: Short URL Domain Name Ideas for Customizing bit.ly Pro
 
-tags:
-  - domain hack
-  - Domain name
-  - Facebook
-  - Internationalized domain name
-  - short domains
-  - Twitter
-  - url shortener
-  - URL shortening
 
 ----
 

@@ -3,8 +3,6 @@ date: 2009-11-13 12:39:27 +1200
 author: Timo
 title: 6 Free DNS Hosting Services For Your Domain Names
 
-categories:
-  - DNS
 
 ----
 

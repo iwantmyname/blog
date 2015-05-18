@@ -3,17 +3,7 @@ date: 2013-12-23 07:00:00 +1200
 author: Paul
 title: 2013 A Year Of Domains
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - 2013
-  - community
-  - domain names
-  - gTLD
-  - New Zealand
 
 ---
 

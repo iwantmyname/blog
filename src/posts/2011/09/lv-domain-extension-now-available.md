@@ -3,10 +3,6 @@ date: 2011-09-19 15:20:58 +1200
 author: Timo
 title: .LV Domain Extension Now Available
 
-categories:
-  - .lv domains
-  - Latvia
-  - New domain extension
 
 ----
 

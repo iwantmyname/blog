@@ -3,18 +3,7 @@ date: 2013-05-29 11:00:00 +1200
 author: Paul
 title: Community Warms To Domain Registrar Upstart
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - community
-  - domains
-  - hot chocolate
-  - meetups
-  - New Zealand
-  - winter
 
 ----
 

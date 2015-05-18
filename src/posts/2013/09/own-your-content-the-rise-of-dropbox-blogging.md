@@ -3,8 +3,6 @@ date: 2013-09-24 12:33:26 +1200
 author: Chris
 title: "Own Your Content: The Rise Of Dropbox Blogging"
 
-categories:
-  - Blogging
 
 ----
 

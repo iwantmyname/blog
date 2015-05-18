@@ -3,14 +3,7 @@ date: 2009-03-26 11:55:38 +1200
 author: Timo
 title: .TEL her you care - register your .TEL domain
 
-categories:
-  - .tel
-  - Announcement
-  - Domain ideas
-  - New domain extensions
 
-tags:
-  - tel domain registration register your name registrar
 
 redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-communication
 ----

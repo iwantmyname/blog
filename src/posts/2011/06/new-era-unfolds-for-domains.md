@@ -3,19 +3,7 @@ date: 2011-06-21 12:51:16 +1200
 author: Paul
 title: New Era Unfolds For Domains
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - branding
-  - DNS
-  - Domain name
-  - Generic top-level domain
-  - gTLD
-  - ICANN
-  - new domains
 
 ----
 

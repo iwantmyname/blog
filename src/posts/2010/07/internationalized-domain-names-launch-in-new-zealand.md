@@ -3,15 +3,7 @@ date: 2010-07-26 15:51:37 +1200
 author: Timo
 title: Internationalized Domain Names Launch in New Zealand
 
-categories:
-  - .nz domains
-  - IDN
-  - New Zealand
 
-tags:
-  - idn
-  - internationalized domain names
-  - new zealand
 
 ----
 

@@ -3,24 +3,7 @@ date: 2010-06-15 14:57:06 +1200
 author: Paul
 title: Go .NZ!
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - .nz
-  - All Whites
-  - discount
-  - domains
-  - FIFA World Cup
-  - New Zealand
-  - Soccer
-  - specials
-  - Sport
-  - web apps
-  - World Cup
 
 ----
 

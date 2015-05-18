@@ -3,8 +3,6 @@ date: 2013-11-23 10:47:09 +1200
 author: Chris
 title: 10 Big Brands Using Domain Hacks For URL Shortening On Twitter
 
-categories:
-  - URL Shortener
 
 ----
 

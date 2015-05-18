@@ -3,12 +3,7 @@ date: 2009-03-23 12:40:19 +1200
 author: Timo
 title: "New extension: why you should buy a .TEL domain name"
 
-categories:
-  - .tel
-  - Announcement
 
-tags:
-  - tel domain extension registration why buy address book
 
 redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-communication
 ----

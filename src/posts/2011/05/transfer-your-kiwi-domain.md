@@ -3,21 +3,7 @@ date: 2011-05-02 00:31:20 +1200
 author: Paul
 title: Transfer Your Kiwi Domain For A Song
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - .PE
-  - BandCamp
-  - domain
-  - Kiwi
-  - music
-  - New Zealand
-  - registrar
-  - transfer
 
 ----
 

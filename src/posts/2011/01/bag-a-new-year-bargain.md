@@ -3,19 +3,7 @@ date: 2011-01-05 15:25:42 +1200
 author: Paul
 title: Bag A New Year Domain Bargain
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - Discounts
-  - Domain name
-  - iWantMyName
-  - New Year
-  - Sale
-  - Specials
 
 ----
 

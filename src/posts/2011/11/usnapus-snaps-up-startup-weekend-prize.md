@@ -3,18 +3,7 @@ date: 2011-11-07 14:00:00 +1200
 author: Paul
 title: uSnap.Us Snaps Up Startup Weekend Prize
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Entrepreneur
-  - New Zealand
-  - photos
-  - Startup Weekend
-  - web app
-  - Wellington
 
 ----
 

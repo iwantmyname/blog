@@ -3,18 +3,7 @@ date: 2013-03-11 12:35:34 +1200
 author: Owen
 title: How To Easily Manage Multiple WordPress Installations
 
-categories:
-  - Blogging
 
-tags:
-  - Amazon S3
-  - Backup
-  - Dropbox
-  - Google Drive
-  - ManageWP
-  - Web hosting service
-  - Website
-  - Wordpress
 
 ----
 

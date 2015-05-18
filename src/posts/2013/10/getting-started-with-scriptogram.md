@@ -3,8 +3,6 @@ date: 2013-10-09 06:58:45 +1200
 author: Chris
 title: Getting Started With Scriptogram #iwantmyblog
 
-categories:
-  - iwantmyblog
 
 ----
 

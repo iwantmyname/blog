@@ -3,19 +3,7 @@ date: 2012-08-16 14:00:00 +1200
 author: Paul
 title: Domain Of Digital Earth
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - digital domain
-  - digital earth
-  - Google Earth Engine
-  - Landsat
-  - newzealand
-  - technology
-  - web profile
 
 ----
 

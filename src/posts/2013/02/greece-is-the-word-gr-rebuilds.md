@@ -3,9 +3,6 @@ date: 2013-02-09 08:24:06 +1200
 author: Timo
 title: Greece Is the Word &mdash; .GR Rebuilds
 
-categories:
-  - .gr domains
-  - Greece
 
 redirect_to: https://iwantmyname.com/domains/gr-greek-domain-name-registration-for-greece
 

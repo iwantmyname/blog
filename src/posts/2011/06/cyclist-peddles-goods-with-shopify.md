@@ -3,18 +3,7 @@ date: 2011-06-28 22:13:48 +1200
 author: Paul
 title: Cyclist Peddles Goods With Shopify
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - bicycle
-  - e-commerce
-  - new domain
-  - Online shopping
-  - pannier bags
-  - Shopify
 
 ----
 

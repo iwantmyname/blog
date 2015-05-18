@@ -3,12 +3,6 @@ date: 2009-12-19 08:26:11 +1200
 author: Timo
 title: Top 5 iWantMyName Blog Articles 2009
 
-categories:
-  - Domain hacks
-  - Domain tools
-  - IDN
-  - New domain extensions
-  - Tutorial
 
 ----
 

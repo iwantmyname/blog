@@ -3,21 +3,7 @@ date: 2010-11-29 11:49:56 +1200
 author: Paul
 title: Anchor Your Social Media Presence With A Domain
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Business
-  - domain
-  - Facebook
-  - Internet Marketing
-  - mobile app
-  - Small business
-  - Social media
-  - Tumblr
-  - Twitter
 
 ----
 

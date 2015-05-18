@@ -3,8 +3,6 @@ date: 2013-12-31 13:39:49 +1200
 author: Timo
 title: New Domain Extensions Added In 2013
 
-categories:
-  - ccTLD
 
 ----
 

@@ -3,8 +3,6 @@ date: 2013-05-02 14:50:10 +1200
 author: Timo
 title: 6 Great May Domain Name Deals
 
-categories:
-  - Special Offer
 
 ----
 

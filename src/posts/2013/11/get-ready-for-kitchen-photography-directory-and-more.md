@@ -3,9 +3,6 @@ date: 2013-11-23 07:43:20 +1200
 author: Chris
 title: Get Ready For .KITCHEN, .PHOTOGRAPHY, .DIRECTORY And More
 
-categories:
-  - gTLD
-  - newTLD
 
 ----
 

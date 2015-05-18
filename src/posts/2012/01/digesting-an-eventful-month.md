@@ -3,21 +3,7 @@ date: 2012-01-31 14:00:00 +1200
 author: Paul
 title: Digesting An Eventful Month
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Canterbury
-  - events
-  - newzealand
-  - Ruby on Rails
-  - Startup
-  - Startup Weekend
-  - startupweekend
-  - tech
-  - Webstock
 
 ----
 

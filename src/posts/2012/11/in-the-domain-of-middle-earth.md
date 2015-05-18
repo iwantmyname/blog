@@ -3,12 +3,6 @@ date: 2012-11-26 10:00:00 +1200
 author: Paul
 title: In The Domain of Middle Earth 
 
-tags:
-  - Lord of the Rings
-  - Middle Earth domain
-  - New Zealand
-  - The Hobbit
-  - Wellington
 
 ----
 

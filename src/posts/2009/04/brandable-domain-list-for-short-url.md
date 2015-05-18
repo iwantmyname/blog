@@ -3,25 +3,7 @@ date: 2009-04-17 11:26:26 +1200
 author: Timo
 title: List of short & brandable domain names
 
-categories:
-  - .cx domains
-  - .gs domains
-  - .ht domains
-  - .mu domains
-  - .tl domains
-  - Christmas Island
-  - Country
-  - Domain extensions
-  - Domain ideas
-  - East Timor
-  - Haiti
-  - Mauritius
-  - South Georgia & The Sandwich Islands
-  - ccTLD
-  - ms
 
-tags:
-  - domains domain extensions cctld short urls
 
 ----
 

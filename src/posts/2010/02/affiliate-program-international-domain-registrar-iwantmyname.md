@@ -3,13 +3,7 @@ date: 2010-02-09 09:30:20 +1200
 author: Timo
 title: Join The iWantMyName Affiliate Program
 
-categories:
-  - New feature
 
-tags:
-  - Affiliate marketing
-  - affiliate program
-  - domain registrar
 
 ----
 

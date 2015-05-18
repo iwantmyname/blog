@@ -3,17 +3,7 @@ date: 2013-11-13 15:00:00 +1200
 author: Paul
 title: "Philippines Disaster: Help If You Can"
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - aid
-  - disaster
-  - donate
-  - Philippines
-  - typhoon
 
 ----
 

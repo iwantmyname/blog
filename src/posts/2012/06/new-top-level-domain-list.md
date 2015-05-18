@@ -3,9 +3,6 @@ date: 2012-06-13 22:11:10 +1200
 author: Timo
 title: The Ultimate List Of New Top-Level Domains
 
-categories:
-  - Announcement
-  - New domain extension
 
 ----
 

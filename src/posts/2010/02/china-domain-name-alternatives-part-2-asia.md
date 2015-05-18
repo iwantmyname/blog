@@ -3,17 +3,7 @@ date: 2010-02-27 09:40:44 +1200
 author: Timo
 title: "China Domain Name Alternatives, Part 2: .ASIA"
 
-categories:
-  - .asia domains
-  - Special Offer
-  - gTLD
 
-tags:
-  - Asia
-  - China
-  - Domain name
-  - Domains
-  - dotAsia
 
 ----
 

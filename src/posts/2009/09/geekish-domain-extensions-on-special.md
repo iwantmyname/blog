@@ -3,20 +3,7 @@ date: 2009-09-14 16:14:27 +1200
 author: Timo
 title: Geekish Domain Extensions On Special
 
-categories:
-  - .at domains
-  - .fm domains
-  - .im domains
-  - .io domains
-  - .sh domains
-  - Austria
-  - Isle of Man
-  - Special Offer
 
-tags:
-  - domains
-  - geeky
-  - special offer
 
 ----
 

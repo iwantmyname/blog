@@ -3,18 +3,7 @@ date: 2012-04-30 18:00:00 +1200
 author: Paul
 title: Happy Birthday dotFM
 
-categories:
-  - .fm domains
-  - Price reduction
-  - ccTLD
 
-tags:
-  - .FM
-  - Country code top-level domain
-  - domain
-  - dot FM
-  - Federated States of Micronesia
-  - Jazz FM
 
 ----
 

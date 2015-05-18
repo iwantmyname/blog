@@ -3,8 +3,6 @@ date: 2012-07-25 15:47:03 +1200
 author: Timo
 title: The Brand New iwantmyname
 
-categories:
-  - Announcement
 
 ----
 

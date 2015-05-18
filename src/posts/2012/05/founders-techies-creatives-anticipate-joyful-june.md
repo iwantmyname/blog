@@ -3,22 +3,7 @@ date: 2012-05-31 23:00:00 +1200
 author: Paul
 title: Founders, Techies & Creatives Anticipate Joyful June 
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Auckland
-  - CTO
-  - events
-  - Gather Barcamp
-  - Google
-  - GTUG
-  - New Zealand
-  - startup
-  - tech
-  - Wellington
 
 ----
 

@@ -3,18 +3,6 @@ date: 2009-10-06 06:41:46 +1200
 author: Timo
 title: 100 Tiny Domain Names For Your Custom URL Shortener
 
-categories:
-  - .ag domains
-  - .cx domains
-  - .gd domains
-  - .gs domains
-  - .ht domains
-  - .ms domains
-  - .mu domains
-  - .tc domains
-  - .tl domains
-  - .vg domains
-  - ccTLD
 
 ----
 

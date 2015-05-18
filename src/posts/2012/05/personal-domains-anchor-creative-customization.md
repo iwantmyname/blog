@@ -3,18 +3,7 @@ date: 2012-05-16 18:00:00 +1200
 author: Paul
 title: Personal Domains Anchor Creative Customization
 
-categories:
-  - Apps
 
-tags:
-  - art
-  - Cargo Collective
-  - customization
-  - design
-  - Domain name
-  - maker
-  - Ponoko
-  - Tumblr
 
 ----
 

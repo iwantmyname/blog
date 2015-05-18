@@ -3,14 +3,7 @@ date: 2010-07-22 08:09:04 +1200
 author: Timo
 title: "Tech Behind The Scenes: CouchDB Case Study"
 
-categories:
-  - CouchDB
-  - Tech
 
-tags:
-  - Case Study
-  - CouchDB
-  - NoSQL
 
 ----
 

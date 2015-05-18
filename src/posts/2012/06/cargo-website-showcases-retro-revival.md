@@ -3,22 +3,7 @@ date: 2012-06-12 16:00:00 +1200
 author: Paul
 title: Cargo Website Showcases Retro Revival
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Cargo
-  - Elizabeth Cottrell
-  - Furniture
-  - Home and Garden
-  - Kiwi
-  - New Zealand
-  - Recycling
-  - Taihape
-  - Upholstery
-  - website
 
 ----
 

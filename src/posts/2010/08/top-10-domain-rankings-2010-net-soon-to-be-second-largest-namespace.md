@@ -3,12 +3,7 @@ date: 2010-08-31 07:29:32 +1200
 author: Timo
 title: "Top 10 Domain Rankings 2010: .NET Soon To Be Second Largest Namespace?"
 
-categories:
-  - Statistics & Numbers
 
-tags:
-  - domain statistics
-  - top 10
 
 ----
 

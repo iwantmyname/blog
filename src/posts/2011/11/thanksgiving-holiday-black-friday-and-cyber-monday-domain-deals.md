@@ -3,17 +3,7 @@ date: 2011-11-25 05:55:44 +1200
 author: Paul
 title: Saucy Thanksgiving Holiday Domain Deals
 
-categories:
-  - Special Offer
 
-tags:
-  - Domain hack
-  - Domain name
-  - iWantMyName
-  - Thanksgiving
-  - Top-level domain
-  - turkey
-  - Whois
 
 ----
 

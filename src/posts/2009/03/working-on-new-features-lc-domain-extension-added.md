@@ -3,9 +3,6 @@ date: 2009-03-17 07:04:57 +1200
 author: Timo
 title: Working on new features, .LC domain extension added
 
-categories:
-  - Announcement
-  - New feature
 
 redirect_to: https://iwantmyname.com/domains/lc-saint-lucian-domain-name-registration-for-saint-lucia
 ----

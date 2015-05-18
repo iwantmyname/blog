@@ -3,14 +3,7 @@ date: 2009-07-31 12:26:56 +1200
 author: Timo
 title: Build Flash Websites with Wix
 
-categories:
-  - Custom domains
-  - Website builder
 
-tags:
-  - custom domains
-  - flash
-  - website builder
 
 ----
 

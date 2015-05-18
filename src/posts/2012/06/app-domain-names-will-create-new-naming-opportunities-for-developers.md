@@ -3,12 +3,7 @@ date: 2012-06-12 15:41:58 +1200
 author: Timo
 title: .APP Domain Names Will Create New Naming Opportunities For Developers
 
-preorder:
-  tld: App
 
-categories:
-  - .app domains
-  - New domain extension
 
 ----
 

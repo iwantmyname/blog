@@ -3,16 +3,7 @@ date: 2009-08-14 09:00:00 +1200
 author: Timo
 title: Your First Name Under .COM Might Still Be Available (Upside Down)
 
-categories:
-  - Domain ideas
-  - Domain tools
-  - Internationalised Domain Names
 
-tags:
-  - domain ideas
-  - domains
-  - name generator
-  - upside down
 
 ----
 

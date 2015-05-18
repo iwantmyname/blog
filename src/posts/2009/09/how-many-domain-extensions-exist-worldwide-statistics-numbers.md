@@ -3,8 +3,6 @@ date: 2009-09-25 13:02:13 +1200
 author: Timo
 title: How Many Domain Name Extensions Exist Worldwide? Statistics & Numbers, Part I
 
-categories:
-  - Statistics & Numbers
 
 ----
 

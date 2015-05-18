@@ -3,20 +3,7 @@ date: 2011-09-20 12:30:00 +1200
 author: Paul
 title: iWantMyName Backs Startup Weekend
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Business
-  - designer
-  - developer
-  - Entrepreneur
-  - free domain
-  - Mega
-  - Startup
-  - Startup Weekend
 
 ----
 

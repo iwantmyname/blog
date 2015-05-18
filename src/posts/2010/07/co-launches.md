@@ -3,17 +3,7 @@ date: 2010-07-20 14:55:22 +1200
 author: Paul
 title: .CO Launches
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Colombia
-  - Country code
-  - Country code top-level domain
-  - Domain name
-  - Top-level domain
 
 ----
 

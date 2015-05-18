@@ -3,17 +3,7 @@ date: 2011-02-11 09:42:03 +1200
 author: Paul
 title: Ice Cream Icon Celebrates 75th 
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Ice cream
-  - innovation
-  - New Zealand
-  - product
-  - Tip Top
 
 ----
 

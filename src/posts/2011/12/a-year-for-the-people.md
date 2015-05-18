@@ -3,20 +3,7 @@ date: 2011-12-31 14:00:00 +1200
 author: Paul
 title: A Year For The People
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - 2012
-  - Domain transfer
-  - Electronic Arts
-  - Go Daddy
-  - Internet freedom
-  - Nintendo
-  - Sony
-  - SOPA
 
 ----
 

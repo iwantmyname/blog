@@ -3,8 +3,6 @@ date: 2013-10-18 13:23:12 +1200
 author: Chris
 title: "Job Opening: Back-End Blacksmith (Developer)"
 
-categories:
-  - Jobs
 
 ----
 

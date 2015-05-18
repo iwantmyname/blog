@@ -3,24 +3,7 @@ date: 2011-07-20 12:24:53 +1200
 author: Paul
 title: New Services For Developers
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - 4ormat
-  - artist
-  - design
-  - developer
-  - domain
-  - Get Satisfaction
-  - Magento Go
-  - Open source
-  - Pingdom
-  - portfolio
-  - sub-domain
-  - Website
 
 ----
 

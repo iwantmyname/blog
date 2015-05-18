@@ -3,19 +3,7 @@ date: 2013-03-30 16:30:00 +1200
 author: Paul
 title: Easter Domain Name Bargains
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .COM
-  - .NET
-  - bargain
-  - discount
-  - domains
-  - Easter
-  - eggs
 
 ----
 

@@ -3,16 +3,7 @@ date: 2010-08-28 19:18:39 +1200
 author: Timo
 title: Simple Custom Domain Tweet Button With Bit.ly Pro
 
-categories:
-  - Custom domains
-  - Tips
-  - bit.ly Pro
 
-tags:
-  - Custom Domain
-  - Tweet Button
-  - Twitter
-  - URL shortener
 
 ----
 

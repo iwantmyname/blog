@@ -3,19 +3,7 @@ date: 2012-12-18 11:30:00 +1200
 author: Paul
 title: A Christmas Card
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - 2013
-  - apps
-  - Christmas
-  - domain name
-  - domain registrar
-  - iwantmyname
-  - New Zealand
 
 ----
 

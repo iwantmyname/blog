@@ -3,8 +3,6 @@ date: 2013-10-17 16:38:33 +1200
 author: Chris
 title: Adventures In Writing On Tumblr #iwantmyblog
 
-categories:
-  - iwantmyblog
 
 ----
 

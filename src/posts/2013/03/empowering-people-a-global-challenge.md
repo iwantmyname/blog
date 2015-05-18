@@ -3,8 +3,6 @@ date: 2013-03-06 09:30:39 +1200
 author: Paul
 title: Empowering People A Global Challenge
 
-categories:
-  - Announcement
 
 ----
 

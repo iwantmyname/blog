@@ -3,10 +3,6 @@ date: 2013-03-01 17:19:40 +1200
 author: Timo
 title: "Domain Extension Of The Month: .ES (Spain)"
 
-categories:
-  - .es domains
-  - Spain
-  - Special Offer
 
 ----
 

@@ -3,8 +3,6 @@ date: 2012-10-18 20:53:43 +1200
 author: Timo
 title: Be Authentic With Your Online Presence
 
-categories:
-  - Identity
 
 ----
 

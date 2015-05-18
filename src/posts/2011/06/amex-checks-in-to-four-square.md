@@ -3,19 +3,7 @@ date: 2011-06-23 17:59:06 +1200
 author: Paul
 title: Amex Checks In To Four Square
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - American Express
-  - apps
-  - domains
-  - Four Square
-  - iPhone
-  - Mobile
-  - QR codes
 
 ----
 

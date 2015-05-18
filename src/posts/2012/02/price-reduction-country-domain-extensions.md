@@ -3,8 +3,6 @@ date: 2012-02-27 18:19:17 +1200
 author: Timo
 title: Price Reduction For .CZ, .ES, .FR, .LU & .LT Domains
 
-categories:
-  - Price reduction
 
 ----
 

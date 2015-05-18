@@ -3,18 +3,7 @@ date: 2010-10-01 15:15:29 +1200
 author: Paul
 title: Horrifying Halloween Specials for October
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - Domain name
-  - domains
-  - Halloween
-  - reduction
-  - specials
 
 ----
 

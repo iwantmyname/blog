@@ -3,18 +3,7 @@ date: 2010-07-24 12:29:43 +1200
 author: Timo
 title: How To Use Descriptive Subdomains For Your Online Profiles
 
-categories:
-  - Domain ideas
-  - Tips
-  - URL Forwarding
 
-tags:
-  - branding
-  - domain
-  - facebook
-  - forwarding
-  - subdomain
-  - twitter
 
 ----
 

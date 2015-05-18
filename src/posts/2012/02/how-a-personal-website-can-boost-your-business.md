@@ -3,9 +3,6 @@ date: 2012-02-23 15:32:56 +1200
 author: Timo
 title: How A Personal Website Can Boost Your Business
 
-categories:
-  - Partnership
-  - Website builder
 
 ----
 

@@ -3,8 +3,6 @@ date: 2013-06-06 06:49:18 +1200
 author: Owen
 title: Google Abandons Open Standards For Chat
 
-categories:
-  - News
 
 ----
 

@@ -3,8 +3,6 @@ date: 2014-01-03 15:03:50 +1200
 author: Chris
 title: "Happy New Year! It's time for January domain sales."
 
-categories:
-  - Special Offer
 
 ---
 

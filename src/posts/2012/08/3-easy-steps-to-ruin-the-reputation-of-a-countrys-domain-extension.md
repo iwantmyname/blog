@@ -3,8 +3,6 @@ date: 2012-08-28 11:35:36 +1200
 author: Timo
 title: "3 Easy Steps To Ruin The Reputation Of A Country's Domain Extension"
 
-categories:
-  - .tc domains
 
 ----
 

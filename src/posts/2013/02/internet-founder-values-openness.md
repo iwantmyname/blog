@@ -3,20 +3,7 @@ date: 2013-02-01 17:00:00 +1200
 author: Paul
 title: Internet Founder Values Openness
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - domain names
-  - domain registrar
-  - Internet
-  - New Zealand
-  - Open data
-  - Tim Berners-Lee
-  - World Wide Web
-  - www
 
 ----
 

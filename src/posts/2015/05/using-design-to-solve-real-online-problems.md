@@ -3,8 +3,6 @@ date: 2015-05-14 11:28:33 -0700
 author: Chris
 title: Using .DESIGN to solve real online problems
 header_image: 2015-05-14-eames-chair.jpg
-search:
-  tld: DESIGN
 ----
 
 <!-- excerpt -->

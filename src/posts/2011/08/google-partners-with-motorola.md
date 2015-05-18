@@ -3,20 +3,7 @@ date: 2011-08-18 10:00:00 +1200
 author: Paul
 title: Google Partners With Motorola
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .CO domain
-  - Android
-  - Apple
-  - Domains
-  - Google
-  - Hosted DNS
-  - Motorola
-  - Motorola Mobility
 
 ----
 

@@ -3,18 +3,7 @@ date: 2011-11-25 14:00:00 +1200
 author: Paul
 title: Vote iWantMyName
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - blog
-  - domains
-  - Germany
-  - New Zealand
-  - Politics
-  - Voting
 
 ----
 

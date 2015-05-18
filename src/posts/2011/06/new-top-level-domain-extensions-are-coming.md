@@ -3,10 +3,6 @@ date: 2011-06-21 14:48:05 +1200
 author: Timo
 title: New Top Level Domain Extensions Are Coming!
 
-categories:
-  - Announcement
-  - ICANN
-  - newTLD
 
 ----
 

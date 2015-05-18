@@ -3,19 +3,7 @@ date: 2010-09-02 13:24:25 +1200
 author: Paul
 title: Springtime ccTLD Domain Promotion
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - Country code
-  - Country code top-level domain
-  - Domain name
-  - promotion
-  - specials
-  - Top-level domain
 
 ----
 

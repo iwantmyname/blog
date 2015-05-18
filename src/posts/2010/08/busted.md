@@ -3,17 +3,7 @@ date: 2010-08-30 11:47:41 +1200
 author: Paul
 title: Busted!
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Domain Registrar
-  - Domains
-  - Helpdesk
-  - Support
-  - Twitter
 
 ----
 

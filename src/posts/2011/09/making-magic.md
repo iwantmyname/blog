@@ -3,18 +3,7 @@ date: 2011-09-07 17:00:00 +1200
 author: Paul
 title: Making Magic
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - blog
-  - creative
-  - design
-  - digital making
-  - Ponoko
-  - profile
 
 ----
 

@@ -3,19 +3,7 @@ date: 2010-10-15 15:37:03 +1200
 author: Paul
 title: Domain Registrar Storefront
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - affiliate
-  - Domain name
-  - Domain name registrar
-  - IDN
-  - language
-  - partnership
-  - Reseller
 
 ----
 

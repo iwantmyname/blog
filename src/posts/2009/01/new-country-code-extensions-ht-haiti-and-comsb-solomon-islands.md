@@ -3,16 +3,7 @@ date: 2009-01-21 15:49:45 +1200
 author: Timo
 title: "New country code extensions: .HT (Haiti) and .COM.SB (Solomon Islands)"
 
-categories:
-  - Announcement
-  - Domain transfer
-  - General
-  - New domain extensions
 
-tags:
-  - cctld
-  - domain extensions
-  - domain transfer
 
 redirect_to: https://iwantmyname.com/domains/domain-name-registration-list-of-extensions
 ----

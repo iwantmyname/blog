@@ -3,13 +3,7 @@ date: 2009-01-16 11:50:52 +1200
 author: Timo
 title: Transfer your domains to iWantMyName
 
-categories:
-  - Announcement
-  - Domain transfer
-  - New domain extensions
 
-tags:
-  - domain transfer
 
 redirect_to: https://iwantmyname.com/domains/domain-transfer
 ----

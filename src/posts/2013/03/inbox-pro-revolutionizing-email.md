@@ -3,9 +3,6 @@ date: 2013-03-19 08:08:14 +1200
 author: Owen
 title: "Inbox Pro: Revolutionizing Email?"
 
-categories:
-  - Email
-  - News
 
 ----
 

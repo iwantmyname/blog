@@ -3,8 +3,6 @@ date: 2010-10-31 13:34:11 +1200
 author: Timo
 title: "Featured Site: Facelette.com"
 
-categories:
-  - Featured
 
 ----
 

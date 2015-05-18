@@ -3,8 +3,6 @@ date: 2012-10-26 17:29:23 +1200
 author: Timo
 title: Thoughts On Reserving The Digital Future Of Your Child
 
-categories:
-  - Identity
 
 ----
 

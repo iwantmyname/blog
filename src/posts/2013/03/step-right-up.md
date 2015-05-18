@@ -3,20 +3,7 @@ date: 2013-03-01 13:46:08 +1200
 author: Paul
 title: Step Right Up Ladies And Gentlemen!
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - customer development
-  - domain transfer
-  - marketing
-  - mega
-  - New Zealand
-  - start-ups
-  - Startup Weekend
-  - tech
 
 ----
 

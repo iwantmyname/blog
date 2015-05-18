@@ -3,33 +3,7 @@ date: 2009-07-27 18:23:04 +1200
 author: Timo
 title: Support For Internationalised Domain Names (IDNs)
 
-categories:
-  - .ac domains
-  - .at domains
-  - .cc domains
-  - .ch domains
-  - .cn domains
-  - .com domains
-  - .de domains
-  - .dk domains
-  - .es domains
-  - .info domains
-  - .io domains
-  - .jp domains
-  - .la domains
-  - .li domains
-  - .net domains
-  - .org domains
-  - .pl domains
-  - .sh domains
-  - .tv domains
-  - Internationalised Domain Names
-  - New feature
 
-tags:
-  - domains
-  - idn
-  - internationalised domain names
 
 ----
 

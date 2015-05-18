@@ -3,18 +3,7 @@ date: 2010-06-11 15:50:50 +1200
 author: Timo
 title: Apps for Domains News Roundup
 
-categories:
-  - Blogger
-  - Flavors.me
-  - Google Apps
-  - News
-  - Posterous
-  - Tumblr
 
-tags:
-  - apps
-  - custom domains
-  - news
 
 ----
 
@@ -26,9 +15,6 @@ Latest news from the most popular [web apps and services for your domains](https
 
 *   **[Google Apps](http://google.com/a)**
 
-    Google offers [10 tips for using Gmail at work](http://gmailblog.blogspot.com/2010/05/10-tips-for-using-gmail-at-work.html) and now supports Google Wave for your domain:
-    
-    {{ template "youtube" "eenNKqBjW8k" }}
 
 *   **[Fastmail](http://fastmail.fm)**
 

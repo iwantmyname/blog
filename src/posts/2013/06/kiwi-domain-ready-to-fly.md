@@ -3,17 +3,7 @@ date: 2013-06-15 16:30:00 +1200
 author: Paul
 title: .kiwi Domain Ready To Fly
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - .kiwi
-  - dot Kiwi
-  - gTLD
-  - new domain
-  - New Zealand
 
 ----
 

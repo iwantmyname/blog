@@ -3,8 +3,6 @@ date: 2011-02-01 12:07:23 +1200
 author: Timo
 title: February Domain Transfer Promotions
 
-categories:
-  - Special Offer
 
 ----
 

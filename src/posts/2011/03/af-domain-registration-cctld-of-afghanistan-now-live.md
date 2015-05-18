@@ -3,10 +3,6 @@ date: 2011-03-03 06:45:16 +1200
 author: Timo
 title: .AF Domain Registration (Afghanistan) Now Live
 
-categories:
-  - .af domains
-  - Afghanistan
-  - New domain extension
 
 ----
 

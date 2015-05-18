@@ -3,12 +3,6 @@ date: 2012-01-06 10:18:14 +1200
 author: Paul
 title: Welcome 2012, And A Thank You To All Our Customers
 
-tags:
-  - 2012
-  - domain names
-  - domain transfer
-  - gTLD
-  - New Year
 
 ----
 

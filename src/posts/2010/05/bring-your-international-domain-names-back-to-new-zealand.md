@@ -3,18 +3,7 @@ date: 2010-05-12 09:21:05 +1200
 author: Paul
 title: Bring Your International Domain Names Back Home
 
-categories:
-  - New Zealand
-  - Transfer
 
-tags:
-  - New Zealand
-  - local
-  - Domain name
-  - iWantMyName
-  - New Zealand
-  - Promo
-  - Transfer
 
 ----
 

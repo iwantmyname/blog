@@ -3,8 +3,6 @@ date: 2014-01-14 08:50:04 +1200
 author: Chris
 title: Price reduction for .CH and .LI
 
-categories:
-  - Price reduction
 
 ---
 

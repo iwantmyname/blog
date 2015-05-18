@@ -3,17 +3,7 @@ date: 2013-02-11 15:29:01 +1200
 author: Paul
 title: Creative Space Hosting Startup Weekend
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - design
-  - domains
-  - New Zealand
-  - Startup Weekend
-  - Webstock
 
 ----
 

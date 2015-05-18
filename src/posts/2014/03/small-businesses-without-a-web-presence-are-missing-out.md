@@ -3,8 +3,6 @@ date: 2014-03-27 10:51:36 +1200
 author: Melle
 title: Small businesses without a web presence are missing out
 header_image: 2014-03-27-business-building.jpg
-search:
-  tld: CA
 ----
 
 <!-- excerpt -->

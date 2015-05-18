@@ -3,19 +3,7 @@ date: 2011-10-31 14:00:00 +1200
 author: Paul
 title: Startup Weekend Brings Entrepreneurial Buzz To Capital
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - free domains
-  - iWantMyName
-  - Silicon Valley
-  - startup
-  - startup weekend
-  - tech
-  - Wellington
 
 ----
 

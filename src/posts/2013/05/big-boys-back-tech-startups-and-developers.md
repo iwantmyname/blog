@@ -3,18 +3,7 @@ date: 2013-05-13 12:30:00 +1200
 author: Paul
 title: Big Boys Back Tech Startups And Developers
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - domains
-  - Microsoft
-  - start-up
-  - Startup Day
-  - Startup Weekend
-  - Windows Azure Websites
 
 ----
 

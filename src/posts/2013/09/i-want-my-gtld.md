@@ -3,10 +3,6 @@ date: 2013-09-21 05:25:08 +1200
 author: Chris
 title: I Want My gTLD
 
-categories:
-  - Domain extensions
-  - gTLD
-  - newTLD
 
 ----
 

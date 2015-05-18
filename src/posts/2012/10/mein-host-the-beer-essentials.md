@@ -3,16 +3,7 @@ date: 2012-10-12 17:00:00 +1200
 author: Paul
 title: "Mein Host: The Beer Essentials"
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Beer
-  - Brewing
-  - domains
-  - New Zealand
 
 ----
 

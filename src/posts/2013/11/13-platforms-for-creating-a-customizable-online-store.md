@@ -3,8 +3,6 @@ date: 2013-11-05 08:27:05 +1200
 author: Chris
 title: 13 Platforms For Creating Customizable Online Stores
 
-categories:
-  - E-commerce
 
 ----
 

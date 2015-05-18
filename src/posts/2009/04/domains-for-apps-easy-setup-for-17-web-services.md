@@ -3,31 +3,7 @@ date: 2009-04-30 14:18:56 +1200
 author: Timo
 title: "Domains for Apps: Easy domain setup for popular web services"
 
-categories:
-  - Announcement
-  - Apple MobileMe
-  - Blog
-  - Custom domains
-  - Domain ideas
-  - E-commerce
-  - Google Apps
-  - New feature
-  - Shop
-  - Social Network
-  - Website builder
-  - Wiki
 
-tags:
-  - apps
-  - blog
-  - custom domains
-  - dns
-  - domains
-  - online office
-  - shop
-  - social network
-  - website builder
-  - wiki
 
 redirect_to: https://iwantmyname.com/services
 ----

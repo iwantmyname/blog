@@ -3,8 +3,6 @@ date: 2013-09-26 11:18:48 +1200
 author: Chris
 title: Marco Names His Podcast App
 
-categories:
-  - General
 
 ----
 

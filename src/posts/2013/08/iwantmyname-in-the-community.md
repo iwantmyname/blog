@@ -3,15 +3,6 @@ date: 2013-08-24 19:10:54 +1200
 author: Paul
 title: iwantmyname In The Community
 
-tags:
-  - community
-  - Meetup
-  - New Zealand
-  - start-ups
-  - Startup Weekend
-  - tech
-  - user group
-  - Wellington
 
 ----
 

@@ -3,18 +3,7 @@ date: 2012-02-24 11:00:00 +1200
 author: Paul
 title: WordPress Developers Get Your Blogs On
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Auckland
-  - blog
-  - Content management system
-  - New Zealand
-  - WordCamp
-  - WordPress
 
 ----
 

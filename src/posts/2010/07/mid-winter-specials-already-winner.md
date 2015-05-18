@@ -3,20 +3,7 @@ date: 2010-07-08 18:06:43 +1200
 author: Paul
 title: Mid-Winter Specials Already A Winner
 
-categories:
-  - New Zealand
-  - Promotion
 
-tags:
-  - New Zealand
-  - local
-  - Domain name registrar
-  - domains
-  - iWantMyName
-  - promotion
-  - sales
-  - winter
-  - World Cup
 
 ----
 

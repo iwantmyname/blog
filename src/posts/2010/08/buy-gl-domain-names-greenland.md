@@ -3,17 +3,7 @@ date: 2010-08-05 10:30:54 +1200
 author: Timo
 title: .GL Domain Name Registration Enabled (Greenland)
 
-categories:
-  - .gl domains
-  - Greenland
-  - New domain extension
-  - ccTLD
 
-tags:
-  - .gl domain
-  - greenland domains
-  - polar bear
-  - web address
 
 ----
 

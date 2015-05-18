@@ -3,18 +3,7 @@ date: 2010-03-04 12:33:52 +1200
 author: Timo
 title: My.tel 2.0 iPhone App Now Integrates With DomainApp
 
-categories:
-  - .tel domains
-  - iPhone
 
-tags:
-  - .tel
-  - Domain name
-  - DomainApp
-  - domains
-  - iPhone
-  - My.tel
-  - Telnic
 
 ----
 

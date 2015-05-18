@@ -3,24 +3,7 @@ date: 2010-05-19 15:20:09 +1200
 author: Paul
 title: Simplifying DNS and Domain Management
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Administrator
-  - Computers and Internet
-  - Customisation
-  - Designer
-  - Developer
-  - DNS
-  - Domain name
-  - Domain Name System
-  - iWantMyName
-  - Social network
-  - Web Apps
-  - Website
 
 ----
 

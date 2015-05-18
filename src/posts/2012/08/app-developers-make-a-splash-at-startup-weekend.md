@@ -3,20 +3,7 @@ date: 2012-08-22 09:00:00 +1200
 author: Paul
 title: "App Developers: Make A Splash At Startup Weekend"
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - developer
-  - domains
-  - entrepreneurship
-  - iwantmyname
-  - New Zealand
-  - open data
-  - Palmerston North
-  - startup weekend
 
 ----
 

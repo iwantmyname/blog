@@ -3,8 +3,6 @@ date: 2011-02-28 23:48:19 +1200
 author: Timo
 title: Apps For Domains News Roundup February
 
-categories:
-  - News
 
 ----
 

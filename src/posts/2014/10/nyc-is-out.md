@@ -3,8 +3,6 @@ date: 2014-10-09 08:28:03 +1200
 author: Chris
 title: .NYC is out, but you need to be a New Yorker to register
 header_image: 2014-10-09-nyc-bw.jpg
-search:
-  tld: NYC
 
 ----
 

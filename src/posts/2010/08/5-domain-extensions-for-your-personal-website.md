@@ -3,13 +3,7 @@ date: 2010-08-26 07:52:19 +1200
 author: Timo
 title: 5 Personal Domain Extensions Other Than .COM
 
-categories:
-  - Domain ideas
 
-tags:
-  - domains
-  - personal
-  - web address
 
 ----
 

@@ -3,18 +3,7 @@ date: 2010-01-31 22:32:15 +1200
 author: Timo
 title: .LU (Luxembourg) Opens Up Its Domain Extension To The World
 
-categories:
-  - .lu domains
-  - Internationalised Domain Names
-  - Price reduction
 
-tags:
-  - Domain name
-  - Domains
-  - IDN
-  - Internationalized domain name
-  - Luxembourg
-  - Luxembourgish
 
 ----
 

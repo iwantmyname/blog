@@ -3,21 +3,7 @@ date: 2010-02-23 08:17:57 +1200
 author: Timo
 title: "China Domain Name Alternatives, Part 1: .CN.COM"
 
-categories:
-  - .cn domains
-  - IDN
-  - Special Offer
 
-tags:
-  - Alternative
-  - ccTLD
-  - China
-  - Chinese
-  - CN.COM
-  - Domain Name
-  - Domains
-  - IDN
-  - TLD
 
 ----
 

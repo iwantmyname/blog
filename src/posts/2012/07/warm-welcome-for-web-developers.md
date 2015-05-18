@@ -3,17 +3,7 @@ date: 2012-07-20 16:30:00 +1200
 author: Paul
 title: Warm Welcome For Web Developers
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - craft beer
-  - Meetup
-  - WDCNZ
-  - Web developer
-  - Wellington
 
 ----
 

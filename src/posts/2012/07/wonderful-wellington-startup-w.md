@@ -3,19 +3,7 @@ date: 2012-07-27 13:00:00 +1200
 author: Paul
 title: Wonderful Wellington Startup Weekend
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Domain name
-  - iWantMyName
-  - New Zealand
-  - Open data
-  - start-ups
-  - Startup Weekend
-  - Wellington
 
 ----
 

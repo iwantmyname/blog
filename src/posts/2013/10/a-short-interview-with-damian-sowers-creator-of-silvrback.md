@@ -3,9 +3,6 @@ date: 2013-10-15 11:03:02 +1200
 author: Chris
 title: A Short Interview With Damian Sowers, Creator Of Silvrback
 
-categories:
-  - Blog
-  - Interview
 
 ----
 

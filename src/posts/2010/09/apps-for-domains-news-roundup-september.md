@@ -3,9 +3,6 @@ date: 2010-09-30 23:07:47 +1200
 author: Timo
 title: Apps For Domains News Roundup September
 
-categories:
-  - Apps
-  - News
 
 ----
 

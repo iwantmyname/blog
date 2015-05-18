@@ -3,9 +3,6 @@ date: 2011-01-27 13:09:46 +1200
 author: Timo
 title: "Featured Domain: youMust.me - A Simple Recommendation Site"
 
-categories:
-  - .me domains
-  - Featured
 
 ----
 

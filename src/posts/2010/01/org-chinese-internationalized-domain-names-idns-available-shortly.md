@@ -3,19 +3,7 @@ date: 2010-01-22 13:12:39 +1200
 author: Timo
 title: .ORG Chinese Internationalized Domain Names (IDNs) Available Shortly
 
-categories:
-  - .org domains
-  - Internationalised Domain Names
-  - gTLD
 
-tags:
-  - .cn
-  - .org
-  - Chinese character
-  - Domain name
-  - domains
-  - IDN
-  - Internationalized domain name
 
 ----
 

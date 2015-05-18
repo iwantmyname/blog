@@ -3,19 +3,7 @@ date: 2012-09-21 10:30:00 +1200
 author: Paul
 title: Starting Up New Zealand
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - apps
-  - business
-  - domains
-  - entrepreneur
-  - new zealand
-  - start-ups
-  - startup weekend
 
 ----
 

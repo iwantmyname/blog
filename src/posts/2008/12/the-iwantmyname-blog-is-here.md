@@ -3,9 +3,6 @@ date: 2008-12-20 15:52:11 +1200
 author: Timo
 title: The iWantMyName Blog has arrived
 
-categories:
-  - Announcement
-  - General
 
 redirect_to: https://iwantmyname.com/blog/
 ----

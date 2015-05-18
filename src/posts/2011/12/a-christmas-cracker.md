@@ -3,19 +3,7 @@ date: 2011-12-16 07:41:33 +1200
 author: Paul
 title: A Christmas Cracker
 
-categories:
-  - Announcement
 
-tags:
-  - Android
-  - Christmas
-  - Christmas cracker
-  - domain
-  - Gift
-  - Gizmodo
-  - iPhone
-  - Minimonos
-  - SmallWorlds
 
 ----
 

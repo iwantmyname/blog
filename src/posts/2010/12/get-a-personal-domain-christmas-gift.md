@@ -3,8 +3,6 @@ date: 2010-12-21 10:09:27 +1200
 author: Timo
 title: Get A Personal Domain Christmas Gift
 
-categories:
-  - Domain ideas
 
 ----
 

@@ -3,16 +3,7 @@ date: 2011-12-22 23:00:00 +1200
 author: Paul
 title: A Christmas Mission
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Christmas
-  - domain name
-  - gift
-  - shopping
 
 ----
 

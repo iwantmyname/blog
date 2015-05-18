@@ -3,8 +3,6 @@ date: 2013-10-22 07:24:24 +1200
 author: Chris
 title: Getting Started With Silvrback #iwantmyblog
 
-categories:
-  - iwantmyblog
 
 ----
 

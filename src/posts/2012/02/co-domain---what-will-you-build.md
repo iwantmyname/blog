@@ -3,17 +3,7 @@ date: 2012-02-29 11:00:00 +1200
 author: Paul
 title: .CO Domain - What Will You Build?
 
-categories:
-  - .co domains
-  - ccTLD
 
-tags:
-  - .CO domain
-  - .COM domain
-  - business
-  - ccTLD
-  - entrepreneur
-  - new domain
 
 ----
 

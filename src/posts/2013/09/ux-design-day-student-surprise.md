@@ -3,17 +3,7 @@ date: 2013-09-26 13:00:00 +1200
 author: Paul
 title: UX Design Day Student Surprise!
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - design
-  - usability
-  - ux
-  - UX Design Day
-  - web
 
 ----
 

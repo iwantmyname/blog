@@ -3,18 +3,7 @@ date: 2013-01-09 08:30:00 +1200
 author: Paul
 title: History App A Walk In The Park
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - App
-  - Art Deco
-  - Hawkes Bay
-  - New Zealand
-  - small business
-  - website
 
 ----
 

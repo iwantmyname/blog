@@ -3,18 +3,7 @@ date: 2010-05-23 21:49:45 +1200
 author: Paul
 title: Taking a Tumble
 
-categories:
-  - New Zealand
 
-tags:
-  - New Zealand
-  - local
-  - Blog
-  - Computers and Internet
-  - Domain name
-  - social media
-  - Tumblr
-  - Web Apps
 
 ----
 
