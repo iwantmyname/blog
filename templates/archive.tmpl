@@ -2,7 +2,7 @@
 <div class="container iwmn-container iwmn-articles">
 	<div class="row">
 		<div class="col-md-8">
-			{% with paginator . %}
+			{{ with paginator . }}
 				{{ range .Pages }}
 					<!-- template "post-preview" -->
 					
