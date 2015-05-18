@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-08 06:37:30 +1200
 author: Timo
@@ -17,7 +16,7 @@ tags:
   - Vox.com
   - Wordpress.com
 
----
+----
 
 Last week Six Apart announced the [shutdown of their free Vox.com blog service](http://archived.link/http://closing.vox.com/). One shortcoming of the system was the inability to use a custom domain name for a blog which means that users have no other choice than changing their web address should they decide to move to another service such as Six Apart's own [TypePad](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/typepad-professional-blog-service-dns-setup), newcomer [Posterous](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/posterous-blog-photos-mp3-video-by-email) or [Wordpress.com](http://wordpress.com).
 

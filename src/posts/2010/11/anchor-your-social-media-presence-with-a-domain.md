@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-11-29 11:49:56 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - Tumblr
   - Twitter
 
----
+----
 
 ![anchor.jpg]({{ site.images_url }}/2010-11-29-anchor.jpg)
 

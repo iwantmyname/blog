@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-06-07 01:28:44 +1200
 author: Melle
 title: How do I pick a domain that people will remember?
 header_image: 2014-06-06-scientist.jpg
 
----
+----
 
 <!-- excerpt -->
 

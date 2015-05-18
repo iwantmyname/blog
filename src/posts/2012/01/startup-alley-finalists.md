@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-01-26 15:30:00 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - Web Startup
   - Webstock
 
----
+----
 
 ![webstock.png]({{ site.images_url }}/2012-01-26-webstock.png)
 

@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-07-09 08:30:48 +1200
 author: Melle
 title: "How to help your company not .SUCK"
 header_image: 2014-07-09-building.jpg
 
----
+----
 
 Chris recently posted an article about [alternatives to .COM for review websites](https://iwantmyname.com/blog/2014/06/8-alternatives-to-com-for-review-websites.html). This is a great place to start if you're interested in starting a reviews site for anything from cameras to cafés. But what if you're part of a company or organization and concerned about reviews for _your_ products or services?
 

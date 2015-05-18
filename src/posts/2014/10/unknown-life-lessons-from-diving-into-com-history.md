@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-10-10 09:12:16 +1200
 author: Chris
 title: Unknown life lessons from diving into .com history
 header_image: 2014-10-10-internet-notepad.jpg
----
+----
 
 I may be promoting everything that's wrong with the internet today, but I kind of love a good list. And today I came across a great one—a list of the 100 oldest .com domain names, which go all the way back to March 15, 1985. Here are the first ten, from [Domain Holdings](http://www.domainholdings.com/recent-sales/100-oldest-domain-names/):
 

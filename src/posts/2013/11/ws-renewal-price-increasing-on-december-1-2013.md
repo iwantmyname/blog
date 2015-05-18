@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-14 07:21:38 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: .WS Renewal Price Increasing On December 1, 2013
 categories:
   - Price increase
 
----
+----
 
 ![main-logo.png]({{ site.images_url }}/2013-11-14-main-logo.png)
 

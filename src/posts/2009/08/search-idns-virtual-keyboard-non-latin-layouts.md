@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-08-07 15:20:26 +1200
 author: Timo
@@ -13,7 +12,7 @@ tags:
   - idns
   - tool
 
----
+----
 
 We have received a lot of positive feedback in the local community about our recent announcement for [Internationalised Domain Names](https://iwantmyname.com/blog/2009/07/idn-internationalised-domain-names-with-special-characters.html "Internationalised Domain Names") with Māori macrons. A question we were asked quite often was how you can actually enter special characters on an English keyboard layout. While most operating systems have character tables to help you entering letters of foreign alphabets, we now have an easier alternative for you online.
 

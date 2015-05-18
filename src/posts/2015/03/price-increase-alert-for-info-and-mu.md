@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-03-04 10:59:38 -0700
 author: Chris
 title: Price increase alert for .INFO and .MU
 excerpt: no
----
+----
 
 Heads up, folks. We're not fond of domain extension price increases, but we have two to announce, both of which affect the registration and renewal costs for the domains.
 

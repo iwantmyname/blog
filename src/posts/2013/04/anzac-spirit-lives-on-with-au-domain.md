@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-04-24 16:00:00 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - Australia
   - New Zealand
 
----
+----
 
 ![anzac.jpg]({{ site.images_url }}/2013-04-24-anzac.jpg)
 

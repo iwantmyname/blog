@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-01-30 08:25:11 +1200
 author: Chris
 title: Open admission to the "Cool Club" and the potentially murky future of Svbtle
----
+----
 
 ![x7rg26fs3udzxa.png]({{ site.images_url }}/2014-01-30-x7rg26fs3udzxa.png)
 

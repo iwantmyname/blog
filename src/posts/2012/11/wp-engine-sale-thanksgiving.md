@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-11-20 10:50:19 +1200
 author: Paul
@@ -12,7 +11,7 @@ tags:
   - WordPress
   - WordPress Engine
 
----
+----
 
 Thank goodness it's almost Thanksgiving! Everyone is looking forward to 
 putting their feet up over the holiday weekend, eating good food and 

@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-10-07 05:45:41 +1200
 author: Paul
 title: Tech rock star launches new wonder wall
 
----
+----
 <!-- excerpt -->
 
 ![wonder.fm]({{ site.images_url }}/2014-10-07-wonder-fm.png)

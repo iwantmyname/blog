@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-08-25 12:42:22 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - New Zealand
   - product development
 
----
+----
 
 When we share with others about the product we are building at [iWantMyName](https://iwantmyname.co.nz/), we often hear the question - "what's your point of difference?" There are dozens of resellers in New Zealand and literally thousands of domain registrars globally, so it's a really good question that challenges us every day.
 

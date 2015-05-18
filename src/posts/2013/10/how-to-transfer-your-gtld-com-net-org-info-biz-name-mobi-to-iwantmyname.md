@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-25 10:09:46 +1200
 author: Manu
@@ -7,7 +6,7 @@ title: How To Transfer Your gTLD (.com .net .org .info, .biz, .name, .mobi) To i
 categories:
   - Domain transfer
 
----
+----
 
 <!-- excerpt -->
 

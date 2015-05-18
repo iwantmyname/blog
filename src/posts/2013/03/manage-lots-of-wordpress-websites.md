@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-11 12:35:34 +1200
 author: Owen
@@ -17,7 +16,7 @@ tags:
   - Website
   - Wordpress
 
----
+----
 
 ![managewp-logo.png]({{ site.images_url }}/2013-03-11-managewp-logo.png)
 

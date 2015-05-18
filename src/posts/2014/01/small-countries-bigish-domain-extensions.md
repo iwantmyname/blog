@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-01-19 09:12:56 +1200
 author: Chris
 title: Small countries, big(ish) domain extensions
 
----
+----
 
 ![bigstock-Adelie-Penguins-Jumping-From-I-36934342.jpg]({{ site.images_url }}/2014-01-19-bigstock-Adelie-Penguins-Jumping-From-I-36934342.jpg)
 

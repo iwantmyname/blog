@@ -1,4 +1,3 @@
----
 layout: post
 date: 2015-03-05 13:01:55 -0700
 author: Chris
@@ -7,7 +6,7 @@ excerpt: no
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
 
----
+----
 
 ![work trip]({{ site.images_url }}/2015-03-05-domain-hack.png)
 

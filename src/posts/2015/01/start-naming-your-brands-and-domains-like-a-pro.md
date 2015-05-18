@@ -1,11 +1,10 @@
----
 layout: post
 date: 2015-01-19 16:58:16 -0700
 author: Chris
 title: Start naming your brands and domains like a pro
 excerpt: no
 header_image: 2015-01-19-names-map.jpg
----
+----
 
 Naming and choosing domains often go hand-in-hand, but many don't take either as seriously as they probably should. To get a glimpse of the professional naming process, take a gander at ["The Weird Science of Naming New Products"](http://www.nytimes.com/2015/01/18/magazine/the-weird-science-of-naming-new-products.html?_r=0) by Neal Gabler of the New York Times Magazine.
 

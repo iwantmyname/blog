@@ -1,9 +1,8 @@
----
 layout: post
 date: 2012-05-31 14:45:23 +1200
 author: Timo
 title: 5 options to migrate your iWeb-created website from MobileMe to an alternative hosting provider
----
+----
 
 ![logo-mobileme.png]({{ site.images_url }}/2012-05-31-logo-mobileme.png)
 

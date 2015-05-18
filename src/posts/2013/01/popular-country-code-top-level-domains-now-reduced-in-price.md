@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-01-17 18:47:50 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Popular Country Code Top-Level Domains Now Reduced In Price
 categories:
   - Price reduction
 
----
+----
 
 We are starting off the new year 2013 with some price reductions for the following popular country code top-level domains:
 

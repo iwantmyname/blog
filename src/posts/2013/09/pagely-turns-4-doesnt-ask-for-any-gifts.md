@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-20 09:56:11 +1200
 author: Chris
@@ -8,7 +7,7 @@ categories:
   - Apps
   - Pagely
 
----
+----
 
 <!-- excerpt -->
 

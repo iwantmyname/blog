@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-07-24 12:29:43 +1200
 author: Timo
@@ -17,7 +16,7 @@ tags:
   - subdomain
   - twitter
 
----
+----
 
 Today we want to share with you a small branding advice that can be easily applied to your domain names and takes you only 2-3 minutes to set up. Subdomains such as blog.domainname.com or wiki.domainname.com are often used to map domain names to specific services but it's also possible to simply forward them to another web address.
 This is how the URL forwardings to your social network profiles could look like:

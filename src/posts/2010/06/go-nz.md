@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-06-15 14:57:06 +1200
 author: Paul
@@ -23,7 +22,7 @@ tags:
   - web apps
   - World Cup
 
----
+----
 
 The Football World Cup event is a wonderful spectacle that both our Kiwi and German 
 founders are enjoying. New Zealand team The All Whites play Slovakia tonight at the [World Cup](http://www.fifa.com/worldcup/ "FIFA World Cup") in South Africa in a match that is sure to be full of passion. For New Zealand it will be their first appearance at the event since 1982. For Slovakia it will be their first outing as an independent nation. 

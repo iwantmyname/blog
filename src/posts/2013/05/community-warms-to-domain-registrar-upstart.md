@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-05-29 11:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - New Zealand
   - winter
 
----
+----
 
 ![warm.jpg]({{ site.images_url }}/2013-05-29-warm.jpg)
 

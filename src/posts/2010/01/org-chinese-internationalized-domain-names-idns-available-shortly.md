@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-01-22 13:12:39 +1200
 author: Timo
@@ -18,7 +17,7 @@ tags:
   - IDN
   - Internationalized domain name
 
----
+----
 
 As you may have heard, China recently changed the rules for .CN domain registrations blocking overseas registrars, excluding individuals from registering a domain name and requiring extensive documentation from businesses before domains are accepted. Thus, we have removed the .CN domain extension from our website completely until further notice.
 

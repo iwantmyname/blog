@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-03-08 15:00:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - start-ups
   - web software
 
----
+----
 
 ![codemania.png]({{ site.images_url }}/2012-03-08-codemania.png)
 

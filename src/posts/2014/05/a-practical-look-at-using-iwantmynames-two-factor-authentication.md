@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-05-01 06:45:23 +1200
 author: Chris
 title: A practical look at using iwantmyname's two-factor authentication
 header_image: 2014-05-01-armored-truck.jpg
 
----
+----
 
 <!-- excerpt -->
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-06-18 11:48:16 +1200
 author: Paul
@@ -7,7 +6,7 @@ title: More New Domains .WTF?
 categories:
   - New domain extension
 
----
+----
 
 ICANN's ["big reveal"](https://iwantmyname.com/blog/2012/06/new-top-level-domain-list.html) exposed the plans of numerous registry aspirants who plan to have a tilt at creating their own new top level domains (TLDs). Now the Internet's governing authority has to wade through almost two thousand individual applications.
 

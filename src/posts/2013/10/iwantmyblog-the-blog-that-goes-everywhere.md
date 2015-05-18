@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-05 06:02:41 +1200
 author: Chris
@@ -8,7 +7,7 @@ categories:
   - Blogging
   - iwantmyblog
 
----
+----
 
 ![iwantmyblog-logo.png]({{ site.images_url }}/2013-10-05-iwantmyblog-logo.png)
 

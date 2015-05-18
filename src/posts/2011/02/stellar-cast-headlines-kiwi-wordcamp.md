@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-02-18 18:34:41 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - WordCamp New Zealand
   - WordPress
 
----
+----
 
 ![wp35.png]({{ site.images_url }}/2011-02-18-wp35.png)
 

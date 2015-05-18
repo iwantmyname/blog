@@ -1,10 +1,9 @@
----
 layout: post
 date: 2012-08-17 00:49:58 +1200
 author: Timo
 title: Short Domain Search Made Easy!
 
----
+----
 
 One of the nice things about our [new iwantmyname search](https://iwantmyname.com) is the ability to check domain availability for ultra-short domains. If you enter a 2-letter domain, we will automatically display only search results for top-level domains (TLDs) allowing registration of these little gems:
 

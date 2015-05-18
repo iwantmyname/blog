@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-02 13:22:26 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: "Shopify's Build A Business Competition"
 categories:
   - Contest
 
----
+----
 
 We like entrepreneurs. You like entrepreneurs. And if you've always wanted to be one, now's your chance. 
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-06-30 11:20:39 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - Social media
   - web services
 
----
+----
 
 ![network.jpg]({{ site.images_url }}/2011-06-30-network.jpg)
 

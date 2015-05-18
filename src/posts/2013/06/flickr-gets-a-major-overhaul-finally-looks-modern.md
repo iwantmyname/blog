@@ -1,9 +1,8 @@
----
 layout: post
 date: 2013-06-05 08:28:12 +1200
 author: Owen
 title: Flickr Gets A Major Overhaul, Finally Looks Modern
----
+----
 
 Yahoo! had neglected Flickr essentially ever since they purchased the website back in 2005, but a few days ago they unveiled perhaps [the largest overhaul](http://yahoo.tumblr.com/post/50934634700/your-world-in-full-resolution) the photo sharing site has ever seen.
 

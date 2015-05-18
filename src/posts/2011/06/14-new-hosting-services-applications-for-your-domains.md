@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-06-30 18:32:48 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - News
   - Web applications
 
----
+----
 
 The [iWantMyName marketplace](https://iwantmyname.com/services) keeps on growing with many new hosted services that can be easily added to your domains in just one single click. We also improved the setup for subdomains, e.g. _help.yourdomain.com_ for helpdesk services or _status.yourdomain.com_ for your website status, making it dead-simple to mix and match your preferred applications.
 

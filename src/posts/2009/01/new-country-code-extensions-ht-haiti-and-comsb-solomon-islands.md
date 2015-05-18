@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-01-21 15:49:45 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - domain transfer
 
 redirect_to: https://iwantmyname.com/domains/domain-name-registration-list-of-extensions
----
+----
 
 As of today we're adding two new country code top-level domains (ccTLDs) to our [list of international extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions):
 

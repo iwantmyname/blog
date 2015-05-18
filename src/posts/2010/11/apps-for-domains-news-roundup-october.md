@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-11-01 23:46:26 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Apps for Domains News Roundup October
 categories:
   - News
 
----
+----
 
 Our monthly news digest for October 2010 covering the latest news from the recommended web services in our [apps for domains directory](https://iwantmyname.com/services):
 

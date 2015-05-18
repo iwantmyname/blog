@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-02-16 12:00:00 +1200
 author: Paul
@@ -14,7 +13,7 @@ tags:
   - Instagram
   - Photo sharing
 
----
+----
 
 ![500px.png]({{ site.images_url }}/2012-02-16-500px.png)
 

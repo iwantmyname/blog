@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-08-10 18:07:25 +1200
 author: Timo
@@ -14,7 +13,7 @@ tags:
   - short URL
   - tools
 
----
+----
 
 The sudden shutdown of popular URL shortener [tr.im](http://tr.im "tr.im URL shortener") was already covered by the [main](http://mashable.com/2009/08/09/trim-shuts-down/ "tr.im on Mashable") [tech](http://archived.link/http://www.techcrunch.com/2009/08/09/trim-throws-in-the-towel/ "tr.im on Techcrunch") [blogs](http://www.readwriteweb.com/archives/twitter_hammers_nail_in_coffin_for_trim.php "tr.im on ReadWriteWeb") so we won't go into further details on the business side. In short the main problem resulting from this are the broken links someday and there's only one solution how you can prevent this in the future: **run your own URL shortener**.
 

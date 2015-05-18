@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-08-29 00:05:39 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - hosting
   - website builder
 
----
+----
 
 Yahoo's [Geocities](http://geocities.yahoo.com/ "Geocities") service is about to [close](http://www.techcrunch.com/2009/04/23/yahoo-quietly-pulls-the-plug-on-geocities/ "Geocities closes") in 2 months and it's getting time to look for an alternative, if you haven't already done it. **Today we'd like to recommend both some free and paid services for hosting your own website.**
 

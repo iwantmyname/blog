@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-03-26 13:26:53 +1200
 author: Chris
 title: This week in gTLDs is for the IT crowd. Plus some thoughts on .EMAIL
----
+----
 
 <!-- excerpt -->
 

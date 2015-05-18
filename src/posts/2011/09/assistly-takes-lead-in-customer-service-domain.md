@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-09-30 10:39:12 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Salesforce.com
   - Shopify
 
----
+----
 
 ![logo-customer-support-assistly.png]({{ site.images_url }}/2011-09-30-logo-customer-support-assistly.png)
 

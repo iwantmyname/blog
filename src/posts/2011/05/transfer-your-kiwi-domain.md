@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-05-02 00:31:20 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - registrar
   - transfer
 
----
+----
 
 May is New Zealand Music Month. What began as an initiative to promote more airtime for Kiwi artists has evolved into a full blown celebration of talent from our local music industry. In the current economic climate it's more important than ever to support local artists. The [NZ Music Month website](http://www.nzmusicmonth.co.nz/) has all the gen including a comprehensive gig guide, news and multi-media content. 
 

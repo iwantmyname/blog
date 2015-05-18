@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-02-08 09:11:09 +1200
 author: Timo
@@ -13,7 +12,7 @@ tags:
   - domains
   - special offer
 
----
+----
 
 Had enough of your current domain name registrar? Are you sick of confusing offers, annoying up-sells and a cluttered control panel? Or maybe you are looking for a domain registrar that gets out of your way and simply lets you do your work?
 

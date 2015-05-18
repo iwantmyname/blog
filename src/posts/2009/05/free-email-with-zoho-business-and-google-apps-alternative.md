@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-05-28 17:06:48 +1200
 author: Timo
@@ -14,7 +13,7 @@ tags:
   - Domains
   - Zoho Business
 
----
+----
 
 We have added another email hosting & online collaboration service to our [Domains for Apps](https://iwantmyname.com/features/custom-domain-applications-and-dns) offering. **[Zoho Business](https://iwantmyname.com/features/applications/custom-domain-apps/zoho/email-hosting-and-online-office-suite)** offers a free email solution / business portal for up to 10 users - all under your own domain name. By registering your domain with iWantMyName you can now benefit from our easy domain configuration feature for Zoho Business and start using email with just a few clicks. Here's how it works:
 

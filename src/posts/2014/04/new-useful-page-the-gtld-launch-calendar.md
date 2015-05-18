@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-04-11 11:49:22 +1200
 author: Chris
 title: "New useful page: The gTLD launch calendar"
 excerpt: no
----
+----
 
 It started with a [big list](https://iwantmyname.com/domains/new-gtld-domain-extensions). And we were quite pleased with our big list, but it needed more context. So we built categories and buckets for released and about-to-be-released gTLDs—and it worked out great. But one more thing was needed. 
 

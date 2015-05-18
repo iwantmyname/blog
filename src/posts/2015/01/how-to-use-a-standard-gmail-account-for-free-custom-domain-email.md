@@ -1,11 +1,10 @@
----
 layout: post
 date: 2015-01-07 19:25:06 -0700
 author: Timo
 title: How to use a standard Gmail account for free custom domain email
 header_image: 2015-01-07-mailboxes.jpg
 excerpt: no
----
+----
 
 [From Ian Macalinao:](http://simplyian.com/2015/01/07/Hacking-GMail-to-use-custom-domains-for-free/)
 

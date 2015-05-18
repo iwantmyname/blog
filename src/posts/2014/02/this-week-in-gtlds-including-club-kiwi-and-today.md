@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-02-15 12:06:18 +1200
 author: Chris
 title: This week in gTLDs, including .CLUB, .KIWI and .TODAY
----
+----
 
 <!-- excerpt -->
 

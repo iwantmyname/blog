@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-01-18 12:00:00 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - new gTLD
   - New Zealand
 
----
+----
 
 ![DotKiwi-Logo-small.jpg]({{ site.images_url }}/2012-01-18-DotKiwi-Logo-small.jpg)
 

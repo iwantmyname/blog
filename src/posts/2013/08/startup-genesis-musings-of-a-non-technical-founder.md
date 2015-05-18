@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-08-26 10:00:00 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - start-up
   - tech
 
----
+----
 
 <!-- excerpt -->
 

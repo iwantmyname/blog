@@ -1,9 +1,8 @@
----
 layout: post
 date: 2011-07-01 18:10:49 +1200
 author: Timo
 title: iWantMyName July Domain Transfer Specials
----
+----
 
 July is here and brings you some great [domain transfer deals](https://iwantmyname.com/domains/domain-transfer). If you're tired of your current registrar or overwhelmed by their confusing website, iWantMyName comes to the rescue with [60+ transferrable extensions](https://iwantmyname.com/domains/domain-transfer) and [easy domain customization](https://iwantmyname.com/services) features.
 Don't waste time and start your domain transfer at discounted prices for the following top-level domains:

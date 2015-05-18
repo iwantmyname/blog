@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-10-31 14:00:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - tech
   - Wellington
 
----
+----
 
 ![sw65.jpg]({{ site.images_url }}/2011-10-31-sw65.jpg)
 

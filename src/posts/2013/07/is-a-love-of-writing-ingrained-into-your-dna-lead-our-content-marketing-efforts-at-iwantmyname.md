@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-02 19:10:34 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Is a love of writing ingrained into your DNA? Lead our content marketing 
 categories:
   - Jobs
 
----
+----
 
 iwantmyname is hiring a full-time content marketer! We are looking for a writer who can surprise and delight our customers with words. You are the one giving iwantmyname a voice by:
 

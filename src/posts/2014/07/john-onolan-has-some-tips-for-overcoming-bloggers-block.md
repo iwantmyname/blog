@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-07-15 10:15:11 +1200
 author: Chris
 title: "John O'Nolan has some tips for overcoming blogger's block"
 
----
+----
 
 <!-- excerpt -->
 

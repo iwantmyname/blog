@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-05-04 10:56:15 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Internationalised Domain Names
   - Video
 
----
+----
 
 CNN Live News interview with Tina Dam from ICANN on topic of new Internationalized Domain Name (IDN) suffixes. The new development results in domain extensions such as .CN (China) or .GR (Greece) being available for users, expressed in their native languages and scripts.
 

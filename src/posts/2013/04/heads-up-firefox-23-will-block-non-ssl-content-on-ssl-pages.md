@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-04-14 11:46:54 +1200
 author: Owen
@@ -17,7 +16,7 @@ tags:
   - Transport Layer Security
   - Website
 
----
+----
 
 ![logo-firefox.png]({{ site.images_url }}/2013-04-14-logo-firefox.png)
 

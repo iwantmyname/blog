@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-08-03 09:45:02 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - Refund
   - Tumblr
 
----
+----
 
 ![.me domain logo]({{ site.images_url }}/2010-08-03-me-domain-logo-slogan.png)
 

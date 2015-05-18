@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-09-21 10:30:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - start-ups
   - startup weekend
 
----
+----
 
 ![lunch.jpg]({{ site.images_url }}/2012-09-21-lunch.jpg)
 

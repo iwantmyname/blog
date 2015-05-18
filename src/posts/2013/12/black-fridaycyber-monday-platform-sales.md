@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-02 06:07:33 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Black Friday/Cyber Monday Platform Sales - Updated
 categories:
   - Special Offer
 
----
+----
 <!-- excerpt -->
 
 This could be a short list, but we'll be posting any and all Black Friday/Cyber Monday sales we come across from the amazing platforms in our [Marketplace](https://iwantmyname.com/services). Keep checking back through the end of December 2—maybe you'll be inspired to make something great. 

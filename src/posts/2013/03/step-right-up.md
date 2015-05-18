@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-01 13:46:08 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - Startup Weekend
   - tech
 
----
+----
 
 ![registrator.jpg]({{ site.images_url }}/2013-03-01-registrator.jpg)
 

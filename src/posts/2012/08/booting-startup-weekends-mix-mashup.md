@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-08-27 10:00:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - tech
   - Wellington
 
----
+----
 
 ![sw65.jpg]({{ site.images_url }}/2012-08-27-sw65.jpg)
 

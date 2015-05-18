@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-30 16:30:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - Easter
   - eggs
 
----
+----
 
 ![easter]({{ site.images_url }}/2013-03-30.jpg)
 

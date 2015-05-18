@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-12-29 18:10:16 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: iWantMyName Most Popular Posts 2010
 categories:
   - General
 
----
+----
 
 We dug deep into our analytics and present you the top 10 post from the iWantMyName blog in 2010:
 

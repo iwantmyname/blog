@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-12-08 14:00:00 +1200
 author: Paul
@@ -21,7 +20,7 @@ tags:
   - Twitter
   - Wired
 
----
+----
 
 ![flipboard.jpg]({{ site.images_url }}/2011-12-08-flipboard.jpg)
 

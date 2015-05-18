@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-01-07 16:16:06 -0700
 author: Chris
 title: Doing is almost always more important than worrying
 header_image: 2015-01-07-abstract.jpg
----
+----
 
 <!-- excerpt -->
 

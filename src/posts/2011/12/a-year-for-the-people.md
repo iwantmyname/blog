@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-12-31 14:00:00 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - Sony
   - SOPA
 
----
+----
 
 ![demo.jpg]({{ site.images_url }}/2011-12-31-demo.jpg)
 

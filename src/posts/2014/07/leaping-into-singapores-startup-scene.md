@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-07-08 9:45:00 +1200
 author: Paul
 title: "Leaping into Singapore's startup scene"
 header_image: 2014-07-09-jfdi.png
 
----
+----
 
 [JFDI](http://jfdi.asia/) is a Singapore business incubator and co-working space widely regarded as the most successful digital venture accelerator in Asia. Earlier this week, they had a fantastic demo day and by all accounts the event was hugely successful with a fresh crop of [twelve start-ups](http://jfdi.asia/2014/07/07/twelve-startups-wow-global-investors-at-2014a-demo-day/) taking to the stage.
 

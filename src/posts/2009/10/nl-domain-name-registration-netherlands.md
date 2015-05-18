@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-10-08 09:03:00 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Netherlands
   - ccTLD
 
----
+----
 
 After the recent addition of [.MX (Mexico) domains](https://iwantmyname.com/domains/mx-mexican-domain-name-registration-for-mexico ".MX Domain Extension - Mexico"), we are introducing another country code top-level domain (ccTLD) for you at iWantMyName.
 

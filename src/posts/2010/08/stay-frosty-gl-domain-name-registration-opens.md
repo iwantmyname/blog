@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-08-05 11:39:34 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - iWantMyName
   - Top-level domain
 
----
+----
 
 ![pb60.jpg]({{ site.images_url }}/2010-08-05-pb60.jpg)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-07 13:05:43 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: No Upselling Tactics To Be Found Here
 categories:
   - General
 
----
+----
 
 <blockquote class="twitter-tweet" lang="en"><p>Nine upselling lessons we can learn from domain registrars <a href="http://t.co/ghr9w593JM">http://t.co/ghr9w593JM</a></p>&mdash; Econsultancy (@Econsultancy) <a href="https://twitter.com/Econsultancy/statuses/395926822254571520">October 31, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

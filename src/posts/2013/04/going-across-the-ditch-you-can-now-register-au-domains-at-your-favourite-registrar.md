@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-04-29 14:25:14 +1200
 author: Timo
@@ -10,7 +9,7 @@ categories:
   - New domain extension
   - ccTLD
 
----
+----
 
 ![Uluru]({{ site.images_url }}/2013-04-29-blog-uluru.jpg)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-02-14 10:10:56 +1200
 author: Timo
@@ -18,7 +17,7 @@ tags:
   - short domain names
   - url shortener
 
----
+----
 
 After the release of bit.ly's [URL shortener for your own domain](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service), we have received a lot of emails asking for still freely available 2-letter domain names.
 

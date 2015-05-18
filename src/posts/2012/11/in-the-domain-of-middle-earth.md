@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-11-26 10:00:00 +1200
 author: Paul
@@ -11,7 +10,7 @@ tags:
   - The Hobbit
   - Wellington
 
----
+----
 
 ![orc3.jpg]({{ site.images_url }}/2012-11-26-orc3.jpg)
 

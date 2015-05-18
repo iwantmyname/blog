@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-03-07 13:25:06 +1200
 author: Paul
@@ -11,7 +10,7 @@ tags:
   - New Zealand
   - local
 
----
+----
 
 ![flavors50.png]({{ site.images_url }}/2011-03-07-flavors50.png)
 

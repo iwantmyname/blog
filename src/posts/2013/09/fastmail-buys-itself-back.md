@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-28 07:00:25 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: FastMail Buys Itself Back
 categories:
   - Email
 
----
+----
 
 From the [FastMail blog][1]:
 

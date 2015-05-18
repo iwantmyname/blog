@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-10-14 12:22:57 +1200
 author: Timo
@@ -10,7 +9,7 @@ categories:
   - Peru
   - ccTLD
 
----
+----
 
 During the last two weeks we added the [.MX internet suffix of Mexico](https://iwantmyname.com/domains/mx-mexican-domain-name-registration-for-mexico ".MX Domain Extension - Mexico") and the [Dutch .NL web address](https://iwantmyname.com/domains/nl-dutch-domain-name-registration-for-netherlands ".NL Domain Extension - Netherlands"). Today, the expansion of country code top-level domains (ccTLDs) at iWantMyName continues with the Peruvian [.PE domain extension](https://iwantmyname.com/domains/pe-peruvian-domain-name-registration-for-peru ".PE Internet Domain Extension").
 

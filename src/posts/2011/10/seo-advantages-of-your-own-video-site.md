@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-10-08 05:01:05 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Vidcaster
   - Video
 
----
+----
 
 *Guest post by Ray Pawulich, VidCaster.com:*
 

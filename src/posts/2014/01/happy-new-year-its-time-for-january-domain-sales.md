@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-01-03 15:03:50 +1200
 author: Chris
@@ -9,7 +8,7 @@ categories:
 
 ---
 
-![bigstock-Year---handwritten-on-the-s-47541919.jpg]({{ site.images_url }}/2014-01-03-bigstock-Year---handwritten-on-the-s-47541919.jpg)
+![bigstock-Year---handwritten-on-the-s-47541919.jpg]({{ site.images_url }}/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg)
 
 <!-- excerpt -->
 

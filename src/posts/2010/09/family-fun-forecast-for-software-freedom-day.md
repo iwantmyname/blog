@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-18 11:39:01 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Open source
   - QR code
 
----
+----
 
 We are hugely pleased to be able to support [Software Freedom Day](http://www.softwarefreedomday.org.nz/) again this year. SFD aims to educate the public about the 
 benefits of using high quality free and open source software in education, government, at 

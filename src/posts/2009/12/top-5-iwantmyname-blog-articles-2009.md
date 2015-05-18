@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-12-19 08:26:11 +1200
 author: Timo
@@ -11,7 +10,7 @@ categories:
   - New domain extensions
   - Tutorial
 
----
+----
 
 Lately we've been hard at work improving our services and adding new domain extensions to iWantMyName. The most important task was to implement a new version of the underlying platform software in order to lay the foundations for more innovations in 2010.
 So now it's the perfect time to revisit this year's highlights on the iWantMyName blog. We have produced a lot of useful articles about domains, domain ideas, tools and web apps. In case you haven't visited recently, here are the most popular articles worth checking out:

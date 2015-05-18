@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-06-23 17:59:06 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - Mobile
   - QR codes
 
----
+----
 
 ![mobi.png]({{ site.images_url }}/2011-06-23-mobi-thumb-150x150-112.png)
 

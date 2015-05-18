@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-27 12:06:18 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Domain name
   - feedback
 
----
+----
 
 Over the last few weeks we experienced some issues with our DNS manager. The result was that a small number of our customers could not update DNS records properly. For this we sincerely apologise. First our back end played up, later it was a problem with the user interface after we changed our website form framework. We should stress that the continuity of the DNS service was maintained at all times. The majority of customers will not have experienced any problem at all.
 

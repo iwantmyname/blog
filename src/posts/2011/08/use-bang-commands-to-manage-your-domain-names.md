@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-08-23 22:56:29 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Use !bang Commands To Manage Your Domain Names
 categories:
   - New feature
 
----
+----
 
 One of the primary goals at iWantMyName is getting out of the way of our customers when it comes to purchasing and managing domain names. We're also big fans of [search engine DuckDuckGo](http://duckduckgo.com) which inspired us to add some special sauce to our domain search, called !bang commands.
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-07-31 11:00:00 +1200
 author: Paul
@@ -11,7 +10,7 @@ tags:
   - Gold medal
   - Sport
 
----
+----
 
 ![gold.jpg]({{ site.images_url }}/2012-07-31-gold.jpg)
 

@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-04-16 13:32:22 -0700
 author: Chris
 title: Using the iwantmyname Marketplace to find your next blog, personal site, portfolio, or e-commerce platform
 header_image: 2015-04-16-street-market.jpg
----
+----
 
 <!-- excerpt -->
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-02-01 13:00:01 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Four Fantastic February Domain Discounts On .ME, .IO, .NET & .ASIA
 categories:
   - Special Offer
 
----
+----
 
 Throughout February you'll be able to benefit from the following great top-level domain sales at iwantmyname:
 

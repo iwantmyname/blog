@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-12-13 10:21:42 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Domain search
   - New feature
 
----
+----
 
 We're excited to release a [new version of the iWantMyName domain search](https://iwantmyname.com/nsearch) today. During 2011 we've been paying a lot of attention to all the great feedback we've been getting from you about our service. Over the last few weeks we've worked really hard to implement some new ideas on the site that we think you'll love.
 

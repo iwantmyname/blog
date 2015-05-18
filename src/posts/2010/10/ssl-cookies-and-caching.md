@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-10-26 16:38:46 +1200
 author: Timo
@@ -12,7 +11,7 @@ tags:
   - security
   - ssl
 
----
+----
 
 Here we go again, the SSL topic is up on [Hacker News](http://news.ycombinator.com/item?id=1827928) and we couldn't agree more! [Firesheep](http://codebutler.com/firesheep) is a wonderful tool to play with and once again we are in the middle of the security versus performance discussion. Session hijacking is a serious threat, but whether or not it is a threat to you really depends heavily on the environment you operate in.
 

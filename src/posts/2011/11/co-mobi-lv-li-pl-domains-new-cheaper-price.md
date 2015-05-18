@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-11-17 16:48:30 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: .CO, .MOBI, .LV, .LI & .PL Domains Now Permanently Reduced In Price
 categories:
   - Price reduction
 
----
+----
 
 As of today, we have slashed our prices for the following domain extensions:
 **International domains** (including [free whois address masking](https://iwantmyname.com/blog/2011/10/free-whois-address-masking-to-protect-your-privacy.html))

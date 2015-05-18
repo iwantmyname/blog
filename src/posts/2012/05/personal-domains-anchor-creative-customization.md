@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-05-16 18:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - Ponoko
   - Tumblr
 
----
+----
 
 It is always exciting to see domain names released into the wild and being put to good use. We've noticed that there is a burgeoning community of artists, designers and makers promoting their pet projects on the web these days. There's also a growing number of attractively designed [hosted services](https://iwantmyname.com/services) like [Cargo](https://iwantmyname.com/services/portfolio-hosting/cargo-custom-domain), [Tumblr](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url) and [500px](https://iwantmyname.com/blog/2012/02/photo-hosting-service-500px-increases-exposure.html) that make it really easy to create and domain customize an attractive art [portfolio](https://iwantmyname.com/services/portfolio-hosting/).
 

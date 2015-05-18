@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-01-16 12:12:32 -0700
 author: Chris
 title: Things to know about domains before buying your first domain name
 header_image: 2015-01-16-bubbles.jpg
----
+----
 
 <!-- excerpt -->
 

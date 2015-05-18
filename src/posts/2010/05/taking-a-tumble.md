@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-05-23 21:49:45 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - Tumblr
   - Web Apps
 
----
+----
 
 Did you know that [we're on Tumblr now](http://tumblr.iwantmyname.com/)? The free [blog hosting](https://iwantmyname.co.nz/services/blog-hosting "Blog software") service at [Tumblr](http://tumblr.com/ "Tumblr") allows you to quickly post things that you discover from around the web. Follow us for quick bits about the domain name world, web apps and stuff we like. Recent updates include a domain name fail, TLDs of the Worldcup 2010, and our friends from Couch.io going crazy in their [CouchDB](http://couchdb.org/ "CouchDB") rap.
 

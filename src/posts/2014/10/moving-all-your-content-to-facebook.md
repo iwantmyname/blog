@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-10-28 05:30:32 +1200
 author: Chris
 title: "Moving all your content to Facebook is a really bad idea"
 
----
+----
 
 <!-- excerpt -->
 

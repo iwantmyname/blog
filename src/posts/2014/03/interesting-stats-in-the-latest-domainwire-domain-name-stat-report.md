@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-03-29 12:46:05 +1200
 author: Chris
 title: Interesting stats in the latest DomainWire Domain Name Stat Report
 header_image: 2014-03-29-centr.jpg
----
+----
 
 <!-- excerpt -->
 

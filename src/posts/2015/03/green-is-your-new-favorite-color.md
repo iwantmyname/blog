@@ -1,9 +1,8 @@
----
 layout: post
 date: 2015-03-25 15:29:02 -0700
 author: Chris
 title: .green is your new favorite color
----
+----
 
 <!-- excerpt -->
 

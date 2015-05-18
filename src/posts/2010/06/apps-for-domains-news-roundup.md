@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-06-11 15:50:50 +1200
 author: Timo
@@ -17,7 +16,7 @@ tags:
   - custom domains
   - news
 
----
+----
 
 Latest news from the most popular [web apps and services for your domains](https://iwantmyname.com/services):
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-01 10:45:40 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Apps For Domains News Roundup August
 categories:
   - Apps
 
----
+----
 
 Monthly news digest covering the latest information from the web services recommended in our [apps for domains](https://iwantmyname.com/services) directory:
 

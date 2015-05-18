@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-05-28 05:53:42 +1200
 author: Chris
@@ -7,7 +6,7 @@ header_image: 2014-05-28-dance-club.jpg
 search:
   tld: Club
   
----
+----
 
 <!-- excerpt -->
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-03-03 06:45:16 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Afghanistan
   - New domain extension
 
----
+----
 
 ![afghan-flag.png]({{ site.images_url }}/2011-03-03-afghan-flag.png)
 

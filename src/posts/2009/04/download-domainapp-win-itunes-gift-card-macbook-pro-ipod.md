@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-04-13 18:26:14 +1200
 author: Timo
@@ -12,7 +11,7 @@ categories:
 tags:
   - domain iphone app contest sweepstake download
 
----
+----
 
 Don't miss the chance to win a $10,000 iTunes gift card, a MacBook Pro, an iPod touch, or a Time Capsule from [Apple](http://apple.com/). These are the prizes you can win in their contest to [celebrate the 1 billion app downloads](http://archived.link/http://www.apple.com/itunes/billion-app-countdown/) for their iPhone / iPod Touch platform.
 

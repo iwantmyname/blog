@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-01-16 11:50:52 +1200
 author: Timo
@@ -13,7 +12,7 @@ tags:
   - domain transfer
 
 redirect_to: https://iwantmyname.com/domains/domain-transfer
----
+----
 
 We're welcoming the new year 2009 with the activation of [domain transfers](https://iwantmyname.com/domains/domain-transfer) to iWantMyName.
 

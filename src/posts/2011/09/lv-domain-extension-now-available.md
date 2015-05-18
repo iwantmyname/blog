@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-09-19 15:20:58 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Latvia
   - New domain extension
 
----
+----
 
 ![Latvia-Flag-256.png]({{ site.images_url }}/2011-09-19-Latvia-Flag-128.png)
 

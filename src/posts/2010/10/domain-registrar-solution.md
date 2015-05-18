@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-10-15 15:37:03 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - partnership
   - Reseller
 
----
+----
 
 At [iWantMyName](https://iwantmyname.co.nz/) we feel strongly that more innovation is needed within the global domain registrar industry. That's why we developed our registrar platform from the ground up. Our philosophy revolves around providing a spam free, easy to use interface that doesn't get in the way of the customer. Acquiring and managing domains shouldn't be hard work!
 

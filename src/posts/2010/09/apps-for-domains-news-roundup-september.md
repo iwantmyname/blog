@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-30 23:07:47 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Apps
   - News
 
----
+----
 
 Our news digest for September 2010 covering the latest from the web applications and services recommended in our [apps for domains directory](https://iwantmyname.com/services):
 

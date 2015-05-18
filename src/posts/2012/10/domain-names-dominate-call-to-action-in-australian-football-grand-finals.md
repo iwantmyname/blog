@@ -1,10 +1,9 @@
----
 layout: post
 date: 2012-10-12 20:48:12 +1200
 author: Timo
 title: Domain Names Dominate Call To Action In Australian Football Grand Finals
 
----
+----
 
 > The television commercials aired during the 2012 AFL and NRL Grand Finals demonstrate that when it comes to a call to action, Australian marketers place domain names above any other medium, including social media. Our analysis of the 67 ads aired during both Grand Finals has revealed several important themes.
 

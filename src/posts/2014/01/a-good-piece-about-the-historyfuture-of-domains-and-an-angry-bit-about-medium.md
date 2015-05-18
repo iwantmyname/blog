@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-01-31 04:55:49 +1200
 author: Chris
 title: A good piece about the history/future of domains and an angry bit about Medium
----
+----
 
 [Great story about the history of domains over the last two decades from Morgan Linton:](https://medium.com/p/88e8ca7f407c)
 

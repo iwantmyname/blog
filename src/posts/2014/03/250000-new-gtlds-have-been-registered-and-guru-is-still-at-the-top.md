@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-03-20 05:20:35 +1200
 author: Chris
 title: 250,000 new gTLDs have been registered, and .GURU is still at the top
 header_image: 2014-03-20-gtld-graph.png
----
+----
 
 <!-- excerpt -->
 

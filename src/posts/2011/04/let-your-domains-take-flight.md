@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-04-18 16:06:31 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Let Your Domains Take Flight
 categories:
   - Tips
 
----
+----
 
 [![a red dart against a blue canvas]({{ site.images_url }}/2011-04-18-608161288_31d19e6708_m.jpg)](http://www.flickr.com/photos/73584213@N00/608161288)
 

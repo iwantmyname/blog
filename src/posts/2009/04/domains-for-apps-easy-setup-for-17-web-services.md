@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-04-30 14:18:56 +1200
 author: Timo
@@ -31,7 +30,7 @@ tags:
   - wiki
 
 redirect_to: https://iwantmyname.com/services
----
+----
 
 The main reason [why we've built iWantMyName](https://iwantmyname.com/about) was to make domain
 management much easier. From searching for available domains to the [domain registration process](https://iwantmyname.com/blog/2009/04/video-how-to-register-domains-fast-and-easy.html) and finally helping you to use domains your

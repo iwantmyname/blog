@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-07-26 06:37:21 +1200
 author: Chris
@@ -7,7 +6,7 @@ header_image: 2014-07-24-kiwi-sign.jpg
 search:
   tld: Kiwi
 
----
+----
 
 <!-- excerpt -->
 

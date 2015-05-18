@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-03-23 14:51:56 -0700
 author: Paul
 title: A call to help Vanuatu after Cyclone Pam
 excerpt: no
----
+----
 
 ![Vanuatu]({{ site.images_url }}/2015-03-23-vanuatu-cyclone.jpg)
 

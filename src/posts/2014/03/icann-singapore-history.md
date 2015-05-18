@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-03-24 05:20:35 +1200
 author: Timo
 title: There is internet history being made in Singapore
 header_image: 2014-03-24-icann-singapore.jpg
----
+----
 
 <!-- excerpt -->
 

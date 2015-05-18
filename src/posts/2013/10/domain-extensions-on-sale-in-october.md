@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-01 11:25:10 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Domain Extensions On Sale In October
 categories:
   - Special Offer
 
----
+----
 
 ![Zombie]({{ site.images_url }}/2013-10-01-4003660200_37af59ed1b_z.jpg)
 

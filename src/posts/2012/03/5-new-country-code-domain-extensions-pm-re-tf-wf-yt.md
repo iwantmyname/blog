@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-03-31 15:22:55 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: "5 New Country Codes: .PM, .RE, .TF, .WF & .YT Domains"
 categories:
   - New domain extension
 
----
+----
 
 ![afnic-tlds.png]({{ site.images_url }}/2012-03-31-afnic-tlds.png)
 

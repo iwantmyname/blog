@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-11-05 10:30:00 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - online shop
   - Shopify
 
----
+----
 
 ![rock.png]({{ site.images_url }}/2012-11-05-rock.png)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-07 12:49:46 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - domains
   - promotion
 
----
+----
 
 ![austria]({{ site.images_url }}/2010-09-07-austria.png)
 

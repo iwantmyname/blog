@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-08-15 10:10:53 +1200
 author: Chris
 title: "Naming a website is hard—here are 6 tips to make it easier"
 header_image: 2014-08-15-typewriter.jpg
 
----
+----
 
 <!-- excerpt -->
 

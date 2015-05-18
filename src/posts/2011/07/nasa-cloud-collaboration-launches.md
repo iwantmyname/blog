@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-07-22 16:00:00 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - Rackspace
   - Space Shuttle
 
----
+----
 
 ![shuttle70.jpg]({{ site.images_url }}/2011-07-22-shuttle70.jpg)
 

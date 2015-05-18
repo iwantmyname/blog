@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-02-08 08:14:41 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Need a .GURU domain? There are tons of great ones available.
 search:
   tld: Guru
 
----
+----
 
 <!-- excerpt -->
 

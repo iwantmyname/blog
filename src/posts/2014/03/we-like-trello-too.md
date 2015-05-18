@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-03-18 05:34:11 +1200
 author: Melle
 title: We like Trello, too
----
+----
 
 <!-- excerpt -->
 

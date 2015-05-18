@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-07-20 14:55:22 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Domain name
   - Top-level domain
 
----
+----
 
 You can now register
 [ .CO domains (Colombia)](https://iwantmyname.co.nz/domains/co-colombian-domain-name-registration-for-colombia) at iWantMyName. The .CO extension is not only 

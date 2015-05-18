@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-08-24 19:10:54 +1200
 author: Paul
@@ -14,7 +13,7 @@ tags:
   - user group
   - Wellington
 
----
+----
 
 <!-- excerpt -->
 

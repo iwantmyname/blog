@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-02 10:59:04 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: "The Tools We Use: Droplr For Sharing Files And Taking Screenshots"
 categories:
   - Tools We Use
 
----
+----
 
 For a bigger, more updated look at Droplr, head over to our new post, "[Droplr is an exceptionally useful tool for sharing files and screenshots](https://iwantmyname.com/blog/2014/08/droplr-is-an-exceptionally-useful-tool.html)".
 

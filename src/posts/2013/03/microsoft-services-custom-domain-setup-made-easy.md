@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-21 10:28:12 +1200
 author: Owen
@@ -18,7 +17,7 @@ tags:
   - Windows Live
   - Windows Live SkyDrive
 
----
+----
 
 We're continuing on our mission to make configuring domains easier. A new [Microsoft category](https://iwantmyname.com/services/microsoft) in the iwantmyname marketplace exemplifies this philosophy by offering simple configuration of the most popular Microsoft hosting services. If you're looking to set up a domain with [Windows Azure Cloud Services](https://iwantmyname.com/services/developer/windows-azure-custom-domain-registration-setup), [Windows Azure Websites](https://iwantmyname.com/services/developer/windows-azure-websites-custom-domain) or [Windows Live (Outlook.com)](https://iwantmyname.com/services/email-hosting/windows-live-custom-domain) you can now do it in just one click.
 

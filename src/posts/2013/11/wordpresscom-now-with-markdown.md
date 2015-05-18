@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-22 18:29:08 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: WordPress.com, Now With Markdown
 categories:
   - Website builder
 
----
+----
 
 ![wordpress-logo-hoz-rgb.png]({{ site.images_url }}/2013-11-22-wordpress-logo-hoz-rgb.png)
 

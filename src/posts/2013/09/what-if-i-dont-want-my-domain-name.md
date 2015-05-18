@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-19 01:30:00 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: "What If I Don't Want My (Domain) Name?"
 categories:
   - Tips
 
----
+----
 
 <!-- excerpt -->
 

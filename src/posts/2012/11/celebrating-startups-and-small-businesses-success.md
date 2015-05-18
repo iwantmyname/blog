@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-11-30 14:00:00 +1200
 author: Paul
@@ -11,7 +10,7 @@ tags:
   - New Zealand
   - local
 
----
+----
 
 ![parrotdog.jpg]({{ site.images_url }}/2012-11-30-parrotdog.jpg)
 

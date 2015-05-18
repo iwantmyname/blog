@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-05-30 16:38:23 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - Webmail
   - Website
 
----
+----
 
 We recently implemented the **.school.nz** domain on the [iWantMyName](https://iwantmyname.co.nz/) platform and it's great to see some Kiwi schools have quickly identified the cost saving benefits. iWantMyName offers a unique [web apps customisation service](https://iwantmyname.co.nz/services) that allows organisations and individuals to operate a wide range of popular web-based enterprise applications entirely within their own domain.
 

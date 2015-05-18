@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-12-24 13:59:00 +1200
 author: Paul
@@ -12,7 +11,7 @@ tags:
   - Internet freedom
   - SOPA
 
----
+----
 
 We're starting a movement and here's why.
 Recently you may have become aware of a list of corporations that are supporting the so called [SOPA legislation](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act). SOPA proposes much stronger responses for countering illicit trade in intellectual property, including far reaching measures that could impact a wide range of online service providers and indeed disrupt the safety and trust within the entire domain name system. We've been following the debate around SOPA from here in New Zealand, because it also potentially impacts on global Internet companies like ours.

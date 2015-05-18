@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-09-15 11:38:00 +1200
 author: Paul
@@ -14,7 +13,7 @@ tags:
   - dotPH
   - Philippines
 
----
+----
 
 ![ph.png]({{ site.images_url }}/2011-09-15-ph.png)
 

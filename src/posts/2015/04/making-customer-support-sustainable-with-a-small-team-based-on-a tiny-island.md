@@ -1,4 +1,3 @@
----
 layout: post
 date: 2015-04-30 10:39:40 -0700
 author: Chris
@@ -7,7 +6,7 @@ header_image: 2015-04-30-small-island.jpg
 
 redirect_to: https://iwantmyname.com/blog/2015/04/making-customer-support-sustainable-with-a-small-team-based-on-a-tiny-island.html
 
----
+----
 
 <!-- excerpt -->
 

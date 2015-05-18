@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-06-15 22:05:40 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - .tel domains
   - Internationalised Domain Names
 
----
+----
 
 **Internationalized Domain Names under .TEL**
 

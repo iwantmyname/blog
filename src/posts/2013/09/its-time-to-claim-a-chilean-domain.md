@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-19 19:27:51 +1200
 author: Chris
@@ -9,7 +8,7 @@ categories:
   - Chile
   - newTLD
 
----
+----
 
 ![Chile]({{ site.images_url }}/2013-09-19-4130990745_b3182f920a_z.jpg)
 

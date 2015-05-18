@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-11-07 14:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - web app
   - Wellington
 
----
+----
 
 ![usnap.png]({{ site.images_url }}/2011-11-07-usnap.png)
 

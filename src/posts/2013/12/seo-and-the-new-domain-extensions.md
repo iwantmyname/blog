@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-14 08:04:49 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: SEO And The New Domain Extensions
 categories:
   - New gTLDs
 
----
+----
 <!-- excerpt -->
 
 For many, determining how websites rank on search engines like Google probably seems like pure voodoo magic. But in reality, there's a whole industry dedicated to helping businesses and individuals boost their search ranks--search engine optimization (SEO).

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-07-26 10:00:00 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - maori
   - new zealand
 
----
+----
 
 As [Māori Language Week](http://www.korero.maori.nz/news/mlw) begins it is now possible to register .[NZ domain names](https://iwantmyname.co.nz/domains) with Macrons. The technology behind these new addresses are so-called Internationalised Domain Names ([IDNs](http://en.wikipedia.org/wiki/Internationalized_domain_name "Internationalized domain name")) which translate the special characters into a computer readable format.
 

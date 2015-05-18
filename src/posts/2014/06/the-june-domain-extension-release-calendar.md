@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-06-03 08:43:31 +1200
 author: Chris
 title: The June domain extension release calendar
 header_image: 2014-06-03-crowd.jpg
 
----
+----
 
 <!-- excerpt -->
 

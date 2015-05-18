@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-09-25 13:02:13 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: How Many Domain Name Extensions Exist Worldwide? Statistics & Numbers, Pa
 categories:
   - Statistics & Numbers
 
----
+----
 
 Did you know that there are 280 internet domain extensions in total? And that .COM & .NET account for 50% of all domains registered worldwide? Or maybe you have always wondered what the most popular country code domains are?
 

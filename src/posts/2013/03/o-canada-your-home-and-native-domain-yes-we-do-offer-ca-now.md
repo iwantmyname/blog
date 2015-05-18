@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-29 07:15:31 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: O Canada! Your Home And Native Domain (yes we do offer the .CA web addres
 categories:
   - New domain extension
 
----
+----
 
 ![Canada Flag]({{ site.images_url }}/2013-03-29-Canada-Flag-256.png)
 

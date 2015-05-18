@@ -1,4 +1,3 @@
----
 layout: post
 date: 2008-12-21 15:43:53 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Domain ideas
 
 redirect_to: https://iwantmyname.com/domains/domain-name-registration-list-of-extensions
----
+----
 
 We all know the rush for the last few presents a couple of days before Christmas. But why should you go to overcrowded shopping centers when you can shop online? With iWantMyName you don't even have to be afraid that it's not delivered on time. It's the 24th already? No worries, just [search for a domain name](https://iwantmyname.com/) and you'll have it within a couple of minutes.
 

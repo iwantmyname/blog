@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-16 06:54:12 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Virb Goes Indie As GoDaddy Buys Media Temple
 categories:
   - Blog
 
----
+----
 
 ![virb-box.png]({{ site.images_url }}/2013-10-16-virb-box.png)
 

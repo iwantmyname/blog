@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-19 13:02:56 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Express Your Interest In 100+ New Domain Extensions
 categories:
   - New domain extension
 
----
+----
 
 ![new-domain-extensions-2013.png]({{ site.images_url }}/2013-07-19-new-domain-extensions-2013.png)
 

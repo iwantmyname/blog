@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-29 18:24:50 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - .info domains
   - Price increase
 
----
+----
 
 [![.INFO Domain]({{ site.images_url }}/2013-07-29-logo-dot-info-domain.png)](https://iwantmyname.com/domains/info-domain-name-registration-for-information)
 

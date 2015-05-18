@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-11-27 18:55:30 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Europe
   - IDN
 
----
+----
 
 Internationalized Domain Names (IDNs) keep on increasing in popularity. After the big news of IDN country code top-level domains and the recent introduction of .NAME domain names with special characters, another domain extension is now opening its namespace to non-Latin alphabets. 
 

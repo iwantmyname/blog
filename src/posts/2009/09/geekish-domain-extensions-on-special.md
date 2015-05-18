@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-09-14 16:14:27 +1200
 author: Timo
@@ -19,7 +18,7 @@ tags:
   - geeky
   - special offer
 
----
+----
 
 Are you still seeking the one? The one and only domain that somehow differs to all the others you possess, yet beautifully embraces your inner geek? For some of you the wait may finally be over today...
 

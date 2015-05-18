@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-01-03 10:51:07 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: "ICANN's new rules for domain registrants require you to verify your cont
 categories:
   - ICANN
 
----
+----
 
 Rules. You can't live with them, you can't have a domain without them. And starting January 2014, there are some **important new rules to be aware of**. These rules are set by the internet's governing body ICANN and affect all generic top-level domains (gTLDs) such as .COM, .NET, .ORG, .BIZ, .INFO or .NAME as well as upcoming new gTLDs.
 

@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-08-13 06:29:54 +1200
 author: Chris
 title: HTTPS is now a Google ranking signal—learn how to make the switch
 header_image: 2014-08-09-locks.jpg
 
----
+----
 
 <!-- excerpt -->
 

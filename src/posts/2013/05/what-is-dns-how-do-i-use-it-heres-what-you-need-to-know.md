@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-05-27 19:30:00 +1200
 author: Owen
@@ -9,7 +8,7 @@ tags:
   - domains
   - internet
 
----
+----
 
 ![blog-dns.jpg]({{ site.images_url }}/2013-05-27-blog-dns.jpg)
 

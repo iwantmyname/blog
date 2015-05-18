@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-05-22 12:35:22 +1200
 author: Timo
 title: "It's OK to use tools"
----
+----
 
 <!-- excerpt -->
 

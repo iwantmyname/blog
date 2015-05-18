@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-05-08 10:47:08 +1200
 author: Chris
 title: New York, London and Paris will soon be joining .BERLIN with new domain extensions
 header_image: 2014-05-08-new-york-skyline.jpg
 
----
+----
 
 <!-- excerpt -->
 

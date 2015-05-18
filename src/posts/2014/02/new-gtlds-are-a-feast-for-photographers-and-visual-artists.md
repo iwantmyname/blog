@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-02-12 07:30:27 +1200
 author: Chris
 title: New gTLDs are a feast for photographers and visual artists
 
----
+----
 
 <!-- excerpt -->
 

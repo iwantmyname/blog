@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-04-27 13:53:23 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - U.S. House of Representatives
   - Veto
 
----
+----
 
 Internet commentators were in a flap today and [tech forums](http://news.ycombinator.com/item?id=3896492) abuzz as it was revealed the U.S. House of Representatives [voted in favor of the CISPA Act](http://news.cnet.com/8301-31921_3-57422567-281/house-approves-cispa-despite-last-minute-push-by-opponents/). Seems like there is no let up in the barrage of legislation designed to afford greater "protection" for individuals and corporations that use or abuse the Internet.
 

@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-03-27 14:52:31 -0700
 author: Chris
 title: Last chance to get your short .NZ domain before anyone else
 excerpt: no
----
+----
 
 Time is running out, but you still have until 30 March 2015 to either register or reserve the shorter version of your .NZ domain name before anyone else. As you may know, all ‘second level’ domains like the .CO in ‘.CO.NZ’ and the .NET in ‘.NET.NZ’ are now optional, meaning you can register .NZ names with them, without them, or both (you can read more about it on [anyname.nz](http://anyname.nz/)).
 

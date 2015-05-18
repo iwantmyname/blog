@@ -1,4 +1,3 @@
----
 layout: post
 date: 2008-12-20 15:52:11 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - General
 
 redirect_to: https://iwantmyname.com/blog/
----
+----
 
 A few weeks after our launch the iWantMyName Blog has finally arrived.
 

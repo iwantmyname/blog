@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-10-21 16:00:00 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - startup weekend
   - Wellington
 
----
+----
 
 ![event.jpg]({{ site.images_url }}/2011-10-21-event.jpg)
 

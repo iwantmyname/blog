@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-01-26 17:36:20 -0700
 author: Chris
 title: Why does iwantmyname need a monthly newsletter?
 header_image: 2015-01-26-book.jpg
----
+----
 
 Newsletters and blogs. Every corner of the internet seems to now be filled with newsletters and blogs in an ongoing competition for user attention. It's easy to take a cynical view and say that it’s all just unnecessary noise, but in a way, we’re all laying the groundwork for the future of how brands can communicate effectively in a marketplace where competition can literally be created overnight in a bedroom. The reality is that brand culture and the way it’s communicated is one of the last differentiating factors a company has (right after user experience and innovation, I’d say), so it’s hugely important.
 

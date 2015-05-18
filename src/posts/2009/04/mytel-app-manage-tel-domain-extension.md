@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-04-20 06:50:15 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - my.tel
 
 redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-communication
----
+----
 
 The official **.TEL iPhone application** is available in the AppStore now. It offers an easy interface for all .TEL owners to update their domains directly from their iPhone or iPod touch. You could update the status before boarding a plane, on a road trip (don't forget our [DomainApp to register domains](https://iwantmyname.com/iphone)) or just with your current location to tell your friends where you are.
 

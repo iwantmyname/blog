@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-04-22 12:37:34 +1200
 author: Chris
 title: Does your domain name have a sketchy past?
 
----
+----
 
 <!-- excerpt -->
 

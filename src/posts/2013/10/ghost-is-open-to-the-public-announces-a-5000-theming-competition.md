@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-15 10:20:21 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Ghost Is Open To The Public. Announces A $5,000 Theming Competition.
 categories:
   - Blog
 
----
+----
 
 ![Ghost Trio]({{ site.images_url }}/2013-10-15-b193f8cb64ed847dedcb99f743531028_large.jpg)
 

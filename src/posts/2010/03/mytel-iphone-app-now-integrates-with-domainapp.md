@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-03-04 12:33:52 +1200
 author: Timo
@@ -17,7 +16,7 @@ tags:
   - My.tel
   - Telnic
 
----
+----
 
 Telnic recently launched an improved version of [My.tel](http://telnic.org/tools-iphone-mytel.html), a free iPhone application for managing your .TEL domain names from your mobile phone and which integrates directly with the [iWantMyName DomainApp](https://iwantmyname.com/iphone). Simply update your .TEL domain before boarding a plane, on a road trip, or whenever you need to tell people how they can reach you. You can even publish your location with an embedded map.
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-01-27 13:09:46 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - .me domains
   - Featured
 
----
+----
 
 [youMust.me](http://archived.link/http://youmust.me) from 18-year old [Zack Fernandez](https://twitter.com/#!/zackfern) is a simple tool to get all sorts of recommendations by sharing a personal URL with your friends. Zack was inspired by the recent success of [threewords.me](http://threewords.me) so he decided to launch his own project. He [registered the domain](https://iwantmyname.com), created the site and tied everything together using our [simplified Heroku DNS setup](https://iwantmyname.com/services/developer/heroku-cloud-hosting-custom-domain).
 

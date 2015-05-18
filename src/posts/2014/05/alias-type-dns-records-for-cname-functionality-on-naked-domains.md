@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-05-06 10:04:30 +1200
 author: Timo
 title: Using ALIAS-type DNS records for CNAME functionality on naked domains, and an easier alternative
 
----
+----
 
 <!-- excerpt -->
 

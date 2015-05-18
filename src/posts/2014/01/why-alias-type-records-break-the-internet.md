@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-01-08 18:19:30 +1200
 author: Lenz
@@ -7,7 +6,7 @@ title: Why ALIAS-type DNS Records Break The Internet
 categories:
   - DNS
 
----
+----
 
 Today, [GitHub announced faster, more awesome GitHub Pages](https://github.com/blog/1715-faster-more-awesome-github-pages) recommending a new DNS setup for custom domains. In this article, I'll explain the implications if you consider setting up your naked domain with a so-called ALIAS record—more about this later.
 

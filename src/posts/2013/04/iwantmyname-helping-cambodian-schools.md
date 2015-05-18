@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-04-11 10:43:42 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Founders Humbled By Cambodia Visit
 categories:
   - Charity
 
----
+----
 
 Manu and Lenz from iwantmyname are just back from a head-spinning ten days in the tropical heat of Cambodia, participating in the [Good For Nothing Challenge](http://www.gfnchallenge.org/) (GFN). Here's a quick overview from Lenz about how the visit unfolded and what was achieved:
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-30 10:22:32 +1200
 author: Owen
@@ -7,7 +6,7 @@ title: Writing App Byword Now Supports Direct Blog Publishing
 categories:
   - Mac
 
----
+----
 
 ![Byword 2.0]({{ site.images_url }}/2013-07-30-124075-1280-thumb-540x337-286.png)
 

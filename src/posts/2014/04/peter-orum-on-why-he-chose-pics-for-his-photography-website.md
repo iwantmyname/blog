@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-04-19 08:46:25 +1200
 author: Chris
@@ -11,7 +10,7 @@ guest_author:
   twitter: peterorum
   footer: >
     Find more of Peter Orum's work on his new black and white street photography site, [street.pics](http://street.pics/), and on his personal domain, [peterorum.com](http://www.peterorum.com/#/).
----
+----
 
 <!-- excerpt -->
 

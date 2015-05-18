@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-02 11:58:13 +1200
 author: Timo
@@ -11,7 +10,7 @@ categories:
   - .me domains
   - Special Offer
 
----
+----
 
 ![worldmap.png]({{ site.images_url }}/2010-09-02-worldmap.png)
 

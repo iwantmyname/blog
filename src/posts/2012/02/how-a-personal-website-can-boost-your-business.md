@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-02-23 15:32:56 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Partnership
   - Website builder
 
----
+----
 
 *Guest post by Per Schmitz -- Founder of [DooID](http://dooid.com):*
 

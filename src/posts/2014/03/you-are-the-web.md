@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-03-25 13:17:12 +1200
 author: Melle
 title: You are the web
 header_image: 2014-03-25-guy-photo.jpg
----
+----
 
 <!-- excerpt -->
 

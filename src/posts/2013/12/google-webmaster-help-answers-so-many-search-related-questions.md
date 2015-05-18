@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-19 13:30:56 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Google Webmaster Help Answers So Many Search Related Questions
 categories:
   - SEO
 
----
+----
 
 We get asked fairly often about getting sites to rank in Google search, and we usually answer with a quick rundown of SEO best practices--but sometimes it's best to get the information from the source. 
 

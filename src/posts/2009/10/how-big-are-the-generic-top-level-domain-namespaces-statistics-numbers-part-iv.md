@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-10-19 08:27:03 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Statistics & Numbers
   - gTLD
 
----
+----
 
 Part 4 of our *Domain Statistics & Numbers* article series breaks down the size of generic top-level domain (gTLD) namespaces:
 

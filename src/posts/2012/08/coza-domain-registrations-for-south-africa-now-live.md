@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-08-08 15:50:18 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - .co.za
   - New domain extension
 
----
+----
 
 **Goeiedag! Lotjhani! Dumela! Sawubona! Avuxeni! Ndaa! Molo! Sawubona!**
 

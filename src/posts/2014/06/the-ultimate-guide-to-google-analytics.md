@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-06-28 07:44:22 +1200
 author: Chris
 title: "The ultimate guide to Google Analytics (it covers everything)"
 header_image: 2014-06-28-computer-coffee.jpg
 
----
+----
 
 <!-- excerpt -->
 

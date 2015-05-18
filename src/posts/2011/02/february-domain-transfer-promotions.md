@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-02-01 12:07:23 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: February Domain Transfer Promotions
 categories:
   - Special Offer
 
----
+----
 
 ![Transfer Domains To iWantMyName]({{ site.images_url }}/2011-02-01-Screen_shot_2011-01-29_at_17.28.26.png)
 

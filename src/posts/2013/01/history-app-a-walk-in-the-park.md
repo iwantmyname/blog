@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-01-09 08:30:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - small business
   - website
 
----
+----
 
 ![napier.jpg]({{ site.images_url }}/2013-01-09-napier.jpg)
 

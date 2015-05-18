@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-08-31 07:29:32 +1200
 author: Timo
@@ -11,7 +10,7 @@ tags:
   - domain statistics
   - top 10
 
----
+----
 
 The .NET domain extension might soon overtake Germany's .DE as second largest top-level domain after the market leading .COM web address according to the latest domain name statistics:
 

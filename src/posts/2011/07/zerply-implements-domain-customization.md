@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-07-31 09:21:11 +1200
 author: Paul
@@ -14,7 +13,7 @@ tags:
   - personal profile
   - Social network
 
----
+----
 
 ![z.jpg]({{ site.images_url }}/2011-07-31-z.jpg)
 

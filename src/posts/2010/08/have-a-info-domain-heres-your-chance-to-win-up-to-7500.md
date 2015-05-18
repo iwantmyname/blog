@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-08-24 19:21:50 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - domains
   - registrar
 
----
+----
 
 Afilias, the .INFO domain name registry is currently running their 2010 awards program for the best .INFO websites:
 

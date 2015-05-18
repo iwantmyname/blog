@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-03-18 16:34:49 +1200
 author: Chris
 title: Japanese IDNs, .コム and a .JP price reduction
----
+----
 
 <!-- excerpt -->
 

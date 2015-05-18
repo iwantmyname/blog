@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-31 13:39:49 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: New Domain Extensions Added In 2013
 categories:
   - ccTLD
 
----
+----
 
 We thought it would be fitting for the last post of 2013 to reflect on the top-level domains (TLDs) that have joined the iwantmyname family this year. So without further ado and in chronological order, here we go: 
 

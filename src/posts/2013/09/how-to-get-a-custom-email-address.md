@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-25 13:48:17 +1200
 author: Chris
@@ -8,7 +7,7 @@ header_image: 2013-09-25-bigstock-Email-and-mail-communication-c-47857307.jpg
 categories:
   - Email
 
----
+----
 
 <!-- excerpt -->
 

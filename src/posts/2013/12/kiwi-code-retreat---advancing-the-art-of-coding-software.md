@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-09 10:00:00 +1200
 author: Paul
@@ -11,7 +10,7 @@ tags:
   - New Zealand
   - local
 
----
+----
 <!-- excerpt -->
 
 **Guest post by Aimee Whitcroft**

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-12-04 13:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - New Zealand
   - Top-level domain
 
----
+----
 
 ![cake4.jpg]({{ site.images_url }}/2012-12-04-cake4.jpg)
 

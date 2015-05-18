@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-28 11:58:24 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - DNS
   - New feature
 
----
+----
 
 Over the last few weeks we experienced some issues with our DNS manager. The result was that a small number of our customers could not update DNS records properly. For this we sincerely apologize. First our back end played up, later it was a problem with the user interface after we changed our website form framework. We should stress that the continuity of the DNS service was maintained at all times.
 

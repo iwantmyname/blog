@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-21 07:36:37 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: "Don't Rent. Own Your Place On The Web"
 categories:
   - Blogging
 
----
+----
 
 [From Olle Lindholm - The Next Web:](http://thenextweb.com/entrepreneur/2013/12/19/consider-investing-digital-real-estate/)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-07-23 15:18:42 +1200
 author: Paul
@@ -14,7 +13,7 @@ tags:
   - Website
   - website builder
 
----
+----
 
 ![squarespace.jpg]({{ site.images_url }}/2012-07-23-squarespace.jpg)
 

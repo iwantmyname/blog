@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-05-18 14:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - Yahoo
   - Yahoo!Xtra
 
----
+----
 
 ![stuffed.jpg]({{ site.images_url }}/2012-05-18-stuffed.jpg)
 

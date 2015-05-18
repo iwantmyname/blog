@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-03-31 23:16:39 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - New domain extension
   - Somalia
 
----
+----
 
 ![Screen shot 2011-03-30 at 19.26.32.png]({{ site.images_url }}/2011-03-31-Screen_shot_2011-03-30_at_19.26.32.png)
 

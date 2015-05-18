@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-07-20 16:30:00 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Web developer
   - Wellington
 
----
+----
 
 We are a major sponsor of [WDCNZ](http://wdcnz.com/) this year and (fortuitously) it coincides with the launch of our wonderful site redesign. Therefore, we thought it highly appropriate to celebrate this stupendous occasion by organising a pre-event [social function](http://up.org.nz/events/wdcnz_welcome_drinks) for Web Dev Con delegates at **5.00pm on Wednesday 1st August at Tap Haus, Cnr Victoria & Dixon Streets, Wellington**.
 

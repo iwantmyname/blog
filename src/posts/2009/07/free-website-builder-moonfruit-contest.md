@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-07-02 19:19:25 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - free
   - website builder
 
----
+----
 
 We wish the Moonfruit team all the best for their 10th birthday. They're not only great guys (we met them at ICANN Sydney last week) but they currently also give you the chance to [win 10 new release MacBook Pro's](http://www.moonfruitlounge.com/post/2009/06/30/Celebrate-10-years-of-Moonfruit-and-win-a-MacBook-Pro "Win a MacBook Pro with Moonfruit Free Website Builder") (!) during a birthday celebration.
 

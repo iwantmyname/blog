@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-04-15 10:47:01 +1200
 author: Chris
 title: What's in a name? The case for the new domain extensions
 header_image: 2014-04-15-internet.jpg
----
+----
 
 <!-- excerpt -->
 

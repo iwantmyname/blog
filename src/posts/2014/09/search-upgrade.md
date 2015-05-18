@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-09-09 07:45:04 +1200
 author: Joel
 title: How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO
 header_image: 2014-09-09-long-view.jpg
----
+----
 
 A few weeks ago we quietly released an almost completely reworked domain name search engine. Our older system, of which there had already been several iterations, was no longer coping with our incremental growth and the dozens of new top level domains being released each month (with 500+ more still due to launch). Not only are more people searching for domains, but the number of domains searched was stretching our old domain search engine's limits.
 

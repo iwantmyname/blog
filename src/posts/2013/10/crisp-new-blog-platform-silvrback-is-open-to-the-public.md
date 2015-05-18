@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-08 06:55:25 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Crisp New Blog Platform Silvrback Is Open To The Public
 categories:
   - Apps
 
----
+----
 
 From [Damian Sowers](https://dsowers.silvrback.com/silvrback-is-now-open-to-everyone):
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-02-24 11:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - WordCamp
   - WordPress
 
----
+----
 
 ![wp.jpg]({{ site.images_url }}/2012-02-24-wp.jpg)
 

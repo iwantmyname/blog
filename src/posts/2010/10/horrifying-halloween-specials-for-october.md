@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-10-01 15:15:29 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - reduction
   - specials
 
----
+----
 
 ![pumpkin]({{ site.images_url }}/2010-10-01-pumpkin2.png)
 

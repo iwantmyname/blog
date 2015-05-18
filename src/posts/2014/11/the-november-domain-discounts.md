@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-11-05 03:32:16 +1200
 author: Chris
 title: The November domain discounts, our biggest yet
 header_image: 2014-11-05-cars-bw.jpg
 
----
+----
 
 The November 2014 domain discounts are up, and this month we have 21 domain extensions set for sale. Included are a number of ccTLD favorites, all sorts of colors, and a good variety of useful generic top-level domains (gTLDs) for the social web.
 

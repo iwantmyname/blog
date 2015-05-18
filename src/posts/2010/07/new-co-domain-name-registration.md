@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-07-21 05:58:01 +1200
 author: Timo
@@ -17,7 +16,7 @@ tags:
   - Launch
   - Web Address
 
----
+----
 
 You can now register [.CO domains (Colombia)](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia) at iWantMyName. The .CO extension is not only the official Colombian country code top-level domain (ccTLD) but also a shorter alternative to [.COM](https://iwantmyname.com/domains/com-domain-name-registration-for-commercial) or other ccTLDs such as [.CO.UK](https://iwantmyname.com/domains/co.uk-domain-name-registration-for-united-kingdom) (United Kingdom) or [.CO.NZ](https://iwantmyname.com/domains/co.nz-domain-name-registration-for-new-zealand) (New Zealand). New domain name registrations are available at an affordable price of $34.90 USD.
 

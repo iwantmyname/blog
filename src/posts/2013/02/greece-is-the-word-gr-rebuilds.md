@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-02-09 08:24:06 +1200
 author: Timo
@@ -10,7 +9,7 @@ categories:
 
 redirect_to: https://iwantmyname.com/domains/gr-greek-domain-name-registration-for-greece
 
----
+----
 
 ![Greece-Flag-128.png]({{ site.images_url }}/2013-02-09-Greece-Flag-128.png)
 

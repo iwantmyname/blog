@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-23 07:00:00 +1200
 author: Paul
@@ -28,7 +27,7 @@ Where did 2013 go? The year in which we celebrated our [5th birthday](https://iw
 
 On the one hand we were shocked by the [cyclone disaster](https://iwantmyname.com/blog/2013/11/philippines-disaster-help-if-you-can.html) that overtook the Philippines and galvanised nations into action throughout the Asia-Pacific region. On the other hand, we were excited by the bloom of [new top level domains](https://iwantmyname.com/blog/2013/12/the-next-batch-of-gtlds-are-here-including-careers-photos-and-shoes.html) (gTLDs) that have finally been approved by internet governing body ICANN and for which we have begun to prepare.
 
-It was also a year in which we increased our engagement in the local community through initiatives such as [Startup Weekend](http://wellington.startupweekend.org/2013/12/18/the-twelve-gifts-of-christmas-startup-weekend-edition/), [Rails Girls](https://iwantmyname.com/blog/2013/06/rails-girls-rally.html) and [Kiwi Code Retreat](https://iwantmyname.com/blog/2013/12/kiwi-code-retreat---advancing-the-art-of-coding-software.html). That involvement looks set to continue early in 2014 with [Wellington Startup Weekend](http://wellington.startupweekend.org/) and [Drupal South](https://drupalsouth2014.drupal.org.nz/) headlining in February.
+It was also a year in which we increased our engagement in the local community through initiatives such as [Startup Weekend](http://wellington.startupweekend.org/2013/12/18/the-twelve-gifts-of-christmas-startup-weekend-edition/), [Rails Girls](https://iwantmyname.com/blog/2013/06/rails-girls-rally.html) and [Kiwi Code Retreat](https://iwantmyname.com/blog/2013/12/kiwi-code-retreat----advancing-the-art-of-coding-software.html). That involvement looks set to continue early in 2014 with [Wellington Startup Weekend](http://wellington.startupweekend.org/) and [Drupal South](https://drupalsouth2014.drupal.org.nz/) headlining in February.
 
 Events in the Philippines led to us to bringing forward our long held plans to contribute a portion of our sales revenue to social causes. What more deserving beneficiary could there be in 2013? We [selected](https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html) Save The Children's Philippines fund to support. 
 

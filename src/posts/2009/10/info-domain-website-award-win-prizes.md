@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-10-15 08:20:16 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Contest
   - gTLD
 
----
+----
 
 [Afilias](http://afilias.info), the registry of the [.INFO domain extension](https://iwantmyname.com/domains/info-domain-name-registration-for-information ".INFO domain") is currently running an [award](http://www.info-award.info ".INFO Domain Award 2009") for the best .INFO website 2009. The .INFO web address was launched in 2001 and is one of [the top 10 domain extensions worldwide](https://iwantmyname.com/blog/2009/10/top-10-global-domain-extensions-statistics-numbers.html "Top 10 Domain Extensions").
 

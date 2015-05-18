@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-10-10 06:12:45 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: What Are The Top 10 Global Domain Extensions? Statistics & Numbers, Part 
 categories:
   - Statistics & Numbers
 
----
+----
 
 This blog post showing the top 10 list of domain extensions is part 3 of our *Domain Statistics & Numbers* article series:
 

@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-02-26 11:54:52 +1200
 author: Chris
 title: This new domain scam is quite tricky indeed
 
----
+----
 
 <!-- excerpt -->
 

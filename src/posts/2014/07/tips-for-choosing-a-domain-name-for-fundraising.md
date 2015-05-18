@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-07-24 16:53:21 +1200
 author: Chris
@@ -10,7 +9,7 @@ guest_author:
   twitter: donationto
   footer: Find more about DonationTo, including pricing, plans and testimonials on [donationto.com](http://www.donationto.com/). And once you're ready to get started, be sure to grab your [custom domain name](https://iwantmyname.com/services/social/register-domain-donationto) right here at iwantmyname. 
 
----
+----
 
 <!-- excerpt -->
 

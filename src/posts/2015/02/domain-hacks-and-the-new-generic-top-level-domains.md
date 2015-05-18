@@ -1,4 +1,3 @@
----
 layout: post
 date: 2015-02-26 15:36:28 -0700
 author: Chris
@@ -7,7 +6,7 @@ header_image: 2015-02-26-chessman.jpg
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
 
----
+----
 
 <!-- excerpt -->
 

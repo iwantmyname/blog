@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-30 12:05:03 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: KPMG Is Moving From .COM To .KPMG
 categories:
   - New gTLDs
 
----
+----
 
 ![KPMG.png]({{ site.images_url }}/2013-12-30-KPMG.png)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-09-10 11:00:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - offer
   - startup weekend
 
----
+----
 
 ![swmega.jpg]({{ site.images_url }}/2011-09-10-swmega.jpg)
 

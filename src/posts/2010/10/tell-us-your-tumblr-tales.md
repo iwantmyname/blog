@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-10-30 19:27:31 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - Tweet
   - Twitter
 
----
+----
 
 Owning a personal or business related domain name is the first step to controlling your identity online. It also makes personally branded material more discoverable, reaching a wider audience.
 

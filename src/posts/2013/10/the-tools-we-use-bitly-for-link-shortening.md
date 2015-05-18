@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-18 14:53:02 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: "The Tools We Use: Bitly For Link Shortening"
 categories:
   - Tools We Use
 
----
+----
 
 ![bitly_logo.png]({{ site.images_url }}/2013-10-18-bitly_logo.png)
 

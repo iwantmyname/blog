@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-26 13:00:00 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - UX Design Day
   - web
 
----
+----
 
 ![uxdd]({{ site.images_url }}/2013-09-26-uxdd.jpg)
 

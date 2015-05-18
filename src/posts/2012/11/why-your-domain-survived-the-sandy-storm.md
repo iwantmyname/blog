@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-11-01 22:58:00 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - Tropical cyclone
   - web services
 
----
+----
 
 ![sandy.jpg]({{ site.images_url }}/2012-11-01-sandy.jpg)
 

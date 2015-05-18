@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-01-03 12:05:22 +1200
 author: Chris
@@ -8,7 +7,7 @@ categories:
   - DNS
   - howto
 
----
+----
 
 Platforms like [Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) and [Virb](https://iwantmyname.com/services/website-builder/virb-custom-domain) are great for getting clean, well-designed sites on the web, but at the end of the day your website is being hosted on servers you have little-to-no access to. For most, this is no big deal, but for site owners who want a bit more control, there's nothing more satisfying (and useful) than getting some [hosting space](https://iwantmyname.com/features/domains/web-hosting) and setting up something that's all your own.
 

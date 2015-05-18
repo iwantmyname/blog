@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-06-05 13:00:00 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - New Zealand
   - websites
 
----
+----
 
 ![revival.jpg]({{ site.images_url }}/2013-06-05-revival.jpg)
 

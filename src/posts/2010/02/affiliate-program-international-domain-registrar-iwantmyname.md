@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-02-09 09:30:20 +1200
 author: Timo
@@ -12,7 +11,7 @@ tags:
   - affiliate program
   - domain registrar
 
----
+----
 
 We are happy to announce the iWantMyName affiliate program! Start referring customers or blog readers looking for [international domain names](https://iwantmyname.com/domains) or [domain registrar alternatives](https://iwantmyname.com/blog/2010/02/best-domain-registrar-alternative-2010.html) and you will get rewarded on each sale originating from your links. 
 

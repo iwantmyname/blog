@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-12-03 05:25:08 +1200
 author: Kevin
 title: Hey developers! We need your input!
 header_image: 2014-12-03-build.jpg
----
+----
 
 <!-- excerpt -->
 

@@ -1,9 +1,8 @@
----
 layout: post
 date: 2011-03-01 15:39:18 +1200
 author: Timo
 title: Price Reduction For .CO.UK, .AT, .BE And More ccTLDs
----
+----
 
 Effective immediately and thanks to better pricing from suppliers, we have reduced our [domain prices](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) for new registrations and renewals of the following country code top-level domains (ccTLDs):
 

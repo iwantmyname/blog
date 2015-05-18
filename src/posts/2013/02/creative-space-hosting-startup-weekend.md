@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-02-11 15:29:01 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Startup Weekend
   - Webstock
 
----
+----
 
 ![swwlg2013.png]({{ site.images_url }}/2013-02-11-swwlg2013.png)
 

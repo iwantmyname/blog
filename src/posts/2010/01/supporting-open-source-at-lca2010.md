@@ -1,9 +1,8 @@
----
 layout: post
 date: 2010-01-18 16:10:46 +1200
 author: Timo
 title: Supporting Open Source at #LCA2010
----
+----
 
 After a very wet and stormy weekend here in Wellington it was with a palpable sense of relief that the heavens parted and sunshine once again blessed the city as delegates filed into the Convention Centre for the opening of the [Australasian Linux Conference LCA2010](http://www.lca2010.org.nz/). As locally based event co-sponsors, we are especially keen for visiting delegates to enjoy a taste of the natural environment in our scenic hometown.
 

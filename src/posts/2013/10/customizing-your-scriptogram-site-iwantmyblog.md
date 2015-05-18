@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-11 19:21:02 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Customizing Your Scriptogram Site #iwantmyblog
 categories:
   - iwantmyblog
 
----
+----
 
 ![Screen Shot 2013-10-10 at 23.29.28.png]({{ site.images_url }}/2013-10-11-Screen_Shot_2013-10-10_at_23.29.28.png)
 

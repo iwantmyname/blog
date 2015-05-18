@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-07-08 18:06:43 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - winter
   - World Cup
 
----
+----
 
 The **foul** weather may have scored an **own goal** lately, but there's no need to remain glum. At [iWantMyName](https://iwantmyname.co.nz/) our **team** put their thinking hats on to see if we could come up with some [mid-winter specials](https://iwantmyname.co.nz/domains/domain-name-registration-list-of-extensions) to keep our friends and customers **on side** and give mid-winter blues a **red card**. Following on from the success of our Go .NZ! **All Whites World Cup campaign** we decided to set all our .NZ domain prices at $25.90, marked down from $29. Because our **goal** is to deliver great value, even at this price you still get all our [free services](https://iwantmyname.co.nz/services) **thrown in**.
 

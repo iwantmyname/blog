@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-11-30 23:00:00 -0700
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - Ruby on Rails
   - Webstock
 
----
+----
 
 ![rails.jpg]({{ site.images_url }}/2011-11-30-rails.jpg)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-12-04 11:41:09 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: iWantMyName Thanks You with a Birthday Domain Promotion
 categories:
   - Special Offer
 
----
+----
 
 _It has been a fascinating journey since we launched iWantMyName almost one year ago today. When we began, there were some very dark clouds looming over the global economy. We began to question if we had got our timing correct. But we received so much positive feedback from our customers that we knew we just had to press ahead.
 

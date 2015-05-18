@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-12 14:36:55 +1200
 author: Chris
@@ -8,7 +7,7 @@ categories:
   - Pre-order
   - gTLD
 
----
+----
 
 ![dot-kiwi-domain-preorder.png]({{ site.images_url }}/2013-11-12-dot-kiwi-domain-preorder.png)
 

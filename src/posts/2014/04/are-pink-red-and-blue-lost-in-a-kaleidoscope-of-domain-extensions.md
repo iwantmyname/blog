@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-04-22 09:27:33 +1200
 author: Chris
 title: Are .PINK, .RED and .BLUE lost in a kaleidoscope of domain extensions?
 header_image: 2014-04-22-pink-red-blue.png
 
----
+----
 
 <!-- excerpt -->
 

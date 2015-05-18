@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-23 14:00:00 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - getimely
   - timely
 
----
+----
 
 ![timely.jpg]({{ site.images_url }}/2013-07-23-timely.jpg)
 

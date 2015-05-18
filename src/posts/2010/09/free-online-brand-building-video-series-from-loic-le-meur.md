@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-09-07 13:25:27 +1200
 author: Timo
@@ -12,7 +11,7 @@ tags:
   - .tv domains
   - branding
 
----
+----
 
 Online branding goes well beyond [domain names](https://iwantmyname.com). Nevertheless, they are an integral part of brand building and should be secured early on in the branding process. Entrepreneur [Loic Le Meur](http://loiclemeur.com) shares some useful advice in his video series on how to build your own brand:
 

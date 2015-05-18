@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-06-29 10:30:25 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Identity
   - SEO
 
----
+----
 
 Rand Fishkin of [SEOmoz](http://seomoz.org/) fame hits the nail on the head with [his answer](http://www.seomoz.org/blog/answers-to-4-excellent-seo-questions) to the following Tweet: "if he could have just one: site or social media presence. Which one would he choose and why!"
 

@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-04-09 11:18:55 +1200
 author: Timo
 title: The Heartbleed OpenSSL security bug
----
+----
 
 <!-- excerpt -->
 

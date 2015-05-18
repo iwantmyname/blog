@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-11-20 13:18:06 +1200
 author: Timo
@@ -10,7 +9,7 @@ categories:
   - Video
   - Website builder
 
----
+----
 
 With the [demise of Geocities](https://iwantmyname.com/blog/2009/08/website-hosting-alternatives-to-your-geocities-page.html), it was only a matter of time before Google ramped up its website creation offering for the mass consumer market. [Google Sites](http://sites.google.com) has been around for a while but this week they launched a [new template gallery](http://googledocs.blogspot.com/2009/11/get-started-with-google-sites-templates.html) which further simplifies making your own personal or small business website.
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-06-12 13:14:18 +1200
 author: Timo
@@ -24,7 +23,7 @@ tags:
   - online identity
   - special offer
 
----
+----
 
 There's a lot of buzz around the [Facebook Vanity URL launch](http://blog.facebook.com/blog.php?post=90316352130) this weekend where you will be able to register your username such as facebook.com/username instead of having a long profile address. Of course it will be nice to have your name on Facebook, we will try and get [our names](https://iwantmyname.com/about) too. But [not everybody is excited](http://www.readwriteweb.com/archives/not_everyone_is_excited_abot_facebook_vanity_urls.php) and the whole story shows the dilemma that people are facing when it comes to owning who you are online. Do you really want Facebook (or MySpace, Twitter, etc.) to be your primary address identifier for other people? All these services are currently [battling](http://factoryjoe.com/blog/2009/06/09/facebook-usernames-and-the-battle-over-your-digital-identity/) over your identity but what if you don't like Facebook anymore [in 2 years](http://dashes.com/anil/2009/06/the-future-of-facebook-usernames.html), the [Twitpocalypse](http://archived.link/http://www.twitpocalypse.com/) is upon us or MySpace mysteriously vanishes?
 

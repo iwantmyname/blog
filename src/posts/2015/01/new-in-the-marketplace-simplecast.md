@@ -1,9 +1,8 @@
----
 layout: post
 date: 2015-01-30 15:30:07 -0700
 author: Chris
 title: New in the Marketplace - Simplecast, podcast hosting made easy
----
+----
 
 <!-- excerpt -->
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-14 08:20:45 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: "It's Time To Drop The .CO--.NZ Pre-Ordering Starts Today"
 categories:
   - Pre-order
 
----
+----
 
 <!-- excerpt -->
 

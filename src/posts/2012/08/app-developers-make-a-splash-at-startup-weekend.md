@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-08-22 09:00:00 +1200
 author: Paul
@@ -19,7 +18,7 @@ tags:
   - Palmerston North
   - startup weekend
 
----
+----
 
 ![sw65.jpg]({{ site.images_url }}/2012-08-22-sw65.jpg)
 

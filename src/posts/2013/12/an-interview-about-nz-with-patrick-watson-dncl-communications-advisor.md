@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-13 11:35:47 +1200
 author: Chris
@@ -8,7 +7,7 @@ categories:
   - .nz domains
   - Interview
 
----
+----
 
 ![DNClogo.gif]({{ site.images_url }}/2013-12-13-DNClogo.gif)
 

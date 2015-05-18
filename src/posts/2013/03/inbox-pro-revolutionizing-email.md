@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-19 08:08:14 +1200
 author: Owen
@@ -8,7 +7,7 @@ categories:
   - Email
   - News
 
----
+----
 
 If you're like almost everyone I know and are drowning in email, you probably realize that it's a problem and there really isn't a great solution for email overload out there yet. Gmail has released a handful of tools like priority inbox, but many of us still haven't figured out a way to efficiently keep on top of things.
 

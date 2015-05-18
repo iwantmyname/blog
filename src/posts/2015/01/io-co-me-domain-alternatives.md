@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-01-23 10:23:51 -0700
 author: Timo
 title: Startup and tech domain name trends in 2015 and beyond. What’s coming after .IO, .CO, and .ME?
 header_image: 2015-01-23-work-coffee.jpg
----
+----
 
 <!-- excerpt -->
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-07-13 19:57:41 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - e-commerce
   - Mobile commerce
 
----
+----
 
 ![growth.jpg]({{ site.images_url }}/2011-07-13-growth.jpg)
 

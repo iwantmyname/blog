@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-09-18 11:16:47 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Chris Hall Is A Writer
 categories:
   - Company
 
----
+----
 
 ![Chris Pic]({{ site.images_url }}/2013-09-18-IMG_3643.jpg)
 

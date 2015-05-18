@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-05-31 23:00:00 +1200
 author: Paul
@@ -21,7 +20,7 @@ tags:
   - tech
   - Wellington
 
----
+----
 
 The chill of Winter may be upon us, but that's no reason to despair. There's an exciting collection of events lined up this month for founders, techies and other creative misfits.
 

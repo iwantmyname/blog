@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-08-05 15:16:25 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Domain name registrar
   - hosted apps
 
----
+----
 
 We've just begun offering [managed DNS hosting](https://iwantmyname.co.nz/dns) for domains not already registered through iWantMyName. So you can now manage domain names independently from a registrar or registry, as well as benefit from easy domain customisation of your preferred apps offered on the [iWantMyName marketplace](https://iwantmyname.co.nz/services).
 

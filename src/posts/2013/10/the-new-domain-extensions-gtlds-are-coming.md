@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-23 10:41:18 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: The New Domain Extensions (gTLDs) Are Coming
 categories:
   - gTLD
 
----
+----
 
 From Christine Willett - [ICANN](http://blog.icann.org/2013/10/first-new-gtlds-get-the-green-light-for-delegation/):
 

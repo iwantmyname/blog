@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-05-22 17:35:16 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Blogging
   - News
 
----
+----
 
 ![Tumblr acquired]({{ site.images_url }}/2013-05-22-tumblr-blog.png)
 

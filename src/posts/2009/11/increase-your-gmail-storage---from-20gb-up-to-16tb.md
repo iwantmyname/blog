@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-11-11 17:15:15 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Increase Your Gmail Storage - From 20GB up to 16TB!
 categories:
   - Google Apps
 
----
+----
 
 Running out of space for your Gmail account has become even harder today. Google just [announced](http://gmailblog.blogspot.com/2009/11/more-extra-storage-for-less.html) an option to upgrade the storage space for Gmail and Picasa to up to 16 Terabytes. This also applies to Google Apps accounts using your own domain name.
 

@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-01-30 09:09:33 +1200
 author: Chris
 title: "Friends don't let friends go without two-factor authentication"
----
+----
 
 ![authy-iphone.jpg]({{ site.images_url }}/2014-01-30-authy-iphone.jpg)
 

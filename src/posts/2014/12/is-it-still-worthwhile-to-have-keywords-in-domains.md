@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-12-11 08:20:02 +1200
 author: Chris
 title: "Is it still worthwhile to have keywords in domains?"
 header_image: 2014-12-11-car-line.jpg
 excerpt: no
----
+----
 
 [From the Can I Rank blog:](http://www.canirank.com/blog/keyword-domains/?session=22f69924c5835d1f302e33d3a4529b55)
 

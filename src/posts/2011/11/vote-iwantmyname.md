@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-11-25 14:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - Politics
   - Voting
 
----
+----
 
 It's Election 2011 weekend in New Zealand and almost anything could happen. Until the "tea-pot tapes" [debacle](http://www.3news.co.nz/Teapot-tapes-raise-questions/tabid/370/articleID/232724/Default.aspx), many pundits were resoundingly predicting no change of government. But as they say, "a week is a long time in politics". Last minute resurgences by the minor parties have thrown the cat amongst the pigeons, with political [blogs](https://iwantmyname.co.nz/services/blog-hosting/) running hot with commentary.
 

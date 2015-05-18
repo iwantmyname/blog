@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-01-18 16:24:38 +1200
 author: Paul
@@ -13,7 +12,7 @@ tags:
   - SOPA
   - Wikipedia
 
----
+----
 
 ![stop.png]({{ site.images_url }}/2012-01-18-stop.png)
 

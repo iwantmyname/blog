@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-09-30 12:58:25 +1200
 author: Timo
 title: How to drop the .co from your .co.nz domain today
 search:
   tld: NZ
----
+----
 
 <!-- excerpt -->
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-01-31 17:44:53 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Apps for Domains News Roundup January
 categories:
   - News
 
----
+----
 
 News digest for January 2011 covering the latest from the apps and services in our [iWantMyName marketplace](https://iwantmyname.com/services/featured):
 

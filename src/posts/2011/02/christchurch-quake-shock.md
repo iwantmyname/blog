@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-02-22 23:25:31 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - New Zealand
   - Red Cross
 
----
+----
 
 ![cross]({{ site.images_url }}/2011-02-22-redcross.jpg)
 

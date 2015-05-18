@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-02-25 07:06:45 +1200
 author: Chris
 title: Last week in gTLDs, including .WIKI, .XYZ and .TODAY
----
+----
 
 <!-- excerpt -->
 

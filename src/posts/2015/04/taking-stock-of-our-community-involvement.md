@@ -1,11 +1,10 @@
----
 layout: post
 date: 2015-04-30 14:27:22 -0700
 author: Paul
 title: Taking stock of our 2015 community involvement
 header_image: 2015-04-30-startup-weekend.jpg
 
----
+----
 
 <!-- excerpt -->
 

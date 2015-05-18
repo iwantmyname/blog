@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-12-18 11:30:00 +1200
 author: Paul
@@ -18,7 +17,7 @@ tags:
   - iwantmyname
   - New Zealand
 
----
+----
 
 ![pohu.jpg]({{ site.images_url }}/2012-12-18-pohu.jpg)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-05-15 13:05:50 +1200
 author: Timo
@@ -18,7 +17,7 @@ tags:
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
 
----
+----
 
 While many domain names under .COM and country code top-level domains are already taken, domain hacks are a good alternative to express yourself** **on the web. Wait, domain hack? Does that mean something bad? No, [according to Wikipedia](http://en.wikipedia.org/wiki/Domain_hack) a domain hack is "an unconventional domain name that combines domain levels, especially the top-level domain (TLD), to spell out the full "name" or title of the domain, making a kind of pun."
 

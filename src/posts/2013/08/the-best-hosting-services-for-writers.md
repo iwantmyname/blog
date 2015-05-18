@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-08-01 11:36:12 -0800
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Blogging
   - Identity
 
----
+----
 
 <!-- excerpt -->
 

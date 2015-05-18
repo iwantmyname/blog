@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-10-24 10:00:00 +1200
 author: Paul
@@ -15,7 +14,7 @@ tags:
   - jobs
   - travel
 
----
+----
 
 ![SDC10263]({{ site.images_url }}/2013-10-24-SDC10263.jpg)
 

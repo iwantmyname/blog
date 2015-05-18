@@ -1,9 +1,8 @@
----
 layout: post
 date: 2014-01-18 07:15:06 +1200
 author: Chris
 title: This week in gTLDs, including .CHEAP, .AGENCY and .SOCIAL
----
+----
 
 ICANN is delegating generic Top-Level Domains (gTLDs) at a fairly rapid pace now, so instead of sporadic posts, we'll just save them all for an easily digestible weekly post. So here's the very first *This week in gTLDs.*
 

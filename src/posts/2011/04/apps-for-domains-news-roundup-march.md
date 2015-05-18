@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-04-01 11:28:53 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Apps for Domains News Roundup March
 categories:
   - Apps
 
----
+----
 
 Read the latest buzz from the services in our [iWantMyName marketplace](https://iwantmyname.com/services) which helps you discover and set up the best applications for your domain names:
 

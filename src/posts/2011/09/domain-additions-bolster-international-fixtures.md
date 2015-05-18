@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-09-30 13:00:00 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - Philippines
   - rugby world cup
 
----
+----
 
 ![fan50.jpg]({{ site.images_url }}/2011-09-30-fan50.jpg)
 

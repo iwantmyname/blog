@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-24 13:39:03 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Company
   - howto
 
----
+----
 
 We pride ourselves in excellent customer support and have recently started tracking people's satisfaction with our email replies using a tool called [NiceReply](http://nicereply.com). Implementing their service was as easy as creating an account and placing a link in the footer of every support answer. They've got integrations with popular help desks such as Desk.com or Zendesk which even allows you to link customer support feedback to each case and team member.
 

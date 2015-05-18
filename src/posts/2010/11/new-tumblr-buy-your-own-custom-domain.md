@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-11-10 05:46:08 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Special Offer
   - Tumblr
 
----
+----
 
 So you've just signed up for Tumblr and you are thinking of customizing your new website with a domain name? Then look no further, we have a special custom domain promotion for new (and of course existing) Tumblr users. Simply use [this link](https://iwantmyname.com/tumblr) and we will apply a 20% discount on your domain registration with iWantMyName.
 

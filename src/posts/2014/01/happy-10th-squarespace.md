@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-01-07 15:52:16 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: Happy 10th, Squarespace
 categories:
   - Squarespace
 
----
+----
 
 ![squarespace-logo-horizontal-black.jpg]({{ site.images_url }}/2014-01-07-squarespace-logo-horizontal-black.jpg)
 

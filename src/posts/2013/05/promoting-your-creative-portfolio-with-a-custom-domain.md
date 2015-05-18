@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-05-06 12:00:00 +1200
 author: Paul
@@ -20,7 +19,7 @@ tags:
   - portfolio
   - website
 
----
+----
 
 ![22slides.png]({{ site.images_url }}/2013-05-06-22slides.png)
 

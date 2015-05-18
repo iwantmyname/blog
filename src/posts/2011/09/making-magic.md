@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-09-07 17:00:00 +1200
 author: Paul
@@ -17,7 +16,7 @@ tags:
   - Ponoko
   - profile
 
----
+----
 
 ![toolbox.jpg]({{ site.images_url }}/2011-09-07-toolbox.jpg)
 

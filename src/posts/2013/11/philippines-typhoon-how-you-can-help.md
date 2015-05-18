@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-11-14 12:00:00 +1200
 author: Paul
@@ -14,7 +13,7 @@ tags:
   - typhoon
   - Yolanda
 
----
+----
 
 ![haiyan2.jpg]({{ site.images_url }}/2013-11-14-haiyan2.jpg)
 

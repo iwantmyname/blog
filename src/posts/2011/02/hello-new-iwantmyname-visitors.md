@@ -1,9 +1,8 @@
----
 layout: post
 date: 2011-02-07 07:45:59 +1200
 author: Timo
 title: First Time At iWantMyName? Welcome!
----
+----
 
 We'd like to extend a warm welcome to all [new visitors](http://minimalmac.com/post/3164173464/simple-domain-name-registrar-iwantmyname-sponsor) and give you a quick overview what you can expect at iWantMyName.
 Our domain management service in a nutshell:

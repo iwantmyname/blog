@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-08-30 11:47:41 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - Support
   - Twitter
 
----
+----
 
 Our strategy of using [Twitter](https://twitter.com/iwantmynamenz) as a secondary support channel paid off at the weekend when our [online support page](https://iwantmyname.co.nz/support) threw a wobbly and crashed in a steaming heap of crud. Fortunately we received some tweet alerts from friends and were able to get cracking and sort out the problem. 
 

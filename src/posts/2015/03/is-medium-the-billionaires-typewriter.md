@@ -1,11 +1,10 @@
----
 layout: post
 date: 2015-03-24 12:09:41 -0700
 author: Chris
 title: Is Medium the billionaire’s typewriter?
 header_image: 2015-03-24-typewriter.jpg
 excerpt: no
----
+----
 
 [From Matthew Butterick, in an article titled, "The billionaire’s typewriter"](http://practicaltypography.com/billionaires-typewriter.html)
 

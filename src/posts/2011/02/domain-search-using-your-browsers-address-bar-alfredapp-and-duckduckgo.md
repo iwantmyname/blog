@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-02-21 14:35:58 +1200
 author: Timo
@@ -9,7 +8,7 @@ categories:
   - Domain tools
   - Tips
 
----
+----
 
 For those of you who want to quickly search for domain names from the address bar of your favorite browser, app launcher or search engine, we have some tips how to set things up.
 

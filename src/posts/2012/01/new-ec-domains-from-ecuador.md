@@ -1,9 +1,8 @@
----
 layout: post
 date: 2012-01-30 22:03:54 +1200
 author: Timo
 title: "New: .EC Domains From Ecuador"
----
+----
 
 [![Ecuador Domain Name]({{ site.images_url }}/2012-01-30-Ecuador-Flag-128.png)](https://iwantmyname.com/domains/ec-ecuadorian-domain-name-registration-for-ecuador)
 

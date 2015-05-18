@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-01-14 08:50:04 +1200
 author: Chris
@@ -9,7 +8,7 @@ categories:
 
 ---
 
-![bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg]({{ site.images_url }}/2014-01-14-bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg)
+![bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg]({{ site.images_url }}/2014-01-14-bigstock-Postage-Stamp-Liechtenstein----54694160-2.jpg)
 
 <!-- excerpt -->
 

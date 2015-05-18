@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-06-15 16:30:00 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - new domain
   - New Zealand
 
----
+----
 
 ![logo_dotkiwi2.png]({{ site.images_url }}/2013-06-15-logo_dotkiwi2.png)
 

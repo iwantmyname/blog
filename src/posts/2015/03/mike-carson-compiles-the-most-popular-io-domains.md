@@ -1,10 +1,9 @@
----
 layout: post
 date: 2015-03-11 14:41:44 -0700
 author: Chris
 title: Mike Carson compiles the 1457 most popular .io domains
 excerpt: no
----
+----
 
 [From Mike Carson:](http://hack.ly/articles/the-most-popular-dot-io-domains-2015/)
 

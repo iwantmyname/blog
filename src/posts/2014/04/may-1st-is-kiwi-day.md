@@ -1,4 +1,3 @@
----
 layout: post
 date: 2014-04-22 06:48:57 +1200
 author: Chris
@@ -7,7 +6,7 @@ excerpt: no
 
 preorder:
   tld: Kiwi
----
+----
 
 Like little online children, we love each generic top-level domain (gTLD) the same. .GURU, .RED, .PHOTOGRAPHY—all are lovely in their own special way. But if we were stranded on a desert island and could only bring one, we'd choose .KIWI, New Zealand's choicest new domain extension. 
 

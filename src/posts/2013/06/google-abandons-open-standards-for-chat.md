@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-06-06 06:49:18 +1200
 author: Owen
@@ -7,7 +6,7 @@ title: Google Abandons Open Standards For Chat
 categories:
   - News
 
----
+----
 
 For a long time, Google was a proponent of open standards that anyone could tap into to integrate with their own products. Unfortunately, the company has been undoing some of this over the last year with the removal of various open standards they have previously supported.
 

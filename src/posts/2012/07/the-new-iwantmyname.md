@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-07-25 15:47:03 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: The Brand New iwantmyname
 categories:
   - Announcement
 
----
+----
 
 We're happy to announce the launch of our site redesign and new iwantmyname logo. As mentioned last week this refresh is a first step towards a new control panel which will speed up the interaction with your domains dramatically. We can't wait to share it with you!
 

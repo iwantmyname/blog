@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-03-02 17:48:24 +1200
 author: Lenz
@@ -8,7 +7,7 @@ categories:
   - DNS
   - Dynamic DNS
 
----
+----
 
 Over the past few days we had some requests for a simple API that allows DNS updates for your [domains](https://iwantmyname.com/domains) from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS -- used widely by DynDNS -- which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iWantMyName and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:
 

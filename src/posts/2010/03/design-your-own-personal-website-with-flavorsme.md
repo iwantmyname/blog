@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-03-09 08:41:48 +1200
 author: Timo
@@ -14,7 +13,7 @@ tags:
   - Personal Profile
   - Website Builder
 
----
+----
 
 Are you tired of having your content spread all over the internet? Do you wish there was a place online that is YOU? If you ever felt like this, then [Flavors.me](http://flavors.me) might be the service you were waiting for. The new website builder lets you design and publish a beautiful personal profile website within just a few minutes.
 

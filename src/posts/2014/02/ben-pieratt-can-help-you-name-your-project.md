@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-02-21 08:12:38 +1200
 author: Chris
 title: Ben Pieratt can help you name your project
 excerpt: no
----
+----
 
 From Ben Pieratt's blog, in a post titled ["A 3-step process for naming a project/product. (And some resources)"](http://blog.pieratt.com/post/77293289254/a-3-step-process-for-naming-a-project-product-and):
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-02-29 11:00:00 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - entrepreneur
   - new domain
 
----
+----
 
 ![dotco.png]({{ site.images_url }}/2012-02-29-dotco.png)
 

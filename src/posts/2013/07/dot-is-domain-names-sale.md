@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-07-01 16:34:46 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - .is domains
   - Special Offer
 
----
+----
 
 ![Iceland Flag]({{ site.images_url }}/2013-07-01-Iceland-Flag-128.png)
 

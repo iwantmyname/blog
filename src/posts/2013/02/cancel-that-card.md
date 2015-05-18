@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-02-08 09:59:40 +1200
 author: Paul
@@ -13,7 +12,7 @@ tags:
   - fraud
   - Twitter bot
 
----
+----
 
 ![madness.jpg]({{ site.images_url }}/2013-02-08-madness.jpg)
 

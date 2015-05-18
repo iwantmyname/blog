@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-25 23:01:36 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: "Super Promo: 1000 .COM / .NET Domains @ $8.50 USD"
 categories:
   - Special Offer
 
----
+----
 
 ![.COM Domain Logo]({{ site.images_url }}/2013-03-25-logo-blog-dotcom.png)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-12-30 13:03:27 +1200
 author: Chris
@@ -7,7 +6,7 @@ title: The Ten Biggest Posts Of 2013
 categories:
   - General
 
----
+----
 
 It's always an interesting task to go back and look at your highest performing posts of the year. In just a quick glance, you can see what posts your audience likes to read, what kind of content works best, and even how well different types of headlines perform. 
 

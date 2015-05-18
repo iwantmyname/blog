@@ -1,11 +1,10 @@
----
 layout: post
 date: 2014-05-20 10:33:43 +1200
 author: Chris
 title: "An introduction to Postach.io with @nerdburn"
 header_image: 2014-05-20-postachio.png
 
----
+----
 
 <!-- excerpt -->
 

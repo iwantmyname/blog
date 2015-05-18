@@ -1,10 +1,9 @@
----
 layout: post
 date: 2014-12-13 09:27:29 +1200
 author: Chris
 title: The photography domain extension showdown
 header_image: 2014-12-13-photography.jpg
----
+----
 
 <!-- excerpt -->
 

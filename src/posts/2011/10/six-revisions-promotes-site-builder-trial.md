@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-10-12 16:01:16 +1200
 author: Paul
@@ -11,7 +10,7 @@ tags:
   - Web development
   - Website builder
 
----
+----
 
 ![squarespace.jpg]({{ site.images_url }}/2011-10-12-squarespace.jpg)
 

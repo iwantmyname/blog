@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-12-23 10:22:50 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - .io domains
   - Featured
 
----
+----
 
 iWantMyName featured site: [365.io](http://365.io)
 

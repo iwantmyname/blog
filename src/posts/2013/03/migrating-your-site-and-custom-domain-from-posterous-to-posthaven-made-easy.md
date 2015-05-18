@@ -1,4 +1,3 @@
----
 layout: post
 date: 2013-03-14 16:30:48 +1200
 author: Timo
@@ -10,7 +9,7 @@ categories:
   - Special Offer
   - Transfer
 
----
+----
 
 ![Posthaven logo]({{ site.images_url }}/2013-03-14-logo-blog-posthaven.png)
 

@@ -1,4 +1,3 @@
----
 layout: post
 date: 2011-11-25 05:55:44 +1200
 author: Paul
@@ -16,7 +15,7 @@ tags:
   - turkey
   - Whois
 
----
+----
 
 ![turkey-icon.png]({{ site.images_url }}/2011-11-25-turkey-icon.png)
 

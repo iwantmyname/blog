@@ -1,10 +1,9 @@
----
 layout: post
 date: 2012-06-01 20:50:04 +1200
 author: Timo
 title: 49 New Top-Level Domain Bids Revealed So Far
 
----
+----
 
 This month marks an important milestone for the domain community with the big reveal of all new top-level domain (TLD) applicants on June 13. After years of hard work, lots of discussions and numerous delays, the internet's governing body [ICANN](http://icann.org) will finally let you know which domain extensions made the cut. The application window closed yesterday and not surprisingly some entities already came forward with their TLD plans.
 

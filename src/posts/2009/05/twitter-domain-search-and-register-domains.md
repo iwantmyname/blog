@@ -1,4 +1,3 @@
----
 layout: post
 date: 2009-05-19 12:11:58 +1200
 author: Timo
@@ -16,7 +15,7 @@ tags:
   - Domains
   - Twitter
 
----
+----
 
 In addition to being [Apple geeks](https://iwantmyname.com/iphone), we're also big suckers for **simplicity and productivity** at iWantMyName. So we thought: why not offer a domain search feature for a service where we spend lots of time anyway? Hence the concept of our [**iWantMyName Twitter Search Bot**](https://twitter.com/iwantmyname) was born.
 

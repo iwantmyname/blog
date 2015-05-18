@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-10-18 20:53:43 +1200
 author: Timo
@@ -7,7 +6,7 @@ title: Be Authentic With Your Online Presence
 categories:
   - Identity
 
----
+----
 
 Not sure if I agree with the headline but TechCrunch's "[Here's To The Death Of Personal Branding On The Internet](http://techcrunch.com/2012/10/14/heres-to-the-death-of-personal-branding-on-the-internet/)" reminds us of an important theme when [building an online presence](https://iwantmyname.com/services/personal-profile):
 

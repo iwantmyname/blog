@@ -1,4 +1,3 @@
----
 layout: post
 date: 2010-08-28 19:18:39 +1200
 author: Timo
@@ -15,7 +14,7 @@ tags:
   - Twitter
   - URL shortener
 
----
+----
 
 Useful [tip on the bit.ly blog](http://blog.bit.ly/post/1003484046/more-tips-for-using-bit-ly-with-publishing-tools) about how to use your own [custom short domain](https://iwantmyname.com/short-domain-search) for link sharing via the Twitter Tweet Button in conjunction with [bit.ly Pro](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service):
 

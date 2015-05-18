@@ -1,4 +1,3 @@
----
 layout: post
 date: 2012-10-15 23:28:12 +1200
 author: Timo
@@ -8,7 +7,7 @@ categories:
   - Announcement
   - New domain extension
 
----
+----
 
 Today we're happy to introduce two more European Top-Level Domains from the Channel Islands [Jersey](https://iwantmyname.com/domains/je-channel-island-domain-name-registration-for-jersey) and [Guernsey](https://iwantmyname.com/domains/gg-channel-island-domain-name-registration-for-guernsey). In case you were wondering, the islands are located off the coast of Normandy in France. And look how beautiful it is there:
 
