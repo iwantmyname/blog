@@ -6,6 +6,7 @@ OUTPUT = site
 	config
 	paginate 10 pages/*.page
 	ext .html
+	inner-template
 	markdown
 	template post
 	template page
