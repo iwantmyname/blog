@@ -7,6 +7,7 @@ title: What Is A Domain Hack And How Can I Make One?
 categories:
   - Custom domains
 
+redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks
 ---
 
 <!-- excerpt -->
