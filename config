@@ -28,6 +28,3 @@ pages/1.page: pages/*.page
 	template page
 	template base
 	relativize
-
-media/*:
-	rename ../assets/images/content/*
