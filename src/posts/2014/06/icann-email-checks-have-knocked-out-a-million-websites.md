@@ -2,7 +2,6 @@ layout: post
 date: 2014-06-25 08:14:01 +1200
 author: Chris
 title: "ICANN email checks have knocked out a million websites—don't let yours be next"
-
 ----
 
 <!-- excerpt -->

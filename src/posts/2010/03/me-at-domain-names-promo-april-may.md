@@ -2,9 +2,6 @@ layout: post
 date: 2010-03-31 12:19:18 +1200
 author: Timo
 title: .ME, .AT & .EU Domain Name Promo April/May 2010
-
-
-
 ----
 
 At iWantMyName we're always happy to provide you with some of the best bargains in the domain world. The following [domain extensions](https://iwantmyname.com/domains) are on special throughout April/May 2010:

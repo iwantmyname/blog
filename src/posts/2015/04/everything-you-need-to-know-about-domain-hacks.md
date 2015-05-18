@@ -2,7 +2,6 @@ layout: post
 date: 2015-04-29 11:56:38 -0700
 author: Chris
 title: Everything you need to know about domain hacks
-
 ----
 
 <!-- excerpt -->

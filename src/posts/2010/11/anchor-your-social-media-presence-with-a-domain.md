@@ -2,9 +2,6 @@ layout: post
 date: 2010-11-29 11:49:56 +1200
 author: Paul
 title: Anchor Your Social Media Presence With A Domain
-
-
-
 ----
 
 ![anchor.jpg]({{ site.images_url }}/2010-11-29-anchor.jpg)

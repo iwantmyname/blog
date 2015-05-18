@@ -2,8 +2,6 @@ layout: post
 date: 2011-05-23 21:54:07 +1200
 author: Timo
 title: Easily Move Domains Between iWantMyName Accounts
-
-
 ----
 
 After last week's announcement of some [newly transferable domain extensions](https://iwantmyname.com/blog/2011/05/free-domain-transfer-uk-nz-io-domains.html), it is now also possible to move domains within iWantMyName from one customer to another. This is especially helpful if you want to separate domain management for clients or if you have sold a web address to someone else.

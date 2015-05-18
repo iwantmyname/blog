@@ -1,9 +1,7 @@
 layout: post
 date: 2013-12-19 08:13:22 +1200
 author: Chris
-title: The Next Batch Of gTLDs Are Here, Including .CAREERS, .PHOTOS And .RECIPES  
-
-
+title: The Next Batch Of gTLDs Are Here, Including .CAREERS, .PHOTOS And .RECIPES
 ----
 
 ![bigstock-Spices-and-old-recipe-book-on--50467688.jpg]({{ site.images_url }}/2013-12-19-bigstock-Spices-and-old-recipe-book-on--50467688.jpg)

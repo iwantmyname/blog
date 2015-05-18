@@ -2,9 +2,6 @@ layout: post
 date: 2010-09-18 11:39:01 +1200
 author: Paul
 title: Family Fun Forecast For Software Freedom Day
-
-
-
 ----
 
 We are hugely pleased to be able to support [Software Freedom Day](http://www.softwarefreedomday.org.nz/) again this year. SFD aims to educate the public about the 

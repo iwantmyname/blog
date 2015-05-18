@@ -2,9 +2,6 @@ layout: post
 date: 2011-03-07 13:25:06 +1200
 author: Paul
 title: Online Profile Services Easy To Customise
-
-
-
 ----
 
 ![flavors50.png]({{ site.images_url }}/2011-03-07-flavors50.png)

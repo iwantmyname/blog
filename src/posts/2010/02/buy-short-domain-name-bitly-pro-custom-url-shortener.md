@@ -2,8 +2,6 @@ layout: post
 date: 2010-02-01 16:09:19 -0800
 author: Timo
 title: Short URL Domain Name Ideas for Customizing bit.ly Pro
-
-
 ----
 
 Popular URL shortening service [bit.ly](http://bit.ly "bit.ly") is launching an [open beta](http://blog.bit.ly/post/356400453/bit-ly-pro-open-beta-and-enterprise-service "bit.ly Pro open beta") of its long-awaited Pro version with custom domain option soon. This will allow you to use your own domain name for a personally branded URL instead of the standard shortened addresses starting with bit.ly or j.mp.

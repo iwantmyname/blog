@@ -3,7 +3,6 @@ date: 2014-06-11 05:11:17 +1200
 author: Melle
 title: What is domain squatting/cybersquatting?
 header_image: 2014-06-11-squatting.jpg
-
 ----
 
 <!-- excerpt -->

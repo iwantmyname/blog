@@ -2,8 +2,6 @@ layout: post
 date: 2011-05-19 16:40:30 +1200
 author: Timo
 title: Free .CO.UK, .CO.NZ & .IO Domain Transfers + Newly Transferable Extensions
-
-
 ----
 
 We're happy to announce that you can now [transfer](https://iwantmyname.com/domains/domain-transfer) a whole bunch of new country code top-level domains (ccTLDs) to iWantMyName. Most importantly,  [.UK transfers](https://iwantmyname.com/domains/co.uk-domain-registrar-transfer-united-kingdom) &mdash; often requested by our friends in the United Kingdom &mdash; and other European suffixes.

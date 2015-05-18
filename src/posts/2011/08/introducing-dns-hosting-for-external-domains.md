@@ -2,8 +2,6 @@ layout: post
 date: 2011-08-05 09:55:13 +1200
 author: Timo
 title: Introducing DNS Hosting For External Domains
-
-
 ----
 
 Today we're pleased to announce the release of our [managed DNS hosting](https://iwantmyname.com/dns) for domains which are not registered at iWantMyName. This enables you to manage domain names independently from any registrar or registry and also benefit from easy domain customization through the [iWantMyName marketplace](https://iwantmyname.com/services).

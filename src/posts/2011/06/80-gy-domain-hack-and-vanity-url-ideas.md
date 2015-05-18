@@ -2,8 +2,6 @@ layout: post
 date: 2011-06-16 11:05:11 +1200
 author: Timo
 title: 80+ .GY Domain Hack And Vanity URL Ideas
-
-
 ----
 
 [Keeping](https://iwantmyname.com/blog/2009/10/tiny-domain-names-for-your-own-url-shortener.html) [with](https://iwantmyname.com/blog/2010/09/cool-domain-hacks-using-the-gl-tld.html) [tradition](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html) after enabling a new international country domain extension at iWantMyName, we'd like to once again offer you some [domain hack ideas](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html) for naming your next app, website or [custom URL shortener](https://iwantmyname.com/services/url-shortener/).

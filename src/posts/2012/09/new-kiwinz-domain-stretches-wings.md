@@ -2,9 +2,6 @@ layout: post
 date: 2012-09-13 15:26:00 +1200
 author: Paul
 title: New .KIWI.NZ Domain Stretches Wings
-
-
-
 ----
 
 ![kiwi.jpg]({{ site.images_url }}/2012-09-13-kiwi.jpg)

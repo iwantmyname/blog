@@ -2,9 +2,6 @@ layout: post
 date: 2011-08-31 14:05:23 +1200
 author: Paul
 title: IntuitionHQ Gets Landing Pad Boost
-
-
-
 ----
 
 ![ihq.png]({{ site.images_url }}/2011-08-31-ihq.png)

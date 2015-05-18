@@ -2,8 +2,6 @@ layout: post
 date: 2013-12-20 16:10:16 +1200
 author: Chris
 title: "The Tools We Use: StatusPage.io For Our Website Status"
-
-
 ----
 
 ![logo_on_light-e4882f38fa3ad197957d9a0614dda117.png]({{ site.images_url }}/2013-12-20-logo_on_light-e4882f38fa3ad197957d9a0614dda117.png)

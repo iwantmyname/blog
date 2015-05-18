@@ -2,9 +2,6 @@ layout: post
 date: 2012-03-30 22:00:00 +1200
 author: Paul
 title: Codemaniacs Of The World Unite
-
-
-
 ----
 
 ![meetup.jpg]({{ site.images_url }}/2012-03-30-meetup.jpg)

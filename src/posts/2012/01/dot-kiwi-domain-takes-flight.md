@@ -2,9 +2,6 @@ layout: post
 date: 2012-01-18 12:00:00 +1200
 author: Paul
 title: Dot Kiwi Domain Takes Flight
-
-
-
 ----
 
 ![DotKiwi-Logo-small.jpg]({{ site.images_url }}/2012-01-18-DotKiwi-Logo-small.jpg)

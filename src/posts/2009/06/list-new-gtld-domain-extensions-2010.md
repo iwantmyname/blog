@@ -2,9 +2,6 @@ layout: post
 date: 2009-06-20 11:07:45 +1200
 author: Timo
 title: 50+ New Domain Extensions We Might See In 2010
-
-
-
 ----
 
 The iWantMyName team is about to head to Australia to attend the 35th [ICANN meeting in Sydney](https://twitter.com/ntlds) next week. [ICANN](http://icann.org/) is the governing body of the internet and the acronym for "**I**nternet **C**orporation For **A**ssigned **N**ames And **N**umbers". It's crucial for us to follow what's happening in the domain business and ICANN meetings are always a perfect place to mingle with industry experts, other domain registrars and registries.

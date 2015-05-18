@@ -2,7 +2,6 @@ layout: post
 date: 2012-10-05 22:25:20 +1200
 author: Timo
 title: Sweden and Portugal Join the iwantmyname Domain Family
-
 ----
 
 You can now [register the Swedish (.SE) and Portuguese (.PT) country code top-level domains](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) at iwantmyname. Both domain extensions are the preferred choice for local websites or email addresses in the respective countries.

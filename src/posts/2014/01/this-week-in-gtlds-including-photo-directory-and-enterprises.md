@@ -2,7 +2,6 @@ layout: post
 date: 2014-01-25 11:06:46 +1200
 author: Chris
 title: This week in gTLDs, including .PHOTO, .DIRECTORY and .ENTERPRISES
-
 ----
 
 ### Newly delegated gTLDs

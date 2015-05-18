@@ -5,7 +5,6 @@ title: "New: .MX Domains - The Mexican Country Code Extension"
 
 
 redirect_to: https://iwantmyname.com/domains/mx-mexican-domain-name-registration-for-mexico
-
 ----
 
 As of today you can register [.MX domains](https://iwantmyname.com/domains/mx-mexican-domain-name-registration-for-mexico) (Mexico) at iWantMyName. The domain registration requirements are similar to [.COM domains](https://iwantmyname.com/domains/com-domain-name-registration-for-commercial) so there are no restrictions or local requirements. Our introduction price is $99.00 USD for all new registrations.

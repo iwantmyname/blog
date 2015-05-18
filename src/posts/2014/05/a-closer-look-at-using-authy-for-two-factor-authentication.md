@@ -2,7 +2,6 @@ layout: post
 date: 2014-05-02 08:14:58 +1200
 author: Chris
 title: A closer look at using Authy for two-factor authentication
-
 ----
 
 <!-- excerpt -->

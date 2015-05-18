@@ -2,9 +2,6 @@ layout: post
 date: 2011-06-02 12:32:56 +1200
 author: Paul
 title: Airline Builds Brand With Domains
-
-
-
 ----
 
 [![a red dart against a blue canvas]({{ site.images_url }}/2011-06-02-608161288_31d19e6708_m.jpg)](http://www.flickr.com/photos/73584213@N00/608161288)

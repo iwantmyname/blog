@@ -2,8 +2,6 @@ layout: post
 date: 2012-02-23 15:32:56 +1200
 author: Timo
 title: How A Personal Website Can Boost Your Business
-
-
 ----
 
 *Guest post by Per Schmitz -- Founder of [DooID](http://dooid.com):*

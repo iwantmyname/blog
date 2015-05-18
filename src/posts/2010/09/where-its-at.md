@@ -2,9 +2,6 @@ layout: post
 date: 2010-09-07 12:49:46 +1200
 author: Paul
 title: "Where It's .AT"
-
-
-
 ----
 
 ![austria]({{ site.images_url }}/2010-09-07-austria.png)

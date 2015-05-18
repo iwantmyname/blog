@@ -2,9 +2,6 @@ layout: post
 date: 2010-02-19 12:02:33 +1200
 author: Timo
 title: Your Username Does Not Belong To You
-
-
-
 ----
 
 The widely [reported](http://tumbledore.tumblr.com/post/393030100/tumblr-stole-my-domain-at-the-behest-of-a-corporation) recent case of a Tumblr user summarily losing control of a sub-domain and related blog has fanned the flames of discontent amongst users of hosted applications worldwide. The rumblings emerged again last year with [Facebook's back down](http://www.techcrunch.com/2010/01/23/facebook-gives-harman-his-name-back-apologizes/) in the face of a user revolt. The more recent Tumblr case also reinvigorates the debate over the subtle difference between a name squat and genuine usage. In any event this incident reminds us exactly how frail the laws of ownership seem to be across the nebulous world of the Internet.

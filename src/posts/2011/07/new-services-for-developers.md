@@ -2,9 +2,6 @@ layout: post
 date: 2011-07-20 12:24:53 +1200
 author: Paul
 title: New Services For Developers
-
-
-
 ----
 
 Our showcase for the best new hosted [services and apps](https://iwantmyname.co.nz/services) just keeps on growing. All these services can be easily added to your domains with just a single click from within your iWantMyName dashboard. We also now have an improved setup for subdomains, e.g. nz.yourdomain.com for your New Zealand site or status.yourdomain.com for your website status page. So you can manage ancillary or support services separately, but on the same domain.

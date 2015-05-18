@@ -2,8 +2,6 @@ layout: post
 date: 2009-10-06 06:41:46 +1200
 author: Timo
 title: 100 Tiny Domain Names For Your Custom URL Shortener
-
-
 ----
 
 With recent news of [cli.gs' shutdown](http://mashable.com/2009/10/04/cli-gs-shut-down/), the debate about URL shorteners and issues with possible broken links is coming up again. The only way to prevent this is to [run a custom URL shortener on your own domain](https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html) but finding available short domain names with two letters is getting more challenging by the day.

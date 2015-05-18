@@ -2,9 +2,6 @@ layout: post
 date: 2011-09-30 13:00:00 +1200
 author: Paul
 title: Domain Additions Bolster International Fixtures
-
-
-
 ----
 
 ![fan50.jpg]({{ site.images_url }}/2011-09-30-fan50.jpg)

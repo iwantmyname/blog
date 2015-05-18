@@ -2,9 +2,6 @@ layout: post
 date: 2011-01-05 15:25:42 +1200
 author: Paul
 title: Bag A New Year Domain Bargain
-
-
-
 ----
 
 ![bag.jpg]({{ site.images_url }}/2011-01-05-bag.jpg)

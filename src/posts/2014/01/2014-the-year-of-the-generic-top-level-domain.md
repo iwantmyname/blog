@@ -2,7 +2,6 @@ layout: post
 date: 2014-01-15 12:55:39 +1200
 author: Chris
 title: "2014: The Year of the generic Top-Level Domain"
-
 ----
 
 We've been talking about the new generic Top-Level Domains (gTLDs) for months and months (years and years around the office), and now we're here. It's 2014\. And in a few weeks a ton of gTLDs will be rolling out to the public.

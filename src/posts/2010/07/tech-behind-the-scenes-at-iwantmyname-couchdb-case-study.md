@@ -2,9 +2,6 @@ layout: post
 date: 2010-07-22 08:09:04 +1200
 author: Timo
 title: "Tech Behind The Scenes: CouchDB Case Study"
-
-
-
 ----
 
 ![Apache CouchDB logo]({{ site.images_url }}/2010-07-22-Couchdb-logo.png)

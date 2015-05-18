@@ -2,8 +2,6 @@ layout: post
 date: 2011-10-12 16:01:16 +1200
 author: Paul
 title: Six Revisions Promotes Site Builder Trial
-
-
 ----
 
 ![squarespace.jpg]({{ site.images_url }}/2011-10-12-squarespace.jpg)

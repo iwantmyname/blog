@@ -3,7 +3,6 @@ date: 2014-07-17 07:14:25 +1200
 author: Chris
 title: Web platforms and naming tips for building amazing restaurant sites (updated!)
 header_image: 2014-05-10-forks.jpg
-
 ----
 
 <!-- excerpt -->

@@ -2,7 +2,6 @@ layout: post
 date: 2015-02-17 11:23:48 -0700
 author: Chris
 title: A big WHOIS privacy update
-
 ----
 
 <!-- excerpt -->

@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-12 14:36:55 +1200
 author: Chris
 title: Pre-Orders Now Open For .KIWI—More gTLDs Coming Soon
-
-
 ----
 
 ![dot-kiwi-domain-preorder.png]({{ site.images_url }}/2013-11-12-dot-kiwi-domain-preorder.png)

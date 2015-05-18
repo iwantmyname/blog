@@ -2,8 +2,6 @@ layout: post
 date: 2013-05-02 14:50:10 +1200
 author: Timo
 title: 6 Great May Domain Name Deals
-
-
 ----
 
 We've got some fresh sales for you this month:

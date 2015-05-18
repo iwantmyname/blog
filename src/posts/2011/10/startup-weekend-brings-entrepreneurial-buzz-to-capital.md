@@ -2,9 +2,6 @@ layout: post
 date: 2011-10-31 14:00:00 +1200
 author: Paul
 title: Startup Weekend Brings Entrepreneurial Buzz To Capital
-
-
-
 ----
 
 ![sw65.jpg]({{ site.images_url }}/2011-10-31-sw65.jpg)

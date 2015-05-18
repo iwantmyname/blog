@@ -2,8 +2,6 @@ layout: post
 date: 2010-04-14 18:55:16 +1200
 author: Timo
 title: 10 Most Popular Services To Forward Your Domain To
-
-
 ----
 
 Domain name redirection or web (URL) forwarding is one of the easiest ways to start using [your own web address](https://iwantmyname.com) and is a service we provide free to all customers at iWantMyName. With this option you can forward domains to any other public location on the internet. Although it shouldn't be the preferred setup, it makes perfect sense under some circumstances.

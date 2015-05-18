@@ -2,8 +2,6 @@ layout: post
 date: 2010-01-21 18:07:52 +1200
 author: Timo
 title: Download The QR Code For Your Domain Name
-
-
 ----
 
 You can now download an auto-generated QR code for every domain name in your iWantMyName dashboard. QR codes or 2D barcodes are square images that can contain different data, e.g. URLs, an email address or phone numbers. The "QR" stands for "Quick Response" and was created by Japanese corporation Denso-Wave in 1994. They are very common in Japan already but start gaining popularity in the western world as well with the wide adoption of the iPhone and Android-powered mobile camera phones such as Google's Nexus One.

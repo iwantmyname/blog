@@ -2,8 +2,6 @@ layout: post
 date: 2012-12-21 12:57:06 +1200
 author: Paul
 title: Happy Holidays
-
-
 ----
 
 It has been an amazingly full and challenging year for us here at iwantmyname as we continued to win over new fans with our no-nonsense approach to domain management. Elsewhere, from [Hobbits](https://iwantmyname.com/blog/2012/11/in-the-domain-of-middle-earth.html) to [hurricanes](https://iwantmyname.com/blog/2012/11/why-your-domain-survived-the-sandy-storm.html) to [Halloween](https://iwantmyname.com/blog/2012/10/scared-bitless.html), 2012 has been a rather eventful year globally as well. Now as the holiday season is almost upon us, you can rest easy in the full knowledge that we will still be on deck keeping 

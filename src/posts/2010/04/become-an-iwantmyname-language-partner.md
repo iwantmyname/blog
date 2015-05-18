@@ -2,9 +2,6 @@ layout: post
 date: 2010-04-23 23:07:37 +1200
 author: Timo
 title: Become An iWantMyName Language Partner
-
-
-
 ----
 
 Much of our time in 2009 was spent on refining our domain management service to make it more attractive to partners around the globe. Consequently we launched a Dutch language partner site called [Benikvrij](http://benikvrij.nl) and a German site called [meinName](http://meinname.com). We also designed a system that means we can roll out a new implementation of the iWantMyName platform within a few days and scale up rapidly as customer demand grows. We provide our partner companies with a complete set of front end templates and they make the necessary translation into their home language. Of course we handle the billing set-up including whatever currency is required and make it compatible with any existing systems. You are also free in the choice of any domain registrar back end on the market.

@@ -2,8 +2,6 @@ layout: post
 date: 2011-01-01 20:42:56 +1200
 author: Timo
 title: 11 Fresh Domain Special Offers For January 2011
-
-
 ----
 
 First off all, a happy new year 2011 to all of you, wherever you are. Let's celebrate the second year of the second decade in the second millenium with some fresh domain name bargains:

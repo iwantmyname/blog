@@ -2,8 +2,6 @@ layout: post
 date: 2010-12-21 10:09:27 +1200
 author: Timo
 title: Get A Personal Domain Christmas Gift
-
-
 ----
 
 ![icon-gift-present.png]({{ site.images_url }}/2010-12-21-icon-gift-present.png)

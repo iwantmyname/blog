@@ -2,9 +2,6 @@ layout: post
 date: 2014-01-21 19:00:00 +1200
 author: Paul
 title: "What's In Store For 2014"
-
-
-
 ----
 
 It's looking like big year ahead for the iwantmyname crew. Apart from adding a few more staff in 2014 and getting out in the community a bit more, we are also well advanced with our preparations for the global roll-out of hundreds of newly released top level domains.

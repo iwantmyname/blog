@@ -5,7 +5,6 @@ title: Domain hacks and the new generic top-level domains
 header_image: 2015-02-26-chessman.jpg
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
-
 ----
 
 <!-- excerpt -->

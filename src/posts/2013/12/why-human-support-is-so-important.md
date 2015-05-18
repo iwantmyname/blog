@@ -2,8 +2,6 @@ layout: post
 date: 2013-12-04 11:20:10 +1200
 author: Chris
 title: Why Human Support Is So Important
-
-
 ----
 
 [From Bill McBride - Calculated Risk:](http://www.calculatedriskblog.com/2013/12/will-google-kill-my-blog-on-december-6th.html)

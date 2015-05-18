@@ -2,9 +2,6 @@ layout: post
 date: 2011-02-07 10:12:29 +1200
 author: Paul
 title: Hop Into the New Lunar Year and Save
-
-
-
 ----
 
 ![rabbits.jpg]({{ site.images_url }}/2011-02-07-rabbits.jpg)

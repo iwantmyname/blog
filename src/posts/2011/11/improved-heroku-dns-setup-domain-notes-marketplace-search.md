@@ -2,8 +2,6 @@ layout: post
 date: 2011-11-12 13:27:13 +1200
 author: Timo
 title: "Dashboard Updates: Improved Heroku DNS Setup, Notes & Marketplace Search"
-
-
 ----
 
 This week we've been working on improving our dashboard in response to great feedback you have given us during [Startup Weekend Wellington](http://wellington.startupweekend.org).

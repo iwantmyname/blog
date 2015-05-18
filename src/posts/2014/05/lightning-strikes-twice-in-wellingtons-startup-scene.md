@@ -3,7 +3,6 @@ date: 2014-05-30 10:33:21 +1200
 author: Paul
 title: "Lightning strikes twice in Wellington's startup scene"
 header_image: 2014-05-30-lightning-lab.jpg
-
 ----
 
 <!-- excerpt -->

@@ -2,8 +2,6 @@ layout: post
 date: 2013-09-26 11:56:24 +1200
 author: Chris
 title: Some New Additions To The App Marketplace
-
-
 ----
 
 <!-- excerpt -->

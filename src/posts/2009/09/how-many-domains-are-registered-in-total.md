@@ -2,8 +2,6 @@ layout: post
 date: 2009-09-30 14:31:13 +1200
 author: Timo
 title: How Many Domains Are Registered In Total? Statistics & Numbers, Part II
-
-
 ----
 
 This is part two in our *Domain Statistics & Numbers* article series which answers the following questions:

@@ -2,8 +2,6 @@ layout: post
 date: 2013-10-12 11:06:07 +1200
 author: Chris
 title: The Pros And Cons Of Individual Files. Our Last Day With Scriptogram #iwantmyblog
-
-
 ----
 
 ![Screen Shot 2013-10-11 at 15.03.19.png]({{ site.images_url }}/2013-10-12-Screen_Shot_2013-10-11_at_15.03.19.png)

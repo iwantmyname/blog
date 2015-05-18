@@ -2,9 +2,6 @@ layout: post
 date: 2011-07-05 11:35:34 +1200
 author: Paul
 title: July Domain Transfer Offer
-
-
-
 ----
 
 July brings chilly winter winds along with snow for ski fans (hopefully). So to counter the effects of winter we are offering some heartwarming [domain transfer deals](https://iwantmyname.co.nz/domains/domain-transfer) throughout July including some freebies.

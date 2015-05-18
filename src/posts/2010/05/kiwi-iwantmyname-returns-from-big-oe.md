@@ -2,9 +2,6 @@ layout: post
 date: 2010-05-05 14:21:56 +1200
 author: Paul
 title: Kiwi Born iWantMyName Returns From Big O.E.
-
-
-
 ----
 
 iWantMyName is the world's most innovative domain registrar platform and was developed by our [parent company](http://ideegeo.com) based right here in Wellington, New Zealand. With a new wave of web-based ventures emerging on the New Zealand tech scene and a paradigm shift underway in the way we access distributed computing services globally, it seems like a good time to introduce our domain registrar platform to our home audience.

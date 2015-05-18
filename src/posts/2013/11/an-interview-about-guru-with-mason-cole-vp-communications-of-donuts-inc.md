@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-28 11:32:07 +1200
 author: Chris
 title: An Interview About .GURU With Mason Cole, VP Communications of Donuts Inc.
-
-
 ----
 
 ![Screen Shot 2013-11-27 at 16.07.37.png]({{ site.images_url }}/2013-11-28-Screen_Shot_2013-11-27_at_16.07.37.png)

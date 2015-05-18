@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-12 11:42:08 +1200
 author: Timo
 title: Your Google+ Profile Is Not A Place You Own
-
-
 ----
 
 Via [Hacker News](https://news.ycombinator.com/item?id=6698821): [Why I won't use a G+ custom URL](http://blog.vrypan.net/2013/11/08/why-i-wont-use-a-gplus-custom-url/)

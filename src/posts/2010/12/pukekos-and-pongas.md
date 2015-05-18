@@ -2,9 +2,6 @@ layout: post
 date: 2010-12-20 15:59:50 +1200
 author: Paul
 title: Pukekos and Pongas
-
-
-
 ----
 
 ![santa.jpg]({{ site.images_url }}/2010-12-20-santa.jpg)

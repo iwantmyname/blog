@@ -2,9 +2,6 @@ layout: post
 date: 2012-04-24 10:30:00 +1200
 author: Paul
 title: WDCNZ Boldly Goes Forth
-
-
-
 ----
 
 ![wdcnz.jpg]({{ site.images_url }}/2012-04-24-wdcnz.jpg)

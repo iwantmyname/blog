@@ -1,7 +1,6 @@
 layout: post
 author: Chris
 title: Three tips for making the most of the new TLD pre-order period
-
 ----
 
 <!-- excerpt -->

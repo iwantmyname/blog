@@ -2,8 +2,6 @@ layout: post
 date: 2013-09-19 10:14:00 +1200
 author: Chris
 title: Know Your Domain Name Lingo
-
-
 ----
 
 DNS. ccTLD. Domain hacks. If you're just getting into the world of "domaining" or are simply confused as to what all the industry acronyms mean, DotSauce Magazine has a [simple guide to help you out](http://www.dotsauce.com/domaining-cheat-sheet/).

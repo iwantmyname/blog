@@ -2,7 +2,6 @@ layout: post
 date: 2015-02-05 13:58:45 -0700
 author: Chris
 title: New in the Marketplace - Bigcommerce, for beautiful online stores
-
 ----
 
 <!-- excerpt -->

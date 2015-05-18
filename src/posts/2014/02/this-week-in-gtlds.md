@@ -1,7 +1,6 @@
 layout: post
 author: Chris
 title: This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY
-
 ----
 
 <!-- excerpt -->

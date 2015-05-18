@@ -2,7 +2,6 @@ layout: post
 date: 2015-02-02 13:45:54 -0700
 author: Chris
 title: Meet the domain extensions of February, including .work, .delivery, and .yoga
-
 ----
 
 <!-- excerpt -->

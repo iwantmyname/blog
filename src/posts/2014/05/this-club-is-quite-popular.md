@@ -3,7 +3,6 @@ date: 2014-05-28 05:53:42 +1200
 author: Chris
 title: "This .CLUB is quite popular"
 header_image: 2014-05-28-dance-club.jpg
-  
 ----
 
 <!-- excerpt -->

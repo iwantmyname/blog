@@ -2,7 +2,6 @@ layout: post
 date: 2014-10-08 09:04:56 +1200
 author: Chris
 title: Squarespace 7 is here, should you be excited?
-
 ----
 
 <!-- excerpt -->

@@ -2,9 +2,6 @@ layout: post
 date: 2013-01-28 10:30:00 +1200
 author: Paul
 title: A Summer Full Of Tech
-
-
-
 ----
 
 [Summer of Tech](http://www.summeroftech.co.nz/) is a great initiative that matches tertiary students with intern positions in the technology sector. [Unlimited Potential](http://up.org.nz/) is Wellington's largest community of information technology professionals offering engaging networking events promoting knowledge sharing, innovation and entrepreneurship. Those are just the kind of projects we love getting involved with, so we were over the moon when UP and SoT got together to run a [tech panel session](http://up.org.nz/events/summer_of_tech_panel_agm) this week.

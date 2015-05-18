@@ -2,9 +2,6 @@ layout: post
 date: 2010-08-13 13:34:21 +1200
 author: Timo
 title: Why some domain extensions are more expensive than others
-
-
-
 ----
 
 When you have a look at our [domain price list](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions), you will notice that some domain name extensions are more expensive than others. So why is that?

@@ -2,8 +2,6 @@ layout: post
 date: 2011-01-25 07:48:23 +1200
 author: Timo
 title: Recent App & Service Additions For Your Domains
-
-
 ----
 
 You can now even add more cool apps and services to your domains from your iWantMyName dashboard. Here are the latest additions to our [domain application directory](https://iwantmyname.com/services) which enables you to **easily apply DNS settings to your domain in one single click:**

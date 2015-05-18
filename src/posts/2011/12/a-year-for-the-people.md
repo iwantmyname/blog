@@ -2,9 +2,6 @@ layout: post
 date: 2011-12-31 14:00:00 +1200
 author: Paul
 title: A Year For The People
-
-
-
 ----
 
 ![demo.jpg]({{ site.images_url }}/2011-12-31-demo.jpg)

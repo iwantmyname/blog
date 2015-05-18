@@ -2,8 +2,6 @@ layout: post
 date: 2011-02-23 17:51:52 +1200
 author: Timo
 title: 32 static website generators for your site, blog or wiki
-
-
 ----
 
 **Note: The updated version of this list now lives [here](https://iwantmyname.com/blog/2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html).**

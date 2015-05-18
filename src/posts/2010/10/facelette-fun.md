@@ -2,9 +2,6 @@ layout: post
 date: 2010-10-26 11:00:00 +1200
 author: Paul
 title: Facelette Founder Forgoes Funds Finds Fun
-
-
-
 ----
 
 The iWantMyName team got a huge buzz last week when we saw [this post by Zach Holman](http://zachholman.com/2010/10/facelette-on-techcrunch-in-three-hours-and-zero-dollars/) explaining how he launched a new service called [Facelette](http://facelette.com/) after Apple's recent FaceTime launch. Basically FaceTime simplifies video calls between any Apple device. Holman whipped up a neat application that helps you randomly meet other FaceTime users and interact with them. The funniest part of this story is that the whole project got built, launched and then received a TechCrunch review within three hours and at no development cost whatsoever!

@@ -2,9 +2,6 @@ layout: post
 date: 2009-04-17 11:26:26 +1200
 author: Timo
 title: List of short & brandable domain names
-
-
-
 ----
 
 After our recent [list of 100 available ultra short domains](https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html), we've compiled a **new free list **for you with 2-letter domain names in the extensions [.MU](https://iwantmyname.com/domains/mu-mauritian-domain-name-registration-for-mauritius) (Mauritius), [.TL](https://iwantmyname.com/domains/tl-domain-name-registration-for-timor-leste) (East Timor), [.HT](https://iwantmyname.com/domains/ht-haitian-domain-name-registration-for-haiti) (Haiti), [.CX](https://iwantmyname.com/domains/cx-domain-name-registration-for-christmas-island) (Christmas Island), [.GS](https://iwantmyname.com/domains/gs-domain-name-registration-for-south-georgia-and-the-south-sandwich-islands) (South Georgia & The Sandwich Islands) and [.MS](https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat) (Montserrat). This time they're not only suited for URL shortening, abbreviations or your initials but even better **most of them are pronouncable and hence fully brandable**.

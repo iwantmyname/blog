@@ -2,7 +2,6 @@ layout: post
 date: 2014-01-23 11:24:33 +1200
 author: Chris
 title: "We're looking for a Customer Support Scholar. Need a (new) job?"
-
 ----
 
 ![Customer Support Scholar-logo.png]({{ site.images_url }}/2014-01-23-Customer-Support-Scholar-logo.png)

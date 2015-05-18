@@ -2,9 +2,6 @@ layout: post
 date: 2012-03-16 14:00:00 +1200
 author: Paul
 title: Bubble And Squeak Kids Fashion Fry-Up
-
-
-
 ----
 
 ![cute.jpg]({{ site.images_url }}/2012-03-16-cute.jpg)

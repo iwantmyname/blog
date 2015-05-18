@@ -3,7 +3,6 @@ date: 2014-07-12 09:11:54 +1200
 author: Chris
 title: "A detailed breakdown of what small business websites cost"
 header_image: 2014-07-12-macbook.jpg
-
 ----
 
 Anyone who has ever put down for a high quality website knows the costs associated. You're paying for planning, hosting, design, strategy, and all sorts of other minute details that go into creating a polished domain. But getting an idea of what those costs will look like can be hard—here's a good place to start. 

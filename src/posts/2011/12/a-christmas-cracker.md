@@ -2,9 +2,6 @@ layout: post
 date: 2011-12-16 07:41:33 +1200
 author: Paul
 title: A Christmas Cracker
-
-
-
 ----
 
 ![blog-christmas-santa.png]({{ site.images_url }}/2011-12-16-blog-christmas-santa.png)

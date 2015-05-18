@@ -2,7 +2,6 @@ layout: post
 date: 2014-01-14 12:13:41 +1200
 author: Chris
 title: This .KIWI is ready to go global
-
 ----
 
 ![bigstock-Kiwi-Crossing-road-sign-and-vo-35099339.jpg]({{ site.images_url }}/2014-01-14-bigstock-Kiwi-Crossing-road-sign-and-vo-35099339.jpg)

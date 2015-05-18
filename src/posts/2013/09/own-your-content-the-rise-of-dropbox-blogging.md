@@ -2,8 +2,6 @@ layout: post
 date: 2013-09-24 12:33:26 +1200
 author: Chris
 title: "Own Your Content: The Rise Of Dropbox Blogging"
-
-
 ----
 
 ![dropbox-logos_dropbox-logotype-blue.jpg]({{ site.images_url }}/2013-09-24-dropbox-logos_dropbox-logotype-blue.jpg)

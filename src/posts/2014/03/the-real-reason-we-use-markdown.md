@@ -2,7 +2,6 @@ layout: post
 date: 2014-03-05 13:12:42 +1200
 author: Chris
 title: The real reason we use Markdown
-
 ----
 
 <!-- excerpt -->

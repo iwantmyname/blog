@@ -2,8 +2,6 @@ layout: post
 date: 2013-02-28 17:25:31 +1200
 author: Owen
 title: iwantmyname now supports DonationTo!
-
-
 ----
 
 ![logo-social-donationto.png]({{ site.images_url }}/2013-02-28-logo-social-donationto.png)

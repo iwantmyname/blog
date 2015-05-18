@@ -2,9 +2,6 @@ layout: post
 date: 2012-05-29 11:39:08 +1200
 author: Paul
 title: Free Zoho Sites Delivers Value On Custom Domain Setup
-
-
-
 ----
 
 ![zohosites.jpg]({{ site.images_url }}/2012-05-29-zohosites.jpg)

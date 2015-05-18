@@ -2,9 +2,6 @@ layout: post
 date: 2011-06-28 22:13:48 +1200
 author: Paul
 title: Cyclist Peddles Goods With Shopify
-
-
-
 ----
 
 ![cycle.jpg]({{ site.images_url }}/2011-06-28-cycle.jpg)

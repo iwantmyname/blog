@@ -2,9 +2,6 @@ layout: post
 date: 2012-09-04 16:00:00 +1200
 author: Paul
 title: Apps Empowering Digital Communities
-
-
-
 ----
 
 ![panel.jpg]({{ site.images_url }}/2012-09-04-panel.jpg)

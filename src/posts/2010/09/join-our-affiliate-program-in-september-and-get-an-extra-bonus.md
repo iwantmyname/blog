@@ -2,8 +2,6 @@ layout: post
 date: 2010-09-15 11:35:14 +1200
 author: Timo
 title: Join Our Affiliate Program In September And Get An Extra 5% Lifetime Bonus
-
-
 ----
 
 As you may know, we have an [affiliate program](https://iwantmyname.com/affiliate) that rewards you for each new client you refer to iWantMyName. You can now get an extra 5% lifetime commission bonus if you become a domain registrar affiliate in September 2010!

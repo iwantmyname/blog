@@ -2,8 +2,6 @@ layout: post
 date: 2012-07-17 15:43:22 +1200
 author: Timo
 title: iWantMyName Site Migration Next Week
-
-
 ----
 
 In the week starting July 23, we're making some updates to our service. The changes will take about 24 hours and not involve any downtime of your domain names.

@@ -2,9 +2,6 @@ layout: post
 date: 2010-05-19 16:38:37 +1200
 author: Timo
 title: Improved Web Application Setup & New DNS Manager
-
-
-
 ----
 
 We've recently released major upgrades to our dashboard which dramatically improve the setup and management of your domain names. Hopefully this will make things even easier for you!

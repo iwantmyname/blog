@@ -2,7 +2,6 @@ layout: post
 author: Lenz
 title: 'iwantmyname culture: The "one salary experiment"'
 date: 2014-05-08 15:13:17 +1200
-
 ----
 
 <!-- excerpt -->

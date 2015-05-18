@@ -2,9 +2,6 @@ layout: post
 date: 2010-08-26 07:52:19 +1200
 author: Timo
 title: 5 Personal Domain Extensions Other Than .COM
-
-
-
 ----
 
 Do you already own your name as a personal domain name? If not, is it because your FirstnameLastname.com was taken? That shouldn't be a reason to dismiss the idea just yet! Today, we show you five great domain alternatives to .COM for your home base on the web:

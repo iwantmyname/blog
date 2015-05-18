@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-07 09:21:33 +1200
 author: Chris
 title: Create Your Next Online Store With Weebly eCommerce
-
-
 ----
 
 From [The Weebly Blog](http://blog.weebly.com/2/post/2013/11/the-new-weebly-ecommerce-has-arrived.html), 

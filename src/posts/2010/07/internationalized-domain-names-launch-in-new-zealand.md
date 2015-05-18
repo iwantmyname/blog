@@ -2,9 +2,6 @@ layout: post
 date: 2010-07-26 15:51:37 +1200
 author: Timo
 title: Internationalized Domain Names Launch in New Zealand
-
-
-
 ----
 
 As [Māori Language Week](http://www.korero.maori.nz/news/mlw) begins in New Zealand, it is now possible to register [.NZ domain names](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) with Macrons. The technology behind these new addresses are so-called Internationalized Domain Names ([IDNs](http://en.wikipedia.org/wiki/Internationalized_domain_name "Internationalized domain name")) which translate the special characters into a computer readable format.

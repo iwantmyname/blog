@@ -2,9 +2,6 @@ layout: post
 date: 2013-04-14 11:46:54 +1200
 author: Owen
 title: "Heads Up: Firefox 23 will block non-SSL content on SSL pages"
-
-
-
 ----
 
 ![logo-firefox.png]({{ site.images_url }}/2013-04-14-logo-firefox.png)

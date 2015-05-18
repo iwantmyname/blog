@@ -2,8 +2,6 @@ layout: post
 date: 2013-10-19 11:10:35 +1200
 author: Chris
 title: Find The Perfect Tumblr Theme #iwantmyblog
-
-
 ----
 
 ![Screen Shot 2013-10-18 at 15.08.40.png]({{ site.images_url }}/2013-10-19-Screen_Shot_2013-10-18_at_15.08.40.png)

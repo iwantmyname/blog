@@ -2,8 +2,6 @@ layout: post
 date: 2013-03-06 09:30:39 +1200
 author: Paul
 title: Empowering People A Global Challenge
-
-
 ----
 
 For a long time the domain name industry had an unfortunate reputation for being unnecessarily difficult to navigate; a reputation which discouraged internet literacy and hampered moves towards a better public understanding of the fundamental concept of a digital identity. Consequently, a few years ago we began developing [iwantmyname](https://iwantmyname.com) as a tool to overcome this problem and as a way to make creating and owning a digital identity as easy as clicking a few buttons. We also resolved to end ISP lock-­in by making it easy for everyone to set up email on a domain they have personal control over.

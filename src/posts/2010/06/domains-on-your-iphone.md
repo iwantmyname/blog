@@ -2,9 +2,6 @@ layout: post
 date: 2010-06-30 12:07:47 +1200
 author: Paul
 title: Domains On Your iPhone
-
-
-
 ----
 
 How many times have you been out somewhere or chatting to friends when a great idea for a domain name popped into your head? With the [iWantMyName DomainApp](https://iwantmyname.co.nz/iphone) you can search for and register domains from your iPhone anywhere, anytime. It's a great free tool that has had thousands of downloads and some great reviews since we first launched iWantMyName globally. DomainApp even got a [nice mention on Mashable](http://mashable.com/2009/03/26/iphone-job-search-apps/) last year as a 'must have'.

@@ -2,9 +2,6 @@ layout: post
 date: 2013-02-01 17:00:00 +1200
 author: Paul
 title: Internet Founder Values Openness
-
-
-
 ----
 
 There was no mistaking the focus for Sir Tim Berners-Lee when he spoke to a packed house of over 300 at Te Papa in Wellington this week. As one of the leading developers of software that launched the Internet, he is perhaps the strongest and most high profile advocate for openness and inter-operability across the worldwide web that he and other researchers created. It was an opportunity not to be missed by the[ iwantmyname team](https://iwantmyname.co.nz/about).

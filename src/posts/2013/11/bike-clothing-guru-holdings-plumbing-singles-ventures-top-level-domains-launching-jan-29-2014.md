@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-09 11:03:54 +1200
 author: Chris
 title: .BIKE, .CLOTHING, .GURU, .HOLDINGS, .PLUMBING, .SINGLES, .VENTURES Top-Level Domains Launching Jan 29, 2014
-
-
 ----
 
 ![Screen Shot 2013-11-08 at 11.09.43.png]({{ site.images_url }}/2013-11-09-Screen_Shot_2013-11-08_at_11.09.43.png)

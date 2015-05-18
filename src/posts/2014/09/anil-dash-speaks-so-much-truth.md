@@ -2,7 +2,6 @@ layout: post
 date: 2014-09-27 12:13:18 +1200
 author: Chris
 title: Anil Dash speaks so much truth
-
 ----
 
 <!-- excerpt -->

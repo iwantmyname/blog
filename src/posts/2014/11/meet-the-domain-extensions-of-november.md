@@ -3,7 +3,6 @@ date: 2014-11-04 09:52:10 +1200
 author: Chris
 title: Meet the domain extensions of November, including .Quebec and a big trio from S. Africa
 header_image: 2014-11-04-montreal.jpg
-
 ----
 
 <!-- excerpt -->

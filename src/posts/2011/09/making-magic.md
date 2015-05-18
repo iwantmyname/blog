@@ -2,9 +2,6 @@ layout: post
 date: 2011-09-07 17:00:00 +1200
 author: Paul
 title: Making Magic
-
-
-
 ----
 
 ![toolbox.jpg]({{ site.images_url }}/2011-09-07-toolbox.jpg)

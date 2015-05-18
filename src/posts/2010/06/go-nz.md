@@ -2,9 +2,6 @@ layout: post
 date: 2010-06-15 14:57:06 +1200
 author: Paul
 title: Go .NZ!
-
-
-
 ----
 
 The Football World Cup event is a wonderful spectacle that both our Kiwi and German 

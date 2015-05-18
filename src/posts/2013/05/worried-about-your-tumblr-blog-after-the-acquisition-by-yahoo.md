@@ -2,8 +2,6 @@ layout: post
 date: 2013-05-22 17:35:16 +1200
 author: Timo
 title: Worried About Your Tumblr Blog After The Acquisition By Yahoo!?
-
-
 ----
 
 ![Tumblr acquired]({{ site.images_url }}/2013-05-22-tumblr-blog.png)

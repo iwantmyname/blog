@@ -2,9 +2,6 @@ layout: post
 date: 2009-07-27 18:23:04 +1200
 author: Timo
 title: Support For Internationalised Domain Names (IDNs)
-
-
-
 ----
 
 It's [Māori Language Week](http://www.koreromaori.co.nz/news/mlw "Māori Language Week") in New Zealand and on this occasion we're very proud to announce support for [Internationalised Domain Names](http://en.wikipedia.org/wiki/Internationalized_domain_name "Internationalised Domain Names") (IDNs) at iWantMyName. Indigenous groups around the world are looking seriously at how best to protect their digital identity, as the Internet continues to impact powerfully in both in economic and sociological terms. Providing Internationalised Domain Names not only for the use of Māori language domains but non-Latin characters in general is a small but significant step towards preserving the expression of language and culture online.

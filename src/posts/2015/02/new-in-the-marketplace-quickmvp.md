@@ -2,7 +2,6 @@ layout: post
 date: 2015-02-12 16:50:10 -0700
 author: Chris
 title: New in the Marketplace - QuickMVP, the easiest way to test your next big idea
-
 ----
 
 <!-- excerpt -->

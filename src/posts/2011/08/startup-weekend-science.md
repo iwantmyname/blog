@@ -2,8 +2,6 @@ layout: post
 date: 2011-08-30 10:16:37 +1200
 author: Paul
 title: Startup Weekend Science
-
-
 ----
 
 ![swmega.jpg]({{ site.images_url }}/2011-08-30-swmega.jpg)

@@ -3,7 +3,6 @@ date: 2014-10-09 08:28:03 +1200
 author: Chris
 title: .NYC is out, but you need to be a New Yorker to register
 header_image: 2014-10-09-nyc-bw.jpg
-
 ----
 
 Good news New Yorkers, [.NYC](https://iwantmyname.com/domains/dot-nyc) is out today! But if you're not a New Yorker, fuhgetaboudit (I had to). Like some other top-level domains, the registry behind .NYC has placed restrictions on the domain to ensure only New Yorkers have access. So here's the scoop, from [ownit.nyc](http://www.ownit.nyc/policies/nyc_nexus_policy.php):

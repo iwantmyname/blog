@@ -2,9 +2,6 @@ layout: post
 date: 2010-09-21 14:45:08 +1200
 author: Timo
 title: 88 Cool Domain Hacks Using The .GL TLD
-
-
-
 ----
 
 We're big fans of [domain hacks](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html) at iWantMyName and would like to share a list of geeky short domains using the [Greenlandic domain extension](https://iwantmyname.com/domains/gl-greenlandic-domain-name-registration-for-greenland) with you today. The .GL domain suffix from Greenland is our newest ccTLD (country code top-level domain) available for registration and makes really cool domain hacks possible, with some of our staff favorites being bur.gl, don.gl, ille.gl, smug.gl, stran.gl, strug.gl or tog.gl.

@@ -3,7 +3,6 @@ date: 2014-06-14 10:14:37 +1200
 author: Chris
 title: "8 alternatives to .com for review websites"
 header_image: 2014-06-14-typewriter.jpg
-
 ----
 
 <!-- excerpt -->

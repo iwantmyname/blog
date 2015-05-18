@@ -2,7 +2,6 @@ layout: post
 date: 2014-02-20 08:45:43 +1200
 author: Chris
 title: An introduction to Ghost with John O'Nolan
-
 ----
 
 <!-- excerpt -->

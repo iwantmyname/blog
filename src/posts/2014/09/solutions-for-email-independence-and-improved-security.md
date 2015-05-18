@@ -2,7 +2,6 @@ layout: post
 date: 2014-09-23 06:55:15 +1200
 author: Chris
 title: 3 solutions for email independence and improved security
-
 ----
 
 <!-- excerpt -->

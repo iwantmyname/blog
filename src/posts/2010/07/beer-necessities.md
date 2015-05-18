@@ -2,9 +2,6 @@ layout: post
 date: 2010-07-13 15:24:07 +1200
 author: Paul
 title: Beer Necessities
-
-
-
 ----
 
 With the [Beervana Festival](http://archived.link/http://brewersguild.org.nz/beervana2010) looming on the horizon we thought it timely to run another beer giveaway promotion through our [Twitter channel](https://twitter.com/iWantMyNameNZ). Simply re-tweet the link to the [iWantMyName blog](https://iwantmyname.com/blog/) and you'll be in the draw for another pack of delightful Mata Beer. At the end of Wednesday we will pull a winner out of the hat and then arrange to drop the beer off to you.

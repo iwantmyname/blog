@@ -5,7 +5,6 @@ title: Greece Is the Word &mdash; .GR Rebuilds
 
 
 redirect_to: https://iwantmyname.com/domains/gr-greek-domain-name-registration-for-greece
-
 ----
 
 ![Greece-Flag-128.png]({{ site.images_url }}/2013-02-09-Greece-Flag-128.png)

@@ -3,7 +3,6 @@ date: 2014-05-24 07:24:58 +1200
 author: Melle
 title: "Free up your phone: Why email support is better"
 header_image: 2014-05-24-phone-call.jpg
-
 ----
 
 <!-- excerpt -->

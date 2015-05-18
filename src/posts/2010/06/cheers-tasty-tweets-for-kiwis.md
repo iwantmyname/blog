@@ -2,9 +2,6 @@ layout: post
 date: 2010-06-02 11:41:38 +1200
 author: Paul
 title: Cheers! Tasty Tweets for Kiwis
-
-
-
 ----
 
 There's no question that [iWantMyName](https://iwantmyname.co.nz/) makes it easier and faster to register and manage domain names in New Zealand. Now we are making it easy to win some delicious New Zealand brewed boutique product from [Mata Beer](http://www.mata.net.nz/).

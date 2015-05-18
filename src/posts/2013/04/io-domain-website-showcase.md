@@ -2,8 +2,6 @@ layout: post
 date: 2013-04-03 12:25:02 +1200
 author: Timo
 title: 100+ beautifully designed .IO domain websites
-
-
 ----
 
 Nice [showcase of well-designed websites](http://www.russellbeattie.com/blog/artisanal-websites-the-rise-of-io-domains-for-well-crafted-web-services) using the [.io top-level domain](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) from Russell Beattie:

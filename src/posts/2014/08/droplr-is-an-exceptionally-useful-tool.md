@@ -2,7 +2,6 @@ layout: post
 date: 2014-08-26 09:31:32 +1200
 author: Chris
 title: "Droplr is an exceptionally useful tool for sharing files and screenshots"
-
 ----
 
 <!-- excerpt -->

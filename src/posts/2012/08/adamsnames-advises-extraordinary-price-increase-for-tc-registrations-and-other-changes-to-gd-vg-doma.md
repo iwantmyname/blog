@@ -2,8 +2,6 @@ layout: post
 date: 2012-08-13 22:00:00 +1200
 author: Paul
 title: Adamsnames Advises Extraordinary Price Increase For .TC Registrations And Other Changes To .GD & .VG Domains
-
-
 ----
 
 We thought we should let you know about a very substantial price increase that has recently been invoked by [Adamsnames](http://adamsnames.tc), the registry operator for .TC, .GD and .VG domains. Unfortunately we have no choice but to pass these increases on to our customers and we apologize for this unexpected change.

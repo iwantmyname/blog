@@ -2,9 +2,6 @@ layout: post
 date: 2011-11-25 05:55:44 +1200
 author: Paul
 title: Saucy Thanksgiving Holiday Domain Deals
-
-
-
 ----
 
 ![turkey-icon.png]({{ site.images_url }}/2011-11-25-turkey-icon.png)

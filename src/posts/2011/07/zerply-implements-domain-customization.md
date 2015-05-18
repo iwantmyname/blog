@@ -2,9 +2,6 @@ layout: post
 date: 2011-07-31 09:21:11 +1200
 author: Paul
 title: Zerply Implements Profile Domain Customization
-
-
-
 ----
 
 ![z.jpg]({{ site.images_url }}/2011-07-31-z.jpg)

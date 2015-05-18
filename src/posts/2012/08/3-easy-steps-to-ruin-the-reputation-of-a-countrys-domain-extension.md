@@ -2,8 +2,6 @@ layout: post
 date: 2012-08-28 11:35:36 +1200
 author: Timo
 title: "3 Easy Steps To Ruin The Reputation Of A Country's Domain Extension"
-
-
 ----
 
 We've recently announced a substantial [price increase for .TC domains](https://iwantmyname.com/blog/2012/08/adamsnames-advises-extraordinary-price-increase-for-tc-registrations-and-other-changes-to-gd-vg-doma.html) and were even more shocked when we received further details from the new registry managers. As a registrar there is not much that can be done about such a change but we thought you should know what's sometimes happening in the background of the domain name industry.

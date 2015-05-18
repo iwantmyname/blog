@@ -2,9 +2,6 @@ layout: post
 date: 2010-03-16 16:02:55 +1200
 author: Timo
 title: Using A Custom Domain Can Boost Your Website Traffic
-
-
-
 ----
 
 Two of the services recommended in our [web application directory](https://iwantmyname.com/services) offer some valuable insights on how using your own domain name, instead of a sub-domain, can boost your website traffic and / or increase sales. But this is not the only advantage. With a custom domain you also have ownership and [control over your online identity](https://iwantmyname.com/blog/2010/02/your-usernames-do-not-belong-to-you.html) so that if necessary you could move from one service to another, whilst retaining your branding. On top of that, you can even [change your domain name provider](https://iwantmyname.com/domains/domain-transfer) and take your web address with you similar to switching your number between mobile phone companies.

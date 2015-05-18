@@ -2,8 +2,6 @@ layout: post
 date: 2012-07-31 11:00:00 +1200
 author: Paul
 title: iwantmyname Scores International Gold In Domains Finale
-
-
 ----
 
 ![gold.jpg]({{ site.images_url }}/2012-07-31-gold.jpg)

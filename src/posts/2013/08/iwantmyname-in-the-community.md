@@ -2,8 +2,6 @@ layout: post
 date: 2013-08-24 19:10:54 +1200
 author: Paul
 title: iwantmyname In The Community
-
-
 ----
 
 <!-- excerpt -->

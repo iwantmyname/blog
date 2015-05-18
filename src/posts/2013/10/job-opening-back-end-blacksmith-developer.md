@@ -2,8 +2,6 @@ layout: post
 date: 2013-10-18 13:23:12 +1200
 author: Chris
 title: "Job Opening: Back-End Blacksmith (Developer)"
-
-
 ----
 
 ![bigstock-Blacksmiths-forge-metal-25059950.jpg]({{ site.images_url }}/2013-10-18-bigstock-Blacksmiths-forge-metal-25059950.jpg)

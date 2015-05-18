@@ -2,9 +2,6 @@ layout: post
 date: 2013-03-05 08:28:02 +1200
 author: Owen
 title: Prefer to own your data? Here are some alternatives to Google Analytics
-
-
-
 ----
 
 [Google Analytics](http://web-analytics-software.findthebest.com/l/1/Google-Analytics "Google Analytics") has become somewhat of the tool of choice for most people who run their own [website](http://en.wikipedia.org/wiki/Website "Website"). After all, it's free, and what's better than free, right?

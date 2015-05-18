@@ -2,8 +2,6 @@ layout: post
 date: 2012-08-22 20:58:54 +1200
 author: Timo
 title: Dear Google, Please Add .IO To The List Of Generic Domains In Webmaster Tools
-
-
 ----
 
 Google [Webmaster Tools](http://google.com/webmastertools) is a free service allowing site owners to check certain metrics and adjust settings, e.g. search engine crawling errors or managing the robots.txt file. The service also lets you geo-target domains, for example, if you are using a .com domain, you can tell Google how the site should appear in their search results for specific geographic regions:

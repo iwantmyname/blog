@@ -2,9 +2,6 @@ layout: post
 date: 2010-04-19 17:04:56 +1200
 author: Timo
 title: 3 Awesomely Simple Tumblr Themes Designed by Jarred Bishop
-
-
-
 ----
 
 It's not often that you meet talented people with an eye for real simple designs. We were lucky to catch up with one of them last week. Local designer [Jarred Bishop](http://jarredbishop.info) developed three custom Tumblr themes and his "[Wordographic](http://www.tumblr.com/theme/8948)" theme was selected by Tumblr as one of the few templates available in their new [premium theme garden](http://www.tumblr.com/themes/premium). Jarred also told us that he's got other themes cooking so stay tuned for more excellent customization options (besides [your own domain name](https://iwantmyname.com)) for your blog or portfolio.

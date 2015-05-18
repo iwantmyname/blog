@@ -2,8 +2,6 @@ layout: post
 date: 2009-11-06 22:16:27 +1200
 author: Timo
 title: "Doppelgänger Double: Benikvrij & meinName start in Europe"
-
-
 ----
 
 It is with a huge amount of pride that we announce the launch of two new domain registrar sites:

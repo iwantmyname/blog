@@ -2,9 +2,6 @@ layout: post
 date: 2011-10-21 16:00:00 +1200
 author: Paul
 title: Being Good Neighbours
-
-
-
 ----
 
 ![event.jpg]({{ site.images_url }}/2011-10-21-event.jpg)

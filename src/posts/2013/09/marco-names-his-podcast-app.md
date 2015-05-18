@@ -2,8 +2,6 @@ layout: post
 date: 2013-09-26 11:18:48 +1200
 author: Chris
 title: Marco Names His Podcast App
-
-
 ----
 
 [Marco Arment](http://www.marco.org/2013/09/24/naming-overcast), creator of [Overcast.fm](https://overcast.fm/):

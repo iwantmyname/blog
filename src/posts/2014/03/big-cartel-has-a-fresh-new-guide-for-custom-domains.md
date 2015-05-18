@@ -2,7 +2,6 @@ layout: post
 date: 2014-03-28 10:36:45 +1200
 author: Chris
 title: Big Cartel has a fresh new guide to custom domains
-
 ----
 
 Here at iwantmyname, we get quite a few questions a day about setting up custom domains on various platforms. And that's quite understandable, because domain mapping is entirely foreign to most people (but is incredibly simple with our [one-click marketplace](https://iwantmyname.com/services)). 

@@ -2,8 +2,6 @@ layout: post
 date: 2011-10-26 14:08:41 +1200
 author: Timo
 title: Introducing Free Whois Address Masking To Protect Your Privacy
-
-
 ----
 
 Domain privacy has been a long-awaited feature at iWantMyName and we're happy to now give you an option to mask your home address in the public whois record without giving up ownership or transfer control. The service is free of charge and can be easily added to your domains from the [iWantMyName dashboard](https://iwantmyname.com/dashboard/domains).

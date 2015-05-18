@@ -3,7 +3,6 @@ date: 2014-06-05 09:21:24 +1200
 author: Chris
 title: Simple tips for picking out the perfect domain name
 header_image: 2014-06-05-circle.jpg
-
 ----
 
 <!-- excerpt -->

@@ -2,9 +2,6 @@ layout: post
 date: 2009-09-04 09:56:58 +1200
 author: Timo
 title: Domain Search Bookmarklet & More Tools For Domains
-
-
-
 ----
 
 It's often the little tools that make the services we love really useful. Therefore we've added another way to check domain availability at iWantMyName. With the domain search bookmarklet you can **select any word or text in a browser window and click on the bookmarklet to check whether the respective domain is available or not**.

@@ -1,10 +1,7 @@
 layout: post
 date: 2011-02-11 09:42:03 +1200
 author: Paul
-title: Ice Cream Icon Celebrates 75th 
-
-
-
+title: Ice Cream Icon Celebrates 75th
 ----
 
 ![van40.jpg]({{ site.images_url }}/2011-02-11-van40.jpg)

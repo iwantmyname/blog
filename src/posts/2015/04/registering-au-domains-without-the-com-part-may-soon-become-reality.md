@@ -3,7 +3,6 @@ date: 2015-04-22 15:43:14 -0700
 author: Timo
 title: Registering .au domains without the .com part may soon become reality
 header_image: 2015-04-21-no-com-dot-au.jpg
-
 ----
 
 <!-- excerpt -->

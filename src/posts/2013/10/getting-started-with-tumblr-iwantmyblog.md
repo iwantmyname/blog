@@ -2,8 +2,6 @@ layout: post
 date: 2013-10-16 09:55:27 +1200
 author: Chris
 title: Getting Started With Tumblr #iwantmyblog
-
-
 ----
 
 ![Tumblr Dashboard]({{ site.images_url }}/2013-10-16-Screen_Shot_2013-10-15_at_14.16.14.png)

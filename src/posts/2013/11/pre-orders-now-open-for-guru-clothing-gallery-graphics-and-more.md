@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-20 10:47:36 +1200
 author: Chris
 title: Pre-Orders Now Open For .GURU, .CLOTHING, .GALLERY .GRAPHICS And More
-
-
 ----
 
 ![bigstock-Museum-Visitors-47867966.jpg]({{ site.images_url }}/2013-11-20-bigstock-Museum-Visitors-47867966.jpg)

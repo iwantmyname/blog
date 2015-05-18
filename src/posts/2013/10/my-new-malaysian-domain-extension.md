@@ -2,8 +2,6 @@ layout: post
 date: 2013-10-03 05:35:06 +1200
 author: Chris
 title: .MY New Malaysian Domain Extension
-
-
 ----
 
 ![Malaysia]({{ site.images_url }}/2013-10-03-bigstock-KUALA-LUMPUR-MALAYSIA--AUGUS-42681250.jpg)

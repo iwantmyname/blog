@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-23 10:47:09 +1200
 author: Chris
 title: 10 Big Brands Using Domain Hacks For URL Shortening On Twitter
-
-
 ----
 
 ![StarWars Tweet]({{ site.images_url }}/2013-11-23-Screen_Shot_2013-11-22_at_14.46.31.png)

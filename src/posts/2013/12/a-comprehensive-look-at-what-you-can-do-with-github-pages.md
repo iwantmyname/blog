@@ -2,8 +2,6 @@ layout: post
 date: 2013-12-19 12:18:25 +1200
 author: Chris
 title: A Comprehensive Look At What You Can Do With GitHub Pages
-
-
 ----
 
 [From Eric Mill - konklone.com:](https://konklone.com/post/the-power-and-potential-of-github-pages)

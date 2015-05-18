@@ -2,9 +2,6 @@ layout: post
 date: 2013-06-06 15:00:00 +1200
 author: Paul
 title: Rails Girls Rally
-
-
-
 ----
 
 ![heroku-logo.jpg]({{ site.images_url }}/2013-06-06-heroku-logo.jpg)

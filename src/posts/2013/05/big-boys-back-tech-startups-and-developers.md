@@ -2,9 +2,6 @@ layout: post
 date: 2013-05-13 12:30:00 +1200
 author: Paul
 title: Big Boys Back Tech Startups And Developers
-
-
-
 ----
 
 ![swakl1.jpg]({{ site.images_url }}/2013-05-13-swakl1.jpg)

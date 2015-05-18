@@ -41,7 +41,6 @@ location ^~ /blog/ {
 ```
 
 An important side effect is that our blog pages are now secured under our primary SSL certificate again.
-
 ----
 
 Based on this experience and the following [recommendation from Moz’s Rand Fishkin](http://moz.com/community/q/moz-s-official-stance-on-subdomain-vs-subfolder-does-it-need-updating#reply_217479), we decided it would be better for our long-term SEO strategy to put our blog back on our primary domain:

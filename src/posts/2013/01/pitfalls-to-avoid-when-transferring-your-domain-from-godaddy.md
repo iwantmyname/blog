@@ -2,8 +2,6 @@ layout: post
 date: 2013-01-31 13:59:45 +1200
 author: Timo
 title: Pitfalls To Avoid When Transferring Your Domain From GoDaddy
-
-
 ----
 
 We get our fair share of [domain transfers](https://iwantmyname.com/domains/domain-transfer) from the world's largest registrar and while it is generally a smooth process, there are few things you should know before moving to [iwantmyname](https://iwantmyname.com) (or any other registrar):

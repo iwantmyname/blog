@@ -2,8 +2,6 @@ layout: post
 date: 2013-12-14 08:04:49 +1200
 author: Chris
 title: SEO And The New Domain Extensions
-
-
 ----
 <!-- excerpt -->
 

@@ -2,7 +2,6 @@ layout: post
 date: 2015-02-11 16:34:45 -0700
 author: Chris
 title: 4 tools for remembering your passwords... a year later
-
 ----
 
 <!-- excerpt -->

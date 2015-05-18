@@ -2,9 +2,6 @@ layout: post
 date: 2011-07-22 16:00:00 +1200
 author: Paul
 title: NASA Cloud Collaboration Launches
-
-
-
 ----
 
 ![shuttle70.jpg]({{ site.images_url }}/2011-07-22-shuttle70.jpg)

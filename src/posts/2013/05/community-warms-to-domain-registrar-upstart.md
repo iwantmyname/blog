@@ -2,9 +2,6 @@ layout: post
 date: 2013-05-29 11:00:00 +1200
 author: Paul
 title: Community Warms To Domain Registrar Upstart
-
-
-
 ----
 
 ![warm.jpg]({{ site.images_url }}/2013-05-29-warm.jpg)

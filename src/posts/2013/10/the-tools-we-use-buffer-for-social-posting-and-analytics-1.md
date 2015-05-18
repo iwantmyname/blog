@@ -2,8 +2,6 @@ layout: post
 date: 2013-10-26 08:44:18 +1200
 author: Chris
 title: "The Tools We Use: Buffer For Social Posting And Analytics"
-
-
 ----
 
 ![logo-dark.jpg]({{ site.images_url }}/2013-10-26-logo-dark.jpg)

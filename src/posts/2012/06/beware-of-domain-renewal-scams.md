@@ -2,7 +2,6 @@ layout: post
 date: 2012-06-26 15:59:13 +1200
 author: Timo
 title: Beware Of Domain Name Renewal Scams
-
 ----
 
 Different [types of domain name scams](http://en.wikipedia.org/wiki/Domain_name_scams) have been around for many years, yet many domain owners are still unaware of the issue. The scams range from [threatening to register available versions of your name or brand](http://www.marco.org/2010/09/23/the-asian-domain-name-extortion-scam) to phishing emails to get your username and password. One of the most common scams is the attempt of tricking customers into transferring domains to another registrar who charges an exorbitant amount for domain renewals. Quite often these attempts are made by post to make it look more legit.

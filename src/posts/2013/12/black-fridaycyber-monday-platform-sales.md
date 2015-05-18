@@ -2,8 +2,6 @@ layout: post
 date: 2013-12-02 06:07:33 +1200
 author: Chris
 title: Black Friday/Cyber Monday Platform Sales - Updated
-
-
 ----
 <!-- excerpt -->
 

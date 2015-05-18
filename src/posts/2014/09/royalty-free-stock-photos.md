@@ -2,7 +2,6 @@ layout: post
 date: 2014-09-06 06:50:01 +1200
 author: Chris
 title: The one-stop-shop for royalty free stock photos
-
 ----
 
 ![Thank You sign]({{ site.images_url }}/2014-09-06-thank-you-sign.jpg)

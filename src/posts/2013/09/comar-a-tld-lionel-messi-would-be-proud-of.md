@@ -2,8 +2,6 @@ layout: post
 date: 2013-09-21 09:04:49 +1200
 author: Chris
 title: ".COM.AR: A TLD Lionel Messi Would Be Proud Of"
-
-
 ----
 
 ![Argentina]({{ site.images_url }}/2013-09-21-9570736163_5260fe59b0_z.jpg)

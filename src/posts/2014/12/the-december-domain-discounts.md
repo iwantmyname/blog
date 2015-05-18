@@ -3,7 +3,6 @@ date: 2014-12-05 09:23:24 +1200
 author: Chris
 title: "The December domain discounts—a holiday treat"
 header_image: 2014-12-05-xmas.jpg
-
 ----
 
 The final 2014 domain discounts are up, and this time we have 19 domain extensions set for sale. Many of the discounts are held over from last month, but we do have a holiday duo on the list. Both .christmas and .gift are on sale for $15.50/yr (from $49), so if you're looking to start a last minute holiday gift guide, you picked the right time to do it.

@@ -2,7 +2,6 @@ layout: post
 date: 2014-03-13 08:48:35 +1200
 author: Chris
 title: "The web at 25: Our favorite websites"
-
 ----
 
 <!-- excerpt -->

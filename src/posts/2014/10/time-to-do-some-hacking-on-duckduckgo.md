@@ -2,7 +2,6 @@ layout: post
 date: 2014-10-30 08:42:06 +1200
 author: Chris
 title: Time to do some hacking on DuckDuckGo
-
 ----
 
 <!-- excerpt -->

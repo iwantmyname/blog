@@ -2,8 +2,6 @@ layout: post
 date: 2013-12-10 08:27:57 +1200
 author: Chris
 title: An Interview With Ben Crawford, CEO of CentralNic
-
-
 ----
 
 ![Screen Shot 2013-12-09 at 12.27.38.png]({{ site.images_url }}/2013-12-10-Screen_Shot_2013-12-09_at_12.27.38.png)

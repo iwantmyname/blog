@@ -2,9 +2,6 @@ layout: post
 date: 2011-01-26 13:11:40 +1200
 author: Paul
 title: Easily Domain Customise Five New Services
-
-
-
 ----
 
 Now you can add even more cool apps and services to your domains from the iWantMyName dashboard. We've now added a whole bunch of new services to our [domain application directory](https://iwantmyname.co.nz/services) enabling you to **easily apply DNS settings to your domain in one single click:**

@@ -2,9 +2,6 @@ layout: post
 date: 2010-07-20 14:55:22 +1200
 author: Paul
 title: .CO Launches
-
-
-
 ----
 
 You can now register

@@ -2,9 +2,6 @@ layout: post
 date: 2011-02-26 11:27:50 +1200
 author: Paul
 title: "Startups - Let's Get Cracking!"
-
-
-
 ----
 
 ![sw65.jpg]({{ site.images_url }}/2011-02-26-sw65.jpg)

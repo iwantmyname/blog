@@ -2,9 +2,6 @@ layout: post
 date: 2009-05-04 17:11:41 +1200
 author: Timo
 title: Brandtastic Domain Extensions for the Price of a .COM
-
-
-
 ----
 
 As of today through May 31st 2009, all new registrations (including [iPhone domain orders](https://iwantmyname.com/iphone)) for the following [international domain extensions](https://iwantmyname.com/domains) will be priced at **$US 14.90** for the first year:

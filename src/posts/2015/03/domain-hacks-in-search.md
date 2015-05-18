@@ -5,7 +5,6 @@ title: New feature alert - domain hacks in search
 excerpt: no
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
-
 ----
 
 ![work trip]({{ site.images_url }}/2015-03-05-domain-hack.png)

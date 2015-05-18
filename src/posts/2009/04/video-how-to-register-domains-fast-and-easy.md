@@ -2,9 +2,6 @@ layout: post
 date: 2009-04-06 06:59:20 +1200
 author: Timo
 title: "Video: How to register domains fast and easy"
-
-
-
 ----
 
 Offering an **easy domain registration service** was one of the main reasons why we've built iWantMyName. How many times have you been to your current domain provider and just wanted to buy a domain name but were presented with tons of different options, special offers or hosting plans that you really do not need at all? Maybe you even gave up completely because you didn't know what to do?

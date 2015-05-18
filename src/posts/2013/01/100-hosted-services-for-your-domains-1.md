@@ -2,8 +2,6 @@ layout: post
 date: 2013-01-30 14:57:30 +1200
 author: Timo
 title: 100+ Hosted Services For Your Domains
-
-
 ----
 
 Since launching iwantmyname, our mission has been to help you find and set up the best hosted services through our unique [app marketplace for domains](https://iwantmyname.com/services). The number of listings is constantly growing and now features more than 100 applications with easy 1-click DNS setup.

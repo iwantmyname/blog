@@ -2,8 +2,6 @@ layout: post
 date: 2013-03-09 19:50:22 +1200
 author: Owen
 title: Getting a new VPS? Do these steps first.
-
-
 ----
 
 This week, we found a [great post by Bryan Kennedy](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) on the things he spends the first five minutes doing on any new Linux server. We won't copy the content, but in essence it's a series of applications and tasks to run that allow you to be a safer system administrator.

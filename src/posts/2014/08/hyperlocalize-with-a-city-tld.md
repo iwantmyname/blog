@@ -3,7 +3,6 @@ date: 2014-08-22 09:49:16 +1200
 author: Chris
 title: "Hyperlocalize your domain name with a city TLD"
 header_image: 2014-08-22-nyc.jpg
-
 ----
 
 Amongst the craziness that are the new generic top-level domains (gTLDs), cities seem to be a bastion of pragmatism. They just make sense—if your company or brand is localized to a city, a city TLD gives your site an easily remembered identifier in a namespace that will have much less competition.

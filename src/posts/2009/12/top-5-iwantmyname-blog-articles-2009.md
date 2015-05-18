@@ -2,8 +2,6 @@ layout: post
 date: 2009-12-19 08:26:11 +1200
 author: Timo
 title: Top 5 iWantMyName Blog Articles 2009
-
-
 ----
 
 Lately we've been hard at work improving our services and adding new domain extensions to iWantMyName. The most important task was to implement a new version of the underlying platform software in order to lay the foundations for more innovations in 2010.

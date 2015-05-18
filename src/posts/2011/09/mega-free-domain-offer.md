@@ -1,10 +1,7 @@
 layout: post
 date: 2011-09-10 11:00:00 +1200
 author: Paul
-title: Startup Weekend Mega Free Domain Offer 
-
-
-
+title: Startup Weekend Mega Free Domain Offer
 ----
 
 ![swmega.jpg]({{ site.images_url }}/2011-09-10-swmega.jpg)

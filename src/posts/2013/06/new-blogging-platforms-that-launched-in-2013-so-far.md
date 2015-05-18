@@ -2,8 +2,6 @@ layout: post
 date: 2013-06-27 18:04:23 +1200
 author: Owen
 title: 4 new blogging platforms launched in 2013
-
-
 ----
 
 Phew, we're almost halfway through 2013 already and there's already been a bunch of crazy stuff happening in the blogging world. Not only has [Yahoo! purchased Tumblr](https://iwantmyname.com/blog/2013/05/worried-about-your-tumblr-blog-after-the-acquisition-by-yahoo.html), a bunch of new competitors have entered the ring. 

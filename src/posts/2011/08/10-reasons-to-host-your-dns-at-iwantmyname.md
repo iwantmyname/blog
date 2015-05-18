@@ -2,8 +2,6 @@ layout: post
 date: 2011-08-08 14:10:09 +1200
 author: Timo
 title: 10 Good Reasons To Host Your DNS With iWantMyName
-
-
 ----
 
 Now that you can [manage your DNS at iWantMyName](https://iwantmyname.com/dns), here are some use cases for this new feature.

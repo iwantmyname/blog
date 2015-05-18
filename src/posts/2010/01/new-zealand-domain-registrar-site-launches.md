@@ -2,9 +2,6 @@ layout: post
 date: 2010-01-15 11:45:54 +1200
 author: Timo
 title: Kiwi iWantMyName Domain Registrar Site Launches
-
-
-
 ----
 
 With the successful launch of iWantMyName as a [global domain registrar](https://iwantmyname.com) site and then into [Germany](http://meinname.com) and the [Netherlands](http://benikvrij.nl) last year, we felt it was now time to turn our attention to home. We have had so many requests from our friends to establish in the New Zealand market, because of our unique service offering, friendly user interface and great customer support. Finally we had to say yes and we now have a dedicated Kiwi site at [https://iwantmyname.co.nz](https://iwantmyname.co.nz) offering fixed prices in New Zealand dollars.

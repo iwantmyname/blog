@@ -3,7 +3,6 @@ date: 2014-05-02 10:58:09 +1200
 author: Chris
 title: The updated big list of static website generators for your site, blog or wiki
 header_image: 2014-05-02-static.jpg
-
 ----
 
 <!-- excerpt -->

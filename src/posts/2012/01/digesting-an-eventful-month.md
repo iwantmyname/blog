@@ -2,9 +2,6 @@ layout: post
 date: 2012-01-31 14:00:00 +1200
 author: Paul
 title: Digesting An Eventful Month
-
-
-
 ----
 
 February is shaping up as an inspiring month on the start-up, technology and innovation event calendar throughout New Zealand, illustrating that our tech scene is alive and well and continuing to grow. Here's a quick summary of what's on the menu.

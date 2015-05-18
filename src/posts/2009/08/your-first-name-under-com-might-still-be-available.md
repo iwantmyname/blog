@@ -2,9 +2,6 @@ layout: post
 date: 2009-08-14 09:00:00 +1200
 author: Timo
 title: Your First Name Under .COM Might Still Be Available (Upside Down)
-
-
-
 ----
 
 Now you can not only [publish status updates for Twitter or Facebook in a cool way](http://mashable.com/2009/08/10/flipmytext/) but also register very unique domain names. So why not astonish your friends with an upside down domain of your first name? Our [fun domain name generator FlipMyName](https://iwantmyname.com/domain-tools/name-generator/turn-words-upside-down "Domain Name Generator Tool FlipMyName") makes this possible. Just enter your name and you'll be presented with a flipped version.

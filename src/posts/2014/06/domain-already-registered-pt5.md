@@ -3,7 +3,6 @@ date: 2014-06-12 08:08:46 +1200
 author: Melle
 title: Someone has registered a domain with my trademark. What do I do?
 header_image: 2014-06-12-cheap-sale.jpg
-
 ----
 
 <!-- excerpt -->

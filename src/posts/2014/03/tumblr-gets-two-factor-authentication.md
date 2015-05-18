@@ -2,7 +2,6 @@ layout: post
 date: 2014-03-25 14:35:14 +1200
 author: Chris
 title: Tumblr gets two-factor authentication
-
 ----
 
 <!-- excerpt -->

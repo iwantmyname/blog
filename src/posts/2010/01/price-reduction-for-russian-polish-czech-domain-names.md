@@ -2,9 +2,6 @@ layout: post
 date: 2010-01-14 11:29:43 +1200
 author: Timo
 title: Massive Price Reduction For Russian, Polish & Czech Domain Names
-
-
-
 ----
 
 What better way to begin the new year 2010 than by receiving notice about price reductions from several registries? And since we always strive to pass on better prices to our customers, we are happy to announce the following new prices for the Russian, Polish and Czech domain extensions:

@@ -2,8 +2,6 @@ layout: post
 date: 2009-10-31 18:57:32 +1200
 author: Timo
 title: 2010 Launch of Internationalized Country Code Domain Extensions Announced
-
-
 ----
 
 ICANN, the internet's governing body, yesterday [officially announced](http://www.icann.org/en/announcements/announcement-30oct09-en.htm) the introduction of Internationalized Domain Name (IDN) extensions for nations and territories. This means that a full web address including the domain suffix can contain non-Latin characters such as Chinese, Arabic, Hebrew or Greek in the future.

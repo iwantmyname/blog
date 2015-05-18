@@ -2,8 +2,6 @@ layout: post
 date: 2011-09-19 15:20:58 +1200
 author: Timo
 title: .LV Domain Extension Now Available
-
-
 ----
 
 ![Latvia-Flag-256.png]({{ site.images_url }}/2011-09-19-Latvia-Flag-128.png)

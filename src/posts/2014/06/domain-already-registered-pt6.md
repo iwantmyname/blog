@@ -3,7 +3,6 @@ date: 2014-06-13 08:42:32 +1200
 author: Melle
 title: How do I find out if the domain I want becomes available?
 header_image: 2014-06-13-briefcase.jpg
-
 ----
 
 <!-- excerpt -->

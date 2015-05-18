@@ -2,8 +2,6 @@ layout: post
 date: 2013-05-29 15:14:30 +1200
 author: Timo
 title: Protect Your Domains Using Two-Step Authentication
-
-
 ----
 
 We are excited to now offer two-step authentication for all iwantmyname accounts! This adds an extra layer of login protection for your account to prevent third parties from accessing domains and making unauthorized changes to settings such as nameservers or DNS records.

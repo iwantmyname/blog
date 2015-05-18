@@ -2,8 +2,6 @@ layout: post
 date: 2011-12-08 08:53:33 +1200
 author: Timo
 title: The Domain Name Year 2011 In Review
-
-
 ----
 
 With the end of the year rapidly approaching, it's timely to now look back on the events that defined the domain name industry in 2011. What a year it has been, notably with the approval of new generic top-level domains (gTLDs). The long anticipated new domains will bring a flood of choices for naming your home on the web and an increasing need for next generation domain management tools and practices.

@@ -2,9 +2,6 @@ layout: post
 date: 2013-03-30 16:30:00 +1200
 author: Paul
 title: Easter Domain Name Bargains
-
-
-
 ----
 
 ![easter]({{ site.images_url }}/2013-03-30.jpg)

@@ -2,8 +2,6 @@ layout: post
 date: 2013-02-15 08:43:26 +1200
 author: Timo
 title: "Need To Register Domains Requiring A Postal Address In Europe? We've Got You Covered!"
-
-
 ----
 
 ![europe-flag.jpg]({{ site.images_url }}/2013-02-15-europe-flag.jpg)

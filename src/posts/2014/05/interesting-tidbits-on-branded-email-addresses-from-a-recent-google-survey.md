@@ -2,7 +2,6 @@ layout: post
 date: 2014-05-16 06:48:52 +1200
 author: Chris
 title: Interesting tidbits on branded email addresses from a recent Google survey
-
 ----
 
 <!-- excerpt -->

@@ -2,8 +2,6 @@ layout: post
 date: 2013-11-26 10:49:16 +1200
 author: Chris
 title: Looking For Holiday Gift Ideas? Big Cartel Has You Covered
-
-
 ----
 
 ![Lord_Lady_Nerd_EDIT_4.jpg]({{ site.images_url }}/2013-11-26-Lord_Lady_Nerd_EDIT_4.jpg)

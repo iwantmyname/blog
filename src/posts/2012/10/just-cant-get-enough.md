@@ -2,9 +2,6 @@ layout: post
 date: 2012-10-30 06:23:12 +1200
 author: Paul
 title: "Just Can't Get Enough"
-
-
-
 ----
 
 Frequently described as one of the most influential bands of their era, British synth-pop pioneers Depeche Mode are planning a world tour plus an album release in 2013. They are amongst many groups managing their online brand presence using various smart domain customized [hosted services for musicians](https://iwantmyname.com/services/music/).

@@ -3,7 +3,6 @@ date: 2014-10-14 05:18:42 +1200
 author: Timo
 title: Why domain extensions still matter
 header_image: 2014-10-14-country-focus.jpg
-
 ----
 
 iwantmyname chief writer Chris asked an interesting question the other day: [“Do domain extensions really matter anymore?”](https://iwantmyname.com/blog/2014/10/do-domain-extensions-really-matter-anymore.html). This is something I’ve also been thinking about, and here are three areas I believe they still do.
