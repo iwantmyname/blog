@@ -62,33 +62,39 @@
 &lt;h3 id=&quot;section-1&quot;&gt;1. Start your Squarespace site&lt;/h3&gt;
 
 &lt;p&gt;Get started with Squarespace by clicking &lt;strong&gt;Get Started&lt;/strong&gt; on the &lt;a href=&quot;http://squarespace.com&quot;&gt;Squarespace homepage&lt;/a&gt;, choosing a template, then clicking the &lt;strong&gt;Start With This Design&lt;/strong&gt; button. There are a couple quick questions you can answer after that, or you can skip them for now. &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Squarespace home](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-home.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-home.jpg&quot; alt=&quot;Squarespace home&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-2&quot;&gt;2. Go to Settings &gt; Domains &gt; Connect Third-Party Domain&lt;/h3&gt;
 
 &lt;p&gt;From Squarespace&amp;#39;s side navigation, click &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Domains&lt;/strong&gt; &amp;gt; &lt;strong&gt;Connect a Third-Party Domain&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Settings](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-settings.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-settings.jpg&quot; alt=&quot;Settings&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-3&quot;&gt;3. Enter your domain name&lt;/h3&gt;
 
 &lt;p&gt;Enter your domain name in the Domain Name field provided.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Add domain](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-domain-iwantmyblog.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-domain-iwantmyblog.jpg&quot; alt=&quot;Add domain&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-4&quot;&gt;4. Select iwantmyname from the Domain Provider list&lt;/h3&gt;
 
 &lt;p&gt;Select &lt;strong&gt;iwantmyname&lt;/strong&gt; from the Domain Provider dropdown list. Click &lt;strong&gt;Connect Domain&lt;/strong&gt;.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Dropdown iwantmyname](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-select-iwantmyname.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-select-iwantmyname.jpg&quot; alt=&quot;Dropdown iwantmyname&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-5&quot;&gt;5. Click okay&lt;/h3&gt;
 
 &lt;p&gt;Squarespace is now linking your domain. Click &lt;strong&gt;okay&lt;/strong&gt;. &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Click okay](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-in-progress.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-in-progress.jpg&quot; alt=&quot;Click okay&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-6&quot;&gt;6. Copy your verification code (it&#39;s right under Host)&lt;/h3&gt;
 
 &lt;p&gt;Copy that long string of letters and numbers listed first under the Host column (it&amp;#39;ll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you&amp;#39;ll add in the iwantmyname dashboard. &lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Copy string](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-host.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-host.jpg&quot; alt=&quot;Copy string&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-7&quot;&gt;7. Add Squarespace to your domain in iwantmyname&lt;/h3&gt;
 
 &lt;p&gt;Open a new window and log into your iwantmyname account, then head to the &lt;a href=&quot;https://iwantmyname.com/dashboard/apps/setup/Squarespace/&quot;&gt;Squarespace app setup page&lt;/a&gt;. Click Add Squarespace. &lt;/p&gt;
@@ -96,13 +102,15 @@
 &lt;h3 id=&quot;section-8&quot;&gt;8. Paste your verification code&lt;/h3&gt;
 
 &lt;p&gt;You&amp;#39;ve already signed up for squarespace, so now add the verification code to the &amp;#39;Unique verification code&amp;#39; input. Then click &lt;strong&gt;Install Squarespace&lt;/strong&gt;.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Unique Code](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-unique-ver.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-unique-ver.jpg&quot; alt=&quot;Unique Code&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-9&quot;&gt;9. Back to Squarespace, hit refresh&lt;/h3&gt;
 
 &lt;p&gt;Back on your Squarespace window, if you click &lt;strong&gt;Refresh&lt;/strong&gt;, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don&amp;#39;t be alarmed if things don&amp;#39;t look correct right away. Just jump to the next step.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;![Correct](https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-correct.jpg)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://iwantmyname.com/blog/assets/images/content/2015-05-11-squarespace-correct.jpg&quot; alt=&quot;Correct&quot;&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;section-10&quot;&gt;10. You&#39;re all done!&lt;/h3&gt;
 
 &lt;p&gt;You&amp;#39;re all done! Have fun building your Squarespace site!&lt;/p&gt;
