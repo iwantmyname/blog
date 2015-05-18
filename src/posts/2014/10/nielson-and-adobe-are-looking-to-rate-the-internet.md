@@ -17,5 +17,5 @@ This is just a reminder that internet advertising is still in its infancy. It'll
 
 ***
 
-{% include youtube.html id="DE27AwkGczo" %}
+{{ template "youtube" "DE27AwkGczo" }}
 

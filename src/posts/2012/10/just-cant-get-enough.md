@@ -32,4 +32,4 @@ Got a musical or creative event launch planned? Grab yourself a cool domain and 
 
 And here's the full clip for all fellow music lovers:
 
-{% include youtube.html id="NihMVuspKQw" %}
+{{ template "youtube" "NihMVuspKQw" }}

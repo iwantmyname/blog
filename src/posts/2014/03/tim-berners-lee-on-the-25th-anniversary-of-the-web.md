@@ -6,7 +6,7 @@ title: Tim Berners-Lee on the 25th anniversary of the web
 
 <!-- excerpt -->
 
-{% include vimeo.html id="88343326" %}
+{{ template "vimeo" "88343326" }}
 
 <!-- /excerpt -->
 

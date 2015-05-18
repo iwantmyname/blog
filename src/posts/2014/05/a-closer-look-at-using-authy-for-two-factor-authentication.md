@@ -9,7 +9,7 @@ title: A closer look at using Authy for two-factor authentication
 
 Yesterday I [went over](https://iwantmyname.com/blog/2014/04/a-practical-look-at-using-iwantmynames-two-factor-authentication.html) using a setting up two-factor authentication, so now lets do a quick dive into Authy itself. Specifically about what it is, what platforms you can use it on and how the Authy setup works. 
 
-{% include vimeo.html id="71272779" %}
+{{ template "vimeo" "71272779" }}
 
 <!-- /excerpt -->
 

@@ -34,7 +34,7 @@ As far as customizability goes, [Squarespace](http://www.squarespace.com) is one
 
 Setting up shop for business is a premium Squarespace offering, and costs $24.99/mo billed annually or $30 month-to-month. But with that, you get no transaction fees (normal [Stripe](https://stripe.com/us/pricing) fees still apply), unlimited products, pages and storage, inventory tracking, page analytics and tax, shipping and coupon control.
 
-{% include vimeo.html id="45734056" %}
+{{ template "vimeo" "45734056" }}
 
 ###Tictail
 
@@ -42,7 +42,7 @@ While [Tictail](https://tictail.com) may not have the full site capabilities of 
 
 From a pricing standpoint, Tictail is rather interesting. For many users, starting up a store and getting started with Paypal is free. From Tictail, "That means no monthly fees, zero percentage cut on transactions, no product caps like limited number of products or bandwidth and no additional checkout fees (normal PayPal and Klarna fees still apply)." Where money does come into play is with the advanced features available in their "app store." [Prices vary per item](http://help.tictail.com/customer/portal/articles/1324711-what-do-the-apps-cost-), and include features like the use of [custom domains](https://iwantmyname.com/services/ecommerce-hosting/tictail-store-custom-domain), Zopim live chat, discount services and a nice list builder for community building.
 
-{% include vimeo.html id="51595653" %}
+{{ template "vimeo" "51595653" }}
 
 ###Shopify
 
@@ -76,7 +76,7 @@ Like Big Cartel and a few of the other platforms on the list, [Goodsie](http://g
 
 Goodsie plans start at $30/mo and have no transaction fees, unlimited products and hosting space and access to just about any payment system out there via Braintree, Paypal, Stripe, Google and Authorize.net. Premium sites with advanced shipping logistics and email marketing are $75/mo.
 
-{% include vimeo.html id="73781961" %}
+{{ template "vimeo" "73781961" }}
 
 ###Jimdo
 
@@ -108,7 +108,7 @@ Plans run from $9.99/mo for 25 products to $349.99/mo for 20,000 products, email
 
 Instead of giving you the built-in tools needed to set up your own store, [Virb](http://virb.com) teamed up with [Big Cartel](http://help.virb.com/customer/portal/articles/357140-integrating-big-cartel-with-virb) and [Etsy](http://help.virb.com/customer/portal/articles/1031401-creating-an-etsy-store-page-on-virb) to allow for easy store/product imports. And given Virb's track record of cool updates and add-ons, we'd recommend giving them a look. 
 
-{% include vimeo.html id="49684263" %}
+{{ template "vimeo" "49684263" }}
 
 ***
 

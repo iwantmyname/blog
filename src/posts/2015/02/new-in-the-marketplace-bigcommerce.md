@@ -25,7 +25,7 @@ Here's what the web is saying about Bigcommerce:
 
 “Bigcommerce is the big equalizer,” Case said of the company. “Now every entrepreneur can have Amazon-like e-commerce capabilities, in hours – not months or years.”"
 
-{% include youtube.html id="kHffh8lvhww" %}
+{{ template "youtube" "kHffh8lvhww" }}
 
 If you're serious about creating a world class e-commerce experience, [Bigcommerce](https://www.bigcommerce.com/v18/) is a great place to start. At the time of writing, plans start at $29.95/mo ($26.96/mo if paid annually), and there's a 15-day free trial to see if the platform is right for you. 
 

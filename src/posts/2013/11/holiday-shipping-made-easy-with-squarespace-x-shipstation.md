@@ -14,6 +14,6 @@ categories:
 
 If you're looking to set up an online shop for the holidays, definitely take a look at [Squarespace with ShipStation](http://www.shipstation.com/squarespace_pricing/?utm_source=SQSP&utm_medium=blog&utm_campaign=announce_blog&ref=SQSP). [Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) is a great platform for creating professional sites with no development or design knowledge, and now the shipping logistics are easier than ever. 
 
-{% include youtube.html id="RNK-39lCQhI" %}
+{{ template "youtube" "RNK-39lCQhI" }}
 
 <!-- more -->

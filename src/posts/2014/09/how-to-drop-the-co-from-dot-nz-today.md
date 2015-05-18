@@ -12,7 +12,7 @@ search:
 
 The shorter .nz domains have arrived! Now you can purchase New Zealand’s country-code domain extension without the additional ‘.co’, ‘.net’ or ‘.org’. This naming convention is already common in most countries, and we’re pleased to now be able to offer this option to iwantmyname customers.
 
-{% include vimeo.html id="101478574" %}
+{{ template "vimeo" "101478574" }}
 
 <!-- /excerpt -->
 

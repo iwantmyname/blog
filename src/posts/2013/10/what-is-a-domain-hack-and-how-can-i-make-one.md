@@ -12,7 +12,7 @@ categories:
 
 At some point in the late 90s/early 2000s, hacking got a really bad rap, but to most of the development community, there's nothing malicious about it. Hacking just means using using a bunch of readily available tools to make something cool—like modifying code to make things faster or using pre-existing platforms to build new website functions. In a way, modern hacking is just the newer, nerdier version of tuning cars to get more horsepower or training dogs to get drinks out of the fridge. 
 
-{% include youtube.html id="6W02C75-adA" %}
+{{ template "youtube" "6W02C75-adA" }}
 
 Ok, that last one was a stretch.
 

@@ -15,6 +15,6 @@ categories:
 
 It's best to see it in action so watch the demo video below and see how easy Droplr works with Twitter or email:
 
-{% include youtube.html id="Qu_BP1RRN7w" %}
+{{ template "youtube" "Qu_BP1RRN7w" }}
 
 The service is currently in private beta but we could score some invites for you which will be raffled among all commenters to this blog post (don't forget to leave your email address).

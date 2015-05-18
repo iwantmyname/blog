@@ -10,4 +10,4 @@ categories:
 
 Good introductory video on [new generic top-level domains](https://iwantmyname.com/blog/2011/06/new-top-level-domain-extensions-are-coming.html) (gTLDs):
 
-{% include youtube.html id="Gm3m3UKYsC4" %}
+{{ template "youtube" "Gm3m3UKYsC4" }}

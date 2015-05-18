@@ -25,6 +25,6 @@ Back in the dark ages there was a giant server farm called Geocities that allowe
 
 [Zoho Sites](http://www.zoho.com/sites/) are heavily promoting the fact that their site builder provides instant optimization for mobile users and integrates with existing (and future) Zoho business tools. This will be especially interesting for small businesses looking to capture, monetize and track the fast growing mobile market. The easy drag and drop format will also interest micro-business users who are generally time poor and want to get up and running quickly. At $39 for a whole year, the paid plan looks very attractively priced and Zoho scores extra points for excluding ads from its free version as well.
 
-{% include youtube.html id="Nj4qBd6vOpk" %}
+{{ template "youtube" "Nj4qBd6vOpk" }}
 
 Adding Zoho Sites to your domain name from the iWantMyName dashboard is really easy and requires zero technical knowledge. Purchase your own web address and [get started with your website today](https://iwantmyname.com/services/website-builder/register-domain-zoho-sites)!

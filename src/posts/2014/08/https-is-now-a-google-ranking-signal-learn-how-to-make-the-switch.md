@@ -34,7 +34,7 @@ We also have a number of [preferred SSL certificate providers](https://iwantmyna
 
 [CloudFlare](http://blog.cloudflare.com/google-now-factoring-https-support-into-ranking-cloudflare-on-track-to-make-it-free-and-easy), the popular content delivery network and distributed domain name server, is "on track to roll out SSL for all CloudFlare customers by mid-October (paid customers are already supported). When (they) do, the number of sites that support HTTPS on the Internet will more than double. That they'll also rank a bit higher is pretty cool too." So if you're currently using CloudFlare for your website, you don't need to do anything. If not, here's the 90-second pitch, in video form:
 
-{% include vimeo.html id="14700285" %}
+{{ template "vimeo" "14700285" }}
 
 ###Need any help?
 

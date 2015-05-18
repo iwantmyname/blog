@@ -24,4 +24,4 @@ But there are so many intangibles that go into creating a great office culture, 
 
 And one of my all-time favorites, from Ben Chestnut of MailChimp:
 
-{% include youtube.html id="bwR36YJ3S68" %}
+{{ template "youtube" "bwR36YJ3S68" }}

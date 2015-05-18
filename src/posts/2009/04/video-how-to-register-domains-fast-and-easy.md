@@ -16,4 +16,4 @@ Offering an **easy domain registration service** was one of the main reasons why
 
 We are focussed on an easy domain registration process **without all these hassles**. This process starts on our home page where you will find only a search box and a few links (which completely disappear when you're logged in). The streamlined process continues with a search result page that brings you directly to the shopping cart without offering you unwanted additional products and ends with a simple confirmation page to finish your order. It's 3 steps in total and only takes 30 seconds as you can see in the following video:
 
-{% include youtube.html id="dTf9josVnNY" %}
+{{ template "youtube" "dTf9josVnNY" }}

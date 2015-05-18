@@ -12,7 +12,7 @@ From [The Weebly Blog](http://blog.weebly.com/2/post/2013/11/the-new-weebly-ecom
 
 > As we learned about all the cool things you're selling online — from hand-crafted leather bags, to environmentally friendly pet toys, to a mold for making cocktail friendly ice cubes, and even caffeinated hot sauce, we were super inspired. We took your feedback and requests into great consideration and made it our goal to provide you with everything you need to create a high quality online store. The result? Our new Weebly eCommerce!
 
-{% include youtube.html id="GnqEB0XxAbM" %}
+{{ template "youtube" "GnqEB0XxAbM" }}
 
 <!-- excerpt -->
 

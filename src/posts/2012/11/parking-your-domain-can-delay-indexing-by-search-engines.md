@@ -10,7 +10,7 @@ categories:
 
 Google's [Matt Cutts](http://www.mattcutts.com/blog/) explains why you shouldn't park your domain right until the launch of your website:
 
-{% include youtube.html id="eF8i6rKojXQ" %}
+{{ template "youtube" "eF8i6rKojXQ" }}
 
 Some more tips from us:
 

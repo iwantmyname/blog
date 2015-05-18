@@ -11,6 +11,6 @@ categories:
 
 We've just finished re-designing some parts of the iWantMyName dashboard, making it even easier for you to set up domains. This new video shows you how to add Tumblr to a domain name at iWantMyName:
 
-{% include youtube.html id="PhdSAusvVS4" %}
+{{ template "youtube" "PhdSAusvVS4" }}
 
 More services and applications to use with your domains can be found in the [iWantMyName marketplace](https://iwantmyname.com/services/featured).

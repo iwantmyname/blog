@@ -12,7 +12,7 @@ Without doing any sort of in-depth usability study, it's easy to see why domains
 
 <!-- /excerpt -->
 
-{% include youtube.html id="5FmLnNDw23Y" %}
+{{ template "youtube" "5FmLnNDw23Y" }}
 
 Well, just recently, Google launched its first Japanese IDN, .みんな (translated to "everyone"), and it's currently the 27th most popular gTLD on [ntldstats.com](http://ntldstats.com/). And soon, .コム will be coming, ironically giving Japanese speakers a transliteration of the web standard—.COM.
 

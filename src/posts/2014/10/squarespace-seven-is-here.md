@@ -7,7 +7,7 @@ title: Squarespace 7 is here, should you be excited?
 
 <!-- excerpt -->
 
-{% include youtube.html id="9IDeKXQuiik" %}
+{{ template "youtube" "9IDeKXQuiik" }}
 
 As a user of [Squarespace](https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url) for a number of years now for personal sites, it's a pretty exciting day when a major update is released. And today, we have Squarespace 7.  From the [Squarespace Blog](https://blog.squarespace.com/blog/introducing-squarespace-7):
 

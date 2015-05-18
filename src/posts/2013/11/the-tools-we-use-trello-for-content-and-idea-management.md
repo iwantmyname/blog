@@ -16,7 +16,7 @@ The first thing that becomes strained when you work for a company that promotes 
 
 And one of the best examples of these tools is [Trello](https://trello.com), "a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process."
 
-{% include vimeo.html id="29183832" %}
+{{ template "vimeo" "29183832" }}
 
 For iwantmyname, we find Trello to be especially useful for organizing our blog, and it's all done with only four lists: *Ideas*, *Researching*, *Editing*, *Publish*. 
 

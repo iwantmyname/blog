@@ -6,7 +6,7 @@ title: .green is your new favorite color
 
 <!-- excerpt -->
 
-{% include youtube.html id="hpiIWMWWVco" %}
+{{ template "youtube" "hpiIWMWWVco" }}
 
 As far as colors go, green is a loaded word. It stands for sustainability, political movements, and money. Kermit the Frog feels green. Sick people look a little green. Green is everywhere, and now your favorite color has an online home—[.green](https://iwantmyname.com/domains/dot-green). 
 

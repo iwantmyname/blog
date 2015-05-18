@@ -16,7 +16,7 @@ Here are our domain industry highlights for you:
 
 Internet regulatory body [ICANN](http://icann.org), concluded a lengthy history of internal debate and negotiation with multiple stakeholders that began with its formation in 1998. The organization unleashed approval to allow anybody to apply for a top-level domain. The historic move opens the doors to specifically branded domains, such as .ibm or .bmw, as well as new domains aimed at more general verticals, such as .hotel or .sport. There are also moves afoot to create domain brands for geographic regions, such as [.berlin](http://dotberlin.org/) and [.nyc](http://dotnyc.net/). The application window begins January 2012, but industry observers predict that it may be 2013 before the first new domains roll off the production line. It is anticipated that the new offerings will encompass internationalised domain name (IDN) facilities, incorporating non-Latin scripts from day one.
 
-{% include youtube.html id="vTvmhk1Fqns" %}
+{{ template "youtube" "vTvmhk1Fqns" }}
 
 **2. Rising Popularity of Internationalized Country Domain Extensions**
 

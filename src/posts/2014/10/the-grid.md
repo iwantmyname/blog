@@ -7,7 +7,7 @@ title: "The Grid — AI websites that design themselves"
 
 <!-- excerpt -->
 
-{% include youtube.html id="OXA4-5x31V0" %}
+{{ template "youtube" "OXA4-5x31V0" }}
 
 I write content for a living—always have, probably always will. So when I'm looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers. 
 

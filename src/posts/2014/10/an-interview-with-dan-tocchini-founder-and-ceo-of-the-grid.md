@@ -91,4 +91,4 @@ It's the future, y'all. Embrace it.
 
 Before you go, don't forget to watch the promo video. 
 
-{% include youtube.html id="OXA4-5x31V0" %}
+{{ template "youtube" "OXA4-5x31V0" }}

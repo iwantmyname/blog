@@ -18,6 +18,6 @@ From [Shopify](http://www.shopify.com/blog/9137905-announcing-the-4th-shopify-bu
 >
 >  The competition runs from October 1st, 2013 to May 31st, 2014 and any Shopify store that was opened after June 1st, 2013 may join the competition.
 
-{% include youtube.html id="zZciwQ6ZlsY" %}
+{{ template "youtube" "zZciwQ6ZlsY" }}
 
 <!-- more -->

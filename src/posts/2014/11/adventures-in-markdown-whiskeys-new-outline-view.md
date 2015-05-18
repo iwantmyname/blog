@@ -13,7 +13,7 @@ But there's a new Markdown app in town I'm really excited about—[Whiskey](http
 
 Here's a video example (from the dev):
 
-{% include vimeo.html id="110486733" %}
+{{ template "vimeo" "110486733" }}
 
 Whiskey clearly isn't a finished product yet, but it's pretty functional in its [current form](http://usewhiskey.com/beta). So if you're a fan of Markdown apps, I definitely recommend checking out the outline view implementation in the latest version. It's pretty slick. 
 

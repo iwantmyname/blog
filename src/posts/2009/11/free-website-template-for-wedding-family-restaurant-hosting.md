@@ -15,7 +15,7 @@ With the [demise of Geocities](https://iwantmyname.com/blog/2009/08/website-host
 
 The free website builder is aimed firmly at small companies, home users, schools and not-for-profits who just need to get online with a basic brochure quality set-up and who don't have corporate level online marketing budgets to spend. The new templates  should drive a lot of interest in the service, which previously had only a low profile.
 
-{% include youtube.html id="tkTGrOcFiz0" %}
+{{ template "youtube" "tkTGrOcFiz0" }}
 
 The introduction of Google Sites webpage templates is great news for iWantMyName customers because we already offer to link your domains through to free Google services. There are many templates available already, some examples from the directory are below.
 

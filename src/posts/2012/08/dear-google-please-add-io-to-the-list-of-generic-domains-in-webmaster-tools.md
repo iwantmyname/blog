@@ -11,7 +11,7 @@ categories:
 
 Google [Webmaster Tools](http://google.com/webmastertools) is a free service allowing site owners to check certain metrics and adjust settings, e.g. search engine crawling errors or managing the robots.txt file. The service also lets you geo-target domains, for example, if you are using a .com domain, you can tell Google how the site should appear in their search results for specific geographic regions:
 
-{% include youtube.html id="r9r3PayqaZM" %}
+{{ template "youtube" "r9r3PayqaZM" }}
 
 Usually country code top-level domains (ccTLDs) such as [.DE (Germany)](https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany) or [.ES (Spain)](https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain) cannot be targeted to an international audience but there are a [few exceptions](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=1347922):
 

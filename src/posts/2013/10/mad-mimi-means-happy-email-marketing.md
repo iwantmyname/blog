@@ -20,7 +20,7 @@ But what makes Mad Mimi especially nice is its automated backend—which is robu
 
 And best of all, the Mad Mimi team is full of extremely pleasant people. So if you're looking to start up an email campaign or simply want to test the waters of email marketing, Mad Mimi should definitely be on your radar.
 
-{% include youtube.html id="H-OmQN_5QkY" %}
+{{ template "youtube" "H-OmQN_5QkY" }}
 
 [1]: https://madmimi.com/
 [2]: https://madmimi.com/integrations

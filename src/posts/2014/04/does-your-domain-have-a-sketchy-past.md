@@ -11,7 +11,7 @@ Let's pretend your website is a child, and it's your sole responsibility to name
 
 So do your research. Here's a little video guide from Matt Cutts of Google Webmasters on how you can protect yourself from registering domain names with iffy histories.
 
-{% include youtube.html id="C-EdhaMDXho" %}
+{{ template "youtube" "C-EdhaMDXho" }}
 
 <!-- /excerpt -->
 

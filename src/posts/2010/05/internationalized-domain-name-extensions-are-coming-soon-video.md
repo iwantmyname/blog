@@ -11,7 +11,7 @@ categories:
 
 CNN Live News interview with Tina Dam from ICANN on topic of new Internationalized Domain Name (IDN) suffixes. The new development results in domain extensions such as .CN (China) or .GR (Greece) being available for users, expressed in their native languages and scripts.
 
-{% include youtube.html id="TgQ16Bwj3sw" %}
+{{ template "youtube" "TgQ16Bwj3sw" }}
 
 The following internationalized country code top-level domains (ccTLDs) have already been approved by ICANN:
 

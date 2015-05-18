@@ -22,6 +22,6 @@ Melanie (Melle for short) is a busy individual in Waterloo, Ontario, Canada (EST
 
 And if you need a "taste" of her support style, here's a short talk she gave about how to survive a zombie apocalypse (tons of useful information).
 
-{% include youtube.html id="LY8PAFOJ2D0" %}
+{{ template "youtube" "LY8PAFOJ2D0" }}
 
 So if you're feeling kind, send her a [support ticket](https://iwantmyname.com/support) and say hi. We're quite happy to have her on board.

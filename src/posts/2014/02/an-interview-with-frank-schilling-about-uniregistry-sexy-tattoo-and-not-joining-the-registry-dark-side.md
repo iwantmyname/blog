@@ -7,7 +7,7 @@ title: An interview with Frank Schilling about Uniregistry, .SEXY, .TATTOO and n
 
 <!-- excerpt -->
 
-{% include youtube.html id="p75KeJN9D0E" %}
+{{ template "youtube" "p75KeJN9D0E" }}
 
 There are domain registries, and there are domain registries with ambitious founders located in the Cayman Islands. Much to the enjoyment of the likely tan staff at [Uniregistry](http://uniregistry.com/), they are in the latter.
 

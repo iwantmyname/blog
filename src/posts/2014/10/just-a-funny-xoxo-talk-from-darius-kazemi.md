@@ -7,5 +7,5 @@ excerpt: no
 
 Darius Kazemi ([Tiny Subversions](http://tinysubversions.com)) is what you could call the serialest of serial entrepreneurs. And he has some great thoughts on how to "make it" as a startup. 
 
-{% include youtube.html id="l_F9jxsfGCw" %}
+{{ template "youtube" "l_F9jxsfGCw" }}
 

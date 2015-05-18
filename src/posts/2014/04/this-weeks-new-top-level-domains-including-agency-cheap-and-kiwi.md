@@ -7,7 +7,7 @@ title: This week's new top-level domains, including .AGENCY, .CHEAP and .KIWI
 
 <!-- excerpt -->
 
-{% include youtube.html id="FuIWW9MYpac" %}
+{{ template "youtube" "FuIWW9MYpac" }}
 
 This week in new generic top-level domains (gTLDs) is a strong bunch, including two popular Chinese extensions, some of the "bargain" variety and our local favorite, .KIWI. We have:
 

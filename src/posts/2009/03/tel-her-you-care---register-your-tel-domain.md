@@ -19,4 +19,4 @@ redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-co
 
 We've uploaded a new .TEL video to our Youtube channel. Hope you like it ;)
 
-{% include youtube.html id="_Uz6CUUKkuM" %}
+{{ template "youtube" "_Uz6CUUKkuM" }}

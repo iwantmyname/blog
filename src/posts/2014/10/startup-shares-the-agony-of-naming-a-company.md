@@ -19,7 +19,7 @@ I'd definitely recommend starting at the beginning, but the latest episode, titl
 
 <!-- /excerpt -->
 
-{% include soundcloud.html id="172008630" %}
+{{ template "soundcloud" "172008630" }}
 
 ***
 

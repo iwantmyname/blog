@@ -54,6 +54,6 @@ You can now configure your domain names using our easy domain setup feature for 
 *   Whitelabel **Social Networks**: [Ning](https://iwantmyname.com/features/applications/custom-domain-apps/social-networks/ning-hosted-whitelabel-dns-setup), [GROU.PS](https://iwantmyname.com/features/applications/custom-domain-apps/social-networks/grou.ps-whitelabel-social-network-mask-domains) and [KickApps](https://iwantmyname.com/features/applications/custom-domain-apps/social-networks/kickapps-social-networking-software-dns-masking)
 See how it works for a Posterous blog in the following video:
 
-{% include youtube.html id="dXQJjPS7Mk8" %}
+{{ template "youtube" "dXQJjPS7Mk8" }}
 
 We will be adding more  services over the coming weeks. Please feel free to [contact us](https://iwantmyname.com/support) or leave a comment if you have any suggestions about which web apps you would like to see supported on iWantMyName.

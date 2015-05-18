@@ -14,4 +14,4 @@ It's definitely the best way to back up your photos for free we've ever seen, so
 
 Flickr getting an overhaul like this is pretty surprising for a company like Yahoo! -- let's hope this is the start of a new trend -- perhaps they're on the track to becoming cool again? 
 
-{% include youtube.html id="8DRgzOEqLp0" %}
+{{ template "youtube" "8DRgzOEqLp0" }}

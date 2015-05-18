@@ -19,7 +19,7 @@ tags:
 
 Afilias, the .INFO domain name registry is currently running their 2010 awards program for the best .INFO websites:
 
-{% include youtube.html id="BFT9jSlSHAc" %}
+{{ template "youtube" "BFT9jSlSHAc" }}
 
 If you own a [.INFO web address](https://iwantmyname.com/domains/info-domain-name-registration-for-information), this is your chance to win one of the following cash prizes:
 

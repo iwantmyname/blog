@@ -8,7 +8,7 @@ categories:
 
 ----
 
-{% include vimeo.html id="67698662" %}
+{{ template "vimeo" "67698662" }}
 
 <!-- excerpt -->
 

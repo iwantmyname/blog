@@ -16,7 +16,7 @@ tags:
 
 In addition to the popular [Moonfruit](http://www.wix.com/sample/website) solution, we've now added [Wix](http://wix.com) as a second [Flash Website Builder](https://iwantmyname.com/features/applications/custom-domain-apps/websites/wix-make-flash-website-own-url) service. Wix is a complete hosting platform which also lets you use your own domain name. Linking domains to Wix works as easy as usual from your iWantMyName dashboard.
 
-{% include youtube.html id="UAYJVPm8uC8" %}
+{{ template "youtube" "UAYJVPm8uC8" }}
 
 Other resources:
 

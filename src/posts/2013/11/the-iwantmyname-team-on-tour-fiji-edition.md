@@ -30,7 +30,7 @@ Need a break in Fiji? Just jump in the pool or go for a swim, snorkle or kayak i
 
 Of course we also explored the island, with the highlight being a hiking trip to a local waterfall. Check out the video:
 
-{% include youtube.html id="oHU8WciU_6Q" %}
+{{ template "youtube" "oHU8WciU_6Q" }}
 
 Unfortunately, some of us got sick after trying some local specialties in week two, but that didn't stop us from enjoying the rest of our stay. I'd say on a tropical island it just adds to the experience... ;) 
 

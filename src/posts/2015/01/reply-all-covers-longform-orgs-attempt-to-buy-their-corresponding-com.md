@@ -9,5 +9,5 @@ I’ve never resold or purchased a domain on an aftermarket in my life, but hear
 
 (Just a heads up...if you’re easily offended, there are a couple curse words in this episode. Nothing big, but they’re there.)
 
-{% include soundcloud.html id="183982208" %}
+{{ template "soundcloud" "183982208" }}
 

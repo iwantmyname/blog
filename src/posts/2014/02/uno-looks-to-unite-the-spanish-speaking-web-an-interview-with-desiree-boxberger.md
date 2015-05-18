@@ -8,7 +8,7 @@ search:
   
 ----
 
-{% include youtube.html id="G9pmT7icoAQ" %}
+{{ template "youtube" "G9pmT7icoAQ" }}
 
 <!-- excerpt -->
 

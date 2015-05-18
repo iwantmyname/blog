@@ -14,8 +14,8 @@ The [Google Webmaster Help YouTube channel](https://www.youtube.com/user/GoogleW
 
 Here are a few to get a taste:
 
-{% include youtube.html id="qozPhALuQQw" %}
+{{ template "youtube" "qozPhALuQQw" }}
 
-{% include youtube.html id="J_FgXr7mrkg" %}
+{{ template "youtube" "J_FgXr7mrkg" }}
 
-{% include youtube.html id="QHG6BkmzDEM" %}
+{{ template "youtube" "QHG6BkmzDEM" }}

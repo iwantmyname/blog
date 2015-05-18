@@ -28,7 +28,7 @@ Latest news from the most popular [web apps and services for your domains](https
 
     Google offers [10 tips for using Gmail at work](http://gmailblog.blogspot.com/2010/05/10-tips-for-using-gmail-at-work.html) and now supports Google Wave for your domain:
     
-    {% include youtube.html id="eenNKqBjW8k" %}
+    {{ template "youtube" "eenNKqBjW8k" }}
 
 *   **[Fastmail](http://fastmail.fm)**
 
