@@ -2,7 +2,7 @@ layout: post
 date: 2015-03-19 15:35:22 -0700
 author: Chris
 title: The story of how Buffer bought buffer.com, and why a short .com isn't necessary for startup success
-excerpt: no
+excerpt: false
 ----
 
 ![Buffer](/media/2015-03-19-buffer-home.png)

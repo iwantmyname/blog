@@ -2,7 +2,7 @@ layout: post
 date: 2015-03-05 13:01:55 -0700
 author: Chris
 title: New feature alert - domain hacks in search
-excerpt: no
+excerpt: false
 
 redirect_to: https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html
 ----

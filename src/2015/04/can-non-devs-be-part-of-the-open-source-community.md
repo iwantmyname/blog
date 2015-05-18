@@ -2,7 +2,7 @@ layout: post
 date: 2015-04-02 15:08:28 +1200
 author: Chris
 title: Can non-devs be part of the open source community?
-excerpt: no
+excerpt: false
 ----
 
 [From thomk - Hacker News:](https://news.ycombinator.com/item?id=9307255)

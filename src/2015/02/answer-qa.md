@@ -2,7 +2,7 @@ layout: post
 date: 2015-02-24 10:59:46 -0700
 author: Chris
 title: Question. What extension should I use? Answer. .QA
-excerpt: no
+excerpt: false
 ----
 
 With all the new [generic top-level domains (gTLDs)](https://iwantmyname.com/domains/new-gtld-domain-extensions) coming out, sometimes we forget to celebrate the other domains we add to the site. Just last week, we added a wonderful new country code top-level domain (ccTLD), .QA, to the list. 

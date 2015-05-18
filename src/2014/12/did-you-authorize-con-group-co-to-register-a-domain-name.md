@@ -2,7 +2,7 @@ layout: post
 date: 2014-12-16 07:19:58 +1200
 author: Chris
 title: Did you authorize Con Group Co. to register a domain name?
-excerpt: no
+excerpt: false
 ----
 
 [From Andrew Allemann - Domain Name Wire:](http://domainnamewire.com/2014/12/15/best-fake-name-used-in-a-domain-name-scam-ever/)

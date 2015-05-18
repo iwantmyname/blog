@@ -2,7 +2,7 @@ layout: post
 date: 2014-12-19 11:16:15 +1200
 author: Chris
 title: Deep thoughts on the future SEO benefits of the new domain extensions
-excerpt: no
+excerpt: false
 ----
 
 [From Andrew Allemann - Domain Name Wire:](http://domainnamewire.com/2014/12/17/could-new-tlds-have-an-seo-benefit-in-the-future/)

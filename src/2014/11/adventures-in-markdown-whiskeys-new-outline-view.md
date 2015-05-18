@@ -2,7 +2,7 @@ layout: post
 date: 2014-11-19 09:10:47 +1200
 author: Chris
 title: Adventures in Markdown: Whiskey's new outline view
-excerpt: no
+excerpt: false
 ----
 
 Some people have gambling addictions, some struggle with caffeine—my vice is Markdown apps. Much like the Twitter apps of yore (or the podcast apps of today), Markdown apps are a wonderland for developers to implement tiny-but-genius improvements to a fairly rigid set of rules. Apps like Mou (Mou 1.0 hit its [funding goal](https://www.indiegogo.com/projects/mou-1-0-markdown-editor-on-os-x-for-you)!), Marked, and Byword are in constant rotation on my computer, and I’m always on the hunt for the next new creation. 

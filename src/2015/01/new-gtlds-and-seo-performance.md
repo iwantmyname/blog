@@ -3,7 +3,7 @@ date: 2015-01-12 16:32:01 -0700
 author: Chris
 title: New gTLDs and SEO performance
 header_image: 2015-01-12-engine.jpg
-excerpt: no
+excerpt: false
 ----
 
 [From Roland LaPlante - CircleID:](http://www.circleid.com/posts/20150112_new_gtlds_show_promising_seo_performance/)

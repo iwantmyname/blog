@@ -2,7 +2,7 @@ layout: post
 date: 2014-04-18 06:34:27 +1200
 author: Chris
 title: NPR's Planet Money explains the new top-level domains
-excerpt: no
+excerpt: false
 ----
 
 I'm a bit of a rabid podcast listener, and like any fan of a given medium, I have lots of opinions. I like Downcast more than any other podcast app, I like story driven shows over freeform conversations, and I really love NPR's Planet Money. 

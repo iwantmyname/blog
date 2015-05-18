@@ -2,7 +2,7 @@ layout: post
 date: 2014-11-21 09:16:05 +1200
 author: Chris
 title: A deep dive into the personal world of password creation
-excerpt: no
+excerpt: false
 ----
 
 From The New York Times, in a wonderful article titled, [The Secret Life of Passwords](http://www.nytimes.com/2014/11/19/magazine/the-secret-life-of-passwords.html?_r=0):

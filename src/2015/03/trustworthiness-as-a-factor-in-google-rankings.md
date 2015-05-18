@@ -2,7 +2,7 @@ layout: post
 date: 2015-03-02 11:37:58 -0700
 author: Chris
 title: Trustworthiness as a factor in Google rankings
-excerpt: no
+excerpt: false
 ----
 
 [From Hal Hodson - New Scientist:](http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html#.VPSuQUIylBW)

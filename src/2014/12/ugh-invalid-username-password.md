@@ -2,7 +2,7 @@ layout: post
 date: 2014-12-06 10:58:16 +1200
 author: Chris
 title: Ugh, invalid username/password
-excerpt: no
+excerpt: false
 ----
 
 [From Kevin Burke:](https://kev.inburke.com/kevin/invalid-username-or-password-useless/)
