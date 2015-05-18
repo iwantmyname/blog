@@ -10,6 +10,7 @@ posts/*/*/*.md:
 	template post
 	template page
 	template base
+	relativize
 
 pages/*.page: posts/*/*/*.md
 	rename ../page-*
@@ -18,12 +19,14 @@ pages/*.page: posts/*/*/*.md
 	template archive
 	template page
 	template base
+	relativize
 
 pages/1.page: pages/*.page
 	rename ../index.html
 	template archive
 	template page
 	template base
+	relativize
 
 media/*:
 	rename ../assets/images/content/*
