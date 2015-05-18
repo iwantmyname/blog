@@ -1,15 +1,13 @@
----
-layout: base
----
-
+{{ define "page" }}
 <div class="frame">
 	<div class="frame-row frame-row-expand">
-		{% include header.html %}
+		{{ template "header" }}
 
-		{{ content }}
+		{{ .Content }}
 	</div>
 	
 	<div class="frame-row">
-		{% include footer.html %}
+		{{ template "footer" }}
 	</div>
 </div>
+{{ end }}

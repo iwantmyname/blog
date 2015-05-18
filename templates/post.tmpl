@@ -1,0 +1,43 @@
+{{ define "post" }}
+
+{{ if .Other.header_image }}
+	<div class="iwmn-article-header imgix-fluid" data-src="https://iwmn-blog.imgix.net/{{ .Other.header_image }}">
+		<div class="container iwmn-container iwmn-article">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<h1>{{ .Title }}</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+{{ end }}
+
+<div class="container iwmn-container iwmn-article{{ if .Other.is_interview }} iwmn-interview{{ end }}">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				{{ if not .Other.header_image }}
+					<h1>{{ .Title }}</h1>
+				{{ end }}
+
+				{{ .Content }}
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">{{ .Date }}</small>
+							</p>
+						</div>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+{{ template "search" }}
+
+{{ end }}

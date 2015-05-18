@@ -1,0 +1,27 @@
+{{ define "archive" }}
+<div class="container iwmn-container iwmn-articles">
+	<div class="row">
+		<div class="col-md-8">
+			{% with paginator . %}
+				{{ range .Pages }}
+					<!-- template "post-preview" -->
+					
+					<!-- TODO: don't show for last item in range -->
+					<hr>
+				{{ end }}
+
+				{{ if .Next }}
+					<a href="{{ $.UrlTo .Next.Page }}" class="more-posts">Older posts</a>
+				{{ end }}
+			{{ end }}
+		</div>
+
+		<div class="col-md-4">
+			<!-- template "sidebar" -->
+		</div>
+	</div>
+</div>
+
+{{ template "search" }}
+
+{{ end }}
