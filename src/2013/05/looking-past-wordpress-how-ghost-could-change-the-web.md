@@ -1,7 +1,7 @@
 layout: post
 date: 2013-05-06 14:43:32 +1200
 author: Owen
-title: "Looking Past WordPress: How Ghost Could Change The Web"
+title: Looking Past WordPress: How Ghost Could Change The Web
 ----
 
 ![53cb7cffa27c89a43bc91b40f604f7e2_large.jpg](/media/2013-05-06-53cb7cffa27c89a43bc91b40f604f7e2_large.jpg)

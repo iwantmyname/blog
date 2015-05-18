@@ -1,7 +1,7 @@
 layout: post
 date: 2013-11-01 16:17:29 -0800
 author: Timo
-title: "Fiji Time: Working From An Island In The Pacific Ocean"
+title: Fiji Time: Working From An Island In The Pacific Ocean
 ----
 
 ![iwantmyname Fiji office](/media/2013-11-01-the-iwmn-office.jpg)

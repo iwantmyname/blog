@@ -1,7 +1,7 @@
 layout: post
 date: 2013-08-26 10:00:00 +1200
 author: Paul
-title: "Startup Genesis: Musings Of A Non-Technical Founder"
+title: Startup Genesis: Musings Of A Non-Technical Founder
 ----
 
 <!-- excerpt -->

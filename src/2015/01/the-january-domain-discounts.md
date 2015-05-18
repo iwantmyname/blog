@@ -1,7 +1,7 @@
 layout: post
 date: 2015-01-06 09:21:47 -0700
 author: Chris
-title: "The January domain discounts, including .Vegas and .Asia"
+title: The January domain discounts, including .Vegas and .Asia
 header_image: 2015-01-06-asia-mountains.jpg
 ----
 

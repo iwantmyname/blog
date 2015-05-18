@@ -1,7 +1,7 @@
 layout: post
 date: 2013-05-27 19:30:00 +1200
 author: Owen
-title: "What Is DNS? Here's What You Need To Know: Part 1"
+title: What Is DNS? Here's What You Need To Know: Part 1
 ----
 
 ![blog-dns.jpg](/media/2013-05-27-blog-dns.jpg)

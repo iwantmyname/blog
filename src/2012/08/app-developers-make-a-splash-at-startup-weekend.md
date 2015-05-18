@@ -1,7 +1,7 @@
 layout: post
 date: 2012-08-22 09:00:00 +1200
 author: Paul
-title: "App Developers: Make A Splash At Startup Weekend"
+title: App Developers: Make A Splash At Startup Weekend
 ----
 
 ![sw65.jpg](/media/2012-08-22-sw65.jpg)

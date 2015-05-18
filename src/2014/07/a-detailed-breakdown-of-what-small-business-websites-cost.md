@@ -1,7 +1,7 @@
 layout: post
 date: 2014-07-12 09:11:54 +1200
 author: Chris
-title: "A detailed breakdown of what small business websites cost"
+title: A detailed breakdown of what small business websites cost
 header_image: 2014-07-12-macbook.jpg
 ----
 

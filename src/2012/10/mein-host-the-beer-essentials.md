@@ -1,7 +1,7 @@
 layout: post
 date: 2012-10-12 17:00:00 +1200
 author: Paul
-title: "Mein Host: The Beer Essentials"
+title: Mein Host: The Beer Essentials
 ----
 
 ![beerglasses.jpg](/media/2012-10-12-beerglasses.jpg)

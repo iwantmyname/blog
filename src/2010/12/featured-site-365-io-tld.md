@@ -1,7 +1,7 @@
 layout: post
 date: 2010-12-23 10:22:50 +1200
 author: Timo
-title: "Featured Site: 365.io"
+title: Featured Site: 365.io
 ----
 
 iWantMyName featured site: [365.io](http://365.io)

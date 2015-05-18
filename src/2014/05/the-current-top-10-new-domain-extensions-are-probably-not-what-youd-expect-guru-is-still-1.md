@@ -1,7 +1,7 @@
 layout: post
 date: 2014-05-01 11:24:13 +1200
 author: Chris
-title: "The current top 10 new domain extensions are probably not what you'd expect (.GURU is still #1)"
+title: The current top 10 new domain extensions are probably not what you'd expect (.GURU is still #1)
 ----
 
 <!-- excerpt -->

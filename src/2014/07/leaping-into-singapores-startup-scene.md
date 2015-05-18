@@ -1,7 +1,7 @@
 layout: post
 date: 2014-07-08 9:45:00 +1200
 author: Paul
-title: "Leaping into Singapore's startup scene"
+title: Leaping into Singapore's startup scene
 header_image: 2014-07-09-jfdi.png
 ----
 

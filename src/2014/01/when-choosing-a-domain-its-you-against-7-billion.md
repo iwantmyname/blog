@@ -1,7 +1,7 @@
 layout: post
 date: 2014-01-18 13:43:00 +1200
 author: Chris
-title: "When choosing a domain, it's you against 7+ billion"
+title: When choosing a domain, it's you against 7+ billion
 ----
 
 ![3203403780_d2878c0c82.jpg](/media/2014-01-18-3203403780_d2878c0c82.jpg)

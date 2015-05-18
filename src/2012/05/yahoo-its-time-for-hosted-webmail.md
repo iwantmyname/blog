@@ -1,7 +1,7 @@
 layout: post
 date: 2012-05-18 14:00:00 +1200
 author: Paul
-title: "Yahoo! It's Time For Hosted WebMail"
+title: Yahoo! It's Time For Hosted WebMail
 ----
 
 ![stuffed.jpg](/media/2012-05-18-stuffed.jpg)

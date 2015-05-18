@@ -1,7 +1,7 @@
 layout: post
 date: 2013-11-27 13:17:41 +1200
 author: Chris
-title: "TIME's Person of the Year Going Social With RebelMouse"
+title: TIME's Person of the Year Going Social With RebelMouse
 ----
 
 ![Screen Shot 2013-11-26 at 17.24.16.png](/media/2013-11-27-Screen_Shot_2013-11-26_at_17.24.16.png)

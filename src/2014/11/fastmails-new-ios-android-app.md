@@ -1,7 +1,7 @@
 layout: post
 date: 2014-11-12 19:19:20 +1200
 author: Chris
-title: "FastMail's new iOS/Android app makes it an even more viable Google Apps alternative"
+title: FastMail's new iOS/Android app makes it an even more viable Google Apps alternative
 ----
 
 <!-- excerpt -->

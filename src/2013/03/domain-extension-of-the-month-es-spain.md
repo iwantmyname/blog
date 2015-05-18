@@ -1,7 +1,7 @@
 layout: post
 date: 2013-03-01 17:19:40 +1200
 author: Timo
-title: "Domain Extension Of The Month: .ES (Spain)"
+title: Domain Extension Of The Month: .ES (Spain)
 ----
 
 The Spanish top-level domain (TLD) is a favourite amongst iwantmyname customers. With 1.5 million [.ES domains](https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain) registered in total, it is not only the preferred suffix in Spain but also internationally with many [domain hacks](https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html) floating around the interwebs (even the Spanish registry operator red.es is a domain hack &mdash; redes translated means networks).

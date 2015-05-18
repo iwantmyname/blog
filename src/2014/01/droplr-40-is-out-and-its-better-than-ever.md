@@ -1,7 +1,7 @@
 layout: post
 date: 2014-01-11 13:25:49 +1200
 author: Chris
-title: "Droplr 4.0 is out, and it's better than ever"
+title: Droplr 4.0 is out, and it's better than ever
 ----
 
 ![mac-headline.png](/media/2014-01-11-mac-headline.png)

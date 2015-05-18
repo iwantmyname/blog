@@ -1,7 +1,7 @@
 layout: post
 date: 2014-10-17 06:50:39 +1200
 author: Melle
-title: "Need to know: requesting personal information from your audience"
+title: Need to know: requesting personal information from your audience
 header_image: 2014-10-16-meeting.jpg
 ----
 

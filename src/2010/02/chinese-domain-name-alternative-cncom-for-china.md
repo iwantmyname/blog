@@ -1,7 +1,7 @@
 layout: post
 date: 2010-02-23 08:17:57 +1200
 author: Timo
-title: "China Domain Name Alternatives, Part 1: .CN.COM"
+title: China Domain Name Alternatives, Part 1: .CN.COM
 ----
 
 Registering a domain name under the official China country code top-level domain (ccTLD) .CN will not get easier anytime soon. Latest news is that the [.CN registry has employed 600 workers](http://www.computerworld.com/s/article/9155358/China_s_.cn_cleanup_shows_politics_behind_Web_rules) to manually check all domain registrations for policy violations such as pornographic content and inaccurate records.

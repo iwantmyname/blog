@@ -1,7 +1,7 @@
 layout: post
 date: 2014-01-25 11:52:53 +1200
 author: Chris
-title: "ICANN's new 100"
+title: ICANN's new 100
 ----
 
 [From Akram Atallah - ICANN:](http://blog.icann.org/2014/01/100-new-gtlds-in-the-internet-thousands-of-new-ideas/)

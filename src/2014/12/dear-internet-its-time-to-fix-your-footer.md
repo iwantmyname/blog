@@ -1,7 +1,7 @@
 layout: post
 date: 2014-12-29 10:31:06 -0700
 author: Chris
-title: "Dear internet, it’s time to fix your footer (again)"
+title: Dear internet, it’s time to fix your footer (again)
 header_image: 2014-12-29-footer.png
 ----
 

@@ -1,7 +1,7 @@
 layout: post
 date: 2009-01-21 15:49:45 +1200
 author: Timo
-title: "New country code extensions: .HT (Haiti) and .COM.SB (Solomon Islands)"
+title: New country code extensions: .HT (Haiti) and .COM.SB (Solomon Islands)
 
 
 

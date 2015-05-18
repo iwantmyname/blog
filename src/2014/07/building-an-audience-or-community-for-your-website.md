@@ -1,7 +1,7 @@
 layout: post
 date: 2014-07-25 10:02:47 +1200
 author: Melle
-title: "Building an audience or community for your website"
+title: Building an audience or community for your website
 header_image: 2014-07-25-street-scene.jpg
 ----
 

@@ -1,7 +1,7 @@
 layout: post
 date: 2013-07-23 14:00:00 +1200
 author: Paul
-title: "Timely Reminder: Domain Customise Your Calendar"
+title: Timely Reminder: Domain Customise Your Calendar
 ----
 
 ![timely.jpg](/media/2013-07-23-timely.jpg)

@@ -1,7 +1,7 @@
 layout: post
 date: 2013-10-11 07:31:22 +1200
 author: Chris
-title: "The Tools We Use: HipChat For Internal Communication"
+title: The Tools We Use: HipChat For Internal Communication
 ----
 
 ![Screen Shot 2013-10-10 at 11.20.25.png](/media/2013-10-11-Screen_Shot_2013-10-10_at_11.20.25.png)

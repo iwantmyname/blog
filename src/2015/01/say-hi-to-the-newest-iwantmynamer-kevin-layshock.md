@@ -1,7 +1,7 @@
 layout: post
 date: 2015-01-08 14:30:05 -0700
 author: Chris
-title: "Say hi to the newest iwantmynamer, Kevin Layshock"
+title: Say hi to the newest iwantmynamer, Kevin Layshock
 header_image: 2015-01-08-layshock.gif
 excerpt: no
 ----

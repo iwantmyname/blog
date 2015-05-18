@@ -1,7 +1,7 @@
 layout: post
 date: 2013-04-29 14:25:14 +1200
 author: Timo
-title: "Going Across The Ditch: You Can Now Register .AU Domains at iwantmyname!"
+title: Going Across The Ditch: You Can Now Register .AU Domains at iwantmyname!
 ----
 
 ![Uluru](/media/2013-04-29-blog-uluru.jpg)

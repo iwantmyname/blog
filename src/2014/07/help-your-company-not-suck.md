@@ -1,7 +1,7 @@
 layout: post
 date: 2014-07-09 08:30:48 +1200
 author: Melle
-title: "How to help your company not .SUCK"
+title: How to help your company not .SUCK
 header_image: 2014-07-09-building.jpg
 ----
 

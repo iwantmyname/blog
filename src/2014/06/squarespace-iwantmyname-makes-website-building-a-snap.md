@@ -1,7 +1,7 @@
 layout: post
 date: 2014-06-24 12:08:05 +1200
 author: Chris
-title: "Squarespace + iwantmyname makes website building a snap"
+title: Squarespace + iwantmyname makes website building a snap
 header_image: 2014-06-24-squarespace-template.png
 ----
 

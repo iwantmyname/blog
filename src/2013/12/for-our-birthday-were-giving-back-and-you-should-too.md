@@ -1,7 +1,7 @@
 layout: post
 date: 2013-12-05 01:47:29 +1200
 author: Timo
-title: "For Our Birthday, We're Giving Back (And You Should Too)"
+title: For Our Birthday, We're Giving Back (And You Should Too)
 ----
 
 <!-- excerpt -->

@@ -1,7 +1,7 @@
 layout: post
 date: 2013-11-02 12:29:04 +1200
 author: Chris
-title: "Stop Scre.am-ing. It's Time For November Domain Discounts"
+title: Stop Scre.am-ing. It's Time For November Domain Discounts
 ----
 
 ![bigstock-Goofy-young-man-with-full-bea-45789868.jpg](/media/2013-11-02-bigstock-Goofy-young-man-with-full-bea-45789868.jpg)

@@ -1,7 +1,7 @@
 layout: post
 date: 2014-08-20 08:41:00 +1200
 author: Lenz
-title: "iwantmyname culture: On hiring and hierarchy"
+title: iwantmyname culture: On hiring and hierarchy
 ----
 
 <!-- excerpt -->

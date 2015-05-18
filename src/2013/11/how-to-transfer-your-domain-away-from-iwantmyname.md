@@ -1,7 +1,7 @@
 layout: post
 date: 2013-11-21 12:56:16 +1200
 author: Chris
-title: "How To Transfer Your Domain Away From iwantmyname (And A Bit On Why You Shouldn't)"
+title: How To Transfer Your Domain Away From iwantmyname (And A Bit On Why You Shouldn't)
 ----
 
 <!-- excerpt -->

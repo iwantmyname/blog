@@ -1,7 +1,7 @@
 layout: post
 date: 2012-10-29 23:00:00 +1200
 author: Paul
-title: "Opinion: Scared Bitless"
+title: Opinion: Scared Bitless
 ----
 
 ![pumpkin.jpg](/media/2012-10-29-pumpkin.jpg)

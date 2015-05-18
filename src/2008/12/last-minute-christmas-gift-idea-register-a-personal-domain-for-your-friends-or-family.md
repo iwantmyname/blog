@@ -1,7 +1,7 @@
 layout: post
 date: 2008-12-21 15:43:53 +1200
 author: Timo
-title: "Last minute Christmas gift idea: register a personal domain for your friends or family"
+title: Last minute Christmas gift idea: register a personal domain for your friends or family
 
 
 redirect_to: https://iwantmyname.com/domains/domain-name-registration-list-of-extensions
