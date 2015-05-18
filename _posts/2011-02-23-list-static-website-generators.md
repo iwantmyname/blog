@@ -8,6 +8,7 @@ categories:
   - Amazon S3
   - GitHub Pages
 
+redirect_to: https://iwantmyname.com/blog/2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki
 ---
 
 **Note: The updated version of this list now lives [here](https://iwantmyname.com/blog/2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html).**
