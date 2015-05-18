@@ -2,7 +2,7 @@ TEMPLATES = templates
 SOURCE = src
 OUTPUT = site
 
-posts/*/*/*.md:
+*/*/*.md:
 	config
 	paginate 10 pages/*.page
 	ext .html
@@ -12,7 +12,7 @@ posts/*/*/*.md:
 	template base
 	relativize
 
-pages/*.page: posts/*/*/*.md
+pages/*.page: */*/*.md
 	rename ../page-*
 	ext .html
 	directorify
