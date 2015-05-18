@@ -7,8 +7,13 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{{ .Title }}</title>
 
-	<!-- TODO: handle redirect_to (missing "isset" feature as in Hugo) -->
-	<!-- TODO: add canonical tags -->
+	{{ if isset .Other "redirect_to" }}
+		<link rel="canonical" href="{{ .Other.redirect_to }}">
+		<meta http-equiv="refresh" content="0; url={{ .Other.redirect_to }}">
+		<script>window.location.replace({{ .Other.redirect_to }})</script>
+	{{ else }}
+		<link rel="canonical" href="{{ .Url }}">
+	{{ end }}
 
 	{{ template "favicon" }}
 	{{ template "open-graph-meta" }}
