@@ -1,0 +1,26 @@
+{{ define "post-preview" }}
+<article>
+	<small class="date">{{ .Date }}</small>
+
+	{{ if isset .Other "author" }}
+		<a href="{{ .Url }}"><img class="author" src="{{ .Other.author }}" alt="{{ .Other.author  }}" title="{{ .Other.author }}"></a>
+	{{ end }}
+
+	<h1 class="title">
+		<a href="{{ .Url }}">{{ .Title }}</a>
+	</h1>
+	
+	{{ if isset .Other "header_image" }}
+		<p><a href="{{ .Url }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.header_image }}" class="imgix-fluid" alt="{{ .Title }}" title="{{ .Title }}"></a></p>
+	{{ end }}
+
+	{{ if not (isset .Other "excerpt") }}
+		{{ .Content }}
+	{{ else }}
+		{{ template "excerpt" }}
+		<p class="read-more">
+			<a href="{{ .Url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+		</p>
+	{{ end }}
+</article>
+{{ end }}

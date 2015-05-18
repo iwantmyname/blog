@@ -4,8 +4,8 @@
 		<div class="col-md-8">
 			{{ with paginator . }}
 				{{ range .Pages }}
-					<!-- template "post-preview" -->
-					
+					{{ template "post-preview" }}
+
 					<!-- TODO: don't show for last item in range -->
 					<hr>
 				{{ end }}
