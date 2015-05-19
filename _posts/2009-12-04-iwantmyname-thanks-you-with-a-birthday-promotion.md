@@ -7,6 +7,7 @@ title: iWantMyName Thanks You with a Birthday Domain Promotion
 categories:
   - Special Offer
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 _It has been a fascinating journey since we launched iWantMyName almost one year ago today. When we began, there were some very dark clouds looming over the global economy. We began to question if we had got our timing correct. But we received so much positive feedback from our customers that we knew we just had to press ahead.

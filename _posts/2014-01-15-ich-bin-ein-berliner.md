@@ -4,6 +4,7 @@ date: 2014-01-15 06:35:48 +1200
 author: Chris
 title: Ich bin ein .BERLINer
 
+redirect_to: https://iwantmyname.com/domains/dot-berlin
 ---
 
 ![bigstock-Berlin-Germany-viewed-from-ab-52294057.jpg]({{ site.images_url }}/2014-01-15-bigstock-Berlin-Germany-viewed-from-ab-52294057.jpg)

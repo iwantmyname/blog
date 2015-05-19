@@ -16,6 +16,7 @@ tags:
   - Promotion
   - Web address
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 At iWantMyName we're always happy to provide you with some of the best bargains in the domain world. The following [domain extensions](https://iwantmyname.com/domains) are on special throughout April/May 2010:

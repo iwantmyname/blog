@@ -16,6 +16,7 @@ tags:
   - polar bear
   - web address
 
+redirect_to: https://iwantmyname.com/domains/gl-greenlandic-domain-name-registration-for-greenland
 ---
 
 ![polarbear.jpg]({{ site.images_url }}/2010-08-05-polarbear.jpg)

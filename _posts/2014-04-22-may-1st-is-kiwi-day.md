@@ -7,6 +7,8 @@ excerpt: no
 
 preorder:
   tld: Kiwi
+  
+redirect_to: https://iwantmyname.com/domains/dot-kiwi
 ---
 
 Like little online children, we love each generic top-level domain (gTLD) the same. .GURU, .RED, .PHOTOGRAPHY—all are lovely in their own special way. But if we were stranded on a desert island and could only bring one, we'd choose .KIWI, New Zealand's choicest new domain extension. 

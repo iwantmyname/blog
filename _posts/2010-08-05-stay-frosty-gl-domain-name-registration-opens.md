@@ -18,6 +18,7 @@ tags:
   - iWantMyName
   - Top-level domain
 
+redirect_to: https://iwantmyname.com/domains/gl-greenlandic-domain-name-registration-for-greenland
 ---
 
 ![pb60.jpg]({{ site.images_url }}/2010-08-05-pb60.jpg)

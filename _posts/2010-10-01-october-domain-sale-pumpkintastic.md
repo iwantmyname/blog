@@ -10,6 +10,7 @@ categories:
 tags:
   - domain sale
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 ![Pumpkin]({{ site.images_url }}/2010-10-01-Screen_shot_2010-09-30_at_13.29.31.png)

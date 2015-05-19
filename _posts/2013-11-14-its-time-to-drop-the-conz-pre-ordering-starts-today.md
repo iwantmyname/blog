@@ -7,6 +7,7 @@ title: "It's Time To Drop The .CO--.NZ Pre-Ordering Starts Today"
 categories:
   - Pre-order
 
+redirect_to: https://iwantmyname.com/domains/dot-nz
 ---
 
 <!-- excerpt -->

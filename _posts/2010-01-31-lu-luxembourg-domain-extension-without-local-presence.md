@@ -17,6 +17,7 @@ tags:
   - Luxembourg
   - Luxembourgish
 
+redirect_to: https://iwantmyname.com/domains/lu-luxembourgian-domain-name-registration-for-luxembourg
 ---
 
 As of February 1, 2010, it will be possible to register the Luxembourgish .LU domain name extension without a local address in Luxembourg. This means that anyone worldwide can [register .LU domains](https://iwantmyname.com/domains/lu-luxembourgian-domain-name-registration-for-luxembourg) for personal or business use.

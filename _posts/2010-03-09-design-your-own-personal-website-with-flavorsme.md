@@ -14,6 +14,7 @@ tags:
   - Personal Profile
   - Website Builder
 
+redirect_to: https://iwantmyname.com/services/personal-profile/customize-flavors.me-website-with-your-own-domain
 ---
 
 Are you tired of having your content spread all over the internet? Do you wish there was a place online that is YOU? If you ever felt like this, then [Flavors.me](http://flavors.me) might be the service you were waiting for. The new website builder lets you design and publish a beautiful personal profile website within just a few minutes.

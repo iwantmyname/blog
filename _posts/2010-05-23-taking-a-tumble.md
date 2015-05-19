@@ -17,6 +17,7 @@ tags:
   - Tumblr
   - Web Apps
 
+redirect_to: https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url
 ---
 
 Did you know that [we're on Tumblr now](http://tumblr.iwantmyname.com/)? The free [blog hosting](https://iwantmyname.co.nz/services/blog-hosting "Blog software") service at [Tumblr](http://tumblr.com/ "Tumblr") allows you to quickly post things that you discover from around the web. Follow us for quick bits about the domain name world, web apps and stuff we like. Recent updates include a domain name fail, TLDs of the Worldcup 2010, and our friends from Couch.io going crazy in their [CouchDB](http://couchdb.org/ "CouchDB") rap.

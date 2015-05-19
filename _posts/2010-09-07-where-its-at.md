@@ -19,6 +19,7 @@ tags:
   - domains
   - promotion
 
+redirect_to: https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria
 ---
 
 ![austria]({{ site.images_url }}/2010-09-07-austria.png)

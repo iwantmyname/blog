@@ -13,6 +13,7 @@ tags:
   - Domains
   - Website
 
+redirect_to: https://iwantmyname.com/domains/tel-domain-name-registration-for-communication
 ---
 
 The [.TEL top-level domain](https://iwantmyname.com/domains/tel-domain-name-registration-for-communication), an easy way to publish contact information online, has just released a new design for all users. Your domain name's website can now be customized with different color schemes and your personal avatar, photo or logo. If you enter links to your Twitter, Facebook profile or other services it also shows custom icons when your .TEL page is loaded.

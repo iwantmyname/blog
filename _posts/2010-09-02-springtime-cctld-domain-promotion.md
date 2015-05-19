@@ -18,6 +18,7 @@ tags:
   - specials
   - Top-level domain
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 ![daffodils]({{ site.images_url }}/2010-09-02-daffs.jpg)

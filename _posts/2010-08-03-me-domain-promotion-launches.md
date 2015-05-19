@@ -20,6 +20,7 @@ tags:
   - Refund
   - Tumblr
 
+redirect_to: https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro
 ---
 
 ![.me domain logo]({{ site.images_url }}/2010-08-03-me-domain-logo-slogan.png)

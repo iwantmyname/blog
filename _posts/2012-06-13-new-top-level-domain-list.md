@@ -8,6 +8,7 @@ categories:
   - Announcement
   - New domain extension
 
+redirect_to: https://iwantmyname.com/domains/new-gtld-domain-extensions
 ---
 
 The long wait is finally over! In a press event held in London (starting at midday UK time), [ICANN](http://icann.org) is about to reveal the final list of new top-level domain (TLD) applicants. There have been a few announcements over the last couple of weeks already but we're sure to be in for some more surprises today.

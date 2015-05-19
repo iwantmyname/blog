@@ -7,6 +7,7 @@ title: .UK Available For 1 Year, .IO 2-Letter Domains & May Promotions
 categories:
   - Special Offer
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 The British registry [Nominet](http://www.nominet.org.uk/) recently reduced the minimum registration period for all .UK domain extensions ([.co.uk](https://iwantmyname.com/domains/co.uk-british-domain-name-registration-for-united-kingdom), [.me.uk](https://iwantmyname.com/domains/me.uk-domain-name-registration-for-united-kingdom) and [.org.uk](https://iwantmyname.com/domains/org.uk-domain-name-registration-for-united-kingdom)) to one year. As of today, any .UK domain purchase at iWantMyName will reflect this change and domains will be registered for one year only. The registration period of existing domains is not affected but subsequent renewals will occur on a yearly basis.

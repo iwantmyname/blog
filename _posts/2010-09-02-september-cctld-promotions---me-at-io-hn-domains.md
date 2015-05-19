@@ -11,6 +11,7 @@ categories:
   - .me domains
   - Special Offer
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 ![worldmap.png]({{ site.images_url }}/2010-09-02-worldmap.png)

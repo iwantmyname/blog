@@ -16,6 +16,7 @@ tags:
   - Domains
   - dotAsia
 
+redirect_to: https://iwantmyname.com/domains/asia-domain-name-registration-for-asia
 ---
 
 The saga around China domain names continues with this week's rumour that every .CN website owner may have to [apply in person for a web address](http://www.stephanevangelder.com/archives/308-Chinese-authorities-want-to-meet-every-new-.CN-website-owner-in-person!.html). Luckily there is another unrestricted alternative, in addition to [.CN.COM](https://iwantmyname.com/domains/cn.com-chinese-domain-name-registration-for-china), suitable for the Chinese market: the generic .ASIA top-level domain.

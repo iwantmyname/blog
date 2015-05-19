@@ -16,6 +16,7 @@ tags:
   - domains
   - registrar
 
+redirect_to: https://iwantmyname.com/domains/info-domain-name-registration-for-information
 ---
 
 Afilias, the .INFO domain name registry is currently running their 2010 awards program for the best .INFO websites:

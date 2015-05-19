@@ -14,6 +14,7 @@ tags:
   - dns
   - domains
 
+redirect_to: https://iwantmyname.com/services
 ---
 
 We've recently released major upgrades to our dashboard which dramatically improve the setup and management of your domain names. Hopefully this will make things even easier for you!

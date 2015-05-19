@@ -8,6 +8,7 @@ categories:
   - Affiliate
   - Special Offer
 
+redirect_to: https://iwantmyname.com/affiliate
 ---
 
 As you may know, we have an [affiliate program](https://iwantmyname.com/affiliate) that rewards you for each new client you refer to iWantMyName. You can now get an extra 5% lifetime commission bonus if you become a domain registrar affiliate in September 2010!

@@ -7,6 +7,7 @@ header_image: 2014-07-24-kiwi-sign.jpg
 search:
   tld: Kiwi
 
+redirect_to: https://iwantmyname.com/domains/dot-kiwi
 ---
 
 <!-- excerpt -->

@@ -16,6 +16,7 @@ tags:
   - Kiwi
   - New Zealand
 
+redirect_to: https://iwantmyname.com/domains/kiwi.nz-kiwi-domain-name-registration-for-new-zealand
 ---
 
 ![kiwi.jpg]({{ site.images_url }}/2012-09-13-kiwi.jpg)

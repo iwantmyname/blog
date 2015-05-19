@@ -7,6 +7,7 @@ title: 11 Fresh Domain Special Offers For January 2011
 categories:
   - Special Offer
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 First off all, a happy new year 2011 to all of you, wherever you are. Let's celebrate the second year of the second decade in the second millenium with some fresh domain name bargains:

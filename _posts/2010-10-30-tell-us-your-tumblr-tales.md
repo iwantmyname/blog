@@ -20,6 +20,7 @@ tags:
   - Tweet
   - Twitter
 
+redirect_to: https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url
 ---
 
 Owning a personal or business related domain name is the first step to controlling your identity online. It also makes personally branded material more discoverable, reaching a wider audience.

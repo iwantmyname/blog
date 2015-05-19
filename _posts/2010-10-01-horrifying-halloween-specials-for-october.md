@@ -17,6 +17,7 @@ tags:
   - reduction
   - specials
 
+redirect_to: https://iwantmyname.com/domains/special-offer
 ---
 
 ![pumpkin]({{ site.images_url }}/2010-10-01-pumpkin2.png)

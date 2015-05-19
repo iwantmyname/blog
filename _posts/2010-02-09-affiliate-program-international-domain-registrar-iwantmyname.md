@@ -12,6 +12,8 @@ tags:
   - affiliate program
   - domain registrar
 
+redirect_to: https://iwantmyname.com/affiliate
+
 ---
 
 We are happy to announce the iWantMyName affiliate program! Start referring customers or blog readers looking for [international domain names](https://iwantmyname.com/domains) or [domain registrar alternatives](https://iwantmyname.com/blog/2010/02/best-domain-registrar-alternative-2010.html) and you will get rewarded on each sale originating from your links. 

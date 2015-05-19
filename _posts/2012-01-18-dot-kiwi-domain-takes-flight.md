@@ -20,6 +20,8 @@ tags:
   - new gTLD
   - New Zealand
 
+redirect_to: https://iwantmyname.com/domains/dot-kiwi
+
 ---
 
 ![DotKiwi-Logo-small.jpg]({{ site.images_url }}/2012-01-18-DotKiwi-Logo-small.jpg)

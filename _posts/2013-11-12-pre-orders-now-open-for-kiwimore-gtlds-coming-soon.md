@@ -8,6 +8,7 @@ categories:
   - Pre-order
   - gTLD
 
+redirect_to: https://iwantmyname.com/domains/dot-kiwi
 ---
 
 ![dot-kiwi-domain-preorder.png]({{ site.images_url }}/2013-11-12-dot-kiwi-domain-preorder.png)

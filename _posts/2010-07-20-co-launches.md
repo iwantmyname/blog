@@ -16,6 +16,7 @@ tags:
   - Domain name
   - Top-level domain
 
+redirect_to: https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia
 ---
 
 You can now register
