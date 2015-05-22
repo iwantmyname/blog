@@ -170,3 +170,7 @@ Instead of directly referring to your company, group, or topic name, you could f
 Another consideration is where you or your organization is located geographically. Should you embrace the international nature of the Internet, or stay local? Should you use a gTLD or a country code top-level domain (ccTLD) that shows your roots, like [.CA](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) for Canada or [.NZ](https://iwantmyname.com/domains/dot-nz) for New Zealand? 
 
 You could also use a TLD to "hack" the domain and create an interesting and relevant phrase. For example, if you wanted to register "bobswaffles.com", but it was taken, instead you could register "bobswaffl.es" (using [.ES](https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain), Spain's ccTLD). Be sure to read our [guide to everything you need to know about domain hacks](https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html).
+
+***
+
+Photo credit: [Emily Mills](https://www.flickr.com/photos/emilymills/3586292198/in/photolist-6sUFJ7-Cn1Ze-dj4RAk-dQjT8A-7CJaeC-huuCjX-nY6QF8-e9VnmW-dUsAAu-dUsAAj-dskac2-oy2U8q-6sfdfY-dUH3Ph-baJNi2-8Hp6A7-dWZixW-fxEKMN-pDAPVf-aW5VHR-9cvW1B-eh2vj3-opkJi-eJJwjw-9AHjr1-5uSeNW-dYbL63-5SLYBT-aCHr3L-aCEHmr-aCHpzh-8HkXak-gaE57n-aCECXt-aCHjgC-aCHi4w-a5GYRn-7Wb521-29ULM-5vUPbT-e1f58-fkgL8M-edn9BV-oXb7vY-qPGzyn-dNPjNx-f8NKt-65CrBC-4m3Gp-fxrB84)

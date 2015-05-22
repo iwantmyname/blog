@@ -5,6 +5,7 @@ author: Melle
 title: Someone has registered the domain I want. Help!
 header_image: 2014-06-05-escalator.jpg
 
+redirect_to: https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html
 ---
 
 <!-- excerpt -->

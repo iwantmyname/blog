@@ -5,6 +5,7 @@ author: Melle
 title: How do I pick a domain that people will remember?
 header_image: 2014-06-06-scientist.jpg
 
+redirect_to: https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html
 ---
 
 <!-- excerpt -->

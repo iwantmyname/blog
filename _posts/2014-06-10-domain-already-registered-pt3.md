@@ -5,6 +5,7 @@ author: Melle
 title: Why it's important to have you own domain and web presence
 header_image: 2014-06-10-surveying.jpg
 
+redirect_to: https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html
 ---
 
 <!-- excerpt -->

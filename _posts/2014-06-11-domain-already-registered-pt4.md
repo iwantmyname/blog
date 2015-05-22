@@ -5,6 +5,7 @@ author: Melle
 title: What is domain squatting/cybersquatting?
 header_image: 2014-06-11-squatting.jpg
 
+redirect_to: https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html
 ---
 
 <!-- excerpt -->

@@ -5,6 +5,7 @@ author: Melle
 title: Someone has registered a domain with my trademark. What do I do?
 header_image: 2014-06-12-cheap-sale.jpg
 
+redirect_to: https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html
 ---
 
 <!-- excerpt -->
