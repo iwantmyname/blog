@@ -8,7 +8,7 @@ header_image: 2015-05-26-mannerist.jpg
 
 <!-- excerpt -->
 
-As far as TLDs go, style is an interesting word. It's not a job description or a thing you do—instead, it's more about a process. Style is the way you make something, or a specific form that's trying to be achieved. You can have good style, or you could have your haircuts styled a certain way. So what can you do with a .STYLE domain name?
+As far as TLDs go, style is an interesting word. It's not a job description or a thing you do—instead, it's more of a process. Style can be the way you make something, or a specific form that's trying to be achieved. You can have good style, bad style, correct style, or maybe you just want your haircuts styled a certain way. But what can you do with a .STYLE domain name?
 
 <!-- /excerpt -->
 
