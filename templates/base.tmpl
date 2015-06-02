@@ -5,7 +5,15 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>{{ .Title }}</title>
+	<title>
+		{{ if eq .Pattern "pages/1.page" }}
+			iwantmyname Domain Blog
+		{{ else if eq .Pattern "pages/*.page" }}
+			Page {{ .Title }} &mdash; iwantmyname Domain Blog
+		{{ else }}
+			{{ .Title }}
+		{{ end }}
+	</title>
 
 	{{ if .Other.Redirect_to }}
 		<link rel="canonical" href="{{ .Other.Redirect_to }}">
