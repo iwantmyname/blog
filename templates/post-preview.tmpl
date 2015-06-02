@@ -14,6 +14,13 @@
 		<p><a href="{{ .Url }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.Header_image }}" class="imgix-fluid" alt="{{ .Title }}" title="{{ .Title }}"></a></p>
 	{{ end }}
 
-	{{ template "excerpt" . }}
+	{{ if eq (index .Other "Excerpt") "false" }}
+		{{ markdown .Raw }}
+	{{ else }}
+		{{ template "excerpt" . }}
+		<p class="read-more">
+			<a href="{{ .Url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+		</p>
+	{{ end }}
 </article>
 {{ end }}
