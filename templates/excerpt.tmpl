@@ -1,5 +1,25 @@
 {{ define "excerpt" }}
 
-{{ .Content }}
+{{ $more := "<!-- more -->" }}
+{{ $excerpt_open := "<!-- excerpt -->" }}
+{{ $excerpt_close := "<!-- /excerpt -->" }}
+
+{{ if contains $more .Raw }}
+	{{ $split := split .Raw $more }}
+	{{ markdown (index $split 0) }}
+	<p class="read-more">
+		<a href="{{ .Url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+	</p>
+{{ else if contains $excerpt_open .Raw }}
+	{{ $split := split .Raw $excerpt_open }}
+	{{ $section := index $split 1 }}
+	{{ $excerpt := split $section $excerpt_close }}
+	{{ markdown (index $excerpt 0) }}
+	<p class="read-more">
+		<a href="{{ .Url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+	</p>
+{{ else }}
+	{{ markdown .Raw }}
+{{ end }}
 
 {{ end }}
