@@ -13,7 +13,8 @@
 	{{ $excerpt := split $section $excerpt_close }}
 	{{ markdown (index $excerpt 0) }}
 {{ else }}
-	{{ markdown .Raw }}
+	{{ $split := split .Raw "\n\n" }}
+	{{ markdown (index $split 0) }}
 {{ end }}
 
 {{ end }}
