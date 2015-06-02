@@ -3,12 +3,10 @@
 	<div class="row">
 		<div class="col-md-8">
 			{{ with paginator . }}
-				{{ range .Pages }}
-					<!-- .Content appears to already be processed :( -->
-					{{ template "post-preview" }}
+				{{ range $i, $page := .Pages }}
+					{{ if $i }}<hr>{{ end }}
 
-					<!-- TODO: don't show for last item in range -->
-					<hr>
+					{{ template "post-preview" $page }}
 				{{ end }}
 
 				{{ if .Next }}
@@ -23,6 +21,6 @@
 	</div>
 </div>
 
-{{ template "search" }}
+{{ template "search" . }}
 
 {{ end }}
