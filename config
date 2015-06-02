@@ -1,6 +1,7 @@
 TEMPLATES = templates
 SOURCE = src
 OUTPUT = site
+BASE_URL = https://iwantmyname.com/blog
 
 */*/*.md:
 	config
