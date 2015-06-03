@@ -15,6 +15,10 @@
 		{{ end }}
 	</title>
 
+	{{ if eq .Pattern "pages/*.page" }}
+		<meta name="robots" content="noindex">
+	{{ end }}
+
 	{{ if .Other.Redirect_to }}
 		<link rel="canonical" href="{{ .Other.Redirect_to }}">
 		<meta http-equiv="refresh" content="0; url={{ .Other.Redirect_to }}">
