@@ -4,7 +4,7 @@
 		<title>iwantmyname Domain Blog</title>
 		<link>{{ .Site.Other.Base_url }}/</link>
 		<atom:link href="{{ .Site.Other.Base_url }}/{{ .Url }}" rel="self" type="application/rss+xml" />
-		{{ range $i, $page := .Site.Pages }}{{ if lt $i 10 }}{{ if eq $page.Pattern "*/*/*.md" }}
+		{{ range $i, $page := .Site.Pages.GlobSource "*/*/*.md" }}{{ if lt $i 10 }}
 			<item>
 				<title>{{ $page.Title | html }}</title>
 				<description>{{ $page.Raw | markdown | html }}</description>
@@ -12,6 +12,6 @@
 				<link>{{ .Site.Other.Base_url }}/{{ $page.Url }}</link>
 				<guid isPermaLink="false">/{{ $page.Url }}</guid>
 			</item>
-		{{ end }}{{ end }}{{ end }}
+		{{ end }}{{ end }}
 	</channel>
 </rss>

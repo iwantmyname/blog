@@ -12,9 +12,9 @@
 <div class="iwmn-articles-nav">
 	<h5>Recent posts</h5>
 	<ul class="list-unstyled">
-		{{ range $i, $page := .Site.Pages }}{{ if lt $i 10 }}{{ if eq $page.Pattern "*/*/*.md" }}
+		{{ range $i, $page := .Site.Pages.GlobSource "*/*/*.md" }}{{ if lt $i 10 }}
 			<li><a href="{{ $page.Url }}">{{ $page.Title | html }}</a></li>
-		{{ end }}{{ end }}{{ end }}
+		{{ end }}{{ end }}
 	</ul>
 </div>
 {{ end }}
