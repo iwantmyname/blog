@@ -70,6 +70,8 @@ pages/1.page: pages/*.page
 
 atom.xml:
 	inner-template
+feeds/*/*.xml:
+	inner-template
 
 *.html:
 	config

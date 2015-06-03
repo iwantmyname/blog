@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>iwantmyname Domain Blog</title>
+		<link>{{ .Site.Other.Base_url }}/</link>
+		<atom:link href="{{ .Site.Other.Base_url }}/{{ .Url }}" rel="self" type="application/rss+xml" />
+		{{ range $index, $page := .Site.Pages }}{{ if lt $index 10 }}
+			<item>
+				<title>{{ $page.Title | html }}</title>
+				<description>{{ $page.Raw | markdown | html }}</description>
+				<pubDate>{{ $page.Date.Format "Mon, 02 Jan 2006 15:04:05 UTC" }}</pubDate>
+				<link>{{ .Site.Other.Base_url }}/{{ $page.Url }}</link>
+				<guid isPermaLink="false">/{{ $page.Url }}</guid>
+			</item>
+		{{ end }}{{ end }}
+	</channel>
+</rss>
