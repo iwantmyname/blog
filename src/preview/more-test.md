@@ -1,9 +1,7 @@
----
-layout: post
 author: Kevin
-title: Testing the &lt;!-- more --&gt; tag
+title: Testing the <!-- more --> tag
 date: 2014-03-24 17:19:00 +1200
----
+----
 
 This post is here to test the `<!-- more -->` tag. When present in an article, it seems to break the Markdown parsing of other articles on the page.
 

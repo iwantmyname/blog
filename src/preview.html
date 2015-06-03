@@ -1,0 +1,33 @@
+title: [Preview] iwantmyname Domain Blog
+----
+
+<div class="container iwmn-container iwmn-articles">
+	<div class="row">
+		<div class="col-md-8">
+			{{ range $i, $page := .Site.Pages.Children "preview/" }}
+				{{ if $i }}<hr>{{ end }}
+
+				{{ template "post-preview" $page }}
+			{{ end }}
+
+			{{ range $i, $page := .Site.Pages }}{{ if lt $i 10 }}
+				{{ if $i }}<hr>{{ end }}
+
+				{{ template "post-preview" $page }}
+			{{ end }}{{ end }}
+		</div>
+
+		<div class="col-md-4">
+			<p class="iwmn-articles-nav-text">
+				<a href="/new.html" class="btn btn-success btn-lg btn-block">
+					<i class="glyphicon glyphicon-edit"></i>
+					New post
+				</a>
+			</p>
+
+			{{ template "sidebar" . }}
+		</div>
+	</div>
+</div>
+
+{{ template "search" . }}

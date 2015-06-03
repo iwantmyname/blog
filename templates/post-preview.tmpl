@@ -9,7 +9,7 @@
 	{{ end }}
 
 	<h1 class="title">
-		<a href="{{ .Url }}">{{ .Title }}</a>
+		<a href="{{ .Url }}">{{ .Title | html }}</a>
 	</h1>
 	
 	{{ if .Other.Header_image }}
