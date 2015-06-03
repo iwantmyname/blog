@@ -24,12 +24,10 @@ title: New draft &mdash; iwantmyname Domain Blog
 			<div class="modal-body">
 				
 <textarea class="form-control" rows="15" placeholder="Start typing in markdown...">
----
-layout: post
-author: Guest
+author: Chris
 title: Example blog post title
 date: 2015-00-00 00:00:00 +1200
----
+----
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu justo, pellentesque non felis sit amet, tempus tristique tortor. Donec ut ultricies odio. Nulla at sodales quam. In dignissim sem metus, quis mollis urna adipiscing eget. Integer eu sapien at erat feugiat dapibus vel sed dui. Duis lectus erat, aliquam ut magna vel, egestas laoreet urna.
 
@@ -49,7 +47,8 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 
 <script src="/assets/js/editor.js"></script>
 <script>
-	var FRONTMATTER = /^---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/
+	var CONFIG_RE = /^([\s\S]*?)\s*----\s*([\s\S]*)$/
+	var TITLE_RE = /title\:\s+(.+?)\n/
 
 	var target = document.querySelector(".iwmn-article article")
 	var input = document.querySelector("textarea")
@@ -60,14 +59,15 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 	function update() {
 		var content = input.value
 
-		if (FRONTMATTER.test(content)) {
-			var matches = content.match(FRONTMATTER)
+		if (CONFIG_RE.test(content)) {
+			var matches = content.match(CONFIG_RE)
 
-			var data = jsyaml.load(matches[1])
+			var config = matches[1]
 			content = matches[2]
 
-			if (data.title) {
-				content = "# " + data.title + "\n\n" + content
+			matches = config.match(TITLE_RE)
+			if (matches) {
+				content = "# " + matches[1] + "\n\n" + content
 			}
 		}
 
