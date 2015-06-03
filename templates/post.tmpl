@@ -20,12 +20,24 @@
 					<h1>{{ .Title | html }}</h1>
 				{{ end }}
 
+				{{ if .Other.Author_name }}
+					<p class="small">The following is a guest post written by <a href="https://twitter.com/{{ .Other.Author_twitter }}">{{ .Other.Author_name }}</a>.</p>
+					<hr>
+				{{ end }}
+
 				{{ .Content }}
 				
 				<div class="iwmn-article-footer">
 					<div class="row">
 						<div class="col-sm-6">
-							{{ if .Other.Author }}
+							{{ if .Other.Author_name }}
+								<p class="byline clearfix">
+									<img class="author" src="{{ .Other.Author_avatar }}" alt="{{ .Other.Author_name }}" title="{{ .Other.Author_name }}">
+
+									&mdash; {{ .Other.Author_name }}<br>
+									<a href="https://twitter.com/{{ .Other.Author_twitter }}">@{{ .Other.Author_twitter }}</a>
+								</p>
+							{{ else if .Other.Author }}
 								{{ $name := index .Site.Other (print .Other.Author "_name") }}
 								{{ $avatar := index .Site.Other (print .Other.Author "_avatar") }}
 								{{ $twitter := index .Site.Other (print .Other.Author "_twitter") }}
@@ -43,6 +55,12 @@
 							</p>
 						</div>
 					</div>
+					{{ if .Other.Author_byline }}
+						<div class="byline small">
+							<hr>
+							{{ .Other.Author_byline | markdown }}
+						</div>
+					{{ end }}
 				</div>
 			</article>
 		</div>

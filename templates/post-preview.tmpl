@@ -2,7 +2,9 @@
 <article>
 	<small class="date">{{ .Date.Format "January _2, 2006" }}</small>
 
-	{{ if .Other.Author }}
+	{{ if .Other.Author_name }}
+		<a href="{{ .Url }}"><img class="author" src="{{ .Other.Author_avatar }}" alt="{{ .Other.Author_name }}" title="{{ .Other.Author_name }}"></a>
+	{{ else if .Other.Author }}
 		{{ $name := index .Site.Other (print .Other.Author "_name") }}
 		{{ $avatar := index .Site.Other (print .Other.Author "_avatar") }}
 		<a href="{{ .Url }}"><img class="author" src="{{ $avatar }}" alt="{{ $name }}" title="{{ $name }}"></a>
@@ -14,6 +16,9 @@
 	
 	{{ if .Other.Header_image }}
 		<p><a href="{{ .Url }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.Header_image }}" class="imgix-fluid" alt="{{ .Title }}" title="{{ .Title }}"></a></p>
+	{{ end }}
+	{{ if .Other.Author_name }}
+		<p class="small text-muted">The following is a guest post written by {{ .Other.Author_name }}.</p>
 	{{ end }}
 
 	{{ if eq (index .Other "Excerpt") "false" }}

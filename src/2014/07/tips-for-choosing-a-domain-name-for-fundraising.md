@@ -2,6 +2,12 @@ date: 2014-07-24 16:53:21 +1200
 author: Chris
 title: 6 tips for choosing a domain name for fundraising
 header_image: 2014-07-24-donationto-iwantmyname.jpg
+
+author_name: DonationTo
+author_avatar: https://pbs.twimg.com/profile_images/486385319256670209/FDFe0HtM.jpeg
+author_twitter: donationto
+author_byline: Find more about DonationTo, including pricing, plans and testimonials on [donationto.com](http://www.donationto.com/). And once you're ready to get started, be sure to grab your [custom domain name](https://iwantmyname.com/services/social/register-domain-donationto) right here at iwantmyname.
+
 ----
 
 <!-- excerpt -->
