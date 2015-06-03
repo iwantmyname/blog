@@ -23,6 +23,9 @@ install:
 
 before_script:
   - git clone -b gh-pages git@github.com:iwantmyname/blog.git site
+  - cd site
+  - git rm -r *
+  - cd ..
 
 script:
   - gostatic config
