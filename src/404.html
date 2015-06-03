@@ -1,11 +1,5 @@
----
-layout: page
 title: Uh oh, this page is missing &mdash; iwantmyname Domain Blog
-
-# TODO: page alias idea
-# http://patrick-mckinley.com/tech/github-pages-redirect.html
----
-
+----
 <!-- Track 404 error in Analytics -->
 <script>
 	ga("send", "event", "Blog", "404", "404.html", null, { nonInteraction: true })
@@ -18,8 +12,8 @@ title: Uh oh, this page is missing &mdash; iwantmyname Domain Blog
 			
 			<p>Sorry about that! I've just left a note to our developers to look into why this page is missing.</p>
 
-			<p>In the meantime, we're redirecting you back to our blog home page.</p>
-			<meta http-equiv="refresh" content="8; url={{ site.baseurl }}/">
+			<p>In the meantime, we're redirecting you back to <a href="{{ .Site.Other.Base_url }}/">our blog home page</a>.</p>
+			<meta http-equiv="refresh" content="8; url={{ .Site.Other.Base_url }}/">
 		</div>
 	</div>
 </div>
