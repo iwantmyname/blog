@@ -11,7 +11,7 @@ Inbox Pro, an ambitious new startup has set out to solve that problem and help e
 
 [The Next Web](http://thenextweb.com/voice/2013/02/08/inboxpro-com-structured-communications/) calls Inbox Pro a "frighteningly ambitious" project and rightfully so. There are plenty of projects out there that plan to revolutionize email -- and have to some extent -- but none have caught on to the mainstream just yet.
 
-###How Inbox Pro Works
+### How Inbox Pro Works
 
 If a Inbox Pro user is sent an email, the message will be placed in the users' queue and the sender will receive an automatic reply with a handful of options.The automatic response will give the sender an idea of how long on average the user is taking to reply and will likely bounce many senders at this stage.
 

@@ -10,7 +10,7 @@ Back in July, [I wrote](https://iwantmyname.com/blog/2014/07/cities-are-a-good-b
 
 Looking at [nTLDStats](http://ntldstats.com/tld), .Berlin's popularity is holding up (still in the #2 spot), and the recently launched .Tokyo and .Wien (Vienna) are also quite popular at #16 and #45 respectively. City TLD popularity seems to be inevitable at this point (at least for big cities), and we'll get an idea of just how popular they'll be starting August 27th with .Hamburg, and continuing into the end of the year with .Capetown, .Durban and .Joburg, with more likely to come throughout 2015. 
 
-##City gTLD launch calendar
+## City gTLD launch calendar
 
 + Aug. 27 - [.Hamburg](https://iwantmyname.com/domains/dot-hamburg)
 + Sep. 9 - [.London](https://iwantmyname.com/domains/dot-london)
@@ -22,7 +22,7 @@ Looking at [nTLDStats](http://ntldstats.com/tld), .Berlin's popularity is holdin
 + Nov. 3 - [.Durban](https://iwantmyname.com/domains/dot-durban)
 + Nov. 3 - [.Joburg](https://iwantmyname.com/domains/dot-joburg)
 
-##Already launched city TLDs
+## Already launched city TLDs
 
 + [.Berlin](https://iwantmyname.com/domains/dot-berlin)
 + [.Nagoya](https://iwantmyname.com/domains/dot-nagoya)

@@ -13,17 +13,17 @@ So what do you do if you pick something you don't like? Here are some ideas.
 
 <!-- /excerpt -->
 
-###Learn to love it.
+### Learn to love it.
 
 Like my pre-teen self, I knew I was stuck with my name for the long haul. There were some rough times, but now I can safely say I'm happy with the name I was given. The accumulation of my actions over time have made my name into something I'm proud of. And once it sinks in, your domain name might be something you're proud of, too. 
 
 Next time you question your name, just think of all the hugely successful businesses out there with names that could've easily been second guessed. Apple. Yahoo! Twitter. The list goes on and on.
 
-###Save it for something else.
+### Save it for something else.
 
 Sometimes the problem with a name is that it's just not right for what it's being used for. But it's still a good name—one you can easily use for your *next* big thing. So hold onto it for the year (or forever), you never know when opportunity will strike.
 
-###Buy a new one.
+### Buy a new one.
 
 Sometimes the trick to truly being happy is to be more like Prince. The musician. Instead of getting stuck with a silly conventional name, he just changed his name to an unpronounceable symbol. The "Love Symbol." 
 

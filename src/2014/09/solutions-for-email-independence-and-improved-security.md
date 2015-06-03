@@ -27,7 +27,7 @@ At this point, the best way to secure our collective email data is to decentrali
 
 Now that we've established the problem, let's find some solutions.
 
-##Mailpile
+## Mailpile
 
 If your problem is that all your data is stored in a massive cloud, the simple solution is to take it off. With the [Mailpile](https://www.mailpile.is/) email client, your email is downloaded locally—directly from the internet to your computer (or wherever). And when they say locally, they mean it.
 
@@ -38,7 +38,7 @@ Here's a great [FAQ](https://www.mailpile.is/faq/) question:
 
 It's email on your terms, and only you have access to it—which is how it should be. Mailpile is still in beta, but definitely keep track of its progress on their [blog](https://www.mailpile.is/blog/).
 
-##Mail-in-a-Box
+## Mail-in-a-Box
 
 If you'd prefer to deploy your own email server (i.e. completely take control of your email), [Mail-in-a-Box](https://mailinabox.email/) is the solution for you. Just keep in mind that it's not a great solution for the average user.
 
@@ -49,7 +49,7 @@ Here's the big holdup—from the "[Pre-flight Checklist](https://mailinabox.emai
 
 So if you're in the market to become your own ISP, you don't mind being the admin of your own system, and you have a "completely fresh Ubuntu 14.04 machine" in a non-residential location, Mail-in-a-Box is definitely something worth checking out.
 
-##ProtonMail
+## ProtonMail
 
 Another way to get around potential government spying is to house your email servers in a country with strict privacy laws. So, in addition to end-to-end encryption, zero tracking, and self-destructing messages (think [Mission Impossible](http://www.youtube.com/watch?v=MA2KmJMKFrQ)), [ProtonMail](https://protonmail.ch/) "is incorporated in Switzerland and our servers are located in Switzerland. We are outside of US and EU jurisdiction and user data is protected by strict Swiss data protection laws." Also, the company was founded by "scientists who met at CERN"—and that has to count for something.
 

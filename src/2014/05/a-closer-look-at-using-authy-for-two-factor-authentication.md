@@ -11,7 +11,7 @@ Yesterday I [went over](https://iwantmyname.com/blog/2014/04/a-practical-look-at
 
 <!-- /excerpt -->
 
-###What is Authy?
+### What is Authy?
 
 [From Klint Finley - Wired:](http://www.wired.com/2013/07/authy/)
 
@@ -19,7 +19,7 @@ Yesterday I [went over](https://iwantmyname.com/blog/2014/04/a-practical-look-at
 
 >But Authy’s service isn’t something you use all on your own. You need help from third-party software developers. The company offers tools that let developers add its two-factor authentication to specific applications. Then, if you use one of these third-party apps, Authy provides another tool that ties into the app and manages your credentials. This tool can also double as a client for Google Authenticator, a similar service from the web search giant.
 
-###Downloading Authy
+### Downloading Authy
 
 There are a number of ways you can set Authy up now, including:
 
@@ -35,7 +35,7 @@ Authy for Chrome is brand new (here's the [official announcement](http://blog.au
 
 >But doesn’t that defeat the purpose of a two-factor application? Authy — unsurprisingly — claims it doesn’t. “Two-factor authentication is still valid regardless of whether the second authentication factor ‘you have’ comes from your cellphone, your tablet, or right from a desktop app in your laptop,” the company writes in a blog post today. “What really matters, is that it is something only you can have.”
 
-###What the setup looks like
+### What the setup looks like
 
 I personally have Authy downloaded on iOS and Chrome, so I'll walk through what the setups looked like.
 
@@ -55,7 +55,7 @@ Now, when you add your number into a platform like iwantmyname, verifications an
 
 Once you install Authy for Chrome, you're shown a similar screen as the iOS install that lets you enter your phone number. Just add it in, type in the code from the following text and you're good to go. 
 
-###Find more information
+### Find more information
 
 If you'd like to find more information about Authy, here are a few good places to start:
 

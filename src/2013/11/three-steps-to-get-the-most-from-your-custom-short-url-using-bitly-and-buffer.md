@@ -20,7 +20,7 @@ It's a trend we're seeing more and more of, and it's a fantastic way to brand yo
 
 <!-- /excerpt -->
 
-###1. Get A Short Domain Name. 
+### 1. Get A Short Domain Name. 
 
 The first step to branding your social posts is to get a shortened domain name. For instance, if you look above you'll see daringfireball.com (18 characters) shortened to df4.us (6 characters). The goal here is to make the most of your 140 characters on Twitter by limiting the length of your links. 
 
@@ -28,11 +28,11 @@ So set your sights for [iwmn.me/VSOb/5mCr9l3O](http://iwmn.me/VSOb/5mCr9l3O) to 
 
 And if you already have an iwantmyname domain name, just login and head over to our [marketplace](https://iwantmyname.com/services), choose Bitly, then hit Install. 
 
-###2. Get Your Bitly Account.
+### 2. Get Your Bitly Account.
 
 Once you have your custom domain, head over to [Bitly](https://bitly.com) and get an account. Then, in settings, you can set up your custom short domain for personal or business use. The setup is super simple, and because you already have the custom domain setup through iwantmyname, your work here is done.
 
-###3. Get Buffer. 
+### 3. Get Buffer. 
 
 If you're a social media manager or someone in charge of posting for a number of social platforms at once, [Buffer](https://bufferapp.com) is an invaluable tool. In one place, you can manage Twitter, Facebook, Google+, App.net and Linkedin, and see a host of stats on how your posts are performing. 
 

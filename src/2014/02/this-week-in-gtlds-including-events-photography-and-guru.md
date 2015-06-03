@@ -35,7 +35,7 @@ This week in gTLDs has been a rather big one, as the first seven have officially
 + [.PLUMBING](https://iwantmyname.com/domains/dot-plumbing)
 + [.VENTURES](https://iwantmyname.com/domains/dot-ventures)
 
-###gTLDs coming next week
+### gTLDs coming next week
 
 + [.CAMERA](https://iwantmyname.com/domains/dot-camera) - Available February 12, 2014 16:00:00 UTC for $49
 + [.EQUIPMENT](https://iwantmyname.com/domains/dot-equipment) - Available February 12, 2014 16:00:00 UTC for $29

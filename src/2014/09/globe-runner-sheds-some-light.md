@@ -21,11 +21,11 @@ In short, if you're a google AdWords user, it'll generally cost you less to get 
 
 ***
 
-###.DIAMONDS
+### .DIAMONDS
 
 >There were more conversions on the .com domain name for both the download of the PDF file and for clicks on the “Shop Diamond Rings” button on the site, and the total conversion rate was higher on the .Com domain name than it is on the .Diamonds domain name. So while the Google AdWords tends to favor the new gTLD domain name, consumers appear to favor the .Com (we saw nearly a 20 percent better conversion rate on the .Com domain name).
 
-###.MENU
+### .MENU
 
 >The CTR was actually better and cheaper using the .Menu domain name. Also, the average position of our ads using the .Menu domain name was better (it was higher) than the .Com. So it was clear to us that Google AdWords actually prefers the .Menu domain name over the .Com.
 

@@ -14,7 +14,7 @@ Let's take a look at some things to think about and research. We'll also get int
 
 <!-- /excerpt -->
 
-##What are you trying to build?
+## What are you trying to build?
 
 This may seem like an obvious one, but there are often nuances. In the same way a startup's target market isn't "everyone", neither is the target audience or community for your site. 
 
@@ -26,7 +26,7 @@ If you're looking for an audience, note that developing it can be quite differen
 
 To develop your personal or business brand and build an audience, you'll need to think more along the lines of celebrities, athletes, etc. whose sites are developed more to broadcast and share information with their fans, but not necessarily to interact with them on a large scale. (Though many of these sites have fan community areas where fans can interact with each other.)
 
-##Who else is doing what you want to do?
+## Who else is doing what you want to do?
 
 It is very unlikely that you are the first or only person doing what you want to do. (And if you are, there's probably a good reason there aren't others.) It may be a sparsely populated niche; it may be be well established and thriving. Do your research. 
 

@@ -10,7 +10,7 @@ iwantmyname has made quite a few changes over the last few months. We've expande
 
 <!-- /excerpt -->
 
-##Calling all UI designers
+## Calling all UI designers
 
 Our goal now is to find someone who can come in and make the iwantmyname UI something special. Specifically, we're looking for someone with great design chops and a love for usability and accessibility who is organized enough to work with a team scattered all around the world. We're based in Wellington, New Zealand, but it's a truly global company, with employees who live full-time and part-time in Europe, North America or wherever they happen to be at the moment. 
 

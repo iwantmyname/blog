@@ -10,11 +10,11 @@ It's no secret that the tech community loves the [.IO](https://iwantmyname.com/d
 
 <!-- /excerpt -->
 
-###Reduced price
+### Reduced price
 
 The new standard price of .IO is **$59 USD**, down from $69 USD. We're still running a .IO registration sale for $49 USD, so the new price reduction will come into play upon renewal. 
 
-###Whois masking
+### Whois masking
 
 ![alt](/media/2014-05-09-whois-privacy-masking-protection.png)
 

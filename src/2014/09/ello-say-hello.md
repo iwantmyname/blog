@@ -15,7 +15,7 @@ I don't think I need to introduce the importance of reducing unnecessary data co
 
 <!-- /excerpt -->
 
-###Social media: [Ello](https://ello.co/)
+### Social media: [Ello](https://ello.co/)
 
 Yes, another social media platform. But after personally using Ello for a month or so, I'm really excited about the community they're building. I'm also a big fan of the [manifesto](https://ello.co/manifesto):
 

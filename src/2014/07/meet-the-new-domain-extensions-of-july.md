@@ -12,30 +12,30 @@ Perhaps we'll see a new favorite from the new July domains though. Maybe .tokyo 
 
 <!-- /excerpt -->
 
-##Launch Calendar
+## Launch Calendar
 
-###July 2
+### July 2
 
 + [.fish](https://iwantmyname.com/domains/dot-fish)
 + [.report](https://iwantmyname.com/domains/dot-report)
 + [.vision](https://iwantmyname.com/domains/dot-vision)
 
-###July 8
+### July 8
 
 + [.blackfriday](https://iwantmyname.com/domains/dot-blackfriday)
 + [.christmas](https://iwantmyname.com/domains/dot-christmas)
 
-###July 9
+### July 9
 
 + [.pub](https://iwantmyname.com/domains/dot-pub)
 + [.services](https://iwantmyname.com/domains/dot-services)
 
-###July 14
+### July 14
 
 + [.bar](https://iwantmyname.com/domains/dot-bar)
 + [.rest](https://iwantmyname.com/domains/dot-rest)
 
-###July 16
+### July 16
 
 + [.capital](https://iwantmyname.com/domains/dot-capital)
 + [.engineering](https://iwantmyname.com/domains/dot-engineering)
@@ -43,13 +43,13 @@ Perhaps we'll see a new favorite from the new July domains though. Maybe .tokyo 
 + [.gripe](https://iwantmyname.com/domains/dot-gripe)
 + [.moda](https://iwantmyname.com/domains/dot-moda)
 
-###July 22
+### July 22
 
 + [.moe](https://iwantmyname.com/domains/dot-moe)
 + [.tokyo](https://iwantmyname.com/domains/dot-tokyo)
 + [.voting](https://iwantmyname.com/domains/dot-voting)
 
-###July 23
+### July 23
 
 + [.associates](https://iwantmyname.com/domains/dot-associates)
 + [.consulting](https://iwantmyname.com/domains/dot-consulting)
@@ -57,14 +57,14 @@ Perhaps we'll see a new favorite from the new July domains though. Maybe .tokyo 
 + [.media](https://iwantmyname.com/domains/dot-media)
 + [.pictures](https://iwantmyname.com/domains/dot-pictures)
 
-###July 30
+### July 30
 
 + [.reisen](https://iwantmyname.com/domains/dot-reisen)
 + [.town](https://iwantmyname.com/domains/dot-town)
 + [.toys](https://iwantmyname.com/domains/dot-toys)
 + [.university](https://iwantmyname.com/domains/dot-university)
 
-##One more thing
+## One more thing
 
 [.Buzz](https://iwantmyname.com/domains/dot-buzz) is on sale starting today for $34.90 USD, down from $49 USD. If you're in the market for a .buzz domain, now is the time to grab it. 
 

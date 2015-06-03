@@ -14,7 +14,7 @@ In short, Zoho Mail offers [just about everything](https://www.zoho.com/mail/zoh
 
 ![Tiers](/media/2014-06-19-zoho-tiers.png)
 
-##Setting up your custom email address
+## Setting up your custom email address
 
 Once you're ready to get started with Zoho Mail, the setup is quite simple. First, head to your iwantmyname dashboard and select **Apps & Services** under the **Setup** menu. Under the **Mail** category, you'll see [Zoho Mail](https://iwantmyname.com/features/applications/custom-domain-apps/zoho/email-hosting-and-online-office-suite) (or just type in Zoho Mail in the search field). From there, just add it to your domain and click **Install Zoho Mail**.
 

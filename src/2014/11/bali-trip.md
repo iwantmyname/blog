@@ -41,7 +41,7 @@ So in 2015, we're going to work harder than ever to simplify domain registration
 
 ***
 
-##Quick Bali tips
+## Quick Bali tips
 
 ![Seniman](/media/2014-11-11-bali-coffee.JPG)
 

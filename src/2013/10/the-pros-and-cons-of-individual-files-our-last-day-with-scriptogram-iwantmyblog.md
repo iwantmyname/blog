@@ -19,7 +19,7 @@ But look at the bright side. At least you know all your data is all there!
 
 Next stop, [Tumblr](https://www.tumblr.com/). 
 
-###Read all of #iwantmyblog's week with Scriptogram:
+### Read all of #iwantmyblog's week with Scriptogram:
 
 + [Getting Started With Scriptogram](https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html)
 + [Using Scriptogram The Normal Way, And With Mou](https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html)

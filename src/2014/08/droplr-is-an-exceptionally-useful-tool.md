@@ -21,7 +21,7 @@ Completely replacing Grab on my computer is Droplr, which allows me to take regu
 
 **All your files are attached to a custom domain**: To me, this is an invaluable feature. When you're sending files around, especially to clients, it's important to establish a level of trust. So first, Droplr allows you to password protect your links and create self-destructing drops. But then it takes the next step and allows you to send links with your very own custom short domain. So instead of sending emails or messages with links to shady files, we can send out links like iwmn.me./XXXXXXX. And the setup is incredibly simple. 
 
-##Adding a custom domain to Droplr
+## Adding a custom domain to Droplr
 
 Like all [the best apps and platforms](https://iwantmyname.com/services), adding a custom domain is painless with iwantmyname.
 

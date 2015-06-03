@@ -171,7 +171,7 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 ***
 
-###Not static, but in the same universe
+### Not static, but in the same universe
 
 [Kirby](http://getkirby.com/) - A PHP-built CMS that's "easy to setup, easy to use, flexible as hell."
 

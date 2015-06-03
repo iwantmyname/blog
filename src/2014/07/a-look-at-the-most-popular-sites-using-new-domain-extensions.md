@@ -14,7 +14,7 @@ There aren't any sites using gTLDs in the Alexa top 500 yet, but there are 34 in
 
 <!-- /excerpt -->
 
-##Alexa top 100,000 distribution
+## Alexa top 100,000 distribution
 
 + [.CLUB](https://iwantmyname.com/domains/dot-club) 9
 + [.TODAY](https://iwantmyname.com/domains/dot-today) 6
@@ -33,7 +33,7 @@ There aren't any sites using gTLDs in the Alexa top 500 yet, but there are 34 in
 + [.XYZ](https://iwantmyname.com/domains/dot-xyz) 1
 + [.ZONE](https://iwantmyname.com/domains/dot-zone) 1
 
-##Takeaways
+## Takeaways
 
 + Shorter TLDs seem to be doing much better than longer ones (which makes sense), with only five of the top 34 having more than a five-letter domain extension. If this trend holds, it doesn't bode well for the longer gTLDs yet to come out.
 + .XYZ, the top gTLD in overall registrations, only appears once in the Alexa top 100,000. Given its relative newness, this doesn't come as too much of a surprise, but it's hard to know what percentage of its 300,000+ applications are just junk to inflate stats.

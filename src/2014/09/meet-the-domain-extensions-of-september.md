@@ -14,9 +14,9 @@ There are plenty more domains coming out though, so don't miss the rest of the l
 
 <!-- /excerpt -->
 
-##September Launch Calendar
+## September Launch Calendar
 
-###September 3
+### September 3
 
 + [.credit](https://iwantmyname.com/domains/dot-credit)
 + [.gratis](https://iwantmyname.com/domains/dot-gratis)
@@ -25,20 +25,20 @@ There are plenty more domains coming out though, so don't miss the rest of the l
 + [.juegos](https://iwantmyname.com/domains/dot-juegos)
 + [.claims](https://iwantmyname.com/domains/dot-claims)
 
-###September 9
+### September 9
 
 + [.global](https://iwantmyname.com/domains/dot-global)
 + [.london](https://iwantmyname.com/domains/dot-london)
 + [.yokohama](https://iwantmyname.com/domains/dot-yokohama)
 
-###September 10
+### September 10
 
 + [.accountants](https://iwantmyname.com/domains/dot-accountants)
 + [.digital](https://iwantmyname.com/domains/dot-digital)
 + [.finance](https://iwantmyname.com/domains/dot-finance)
 + [.insure](https://iwantmyname.com/domains/dot-insure)
 
-###September 15
+### September 15
 
 + [.cooking](https://iwantmyname.com/domains/dot-cooking)
 + [.country](https://iwantmyname.com/domains/dot-country)
@@ -48,7 +48,7 @@ There are plenty more domains coming out though, so don't miss the rest of the l
 + [.vegas](https://iwantmyname.com/domains/dot-vegas)
 + [.vodka](https://iwantmyname.com/domains/dot-vodka)
 
-###September 17
+### September 17
 
 + [.church](https://iwantmyname.com/domains/dot-church)
 + [.guide](https://iwantmyname.com/domains/dot-guide)
@@ -57,17 +57,17 @@ There are plenty more domains coming out though, so don't miss the rest of the l
 + [.loans](https://iwantmyname.com/domains/dot-loans)
 + [.press](https://iwantmyname.com/domains/dot-press)
 
-###September 24
+### September 24
 
 + [.direct](https://iwantmyname.com/domains/dot-direct)
 + [.place](https://iwantmyname.com/domains/dot-place)
 
-###September 25
+### September 25
 
 + [.beer](https://iwantmyname.com/domains/dot-beer)
 + [.surf](https://iwantmyname.com/domains/dot-surf)
 
-###September 30
+### September 30
 
 + [.bayern](https://iwantmyname.com/domains/dot-bayern)
 + [.nz](https://iwantmyname.com/domains/dot-nz)

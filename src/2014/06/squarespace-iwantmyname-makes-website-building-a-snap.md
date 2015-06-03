@@ -16,7 +16,7 @@ With [Squarespace](https://iwantmyname.com/features/applications/custom-domain-a
 
 For many users though, the [Commerce](http://www.squarespace.com/tour/shops) features are the main draw. Using a the same simple integration tools you use to add third-party integrations, you can add products to your site, manage your inventory, take payments and customize marketing emails. It really is a one-stop-shop for all your ecommerce needs.
 
-##Setting up your domain with Squarespace
+## Setting up your domain with Squarespace
 
 Once you're ready to build your Squarespace site, adding your domain is super simple. First, head over to your iwantmyname dashboard and select **Apps & Services** under the **Setup** menu. Then, under the **Website Builder** category, click on Squarespace (or just type in Squarespace in the search field). Now, just add it to your domain and click **Install Squarespace**.
 
@@ -26,7 +26,7 @@ Once you're done with the iwantmyname side, just login to your Squarespace accou
 
 And that's it! You're now ready to build a website for all the world to see.
 
-##A quick note about separating your domain from your hosting platform
+## A quick note about separating your domain from your hosting platform
 
 We've had many customers ask us about Squarespace's offer for a free domain when you pre-pay for a full year of their service. It's a great deal from a cost standpoint, but there are some major drawbacks to keep in mind: 
 

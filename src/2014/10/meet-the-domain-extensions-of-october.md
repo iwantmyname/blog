@@ -14,24 +14,24 @@ And remember, pre-orders are still open for all future releases, so if you have 
 
 ***
 
-###October 1
+### October 1
 
 + [.deals](https://iwantmyname.com/domains/dot-deals)
 
-###October 8
+### October 8
 
 + [.city](https://iwantmyname.com/domains/dot-city)
 + [.nyc](https://iwantmyname.com/domains/dot-nyc)
 
-###October 14
+### October 14
 
 + [.okinawa](https://iwantmyname.com/domains/dot-okinawa)
 
-###October 15
+### October 15
 
 + [.soy](https://iwantmyname.com/domains/dot-soy)
 
-###October 22
+### October 22
 
 + [.vet](https://iwantmyname.com/domains/dot-vet)
 

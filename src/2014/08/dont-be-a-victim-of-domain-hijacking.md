@@ -6,7 +6,7 @@ header_image: 2014-08-12-fence.jpg
 
 Domain hijacking is probably the single worst thing that can happen to a website, and we want to make sure it never happens to you. So if you read anything today, please check out Domain Investing's "[5 Tips to Prevent Domain Hijacking](http://www.domaininvesting.com/5-tips-prevent-domain-hijacking/)". It's a pretty short article, but the tips included are invaluable.
 
-###A quick security primer
+### A quick security primer
 
 <!-- excerpt -->
 

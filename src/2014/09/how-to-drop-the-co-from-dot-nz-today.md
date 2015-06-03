@@ -13,7 +13,7 @@ The shorter .nz domains have arrived! Now you can purchase New Zealand’s count
 
 <!-- /excerpt -->
 
-##How do I make the switch?
+## How do I make the switch?
 
 If you have an existing .co.nz, .net.nz or .org.nz third-level domain name and are looking to grab your corresponding .nz domain name (it's not mandatory, but people are likely going to gravitate to the shorter option), you'll first need to check the status of your domain name at [anyname.nz](http://anyname.nz).
 
@@ -23,7 +23,7 @@ If you don't have PRE, your name may be conflicted, meaning at least two second 
 
 The third option is that if you registered your .co.nz domain name after 9am, 30 May 2012, your .nz domain name may be available on a first-come, first-served basis and you can [purchase them as you normally would at iwantmyname](https://iwantmyname.com/domains/dot-nz).
 
-##How can I get my website to work with the shorter .nz domain?
+## How can I get my website to work with the shorter .nz domain?
 
 Once you've registered ‘yourname.nz’, the easiest way to start is to simply forward it to your existing ‘yourname.co.nz’ domain name. You can do this using the “Web Forwarding” option in your iwantmyname dashboard.
 
@@ -33,6 +33,6 @@ If you just want to be done with your .co.nz domain altogether though, be sure t
 
 And if you are starting a website or project from scratch, we'd definitely recommend using ‘yoursite.nz’ instead of ‘yoursite.co.nz’ from the beginning. It'll save you the hassle of switching later on.
 
-##Send us any and all questions
+## Send us any and all questions
 
 This transition is a major one for New Zealand, and we want to make sure it's a painless as possible. So if you have any questions about your .co.nz domain or the new .nz domain names in general, please [let us know](https://iwantmyname.com/support).

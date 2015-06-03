@@ -14,14 +14,14 @@ It's something we think is really important, so here's a quick look at how to se
 
 <!-- /excerpt -->
 
-###The setup
+### The setup
 
 1. Login to your account, then select "Login & Security" under the "Account" dropdown menu
 2. Under "Two-step verification" type in your phone number and country code, then download the Authy app for iOS or Android (an SMS text option is available if you're on an unsupported platform).
 
 ![2FA setup](/media/2014-05-01-2fa-setup.png)
 
-###Using 2FA
+### Using 2FA
 
 Now that you're all setup, your login will look like this:
 
@@ -31,7 +31,7 @@ Just open up your Authy app (or SMS text) and type in the code provided—and th
 
 ![Authy](/media/2014-05-01-2fa.png)
 
-###But will this get annoying?
+### But will this get annoying?
 
 The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we're not a Bitcoin platform you're logging into every day. If you're like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you're slow, it can only take that long), you're only looking at losing a few seconds of your life a month. 
 

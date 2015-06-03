@@ -15,13 +15,13 @@ So I ordered a pizza, watched The Big Lebowski for the 50th time, waited 10 year
 
 <!-- /excerpt -->
 
-###The plan of action.
+### The plan of action.
 
 In the last decade, a lot has happened in the blogging world. Templates got better. Responsive design became a thing. Social media went bananas. There's quite a bit of catching up to do, and a ton of new blog platforms to try out. All said, it's going to take an incredible amount of time.
 
 So, to make it easier for myself, I'm giving each blog platform a solid week. With my trusty [iwantmyblog.com](http://iwantmyblog.com) domain name in hand, I'll work fast to build a basic site on Monday, spend the middle of the week writing about the platform and be out by the end of Friday. Then, with a clean URL and (hopefully) a mess of content in some sort of export file, I'll take my blog on the road to the next platform. And so on. 
 
-###Follow me. 
+### Follow me. 
 
 If you're so inclined, come follow me on my little journey at iwantmyblog.com, or just keep reading the [blog at iwantmyname.com](https://iwantmyname.com/blog/) for all the bigger stories. And if you want to connect and talk about the platform I'm currently using (or the one I should use next), just send me an email at `<chris@ideegeo.com>`. 
 

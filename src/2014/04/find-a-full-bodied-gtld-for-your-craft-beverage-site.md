@@ -12,7 +12,7 @@ And now, with the launch of the new generic top-level domains (gTLDs), drink mak
 
 <!-- /excerpt -->
 
-###. COFFEE
+### . COFFEE
 
 Quartz posted an eye-opening [article](http://qz.com/166983/where-the-worlds-biggest-coffee-drinkers-live/) (excuse the pun) back in January about coffee consumption around the world—specifically about how much more coffee Northern Europe drinks than the US, UK, France, Spain and Italy. 
 

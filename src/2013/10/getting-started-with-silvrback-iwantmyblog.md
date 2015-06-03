@@ -9,13 +9,13 @@ There's something refreshing about blogging on a platform meant for blogging. I 
 
 <!-- /excerpt -->
 
-###Focus
+### Focus
 
 I've talked about [Dropbox blogging](https://iwantmyname.com/blog/2013/09/own-your-content-the-rise-of-dropbox-blogging.html) a lot recently, and how "owning" your content should be more of a priority. But one of the hurdles Dropbox blogging will have to overcome is complexity. For instance, to publish a file to a blog like [Scriptogram](https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html), you have to write your post locally, save it to a Dropbox folder, then trust that it'll sync properly. And if you want to go back and edit it (or delete it), you have to go back into your file and make your changes, then again hope the sync works as it should. Which doesn't always work out like you think it will.
 
 Now as Dropbox platforms become more mature (and step out of permanent beta), things may become more seamless, but right now, nothing beats a platform with a clean CMS and a managed hosting platform*. And Silvrback is just that. Simply sign up for a payment plan, fiddle with a few settings options (don't forget to set up your custom domain!) and you're ready to write. Presto change-o.
 
-###Writing
+### Writing
 
 ![sb_float](/media/2013-10-22-Silvrback_Writing_medium.png)
 

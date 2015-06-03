@@ -11,7 +11,7 @@ Here's a scam we've seen going around recently. It looks pretty real, but the tr
 
 <!-- /excerpt -->
 
-###The Email.
+### The Email.
 ![domain-scam-email-blog-size.png](/media/2013-10-26-domain-scam-email-blog-size.png)
 
 The wording here is very tricky, basically telling you that if you don't send money, *their* offer will expire—not your domain, which they're trying to trick you into transferring.
@@ -20,7 +20,7 @@ And on a side note, here's the deal with anyone offering search engine submissio
 
 So before you pay for anything, know what you're getting yourself into. If it sounds like hocus-pocus, it probably is. Do your research.
 
-###The payment page. 
+### The payment page. 
 ![domain-scam-site-blog-size.png](/media/2013-10-26-domain-scam-site-blog-size.png)
 
 If you click through, the payment page is even sneakier than the email. No information, real payment verification logos and a legitimate-looking form asking you for money.

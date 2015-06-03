@@ -29,7 +29,7 @@ At the moment, the vast majority of sites on the web use .com as their domain ex
 
 The fact is that while .com names are easily the most popular today, we're simply running out of good options available. If you're looking for something short and catchy, you're practically forced to look outside of the .com realm. And in 10 years, who knows what will be left.
 
-###Something To Get Your Mind Going.
+### Something To Get Your Mind Going.
 
 If you're looking to get a great domain hack for yourself, here are a few good domain extensions to start with.
 

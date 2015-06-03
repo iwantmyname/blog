@@ -15,7 +15,7 @@ For most users, a bitly link looks something like this: bit.ly/xxxxxxx. Basicall
 
 <!-- /excerpt -->
 
-###How It Works. 
+### How It Works. 
 
 The process to setup your own shortened link is shockingly simple. First, get your domain at [iwantmyname.com](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service) (if you already have an iwantmyname domain, just install bitly in the [marketplace](https://iwantmyname.com/services)). 
 

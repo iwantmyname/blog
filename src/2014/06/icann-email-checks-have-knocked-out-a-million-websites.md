@@ -21,7 +21,7 @@ From Kevin Murphy - [Domain Incite](http://domainincite.com/16963-a-million-doma
 
 So, just for the sake of being safe, I'll end this post the same way we ended our original post on the subject. 
 
-##So what should you do now?
+## So what should you do now?
 
 As soon as you are able, please ensure that your domain name is associated with a valid email address. The last thing we want is for you to make a change, then have your verification email sent to an old address.
 

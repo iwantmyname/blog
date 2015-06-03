@@ -14,13 +14,13 @@ With a quick Google search, I'm finding that most local agents are using a YOURN
 
 So instead of .COM, here are some great new and upcoming generic top-level domains (gTLDs) you could use instead:
 
-###Broad
+### Broad
 
 + [.BROKER](https://iwantmyname.com/domains/dot-broker)
 + [.REALESTATE](https://iwantmyname.com/domains/dot-realestate)
 + [.REALTY](https://iwantmyname.com/domains/dot-realty)
 
-###Specific
+### Specific
 
 + [.CONDOS](https://iwantmyname.com/domains/dot-condos)
 + [.FORSALE](https://iwantmyname.com/domains/dot-forsale)
@@ -33,7 +33,7 @@ So instead of .COM, here are some great new and upcoming generic top-level domai
 + [.VACATIONS](https://iwantmyname.com/domains/dot-vacations)
 + [.VILLAS](https://iwantmyname.com/domains/dot-villas)
 
-###A few naming tips
+### A few naming tips
 
 This really applies to any industry, but the most important factor when determining a domain name should be memorability. And today, the most memorable sites are short .COMs. The problem many people are running into is that the list of available short .COMs is shrinking, so moving to a newer gTLD like .REALTY can be a good alternative. 
 

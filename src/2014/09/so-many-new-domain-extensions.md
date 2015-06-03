@@ -11,7 +11,7 @@ We've been launching a handful of [new generic top-level domains](https://iwantm
 
 So here's the list:
 
-###September 15
+### September 15
 
 + [.cooking](https://iwantmyname.com/domains/dot-cooking)
 + [.country](https://iwantmyname.com/domains/dot-country)
@@ -22,7 +22,7 @@ So here's the list:
 + [.vegas](https://iwantmyname.com/domains/dot-vegas)
 + [.vodka](https://iwantmyname.com/domains/dot-vodka)
 
-###September 17
+### September 17
 
 + [.church](https://iwantmyname.com/domains/dot-church)
 + [.guide](https://iwantmyname.com/domains/dot-guide)

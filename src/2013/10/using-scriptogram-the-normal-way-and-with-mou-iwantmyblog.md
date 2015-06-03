@@ -11,7 +11,7 @@ But first, a mini intro to to Dropbox blogging. [Like I've said before](https://
 
 <!-- /excerpt -->
 
-###Using Mou.
+### Using Mou.
 
 ![Screen Shot 2013-10-09 at 11.26.58.png](/media/2013-10-10-Screen_Shot_2013-10-09_at_11.26.58.png)
 
@@ -19,7 +19,7 @@ So here's how I'm posting. First, get Mou, [my new favorite Markdown editor](htt
 
 **Edit:** If you edit a file and repost it from Mou, sometimes things get a little weird. I've found that the issues work themselves out after a few minutes, but for instant gratification, just go to your Scriptogram dashboard and hit Synchronize. Alternatively, if you turn on "Automatically publish from Dropbox" (directions below), edits automatically get made.
 
-###The normal way.
+### The normal way.
 
 Without Mou, the default way to post is to go to your Scriptogram dashboard, click Add Post, then start writing in the browser (or copy paste your Markdown). But to me, the best part of using a Dropbox blog platform is to completely do away with browser editing (not that there's anything wrong with writing in the browser, I just prefer using apps).
 
@@ -29,7 +29,7 @@ To get around the Dashboard, you first must go to Settings and turn on "Automati
 
 In your favorite Markdown editor, just create your post, add the Date: and Title: meta information to the top and save it to your Dropbox folder. Without the meta data, things get a little wonky, but when it's done right it works like a charm.
 
-###Read all of #iwantmyblog's week with Scriptogram:
+### Read all of #iwantmyblog's week with Scriptogram:
 
 + [Getting Started With Scriptogram](https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html)
 + [Using Scriptogram The Normal Way, And With Mou](https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html)

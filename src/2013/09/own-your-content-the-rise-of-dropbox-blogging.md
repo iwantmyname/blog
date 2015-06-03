@@ -17,7 +17,7 @@ But when your content is tied to a specific blog platform, what happens to it if
 
 <!-- /excerpt -->
 
-###Enter Dropbox.
+### Enter Dropbox.
 
 For the sake of conversation, let's say traditional blogging is like a checking account. Each bank or credit union has safeguards in place to keep your money liquid, but it'll never be as readily accessible as if you just had a pile of cash in your closet. 
 
@@ -25,7 +25,7 @@ Like that pile of cash, Dropbox-based blogging platforms give you on-demand acce
 
 Best of all, instead of being bound to a proprietary WYSIWYG editor (i.e. needing to login to a page to write and edit content), Dropbox blogging platforms let you use just about any plain-text word processor on the market. Mou. iA Writer. TextEdit. Anything. You're in complete control of your writing environment.
 
-###So where do we come in?
+### So where do we come in?
 
 At iwantmyname, our goal is to make installing a custom domain the easiest step in the site-creation process. And through our [apps and services marketplace](https://iwantmyname.com/services), we offer easy domain installation to some of the best Dropbox powered blog platforms for writers, including [Sctriptogr.am](https://iwantmyname.com/services/blog-hosting/scriptogr.am-custom-domain) and [Calepin](https://iwantmyname.com/services/blog-hosting/calepin-custom-domain).
 

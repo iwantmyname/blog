@@ -14,21 +14,21 @@ So to make things easy, here are four modern platforms from our [one-click marke
 
 <!-- /excerpt -->
 
-##Discoverability is all in a name
+## Discoverability is all in a name
 
 Finding the perfect domain name can be just as important as building a great site. And if you only take one thing from this post, it should be that **your domain name should be the same as your company name**. Most restaurants will likely try to grab a .com first, but don't sacrifice memorability just so you can have a specific domain extension. 
 
 For example, if your company name is Bar Chris (and barchris.com is taken), don't register something like barchrisyum.com just to be in the .com namespace. It'll just confuse people—and besides, there are so many great alternatives available.
 
-###Option 1: Look for something local
+### Option 1: Look for something local
 
 Unless you're in the US, country code top-level domains (ccTLDs) are extremely popular and can significantly open up your naming options. For instance, if you're looking to open a bakery in Canada, you may find it easier to find a short, descriptive domain in the [.ca](https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada) namespace than .com.
 
-###Option 2: Even local-er
+### Option 2: Even local-er
 
 Even more direct that the ccTLDs are the new [city domain extensions](https://iwantmyname.com/blog/2014/07/cities-are-a-good-bet-for-new-domain-extension-success.html). You'll want to be careful not to put yourself in too much of a box, but if you're not looking to expand to other cities (or you plan on registering in each new city you move to), there are a bunch of great cities with their own TLDs now. [.NYC](https://iwantmyname.com/domains/dot-nyc), [.Paris](https://iwantmyname.com/domains/dot-paris), [.London](https://iwantmyname.com/domains/dot-london), [.Moscow](https://iwantmyname.com/domains/dot-moscow)—the list goes on and on, and more cities will surely be added in the future.
 
-###Option 3: Try a generic term
+### Option 3: Try a generic term
 
 The third option is to do away with localization altogether, and instead move to a TLD that better categorizes your domain on the web. Just as .com stands for commercial, these domain extensions actually mean something—and they can be a benefit for domain recall (BOBSPIZZA.london might not stick, but BOBS.pizza is nice and memorable):
 
@@ -41,7 +41,7 @@ The third option is to do away with localization altogether, and instead move to
 + [.KITCHEN](https://iwantmyname.com/domains/dot-kitchen)
 + [.PIZZA](https://iwantmyname.com/domains/dot-pizza)
 
-##4 DIY platforms for building your site
+## 4 DIY platforms for building your site
 
 Once you have your name in place, here are some nice platforms to try out. All offer modern templates and great features, and are perfect for people with little-to-no development knowledge. 
 

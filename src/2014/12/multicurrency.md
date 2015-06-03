@@ -8,7 +8,7 @@ excerpt: false
 
 If you've been on the [iwantmyname website](https://iwantmyname.com/) lately, you might've noticed a change in parts of the site—a new multicurrency toggle. Now, instead of displaying prices (and accepting payments) in only USD (US Dollar), you can switch currencies to NZD (New Zealand Dollar), GBP (British Pound), AUD (Australian Dollar), and EUR (Euro). It's a small feature, but one we're really happy to roll out.
 
-###A Little Backstory
+### A Little Backstory
 
 For the first half-decade of iwantmyname, implementing multicurrency through our upstream partner was simply too big a project for our team to handle. So, with the majority of our business coming through the US, we began our existence with USD as our payment standard. 
 

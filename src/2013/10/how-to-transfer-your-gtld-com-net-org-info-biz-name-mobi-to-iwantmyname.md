@@ -13,35 +13,35 @@ Based on ICANN policy, all gTLDs require the same transfer process, which is dif
 
 <!-- /excerpt -->
 
-###1. Check If Your Domain Is Old Enough.
+### 1. Check If Your Domain Is Old Enough.
 
 There is a general 60-day transfer lock on newly registered or transferred gTLDs. To eliminate holdups, please make sure your domain has been registered longer than 60 days and has not been transferred within the last 60 days.
 
 Note: Some registrars also 'lock' domains for transfer if the domain's contact details have been changed—check your current registrar's terms and conditions to find out. You should still be able to transfer a domain even if you've updated the contact details—however, you might need to contact the support team of your current registrar to assist you with the next step.
 
-###2. Unlock Your Domain.
+### 2. Unlock Your Domain.
 
 gTLDs usually have a transfer lock enabled—even if they are older than 60 days—to 'protect' your domain from being transferred without your approval. Before your transfer, you need to unlock the domain, either in your current registrar's management interface or by contacting their support team.
 
-###3. Remove Whois Privacy.
+### 3. Remove Whois Privacy.
 
 In order to approve the domain transfer, we'll need access to the domain's contact email address. However, most Whois Privacy services don't forward emails sent to the Whois privacy email address, which prevents necessary data from being received.
 
-###4. Check Your Domain's Contact Email Address.
+### 4. Check Your Domain's Contact Email Address.
 
 Make sure you have access to the domain's registrant and/or admin contact email address, even if you have no Whois Privacy enabled. Without access to that email address, you will not be able to approve the transfer. And if you need to update this email address, most registrars provide a contact update function in their management interface.
 
-###5. Get The Domain's Auth Code.
+### 5. Get The Domain's Auth Code.
 
 Also called Authorization Code, EPP key, transfer key or transfer password. Some registrars provide the Auth Code in their domain management interface, and some provide a method to request the Auth Code which is then sent to the admin or registrant contact email address. Be sure to contact your current registrar's support team if you need help locating the Auth Code.
 
-###6. Start The Domain Transfer.
+### 6. Start The Domain Transfer.
 
 You're so close! At this point, you're ready to start the transfer at https://iwantmyname.com/domains/domain-transfer. Just put the domain name in the field provided and hit the "Go" button.
 
 ![start-transfer.png](/media/2013-10-25-start-transfer.png)
 
-###7. Check The Email Address And Add The Auth Code.
+### 7. Check The Email Address And Add The Auth Code.
 
 On the next page, check the email address shown. If it's an email address, you'll have access to put in the Auth Code in the field provided and click "Continue". Follow the checkout process to start the transfer.
 
@@ -49,7 +49,7 @@ If you don't have access to the email address shown, go back to your current reg
 
 ![add-auth-code.png](/media/2013-10-25-add-auth-code.png)
 
-###8. Confirm the Transfer Authorization Email.
+### 8. Confirm the Transfer Authorization Email.
 
 Once the transfer has been started successfully, an email will be sent to the admin contact of the domain name—sometimes an email will also be sent to the registrant contact of the domain if it differs from the admin contact.
 
@@ -57,7 +57,7 @@ The email will be sent from help@support.iwantmyname.com and has the subject "Do
 
 Please follow the instructions in the email to approve the transfer.
 
-###9. Transfer Will Finalize Within 5 Days.
+### 9. Transfer Will Finalize Within 5 Days.
 
 After confirming the email, it may take up to five days for the transfer to finalise. 
 

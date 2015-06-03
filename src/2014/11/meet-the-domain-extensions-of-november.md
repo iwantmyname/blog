@@ -14,32 +14,32 @@ This month, things are picking back up a bit, with 15 domains coming out—and a
 
 ***
 
-##November 3
+## November 3
 
 + [.Capetown](https://iwantmyname.com/domains/dot-capetown)
 + [.Durban](https://iwantmyname.com/domains/dot-durban)
 + [.Joburg](https://iwantmyname.com/domains/dot-joburg)
 
-##November 5
+## November 5
 
 + [.market](https://iwantmyname.com/domains/dot-market)
 + [.mortgage](https://iwantmyname.com/domains/dot-mortgage)
 
-##November 12
+## November 12
 
 + [.gifts](https://iwantmyname.com/domains/dot-gifts)
 + [.restaurant](https://iwantmyname.com/domains/dot-restaurant)
 + [.sarl](https://iwantmyname.com/domains/dot-sarl)
 
-##November 13
+## November 13
 
 + [.Quebec](https://iwantmyname.com/domains/dot-quebec)
 
-##November 19
+## November 19
 
 + [.engineer](https://iwantmyname.com/domains/dot-engineer)
 
-##November 25
+## November 25
 
 + [.click](https://iwantmyname.com/domains/dot-click)
 + [.diet](https://iwantmyname.com/domains/dot-diet)

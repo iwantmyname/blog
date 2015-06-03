@@ -13,7 +13,7 @@ Starting 30 September at 1pm NZDT, .NZ will be available to everyone on a first 
 
 <!-- /excerpt -->
 
-##How to get your corresponding .NZ domain name
+## How to get your corresponding .NZ domain name
 
 First, [check your "right of registration status"](http://anyname.nz/index.html) which can be one of the following:
 

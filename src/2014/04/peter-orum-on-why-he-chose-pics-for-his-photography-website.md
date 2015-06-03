@@ -25,7 +25,7 @@ For personal photography sites, I think the .PICS and .PHOTOS domains are the wa
 
 Whichever of the new gTLDs you choose, make sure that the www prefix also works (using a CNAME), as many people still type that in by default, and some editors don't automatically set the straight domain as a link yet.
 
-###Any non-.COM anxiety?
+### Any non-.COM anxiety?
 
 Choosing a non-.COM wasn’t a cause for concern for my personal site. I already have my name, [peterorum.com](http://www.peterorum.com), and other attractive .COM domains are long gone. Discoverability these days is not so much about your domain, but rather having good content, a responsive site for mobile and good promotion. It's also important to get a Google+ profile to link to your site so you are verified as the site author to generate trust. And, for photography, you can promote your work on other sites such as Flickr, Instragram and Twitter, with your site linked through your profile. Because of this visual exposure, an interesting, descriptive, short and memorable domain may be more important than a less memorable one that just aims to show up in Google via domain keywords.
 

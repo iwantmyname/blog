@@ -18,7 +18,7 @@ But every once in a while Google will announce a very specific algorithm change 
 
 Put simply, Google is now starting to give a minor ranking boost to sites using HTTPS (Hypertext Transfer Protocol Secure) instead of the standard HTTP. 
 
-###So what can you do about it?
+### So what can you do about it?
 
 [From Eric Mill:](https://konklone.com/post/switch-to-https-now-for-free)
 
@@ -28,12 +28,12 @@ If you're in this boat, [his post](https://konklone.com/post/switch-to-https-now
 
 We also have a number of [preferred SSL certificate providers](https://iwantmyname.com/ssl), so be sure to do a bit of homework first to see which provider best fits your needs.
 
-###CloudFlare will soon be all HTTPS
+### CloudFlare will soon be all HTTPS
 
 [CloudFlare](http://blog.cloudflare.com/google-now-factoring-https-support-into-ranking-cloudflare-on-track-to-make-it-free-and-easy), the popular content delivery network and distributed domain name server, is "on track to roll out SSL for all CloudFlare customers by mid-October (paid customers are already supported). When (they) do, the number of sites that support HTTPS on the Internet will more than double. That they'll also rank a bit higher is pretty cool too." So if you're currently using CloudFlare for your website, you don't need to do anything. If not, here's the 90-second pitch, in video form:
 
 {{ template "vimeo" "14700285" }}
 
-###Need any help?
+### Need any help?
 
 If you have any questions about HTTPS for your site, definitely [let us know](https://iwantmyname.com/support). While HTTPS might be a small ranking signal today, it can never hurt to make your site more secure—and more SEO optimized—for the future.

@@ -12,11 +12,11 @@ This year, our plan is to support local initiatives in Bali, an island that was 
 
 <!-- /excerpt -->
 
-###[Karuna Bali](http://www.karunabali.com/)
+### [Karuna Bali](http://www.karunabali.com/)
 
 A few days after we settled in at [Hubud](http://www.hubud.org/hubud-villa/), Novi Danto, an employee of Karuna, spoke to us about how the organization was making great strides in teaching teenage children from smaller villages who might not otherwise have access to educational opportunities. Based in the town of Campuhan, Karuna Bali provides education for young adults in introductory computing, English and personal leadership skills. Best of all, Karuna Bali's administration is entirely funded, so "100% of sponsorship donations are applied to the program." It's a great cause, and our 2015 goal is to fully sponsor the tuition fees for three students.
 
-###[IDEP](http://www.idepfoundation.org/)
+### [IDEP](http://www.idepfoundation.org/)
 
 IDEP is a well established organization that works in the area of sustainable agriculture, mostly focusing on permaculture, tree planting, and youth environmental education. But a major side focus is training for natural disaster preparedness (which are a constant threat to the region), and assisting "local communities to provide food, shelter, energy and other needs in a sustainable and environmentally friendly way." IDEP employs local people, but also have a lot of support from offshore expertise and are endorsed by UNESCO.
 

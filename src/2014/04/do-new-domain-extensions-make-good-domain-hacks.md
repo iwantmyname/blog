@@ -27,7 +27,7 @@ To me though, the question is not if they are too long, it's that they may wreck
 
 Five letter TLDs, three letter TLDs—the introduction of anything other than two letters introduces doubt to the equation, and that's tricky. Do you use .TIRES as a domain hack for something like chrisre.tires, when it could get confused with chrisretir.es? Will you ever be confident enough to know that any strange combination of letters isn't a gTLD? 
 
-###Expect to see far fewer domain hacks
+### Expect to see far fewer domain hacks
 
 Instead of getting lost in confusion, I think it's important to think of why people used domain hacks in the first place. 
 

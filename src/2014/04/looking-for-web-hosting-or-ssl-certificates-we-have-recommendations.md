@@ -9,7 +9,7 @@ We like to think we have the best user experience in the industry for setting do
 
 <!-- /excerpt -->
 
-###Web Hosting
+### Web Hosting
 
 + [Digital Ocean](https://www.digitalocean.com/?refcode=c5a7f5e1af5e)
 + [Site5](http://www.site5.com/in.php?id=183251-43)
@@ -18,7 +18,7 @@ We like to think we have the best user experience in the industry for setting do
 
 Find links and full descriptions/offerings on our [web hosting page](https://iwantmyname.com/features/domains/web-hosting). 
 
-###SSL Certificates
+### SSL Certificates
 
 + [DigiCert](http://www.digicert.com/086777/)
 + [The SSL Store](https://www.thesslstore.com/?aid=52910451)

@@ -29,7 +29,7 @@ In all, the entire process took me about 15 minutes—much faster than the avera
 
 **Note:** Want to see [iwantmyblog](https://iwantmyname.com/blog/2013/10/iwantmyblog-the-blog-that-goes-everywhere.html) in action? Head over to [iwantmyblog.com](http://iwantmyblog.com/). 
 
-###Read all of #iwantmyblog's week with Scriptogram:
+### Read all of #iwantmyblog's week with Scriptogram:
 
 + [Getting Started With Scriptogram](https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html)
 + [Using Scriptogram The Normal Way, And With Mou](https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html)

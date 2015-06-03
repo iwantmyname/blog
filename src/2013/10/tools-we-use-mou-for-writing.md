@@ -19,7 +19,7 @@ And if you're a developer, it does does so much more. "Syntax highlighting, sync
 
 Best of all though, you can get Mou right now for free at mouapp.com while it's still in beta (although I wholeheartedly recommend [donating to the cause][3]—I gave $10 last week). If you're into writing in Markdown, give it a shot. I think you'll like it.
 
-###A responsive, web-based alternative: Editorially
+### A responsive, web-based alternative: Editorially
 
 One thing I'm also playing around with right now is a responsive, web-based Markdown editor called [Editorially][4], [created by some really smart people][5]. What makes it especially nifty is that it saves each version of your draft for all eternity (and displays them on a simple timeline), then lets you invite others to edit, leave comments and discuss your progress. For long-form copywriters, these collaboration tools are invaluable—but my copy tends to be relatively short. 
 

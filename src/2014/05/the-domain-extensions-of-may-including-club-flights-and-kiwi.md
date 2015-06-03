@@ -8,7 +8,7 @@ header_image: 2014-05-29-airport.jpg
 
 May was quite the month for new top-level domains (TLDs). We saw a new popularity leader, a handful of potential favorites and a TLD for the best little island country in the Pacific. Let's take a look back at the month that was.
 
-###The popular pair
+### The popular pair
 
 + [.CLUB](https://iwantmyname.com/domains/dot-club) (#1)
 + [.EXPERT](https://iwantmyname.com/domains/dot-expert) (#17)
@@ -17,7 +17,7 @@ It was exciting to see [.CLUB overtake .GURU in the top spot](https://iwantmynam
 
 <!-- /excerpt -->
 
-###Go local with .KIWI
+### Go local with .KIWI
 
 + [.KIWI](https://iwantmyname.com/domains/dot-kiwi) (#44)
 
@@ -25,7 +25,7 @@ As a New Zealand-based company, it's only natural for us to have a not-so-secret
 
 And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popular than .COFFEE, a product served in just about every city in the world. 
 
-###The TLDs for travel
+### The TLDs for travel
 
 + [.CRUISES](https://iwantmyname.com/domains/dot-cruises) (#106)
 + [.FLIGHTS](https://iwantmyname.com/domains/dot-flights) (#101)
@@ -35,14 +35,14 @@ And today, just look at it. .KIWI, the tiny TLD from New Zealand, is more popula
 
 The last week of May brought a handful of travel TLDs to the mix, and you have to assume at least one of them will rise up fairly quickly. My guess would be that .FLIGHTS and .CRUISES will become the most popular of the bunch because they both seem like common travel searches, but .RENTALS might beat them all with its multi-industry uses.
 
-###The upcoming favorites
+### The upcoming favorites
 
 + [.NINJA](https://iwantmyname.com/domains/dot-ninja) (#53)
 + [.WIKI](https://iwantmyname.com/domains/dot-wiki) (#66)
 
 The future of the web is definitely collaboration, and wikis are perfect for collaborating with peers to create things. Unless you happen to be a ninja. Ninjas don't collaborate... they just get their way. 
 
-###The rest
+### The rest
 
 + [.DANCE](https://iwantmyname.com/domains/dot-dance) (#85)
 + [.DEMOCRAT](https://iwantmyname.com/domains/dot-democrat) (#100)

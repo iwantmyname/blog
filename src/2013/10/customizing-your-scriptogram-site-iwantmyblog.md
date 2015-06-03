@@ -15,7 +15,7 @@ If you're a writer like me, you want things look great, but without a background
 
 Here's the deal. When dealing with a blog platform, the more popular they are, the more templates and simple customization options they'll likely have. In this case, Scriptogram is still on the small side--ten themes with only CSS and HTML customization options. 
 
-###Themes
+### Themes
 
 I won't bore you with a description of all ten themes here, but I will talk about my favorite three. When looking for a blog template, I tend to prefer large fonts with nice typography and few distracting colors. And fortunately, Scriptogram has a few good options: 
 
@@ -31,13 +31,13 @@ Readnik is a clean template using [Crimson Text](http://www.google.com/fonts/spe
 
 Sure, sure. I completely understand not wanting to use the default theme, but Basic is pretty nice. Aside from the fairly conservative [Proxima Nova](http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/) font, it utilizes a pretty neat parallax header effect that's pretty neat. Try it out for yourself on the [Scriptogram blog](http://scriptogr.am/blog).
 
-###Customization
+### Customization
 
 The good thing about Scriptogram (for some) is that all the themes are created using fairly straightforward CSS and HTML. If you really want to dive in and mess with a theme, you can, but adding your own theme requires a submission process. And given my lack of dev experience (and a [support page](http://support.scriptogr.am/kb/creating-themes/submitting-a-theme) that seems to be down at the moment), I'm not exactly sure how the process works
 
 All in all, the customization options for Scriptogram are pretty limited at this point. In its current form, some basic things are still unnecessarily hard (like placing logos), but keep in mind that the platform is still in beta. Hopefully more customization options will appear in the final version.
 
-###Read all of #iwantmyblog's week with Scriptogram:
+### Read all of #iwantmyblog's week with Scriptogram:
 
 + [Getting Started With Scriptogram](https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html)
 + [Using Scriptogram The Normal Way, And With Mou](https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html)
