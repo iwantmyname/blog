@@ -18,14 +18,7 @@
 	{{ if eq .Pattern "pages/*.page" }}
 		<meta name="robots" content="noindex">
 	{{ end }}
-
-	{{ if .Other.Redirect_to }}
-		<link rel="canonical" href="{{ .Other.Redirect_to }}">
-		<meta http-equiv="refresh" content="0; url={{ .Other.Redirect_to }}">
-		<script>window.location.replace({{ .Other.Redirect_to }})</script>
-	{{ else }}
-		<link rel="canonical" href="{{ .Site.Other.Base_url }}/{{ .Url }}">
-	{{ end }}
+	<link rel="canonical" href="{{ .Site.Other.Base_url }}/{{ .Url }}">
 
 	{{ template "favicon" }}
 	{{ template "open-graph-meta" . }}
