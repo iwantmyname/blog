@@ -1,4 +1,3 @@
-layout: post
 date: 2011-12-08 08:53:33 +1200
 author: Timo
 title: The Domain Name Year 2011 In Review

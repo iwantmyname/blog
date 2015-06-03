@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-14 11:27:07 +1200
 author: Chris
 title: Should you put all your products and ideas on one domain?

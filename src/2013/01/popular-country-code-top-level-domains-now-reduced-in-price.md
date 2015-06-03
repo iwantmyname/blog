@@ -1,4 +1,3 @@
-layout: post
 date: 2013-01-17 18:47:50 +1200
 author: Timo
 title: Popular Country Code Top-Level Domains Now Reduced In Price

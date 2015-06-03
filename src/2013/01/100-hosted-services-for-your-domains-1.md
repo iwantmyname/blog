@@ -1,4 +1,3 @@
-layout: post
 date: 2013-01-30 14:57:30 +1200
 author: Timo
 title: 100+ Hosted Services For Your Domains

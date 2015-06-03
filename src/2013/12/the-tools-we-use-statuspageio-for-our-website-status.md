@@ -1,4 +1,3 @@
-layout: post
 date: 2013-12-20 16:10:16 +1200
 author: Chris
 title: The Tools We Use: StatusPage.io For Our Website Status

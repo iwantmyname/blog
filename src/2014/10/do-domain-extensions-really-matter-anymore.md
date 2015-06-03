@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-11 12:06:30 +1200
 author: Chris
 title: Do domain extensions really matter anymore?

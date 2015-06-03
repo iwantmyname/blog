@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-03 15:02:23 +1200
 author: Chris
 title: End the domain-finding confusion with .COFFEE

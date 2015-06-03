@@ -1,4 +1,3 @@
-layout: post
 date: 2009-11-10 08:49:01 +1200
 author: Timo
 title: Host And Share Files On Your Custom Domain With Droplr

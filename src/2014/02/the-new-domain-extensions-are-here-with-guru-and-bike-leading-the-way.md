@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-06 11:58:02 +1200
 author: Chris
 title: The new domain extensions are here, with .GURU and .BIKE leading the way

@@ -1,4 +1,3 @@
-layout: post
 date: 2012-04-06 06:00:00 +1200
 author: Paul
 title: Sharing Easter Fun Online

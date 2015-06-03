@@ -1,4 +1,3 @@
-layout: post
 date: 2009-03-17 07:04:57 +1200
 author: Timo
 title: Working on new features, .LC domain extension added

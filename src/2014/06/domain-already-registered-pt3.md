@@ -1,4 +1,3 @@
-layout: post
 date: 2014-06-10 05:58:21 +1200
 author: Melle
 title: Why it's important to have you own domain and web presence

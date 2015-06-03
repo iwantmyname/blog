@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-17 12:25:16 +1200
 author: Chris
 title: The internet is (finally) for everyone

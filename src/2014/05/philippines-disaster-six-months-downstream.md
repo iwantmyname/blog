@@ -1,4 +1,3 @@
-layout: post
 date: 2014-05-22 09:55:22 +1200
 author: Paul
 title: The Philippines disaster, six months downstream

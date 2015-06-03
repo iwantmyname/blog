@@ -1,4 +1,3 @@
-layout: post
 date: 2010-04-08 09:42:41 +1200
 author: Timo
 title: Tumblr + Gmail: How To Easily Customize Your Page And Email With An Own Domain

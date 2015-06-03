@@ -1,4 +1,3 @@
-layout: post
 date: 2010-03-06 08:53:33 +1200
 author: Timo
 title: New: Register .LT Domain Names (Lithuania)

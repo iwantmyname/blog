@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-23 08:28:51 +1200
 author: Chris
 title: Need a logo? Squarespace has you covered.

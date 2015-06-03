@@ -1,4 +1,3 @@
-layout: post
 date: 2013-04-03 12:25:02 +1200
 author: Timo
 title: 100+ beautifully designed .IO domain websites

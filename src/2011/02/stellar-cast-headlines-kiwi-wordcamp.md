@@ -1,4 +1,3 @@
-layout: post
 date: 2011-02-18 18:34:41 +1200
 author: Paul
 title: Stellar Cast Headlines Kiwi WordCamp

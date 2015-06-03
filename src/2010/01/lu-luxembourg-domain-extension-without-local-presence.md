@@ -1,4 +1,3 @@
-layout: post
 date: 2010-01-31 22:32:15 +1200
 author: Timo
 title: .LU (Luxembourg) Opens Up Its Domain Extension To The World

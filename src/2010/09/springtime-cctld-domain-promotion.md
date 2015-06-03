@@ -1,4 +1,3 @@
-layout: post
 date: 2010-09-02 13:24:25 +1200
 author: Paul
 title: Springtime ccTLD Domain Promotion

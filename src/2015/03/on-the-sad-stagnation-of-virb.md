@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-17 11:30:38 -0700
 author: Chris
 title: On the sad stagnation of Virb

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-23 05:51:23 +1200
 author: Chris
 title: Just a funny XOXO talk from Darius Kazemi

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-27 13:17:41 +1200
 author: Chris
 title: TIME's Person of the Year Going Social With RebelMouse

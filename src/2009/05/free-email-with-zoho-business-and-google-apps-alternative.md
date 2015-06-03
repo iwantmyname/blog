@@ -1,4 +1,3 @@
-layout: post
 date: 2009-05-28 17:06:48 +1200
 author: Timo
 title: Free Email With Zoho Business On Your Domain

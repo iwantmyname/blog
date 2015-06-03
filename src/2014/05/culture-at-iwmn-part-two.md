@@ -1,4 +1,3 @@
-layout: post
 date: 2014-05-23 09:49:01 +1200
 author: Lenz
 title: 'iwantmyname culture: The "work-from-anywhere experiment"'

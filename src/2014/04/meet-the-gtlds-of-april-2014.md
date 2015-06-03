@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-02 05:55:17 +1200
 author: Chris
 title: Meet the gTLDs of April 2014

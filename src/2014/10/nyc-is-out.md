@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-09 08:28:03 +1200
 author: Chris
 title: .NYC is out, but you need to be a New Yorker to register

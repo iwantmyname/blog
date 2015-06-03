@@ -1,4 +1,3 @@
-layout: post
 date: 2012-05-18 17:45:14 +1200
 author: Timo
 title: 100+ Shockingly Short .IO Domain Names Available Today At 20% OFF!

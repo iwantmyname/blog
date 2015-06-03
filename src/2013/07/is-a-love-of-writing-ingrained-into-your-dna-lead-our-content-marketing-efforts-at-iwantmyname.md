@@ -1,4 +1,3 @@
-layout: post
 date: 2013-07-02 19:10:34 +1200
 author: Timo
 title: Is a love of writing ingrained into your DNA? Lead our content marketing efforts at iwantmyname!

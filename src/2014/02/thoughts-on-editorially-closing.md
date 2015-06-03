@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-21 06:16:10 +1200
 author: Chris
 title: Thoughts on Editorially closing, why I don't use web-based editors (yet) and why speed is the killer feature

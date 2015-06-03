@@ -1,4 +1,3 @@
-layout: post
 date: 2011-03-11 13:16:35 +1200
 author: Timo
 title: We're Going To ICANN San Francisco

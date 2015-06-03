@@ -1,4 +1,3 @@
-layout: post
 date: 2014-08-30 09:43:06 +1200
 author: Chris
 title: New domain extension trends: cities, non-Latin are in, retail is not

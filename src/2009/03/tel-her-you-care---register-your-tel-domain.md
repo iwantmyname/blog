@@ -1,4 +1,3 @@
-layout: post
 date: 2009-03-26 11:55:38 +1200
 author: Timo
 title: .TEL her you care - register your .TEL domain

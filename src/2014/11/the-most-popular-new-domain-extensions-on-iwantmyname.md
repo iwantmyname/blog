@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-20 09:32:11 +1200
 author: Chris
 title: The 25 most popular new domain extensions on iwantmyname

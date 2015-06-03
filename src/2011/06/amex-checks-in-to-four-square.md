@@ -1,4 +1,3 @@
-layout: post
 date: 2011-06-23 17:59:06 +1200
 author: Paul
 title: Amex Checks In To Four Square

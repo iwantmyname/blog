@@ -1,4 +1,3 @@
-layout: post
 date: 2013-10-03 05:35:06 +1200
 author: Chris
 title: .MY New Malaysian Domain Extension

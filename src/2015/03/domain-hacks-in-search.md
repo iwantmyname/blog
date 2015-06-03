@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-05 13:01:55 -0700
 author: Chris
 title: New feature alert - domain hacks in search

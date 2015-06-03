@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-10 11:57:52 +1200
 author: Chris
 title: The Grid — AI websites that design themselves

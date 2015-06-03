@@ -1,4 +1,3 @@
-layout: post
 date: 2013-03-21 10:28:12 +1200
 author: Owen
 title: Simplified Custom Domain Setup For Windows Azure And Other Microsoft Apps

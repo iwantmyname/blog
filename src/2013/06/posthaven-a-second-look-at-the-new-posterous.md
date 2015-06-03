@@ -1,4 +1,3 @@
-layout: post
 date: 2013-06-07 05:02:04 +1200
 author: Owen
 title: Posthaven: A Second Look At The New Posterous

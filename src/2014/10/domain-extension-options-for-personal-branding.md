@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-21 11:09:31 +1200
 author: Chris
 title: Domain extension options for personal branding

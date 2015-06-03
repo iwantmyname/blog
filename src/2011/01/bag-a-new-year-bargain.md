@@ -1,4 +1,3 @@
-layout: post
 date: 2011-01-05 15:25:42 +1200
 author: Paul
 title: Bag A New Year Domain Bargain

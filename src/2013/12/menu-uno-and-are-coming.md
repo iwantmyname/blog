@@ -1,4 +1,3 @@
-layout: post
 date: 2013-12-10 10:05:54 +1200
 author: Chris
 title: .MENU, .UNO, And .みんな Are Coming

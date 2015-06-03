@@ -1,4 +1,3 @@
-layout: post
 date: 2013-05-29 15:14:30 +1200
 author: Timo
 title: Protect Your Domains Using Two-Step Authentication

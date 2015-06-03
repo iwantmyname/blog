@@ -1,4 +1,3 @@
-layout: post
 date: 2011-03-31 23:16:39 +1200
 author: Timo
 title: Register Your .SO Domains (Somalia) At iWantMyName

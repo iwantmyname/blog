@@ -1,4 +1,3 @@
-layout: post
 date: 2013-02-16 08:18:34 +1200
 author: Timo
 title: Welcome to the iwantmyname team, Kevin Ingersoll

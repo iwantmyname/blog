@@ -1,4 +1,3 @@
-layout: post
 date: 2010-12-29 18:10:16 +1200
 author: Timo
 title: iWantMyName Most Popular Posts 2010

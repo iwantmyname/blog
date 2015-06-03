@@ -1,4 +1,3 @@
-layout: post
 date: 2012-11-13 08:59:14 +1200
 author: Timo
 title: Are You A Kick Ass Front End Developer? Join Us!

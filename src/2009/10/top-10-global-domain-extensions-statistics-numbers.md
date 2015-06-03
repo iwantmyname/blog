@@ -1,4 +1,3 @@
-layout: post
 date: 2009-10-10 06:12:45 +1200
 author: Timo
 title: What Are The Top 10 Global Domain Extensions? Statistics & Numbers, Part III

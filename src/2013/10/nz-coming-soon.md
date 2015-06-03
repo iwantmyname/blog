@@ -1,4 +1,3 @@
-layout: post
 date: 2013-10-26 10:00:32 +1200
 author: Paul
 title: .nz Coming Soon

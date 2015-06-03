@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-12 16:32:01 -0700
 author: Chris
 title: New gTLDs and SEO performance

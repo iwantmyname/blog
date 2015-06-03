@@ -1,4 +1,3 @@
-layout: post
 date: 2010-08-03 09:45:02 +1200
 author: Paul
 title: .ME Domain Contest Launches

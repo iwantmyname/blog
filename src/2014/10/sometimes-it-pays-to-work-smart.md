@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-14 12:23:46 +1200
 author: Chris
 title: Sometimes it pays to work smart *and* hard

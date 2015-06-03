@@ -1,4 +1,3 @@
-layout: post
 date: 2010-04-23 23:07:37 +1200
 author: Timo
 title: Become An iWantMyName Language Partner

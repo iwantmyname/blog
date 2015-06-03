@@ -1,4 +1,3 @@
-layout: post
 date: 2011-11-30 23:00:00 -0700
 author: Paul
 title: Rails Camp On Track

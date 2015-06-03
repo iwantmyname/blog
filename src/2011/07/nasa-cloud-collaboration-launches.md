@@ -1,4 +1,3 @@
-layout: post
 date: 2011-07-22 16:00:00 +1200
 author: Paul
 title: NASA Cloud Collaboration Launches

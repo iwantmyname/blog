@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-19 12:09:56 +1200
 author: Chris
 title: A Note From ICANN About gTLD Pre-Orders

@@ -1,4 +1,3 @@
-layout: post
 date: 2010-08-05 10:30:54 +1200
 author: Timo
 title: .GL Domain Name Registration Enabled (Greenland)

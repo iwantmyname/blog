@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-04 10:59:38 -0700
 author: Chris
 title: Price increase alert for .INFO and .MU

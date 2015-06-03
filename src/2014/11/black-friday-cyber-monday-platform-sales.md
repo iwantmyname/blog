@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-29 11:10:33 +1200
 author: Chris
 title: Black Friday/Cyber Monday platform sales

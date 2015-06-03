@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-21 10:12:07 +1200
 author: Chris
 title: That domain name you wanted might be available soon

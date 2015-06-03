@@ -1,4 +1,3 @@
-layout: post
 date: 2014-09-03 07:37:30 +1200
 author: Chris
 title: September domain discounts, featuring .CLUB and .TV

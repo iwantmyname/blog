@@ -1,4 +1,3 @@
-layout: post
 date: 2010-10-26 11:00:00 +1200
 author: Paul
 title: Facelette Founder Forgoes Funds Finds Fun

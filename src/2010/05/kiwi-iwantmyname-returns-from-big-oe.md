@@ -1,4 +1,3 @@
-layout: post
 date: 2010-05-05 14:21:56 +1200
 author: Paul
 title: Kiwi Born iWantMyName Returns From Big O.E.

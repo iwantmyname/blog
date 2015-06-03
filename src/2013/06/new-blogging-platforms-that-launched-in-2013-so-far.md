@@ -1,4 +1,3 @@
-layout: post
 date: 2013-06-27 18:04:23 +1200
 author: Owen
 title: 4 new blogging platforms launched in 2013

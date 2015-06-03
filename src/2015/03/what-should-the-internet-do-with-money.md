@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-10 16:47:14 -0700
 author: Chris
 title: What should the internet do with its new .money?

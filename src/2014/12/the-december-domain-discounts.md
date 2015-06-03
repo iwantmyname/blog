@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-05 09:23:24 +1200
 author: Chris
 title: The December domain discounts—a holiday treat

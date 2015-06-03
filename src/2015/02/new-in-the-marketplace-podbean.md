@@ -1,4 +1,3 @@
-layout: post
 date: 2015-02-10 17:21:18 -0700
 author: Chris
 title: New in the Marketplace - PodBean, the podcast platform with its own network

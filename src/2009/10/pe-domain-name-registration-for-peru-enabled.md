@@ -1,4 +1,3 @@
-layout: post
 date: 2009-10-14 12:22:57 +1200
 author: Timo
 title: .PE Domain Name Registration for Peru Enabled

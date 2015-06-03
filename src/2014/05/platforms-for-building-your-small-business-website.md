@@ -1,4 +1,3 @@
-layout: post
 date: 2014-05-14 12:59:54 +1200
 author: Chris
 title: 10 platforms for building your small business website

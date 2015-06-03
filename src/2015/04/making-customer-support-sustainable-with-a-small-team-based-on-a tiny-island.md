@@ -1,4 +1,3 @@
-layout: post
 date: 2015-04-30 10:39:40 -0700
 author: Chris
 title: Making customer support sustainable with a small team based on a tiny island

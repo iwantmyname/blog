@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-28 13:19:52 -0700
 author: Chris
 title: New in the Marketplace - Muut, a reimagined forum/commenting platform

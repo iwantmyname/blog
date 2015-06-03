@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-02 08:23:16 +1200
 author: Chris
 title: The October domain discounts, featuring some popular favorites and so many colors

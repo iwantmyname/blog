@@ -1,4 +1,3 @@
-layout: post
 date: 2012-07-17 15:43:22 +1200
 author: Timo
 title: iWantMyName Site Migration Next Week

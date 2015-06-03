@@ -1,4 +1,3 @@
-layout: post
 date: 2015-04-20 12:21:32 -0700
 author: Melle
 title: Contacting the owner of a domain you want to buy

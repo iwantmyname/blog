@@ -1,4 +1,3 @@
-layout: post
 date: 2010-09-27 12:06:18 +1200
 author: Paul
 title: New DNS Manager

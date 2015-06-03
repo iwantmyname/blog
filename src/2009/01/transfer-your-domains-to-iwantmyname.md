@@ -1,4 +1,3 @@
-layout: post
 date: 2009-01-16 11:50:52 +1200
 author: Timo
 title: Transfer your domains to iWantMyName

@@ -1,4 +1,3 @@
-layout: post
 author: Chris
 title: We've done it, you guys. We've hired our third back-end developer.
 ----

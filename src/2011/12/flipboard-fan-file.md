@@ -1,4 +1,3 @@
-layout: post
 date: 2011-12-08 14:00:00 +1200
 author: Paul
 title: Flipboard Fan File

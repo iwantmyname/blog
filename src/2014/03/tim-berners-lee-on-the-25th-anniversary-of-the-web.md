@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-13 05:19:53 +1200
 author: Chris
 title: Tim Berners-Lee on the 25th anniversary of the web

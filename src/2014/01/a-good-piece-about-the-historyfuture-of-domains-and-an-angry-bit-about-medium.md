@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-31 04:55:49 +1200
 author: Chris
 title: A good piece about the history/future of domains and an angry bit about Medium

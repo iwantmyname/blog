@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-13 17:06:12 +1200
 author: Chris
 title: Hemingway is the coach you need to make your web content better

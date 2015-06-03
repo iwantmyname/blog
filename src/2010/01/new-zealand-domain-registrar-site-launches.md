@@ -1,4 +1,3 @@
-layout: post
 date: 2010-01-15 11:45:54 +1200
 author: Timo
 title: Kiwi iWantMyName Domain Registrar Site Launches

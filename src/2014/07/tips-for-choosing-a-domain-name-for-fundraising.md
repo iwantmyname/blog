@@ -1,4 +1,3 @@
-layout: post
 date: 2014-07-24 16:53:21 +1200
 author: Chris
 title: 6 tips for choosing a domain name for fundraising

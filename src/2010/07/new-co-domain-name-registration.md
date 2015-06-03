@@ -1,4 +1,3 @@
-layout: post
 date: 2010-07-21 05:58:01 +1200
 author: Timo
 title: New: .CO Domain Name Registration (Colombia)

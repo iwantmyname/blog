@@ -1,4 +1,3 @@
-layout: post
 date: 2015-02-24 10:59:46 -0700
 author: Chris
 title: Question. What extension should I use? Answer. .QA

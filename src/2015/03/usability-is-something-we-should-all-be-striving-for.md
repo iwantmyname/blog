@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-11 11:47:11 -0700
 author: Chris
 title: Usability is something we should all be striving for

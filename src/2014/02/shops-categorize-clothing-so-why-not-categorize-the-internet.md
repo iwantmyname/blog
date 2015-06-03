@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-05 12:26:11 +1200
 author: Chris
 title: Shops categorize .CLOTHING because each item is different, so why not categorize the internet?

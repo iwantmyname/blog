@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-15 06:53:09 +1200
 author: Chris
 title: An interview with Jordan Schau of Pure Fix Cycles about .BIKE, new gTLDs and fixies

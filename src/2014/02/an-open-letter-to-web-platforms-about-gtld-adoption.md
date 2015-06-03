@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-14 08:29:09 +1200
 author: Chris
 title: An open letter to web platforms about gTLD adoption

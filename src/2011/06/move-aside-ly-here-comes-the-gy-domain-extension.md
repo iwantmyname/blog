@@ -1,4 +1,3 @@
-layout: post
 date: 2011-06-13 14:11:09 +1200
 author: Timo
 title: Move Aside .LY, Here Come The .GY Domain Hacks

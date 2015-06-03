@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-19 16:58:16 -0700
 author: Chris
 title: Start naming your brands and domains like a pro

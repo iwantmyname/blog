@@ -1,4 +1,3 @@
-layout: post
 date: 2011-05-19 16:40:30 +1200
 author: Timo
 title: Free .CO.UK, .CO.NZ & .IO Domain Transfers + Newly Transferable Extensions

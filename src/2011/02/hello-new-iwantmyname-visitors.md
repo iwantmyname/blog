@@ -1,4 +1,3 @@
-layout: post
 date: 2011-02-07 07:45:59 +1200
 author: Timo
 title: First Time At iWantMyName? Welcome!

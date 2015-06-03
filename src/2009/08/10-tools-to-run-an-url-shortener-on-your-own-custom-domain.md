@@ -1,4 +1,3 @@
-layout: post
 date: 2009-08-10 18:07:25 +1200
 author: Timo
 title: 10 Tools to run an URL Shortener on your own Domain

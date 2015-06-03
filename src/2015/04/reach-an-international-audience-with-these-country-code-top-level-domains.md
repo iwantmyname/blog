@@ -1,4 +1,3 @@
-layout: post
 date: 2015-04-21 13:51:38 -0700
 author: Timo
 title: Reach an international audience with these 19 country code top-level domains

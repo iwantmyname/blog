@@ -1,4 +1,3 @@
-layout: post
 date: 2010-06-30 12:07:47 +1200
 author: Paul
 title: Domains On Your iPhone

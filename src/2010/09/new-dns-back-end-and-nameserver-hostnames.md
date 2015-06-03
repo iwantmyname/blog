@@ -1,4 +1,3 @@
-layout: post
 date: 2010-09-28 11:58:24 +1200
 author: Timo
 title: All New DNS

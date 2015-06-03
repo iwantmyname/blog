@@ -1,4 +1,3 @@
-layout: post
 date: 2013-09-25 13:48:17 +1200
 author: Chris
 title: How to get a custom email address

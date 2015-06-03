@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-16 07:19:58 +1200
 author: Chris
 title: Did you authorize Con Group Co. to register a domain name?

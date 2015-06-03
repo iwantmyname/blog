@@ -1,4 +1,3 @@
-layout: post
 date: 2009-06-10 15:54:23 +1200
 author: Timo
 title: Real-time DNS Management For Your Domains

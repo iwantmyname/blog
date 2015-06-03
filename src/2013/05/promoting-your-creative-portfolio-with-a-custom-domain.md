@@ -1,4 +1,3 @@
-layout: post
 date: 2013-05-06 12:00:00 +1200
 author: Paul
 title: Promoting Your Creative Portfolio With A Custom Domain

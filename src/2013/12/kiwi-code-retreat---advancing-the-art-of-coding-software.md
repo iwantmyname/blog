@@ -1,4 +1,3 @@
-layout: post
 date: 2013-12-09 10:00:00 +1200
 author: Paul
 title: Kiwi Code Retreat - Advancing The Art Of Coding Software

@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-24 12:09:41 -0700
 author: Chris
 title: Is Medium the billionaire’s typewriter?

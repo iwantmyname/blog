@@ -1,4 +1,3 @@
-layout: post
 date: 2013-05-24 12:14:22 +1200
 author: Timo
 title: .ORG Domain Price Increase On July 1, 2013

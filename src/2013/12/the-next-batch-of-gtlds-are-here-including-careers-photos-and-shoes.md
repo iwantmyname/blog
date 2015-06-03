@@ -1,4 +1,3 @@
-layout: post
 date: 2013-12-19 08:13:22 +1200
 author: Chris
 title: The Next Batch Of gTLDs Are Here, Including .CAREERS, .PHOTOS And .RECIPES

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-09 11:46:50 +1200
 author: Chris
 title: A Short Interview With Zachary Crockett, Founder And CTO Of Spark

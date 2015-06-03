@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-13 09:27:29 +1200
 author: Chris
 title: The photography domain extension showdown

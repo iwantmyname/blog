@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-27 14:52:31 -0700
 author: Chris
 title: Last chance to get your short .NZ domain before anyone else

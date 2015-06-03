@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-07 09:21:33 +1200
 author: Chris
 title: Create Your Next Online Store With Weebly eCommerce

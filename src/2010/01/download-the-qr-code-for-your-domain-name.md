@@ -1,4 +1,3 @@
-layout: post
 date: 2010-01-21 18:07:52 +1200
 author: Timo
 title: Download The QR Code For Your Domain Name

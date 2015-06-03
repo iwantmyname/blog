@@ -1,4 +1,3 @@
-layout: post
 date: 2010-10-30 19:27:31 +1200
 author: Paul
 title: Tell Us Your Tumblr Tales

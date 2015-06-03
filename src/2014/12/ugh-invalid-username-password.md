@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-06 10:58:16 +1200
 author: Chris
 title: Ugh, invalid username/password

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-03-09 19:50:22 +1200
 author: Owen
 title: Getting a new VPS? Do these steps first.

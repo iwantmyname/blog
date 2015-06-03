@@ -1,4 +1,3 @@
-layout: post
 date: 2013-10-03 11:15:34 +1200
 author: Chris
 title: The Tools We Use: Mou For Writing On The Web

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-04-11 10:43:42 +1200
 author: Timo
 title: Founders Humbled By Cambodia Visit

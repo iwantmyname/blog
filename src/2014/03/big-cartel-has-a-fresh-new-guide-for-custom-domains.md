@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-28 10:36:45 +1200
 author: Chris
 title: Big Cartel has a fresh new guide to custom domains

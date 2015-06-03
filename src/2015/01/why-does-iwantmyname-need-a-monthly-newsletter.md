@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-26 17:36:20 -0700
 author: Chris
 title: Why does iwantmyname need a monthly newsletter?

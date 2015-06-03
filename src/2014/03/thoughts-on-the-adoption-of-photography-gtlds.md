@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-08 11:29:43 +1200
 author: Chris
 title: Thoughts on the adoption of photography gTLDs

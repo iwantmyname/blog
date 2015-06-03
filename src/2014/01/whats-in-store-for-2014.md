@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-21 19:00:00 +1200
 author: Paul
 title: What's In Store For 2014

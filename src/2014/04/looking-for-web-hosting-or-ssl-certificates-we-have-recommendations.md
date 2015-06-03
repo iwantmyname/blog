@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-29 09:03:53 +1200
 author: Chris
 title: Looking for web hosting or SSL certificates? We have recommendations

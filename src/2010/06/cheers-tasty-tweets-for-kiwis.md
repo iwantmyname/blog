@@ -1,4 +1,3 @@
-layout: post
 date: 2010-06-02 11:41:38 +1200
 author: Paul
 title: Cheers! Tasty Tweets for Kiwis

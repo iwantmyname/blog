@@ -1,4 +1,3 @@
-layout: post
 date: 2013-01-28 10:30:00 +1200
 author: Paul
 title: A Summer Full Of Tech

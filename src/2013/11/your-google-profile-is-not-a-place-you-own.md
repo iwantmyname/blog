@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-12 11:42:08 +1200
 author: Timo
 title: Your Google+ Profile Is Not A Place You Own

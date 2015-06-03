@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-21 16:00:32 -0700
 author: Chris
 title: Are your messaging apps/tools secure?

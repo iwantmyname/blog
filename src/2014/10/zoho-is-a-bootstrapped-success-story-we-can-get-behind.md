@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-16 04:59:08 +1200
 author: Chris
 title: Zoho is a bootstrapped success story we can get behind

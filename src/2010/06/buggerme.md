@@ -1,4 +1,3 @@
-layout: post
 date: 2010-06-09 15:14:40 +1200
 author: Paul
 title: Bugger.me

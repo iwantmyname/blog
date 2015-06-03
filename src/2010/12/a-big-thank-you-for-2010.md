@@ -1,4 +1,3 @@
-layout: post
 date: 2010-12-01 14:26:25 +1200
 author: Timo
 title: A Big Thank You For 2010

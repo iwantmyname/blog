@@ -1,4 +1,3 @@
-layout: post
 date: 2014-06-06 01:28:44 +1200
 author: Melle
 title: Someone has registered the domain I want. Help!

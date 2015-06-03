@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-03 12:05:22 +1200
 author: Chris
 title: How do I connect my domain to a hosting account?

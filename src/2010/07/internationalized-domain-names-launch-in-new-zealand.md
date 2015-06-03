@@ -1,4 +1,3 @@
-layout: post
 date: 2010-07-26 15:51:37 +1200
 author: Timo
 title: Internationalized Domain Names Launch in New Zealand

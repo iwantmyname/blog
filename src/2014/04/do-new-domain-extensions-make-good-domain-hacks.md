@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-24 08:05:50 +1200
 author: Chris
 title: Do the new domain extensions make good domain hacks?

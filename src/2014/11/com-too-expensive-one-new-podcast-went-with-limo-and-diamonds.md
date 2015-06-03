@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-26 07:11:03 +1200
 author: Chris
 title: .COM too expensive? One new podcast went with .LIMO and .DIAMONDS

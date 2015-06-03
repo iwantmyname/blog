@@ -1,4 +1,3 @@
-layout: post
 date: 2011-01-31 17:44:53 +1200
 author: Timo
 title: Apps for Domains News Roundup January

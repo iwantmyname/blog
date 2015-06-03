@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-16 11:43:46 +1200
 author: Chris
 title: Which photography domain extension should you use?

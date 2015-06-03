@@ -1,4 +1,3 @@
-layout: post
 date: 2013-10-10 07:25:19 +1200
 author: Chris
 title: Using Scriptogram The Normal Way, And With Mou #iwantmyblog

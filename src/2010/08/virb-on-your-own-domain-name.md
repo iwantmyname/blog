@@ -1,4 +1,3 @@
-layout: post
 date: 2010-08-17 15:41:28 +1200
 author: Timo
 title: 'Virb'alize Your Domain Name!

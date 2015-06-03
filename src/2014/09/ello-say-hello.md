@@ -1,4 +1,3 @@
-layout: post
 date: 2014-09-16 09:34:17 +1200
 author: Chris
 title: Ello, a new ad-free social network to say hello

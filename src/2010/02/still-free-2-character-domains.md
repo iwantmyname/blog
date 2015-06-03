@@ -1,4 +1,3 @@
-layout: post
 date: 2010-02-14 10:10:56 +1200
 author: Timo
 title: Remaining Freely Available 2-Character Domain Names

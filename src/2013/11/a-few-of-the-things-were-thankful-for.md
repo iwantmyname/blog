@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-29 05:14:40 +1200
 author: Chris
 title: A Few Of The Things We're Thankful For

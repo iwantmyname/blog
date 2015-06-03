@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-14 11:51:46 +1200
 author: Chris
 title: Looking for some email love this Valentine's Day?

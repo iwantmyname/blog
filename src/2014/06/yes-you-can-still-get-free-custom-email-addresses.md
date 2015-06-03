@@ -1,4 +1,3 @@
-layout: post
 date: 2014-06-19 10:31:32 +1200
 author: Chris
 title: Yes, you can still get free custom email addresses

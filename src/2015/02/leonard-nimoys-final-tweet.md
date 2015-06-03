@@ -1,4 +1,3 @@
-layout: post
 date: 2015-02-27 16:49:40 -0700
 author: Chris
 title: Leonard Nimoy's final tweet

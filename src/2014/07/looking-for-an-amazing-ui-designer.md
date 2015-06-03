@@ -1,4 +1,3 @@
-layout: post
 date: 2014-07-16 07:14:01 +1200
 author: Chris
 title: Looking for an amazing UI designer

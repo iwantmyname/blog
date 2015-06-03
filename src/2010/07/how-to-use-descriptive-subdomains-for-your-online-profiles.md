@@ -1,4 +1,3 @@
-layout: post
 date: 2010-07-24 12:29:43 +1200
 author: Timo
 title: How To Use Descriptive Subdomains For Your Online Profiles

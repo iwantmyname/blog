@@ -1,4 +1,3 @@
-layout: post
 date: 2011-10-26 14:08:41 +1200
 author: Timo
 title: Introducing Free Whois Address Masking To Protect Your Privacy

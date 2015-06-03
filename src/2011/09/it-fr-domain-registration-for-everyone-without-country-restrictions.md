@@ -1,4 +1,3 @@
-layout: post
 date: 2011-09-29 13:25:00 +1200
 author: Timo
 title: .IT & .FR Domain Registration For Everyone, Without Country Restrictions

@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-07 19:25:06 -0700
 author: Timo
 title: How to use a standard Gmail account for free custom domain email

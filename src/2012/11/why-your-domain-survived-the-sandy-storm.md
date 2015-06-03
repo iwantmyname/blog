@@ -1,4 +1,3 @@
-layout: post
 date: 2012-11-01 22:58:00 +1200
 author: Paul
 title: Why Your Domain Survived The Sandy Storm

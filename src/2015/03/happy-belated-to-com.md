@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-16 16:51:59 -0700
 author: Chris
 title: Happy belated 30th to .com

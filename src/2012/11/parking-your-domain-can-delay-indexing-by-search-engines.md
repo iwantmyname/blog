@@ -1,4 +1,3 @@
-layout: post
 date: 2012-11-08 15:47:39 +1200
 author: Timo
 title: Parking Domains Can Delay Website Discovery By Search Engines

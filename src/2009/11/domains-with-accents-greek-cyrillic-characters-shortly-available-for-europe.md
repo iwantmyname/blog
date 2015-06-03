@@ -1,4 +1,3 @@
-layout: post
 date: 2009-11-27 18:55:30 +1200
 author: Timo
 title: Domains with Accents, Greek & Cyrillic Characters Shortly Available for Europe

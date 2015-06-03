@@ -1,4 +1,3 @@
-layout: post
 date: 2009-04-06 06:59:20 +1200
 author: Timo
 title: Video: How to register domains fast and easy

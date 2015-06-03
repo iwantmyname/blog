@@ -1,4 +1,3 @@
-layout: post
 date: 2011-09-10 11:00:00 +1200
 author: Paul
 title: Startup Weekend Mega Free Domain Offer

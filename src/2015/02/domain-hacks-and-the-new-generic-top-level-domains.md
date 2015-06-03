@@ -1,4 +1,3 @@
-layout: post
 date: 2015-02-26 15:36:28 -0700
 author: Chris
 title: Domain hacks and the new generic top-level domains

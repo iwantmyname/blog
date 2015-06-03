@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-11 09:07:30 +1200
 author: Chris
 title: Twitter is now supporting (most of the) gTLDs.

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-05 03:32:16 +1200
 author: Chris
 title: The November domain discounts, our biggest yet

@@ -1,4 +1,3 @@
-layout: post
 date: 2015-05-11 15:48:53 -0700
 author: Chris
 title: The guide to adding Squarespace to your iwantmyname domain

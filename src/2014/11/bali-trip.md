@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-11 06:38:48 +1200
 author: Chris
 title: Bali, our destination for mapping out 2015

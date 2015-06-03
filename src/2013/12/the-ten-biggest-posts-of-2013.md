@@ -1,4 +1,3 @@
-layout: post
 date: 2013-12-30 13:03:27 +1200
 author: Chris
 title: The Ten Biggest Posts Of 2013

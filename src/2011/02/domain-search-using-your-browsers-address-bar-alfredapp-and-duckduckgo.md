@@ -1,4 +1,3 @@
-layout: post
 date: 2011-02-21 14:35:58 +1200
 author: Timo
 title: Check Domains Using Your Browser's Address Bar, AlfredApp and DuckDuckGo

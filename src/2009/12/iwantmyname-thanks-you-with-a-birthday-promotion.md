@@ -1,4 +1,3 @@
-layout: post
 date: 2009-12-04 11:41:09 +1200
 author: Timo
 title: iWantMyName Thanks You with a Birthday Domain Promotion

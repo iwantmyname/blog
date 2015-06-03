@@ -1,4 +1,3 @@
-layout: post
 date: 2010-09-21 14:45:08 +1200
 author: Timo
 title: 88 Cool Domain Hacks Using The .GL TLD

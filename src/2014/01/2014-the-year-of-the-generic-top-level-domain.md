@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-15 12:55:39 +1200
 author: Chris
 title: 2014: The Year of the generic Top-Level Domain

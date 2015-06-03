@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-07 17:13:39 +1200
 author: Chris
 title: Mou might hit 1.0 after all

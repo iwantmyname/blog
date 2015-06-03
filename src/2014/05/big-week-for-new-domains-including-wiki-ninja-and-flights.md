@@ -1,4 +1,3 @@
-layout: post
 date: 2014-05-27 12:14:28 +1200
 author: Chris
 title: Big week for new domains, including .WIKI, .NINJA and .FLIGHTS

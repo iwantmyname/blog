@@ -1,4 +1,3 @@
-layout: post
 date: 2012-09-01 12:34:02 +1200
 author: Paul
 title: .CO Domain Deal Sparks Startup Flame

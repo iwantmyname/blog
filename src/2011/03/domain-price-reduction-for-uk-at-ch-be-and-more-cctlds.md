@@ -1,4 +1,3 @@
-layout: post
 date: 2011-03-01 15:39:18 +1200
 author: Timo
 title: Price Reduction For .CO.UK, .AT, .BE And More ccTLDs

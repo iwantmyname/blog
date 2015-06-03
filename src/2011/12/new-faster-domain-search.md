@@ -1,4 +1,3 @@
-layout: post
 date: 2011-12-13 10:21:42 +1200
 author: Timo
 title: New, Faster Domain Search

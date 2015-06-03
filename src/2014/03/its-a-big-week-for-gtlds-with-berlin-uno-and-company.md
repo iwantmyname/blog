@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-18 09:32:57 +1200
 author: Chris
 title: It's a big week for gTLDs, with .BERLIN, .UNO and .COMPANY

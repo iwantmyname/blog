@@ -1,4 +1,3 @@
-layout: post
 date: 2010-09-08 06:37:30 +1200
 author: Timo
 title: Vox.com Users: Now Is Your Chance To Upgrade To A Custom Domain

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-09 08:49:07 +1200
 author: Chris
 title: Giving back in 2015—Karuna Bali and IDEP

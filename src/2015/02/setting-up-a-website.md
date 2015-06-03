@@ -1,4 +1,3 @@
-layout: post
 date: 2015-02-03 12:55:04 -0700
 author: Melle
 title: It takes two to make a thing go right - setting up a website with your domain

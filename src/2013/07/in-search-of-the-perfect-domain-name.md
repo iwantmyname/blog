@@ -1,4 +1,3 @@
-layout: post
 date: 2013-07-31 14:27:28 +1200
 author: Timo
 title: Searching For The Perfect Startup Domain Name

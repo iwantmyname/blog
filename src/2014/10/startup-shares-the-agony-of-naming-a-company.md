@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-15 05:58:51 +1200
 author: Chris
 title: StartUp shares the agony of naming a company, plus my short list of naming rules

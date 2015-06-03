@@ -1,4 +1,3 @@
-layout: post
 date: 2009-04-01 12:07:38 -0800
 author: Timo
 title: List of 100 available ultra short domain names

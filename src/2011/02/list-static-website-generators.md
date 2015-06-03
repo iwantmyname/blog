@@ -1,4 +1,3 @@
-layout: post
 date: 2011-02-23 17:51:52 +1200
 author: Timo
 title: 32 static website generators for your site, blog or wiki

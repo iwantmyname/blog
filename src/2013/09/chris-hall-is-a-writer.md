@@ -1,4 +1,3 @@
-layout: post
 date: 2013-09-18 11:16:47 +1200
 author: Timo
 title: Chris Hall Is A Writer

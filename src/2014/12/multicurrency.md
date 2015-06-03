@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-17 10:59:31 +1200
 author: Chris
 title: New feature alert—we now support USD, NZD, AUD, GBP and EUR!

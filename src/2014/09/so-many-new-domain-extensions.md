@@ -1,4 +1,3 @@
-layout: post
 date: 2014-09-11 10:38:56 +1200
 author: Chris
 title: Next week, today: So many new domain extensions

@@ -1,4 +1,3 @@
-layout: post
 date: 2012-08-08 15:50:18 +1200
 author: Timo
 title: .CO.ZA Domain Registrations Now Live

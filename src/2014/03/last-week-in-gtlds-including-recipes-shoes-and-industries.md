@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-04 10:09:03 +1200
 author: Chris
 title: Last week in gTLDs, including .RECIPES, .SHOES and .INDUSTRIES

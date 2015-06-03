@@ -1,4 +1,3 @@
-layout: post
 date: 2010-05-30 16:38:23 +1200
 author: Paul
 title: Kiwi Schools Make Savings With Web Apps

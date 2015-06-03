@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-13 15:00:00 +1200
 author: Paul
 title: Philippines Disaster: Help If You Can

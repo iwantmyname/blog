@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-02 08:05:34 +1200
 author: Chris
 title: Silvrback 2.0 is out, adds more polish and features

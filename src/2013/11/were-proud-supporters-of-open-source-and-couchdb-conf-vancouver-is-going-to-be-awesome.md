@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-08 18:01:37 +1200
 author: Chris
 title: We're Proud Supporters Of Open Source (And CouchDB Conf Vancouver Is Going To Be Awesome!)

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-25 17:45:00 +1200
 author: Kevin
 title: Not receiving email at your domain? Check for a CNAME record on the root level.

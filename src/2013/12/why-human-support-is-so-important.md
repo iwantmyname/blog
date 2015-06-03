@@ -1,4 +1,3 @@
-layout: post
 date: 2013-12-04 11:20:10 +1200
 author: Chris
 title: Why Human Support Is So Important

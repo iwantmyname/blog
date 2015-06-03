@@ -1,4 +1,3 @@
-layout: post
 date: 2009-05-19 12:11:58 +1200
 author: Timo
 title: New Domain Search Feature: Check Domains via Twitter

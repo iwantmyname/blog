@@ -1,4 +1,3 @@
-layout: post
 author: Chris
 title: 7 new domain extensions are coming THIS WEEK
 ----

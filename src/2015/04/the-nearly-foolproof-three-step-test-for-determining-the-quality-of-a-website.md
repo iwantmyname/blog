@@ -1,4 +1,3 @@
-layout: post
 date: 2015-04-15 11:34:36 -0700
 author: Chris
 title: The nearly foolproof three-step test for determining the quality of a website

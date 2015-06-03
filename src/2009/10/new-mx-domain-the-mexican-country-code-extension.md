@@ -1,4 +1,3 @@
-layout: post
 date: 2009-10-01 11:30:04 +1200
 author: Timo
 title: New: .MX Domains - The Mexican Country Code Extension

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-21 08:12:38 +1200
 author: Chris
 title: Ben Pieratt can help you name your project

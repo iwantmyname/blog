@@ -1,4 +1,3 @@
-layout: post
 date: 2014-06-27 16:39:07 +1200
 author: Chris
 title: Gmail supporting non-Latin domains by the end of the month

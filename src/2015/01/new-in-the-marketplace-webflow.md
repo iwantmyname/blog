@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-29 13:00:27 -0700
 author: Chris
 title: New in the Marketplace - Webflow, a drag-and-drop site builder for modern websites

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-05-30 12:00:00 +1200
 author: Timo
 title: .IO domains now even more awesome for startups!

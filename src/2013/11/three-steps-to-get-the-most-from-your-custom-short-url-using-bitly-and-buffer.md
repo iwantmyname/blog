@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-06 06:49:49 +1200
 author: Chris
 title: Three Steps To Get The Most From Your Custom Short URL Using Bitly And Buffer

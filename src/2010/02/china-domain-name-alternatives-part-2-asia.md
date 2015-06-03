@@ -1,4 +1,3 @@
-layout: post
 date: 2010-02-27 09:40:44 +1200
 author: Timo
 title: China Domain Name Alternatives, Part 2: .ASIA

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-10-24 05:28:42 +1200
 author: Chris
 title: A Short Interview With Tim Johnson, CEO Of Dot Kiwi

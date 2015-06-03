@@ -1,4 +1,3 @@
-layout: post
 date: 2015-03-02 11:37:58 -0700
 author: Chris
 title: Trustworthiness as a factor in Google rankings

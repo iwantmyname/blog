@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-24 13:19:22 +1200
 author: Chris
 title: A Short Interview With Jo-John Torres, Business Development Manager of DotClub

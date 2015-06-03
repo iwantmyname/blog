@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-19 08:46:25 +1200
 author: Chris
 title: Peter Orum on why he chose .PICS for his photography website

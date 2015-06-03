@@ -1,4 +1,3 @@
-layout: post
 date: 2014-09-09 07:45:04 +1200
 author: Joel
 title: How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO

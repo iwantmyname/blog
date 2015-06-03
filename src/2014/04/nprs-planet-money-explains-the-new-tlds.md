@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-18 06:34:27 +1200
 author: Chris
 title: NPR's Planet Money explains the new top-level domains

@@ -1,4 +1,3 @@
-layout: post
 date: 2013-03-26 14:21:15 +1200
 author: Timo
 title: .PW Domains Available

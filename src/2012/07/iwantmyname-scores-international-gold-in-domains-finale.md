@@ -1,4 +1,3 @@
-layout: post
 date: 2012-07-31 11:00:00 +1200
 author: Paul
 title: iwantmyname Scores International Gold In Domains Finale

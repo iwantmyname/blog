@@ -1,4 +1,3 @@
-layout: post
 date: 2010-07-26 10:00:00 +1200
 author: Timo
 title: Register .NZ Domain Names With Māori Macron Characters

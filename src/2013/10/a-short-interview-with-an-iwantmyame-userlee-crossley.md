@@ -1,4 +1,3 @@
-layout: post
 date: 2013-10-30 12:07:12 +1200
 author: Chris
 title: A Short Interview With iwantmyname Customer Lee Crossley

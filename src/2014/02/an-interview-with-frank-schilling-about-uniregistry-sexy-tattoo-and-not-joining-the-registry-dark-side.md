@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-27 10:03:41 +1200
 author: Chris
 title: An interview with Frank Schilling about Uniregistry, .SEXY, .TATTOO and not joining the registry dark side

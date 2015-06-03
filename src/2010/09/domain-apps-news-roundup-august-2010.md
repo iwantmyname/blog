@@ -1,4 +1,3 @@
-layout: post
 date: 2010-09-01 10:45:40 +1200
 author: Timo
 title: Apps For Domains News Roundup August

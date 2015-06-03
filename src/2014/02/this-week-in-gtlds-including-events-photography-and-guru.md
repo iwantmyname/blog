@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-08 08:30:48 +1200
 author: Chris
 title: This week in gTLDs, including .EVENTS, .PHOTOGRAPHY and .GURU

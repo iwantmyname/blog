@@ -1,4 +1,3 @@
-layout: post
 date: 2012-02-29 11:00:00 +1200
 author: Paul
 title: .CO Domain - What Will You Build?

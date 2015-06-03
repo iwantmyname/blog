@@ -1,4 +1,3 @@
-layout: post
 date: 2014-01-08 18:19:30 +1200
 author: Lenz
 title: Why ALIAS-type DNS Records Break The Internet

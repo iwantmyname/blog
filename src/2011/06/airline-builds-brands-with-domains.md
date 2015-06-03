@@ -1,4 +1,3 @@
-layout: post
 date: 2011-06-02 12:32:56 +1200
 author: Paul
 title: Airline Builds Brand With Domains

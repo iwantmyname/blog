@@ -1,4 +1,3 @@
-layout: post
 date: 2009-09-04 09:56:58 +1200
 author: Timo
 title: Domain Search Bookmarklet & More Tools For Domains

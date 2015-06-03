@@ -1,4 +1,3 @@
-layout: post
 date: 2014-07-08 07:15:32 +1200
 author: Chris
 title: Cities are a good bet for new domain extension success

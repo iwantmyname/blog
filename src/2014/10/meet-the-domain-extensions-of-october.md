@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-02 04:24:09 +1200
 author: Chris
 title: Meet the domain extensions of October, including .deals and .nyc

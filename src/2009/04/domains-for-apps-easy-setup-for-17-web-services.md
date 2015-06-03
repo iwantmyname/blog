@@ -1,4 +1,3 @@
-layout: post
 date: 2009-04-30 14:18:56 +1200
 author: Timo
 title: Domains for Apps: Easy domain setup for popular web services

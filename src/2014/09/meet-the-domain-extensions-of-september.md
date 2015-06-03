@@ -1,4 +1,3 @@
-layout: post
 date: 2014-09-04 07:52:13 +1200
 author: Chris
 title: Meet the new domain extensions of September, including .london, .nz and .beer

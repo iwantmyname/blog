@@ -1,4 +1,3 @@
-layout: post
 date: 2014-05-21 08:57:29 +1200
 author: Chris
 title: 13 new domain extensions for real estate websites

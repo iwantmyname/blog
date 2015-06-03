@@ -1,4 +1,3 @@
-layout: post
 date: 2012-01-31 14:00:00 +1200
 author: Paul
 title: Digesting An Eventful Month

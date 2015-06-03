@@ -1,4 +1,3 @@
-layout: post
 date: 2009-04-20 06:50:15 +1200
 author: Timo
 title: Manage your .TEL domain with the My.tel iPhone app

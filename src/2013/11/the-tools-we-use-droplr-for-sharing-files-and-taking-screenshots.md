@@ -1,4 +1,3 @@
-layout: post
 date: 2013-11-02 10:59:04 +1200
 author: Chris
 title: The Tools We Use: Droplr For Sharing Files And Taking Screenshots

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-03-14 16:08:39 +1200
 author: Chris
 title: Have questions? Melanie Baker is our new support scholar

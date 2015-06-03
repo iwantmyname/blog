@@ -1,4 +1,3 @@
-layout: post
 date: 2014-12-29 10:31:06 -0700
 author: Chris
 title: Dear internet, it’s time to fix your footer (again)

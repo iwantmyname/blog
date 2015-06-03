@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-07 05:19:46 +1200
 author: Chris
 title: This is important—make sure your GitHub Pages DNS settings are up-to-date

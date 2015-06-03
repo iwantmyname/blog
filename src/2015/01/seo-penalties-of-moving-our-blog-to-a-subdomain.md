@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-16 11:53:45 +1200
 author: Timo
 title: SEO penalties of moving our blog to a subdomain

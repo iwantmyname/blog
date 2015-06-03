@@ -1,4 +1,3 @@
-layout: post
 date: 2011-11-18 11:00:00 +1200
 author: Paul
 title: iWantMyName Sweetens App Marketplace

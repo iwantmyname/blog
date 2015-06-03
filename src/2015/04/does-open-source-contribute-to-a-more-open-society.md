@@ -1,4 +1,3 @@
-layout: post
 date: 2015-04-01 10:33:41 +1200
 author: Lenz
 title: Does open source contribute to a more open society?

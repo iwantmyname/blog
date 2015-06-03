@@ -1,4 +1,3 @@
-layout: post
 date: 2014-05-13 12:04:34 +1200
 author: Timo
 title: Celebrating 100,000 domains at iwantmyname!

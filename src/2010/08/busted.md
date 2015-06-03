@@ -1,4 +1,3 @@
-layout: post
 date: 2010-08-30 11:47:41 +1200
 author: Paul
 title: Busted!

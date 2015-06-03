@@ -1,4 +1,3 @@
-layout: post
 date: 2015-01-05 15:25:30 -0700
 author: Chris
 title: Meet the domain extensions of January (2015!), including .degree, .space, and .band

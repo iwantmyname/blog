@@ -1,4 +1,3 @@
-layout: post
 date: 2011-06-21 12:51:16 +1200
 author: Paul
 title: New Era Unfolds For Domains

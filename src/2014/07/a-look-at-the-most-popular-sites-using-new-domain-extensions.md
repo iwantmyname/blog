@@ -1,4 +1,3 @@
-layout: post
 date: 2014-07-18 07:07:13 +1200
 author: Chris
 title: A look at the most popular sites using new domain extensions

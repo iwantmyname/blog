@@ -1,4 +1,3 @@
-layout: post
 date: 2010-10-15 15:37:03 +1200
 author: Paul
 title: Domain Registrar Storefront

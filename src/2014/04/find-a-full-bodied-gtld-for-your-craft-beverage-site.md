@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-11 09:39:23 +1200
 author: Chris
 title: Find a full-bodied domain extension for your craft beverage site

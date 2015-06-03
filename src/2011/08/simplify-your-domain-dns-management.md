@@ -1,4 +1,3 @@
-layout: post
 date: 2011-08-05 15:16:25 +1200
 author: Paul
 title: Simplify Your Domain DNS Management

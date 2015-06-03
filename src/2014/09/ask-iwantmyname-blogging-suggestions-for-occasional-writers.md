@@ -1,4 +1,3 @@
-layout: post
 date: 2014-09-12 11:28:47 +1200
 author: Chris
 title: Ask iwantmyname: Blogging suggestions for occasional writers

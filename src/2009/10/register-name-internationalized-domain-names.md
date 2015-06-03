@@ -1,4 +1,3 @@
-layout: post
 date: 2009-10-28 16:02:45 +1200
 author: Timo
 title: Internationalized Domain Names (IDNs) For .NAME Available Soon

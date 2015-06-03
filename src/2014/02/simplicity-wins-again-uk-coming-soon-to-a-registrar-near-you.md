@@ -1,4 +1,3 @@
-layout: post
 date: 2014-02-28 07:59:39 +1200
 author: Chris
 title: Simplicity wins again—.UK coming soon to a registrar near you

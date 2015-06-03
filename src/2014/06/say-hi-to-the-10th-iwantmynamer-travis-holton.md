@@ -1,4 +1,3 @@
-layout: post
 date: 2014-06-20 12:47:04 +1200
 author: Chris
 title: Say hi to the 10th iwantmynamer, Travis Holton

@@ -1,4 +1,3 @@
-layout: post
 date: 2014-10-14 05:18:42 +1200
 author: Timo
 title: Why domain extensions still matter

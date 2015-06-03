@@ -1,4 +1,3 @@
-layout: post
 date: 2014-07-02 09:12:02 +1200
 author: Chris
 title: Meet the new domain extensions of July, including .tokyo, .media and .town

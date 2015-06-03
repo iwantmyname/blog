@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-11 16:48:22 +1200
 author: Timo
 title: Microsoft ends free email for custom domains. Here are 5 alternatives.

@@ -1,4 +1,3 @@
-layout: post
 date: 2011-05-23 21:54:07 +1200
 author: Timo
 title: Easily Move Domains Between iWantMyName Accounts

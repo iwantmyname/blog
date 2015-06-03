@@ -1,4 +1,3 @@
-layout: post
 date: 2014-11-21 09:16:05 +1200
 author: Chris
 title: A deep dive into the personal world of password creation

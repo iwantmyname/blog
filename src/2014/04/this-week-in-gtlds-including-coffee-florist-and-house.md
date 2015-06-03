@@ -1,4 +1,3 @@
-layout: post
 date: 2014-04-09 10:18:55 +1200
 author: Chris
 title: This week in gTLDs, including .COFFEE, .FLORIST and .HOUSE

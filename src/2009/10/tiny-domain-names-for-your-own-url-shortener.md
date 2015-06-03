@@ -1,4 +1,3 @@
-layout: post
 date: 2009-10-06 06:41:46 +1200
 author: Timo
 title: 100 Tiny Domain Names For Your Custom URL Shortener
