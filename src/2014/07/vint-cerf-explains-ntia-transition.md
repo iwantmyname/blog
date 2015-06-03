@@ -11,4 +11,4 @@ It's short, educational, and has a great frame at 2:22 where a drawn depiction o
 
 <!-- /excerpt -->
 
-{% include youtube.html id="vd3dH90tdhk" %}
+{{ template "youtube" "vd3dH90tdhk" }}
