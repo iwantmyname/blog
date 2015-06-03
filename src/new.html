@@ -1,8 +1,5 @@
----
-layout: page
 title: New draft &mdash; iwantmyname Domain Blog
----
-
+----
 <div class="container iwmn-container iwmn-article">
 	<div class="row">
 		<div class="col-sm-8 col-sm-offset-2">
@@ -31,7 +28,7 @@ title: New draft &mdash; iwantmyname Domain Blog
 layout: post
 author: Guest
 title: Example blog post title
-date: {{ site.time | date:'%F %T +1200' }}
+date: 2015-00-00 00:00:00 +1200
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu justo, pellentesque non felis sit amet, tempus tristique tortor. Donec ut ultricies odio. Nulla at sodales quam. In dignissim sem metus, quis mollis urna adipiscing eget. Integer eu sapien at erat feugiat dapibus vel sed dui. Duis lectus erat, aliquam ut magna vel, egestas laoreet urna.
@@ -50,12 +47,14 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 </div>
 
 
-<script src="{{ site.baseurl }}/assets/js/editor.js"></script>
+<script src="/assets/js/editor.js"></script>
 <script>
 	var FRONTMATTER = /^---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/
 
 	var target = document.querySelector(".iwmn-article article")
 	var input = document.querySelector("textarea")
+
+	input.value = input.value.replace(/date\: ([^\n]*)/, 'date: ' + (new Date()).toISOString())
 
 
 	function update() {
@@ -71,8 +70,6 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 				content = "# " + data.title + "\n\n" + content
 			}
 		}
-
-		content = content.replace(/\{\{\s*site\.images_url\s*\}\}/g, {{ site.images_url | jsonify }})
 
 		target.innerHTML = marked(content)
 	}
