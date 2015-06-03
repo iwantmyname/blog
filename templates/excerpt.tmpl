@@ -5,16 +5,11 @@
 {{ $excerpt_close := "<!-- /excerpt -->" }}
 
 {{ if contains $more .Raw }}
-	{{ $split := split .Raw $more }}
-	{{ markdown (index $split 0) }}
+	{{ cut .Raw "" $more | markdown }}
 {{ else if contains $excerpt_open .Raw }}
-	{{ $split := split .Raw $excerpt_open }}
-	{{ $section := index $split 1 }}
-	{{ $excerpt := split $section $excerpt_close }}
-	{{ markdown (index $excerpt 0) }}
+	{{ cut .Raw $excerpt_open $excerpt_close | markdown }}
 {{ else }}
-	{{ $split := split .Raw "\n\n" }}
-	{{ markdown (index $split 0) }}
+	{{ cut .Raw "" "\n\n" | markdown }}
 {{ end }}
 
 {{ end }}
