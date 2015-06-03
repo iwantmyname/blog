@@ -32,3 +32,10 @@ pages/1.page: pages/*.page
 
 atom.xml:
 	inner-template
+
+404.html:
+	config
+	inner-template
+	template page
+	template base
+	relativize
