@@ -1,0 +1,12 @@
+{{ define "open-graph-meta" }}
+
+{{ if eq .Pattern "*/*/*.md" }}
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="{{ .Title }}">
+	<meta property="og:url" content="{{ .Site.Other.Base_url }}/{{ .Url }}">
+	{{ if .Other.Header_image }}
+		<meta property="og:image" content="{{ .Site.Other.Base_url }}/media/{{ .Other.Header_image }}">
+	{{ end }}
+{{ end }}
+
+{{ end }}

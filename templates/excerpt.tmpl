@@ -1,0 +1,15 @@
+{{ define "excerpt" }}
+
+{{ $more := "\n<!-- more -->\n" }}
+{{ $excerpt_open := "<!-- excerpt -->\n" }}
+{{ $excerpt_close := "\n<!-- /excerpt -->" }}
+
+{{ if contains $more .Raw }}
+	{{ cut .Raw "" $more | markdown }}
+{{ else if contains $excerpt_open .Raw }}
+	{{ cut .Raw $excerpt_open $excerpt_close | markdown }}
+{{ else }}
+	{{ cut .Raw "" "\n\n" | markdown }}
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,13 @@
+{{ define "page" }}
+<div class="frame">
+	<div class="frame-row frame-row-expand">
+		{{ template "header" }}
+
+		{{ .Content }}
+	</div>
+	
+	<div class="frame-row">
+		{{ template "footer" }}
+	</div>
+</div>
+{{ end }}

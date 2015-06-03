@@ -1,0 +1,72 @@
+{{ define "post" }}
+
+{{ if .Other.Header_image }}
+	<div class="iwmn-article-header imgix-fluid" data-src="https://iwmn-blog.imgix.net/{{ .Other.Header_image }}">
+		<div class="container iwmn-container iwmn-article">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<h1>{{ .Title | html }}</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+{{ end }}
+
+<div class="container iwmn-container iwmn-article{{ if .Other.Is_interview }} iwmn-interview{{ end }}">
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+			<article>
+				{{ if not .Other.Header_image }}
+					<h1>{{ .Title | html }}</h1>
+				{{ end }}
+
+				{{ if .Other.Author_name }}
+					<p class="small">The following is a guest post written by <a href="https://twitter.com/{{ .Other.Author_twitter }}">{{ .Other.Author_name }}</a>.</p>
+					<hr>
+				{{ end }}
+
+				{{ .Content }}
+				
+				<div class="iwmn-article-footer">
+					<div class="row">
+						<div class="col-sm-6">
+							{{ if .Other.Author_name }}
+								<p class="byline clearfix">
+									<img class="author" src="{{ .Other.Author_avatar }}" alt="{{ .Other.Author_name }}" title="{{ .Other.Author_name }}">
+
+									&mdash; {{ .Other.Author_name }}<br>
+									<a href="https://twitter.com/{{ .Other.Author_twitter }}">@{{ .Other.Author_twitter }}</a>
+								</p>
+							{{ else if .Other.Author }}
+								{{ $name := index .Site.Other (print .Other.Author "_name") }}
+								{{ $avatar := index .Site.Other (print .Other.Author "_avatar") }}
+								{{ $twitter := index .Site.Other (print .Other.Author "_twitter") }}
+								<p class="byline clearfix">
+									<img class="author" src="{{ $avatar }}" alt="{{ $name }}" title="{{ $name }}">
+
+									&mdash; {{ $name }}<br>
+									<a href="https://twitter.com/{{ $twitter }}">@{{ $twitter }}</a>
+								</p>
+							{{ end }}
+						</div>
+						<div class="col-sm-6">
+							<p class="text-right">
+								<small class="date">{{ .Date.Format "January _2, 2006" }}</small>
+							</p>
+						</div>
+					</div>
+					{{ if .Other.Author_byline }}
+						<div class="byline small">
+							<hr>
+							{{ .Other.Author_byline | markdown }}
+						</div>
+					{{ end }}
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+{{ template "search" }}
+
+{{ end }}

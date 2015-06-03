@@ -1,0 +1,95 @@
+TEMPLATES = templates
+SOURCE = src
+OUTPUT = site
+BASE_URL = https://iwantmyname.com/blog
+
+
+CHRIS_NAME = Chris Hall
+CHRIS_TWITTER = hastaghall
+CHRIS_AVATAR = /assets/images/authors/chris.jpg
+
+JOEL_NAME = Joel Pitt
+JOEL_AVATAR = /assets/images/authors/joel.jpg
+JOEL_TWITTER = ferrouswheel
+
+KEVIN_NAME = Kevin Ingersoll
+KEVIN_AVATAR = /assets/images/authors/kevin.jpg
+KEVIN_TWITTER = kingersoll
+
+LENZ_NAME = Lenz Gschwendtner
+LENZ_AVATAR = /assets/images/authors/lenz.jpg
+LENZ_TWITTER = norbu09
+
+MANU_NAME = Manu Vetters
+MANU_AVATAR = /assets/images/authors/manu.jpg
+MANU_TWITTER = manucx
+
+MELLE_NAME = Melanie Baker
+MELLE_AVATAR = /assets/images/authors/melle.png
+MELLE_TWITTER = melle
+
+PAUL_NAME = Paul Spence
+PAUL_AVATAR = /assets/images/authors/paul.png
+PAUL_TWITTER = geniusnet
+
+TIMO_NAME = Timo Reitnauer
+TIMO_AVATAR = /assets/images/authors/timo.jpg
+TIMO_TWITTER = treitnauer
+
+TOBI_NAME = Tobi Kirschstein
+TOBI_AVATAR = /assets/images/authors/tobi.png
+TOBI_TWITTER = owner
+
+
+*/*/*.md:
+	config
+	paginate 10 pages/*.page
+	ext .html
+	inner-template
+	markdown
+	template post
+	template page
+	template base
+	relativize
+
+pages/*.page: */*/*.md
+	rename ../page-*
+	ext .html
+	directorify
+	template archive
+	template page
+	template base
+	relativize
+
+pages/1.page: pages/*.page
+	rename ../index.html
+	template archive
+	template page
+	template base
+	relativize
+
+atom.xml:
+	inner-template
+feeds/*/*.xml:
+	inner-template
+
+*.html:
+	config
+	inner-template
+	template page
+	template base
+	relativize
+
+*/*/*.redirect:
+	ext .html
+	template redirect
+
+preview/*.md:
+	config
+	ext .html
+	inner-template
+	markdown
+	template post
+	template page
+	template base
+	relativize

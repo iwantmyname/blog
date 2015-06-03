@@ -1,0 +1,16 @@
+{{ define "redirect" }}
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>&hellip;</title>
+
+	<link rel="canonical" href="{{ .Content }}">
+	<meta http-equiv="refresh" content="0; url={{ .Content }}">
+	<script>window.location.replace('{{ .Content }}')</script>
+</head>
+<body>
+	<!-- Redirecting... -->
+</body>
+</html>
+{{ end }}
