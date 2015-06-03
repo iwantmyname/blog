@@ -11,7 +11,7 @@
 		{{ else if eq .Pattern "pages/*.page" }}
 			Page {{ .Title }} &mdash; iwantmyname Domain Blog
 		{{ else }}
-			{{ .Title }}
+			{{ .Title | html }}
 		{{ end }}
 	</title>
 
