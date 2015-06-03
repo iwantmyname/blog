@@ -25,6 +25,17 @@
 				<div class="iwmn-article-footer">
 					<div class="row">
 						<div class="col-sm-6">
+							{{ if .Other.Author }}
+								{{ $name := index .Site.Other (print .Other.Author "_name") }}
+								{{ $avatar := index .Site.Other (print .Other.Author "_avatar") }}
+								{{ $twitter := index .Site.Other (print .Other.Author "_twitter") }}
+								<p class="byline clearfix">
+									<img class="author" src="{{ $avatar }}" alt="{{ $name }}" title="{{ $name }}">
+
+									&mdash; {{ $name }}<br>
+									<a href="https://twitter.com/{{ $twitter }}">@{{ $twitter }}</a>
+								</p>
+							{{ end }}
 						</div>
 						<div class="col-sm-6">
 							<p class="text-right">
