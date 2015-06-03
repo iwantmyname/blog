@@ -28,7 +28,7 @@ before_script:
   - cd ..
 
 script:
-  - gostatic config
+  - gostatic -fv config
 
 after_success:
   - cd site
