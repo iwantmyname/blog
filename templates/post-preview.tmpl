@@ -1,6 +1,6 @@
 {{ define "post-preview" }}
 <article>
-	<small class="date">{{ .Date }}</small>
+	<small class="date">{{ .Date.Format "January _2, 2006" }}</small>
 
 	{{ if .Other.Author }}
 		<a href="{{ .Url }}"><img class="author" src="{{ .Other.Author }}" alt="{{ .Other.Author  }}" title="{{ .Other.Author }}"></a>
