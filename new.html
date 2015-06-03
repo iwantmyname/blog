@@ -1,40 +1,47 @@
+
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>New draft &mdash; iwantmyname Domain Blog</title>
+	<title>
+		
+			New draft — iwantmyname Domain Blog
+		
+	</title>
 
 	
+	<link rel="canonical" href="https://iwantmyname.com/blog/new.html">
 
 	
-		<link rel="canonical" href="https://iwantmyname.com/blog/new.html">
-	
-
-	<!-- favicons for apple devices -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
-<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="assets/images/apple-touch-icon-small.png"/>
 <!-- favicons for IE -->
-<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<link rel="shortcut" href="favicon.ico">
 <!-- everyone else -->
-<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+<link rel="icon" href="assets/images/favicon-64x64.png">
 
 	
 
 
-	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
 
-	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
-	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+
+
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="atom.xml">
+
+	<link rel="stylesheet" href="assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="assets/css/theme.min.css?i5078pap" media="all">
 
 	<!--[if lt IE 9]>
-		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+		<script src="assets/js/ie.min.js?i5078pap"></script>
 	<![endif]-->
 
-	<script>
+	
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -53,14 +60,16 @@
 </head>
 <body>
 
-	<div class="frame">
+	
+<div class="frame">
 	<div class="frame-row frame-row-expand">
-		<header>
+		
+<header>
 	<div class="container iwmn-container">
 		<div class="row">
 			<div class="col-xs-9 col-sm-6">
-				<a href="https://iwantmyname.com/blog/" class="brand">
-					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+				<a href="" class="brand">
+					<img src="assets/images/logo.png" alt="iwantmyname logo">
 					<span class="hidden-xs">Domain</span> blog
 				</a>
 			</div>
@@ -103,12 +112,10 @@
 			<div class="modal-body">
 				
 <textarea class="form-control" rows="15" placeholder="Start typing in markdown...">
----
-layout: post
-author: Guest
+author: Chris
 title: Example blog post title
-date: 2015-06-01 12:30:07 +1200
----
+date: 2015-00-00 00:00:00 +1200
+----
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam arcu justo, pellentesque non felis sit amet, tempus tristique tortor. Donec ut ultricies odio. Nulla at sodales quam. In dignissim sem metus, quis mollis urna adipiscing eget. Integer eu sapien at erat feugiat dapibus vel sed dui. Duis lectus erat, aliquam ut magna vel, egestas laoreet urna.
 
@@ -126,29 +133,31 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 </div>
 
 
-<script src="https://iwantmyname.com/blog/assets/js/editor.js"></script>
+<script src="assets/js/editor.js"></script>
 <script>
-	var FRONTMATTER = /^---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/
+	var CONFIG_RE = /^([\s\S]*?)\s*----\s*([\s\S]*)$/
+	var TITLE_RE = /title\:\s+(.+?)\n/
 
 	var target = document.querySelector(".iwmn-article article")
 	var input = document.querySelector("textarea")
+
+	input.value = input.value.replace(/date\: ([^\n]*)/, 'date: ' + (new Date()).toISOString())
 
 
 	function update() {
 		var content = input.value
 
-		if (FRONTMATTER.test(content)) {
-			var matches = content.match(FRONTMATTER)
+		if (CONFIG_RE.test(content)) {
+			var matches = content.match(CONFIG_RE)
 
-			var data = jsyaml.load(matches[1])
+			var config = matches[1]
 			content = matches[2]
 
-			if (data.title) {
-				content = "# " + data.title + "\n\n" + content
+			matches = config.match(TITLE_RE)
+			if (matches) {
+				content = "# " + matches[1] + "\n\n" + content
 			}
 		}
-
-		content = content.replace(/\{\{\s*site\.images_url\s*\}\}/g, "https://iwantmyname.com/blog/assets/images/content")
 
 		target.innerHTML = marked(content)
 	}
@@ -164,11 +173,11 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 		}
 	}
 </script>
-
 	</div>
 	
 	<div class="frame-row">
-		<footer>
+		
+<footer>
 	<div class="container iwmn-container">
 		<div class="row">
 			<div class="col-xs-6 col-sm-3">
@@ -178,14 +187,14 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
 					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
 					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
-					<li><a href="https://iwantmyname.com/domains/special-offer">June discounts</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">Domain discounts</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-sm-3">
 				<ul class="list-unstyled">
 					<li class="list-header">Company</li>
 					<li><a href="https://iwantmyname.com/about">About our team</a></li>
-					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="">Read our domain blog</a></li>
 					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
 					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
 					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
@@ -227,7 +236,7 @@ Mauris pretium libero quis est pellentesque lobortis. Cras bibendum enim placera
 
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
-	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+	<script src="assets/js/libs.min.js?i5078pap"></script>
+	<script src="assets/js/theme.min.js?i5078pap"></script>
 </body>
 </html>

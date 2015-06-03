@@ -1,47 +1,54 @@
+
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO</title>
+	<title>
+		
+			How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO
+		
+	</title>
 
 	
+	<link rel="canonical" href="https://iwantmyname.com/blog/2014/09/search-upgrade.html">
 
 	
-		<link rel="canonical" href="https://iwantmyname.com/blog/2014/09/search-upgrade.html">
-	
-
-	<!-- favicons for apple devices -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-xlarge.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-large.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-medium.png">
-<link rel="apple-touch-icon-precomposed" href="https://iwantmyname.com/blog/assets/images/apple-touch-icon-small.png"/>
+<!-- favicons for apple devices -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../assets/images/apple-touch-icon-xlarge.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../assets/images/apple-touch-icon-large.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../assets/images/apple-touch-icon-medium.png">
+<link rel="apple-touch-icon-precomposed" href="../../assets/images/apple-touch-icon-small.png"/>
 <!-- favicons for IE -->
-<link rel="shortcut" href="https://iwantmyname.com/blog/favicon.ico">
+<link rel="shortcut" href="../../favicon.ico">
 <!-- everyone else -->
-<link rel="icon" href="https://iwantmyname.com/blog/assets/images/favicon-64x64.png">
+<link rel="icon" href="../../assets/images/favicon-64x64.png">
 
 	
+
+
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO">
 	<meta property="og:url" content="https://iwantmyname.com/blog/2014/09/search-upgrade.html">
 	
-		<meta property="og:image" content="https://iwantmyname.com/blog/assets/images/content/2014-09-09-long-view.jpg">
+		<meta property="og:image" content="https://iwantmyname.com/blog/media/2014-09-09-long-view.jpg">
 	
 
 
 
-	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="https://iwantmyname.com/blog/atom.xml">
 
-	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/libs.min.css?i5078pap" media="all">
-	<link rel="stylesheet" href="https://iwantmyname.com/blog/assets/css/theme.min.css?i5078pap" media="all">
+	<link rel="alternate" title="Latest blog posts" type="application/atom+xml" href="../../atom.xml">
+
+	<link rel="stylesheet" href="../../assets/css/libs.min.css?i5078pap" media="all">
+	<link rel="stylesheet" href="../../assets/css/theme.min.css?i5078pap" media="all">
 
 	<!--[if lt IE 9]>
-		<script src="https://iwantmyname.com/blog/assets/js/ie.min.js?i5078pap"></script>
+		<script src="../../assets/js/ie.min.js?i5078pap"></script>
 	<![endif]-->
 
-	<script>
+	
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -60,14 +67,16 @@
 </head>
 <body>
 
-	<div class="frame">
+	
+<div class="frame">
 	<div class="frame-row frame-row-expand">
-		<header>
+		
+<header>
 	<div class="container iwmn-container">
 		<div class="row">
 			<div class="col-xs-9 col-sm-6">
-				<a href="https://iwantmyname.com/blog/" class="brand">
-					<img src="https://iwantmyname.com/blog/assets/images/logo.png" alt="iwantmyname logo">
+				<a href="../../" class="brand">
+					<img src="../../assets/images/logo.png" alt="iwantmyname logo">
 					<span class="hidden-xs">Domain</span> blog
 				</a>
 			</div>
@@ -89,7 +98,6 @@
 		
 
 
-
 	<div class="iwmn-article-header imgix-fluid" data-src="https://iwmn-blog.imgix.net/2014-09-09-long-view.jpg">
 		<div class="container iwmn-container iwmn-article">
 			<div class="row">
@@ -106,10 +114,10 @@
 		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 			<article>
 				
-				
+
 				
 
-				<p>A few weeks ago we quietly released an almost completely reworked domain name search engine. Our older system, of which there had already been several iterations, was no longer coping with our incremental growth and the dozens of new top level domains being released each month (with 500+ more still due to launch). Not only are more people searching for domains, but the number of domains searched was stretching our old domain search engine&#39;s limits.</p>
+				<p>A few weeks ago we quietly released an almost completely reworked domain name search engine. Our older system, of which there had already been several iterations, was no longer coping with our incremental growth and the dozens of new top level domains being released each month (with 500+ more still due to launch). Not only are more people searching for domains, but the number of domains searched was stretching our old domain search engine&rsquo;s limits.</p>
 
 <p>This is an overview of the issues in our old system and how the new one solves these issues and sets us up for future development.</p>
 
@@ -117,7 +125,7 @@
 
 <p>Our stack for search included an Erlang application (hereafter called <code>namesearchd</code>) that listened for WebSocket connections using SockJS. It also listened to RabbitMQ messages from our web servers to indicate a new search had been triggered.</p>
 
-<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-09-04-old-search-diagram.png" alt="Old search diagram"></p>
+<p><img src="../../media/2014-09-04-old-search-diagram.png" alt="Old search diagram"></p>
 
 <p>When a customer loaded the search page, their browser connected to SockJS with their session ID. When they entered a domain name, the search was sent to the web application, and then after some validation, the search was forwarded via RabbitMQ to <code>namesearchd</code> with the session and search ID. This made <code>namesearchd</code> do the following:</p>
 
@@ -134,41 +142,44 @@
 <li>Every time a domain name was searched, we sent back the list of TLDs which was mostly static.</li>
 <li>A search would send requests to check <strong>all</strong> available TLDs at the time the search was sent. While we maintain a persistent connection to our upstream services and buffer these checks, sending this mass of checks at once tied up the queue until they were all processed.</li>
 <li>We started hitting API limits for checks, although these issues were temporarily resolved by talking nicely to the right people.</li>
-<li>All the above could probably have been worked around, but the most troubling was that SockJS connections would be unexpectedly terminated. This meant people would never get the list of TLDs, wait forever for results, or only get a partial list of availability. We tried the usual—checking connection limits, open file descriptors and timeouts etc.—but found nothing obvious. And unfortunately, none of us are extremely experienced Erlang developers, so despite reading the source code of our dependencies, we couldn&#39;t find the cause. It was also impossible for us to replicate outside of production.</li>
+<li>All the above could probably have been worked around, but the most troubling was that SockJS connections would be unexpectedly terminated. This meant people would never get the list of TLDs, wait forever for results, or only get a partial list of availability. We tried the usual—checking connection limits, open file descriptors and timeouts etc.—but found nothing obvious. And unfortunately, none of us are extremely experienced Erlang developers, so despite reading the source code of our dependencies, we couldn&rsquo;t find the cause. It was also impossible for us to replicate outside of production.</li>
 </ul>
 
 <h2>The new way</h2>
 
-<p>Given that our biggest concern was the SockJS connections being prematurely terminated, we looked for a new library to use for WebSockets. In the end we chose Socket.IO (on Node.js) after their version 1.0 release. This allowed us to change the focus of the Erlang backend to checking domain availability, and the Node.js daemon to maintain WebSocket connections and forwarding search requests (again, via RabbitMQ) to <code>namesearchd</code>, only this time, <code>namesearchd</code> would reply via RabbitMQ and let Socket.IO deal with handing the response back to the customer&#39;s web browser.</p>
+<p>Given that our biggest concern was the SockJS connections being prematurely terminated, we looked for a new library to use for WebSockets. In the end we chose Socket.IO (on Node.js) after their version 1.0 release. This allowed us to change the focus of the Erlang backend to checking domain availability, and the Node.js daemon to maintain WebSocket connections and forwarding search requests (again, via RabbitMQ) to <code>namesearchd</code>, only this time, <code>namesearchd</code> would reply via RabbitMQ and let Socket.IO deal with handing the response back to the customer&rsquo;s web browser.</p>
 
-<p><img src="https://iwantmyname.com/blog/assets/images/content/2014-09-04-new-search-diagram.png" alt="New search diagram"></p>
+<p><img src="../../media/2014-09-04-new-search-diagram.png" alt="New search diagram"></p>
 
 <p>The other difference is that now the web application sends the TLD list to the client, which allows us to not have to send a list of all every TLD for each search request. The initial reason the TLD list was being sent for every search was that it could be different depending on what name you searched for. This filtering is now handled by client-side Javascript (and you’ll get an error if you cheekily use the Socket.IO connection to search for, say, a two-character domain on a TLD that doesn’t support two letter name registrations).</p>
 
-<p>The frontend now only searches names as they appear on the screen. So instead of searching for all the TLDs at once, and potentially clogging up the pipes for other people searching at the same time as you, it’ll only show the availability of the domains you’re looking currently looking at. While this adds a slight delay to seeing the availability of a specific domain, it means searches like <code>myawesomename.com</code> come back much faster because we&#39;re not bothering to instantly search every TLD available (and because the customer has specified <code>.com</code>, it’ll show that TLD at the top).</p>
+<p>The frontend now only searches names as they appear on the screen. So instead of searching for all the TLDs at once, and potentially clogging up the pipes for other people searching at the same time as you, it’ll only show the availability of the domains you’re looking currently looking at. While this adds a slight delay to seeing the availability of a specific domain, it means searches like <code>myawesomename.com</code> come back much faster because we&rsquo;re not bothering to instantly search every TLD available (and because the customer has specified <code>.com</code>, it’ll show that TLD at the top).</p>
 
-<p>This new design also sets us up to substitute alternative approaches to domain name availability checks. Long lists of domains might be good for some people, while a category-grouping approach might work better for others. And customized search results based on where you&#39;re browsing from (e.g. New Zealand visitors might see <code>.co.nz</code> at the top.).</p>
+<p>This new design also sets us up to substitute alternative approaches to domain name availability checks. Long lists of domains might be good for some people, while a category-grouping approach might work better for others. And customized search results based on where you&rsquo;re browsing from (e.g. New Zealand visitors might see <code>.co.nz</code> at the top.).</p>
 
 <h2>Give it a go</h2>
 
-<p>With all of this in place, your domain searches are snappier and more stable. We&#39;re now gearing up for alternative designs of our domain search results page. And we&#39;d love to hear your thoughts! Try the search box below and <a href="https://iwantmyname.com/support">let us know what you think</a>.</p>
+<p>With all of this in place, your domain searches are snappier and more stable. We&rsquo;re now gearing up for alternative designs of our domain search results page. And we&rsquo;d love to hear your thoughts! Try the search box below and <a href="https://iwantmyname.com/support">let us know what you think</a>.</p>
 
 				
 				<div class="iwmn-article-footer">
 					<div class="row">
 						<div class="col-sm-6">
 							
+								
+								
+								
 								<p class="byline clearfix">
-										<img class="author" src="https://iwantmyname.com/blog/assets/images/authors/joel.jpg" alt="Joel Pitt" title="Joel Pitt">
+									<img class="author" src="../../assets/images/authors/joel.jpg" alt="Joel Pitt" title="Joel Pitt">
 
-										&mdash; Joel Pitt<br>
-										<a href="https://twitter.com/ferrouswheel">@ferrouswheel</a>
+									&mdash; Joel Pitt<br>
+									<a href="https://twitter.com/ferrouswheel">@ferrouswheel</a>
 								</p>
 							
 						</div>
 						<div class="col-sm-6">
 							<p class="text-right">
-								<small class="date">September 8, 2014</small>
+								<small class="date">September  9, 2014</small>
 							</p>
 						</div>
 					</div>
@@ -179,17 +190,13 @@
 	</div>
 </div>
 
+
 <div class="page-section">
-	
 	<form class="domain-search text-center" method="get" action="https://iwantmyname.com/">
 		<input type="hidden" name="hideUnavailable" value="false">
-	
 
-		
-			<h1>Find the perfect domain name.</h1>
-			<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
-		
-
+		<h1>Find the perfect domain name.</h1>
+		<h4 class="text-muted">From here to your domain in 180 seconds.</h4>
 		
 		<div class="row">
 			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
@@ -203,10 +210,12 @@
 </div>
 
 
+
 	</div>
 	
 	<div class="frame-row">
-		<footer>
+		
+<footer>
 	<div class="container iwmn-container">
 		<div class="row">
 			<div class="col-xs-6 col-sm-3">
@@ -216,14 +225,14 @@
 					<li><a href="https://iwantmyname.com/domains/domain-transfer">Transfer your domains to us</a></li>
 					<li><a href="https://iwantmyname.com/domains/new-gtld-domain-extensions">New domain extensions</a> &amp; <a href="https://iwantmyname.com/domains/new-gtld-launch-dates">launch dates</a></li>
 					<li><a href="https://iwantmyname.com/services">One-click web services</a></li>
-					<li><a href="https://iwantmyname.com/domains/special-offer">June discounts</a></li>
+					<li><a href="https://iwantmyname.com/domains/special-offer">Domain discounts</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-6 col-sm-3">
 				<ul class="list-unstyled">
 					<li class="list-header">Company</li>
 					<li><a href="https://iwantmyname.com/about">About our team</a></li>
-					<li><a href="https://iwantmyname.com/blog/">Read our domain blog</a></li>
+					<li><a href="../../">Read our domain blog</a></li>
 					<li><a href="https://iwantmyname.com/monthly">Subscribe to our newsletter</a></li>
 					<li><a href="https://twitter.com/iwantmyname">Twitter</a> / <a href="http://facebook.com/iwantmyname">Facebook</a> / <a href="https://google.com/+iwantmyname">Google+</a></li>
 					<li><a href="https://iwantmyname.com/terms">Terms</a> &amp; <a href="https://iwantmyname.com/privacy">privacy policy</a></li>
@@ -265,7 +274,7 @@
 
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="https://iwantmyname.com/blog/assets/js/libs.min.js?i5078pap"></script>
-	<script src="https://iwantmyname.com/blog/assets/js/theme.min.js?i5078pap"></script>
+	<script src="../../assets/js/libs.min.js?i5078pap"></script>
+	<script src="../../assets/js/theme.min.js?i5078pap"></script>
 </body>
 </html>
