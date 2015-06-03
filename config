@@ -29,3 +29,6 @@ pages/1.page: pages/*.page
 	template page
 	template base
 	relativize
+
+atom.xml:
+	inner-template
