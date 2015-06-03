@@ -24,7 +24,7 @@ install:
 before_script:
   - git clone -b gh-pages git@github.com:iwantmyname/blog.git site
   - cd site
-  - git rm -r *
+  - git rm -r * --quiet
   - cd ..
 
 script:
