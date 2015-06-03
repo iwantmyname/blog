@@ -10,11 +10,10 @@ title: [Preview] iwantmyname Domain Blog
 				{{ template "post-preview" $page }}
 			{{ end }}
 
-			{{ range $i, $page := .Site.Pages }}{{ if lt $i 10 }}
-				{{ if $i }}<hr>{{ end }}
-
-				{{ template "post-preview" $page }}
-			{{ end }}{{ end }}
+			{{ range (.Site.Pages.GlobSource "*/*/*.md").Slice 0 10 }}
+				<hr>
+				{{ template "post-preview" . }}
+			{{ end }}
 		</div>
 
 		<div class="col-md-4">
