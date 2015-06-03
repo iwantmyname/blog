@@ -77,3 +77,7 @@ atom.xml:
 	template page
 	template base
 	relativize
+
+*/*/*.redirect:
+	ext .html
+	template redirect
