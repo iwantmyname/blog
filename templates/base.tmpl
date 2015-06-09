@@ -19,9 +19,9 @@
 		<meta name="robots" content="noindex">
 	{{ end }}
 	{{ if .Other.Post_url }}
-	<link rel="canonical" href="{{ .Other.Post_url }}">
-	<meta http-equiv="refresh" content="0; url={{ .Other.Post_url }}">
-	<script>window.location.replace('{{ .Other.Post_url }}')</script>
+		<link rel="canonical" href="{{ .Other.Post_url }}">
+		<meta http-equiv="refresh" content="0; url={{ .Other.Post_url }}">
+		<script>window.location.replace('{{ .Other.Post_url }}')</script>
 	{{ else }}
 		<link rel="canonical" href="{{ .Site.Other.Base_url }}/{{ .Url }}">
 	{{ end }}
