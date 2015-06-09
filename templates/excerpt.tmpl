@@ -5,11 +5,11 @@
 {{ $excerpt_close := "\n<!-- /excerpt -->" }}
 
 {{ if contains $more .Raw }}
-	{{ cut .Raw "" $more | markdown }}
+	{{ .Raw | cut "" $more | markdown }}
 {{ else if contains $excerpt_open .Raw }}
-	{{ cut .Raw $excerpt_open $excerpt_close | markdown }}
+	{{ .Raw | cut $excerpt_open $excerpt_close | markdown }}
 {{ else }}
-	{{ cut .Raw "" "\n\n" | markdown }}
+	{{ .Raw | cut "" "\n\n" | markdown }}
 {{ end }}
 
 {{ end }}
