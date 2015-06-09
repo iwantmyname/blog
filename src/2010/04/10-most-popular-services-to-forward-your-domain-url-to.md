@@ -3,7 +3,7 @@ author: Timo
 title: 10 Most Popular Services To Forward Your Domain To
 ----
 
-Domain name redirection or web (URL) forwarding is one of the easiest ways to start using [your own web address](https://iwantmyname.com) and is a service we provide free to all customers at iWantMyName. With this option you can forward domains to any other public location on the internet. Although it shouldn't be the preferred setup, it makes perfect sense under some circumstances.
+Domain name redirection or web (URL) forwarding is one of the easiest ways to start using [your own web address](https://iwantmyname.com) and is a service we provide free to all customers at iwantmyname. With this option you can forward domains to any other public location on the internet. Although it shouldn't be the preferred setup, it makes perfect sense under some circumstances.
 
 So why would you choose to redirect a domain name? First, some web services do not support [custom domains](https://iwantmyname.com/services) but only offer to get a username tied to their web address in the form of _domain.com/username_, e.g. _twitter.com/username_ or _facebook.com/username_. In this case forwarding is the only option to point a domain to the respective site. Secondly, a redirection comes in handy if you haven't decided what to do with a new internet address yet. By forwarding a domain, you could let all visitors go to a Facebook page or LinkedIn profile instead of presenting them with a blank site or an error message in your browser.
 
@@ -29,4 +29,4 @@ _yourdomainname.com/music_ - forward to Last.fm or MySpace
 
 You get the drift... only by [owning a domain name](https://iwantmyname.com) and having control over the full web address, are you actually able to change the destination at any point in time. Don't like Twitter anymore? Simply change _yourdomainname.com/status_ to another service.
 
-You can set up free domain forwarding through your domain management interface at iWantMyName.
+You can set up free domain forwarding through your domain management interface at iwantmyname.

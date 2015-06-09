@@ -4,7 +4,7 @@ title: Bring Your International Domain Names Back Home
 ----
 
 Now that [
-iWantMyName](https://iwantmyname.co.nz/) has returned home to New Zealand from its Big O.E., we giving you the 
+iwantmyname](https://iwantmyname.co.nz/) has returned home to New Zealand from its Big O.E., we giving you the 
 opportunity to do the same with all your international domain names. So if 
 you currently have your .COMs with a big foreign company but would like to bring them back home - here's a [special 
 transfer offer](https://iwantmyname.co.nz/domains/domain-transfer) for you:
@@ -18,5 +18,5 @@ extensions. (Of course if you have domains with a local provider, the same great
 
 Remember we offer a whole bunch of [nifty free services](https://iwantmyname.co.nz/services) that you don't get with those other guys such as easy domain customisation of all your favourite web apps.
 
-Follow [@iWantMyNameNZ](https://twitter.com/iwantmynamenz) and [@DomainpromosNZ](https://twitter.com/domainpromosnz) for 
+Follow [@iwantmynameNZ](https://twitter.com/iwantmynamenz) and [@DomainpromosNZ](https://twitter.com/domainpromosnz) for 
 Twitter-only domain promos.

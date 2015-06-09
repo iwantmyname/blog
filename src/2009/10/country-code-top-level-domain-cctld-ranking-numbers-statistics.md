@@ -13,7 +13,7 @@ The last part of our *Domain Statistics & Numbers* article series shows the rank
 
 ### .DE Takes Lead Again in ccTLD Race
 
-Ever wondered where your country domain extension sits in the global marketplace? It's a little bit like Formula One, with nations jockeying constantly for supremacy. Recently German suffix .DE pipped China's .CN domain to a pole position with slightly more registrations. That's good news for iWantMyName because we are about to launch a [German language version](http://meinname.com) of our highly successful domain management platform.
+Ever wondered where your country domain extension sits in the global marketplace? It's a little bit like Formula One, with nations jockeying constantly for supremacy. Recently German suffix .DE pipped China's .CN domain to a pole position with slightly more registrations. That's good news for iwantmyname because we are about to launch a [German language version](http://meinname.com) of our highly successful domain management platform.
 
 Below is a handy reference list showing which ccTLDs are most popular:
 

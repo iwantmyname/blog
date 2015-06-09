@@ -41,6 +41,6 @@ For SEO experts, the concept of their own "video site" opens up many possibiliti
 
 ### Now even easier
 
-Video SEO is a new and interesting space and VidCaster is proud to apply our "it just works" philosophy to this category. That's why we're also proud to announce a new partnership with iWantMyName &mdash; now if you use iWantMyName for domain name management, our service can be easily [added to your domains with just one single click](https://iwantmyname.com/services/video/vidcaster-custom-domain).
+Video SEO is a new and interesting space and VidCaster is proud to apply our "it just works" philosophy to this category. That's why we're also proud to announce a new partnership with iwantmyname &mdash; now if you use iwantmyname for domain name management, our service can be easily [added to your domains with just one single click](https://iwantmyname.com/services/video/vidcaster-custom-domain).
 
 For more information about VidCaster, please visit [www.vidcaster.com](http://vidcaster.com).

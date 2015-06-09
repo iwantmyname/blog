@@ -21,4 +21,4 @@ I'd recommend going through your customer experience today and ask yourself... a
 
 ![KickOffLabs Logo](/media/2011-08-17-logo-website-kickofflabs.png)
 
-Josh Ledgard is the co-founder of [KickoffLabs](http://kickofflabs.com). KickoffLabs makes creating landing pages and newsletters for new/small businesses super easy.  KickoffLabs and iWantMyName have teamed up to make your dreams easier to realize by [making it a quick two step process to wire your domain up to Kickofflabs](https://iwantmyname.com/services/website-builder/kickofflabs-own-domain).
+Josh Ledgard is the co-founder of [KickoffLabs](http://kickofflabs.com). KickoffLabs makes creating landing pages and newsletters for new/small businesses super easy.  KickoffLabs and iwantmyname have teamed up to make your dreams easier to realize by [making it a quick two step process to wire your domain up to Kickofflabs](https://iwantmyname.com/services/website-builder/kickofflabs-own-domain).

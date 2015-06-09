@@ -13,9 +13,9 @@ You can now add free-form notes to any of your domains with additional informati
 
 ### Marketplace App search
 
-With almost 100 entries in the [iWantMyName marketplace](https://iwantmyname.com/services), it has become increasingly more difficult to find the app or service you're looking for. The new [marketplace search](https://iwantmyname.com/dashboard/apps) will help you to set up domains even faster from your dashboard now:
+With almost 100 entries in the [iwantmyname marketplace](https://iwantmyname.com/services), it has become increasingly more difficult to find the app or service you're looking for. The new [marketplace search](https://iwantmyname.com/dashboard/apps) will help you to set up domains even faster from your dashboard now:
 
-![iWantMyName Marketplace Search](/media/2011-11-12-search.png)
+![iwantmyname Marketplace Search](/media/2011-11-12-search.png)
 
 ### Choose your Heroku application stack
 

@@ -3,7 +3,7 @@ author: Timo
 title: Internationalized Domain Names (IDNs) For .NAME Available Soon
 ----
 
-At iWantMyName we strongly believe in an open and inclusive internet for all people on this planet. Hence we are always happy to support new technical developments that move us towards a truly internationlized web. We are making a special effort to roll out new services that enable multi-lingual functionality across the global web infrastructure, as these services become available.
+At iwantmyname we strongly believe in an open and inclusive internet for all people on this planet. Hence we are always happy to support new technical developments that move us towards a truly internationlized web. We are making a special effort to roll out new services that enable multi-lingual functionality across the global web infrastructure, as these services become available.
 
 Although it may still take a while until we will see localized versions of the .COM, .NET or .ORG suffixes, ICANN is making steady progress in pursuing changes to introduce internationalized country code top-level domains (ccTLDs) such as .РФ (.RF - Russian Federation) or .бг (.bg - Bulgaria) with a possible start date as early as 2010.
 

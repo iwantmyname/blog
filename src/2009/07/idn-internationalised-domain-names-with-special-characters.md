@@ -3,11 +3,11 @@ author: Timo
 title: Support For Internationalised Domain Names (IDNs)
 ----
 
-It's [Māori Language Week](http://www.koreromaori.co.nz/news/mlw "Māori Language Week") in New Zealand and on this occasion we're very proud to announce support for [Internationalised Domain Names](http://en.wikipedia.org/wiki/Internationalized_domain_name "Internationalised Domain Names") (IDNs) at iWantMyName. Indigenous groups around the world are looking seriously at how best to protect their digital identity, as the Internet continues to impact powerfully in both in economic and sociological terms. Providing Internationalised Domain Names not only for the use of Māori language domains but non-Latin characters in general is a small but significant step towards preserving the expression of language and culture online.
+It's [Māori Language Week](http://www.koreromaori.co.nz/news/mlw "Māori Language Week") in New Zealand and on this occasion we're very proud to announce support for [Internationalised Domain Names](http://en.wikipedia.org/wiki/Internationalized_domain_name "Internationalised Domain Names") (IDNs) at iwantmyname. Indigenous groups around the world are looking seriously at how best to protect their digital identity, as the Internet continues to impact powerfully in both in economic and sociological terms. Providing Internationalised Domain Names not only for the use of Māori language domains but non-Latin characters in general is a small but significant step towards preserving the expression of language and culture online.
 
 Internationalised Domain Names can be accessed in any modern web browser such as Firefox, Safari, Chrome, Opera and Internet Explorer (&gt; Version 7.0 which is another reaseon why [IE 6 must die](http://mashable.com/2009/07/16/ie6-must-die/ "IE6 must die")).
 
-IDNs at iWantMyName are currently supported in the following domain extensions.
+IDNs at iwantmyname are currently supported in the following domain extensions.
 
 **Generic top-level domains**:
 

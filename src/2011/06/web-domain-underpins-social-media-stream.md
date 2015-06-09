@@ -13,4 +13,4 @@ Rand Fishkin, founder and CEO of the [SEOMoz web community](http://www.seomoz.or
 
 **Whether you are building an online business or simply growing your own personal brand, if your website remains the focus then by extension your web domain is the fundamental basis for your online brand initiatives. In fact there are many domain customisable [web services](https://iwantmyname.co.nz/services) that can help you project your brand image online. These range from [personal profile sites](https://iwantmyname.co.nz/services/personal-profile/) that aggregate your social media stream through to [blogs](https://iwantmyname.co.nz/services/blog-hosting/) and simple [site builders](https://iwantmyname.co.nz/services/website-builder/). 
 
-**iWantMyName** offers almost **100** different domain extensions to [choose](https://iwantmyname.co.nz/) from and easy one click set-up for dozens of cool web services.
+**iwantmyname** offers almost **100** different domain extensions to [choose](https://iwantmyname.co.nz/) from and easy one click set-up for dozens of cool web services.

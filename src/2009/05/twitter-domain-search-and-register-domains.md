@@ -3,7 +3,7 @@ author: Timo
 title: New Domain Search Feature: Check Domains via Twitter
 ----
 
-In addition to being [Apple geeks](https://iwantmyname.com/iphone), we're also big suckers for **simplicity and productivity** at iWantMyName. So we thought: why not offer a domain search feature for a service where we spend lots of time anyway? Hence the concept of our [**iWantMyName Twitter Search Bot**](https://twitter.com/iwantmyname) was born.
+In addition to being [Apple geeks](https://iwantmyname.com/iphone), we're also big suckers for **simplicity and productivity** at iwantmyname. So we thought: why not offer a domain search feature for a service where we spend lots of time anyway? Hence the concept of our [**iwantmyname Twitter Search Bot**](https://twitter.com/iwantmyname) was born.
 
 As of today you're able to **check domain name availability** by sending a direct message to the _@iwantmyname_ Twitter account. Just start following us, send "d iwantmyname thedomainyouwant.com" and we'll reply with the search result including a link to immediately register the domain:
 

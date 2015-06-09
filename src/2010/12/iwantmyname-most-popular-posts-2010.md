@@ -1,9 +1,9 @@
 date: 2010-12-29 18:10:16 +1200
 author: Timo
-title: iWantMyName Most Popular Posts 2010
+title: iwantmyname Most Popular Posts 2010
 ----
 
-We dug deep into our analytics and present you the top 10 post from the iWantMyName blog in 2010:
+We dug deep into our analytics and present you the top 10 post from the iwantmyname blog in 2010:
 
 1. [Your Username Does Not Belong To You](https://iwantmyname.com/blog/2010/02/your-usernames-do-not-belong-to-you.html)
 2. [Tumblr + Gmail: How To Easily Customize Your Page And Email With A Custom Domain](https://iwantmyname.com/blog/2010/04/how-to-easily-customize-your-tumblr-page-and-google-apps-with-a-custom-domain.html)

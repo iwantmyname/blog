@@ -13,4 +13,4 @@ Back in the dark ages there was a giant server farm called Geocities that allowe
 
 {{ template "youtube" "Nj4qBd6vOpk" }}
 
-Adding Zoho Sites to your domain name from the iWantMyName dashboard is really easy and requires zero technical knowledge. Purchase your own web address and [get started with your website today](https://iwantmyname.com/services/website-builder/register-domain-zoho-sites)!
+Adding Zoho Sites to your domain name from the iwantmyname dashboard is really easy and requires zero technical knowledge. Purchase your own web address and [get started with your website today](https://iwantmyname.com/services/website-builder/register-domain-zoho-sites)!

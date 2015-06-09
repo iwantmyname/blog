@@ -3,7 +3,7 @@ author: Timo
 title: New, Faster Domain Search
 ----
 
-We're excited to release a [new version of the iWantMyName domain search](https://iwantmyname.com/nsearch) today. During 2011 we've been paying a lot of attention to all the great feedback we've been getting from you about our service. Over the last few weeks we've worked really hard to implement some new ideas on the site that we think you'll love.
+We're excited to release a [new version of the iwantmyname domain search](https://iwantmyname.com/nsearch) today. During 2011 we've been paying a lot of attention to all the great feedback we've been getting from you about our service. Over the last few weeks we've worked really hard to implement some new ideas on the site that we think you'll love.
 
 With almost 100 different domain extensions on offer, the main focus has been on improving speed and more efficiently displaying the search results on a single page. We've also added several different optional display filters such as categories and domain availability:
 

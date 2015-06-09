@@ -7,16 +7,16 @@ title: Codemaniacs Of The World Unite
 
 [Codemania](http://codemania.co.nz/) was very likely the coolest
 tech conference to hit Auckland in a long time, so it was a pleasure
-to be able to host an [iWantMyName drinks meet-up](https://iwantmyname.com/blog/2012/03/hola-codemania-meetup.html) for delegates the evening before
+to be able to host an [iwantmyname drinks meet-up](https://iwantmyname.com/blog/2012/03/hola-codemania-meetup.html) for delegates the evening before
 the main event. Judging by the contented faces, the hospitality was well
-received, especially by those who (like the [iWantMyName team](https://iwantmyname.co.nz/about)) were coming from out of town.
+received, especially by those who (like the [iwantmyname team](https://iwantmyname.co.nz/about)) were coming from out of town.
 
 It didn't seem to matter if you were a Sharepoint fan or an [open source](https://iwantmyname.co.nz/services/open-source/) advocate, we all agreed that good beer tastes even better when imbibed over a conversation with a fellow start-up techie or [software developer](https://iwantmyname.co.nz/services/developer/). Platform agnosticism aside, Codemania put on a wonderfully diverse show by all accounts and we are guessing that a bigger venue may well be on the cards for next year.
 
 Participating in the [software community](https://iwantmyname.com/blog/2011/10/being-good-neighbours.html)
  both here and abroad is part of our underlying philosophy, mostly 
 because we love hearing your thoughts about how we can improve and grow.
- iWantMyName is a [global domain management](https://iwantmyname.com/) service with a predominantly 
+ iwantmyname is a [global domain management](https://iwantmyname.com/) service with a predominantly 
 offshore customer base and hence we are doing our small part to take 
 Kiwi technology to the world. 
 

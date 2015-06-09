@@ -11,4 +11,4 @@ The [.CO domain](https://iwantmyname.com/domains/co-colombian-domain-name-regist
 
 There is currently a great campaign underway [showcasing young entrepreneurs](http://www.go.co/case-studies/underthebulb/) that picked up .CO for their business domain and it tells the unique stories of how they dreamed up their .COOL idea. Those young business people are in good company. Some of the hottest technology companies in America are already using the .CO domain, including Twitter, 500 Startups and Google.
 
-We couldn't resist joining the party too. So if you have a brilliant business idea and want to find your own fantastic .CO domain, simply hop over to our domain search page at [iWantMyName.co](http://iwantmyname.co/).
+We couldn't resist joining the party too. So if you have a brilliant business idea and want to find your own fantastic .CO domain, simply hop over to our domain search page at [iwantmyname.co](http://iwantmyname.co/).

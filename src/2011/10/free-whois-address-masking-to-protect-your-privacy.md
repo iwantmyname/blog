@@ -3,7 +3,7 @@ author: Timo
 title: Introducing Free Whois Address Masking To Protect Your Privacy
 ----
 
-Domain privacy has been a long-awaited feature at iWantMyName and we're happy to now give you an option to mask your home address in the public whois record without giving up ownership or transfer control. The service is free of charge and can be easily added to your domains from the [iWantMyName dashboard](https://iwantmyname.com/dashboard/domains).
+Domain privacy has been a long-awaited feature at iwantmyname and we're happy to now give you an option to mask your home address in the public whois record without giving up ownership or transfer control. The service is free of charge and can be easily added to your domains from the [iwantmyname dashboard](https://iwantmyname.com/dashboard/domains).
 
 For those of you who don't know, domain registrations require your contact information to be provided for storage and display in the international whois database. This means that anyone in the world can view your address and phone number without restriction.
 We appreciate that some of you may not want this due to obvious privacy reasons such as identity theft, fraud or stalking. By using our free whois protection, individuals can hide their address details (street, city and phone number) from unwanted eyes for the following domain extensions:

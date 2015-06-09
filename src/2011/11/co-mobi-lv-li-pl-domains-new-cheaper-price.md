@@ -19,4 +19,4 @@ Also, we now offer a [10% discount on .CO domain transfers](https://iwantmyname.
 *   [.LV domains](https://iwantmyname.com/domains/lv-latvian-domain-name-registration-for-latvia): $80 =&gt; $40
 *   [.LI domains](https://iwantmyname.com/domains/li-liechtensteiner-domain-name-registration-for-liechtenstein): $49 =&gt; $35
 *   [.PL domains](https://iwantmyname.com/domains/pl-polish-domain-name-registration-for-poland): $39 =&gt; $35
-Making quality domain name management [simple](https://iwantmyname.com) and [affordable](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions). That's our mission at [iWantMyName](https://iwantmyname.com)!
+Making quality domain name management [simple](https://iwantmyname.com) and [affordable](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions). That's our mission at [iwantmyname](https://iwantmyname.com)!

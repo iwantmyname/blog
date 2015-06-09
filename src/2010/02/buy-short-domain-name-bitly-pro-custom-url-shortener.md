@@ -20,7 +20,7 @@ We have some domain name ideas for you to find a memorable short domain. You sho
 
 	- Company: comp or cmpny
 	- YourDesignBlog: yodebl or yrdsgn
-	- iWantMyName: iwmn
+	- iwantmyname: iwmn
 
 2.  **Play with initials:**
 
@@ -45,7 +45,7 @@ We have some domain name ideas for you to find a memorable short domain. You sho
     Symbols / special characters: ✪df.ws or [20°f.la](https://iwantmyname.com/search?domain=20°f.la)
 [Upside down domain names](https://iwantmyname.com/domain-tools/name-generator/turn-words-upside-down): ǝɯɐu.name (name.name) or ʇɹoɥs.com (short.com)
 
-**With iWantMyName you can easily find and [set up domains for bit.ly](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service "Domains for bit.ly"). Start branding your links and [register your own short domain today!](https://iwantmyname.com/short-domain-search "Short Domain Search")**
+**With iwantmyname you can easily find and [set up domains for bit.ly](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service "Domains for bit.ly"). Start branding your links and [register your own short domain today!](https://iwantmyname.com/short-domain-search "Short Domain Search")**
 
 Related articles:
 

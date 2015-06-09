@@ -1,6 +1,6 @@
 date: 2011-09-20 12:30:00 +1200
 author: Paul
-title: iWantMyName Backs Startup Weekend
+title: iwantmyname Backs Startup Weekend
 ----
 
 ![sw65.jpg](/media/2011-09-20-sw65.jpg)

@@ -9,7 +9,7 @@ The free website builder is aimed firmly at small companies, home users, schools
 
 {{ template "youtube" "tkTGrOcFiz0" }}
 
-The introduction of Google Sites webpage templates is great news for iWantMyName customers because we already offer to link your domains through to free Google services. There are many templates available already, some examples from the directory are below.
+The introduction of Google Sites webpage templates is great news for iwantmyname customers because we already offer to link your domains through to free Google services. There are many templates available already, some examples from the directory are below.
 
 Build your family website - Template:
 
@@ -21,4 +21,4 @@ Create a website for your restaurant business - Template:
 Make a wedding website - Templates:
 ![wedding-website-template.png](/media/2009-11-20-wedding-website-template.png)
 
-Customers managing their domains through iWantMyName get free provisioning so that they can hang all their Google docs, including GMail and Sites beneath their own personal domain name. So now you don't need a team of web experts to set up all the services you need for a home office, small or medium sized enterprise or not-for-profit organisation.
+Customers managing their domains through iwantmyname get free provisioning so that they can hang all their Google docs, including GMail and Sites beneath their own personal domain name. So now you don't need a team of web experts to set up all the services you need for a home office, small or medium sized enterprise or not-for-profit organisation.

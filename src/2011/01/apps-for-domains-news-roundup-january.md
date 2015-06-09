@@ -3,7 +3,7 @@ author: Timo
 title: Apps for Domains News Roundup January
 ----
 
-News digest for January 2011 covering the latest from the apps and services in our [iWantMyName marketplace](https://iwantmyname.com/services/featured):
+News digest for January 2011 covering the latest from the apps and services in our [iwantmyname marketplace](https://iwantmyname.com/services/featured):
 
 *   [**Blogger**](https://iwantmyname.com/features/applications/custom-domain-apps/blogs/blogger-blogspot-free-blog-with-own-url) &mdash; launches [77 web fonts](http://buzz.blogger.com/2011/01/quick-brown-fox.html) to all Blogger users
 

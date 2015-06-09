@@ -11,7 +11,7 @@ Customer support may be the single most important aspect of our (and any) busine
 
 But in order to grow and improve, we need help. Specifically, we need someone to:
 
-+ Reply to inquiries via [email](https://iwantmyname.com/support) and [Twitter](https://twitter.com/iWantMyName) from all over the world
++ Reply to inquiries via [email](https://iwantmyname.com/support) and [Twitter](https://twitter.com/iwantmyname) from all over the world
 + Add to and maintain our [Support Center](http://help.iwantmyname.com/)
 + Work with the team to improve our overall customer experience
 

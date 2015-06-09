@@ -29,4 +29,4 @@ Characters include the Swedish å, German Umlauts ä, ö, ü and the Romanian ș
 
 а, б, в, г, д, е, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я 
 
-iWantMyName will be fully enabled for [.EU IDN domain registrations](https://iwantmyname.com/domains/eu-european-domain-name-registration-for-europe) in preparation for the launch on December 10th.
+iwantmyname will be fully enabled for [.EU IDN domain registrations](https://iwantmyname.com/domains/eu-european-domain-name-registration-for-europe) in preparation for the launch on December 10th.

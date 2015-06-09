@@ -3,7 +3,7 @@ author: Timo
 title: Featured Site: 365.io
 ----
 
-iWantMyName featured site: [365.io](http://365.io)
+iwantmyname featured site: [365.io](http://365.io)
 
 [![screenshot-365.jpg](/media/2010-12-23-screenshot-365.jpg)](http://365.io)
 

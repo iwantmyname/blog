@@ -1,9 +1,9 @@
 date: 2011-08-08 14:10:09 +1200
 author: Timo
-title: 10 Good Reasons To Host Your DNS With iWantMyName
+title: 10 Good Reasons To Host Your DNS With iwantmyname
 ----
 
-Now that you can [manage your DNS at iWantMyName](https://iwantmyname.com/dns), here are some use cases for this new feature.
+Now that you can [manage your DNS at iwantmyname](https://iwantmyname.com/dns), here are some use cases for this new feature.
 
 Use our managed DNS hosting when:
 
@@ -14,8 +14,8 @@ Use our managed DNS hosting when:
 5. You have an exotic domain that can only be registered at the registry directly, e.g. [.NR (Nauru)](http://www.cenpac.net.nr/dns/) or [.AS (American Samoa)](http://www.nic.as/).
 6. You would like to manage the DNS for domains which are not supported by us yet (we're constantly working on adding more extensions).
 7. You want easy domain setup for 70+ hosted services &mdash; we make [DNS simple](https://iwantmyname.com/dns).
-8. You are planning to [transfer a domain to iWantMyName](https://iwantmyname.com/domains/domain-transfer) at a later stage.
+8. You are planning to [transfer a domain to iwantmyname](https://iwantmyname.com/domains/domain-transfer) at a later stage.
 9. You prefer to have all your domains listed in one [management dashboard](https://iwantmyname.com/signin).
 10. You are sick of the slow, cluttered and old-fashioned interface of your existing DNS host.
 
-Get the DNS hosting add-on and [start managing your domains at iWantMyName today](https://iwantmyname.com/dns).
+Get the DNS hosting add-on and [start managing your domains at iwantmyname today](https://iwantmyname.com/dns).

@@ -7,13 +7,13 @@ title: 5 options to migrate your iWeb-created website from MobileMe to an altern
 
 The end of MobileMe as you know it is near! While most services such as email, contacts or calendars found their way into iCloud, Apple will discontinue their iWeb publishing service on June 30th, 2012. This means your website created in iWeb will no longer work on Apple's old MobileMe platform and it's high time to switch to another hosting option.
 
-As far as your domain name is concerned, in most cases you can keep it with your current registrar. All you have to do is change the DNS settings or nameservers in your iWantMyName (or any other registrar's) dashboard. For those of you currently using MobileMe's free web address, e.g. web.me.com/username/sitename we highly recommend to [register a domain name](https://iwantmyname.com). A domain stays with you as long as you pay for it and you can switch from one provider to another without having to change your web address.
+As far as your domain name is concerned, in most cases you can keep it with your current registrar. All you have to do is change the DNS settings or nameservers in your iwantmyname (or any other registrar's) dashboard. For those of you currently using MobileMe's free web address, e.g. web.me.com/username/sitename we highly recommend to [register a domain name](https://iwantmyname.com). A domain stays with you as long as you pay for it and you can switch from one provider to another without having to change your web address.
 
 ### Option 1: switch to a hosted website builder (recommended)
 
 If you can, move away from iWeb as your website creation software. This might sound difficult and definitely requires some work but now's the time to do so because Apple will not release new versions of iWeb in the future. Many types of desktop applications have been moved into the cloud over the last few years and website builders are no exception. So if you want a solution that is future-proof, you should consider one of these [hosted site builder services](https://iwantmyname.com/services/website-builder/) which let you manage all aspects of your online presence over the internet. Using this option, you will not have to download and install any software meaning that you always have the latest version and features at your disposal.
 
-This is also the easiest solution in terms of changing the DNS settings of your domain name. If your domain is managed by us, all you have to do is select the service of your choice from the iWantMyName marketplace within your [dashboard](https://iwantmyname.com/dashboard/apps) and follow the instructions. For domains registered with another registrar, simply replace the MobileMe CNAME (web.me.com) with the DNS settings of your new sitebuilder.
+This is also the easiest solution in terms of changing the DNS settings of your domain name. If your domain is managed by us, all you have to do is select the service of your choice from the iwantmyname marketplace within your [dashboard](https://iwantmyname.com/dashboard/apps) and follow the instructions. For domains registered with another registrar, simply replace the MobileMe CNAME (web.me.com) with the DNS settings of your new sitebuilder.
 
 Here are some of our staff picks:
 
@@ -23,7 +23,7 @@ Here are some of our staff picks:
 - [Virb](http://virb.com)
 - [Zoho Sites](http://zoho.com/sites)
 
-More hosting options can be found in the [iWantMyName marketplace](https://iwantmyname.com/services):
+More hosting options can be found in the [iwantmyname marketplace](https://iwantmyname.com/services):
 
 [![website-builder-apps.png](/media/2012-05-31-website-builder-apps.png)](https://iwantmyname.com/services)
 

@@ -3,9 +3,9 @@ author: Timo
 title: February Domain Transfer Promotions
 ----
 
-![Transfer Domains To iWantMyName](/media/2011-02-01-Screen_shot_2011-01-29_at_17.28.26.png)
+![Transfer Domains To iwantmyname](/media/2011-02-01-Screen_shot_2011-01-29_at_17.28.26.png)
 
-If they can do it, so can you! [Transfer your domains to iWantMyName](https://iwantmyname.com/domains/domain-transfer) with our special domain transfer deals for February:
+If they can do it, so can you! [Transfer your domains to iwantmyname](https://iwantmyname.com/domains/domain-transfer) with our special domain transfer deals for February:
 
 *   **$10.50** [.COM](https://iwantmyname.com/domains/com-domain-registrar-transfer-commercial), [.NET](https://iwantmyname.com/domains/net-domain-registrar-transfer-network), [.ORG](https://iwantmyname.com/domains/org-domain-registrar-transfer-organisation)
 

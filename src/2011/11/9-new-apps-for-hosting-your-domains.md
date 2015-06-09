@@ -3,7 +3,7 @@ author: Timo
 title: 9 New Marketplace Apps For Your Domains
 ----
 
-Today we're showcasing you some new app additions to the [iWantMyName marketplace](https://iwantmyname.com/services) which helps you finding and setting up the best web services to host your domain names. Here we go:
+Today we're showcasing you some new app additions to the [iwantmyname marketplace](https://iwantmyname.com/services) which helps you finding and setting up the best web services to host your domain names. Here we go:
 
 ![Logo Centrally](/media/2011-11-24-logo-website-builder-centrally.png)
 

@@ -9,6 +9,6 @@ title: We're Going To ICANN San Francisco
 
  
 
-The iWantMyName team will attend next week's [ICANN meeting in San Francisco](http://svsf40.icann.org/) (13-18 March) to meet with domain industry professionals and catch up on the latest developments in ICANN's [new gTLD program](http://www.icann.org/en/topics/new-gtld-program.htm).
+The iwantmyname team will attend next week's [ICANN meeting in San Francisco](http://svsf40.icann.org/) (13-18 March) to meet with domain industry professionals and catch up on the latest developments in ICANN's [new gTLD program](http://www.icann.org/en/topics/new-gtld-program.htm).
 
 Since the meeting is being held close to Silicon Valley, we also would love to get in touch with fellow startups and customers. If you are interested in <del>partying</del> meeting with us, please [ping us on Twitter](https://twitter.com/iwantmyname) or send an email to [timo@iwantmyname.com](mailto:timo@iwantmyname.com).

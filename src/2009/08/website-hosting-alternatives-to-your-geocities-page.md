@@ -13,7 +13,7 @@ The following 20 services make building a website, blog or community easy. It's 
 
 ### Hosted Website Services For Your Own Domain
 
-We help you to configure [custom domains](https://iwantmyname.com/features/custom-domain-applications-and-dns "Custom Domains For Apps") for the following services from your iWantMyName account:
+We help you to configure [custom domains](https://iwantmyname.com/features/custom-domain-applications-and-dns "Custom Domains For Apps") for the following services from your iwantmyname account:
 
 **1. Build websites online**
 

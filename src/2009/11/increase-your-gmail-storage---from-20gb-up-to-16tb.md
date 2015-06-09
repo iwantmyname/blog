@@ -27,4 +27,4 @@ See the full pricelist:
 
 Visit [https://www.google.com/accounts/PurchaseStorage](https://www.google.com/accounts/PurchaseStorage "https://www.google.com/accounts/PurchaseStorage") to add additional storage space to your Google Account.
 
-Do you love Gmail but need to migrate to a personalized address? iWantMyName makes it easy to setup Google Apps with our [Domains for Apps](https://iwantmyname.com/features/custom-domain-applications-and-dns "Domains For Apps") offering. Start using your own domain email instead of a "@gmail.com" address today.
+Do you love Gmail but need to migrate to a personalized address? iwantmyname makes it easy to setup Google Apps with our [Domains for Apps](https://iwantmyname.com/features/custom-domain-applications-and-dns "Domains For Apps") offering. Start using your own domain email instead of a "@gmail.com" address today.

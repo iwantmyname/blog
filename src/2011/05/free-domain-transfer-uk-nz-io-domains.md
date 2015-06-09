@@ -3,7 +3,7 @@ author: Timo
 title: Free .CO.UK, .CO.NZ & .IO Domain Transfers + Newly Transferable Extensions
 ----
 
-We're happy to announce that you can now [transfer](https://iwantmyname.com/domains/domain-transfer) a whole bunch of new country code top-level domains (ccTLDs) to iWantMyName. Most importantly,  [.UK transfers](https://iwantmyname.com/domains/co.uk-domain-registrar-transfer-united-kingdom) &mdash; often requested by our friends in the United Kingdom &mdash; and other European suffixes.
+We're happy to announce that you can now [transfer](https://iwantmyname.com/domains/domain-transfer) a whole bunch of new country code top-level domains (ccTLDs) to iwantmyname. Most importantly,  [.UK transfers](https://iwantmyname.com/domains/co.uk-domain-registrar-transfer-united-kingdom) &mdash; often requested by our friends in the United Kingdom &mdash; and other European suffixes.
 
 These domains are newly transferable:
 
@@ -25,4 +25,4 @@ But it doesn't stop here! You can move some popular domains such as .IO, .IM or 
 * [.LI (Liechtenstein)](https://iwantmyname.com/domains/li-domain-registrar-transfer-liechtenstein)
 * [.SH (Saint Helena)](https://iwantmyname.com/domains/sh-domain-registrar-transfer-saint-helena)
 
-For a complete list of transferable extensions see our [domain transfer price list](https://iwantmyname.com/domains/domain-transfer) and make the switch to iWantMyName today.
+For a complete list of transferable extensions see our [domain transfer price list](https://iwantmyname.com/domains/domain-transfer) and make the switch to iwantmyname today.

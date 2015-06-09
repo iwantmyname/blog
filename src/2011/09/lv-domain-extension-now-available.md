@@ -5,7 +5,7 @@ title: .LV Domain Extension Now Available
 
 ![Latvia-Flag-256.png](/media/2011-09-19-Latvia-Flag-128.png)
 
-You can now [buy the .LV domain suffix](https://iwantmyname.com/domains/lv-latvian-domain-name-registration-for-latvia) from the Republic of Latvia. After [.LT (Lithuania)](https://iwantmyname.com/domains/lt-lithuanian-domain-name-registration-for-lithuania), it is the second TLD from the Baltic region in our growing [list of domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) at iWantMyName.
+You can now [buy the .LV domain suffix](https://iwantmyname.com/domains/lv-latvian-domain-name-registration-for-latvia) from the Republic of Latvia. After [.LT (Lithuania)](https://iwantmyname.com/domains/lt-lithuanian-domain-name-registration-for-lithuania), it is the second TLD from the Baltic region in our growing [list of domain extensions](https://iwantmyname.com/domains/domain-name-registration-list-of-extensions) at iwantmyname.
 
 Latvia is bordered by Estonia, Lithuania, Belarus and the Russian Federation. With a total population of 2.2 million people, it counts to the smallest member states of the [European Union](https://iwantmyname.com/domains/eu-european-domain-name-registration-for-europe).
 

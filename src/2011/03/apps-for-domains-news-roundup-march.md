@@ -3,7 +3,7 @@ author: Timo
 title: Apps for Domains News Roundup March
 ----
 
-Read the latest buzz from the services in our [iWantMyName marketplace](https://iwantmyname.com/services) which helps you discover and set up the best applications for your domain names:
+Read the latest buzz from the services in our [iwantmyname marketplace](https://iwantmyname.com/services) which helps you discover and set up the best applications for your domain names:
 
 - Big Cartel [introduces built-in Google Analytics](http://blog.bigcartel.com/post/3766874881/introducing-built-in-google-analytics-) and asks the question "[Big Cartel or Etsy?](http://blog.bigcartel.com/post/4031257240/big-cartel-or-etsy)".
 
@@ -21,4 +21,4 @@ Read the latest buzz from the services in our [iWantMyName marketplace](https://
 
 - Zoho Discussions [now offers private communities](http://archived.link/http://blogs.zoho.com/general/introducing-private-communities-in-zoho-discussions).
 
-We also have some new additions to the [iWantMyName marketplace](https://iwantmyname.com/services), namely [BandCamp](https://iwantmyname.com/services/music/buy-custom-domain-bandcamp), [DropPages](https://iwantmyname.com/services/website-builder/droppages-dropbox-custom-domain-hosting), [Enstore](https://iwantmyname.com/services/ecommerce-hosting/enstore-custom-domain-mapping), [LaunchRock](https://iwantmyname.com/services/website-builder/viral-landing-page-launchrock), [Nodester](https://iwantmyname.com/services/developer/nodester-custom-domain), [SoundFolder](https://iwantmyname.com/services/music/soundfolder-band-websites) and [PregoApp](https://iwantmyname.com/services/website-builder/launch-page-pregoapp). All these web services can now be added to your domains in just one single click.
+We also have some new additions to the [iwantmyname marketplace](https://iwantmyname.com/services), namely [BandCamp](https://iwantmyname.com/services/music/buy-custom-domain-bandcamp), [DropPages](https://iwantmyname.com/services/website-builder/droppages-dropbox-custom-domain-hosting), [Enstore](https://iwantmyname.com/services/ecommerce-hosting/enstore-custom-domain-mapping), [LaunchRock](https://iwantmyname.com/services/website-builder/viral-landing-page-launchrock), [Nodester](https://iwantmyname.com/services/developer/nodester-custom-domain), [SoundFolder](https://iwantmyname.com/services/music/soundfolder-band-websites) and [PregoApp](https://iwantmyname.com/services/website-builder/launch-page-pregoapp). All these web services can now be added to your domains in just one single click.
