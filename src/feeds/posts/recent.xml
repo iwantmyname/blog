@@ -4,14 +4,18 @@
 		<title>iwantmyname Domain Blog</title>
 		<link>{{ .Site.Other.Base_url }}/</link>
 		<atom:link href="{{ .Site.Other.Base_url }}/{{ .Url }}" rel="self" type="application/rss+xml" />
-		{{ range (.Site.Pages.GlobSource "*/*/*.md").Slice 0 10 }}{{ if not .Other.Post_url }}
+		{{ range (.Site.Pages.GlobSource "*/*/*.md").Slice 0 10 }}
 			<item>
 				<title>{{ .Title | html }}</title>
 				<description>{{ .Raw | markdown | html }}</description>
 				<pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 UTC" }}</pubDate>
-				<link>{{ .Site.Other.Base_url }}/{{ .Url }}</link>
+				{{ if .Other.Post_url }}
+					<link>{{ .Other.Post_url }}</link>
+				{{ else }}
+					<link>{{ .Site.Other.Base_url }}/{{ .Url }}</link>
+				{{ end }}
 				<guid isPermaLink="false">/{{ .Url }}</guid>
 			</item>
-		{{ end }}{{ end }}
+		{{ end }}
 	</channel>
 </rss>
