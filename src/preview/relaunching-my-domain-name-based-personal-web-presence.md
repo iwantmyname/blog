@@ -13,4 +13,3 @@ Why relaunch?
 + I’ve got my own domain name, and it feels like I’m not making the best use of it at the moment.
 + I never made the switch to English for personal long form writing since moving from Germany to Australia, and later to New Zealand. As a non-native English speaker, I often feel my writing isn’t good enough, and the following quote was a kick in the butt: “It is better to write not-well than to not write.”
 + We had plenty of discussions about personal sites and our individual voices on the web at work. Over the last few years, I’ve been writing quite a bit on the iwantmyname blog which is simply not me as a person, and I want to change this.
-+ 
