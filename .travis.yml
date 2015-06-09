@@ -9,6 +9,6 @@ notifications:
 
 install: go get github.com/holic/gostatic
 
-script: gostatic -fv config
+script: gostatic -f config
 
 after_success: ./.travis/deploy.sh
