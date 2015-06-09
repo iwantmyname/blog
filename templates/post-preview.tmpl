@@ -3,26 +3,33 @@
 	<small class="date">{{ .Date.Format "January _2, 2006" }}</small>
 
 	{{ if .Other.Author_name }}
-		<a href="/{{ .Url }}"><img class="author" src="{{ .Other.Author_avatar }}" alt="{{ .Other.Author_name }}" title="{{ .Other.Author_name }}"></a>
+		<a href="{{ if .Other.Post_url }}{{ .Other.Post_url }}{{ else }}/{{ .Url }}{{ end }}"><img class="author" src="{{ .Other.Author_avatar }}" alt="{{ .Other.Author_name }}" title="{{ .Other.Author_name }}"></a>
 	{{ else if .Other.Author }}
 		{{ $name := index .Site.Other (print .Other.Author "_name") }}
 		{{ $avatar := index .Site.Other (print .Other.Author "_avatar") }}
-		<a href="/{{ .Url }}"><img class="author" src="{{ $avatar }}" alt="{{ $name }}" title="{{ $name }}"></a>
+		<a href="{{ if .Other.Post_url }}{{ .Other.Post_url }}{{ else }}/{{ .Url }}{{ end }}"><img class="author" src="{{ $avatar }}" alt="{{ $name }}" title="{{ $name }}"></a>
 	{{ end }}
 
 	<h1 class="title">
-		<a href="/{{ .Url }}">{{ .Title | html }}</a>
+		<a href="{{ if .Other.Post_url }}{{ .Other.Post_url }}{{ else }}/{{ .Url }}{{ end }}">{{ .Title | html }}</a>
 	</h1>
 	
 	{{ if .Other.Header_image }}
-		<p><a href="/{{ .Url }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.Header_image }}" class="imgix-fluid" alt="{{ .Title | html }}" title="{{ .Title | html }}"></a></p>
+		<p><a href="{{ if .Other.Post_url }}{{ .Other.Post_url }}{{ else }}/{{ .Url }}{{ end }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.Header_image }}" class="imgix-fluid" alt="{{ .Title | html }}" title="{{ .Title | html }}"></a></p>
 	{{ end }}
 	{{ if .Other.Author_name }}
 		<p class="small text-muted">The following is a guest post written by {{ .Other.Author_name }}.</p>
+	{{ else if and .Other.Post_url .Other.Post_source }}
+		<p class="small text-muted">Published on <a href="{{ .Other.Post_url }}">{{ .Other.Post_source }}</a>:</p>
 	{{ end }}
 
-	{{ if eq (index .Other "Excerpt") "false" }}
-		{{ markdown .Raw }}
+	{{ if .Other.Post_url }}
+		{{ .Raw | markdown }}
+		<p class="read-more">
+			<a href="{{ .Other.Post_url }}" class="btn iwmn-btn btn-small">Read more &rarr;</a>
+		</p>
+	{{ else if eq (index .Other "Excerpt") "false" }}
+		{{ .Raw | markdown }}
 	{{ else }}
 		{{ template "excerpt" . }}
 		<p class="read-more">
