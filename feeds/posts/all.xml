@@ -13812,7 +13812,7 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;What I like about Mou is that it provides a live preview of my &amp;ldquo;code output&amp;rdquo; in a side-by-side screen display (full-screen writing is available, but I tend to be in the &amp;ldquo;I&amp;rsquo;m ok with distractions&amp;rdquo; camp). Markdown syntax is incredibly easy to write, but it&amp;rsquo;s always nice to know when I forget to end a link with a &amp;ldquo;]&amp;rdquo; or a start an H3 header with the right amount of &amp;ldquo;#&amp;ldquo;s. And it&amp;rsquo;s especially nice to be able to use Cmd-B for bold and Cmd-I for italics, although I&amp;rsquo;m sure this is a common feature amongst Markdown editors.&lt;/p&gt;
 
-&lt;p&gt;Also, with Mou you can post directly to your Scriptogr.am or Tumblr account with a single command. Very cool if you&amp;rsquo;re into &lt;a href=&#34;https://iwantmyname.com/blog/2013/09/own-your-content-the-rise-of-dropbox-blogging.html&#34;&gt;Dropbox blogging&lt;/a&gt; and/or Tumblogging.&lt;/p&gt;
+&lt;p&gt;Also, with Mou you can post directly to your Scriptogr.am or Tumblr account with a single command. Very cool if you&amp;rsquo;re into [Dropbox blogging][6] and/or Tumblogging.&lt;/p&gt;
 
 &lt;p&gt;And if you&amp;rsquo;re a developer, it does does so much more. &amp;ldquo;Syntax highlighting, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support.&amp;rdquo; You can even write in Chinese traditional with a vertical layout. Pretty cool stuff.&lt;/p&gt;
 
@@ -13821,6 +13821,8 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 &lt;h3&gt;A responsive, web-based alternative: Editorially&lt;/h3&gt;
 
 &lt;p&gt;One thing I&amp;rsquo;m also playing around with right now is a responsive, web-based Markdown editor called &lt;a href=&#34;http://editorially.com/&#34;&gt;Editorially&lt;/a&gt;, &lt;a href=&#34;http://aworkinglibrary.com/library/archives/editorially/&#34;&gt;created by some really smart people&lt;/a&gt;. What makes it especially nifty is that it saves each version of your draft for all eternity (and displays them on a simple timeline), then lets you invite others to edit, leave comments and discuss your progress. For long-form copywriters, these collaboration tools are invaluable—but my copy tends to be relatively short.&lt;/p&gt;
+
+&lt;p&gt;[6]: &lt;a href=&#34;https://iwantmyname.com/blog/2013/09/own-your-content-the-rise-of-dropbox-blogging.html&#34;&gt;https://iwantmyname.com/blog/2013/09/own-your-content-the-rise-of-dropbox-blogging.html&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Thu, 03 Oct 2013 11:15:34 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html</link>
@@ -13877,11 +13879,13 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;With Mad Mimi, email marketing is about as simple as it can possibly get. Just start up an email, lay your content into modules and arrange your page to perfection. Instead of getting caught up in rigid themes which quickly become dated, you have full control over what goes where. Throw a banner on top (they&amp;rsquo;ll help you create one) and go full width, tweak a theme to look just how you want it or hire a freelance designer to make you a nice template. It&amp;rsquo;s all super fast and incredibly intuitive.&lt;/p&gt;
 
-&lt;p&gt;But what makes Mad Mimi especially nice is its automated backend—which is robust enough to run a heavyweight campaign. Automatically manage bounces and unsubscribes. Real-time tracking and targeted reporting. SSL data protection. Integration with a huge selection of &lt;a href=&#34;https://madmimi.com/integrations&#34;&gt;third-party platforms&lt;/a&gt;, interactive lists and forms, and of course, brilliant custom domains (with &lt;a href=&#34;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&#34;&gt;one-click setup in our marketplace!&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;But what makes Mad Mimi especially nice is its automated backend—which is robust enough to run a heavyweight campaign. Automatically manage bounces and unsubscribes. Real-time tracking and targeted reporting. SSL data protection. Integration with a huge selection of &lt;a href=&#34;https://madmimi.com/integrations&#34;&gt;third-party platforms&lt;/a&gt;, interactive lists and forms, and of course, brilliant custom domains (with [one-click setup in our marketplace!][3]).&lt;/p&gt;
 
 &lt;p&gt;And best of all, the Mad Mimi team is full of extremely pleasant people. So if you&amp;rsquo;re looking to start up an email campaign or simply want to test the waters of email marketing, Mad Mimi should definitely be on your radar.&lt;/p&gt;
 
 &lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;H-OmQN_5QkY&amp;rdquo; }}&lt;/p&gt;
+
+&lt;p&gt;[3]: &lt;a href=&#34;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&#34;&gt;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 02 Oct 2013 11:57:24 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/10/mad-mimi-means-happy-email-marketing.html</link>
@@ -13908,7 +13912,9 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;And that&amp;rsquo;s not all! Find even more domain extensions on sale this month on our new &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;Special Offers&lt;/a&gt; page.&lt;/p&gt;
 
-&lt;p&gt;Photo credit: &lt;a href=&#34;http://www.flickr.com/photos/daveynin/&#34;&gt;daveynin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photo credit: [daveynin][7]&lt;/p&gt;
+
+&lt;p&gt;[7]: &lt;a href=&#34;http://www.flickr.com/photos/daveynin/&#34;&gt;http://www.flickr.com/photos/daveynin/&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Tue, 01 Oct 2013 11:25:10 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/domain-extensions-on-sale-in-october.html</link>
@@ -13995,7 +14001,9 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;h3&gt;Mad Mimi&lt;/h3&gt;
 
-&lt;p&gt;For being as mad as Mimi claims to be, &lt;a href=&#34;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&#34;&gt;Mad Mimi&lt;/a&gt; really is a delightful email marketing company. And what makes them great is that they their service isn&amp;rsquo;t tied to a corporate agenda—it&amp;rsquo;s just a robust platform built to deliver better, more friendly emails that people might actually want to read. Now doesn&amp;rsquo;t that sound nice?&lt;/p&gt;
+&lt;p&gt;For being as mad as Mimi claims to be, [Mad Mimi][8] really is a delightful email marketing company. And what makes them great is that they their service isn&amp;rsquo;t tied to a corporate agenda—it&amp;rsquo;s just a robust platform built to deliver better, more friendly emails that people might actually want to read. Now doesn&amp;rsquo;t that sound nice?&lt;/p&gt;
+
+&lt;p&gt;[8]:&lt;a href=&#34;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&#34;&gt;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Thu, 26 Sep 2013 11:56:24 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/some-new-additions-to-the-app-marketplace.html</link>
@@ -14050,7 +14058,7 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&#34;&gt;&lt;strong&gt;Fastmail.fm&lt;/strong&gt;&lt;/a&gt;: Created by Opera Software—the company behind the Opera browser—Fastmail.fm is a fast-growing email host known for reliability and security. For $39.95/year, you can get a personal mail account with 10GB email storage, IMAP/POP support and 2GB file storage for keeping your documents in the cloud (different rates apply for business accounts).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/rackspace-apps&#34;&gt;&lt;strong&gt;Rackspace Email&lt;/strong&gt;&lt;/a&gt;: While Rackspace Email doesn&amp;rsquo;t provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support and multiple layers of spam and virus protection. Plans start at $2/user/month (with a minimum of five mailboxes), and increase as more features are added.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;[&lt;strong&gt;Rackspace Email&lt;/strong&gt;][8]: While Rackspace Email doesn&amp;rsquo;t provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support and multiple layers of spam and virus protection. Plans start at $2/user/month (with a minimum of five mailboxes), and increase as more features are added.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3&gt;Email Forwarding&lt;/h3&gt;
@@ -14070,6 +14078,8 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 &lt;h3&gt;Other hosts?&lt;/h3&gt;
 
 &lt;p&gt;If your desired email hosting platform isn&amp;rsquo;t in our app marketplace (yet!), don&amp;rsquo;t fret—you can use any third-party email service by adding their respective MX records to your domain&amp;rsquo;s DNS manager. And if you need any help getting this set up, feel free to &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;contact our support team&lt;/a&gt;. We&amp;rsquo;re always here to help.&lt;/p&gt;
+
+&lt;p&gt;[8]:&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/rackspace-apps&#34;&gt;https://iwantmyname.com/services/email-hosting/rackspace-apps&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 25 Sep 2013 13:48:17 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html</link>
@@ -14128,9 +14138,11 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;!-- /excerpt --&gt;
 
-&lt;p&gt;Argentina&amp;rsquo;s top-level domain is &lt;a href=&#34;https://iwantmyname.com/domains/com.ar-argentinean-domain-name-registration-for-argentina&#34;&gt;open for anyone to purchase for $59/yr&lt;/a&gt;, and is perfect for Argentine businesses, local publications and personal sites around the country. Claim your .COM.AR domain today.&lt;/p&gt;
+&lt;p&gt;Argentina&amp;rsquo;s top-level domain is [open for anyone to purchase for $59/yr][1], and is perfect for Argentine businesses, local publications and personal sites around the country. Claim your .COM.AR domain today.&lt;/p&gt;
 
 &lt;p&gt;Image credit: &lt;a href=&#34;http://www.flickr.com/photos/minhocos/&#34;&gt;Lima Pix&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[1]: &lt;a href=&#34;https://iwantmyname.com/domains/com.ar-argentinean-domain-name-registration-for-argentina&#34;&gt;https://iwantmyname.com/domains/com.ar-argentinean-domain-name-registration-for-argentina&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 21 Sep 2013 09:04:49 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/comar-a-tld-lionel-messi-would-be-proud-of.html</link>
@@ -14141,7 +14153,7 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 				<title>I Want My gTLD</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;The new &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;generic top-level domains (gTLDs) are coming&lt;/a&gt;, and many of you are already showing interest by asking to be notified when certain extensions become available. So, like any interested party with a fascinating bit of data, we made a top ten list.&lt;/p&gt;
+&lt;p&gt;The new [generic top-level domains (gTLDs) are coming][1], and many of you are already showing interest by asking to be notified when certain extensions become available. So, like any interested party with a fascinating bit of data, we made a top ten list.&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
@@ -14163,6 +14175,8 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-shop&#34;&gt;.shop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-tech&#34;&gt;.tech&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;[1]: &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;https://iwantmyname.com/domains/new-gtld-domain-extensions&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Sat, 21 Sep 2013 05:25:08 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/i-want-my-gtld.html</link>
@@ -14187,7 +14201,9 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;So if you&amp;rsquo;re looking for optimized load times, best-of-class security and automatic core/plugin updates, give them a shot.&lt;/p&gt;
 
-&lt;p&gt;And if you need a domain name to go with your new Pagely site, &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/register-custom-domain-page.ly&#34;&gt;we&amp;rsquo;re always here to help&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And if you need a domain name to go with your new Pagely site, [we&amp;rsquo;re always here to help][2].&lt;/p&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/register-custom-domain-page.ly&#34;&gt;https://iwantmyname.com/services/blog-hosting/register-custom-domain-page.ly&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 20 Sep 2013 09:56:11 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/pagely-turns-4-doesnt-ask-for-any-gifts.html</link>
@@ -14210,7 +14226,9 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;Brilliant .CL domains are being scooped up fast, so pour yourself a tasty Malbec and &lt;a href=&#34;https://iwantmyname.com/domains/cl-chilean-domain-name-registration-for-chile&#34;&gt;register your Chilean name today&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Image credit: &lt;a href=&#34;http://www.flickr.com/photos/doug88888/&#34;&gt;@Doug88888&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image credit: [@Doug88888][3]&lt;/p&gt;
+
+&lt;p&gt;[3]: &lt;a href=&#34;http://www.flickr.com/photos/doug88888/&#34;&gt;http://www.flickr.com/photos/doug88888/&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Thu, 19 Sep 2013 19:27:51 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/its-time-to-claim-a-chilean-domain.html</link>
@@ -14256,9 +14274,11 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;Sometimes the trick to truly being happy is to be more like Prince. The musician. Instead of getting stuck with a silly conventional name, he just changed his name to an unpronounceable symbol. The &amp;ldquo;Love Symbol.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, your domain name is stuck in a slightly smaller box (no symbols&amp;hellip; yet). But don&amp;rsquo;t let that get you down&amp;mdash;there are millions of domain names available (like thisisthebestcompanynameever.com—available now until it&amp;rsquo;s gone), with more &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;unique domain extensions&lt;/a&gt; being added all the time. Just be sure to turn off the auto-renew on your old name so you won&amp;rsquo;t be stuck with it at the end of the year.&lt;/p&gt;
+&lt;p&gt;Unfortunately, your domain name is stuck in a slightly smaller box (no symbols&amp;hellip; yet). But don&amp;rsquo;t let that get you down&amp;mdash;there are millions of domain names available (like thisisthebestcompanynameever.com—available now until it&amp;rsquo;s gone), with more [unique domain extensions][8] being added all the time. Just be sure to turn off the auto-renew on your old name so you won&amp;rsquo;t be stuck with it at the end of the year.&lt;/p&gt;
 
 &lt;p&gt;So get out there and find something you love. You deserve it. And because we&amp;rsquo;re nice, &lt;a href=&#34;https://iwantmyname.com/&#34;&gt;here&amp;rsquo;s a spectacular link&lt;/a&gt; to help you out with your search.&lt;/p&gt;
+
+&lt;p&gt;[8]: &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Thu, 19 Sep 2013 01:30:00 UTC</pubDate>
 				<link>https://iwantmyname.com/blog/2013/09/what-if-i-dont-want-my-domain-name.html</link>
