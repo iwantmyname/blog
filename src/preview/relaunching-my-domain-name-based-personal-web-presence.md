@@ -2,9 +2,8 @@ date: 2015-06-09 13:54:43 -0700
 author: Timo
 title: Relaunching my domain name based personal web presence
 post_url: https://medium.com/@treitnauer/relaunching-my-domain-name-based-personal-web-presence-5498e68e409b
+post_source: Medium
 ----
-
-Published on [Medium](https://medium.com/@treitnauer/relaunching-my-domain-name-based-personal-web-presence-5498e68e409b):
 
 Yes, I’m publishing this on Medium and not on my own domain name. Because it allows me to get my thoughts out of the system and share it with a wider audience until I‘ve made up my mind where and how to relaunch my personal web presence.
 
