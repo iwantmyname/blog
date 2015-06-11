@@ -18,11 +18,18 @@ touch .nojekyll
 git add -A
 git commit -m "gostatic $TRAVIS_COMMIT" -m "https://travis-ci.org/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID"
 git push origin $DEPLOY_BRANCH
+PUSH_EXIT_CODE=$?
 DEPLOY_SHA=$(git rev-parse HEAD)
 popd
 
-echo
-echo "Preview this build:"
-echo
-echo "  https://rawgit.com/iwantmyname/blog/$DEPLOY_SHA/index.html"
-echo
+if [ $PUSH_EXIT_CODE == 0 ] && [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
+    message="
+        Successfully <a href='https://travis-ci.org/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID'>built</a> <a href='https://github.com/$TRAVIS_REPO_SLUG/pull/$TRAVIS_PULL_REQUEST'>PR #2</a> (${TRAVIS_COMMIT:0:7}).
+        Preview it <a href='https://rawgit.com/iwantmyname/blog/$DEPLOY_SHA/index.html'>here</a>.
+    "
+    curl -X POST \
+         -H "Authorization: Bearer $HIPCHAT_TOKEN" \
+         -H "Content-type: application/json" \
+         -d "{\"color\": \"green\", \"message_type\": \"html\", \"message\": \"$message\"}" \
+         https://api.hipchat.com/v2/room/$HIPCHAT_ROOM/notification
+fi
