@@ -83,13 +83,3 @@ feeds/*/*.xml:
 */*/*.redirect:
 	ext .html
 	template redirect
-
-preview/*.md:
-	config
-	ext .html
-	inner-template
-	markdown
-	template post
-	template page
-	template base
-	relativize

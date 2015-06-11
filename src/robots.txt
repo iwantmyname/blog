@@ -1,4 +1,2 @@
 User-agent: *
 Disallow: /new.html
-Disallow: /preview.html
-Disallow: /preview/
