@@ -6,6 +6,10 @@ go:
 notifications:
   email: false
 
+branches:
+  only:
+    - master
+
 
 install: go get github.com/holic/gostatic
 
