@@ -16,7 +16,7 @@ mv site.git/.git/ site/
 pushd site
 touch .nojekyll
 git add -A
-git commit -m "jekyll build $TRAVIS_COMMIT" -m "https://travis-ci.org/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID"
+git commit -m "gostatic $TRAVIS_COMMIT" -m "https://travis-ci.org/$TRAVIS_REPO_SLUG/builds/$TRAVIS_BUILD_ID"
 git push origin $DEPLOY_BRANCH
 DEPLOY_SHA=$(git rev-parse HEAD)
 popd
