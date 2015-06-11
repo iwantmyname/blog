@@ -1,5 +1,5 @@
 DEPLOY_BRANCH="staging"
-if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then 
+if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     DEPLOY_BRANCH="gh-pages"
 fi
 
