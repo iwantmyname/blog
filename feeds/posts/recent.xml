@@ -46,6 +46,8 @@
 
 &lt;h2 id=&#34;section-3&#34;&gt;Editing gTLD contact information&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&#34;{{ site.images_url }}/2015-06-18-contact-details.png&#34; alt=&#34;contact details&#34;&gt;&lt;/p&gt;
+
 &lt;p&gt;For gTLDs, you&amp;rsquo;ll be able to update the domain contacts yourself and save the new settings at the bottom of the page. You can use the same contact name and information for all four (registrant/owner, admin, tech, and billing), or you can use different people or contact details (as long as it&amp;rsquo;s accurate).&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s particularly important to be sure that the email address set for the registrant/owner and admin contacts are valid and that you can access email there, as important notifications about renewals, transfers, etc. are sent to them.&lt;/p&gt;
