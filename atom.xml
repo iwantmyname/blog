@@ -6,6 +6,80 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The ins and outs of WHOIS privacy and accurate contact information</title>
+				<description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;The difference between a gTLD and a ccTLD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Requirements for information accuracy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Editing gTLD contact information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Editing ccTLD contact information&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- excerpt --&gt;
+
+&lt;p&gt;For many people, maintaining online privacy is understandably very important. Fortunately, to that end, WHOIS privacy is available for many types of domains &lt;a href=&#34;https://iwantmyname.com/whois-privacy&#34;&gt;(see our full list here)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enabling WHOIS privacy is a way to mask or hide your personal contact information as the domain registrant, so it&amp;rsquo;s not visible in &lt;a href=&#34;http://whois.domaintools.com/&#34;&gt;WHOIS lookups&lt;/a&gt;. Adding it to an iwantmyname domain name is easy (as long as your domain extension supports it)—in your dashboard, just click on the domain name, then click on &lt;strong&gt;&amp;ldquo;enable privacy&amp;rdquo;&lt;/strong&gt; to begin.&lt;/p&gt;
+
+&lt;p&gt;However, not everyone knows about the availability of WHOIS privacy, and we&amp;rsquo;ve seen many instances where people have used altered or fake contact information when registering their domains as a step to ensure their privacy. While we understand the motivation to do this, let&amp;rsquo;s clear up why it isn&amp;rsquo;t such a good idea.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;The difference between a gTLD and a ccTLD&lt;/h2&gt;
+
+&lt;p&gt;The big thing to understand is that there are two main categories of domains.  First, you have your gTLDs (generic top-level domains), which include &amp;ldquo;classics&amp;rdquo; like .COM and the new extensions like .PHOTOS or .PIZZA. These domains are under the control of &lt;a href=&#34;https://www.icann.org/&#34;&gt;ICANN&lt;/a&gt;, meaning they all follow the same policies and rules about how they are registered, how much they cost, how they are renewed, and information required of registrants.&lt;/p&gt;
+
+&lt;p&gt;The other domain category is ccTLDs (country code top-level domains). These are all the ones that end with two letters, referencing actual geographical places in the world, e.g. .CA for Canada, .IO for Indian Ocean, etc. Unlike the gTLDs with ICANN, ccTLDs are not all under the control of one organization. Each ccTLD is governed by its own registry, managed by the country or geographical area (e.g. .CA domains are managed by CIRA, the Canadian Internet Registration Authority).&lt;/p&gt;
+
+&lt;p&gt;Because of this, each ccTLD has different policies and rules regarding registration, renewal, pricing, etc. Those registries can basically do what they want in this regard. This is why some offer WHOIS privacy (see the above-linked list), but many do not. This is also why a .IO domain costs $59 to register, or a .MY domain costs $149USD. The registry can set whatever price it chooses.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-2&#34;&gt;Requirements for information accuracy&lt;/h2&gt;
+
+&lt;p&gt;For gTLDs, ICANN has requirements for registrant information accuracy, which must be adhered to, or the domain registrant/owner risks the domain being suspended or deleted. This is also the case for ccTLDs, but they have their own registries&amp;rsquo; requirements, which may be more or less stringent than ICANN&amp;rsquo;s. For example, some registries require specific ID numbers for companies or individuals wanting to register a domain with their ccTLD. And some restrict who can register at all (e.g. you must be a resident of the European Union in some cases).&lt;/p&gt;
+
+&lt;p&gt;As is the case for gTLDs, ccTLD domains can be suspended or deleted if the registrant contact information is not accurate and up to date.&lt;/p&gt;
+
+&lt;h3&gt;Don&amp;rsquo;t ignore WDRP notices&lt;/h3&gt;
+
+&lt;p&gt;From time to time we hear from customers who have received a WDRP (WHOIS Data Reminder Policy) notice by email. Often they&amp;rsquo;re not sure what it&amp;rsquo;s for, or if it&amp;rsquo;s possibly a scam.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.icann.org/resources/pages/registrars/consensus-policies/wdrp-en&#34;&gt;WDRP notices are legitimate&lt;/a&gt;, and it&amp;rsquo;s important to read them and to check your registration information to ensure that it&amp;rsquo;s up to date. You can do this in your iwantmyname account dashboard by clicking on your domain name, then clicking on &lt;strong&gt;&amp;ldquo;edit contacts&amp;rdquo;&lt;/strong&gt; on the next page.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-3&#34;&gt;Editing gTLD contact information&lt;/h2&gt;
+
+&lt;p&gt;For gTLDs, you&amp;rsquo;ll be able to update the domain contacts yourself and save the new settings at the bottom of the page. You can use the same contact name and information for all four (registrant/owner, admin, tech, and billing), or you can use different people or contact details (as long as it&amp;rsquo;s accurate).&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s particularly important to be sure that the email address set for the registrant/owner and admin contacts are valid and that you can access email there, as important notifications about renewals, transfers, etc. are sent to them.&lt;/p&gt;
+
+&lt;p&gt;If you receive a WDRP notice, it is important that you follow the instructions and ensure that your information is up to date. Otherwise, ICANN is authorized to suspend or even delete your domain name, and you may not have any way to get it back. If you are concerned about your privacy, remember that adding WHOIS privacy &lt;em&gt;will&lt;/em&gt; mask all of your personal details and contact information.&lt;/p&gt;
+
+&lt;p&gt;As a reminder, you can add WHOIS privacy for domain types that support it when you&amp;rsquo;re logged in to your iwantmyname account. In your dashboard, click on the domain name, then click on &lt;strong&gt;&amp;ldquo;enable privacy&amp;rdquo;&lt;/strong&gt; to begin.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-4&#34;&gt;Editing ccTLD contact information&lt;/h2&gt;
+
+&lt;p&gt;For ccTLDs, sometimes you can update the domain contacts yourself. Sometimes you can update all of the contacts &lt;em&gt;except&lt;/em&gt; registrant/owner. And sometimes you can update all of the other contacts and parts of the registrant/owner contact.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s fairly common that the customer cannot make changes to the registrant/owner&amp;rsquo;s first/last name or company name themselves. This is because whatever person and/or company is listed as the registrant/owner contact is the legal owner of the domain. Those updates must be done at the administrative level.&lt;/p&gt;
+
+&lt;p&gt;For that reason, it&amp;rsquo;s important to ensure that the registrant contact, particularly, is accurate and up to date. Sometimes when you transfer a domain, it will still show the old registrar or hosting company&amp;rsquo;s contact information, especially if you had a privacy service turned on. You will need to update that after the transfer. (Use the &amp;ldquo;edit contacts&amp;rdquo; instructions listed above.)&lt;/p&gt;
+
+&lt;p&gt;The same goes for transferring a domain from one person or company to another. You will need to ensure that you update the domain contacts to your information, otherwise the domain still legally belongs to the person whose name is on it, even if you paid for it fair and square. (Domain ownership disputes tend to get very messy, often require legal consultation, and are slow to resolve.)&lt;/p&gt;
+
+&lt;p&gt;Some ccTLDs require more complicated administrative functions to update domain contacts. In those instances, customers need to contact us as we will need to take care of those functions for you. They are usually done in other systems connected to the registries. Sometimes these changes have an associated cost. Most commonly there is a cost associated when a specific ccTLD registry categorizes changing a domain&amp;rsquo;s registrant contact as an &amp;ldquo;owner change&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;If there are special requirements, processes, or costs required for updating a domain&amp;rsquo;s contact information, we will let you know beforehand. In certain cases, it can be fairly involved, requiring forms and other processes, but we will provide information for all steps, and take care of most of the heavy lifting for you.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Of course, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;we&amp;rsquo;re always happy to answer any questions&lt;/a&gt; about WDRP notices, privacy, security, WHOIS, domain registrations, transfers, renewals, contact information, or whatever&amp;rsquo;s on your mind.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 16 Jun 2015 16:22:10 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/06/the-ins-and-outs-of-whois-privacy-and-accurate-contact-information.html</link>
+				
+				<guid isPermaLink="false">/2015/06/the-ins-and-outs-of-whois-privacy-and-accurate-contact-information.html</guid>
+			</item>
+		
+			<item>
 				<title>ICANN wants to take away your rights to use WHOIS privacy</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -483,35 +557,6 @@
 					<link>https://iwantmyname.com/blog/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</link>
 				
 				<guid isPermaLink="false">/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</guid>
-			</item>
-		
-			<item>
-				<title>Taking stock of our 2015 community involvement</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Being involved in the local community is vastly important to us, so this year we made a conscious decision to support more events that at least some of the iwantmyname team could actively participate in. Since we are already one-third of the way through 2015, I think it&amp;rsquo;s about time to take stock of what has been achieved so far and look at where we plan to go in the future.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Startup Weekends loom large in our consciousness, and this year has been no exception. Organisers of &lt;a href=&#34;http://www.startupweekend.co.nz/&#34;&gt;Startup Weekends here in New Zealand&lt;/a&gt; have a busy schedule planned, and we&amp;rsquo;ve already been lucky enough to sponsor and participate in the recent Wellington event. Lenz and I put on our mentor hats, Kevin Ingersoll participated in a team, and Coco the domain dog lent moral support by snoozing blissfully throughout. So imagine our excitement when the judges announced that Kevin&amp;rsquo;s team had &lt;a href=&#34;https://twitter.com/iwantmynameNZ/status/587195037274005504&#34;&gt;scored a well-earned win&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;The thrills of Startup Weekend were soon followed by intellectual debate and thorough workshopping of the open source paradigm at the &lt;a href=&#34;http://opensourceopensociety.com/&#34;&gt;Open Source Open Society conference&lt;/a&gt;, held in conjunction with Github and Enspiral. We employ open source technologies and open thinking &lt;a href=&#34;https://iwantmyname.com/blog/2015/03/does-open-source-contribute-to-a-more-open-society.html&#34;&gt;throughout our business&lt;/a&gt;, so it seemed like the perfect event for us to be a part of. There was also a cool closing party with a funky, indie DJ on tap, so nobody wanted to leave—but that&amp;rsquo;s another story.&lt;/p&gt;
-
-&lt;p&gt;We also remain keen backers of the PHP Meetup and JavaScript Meetup in our city, and have been helping out with the R9 initiative, an experimental incubator aiming to solve important business problems in the government sector by using lean methodologies. Many of these events have our local tech business incubator &lt;a href=&#34;http://creativehq.co.nz/&#34;&gt;Creative HQ&lt;/a&gt; at their heart, so we&amp;rsquo;re more than thrilled to be announcing a strategic partnership.&lt;/p&gt;
-
-&lt;p&gt;From this week on, we will be shouting the beers at the highly popular &lt;a href=&#34;http://www.meetup.com/StartupGarage/&#34;&gt;Startup Garage&lt;/a&gt; Meetup. Each month, Creative HQ hosts an interesting speaker from the start-up world, many of whom bring wisdom from afar. Recent appearances have included SXSW organiser Shawn O&amp;rsquo;Keefe and President of Y Combinator, Sam Altman.&lt;/p&gt;
-
-&lt;p&gt;2015 is shaping up to be a big year for community involvement here at iwantmyname, and we&amp;rsquo;re excited to make further inroads in the local start-up ecosystem. If you see us around, come say hi! We&amp;rsquo;d love to chat.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Photo Credit: &lt;a href=&#34;http://marktantrum.photoshelter.com/gallery-image/Startup-Weekend-Wellington-2015/G0000kh_BLuFtiHg/I0000cpYprJxO9W8/C00009qyVsLVsm0o&#34;&gt;Mark Tantrum Photography&lt;/a&gt;&lt;/p&gt;
-</description>
-				<pubDate>Thu, 30 Apr 2015 14:27:22 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/04/taking-stock-of-our-community-involvement.html</link>
-				
-				<guid isPermaLink="false">/2015/04/taking-stock-of-our-community-involvement.html</guid>
 			</item>
 		
 	</channel>
