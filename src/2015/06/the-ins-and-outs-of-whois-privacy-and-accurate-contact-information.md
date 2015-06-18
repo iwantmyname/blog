@@ -41,7 +41,7 @@ From time to time we hear from customers who have received a WDRP (WHOIS Data Re
 
 <h2 id="section-3">Editing gTLD contact information</h2>
 
-![contact details]({{ site.images_url }}/2015-06-18-contact-details.png)
+![contact details](/media/2015-06-18-contact-details.png)
 
 For gTLDs, you'll be able to update the domain contacts yourself and save the new settings at the bottom of the page. You can use the same contact name and information for all four (registrant/owner, admin, tech, and billing), or you can use different people or contact details (as long as it's accurate). 
 
