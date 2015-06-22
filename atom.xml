@@ -6,6 +6,21 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Thinking beyond parental leave</title>
+				<description>&lt;p&gt;Parental leave is an important topic and one that we will hear more about because there is an over-arching societal conversation starting to happen. So we began having a look around at what other companies offer and found a list of tech companies and their parental leave policies which was a good start, but not enough.&lt;/p&gt;
+
+&lt;p&gt;As an international team with four different nationalities and spread across as many countries (New Zealand, Germany, Canada and the US), we wanted to find something that works for everyone. We were also aiming at offering an equal option for men who should have the opportunity to negotiate some time away from work to be with their new children and to support the mother or same-sex partner. And would you believe there is still no parental leave in the US, even for most mothers?&lt;/p&gt;
+
+&lt;p&gt;But not everyone might have plans to have kids in the future—whatever the reason may be. How can we accommodate them?&lt;/p&gt;
+</description>
+				<pubDate>Mon, 22 Jun 2015 14:58:18 UTC</pubDate>
+				
+					<link>http://updates.reitnauer.com/2015/thinking-beyond-parental-leave</link>
+				
+				<guid isPermaLink="false">/2015/06/thinking-beyond-parental-leave.html</guid>
+			</item>
+		
+			<item>
 				<title>The ins and outs of WHOIS privacy and accurate contact information</title>
 				<description>&lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;The difference between a gTLD and a ccTLD&lt;/a&gt;&lt;/li&gt;
@@ -471,94 +486,6 @@
 					<link>https://iwantmyname.com/blog/2015/05/using-design-to-solve-real-online-problems.html</link>
 				
 				<guid isPermaLink="false">/2015/05/using-design-to-solve-real-online-problems.html</guid>
-			</item>
-		
-			<item>
-				<title>The guide to adding Squarespace to your iwantmyname domain</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; is an amazing, all-in-one site builder that makes top-end web design accessible to everyone. Seriously, with no skill going in, you&amp;rsquo;ll be able to build sites, stores, photo galleries, and blogs in minutes. It&amp;rsquo;s that intuitive.&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s not quite as intuitive though is the domain setup. We pride ourselves in providing one-click installs to a ton of platforms, but sometimes there&amp;rsquo;s an extra step involved that can turn that one click into a bunch of clicks. Have no fear though, with this short guide, you&amp;rsquo;ll have your domain working with your Squarespace site in no time.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Start your Squarespace site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Go to Settings &amp;gt; Domains &amp;gt; Connect Third-Party Domain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Enter your domain name&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Select iwantmyname from the Domain Provider list&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Click okay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-6&#34;&gt;Copy your verification code (it&amp;rsquo;s right under Host)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-7&#34;&gt;Add Squarespace to your domain in iwantmyname&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-8&#34;&gt;Paste your verification code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-9&#34;&gt;Back to Squarespace, hit refresh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-10&#34;&gt;You&amp;rsquo;re all done!&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;section-1&#34;&gt;1. Start your Squarespace site&lt;/h3&gt;
-
-&lt;p&gt;Get started with Squarespace by clicking &lt;strong&gt;Get Started&lt;/strong&gt; on the &lt;a href=&#34;http://squarespace.com&#34;&gt;Squarespace homepage&lt;/a&gt;, choosing a template, then clicking the &lt;strong&gt;Start With This Design&lt;/strong&gt; button. There are a couple quick questions you can answer after that, or you can skip them for now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-home.jpg&#34; alt=&#34;Squarespace home&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-2&#34;&gt;2. Go to Settings &gt; Domains &gt; Connect Third-Party Domain&lt;/h3&gt;
-
-&lt;p&gt;From Squarespace&amp;rsquo;s side navigation, click &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Domains&lt;/strong&gt; &amp;gt; &lt;strong&gt;Connect a Third-Party Domain&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-settings.jpg&#34; alt=&#34;Settings&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-3&#34;&gt;3. Enter your domain name&lt;/h3&gt;
-
-&lt;p&gt;Enter your domain name in the Domain Name field provided.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-domain-iwantmyblog.jpg&#34; alt=&#34;Add domain&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-4&#34;&gt;4. Select iwantmyname from the Domain Provider list&lt;/h3&gt;
-
-&lt;p&gt;Select &lt;strong&gt;iwantmyname&lt;/strong&gt; from the Domain Provider dropdown list. Click &lt;strong&gt;Connect Domain&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-select-iwantmyname.jpg&#34; alt=&#34;Dropdown iwantmyname&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-5&#34;&gt;5. Click okay&lt;/h3&gt;
-
-&lt;p&gt;Squarespace is now linking your domain. Click &lt;strong&gt;okay&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-in-progress.jpg&#34; alt=&#34;Click okay&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-6&#34;&gt;6. Copy your verification code (it&#39;s right under Host)&lt;/h3&gt;
-
-&lt;p&gt;Copy that long string of letters and numbers listed first under the Host column (it&amp;rsquo;ll look somehting like: abcde1fg2h3ijk4lmn5o). This is the verification code you&amp;rsquo;ll add in the iwantmyname dashboard.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-host.jpg&#34; alt=&#34;Copy string&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-7&#34;&gt;7. Add Squarespace to your domain in iwantmyname&lt;/h3&gt;
-
-&lt;p&gt;Open a new window and log into your iwantmyname account, then head to the &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/setup/Squarespace/&#34;&gt;Squarespace app setup page&lt;/a&gt;. Click Add Squarespace.&lt;/p&gt;
-
-&lt;h3 id=&#34;section-8&#34;&gt;8. Paste your verification code&lt;/h3&gt;
-
-&lt;p&gt;You&amp;rsquo;ve already signed up for squarespace, so now add the verification code to the &amp;lsquo;Unique verification code&amp;rsquo; input. Then click &lt;strong&gt;Install Squarespace&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-unique-ver.jpg&#34; alt=&#34;Unique Code&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-9&#34;&gt;9. Back to Squarespace, hit refresh&lt;/h3&gt;
-
-&lt;p&gt;Back on your Squarespace window, if you click &lt;strong&gt;Refresh&lt;/strong&gt;, everything should now say Correct. Sometimes it takes a bit (up to a few hours) for these things to work through the internet though, so don&amp;rsquo;t be alarmed if things don&amp;rsquo;t look correct right away. Just jump to the next step.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-05-11-squarespace-correct.jpg&#34; alt=&#34;Correct&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;section-10&#34;&gt;10. You&#39;re all done!&lt;/h3&gt;
-
-&lt;p&gt;You&amp;rsquo;re all done! Have fun building your Squarespace site!&lt;/p&gt;
-</description>
-				<pubDate>Mon, 11 May 2015 15:48:53 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</link>
-				
-				<guid isPermaLink="false">/2015/05/the-guide-to-adding-squarespace-to-your-domain.html</guid>
 			</item>
 		
 	</channel>
