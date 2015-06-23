@@ -6,6 +6,21 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Thinking beyond parental leave</title>
+				<description>&lt;p&gt;Parental leave is an important topic and one that we will hear more about because there is an over-arching societal conversation starting to happen. So we began having a look around at what other companies offer and found a list of tech companies and their parental leave policies which was a good start, but not enough.&lt;/p&gt;
+
+&lt;p&gt;As an international team with four different nationalities and spread across as many countries (New Zealand, Germany, Canada and the US), we wanted to find something that works for everyone. We were also aiming at offering an equal option for men who should have the opportunity to negotiate some time away from work to be with their new children and to support the mother or same-sex partner. And would you believe there is still no parental leave in the US, even for most mothers?&lt;/p&gt;
+
+&lt;p&gt;But not everyone might have plans to have kids in the future—whatever the reason may be. How can we accommodate them?&lt;/p&gt;
+</description>
+				<pubDate>Mon, 22 Jun 2015 14:58:18 UTC</pubDate>
+				
+					<link>http://updates.reitnauer.com/2015/thinking-beyond-parental-leave</link>
+				
+				<guid isPermaLink="false">/2015/06/thinking-beyond-parental-leave.html</guid>
+			</item>
+		
+			<item>
 				<title>The ins and outs of WHOIS privacy and accurate contact information</title>
 				<description>&lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;The difference between a gTLD and a ccTLD&lt;/a&gt;&lt;/li&gt;
@@ -46,7 +61,7 @@
 
 &lt;h2 id=&#34;section-3&#34;&gt;Editing gTLD contact information&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;{{ site.images_url }}/2015-06-18-contact-details.png&#34; alt=&#34;contact details&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-18-contact-details.png&#34; alt=&#34;contact details&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;For gTLDs, you&amp;rsquo;ll be able to update the domain contacts yourself and save the new settings at the bottom of the page. You can use the same contact name and information for all four (registrant/owner, admin, tech, and billing), or you can use different people or contact details (as long as it&amp;rsquo;s accurate).&lt;/p&gt;
 
@@ -23923,6 +23938,35 @@ title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
 			</item>
 		
 			<item>
+				<title>Three tips for making the most of the new TLD pre-order period</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Even with hundreds of new Top-Level Domains (TLDs) coming out in the coming months, it&amp;rsquo;s inevitable that more than one person will want some specific domain names. For example, I&amp;rsquo;m fully aware that there will likely be a big rush to get christhedomain.doctor—but with these three tips, I&amp;rsquo;m ready for the launch, and hopefully you will be too.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;h3&gt;Tip 1: Have a backup plan&lt;/h3&gt;
+
+&lt;p&gt;Even if you think your domain is entirely unique, have a backup plan. Especially if you&amp;rsquo;re depending on this domain for personal or professional branding.&lt;/p&gt;
+
+&lt;p&gt;Also keep in mind that many generic keywords are being sold for premium prices through the registries directly (such as .KIWI&amp;rsquo;s premium domain page, &lt;a href=&#34;https://dot-kiwi.com/premiumnames&#34;&gt;found here&lt;/a&gt;). With a little creativity though, you should easily be able to find a similar domain with minimal search loss.&lt;/p&gt;
+
+&lt;h3&gt;Tip 2: Explore other &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-&#34;&gt;gTLDs&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;In the past, it was easy to feel trapped with a limited selection of domain extensions. Now though, if you can&amp;rsquo;t get your desired .PHOTO domain, you can just go with .PHOTOS, .PHOTOGRAPHY or .PICS. There are &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;plenty of domain extensions to choose from&lt;/a&gt;, so explore your options.&lt;/p&gt;
+
+&lt;h3&gt;Tip 3: Make sure you&amp;rsquo;re prepared&lt;/h3&gt;
+
+&lt;p&gt;If everything works out right and you get your domain, you&amp;rsquo;re going to need accurate account details. Please note that if you get a new card or something changes, change it in your iwantmyname account ASAP. Inaccurate details can prevent you from getting your domain.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</link>
+				
+				<guid isPermaLink="false">/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</guid>
+			</item>
+		
+			<item>
 				<title></title>
 				<description>&lt;p&gt;date: 2013-12-23 07:00:00 +1200
 author: Paul
@@ -23955,35 +23999,6 @@ title: 2013 A Year Of Domains&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2013/12/2013-a-year-of-domains.html</link>
 				
 				<guid isPermaLink="false">/2013/12/2013-a-year-of-domains.html</guid>
-			</item>
-		
-			<item>
-				<title>Three tips for making the most of the new TLD pre-order period</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Even with hundreds of new Top-Level Domains (TLDs) coming out in the coming months, it&amp;rsquo;s inevitable that more than one person will want some specific domain names. For example, I&amp;rsquo;m fully aware that there will likely be a big rush to get christhedomain.doctor—but with these three tips, I&amp;rsquo;m ready for the launch, and hopefully you will be too.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;h3&gt;Tip 1: Have a backup plan&lt;/h3&gt;
-
-&lt;p&gt;Even if you think your domain is entirely unique, have a backup plan. Especially if you&amp;rsquo;re depending on this domain for personal or professional branding.&lt;/p&gt;
-
-&lt;p&gt;Also keep in mind that many generic keywords are being sold for premium prices through the registries directly (such as .KIWI&amp;rsquo;s premium domain page, &lt;a href=&#34;https://dot-kiwi.com/premiumnames&#34;&gt;found here&lt;/a&gt;). With a little creativity though, you should easily be able to find a similar domain with minimal search loss.&lt;/p&gt;
-
-&lt;h3&gt;Tip 2: Explore other &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-&#34;&gt;gTLDs&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;In the past, it was easy to feel trapped with a limited selection of domain extensions. Now though, if you can&amp;rsquo;t get your desired .PHOTO domain, you can just go with .PHOTOS, .PHOTOGRAPHY or .PICS. There are &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;plenty of domain extensions to choose from&lt;/a&gt;, so explore your options.&lt;/p&gt;
-
-&lt;h3&gt;Tip 3: Make sure you&amp;rsquo;re prepared&lt;/h3&gt;
-
-&lt;p&gt;If everything works out right and you get your domain, you&amp;rsquo;re going to need accurate account details. Please note that if you get a new card or something changes, change it in your iwantmyname account ASAP. Inaccurate details can prevent you from getting your domain.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</link>
-				
-				<guid isPermaLink="false">/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</guid>
 			</item>
 		
 			<item>
