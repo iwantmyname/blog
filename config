@@ -5,7 +5,7 @@ BASE_URL = https://iwantmyname.com/blog
 
 
 CHRIS_NAME = Chris Hall
-CHRIS_TWITTER = hastaghall
+CHRIS_TWITTER = hashtaghall
 CHRIS_AVATAR = /assets/images/authors/chris.jpg
 
 JOEL_NAME = Joel Pitt
