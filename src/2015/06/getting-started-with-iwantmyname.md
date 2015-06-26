@@ -44,7 +44,7 @@ Now you're on the checkout page, which is far more important than you think. It'
 
 <h2 id="section-2">Making sure your information is secure</h2>
 
-![Account Page](/media/http://iwmn.me/195MZ/54nLfIHG)
+![Account page](/media/2015-06-25-account-page.png)
 
 You have your first domain name now, but before you do anything else, let's secure your information—just to be safe. 
 
