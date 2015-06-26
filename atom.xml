@@ -6,6 +6,147 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Getting started with iwantmyname</title>
+				<description>&lt;p&gt;The main goal of this guide is to get you started on iwantmyname, assuming you have no background in domain registration or starting up a website. We&amp;rsquo;ll try to keep things as need-to-know as possible, so if you&amp;rsquo;re easily distracted, or just don&amp;rsquo;t like your intro guides seeming like college courses, you&amp;rsquo;re in the right place.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what we&amp;rsquo;re going to cover:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Registering your first domain name&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Making sure your information is secure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Putting your domain name to work&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;Registering your first domain name&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-25-city-houses.jpg&#34; alt=&#34;Crowded Houses&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;When registering your first domain name, try to think of it as a house just waiting to be constructed. In your mind, you probably have a good idea what you want your house to look like, but first, you need to figure out where to put it. That&amp;rsquo;s where TLDs (top-level domain) come in. The TLD is the part of your domain name after the dot—COM is the TLD for iwantmyname.com.&lt;/p&gt;
+
+&lt;p&gt;So in this world of domain names, your name is the house, and the TLD, the part after the dot, is the city you want to build in. The most common TLD today is .COM, which a city unlike any other. It&amp;rsquo;s the most well known, which is great for memorability (and potentially, traffic), but it&amp;rsquo;s huge and crowded, so a lot of the &amp;ldquo;good&amp;rdquo; (short/memorable) property was taken long ago. On the flip side, there are hundreds of other TLDs to choose from—you just need to find the best option that aligns with your brand or interests.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a rundown of all the types of TLDs we offer, broken into easy categories (or, just take a look at &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;all of them on a single page&lt;/a&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;gTLDs (generic top-level domains) &amp;ndash; The basic definition of a gTLD is any domain extension that doesn&amp;rsquo;t represent a country or territory. .COM is a gTLD that stands for commercial. .NET stands for network. .ORG stands for organization. (Don&amp;rsquo;t get hung up on &amp;ldquo;original intent&amp;rdquo; though. You can use .NET, .ORG, .COM, or any of our other TLDs for any type of business you want you want.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;The new gTLDs&lt;/a&gt; (often called nTLDs, or new TLDs) &amp;ndash; Just recently, the internet was flooded with hundreds of new gTLDs (like .PIZZA, .DESIGN, and .PHOTOS) in an effort to alleviate some of the overcrowding issues .COM is having. So now, instead of calling your catering company YOURBRANDcatering.COM, you could go with YOURBRAND.CATERING.&lt;/li&gt;
+&lt;li&gt;ccTLDs (country code top-level domains) &amp;ndash; Unlike .COM, ccTLDs are assigned to countries. For example, New Zealand uses .NZ, Spain uses .ES, and Canada uses .CA. So if you&amp;rsquo;re running a restaurant in Belgium, you could use your local .BE ccTLD instead of the more global .COM, giving you a less crowded namespace to work with, and potentially a more local feel. You don&amp;rsquo;t necessarily have to be from the country to use its ccTLD either (we&amp;rsquo;ll let you know if there are any weird registration quirks involved)—.CO and .IO (Columbia and Indian Ocean Territories, respectively) are so commonly used, they&amp;rsquo;re often considered gTLDs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you have an idea of the name you want, head over to &lt;a href=&#34;https://iwantmyname.com&#34;&gt;iwantmyname.com&lt;/a&gt; and type the domain into the big search box in the middle of the page (then hit enter, or click the big button).&lt;/p&gt;
+
+&lt;p&gt;Next, you&amp;rsquo;ll see a long list of your domain with every TLD we offer. If the one you want is available, just click on it and it&amp;rsquo;ll appear in your cart on the right side of the screen (if it&amp;rsquo;s not, &lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;here&amp;rsquo;s the guide&lt;/a&gt; on what to do next). If that&amp;rsquo;s the only domain you want, next, click the button labeled &lt;strong&gt;Checkout&lt;/strong&gt;—otherwise, feel free to search for and add other domains to your order.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-25-shop-cart.png&#34; alt=&#34;Shopping Cart&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;On the next page, create your iwantmyname login information using your email address and a password (we recommend using a tool like &lt;a href=&#34;https://agilebits.com/onepassword&#34;&gt;1Password&lt;/a&gt; for password management), then click &lt;strong&gt;Continue&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now you&amp;rsquo;re on the checkout page, which is far more important than you think. It&amp;rsquo;s all self-explanatory, but it&amp;rsquo;s &lt;em&gt;super important&lt;/em&gt; to use accurate contact information. And yes, that means your real address, phone number, email address, etc. &lt;a href=&#34;https://iwantmyname.com/blog/2015/06/the-ins-and-outs-of-whois-privacy-and-accurate-contact-information.html&#34;&gt;Here&amp;rsquo;s a good article&lt;/a&gt; on why it&amp;rsquo;s necessary, and how you can protect your information the right way using WHOIS privacy.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-2&#34;&gt;Making sure your information is secure&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/http://iwmn.me/195MZ/54nLfIHG&#34; alt=&#34;Account Page&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;You have your first domain name now, but before you do anything else, let&amp;rsquo;s secure your information—just to be safe.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a little checklist of things we recommend doing:&lt;/p&gt;
+
+&lt;h3&gt;Make sure your password is strong&lt;/h3&gt;
+
+&lt;p&gt;This probably isn&amp;rsquo;t the first time you&amp;rsquo;ve been told to create a strong password, but it&amp;rsquo;s always a good thing to hear (like eating your vegetables). Your password can be whatever you want, but our general suggestion is not to use anything that could easily be found through a simple internet search. So no family names, pet names, important dates, job titles, or hobbies you&amp;rsquo;ve written about. Randomness and length are key—we recommend using something like &lt;a href=&#34;https://agilebits.com/onepassword&#34;&gt;1Password&lt;/a&gt; to make it easy.&lt;/p&gt;
+
+&lt;p&gt;To change your password, click &lt;strong&gt;Login &amp;amp; Security&lt;/strong&gt; under &lt;strong&gt;Account&lt;/strong&gt; in the top navigation and follow the instructions.&lt;/p&gt;
+
+&lt;h3&gt;Use two-factor authentication&lt;/h3&gt;
+
+&lt;p&gt;If you really want to be secure, we recommend using two-factor authentication (2FA). Our implementation through Authy forces you (or a potential hacker) to enter a randomly generated code after you enter your login information that is only viewable through the Authy app on your phone or laptop. The idea is that if your login information was compromised, the potential data thief would also have to have your phone (or computer, if you set it up that way) to complete the login process.&lt;/p&gt;
+
+&lt;p&gt;To add 2FA, click &lt;strong&gt;Login &amp;amp; Security&lt;/strong&gt; under &lt;strong&gt;Account&lt;/strong&gt; in the top navigation. Note that we don&amp;rsquo;t have Google Authenticator implemented at this time, but we may add additional 2FA options in the future.&lt;/p&gt;
+
+&lt;h3&gt;Add WHOIS privacy&lt;/h3&gt;
+
+&lt;p&gt;WHOIS privacy is a free service we offer to &lt;a href=&#34;https://iwantmyname.com/whois-privacy&#34;&gt;all TLDs that support it&lt;/a&gt;. In short, ICANN (the entity that maintains the gTLD namespaces) and each entity running the ccTLDs have policies in place on what information needs to be made available to the public on the &lt;a href=&#34;http://whois.icann.org&#34;&gt;WHOIS database&lt;/a&gt;. With our WHOIS privacy in place, your personal information that was required at registration gets replaced on the public database with our company information. So the spot that shows your address would instead show our company address. Pretty nifty!&lt;/p&gt;
+
+&lt;p&gt;Because each ccTLD is run by a separate entity though, please note that not every TLD supports WHOIS privacy. Here&amp;rsquo;s the &lt;a href=&#34;https://iwantmyname.com/whois-privacy&#34;&gt;big list of those that do support it&lt;/a&gt;. Also, if you want to read up about the ins and outs of WHOIS privacy, &lt;a href=&#34;(https://iwantmyname.com/blog/2015/06/the-ins-and-outs-of-whois-privacy-and-accurate-contact-information.html&#34;&gt;this is a great place to start&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;To add WHOIS privacy to your domain name, click &lt;strong&gt;Domains&lt;/strong&gt; in the top nav, then select the domain you want to add WHOIS privacy to, then click &lt;strong&gt;&amp;ldquo;enable privacy&amp;rdquo;&lt;/strong&gt; (it&amp;rsquo;s in the &lt;strong&gt;Domain Owner&lt;/strong&gt; row).&lt;/p&gt;
+
+&lt;h2 id=&#34;section-3&#34;&gt;Putting your domain name to work&lt;/h2&gt;
+
+&lt;p&gt;Now that you&amp;rsquo;ve registered your first domain and added all your privacy settings, it&amp;rsquo;s time to start actually using it. But before we get into &lt;em&gt;how&lt;/em&gt; to set things up, let&amp;rsquo;s take a look at what kinds of easy things you can do with your domain:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Start a website &amp;ndash; Probably the most common thing you can do with a domain is start a website. And these days, with amazing platforms like Squarespace, Big Cartel, and Tumblr, anyone can start a blog, e-commerce site, gallery page, online portfolio, forum, etc., etc. without knowing an ounce of code.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html&#34;&gt;Get a custom email address&lt;/a&gt; &amp;ndash; Ever see someone with an email address that doesn&amp;rsquo;t end in @gmail.com, @me.com, @hotmail.com, etc.? That was set up with a using a domain name like the one you just registered.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/11/three-steps-to-get-the-most-from-your-custom-short-url-using-bitly-and-buffer.html&#34;&gt;Shorten your links&lt;/a&gt; &amp;ndash; When you post a link to Twitter (or some other social platforms), it&amp;rsquo;s automatically shortened to give you more characters to work with. If you want to brand that link shortening though (we&amp;rsquo;re using iwnt.me), you can get a short domain name and use it with a link shortening service like Bitly.&lt;/li&gt;
+&lt;li&gt;Host a podcast? Start a forum? &amp;ndash; If you can think of it, there&amp;rsquo;s probably a platform or service out there to get you started.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No matter what you&amp;rsquo;re looking to accomplish, our recommendation is to start your search in our &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;Marketplace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Understanding the Marketplace&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-25-app-marketplace.png&#34; alt=&#34;Marketplace&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve ever messed with domain names in the past, you&amp;rsquo;ve probably come across a fairly acronym-heavy setup process with DNS record types like A, CNAME, MX, etc. What we&amp;rsquo;ve done is created a system that helps you avoid needing to deal with all that—allowing you to choose platforms like Squarespace and Tumblr, then add them to your domain in a click (all the work is done for you in the background).&lt;/p&gt;
+
+&lt;p&gt;The most important thing to remember here is that all the platforms in our &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;Marketplace&lt;/a&gt; are hosted platforms, meaning you can use them without needing to worry about hosting space on the side. Just add the platform, sign up for it on their end, and you&amp;rsquo;re good to go.&lt;/p&gt;
+
+&lt;h3&gt;Adding a platform from the Marketplace&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-25-add-tumblr.png&#34; alt=&#34;Add Tumblr&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Occasionally you&amp;rsquo;ll run into some additional information needed on platform setups (here&amp;rsquo;s the &lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-adding-squarespace-to-your-domain.html&#34;&gt;Squarespace installation guide&lt;/a&gt;, for example), but most platforms are very straightforward. Here&amp;rsquo;s the process for Tumblr, as an example:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Assuming you&amp;rsquo;re logged in, click &lt;strong&gt;Apps &amp;amp; Services&lt;/strong&gt; under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav.&lt;/li&gt;
+&lt;li&gt;Pick a platform you want to add, then click &lt;strong&gt;Add Tumblr&lt;/strong&gt; on the next page.&lt;/li&gt;
+&lt;li&gt;Hit the green &lt;strong&gt;Install Tumblr&lt;/strong&gt; button.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Note that you still need to sign up for your desired platform on their end, and add your new domain name in their custom domain name menu (most platforms will have their own guide to help you along). Note that some platforms take a bit of time to detect new domain settings, so now might be a good time to walk the dog.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;Useful tip &amp;ndash; if your domain was transferred to iwantmyname from a different registrar, you&amp;rsquo;ll probably have to change your nameservers to iwantmyname (our instant setups won&amp;rsquo;t work otherwise). To set that up, click &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Update Nameservers&lt;/strong&gt;, then choose iwantmyname in the dropdown menu. And don&amp;rsquo;t forget to click the &lt;strong&gt;Update Nameservers&lt;/strong&gt; button!&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Adding a platform that isn&amp;rsquo;t in the Marketplace&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-25-dns-records.png&#34; alt=&#34;DNS Records&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;If the blog, e-commerce, portfolio, etc., etc. platform you&amp;rsquo;re looking to use isn&amp;rsquo;t in our Marketplace, you can add DNS records manually by clicking &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Edit DNS Records&lt;/strong&gt;, then add your records one-by-one. Most platforms will have setup guides for a number of different registrars, so hopefully a custom iwantmyname setup guide will be on the list, but if not, just follow their general custom domain instructions and you should be fine (we&amp;rsquo;re always &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;happy to help&lt;/a&gt; as well).&lt;/p&gt;
+
+&lt;h3&gt;Adding a platform that requires your own hosting&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-06-25-update-nameservers.png&#34; alt=&#34;Update nameservers&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to use a platform like Wordpress.org that requires you to find your own server space for your site to live on (for the brave, or more advanced users), you&amp;rsquo;ll have to first &lt;a href=&#34;https://iwantmyname.com/features/domains/web-hosting&#34;&gt;figure out who you want to be your host&lt;/a&gt;. There are hundreds of hosting companies out there, but [we usually recommend &lt;a href=&#34;https://www.bluehost.com/track/iwantmyname/&#34;&gt;Bluehost&lt;/a&gt; for basic users and &lt;a href=&#34;https://www.digitalocean.com/?refcode=c5a7f5e1af5e&#34;&gt;Digital Ocean&lt;/a&gt; for developers.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve purchased some hosting space, all you have to do on our end is point your domain&amp;rsquo;s Nameservers to that service. For example, if you&amp;rsquo;re using Bluehost, click &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Update Nameservers&lt;/strong&gt;, then choose Bluehost in the dropdown menu. After that, all the settings to install your platform will be through your host (and they&amp;rsquo;ll usually have their own setup guides).&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Before we wrap this up, there are a few things we want you to remember (this is your domain credo, of sorts):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It&amp;rsquo;s very hard to permanently mess things up, and changes made accidentally can be removed or restored. As long as you use correct contact information, keep your billing info up-to-date, and check your email semi-regularly for important updates, you&amp;rsquo;re going to be alright.&lt;/li&gt;
+&lt;li&gt;Even if you&amp;rsquo;ve set everything up perfectly, sometimes it takes time for things to work their way through the internet (and nothing can speed it up). Patience is key.&lt;/li&gt;
+&lt;li&gt;If you need help, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just send us a message&lt;/a&gt;. We&amp;rsquo;ll definitely be able to help you out.&lt;/li&gt;
+&lt;li&gt;And most of all, have fun with your new domain!&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+				<pubDate>Wed, 24 Jun 2015 15:55:21 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/06/getting-started-with-iwantmyname.html</link>
+				
+				<guid isPermaLink="false">/2015/06/getting-started-with-iwantmyname.html</guid>
+			</item>
+		
+			<item>
 				<title>Thinking beyond parental leave</title>
 				<description>&lt;p&gt;Parental leave is an important topic and one that we will hear more about because there is an over-arching societal conversation starting to happen. So we began having a look around at what other companies offer and found a list of tech companies and their parental leave policies which was a good start, but not enough.&lt;/p&gt;
 
@@ -455,37 +596,6 @@
 					<link>https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html</link>
 				
 				<guid isPermaLink="false">/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html</guid>
-			</item>
-		
-			<item>
-				<title>Using .DESIGN to solve real online problems</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Designers. Friends. Frienemies. For too long you&amp;rsquo;ve been using domain names like fullnamedesign.com (or the slightly more mysterious *lastname*design.com) to show off your online portfolios. So many letters! So much waste! Before you spend one more day fiddling around with this madness, let&amp;rsquo;s get down to clearly identifying the problem you probably don&amp;rsquo;t even know you&amp;rsquo;re facing. Then let&amp;rsquo;s fix it. Together.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;For this example, let&amp;rsquo;s pretend that all the letters in a domain name before the &amp;ldquo;.&amp;rdquo; are pieces of furniture&amp;hellip; and they&amp;rsquo;re all beautiful. Here&amp;rsquo;s the question. In a well-designed space, how many beautiful pieces of furniture do you want? Five? Six? Eight? Yes, yes, yes.&lt;/p&gt;
-
-&lt;p&gt;14?!&lt;/p&gt;
-
-&lt;p&gt;Woah, woah. That&amp;rsquo;s a lot of furniture before the dot—but that&amp;rsquo;s how many letters there are in &amp;ldquo;fullnamedesign.&amp;rdquo; And if your name happened to be Nathaniel Tabernacle (which would come to nathanieltabernacledesign.com), you&amp;rsquo;re looking at a whopping 25!&lt;/p&gt;
-
-&lt;p&gt;So how do we fix this? Just nix the word &amp;ldquo;design&amp;rdquo; before the dot and go with the brand new &lt;a href=&#34;https://iwantmyname.com/domains/dot-design&#34;&gt;.DESIGN&lt;/a&gt; top-level domain (TLD), the designiest TLD on the market today (although &lt;a href=&#34;https://iwantmyname.com/domains/nl-dutch-domain-name-registration-for-netherlands&#34;&gt;.NL&lt;/a&gt; might give you some Dutch designery street cred). Instead of fullnamedesign.com, you could just have fullname.design! Beautiful spacing. Clean, legible words. It&amp;rsquo;s everything you could ever want from your domain name.&lt;/p&gt;
-
-&lt;p&gt;And from May 18-31, we&amp;rsquo;re dropping the price of .DESIGN from $69 USD to $39 USD. That&amp;rsquo;s less than some people spend over the summer on a week of morning cold brews (coffee, not beer&amp;hellip; although morning beer is delicious).&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make this happen, designers. Your domain names are all cluttered with excess and it&amp;rsquo;s giving people anxiety attacks.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Photo Credit: &lt;a href=&#34;https://www.flickr.com/photos/mcinteractivity/13033013324/in/photolist-kRFANh-dqgU8-2Svg1v-LQmKM-MCB3v-6zJagD-6VJvq6-LQb3m-dqgYt-dqgTf-6Hswze-8QRqEW-8QRqx1-8QNkxa-dqgYM-MCtyw-MCtyh-MCtxC-MCtwf-diMYjG-6CEyhw-p5Z936-93Q4XY-6ZJQ9A-6ZEPC4-4ZwPqo-6HwzC1-oNua8R-4ZsACT-LQkwt-6HwzzC-6HwzyU-6zJ62p-2Svf9z-dqgTP-oNuiLd-p5HNRr-p5Z6HM-p5HNkB-p5HMZg-au4v3X-cg3Kj5-dqgUs-p5HT1P-2SveHg-dqgQ5-MCB66-6ZEPUg-MCtBL-dqgNG&#34;&gt;Mathieu Cheviron&lt;/a&gt;&lt;/p&gt;
-</description>
-				<pubDate>Thu, 14 May 2015 11:28:33 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/05/using-design-to-solve-real-online-problems.html</link>
-				
-				<guid isPermaLink="false">/2015/05/using-design-to-solve-real-online-problems.html</guid>
 			</item>
 		
 	</channel>
