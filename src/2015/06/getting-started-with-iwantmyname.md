@@ -4,7 +4,11 @@ title: Getting started with iwantmyname
 header_image: 2015-06-26-blank-canvas.png
 ----
 
+<!-- excerpt -->
+
 The main goal of this guide is to get you started on iwantmyname, assuming you have no background in domain registration or starting up a website. We'll try to keep things as need-to-know as possible, so if you're easily distracted, or just don't like your intro guides seeming like college courses, you're in the right place.
+
+<!-- /excerpt -->
 
 Here's what we're going to cover:
 
