@@ -27,7 +27,7 @@ We do email hosting this way (through third-party sources) because we want to ke
 
 + [**Fastmail.fm**][4]: Created by Opera Software—the company behind the Opera browser—Fastmail.fm is a fast-growing email host known for reliability and security. For $39.95/year, you can get a personal mail account with 10GB email storage, IMAP/POP support and 2GB file storage for keeping your documents in the cloud (different rates apply for business accounts).
 
-+ [**Rackspace Email**][8]: While Rackspace Email doesn't provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support and multiple layers of spam and virus protection. Plans start at $2/user/month (with a minimum of five mailboxes), and increase as more features are added. 
++ [**Rackspace Email**][https://iwantmyname.com/services/email-hosting/rackspace-apps]: While Rackspace Email doesn't provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support and multiple layers of spam and virus protection. Plans start at $2/user/month (with a minimum of five mailboxes), and increase as more features are added. 
 
 ### Email Forwarding
 
@@ -50,4 +50,3 @@ If your desired email hosting platform isn't in our app marketplace (yet!), don'
 [5]:https://iwantmyname.com/services/email-hosting/pobox-mail-forwarding
 [6]:https://iwantmyname.com/services/email-hosting/windows-live-custom-domain
 [7]:https://iwantmyname.com/support
-[8]:https://iwantmyname.com/services/email-hosting/rackspace-apps
