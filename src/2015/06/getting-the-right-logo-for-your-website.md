@@ -56,7 +56,7 @@ With all that adaptability in mind, it's important to know what it takes to crea
 
 > It's one thing to design that logo, and just have it floating on this PDF, and you're sort of drunk on white space and negative space and just floating, but rarely will you see it that way. The way you see it will be on some stupid little Instagram in the corner, or on a guy's business card, or embroidered on his sweatshirt or something. 
 
-This was a rush job from one of the better designers out there, but if you want a *good* logo, it's probably going to take a bit of time, some honest critical thinking, and possibly a bit of money. (In short, you should be wary of any company offering you a quick logo for cheap.) You might end up getting something wonderful, but most likely you're going to get something that doesn't capture the soul of your brand, and will probably look dated in a couple of years.)
+This was a rush job from one of the better designers out there, but if you want a *good* logo, it's probably going to take a bit of time, some honest critical thinking, and possibly a bit of money. (In short, you should be wary of any company offering you a quick logo for cheap. You might end up getting something wonderful, but most likely you're going to get something that doesn't capture the soul of your brand, and will probably look dated in a couple of years.)
 
 <h2 id="section-4">Logo options for different budgets</h2>
 
