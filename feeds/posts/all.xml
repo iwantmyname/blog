@@ -15266,6 +15266,63 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 			</item>
 		
 			<item>
+				<title>How to get a custom email address</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;It&amp;rsquo;s one of the most common questions we get asked—&amp;rdquo;I just bought a domain name, so how do I get a custom email address?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;In short, when you buy a domain through iwantmyname, creating a custom email address is just like creating a website. You have to pick a platform, then install your custom domain to it. For example, if &amp;ldquo;The Dude&amp;rdquo;—owner of theinternet.io (likely not the name of the real owner)—wanted to setup a custom email address, he could search through the &lt;a href=&#34;https://iwantmyname.com/services/email-hosting/&#34;&gt;email hosts in our app marketplace&lt;/a&gt; and pick the one that suits him best. Each of them will let him email from thedude@theinternet.com, but each will also provide a slightly different set of features for a range of prices.&lt;/p&gt;
+
+&lt;p&gt;We do email hosting this way (through third-party sources) because we want to keep our focus solely on domain management. It&amp;rsquo;s our goal to be exceptionally good at what what we&amp;rsquo;re good at, so that means giving our customers the freedom to use whatever email hosting service that suits their needs best. So with that said, here&amp;rsquo;s a look at the six email hosts currently offered in our app marketplace:&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;h3&gt;Free Email Hosting&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/zoho/email-hosting-and-online-office-suite&#34;&gt;&lt;strong&gt;Zoho Mail&lt;/strong&gt;&lt;/a&gt;: For many users, Zoho Mail is a top choice because it&amp;rsquo;s easy to install, has a clean interface, delivers push mail and two-way sync, never displays ads and is free for up to 20 users (and only $2/user/month after that for a 10GB mailbox). But for users of Zoho Apps—including Zoho Writer, Zoho Calendar, Zoho Sheet and more—Zoho Mail is the missing piece for creating a full office suite.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Paid Email Hosting&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/google-apps-for-your-domain&#34;&gt;&lt;strong&gt;Google Apps&lt;/strong&gt;&lt;/a&gt;: Google Apps is likely the most common email host people are using these days—and for good reason. With Google Apps, you get the exact same email interface and benefits you get with a personal gmail account, but with the added organizational benefits of Google Drive, Google Calendar, Google Sites and more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Back in the day, users could get a small-use Google Apps for Business account for free, but now they&amp;rsquo;re charging $5/user/month (or $50/user/year) after a free 30-day trial.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&#34;&gt;&lt;strong&gt;Fastmail.fm&lt;/strong&gt;&lt;/a&gt;: Created by Opera Software—the company behind the Opera browser—Fastmail.fm is a fast-growing email host known for reliability and security. For $39.95/year, you can get a personal mail account with 10GB email storage, IMAP/POP support and 2GB file storage for keeping your documents in the cloud (different rates apply for business accounts).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/rackspace-apps&#34;&gt;&lt;strong&gt;Rackspace Email&lt;/strong&gt;&lt;/a&gt;: While Rackspace Email doesn&amp;rsquo;t provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support and multiple layers of spam and virus protection. Plans start at $2/user/month (with a minimum of five mailboxes), and increase as more features are added.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Email Forwarding&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/pobox-mail-forwarding&#34;&gt;&lt;strong&gt;Pobox&lt;/strong&gt;&lt;/a&gt;: Unlike providers like Zoho Mail and gmail, Pobox specializes in email forwarding. So instead of attaching your email address to a service with a webmail system you&amp;rsquo;re not used to, Pobox lets you forward your new unique email address to an email platform (and address) you commonly use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a side benefit, it also gives you the freedom to explore all the other great services on the market. From pobox.com:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If your email provider introduces a new policy you dislike, you can move. If your ISP changes its name, your email address is unaffected. If a new service starts up that you&amp;rsquo;d love to try, you can.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Prices for Pobox services vary depending on the options you choose, but there is a 30 day trial available if you&amp;rsquo;re interested in trying out their email forwarding service.&lt;/p&gt;
+
+&lt;h3&gt;Other hosts?&lt;/h3&gt;
+
+&lt;p&gt;If your desired email hosting platform isn&amp;rsquo;t in our app marketplace (yet!), don&amp;rsquo;t fret—you can use any third-party email service by adding their respective MX records to your domain&amp;rsquo;s DNS manager. And if you need any help getting this set up, feel free to &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;contact our support team&lt;/a&gt; We&amp;rsquo;re always here to help.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 25 Sep 2013 13:48:17 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html</link>
+				
+				<guid isPermaLink="false">/2013/09/how-to-get-a-custom-email-address.html</guid>
+			</item>
+		
+			<item>
 				<title>Own Your Content: The Rise Of Dropbox Blogging</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-09-24-dropbox-logos_dropbox-logotype-blue.jpg&#34; alt=&#34;dropbox-logos_dropbox-logotype-blue.jpg&#34;&gt;&lt;/p&gt;
 
@@ -24082,17 +24139,6 @@ still available&lt;/strong&gt;!&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html</link>
 				
 				<guid isPermaLink="false">/2009/04/list-of-available-ultra-short-2-letter-domain-names.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address&#34;&gt;https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address&lt;/a&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.redirect.html</link>
-				
-				<guid isPermaLink="false">/2013/09/how-to-get-a-custom-email-address.redirect.html</guid>
 			</item>
 		
 			<item>
