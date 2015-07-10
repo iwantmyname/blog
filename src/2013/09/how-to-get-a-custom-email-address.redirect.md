@@ -1,1 +1,0 @@
-https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address
