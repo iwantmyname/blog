@@ -26,8 +26,9 @@
 &lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;The basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Custom email options&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Email forwarding?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Can&amp;rsquo;t you get a free custom address with Gmail?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;What should go before the @?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Can&amp;rsquo;t you get a free custom address with Google Apps?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Can&amp;rsquo;t you get a free custom address with Microsoft?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-6&#34;&gt;What should go before the @?&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr&gt;
@@ -65,7 +66,7 @@
 
 &lt;p&gt;If you&amp;rsquo;re interested in email forwarding, we thoroughly recommend &lt;a href=&#34;https://konklone.com/post/take-control-of-your-email-address&#34;&gt;this guide from Eric Mill&lt;/a&gt; (it even goes through the iwantmyname installation process).&lt;/p&gt;
 
-&lt;h2 id=&#34;section-4&#34;&gt;Can&#39;t you get a free custom address with Gmail?&lt;/h2&gt;
+&lt;h2 id=&#34;section-4&#34;&gt;Can&#39;t you get a free custom address with Google Apps?&lt;/h2&gt;
 
 &lt;p&gt;Back in the day, Google Apps had a free tier that allowed people to set up free custom email addresses for up to ten users. It was awesome. But near the end of 2012, Google shut their free service down, forcing people to look for paid (gasp!) alternatives.&lt;/p&gt;
 
@@ -79,7 +80,19 @@
 
 &lt;p&gt;It only works for up to 10,000 emails a month (which seems like a lot) and is definitely developer-centric, but&amp;hellip; it&amp;rsquo;s free!&lt;/p&gt;
 
-&lt;h2 id=&#34;section-5&#34;&gt;What should go before the @??&lt;/h2&gt;
+&lt;h2 id=&#34;section-5&#34;&gt;Can&#39;t you get a free custom address with Microsoft?&lt;/h2&gt;
+
+&lt;p&gt;Like the free custom email deal with Google Apps, Microsoft used to offer a service that allowed users to attach their custom domains to free Hotmail and Outlook.com accounts. But in 2014, they shut it down to focus on their paid offerings.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zdnet.com/article/microsoft-ends-support-for-custom-domains-in-free-email-service/&#34;&gt;From Ed Bott, ZDNet:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The move is disappointing, but not surprising. The fact that the Windows Live Admin Center continued to use the old Windows Live branding and was never updated with the modern design of Outlook.com was probably the biggest clue. In addition, the service has always been extremely limited, with administrators only able to add or delete addresses. And the relatively recent addition of a prominent Microsoft Office 365 link under the Sign In button was telling as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Basically, if you&amp;rsquo;re looking for free custom email today, your only option is Zoho Mail.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-6&#34;&gt;What should go before the @??&lt;/h2&gt;
 
 &lt;p&gt;Once you get your custom email address set up, your next task is to create individual email addresses (the part before the @). Fortunately (or unfortunately, if you&amp;rsquo;re bad at making decisions), the possibilities are endless. You can use your first name, your last name, some combination of the two, generic words like &amp;ldquo;owner&amp;rdquo; or &amp;ldquo;support&amp;rdquo;, nicknames like &amp;ldquo;bossman&amp;rdquo; or &amp;ldquo;lordofemail&amp;rdquo;, or any other name you can think of.&lt;/p&gt;
 
