@@ -6,7 +6,7 @@ header_image: 2015-07-21-using-store.jpg
 
 <!-- excerpt -->
 
-If you have a product to sell and an ounce of sticktoitiveness, the barrier for entry into the world of online sales is smaller than ever. Just pick a platform, select and tweak a template, take some product shots, and you’re up and running. But don't let the bevy of simplified platforms make you lazy, there are plenty of decisions you still need to make to stand out in the crowd.
+If you have a product to sell and an ounce of sticktoitiveness, the barrier for entry into the world of online sales is smaller than ever. Just pick a platform, select and tweak a template, take some product shots, and you’re up and running. But don't let the bevy of simplified platforms make you lazy, there are plenty of decisions you still need to make to stand out from the crowd.
 
 <!-- /excerpt -->
 
