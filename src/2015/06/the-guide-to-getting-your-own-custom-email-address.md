@@ -5,8 +5,6 @@ title: The guide to getting your own custom email address
 
 <!-- excerpt -->
 
-![online store](/media/2015-07-21-store-macbook.jpg)
-
 ![Custom Email](/media/2015-07-10-custom-email.jpg)
 
 Custom email may seem like a small detail in the larger branding picture, but it's hugely important. In a single glance, this is what it means to your customers, clients, and/or acquaintances:

@@ -1,7 +1,7 @@
 date: 2015-07-21 11:53:56 -0700
 author: Chris
 title: The guide to creating a professional online store
-
+header_image: 2015-07-21-using-store.jpg
 ----
 
 <!-- excerpt -->
