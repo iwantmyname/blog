@@ -1,7 +1,7 @@
 date: 2015-07-10 12:06:54 -0700
 author: Chris
 title: The guide to getting your own custom email address
-header_image: 2015-07-21-online-store.jpg
+header_image: 2015-07-21-store-macbook.jpg
 ----
 
 <!-- excerpt -->
