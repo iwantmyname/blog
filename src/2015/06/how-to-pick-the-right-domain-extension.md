@@ -23,6 +23,8 @@ Before you spontaneously combust, let's go through your options and add some not
 
 <h2 id="section-1">.COM, the big Kahuna</h2>
 
+![Big Kahuna Burger](/media/2015-07-23-big-kahuna.jpg)
+
 I'm not a mind reader, but my guess is that you're here to have someone like me tell you it's ok to get something other than a .COM. So, sure, you certainly can run a successful business using any TLD. But for many people, .COM *is* the internet, especially if you live in the US. And it goes beyond simple. familiarity.
 
 Take John Smith, a hypothetical 49-year-old insurance adjuster in Columbus, Ohio (in the US). On a given day, he browses through his typical sites: cnn.com, espn.com, facebook.com, and his work website, then he checks his email through Apple Mail which was set up for him at the Apple Store when he got his computer. The only thing he'll come across that doesn't seem *safe* is the spam that sometimes makes it to his inbox. And all that spam usually has one thing in common—garbledygook. The text is sometimes in a foreign language, or at best, a broken attempt at his primary language. The email address probably has hyphens and numbers. And the links (if there is a link) often have misspellings and unfamiliar TLDs. 
@@ -34,6 +36,8 @@ Always remember that while more and more people are working tech jobs and buildi
 With that said, people do gradually adapt to change. 15 years ago, buying something online with a credit card seemed like science fiction, and now we all have so many monthly subscriptions we can't even keep up. What seems weird and dangerous today could be the societal norm by the end of the year, and everyone knows it.
 
 <h2 id="section-2">Beware spam indicators</h2>
+
+![scary](/media/2015-07-23-scary-rails.jpg)
 
 As stated about, if your website looks like it could be spam, that's not a good thing. Here's what [Moz](https://moz.com/learn/seo/domain), the popular SEO site, says:
 
@@ -76,6 +80,8 @@ The best rule to follow is to know what your TLD stands for before you register 
 
 <h2 id="section-4">.IO and the TLDs for tech</h2>
 
+![tech](/media/2015-07-23-tech.jpg)
+
 It all started with [domain hacks](https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html). As .COM got more and more crowded, the rapidly growing startup scene had to go somewhere, but the where wasn't so obvious—until the ever-so-creative founders started blending their company names and their domain names together. So started a trend where every new startup ended with "ly" while using the .LY ccTLD (here's a great Pinterest board, aptly named "[Names That End in -ly](Names That End in -ly)").
 
 Somewhere along the way though, startups started moving to .IO en masse ([here's a great list of .IO domains in the wild](http://www.russellbeattie.com/blog/artisanal-websites-the-rise-of-io-domains-for-well-crafted-web-services)). It had a lot going for it—I/O commonly stands for Input/Output, Io is a pretty awesome moon and is big in Greek mythology, and it makes for a pretty nice domain hack. 
@@ -110,6 +116,8 @@ In addition to providing endless new namespaces for people to register short, me
 
 <h2 id="section-6">Does your TLD really matter?</h2>
 
+![discovery](/media/2015-07-23-telescope.jpg)
+
 From Pando Daily, in an article titled [“What’s In A Name? The fading tyranny of dot com”](http://pando.com/2014/10/09/whats-in-a-name-the-fading-tyranny-of-dot-com/):
 
 > For someone like Michael Heyward, who co-founded anonymous social networking app Whisper in 2012, as a mobile first company, he says, there was not an ounce of trepidation at not having the Whisper.com domain name. (Whisper.com itself is a junk address, filled with spam links.)
@@ -124,4 +132,8 @@ Putting on my future hat, my advice would be to find the TLD that *you're* most 
 
 ***
 
-Photo credit: [Jan Willem van Wessel](https://www.flickr.com/photos/stijlfoto/18974847222/in/photolist-uUK41j-6HLQcm-bvSMX6-6mYJDg-aAja77-4Qze8a-pS676-4rdKd2-3qRKWF-8M8NCJ-az8Xvt-cVGU-4hnENR-2Kx3Sk-JKL6s-2APAPe-5f3dQQ-5WmyyA-raDzoM-JKFcw-nBGwTX-5cJfyN-4Uy7Vn-5Q5F66-6MR8Lq-adazQA-9nNSP5-6mYJAt-oTt9c8-4qbcmN-mig52v-sWYA85-dcTeB-vozpP-rtnuB4-GbY6Y-dutmdM-4QDq8U-5Sqz9E-5Ukkoh-rg1UgP-dExGt-8BqeA2-sgKZs-5TZyJM-84UZ22-6tHL2w-6KkJLY-6mdgwq-6mdgCm)
+Photo credits:
+
++ (header): [Jan Willem van Wessel](https://www.flickr.com/photos/stijlfoto/18974847222/in/photolist-uUK41j-6HLQcm-bvSMX6-6mYJDg-aAja77-4Qze8a-pS676-4rdKd2-3qRKWF-8M8NCJ-az8Xvt-cVGU-4hnENR-2Kx3Sk-JKL6s-2APAPe-5f3dQQ-5WmyyA-raDzoM-JKFcw-nBGwTX-5cJfyN-4Uy7Vn-5Q5F66-6MR8Lq-adazQA-9nNSP5-6mYJAt-oTt9c8-4qbcmN-mig52v-sWYA85-dcTeB-vozpP-rtnuB4-GbY6Y-dutmdM-4QDq8U-5Sqz9E-5Ukkoh-rg1UgP-dExGt-8BqeA2-sgKZs-5TZyJM-84UZ22-6tHL2w-6KkJLY-6mdgwq-6mdgCm)
++ (Big Kahuna mural): [Wally Gobetz](https://www.flickr.com/photos/wallyg/8779127308/in/photolist-enMjFW-kNjgs-encFka-5o77AJ-5o2SbD-pUgsbW-pUun9K-6dCCeT-dXfYeF-6imprQ-9iVMh3-o1mSA-njhUi-8hqVus-8hnEoB-8hnCQH-8hqTAS-3K6VGH-8cJd5d-njhP5-bs9hsM-4d28TU-3PthMM-9iSDLg-68nBPx-jjVqJ-5vGTTn-4F63hu-9iVLXC-9iSE3p-9iVLEu-3PxvuG-re9K2A-6rrofP-3EM2Hj-8Dkmmz-6Tn28u-9CqKLb-9YN2A1-6JijYX-4F64bh-ceAgaS-bXdTZB-ceAfZj-bXdTpX-ceAgKo-bXdSTg-ceAfyq-brS5Dk-fZCq8t)
+
