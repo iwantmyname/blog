@@ -94,6 +94,8 @@ But with all the new gTLDs available today, startups and tech sites have more op
 
 <h2 id="section-5">Is it ok to use a new gTLD?</h2>
 
+![pizza menu](/media/2015-07-23-pizza-menu.jpg)
+
 This is the biggest question of the day. As I stated at the beginning of this post, for many people, .COM *is* the internet, and that's a hard nut to crack. So when the new gTLDs launched, many thought the assumed SEO bump would kickstart the system. But not so fast. Here's a short post from [Matt Cutts:](https://plus.google.com/+MattCutts/posts/4VaWg4TMM5F)
 
 > I read a post by someone offering new top-level domain (TLDs). They made this claim: "Will a new TLD web address automatically be favoured by Google over a .com equivalent? Quite simply, yes it will."
