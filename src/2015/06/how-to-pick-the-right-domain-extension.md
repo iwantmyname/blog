@@ -45,6 +45,8 @@ Before you register a domain, I'd recommend doing a little search to see if the 
 
 <h2 id="section-3">Local ccTLDs and gTLDs can be good for business</h2>
 
+![restaurant](/media/2015-07-23-restaurant.jpg)
+
 By design, the internet is a global marketplace. No matter where your website is being hosted, anyone in the world can check out what you're offering. But in many instances, people and businesses don't need a global reach. Restaurants, regional banks, local politicians—these people and places are focused locally, and can often benefit from local TLDs. 
 
 [Here's what Moz has to say:](https://moz.com/learn/seo/cctlds)
