@@ -119,3 +119,7 @@ From Pando Daily, in an article titled [“What’s In A Name? The fading tyrann
 Think about that. For the foreseeable future, we'll all need domain names to run our platforms and blogs, but discovery is changing *fast*. Really fast. On a given day, almost all the content I personally read online comes from links on content aggregators like Techmeme and Hacker News, or social platforms like Facebook and Twitter. And because I trust the sources I'm finding sites and articles with, the domain itself doesn't matter. It could be "ten words long dot anything" and I likely wouldn't know the difference. 
 
 Putting on my future hat, my advice would be to find the TLD that *you're* most comfortable with and go with it. .COM, .IO, .LIMO—no matter what it is, if you commit to it, you'll probably be fine. 
+
+***
+
+Photo credit: [Jan Willem van Wessel](https://www.flickr.com/photos/stijlfoto/18974847222/in/photolist-uUK41j-6HLQcm-bvSMX6-6mYJDg-aAja77-4Qze8a-pS676-4rdKd2-3qRKWF-8M8NCJ-az8Xvt-cVGU-4hnENR-2Kx3Sk-JKL6s-2APAPe-5f3dQQ-5WmyyA-raDzoM-JKFcw-nBGwTX-5cJfyN-4Uy7Vn-5Q5F66-6MR8Lq-adazQA-9nNSP5-6mYJAt-oTt9c8-4qbcmN-mig52v-sWYA85-dcTeB-vozpP-rtnuB4-GbY6Y-dutmdM-4QDq8U-5Sqz9E-5Ukkoh-rg1UgP-dExGt-8BqeA2-sgKZs-5TZyJM-84UZ22-6tHL2w-6KkJLY-6mdgwq-6mdgCm)
