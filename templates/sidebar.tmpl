@@ -11,7 +11,7 @@
 <div class="iwmn-articles-nav">
 	<h5>Popular posts</h5>
 	<ul class="list-unstyled">
-		{{ $popular := "2015/06/the-guide-to-getting-your-own-custom-email-address.html 2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html 2014/06/yes-you-can-still-get-free-custom-email-addresses.html 2015/01/seo-penalties-of-moving-our-blog-to-a-subdomain.html 2014/10/the-grid.html 2014/04/microsoft-ends-free-custom-domain-email-here-are-five-alternatives.html 2013/05/io-domains-now-more-awesome.html 2014/01/why-alias-type-records-break-the-internet.html" }}
+		{{ $popular := "2015/06/the-guide-to-getting-your-own-custom-email-address.html 2014/05/the-updated-big-list-of-static-website-generators-for-your-site-blog-or-wiki.html 2015/06/the-guide-to-creating-a-professional-online-store.html 2015/01/seo-penalties-of-moving-our-blog-to-a-subdomain.html 2014/10/the-grid.html 2014/04/microsoft-ends-free-custom-domain-email-here-are-five-alternatives.html 2013/05/io-domains-now-more-awesome.html 2014/01/why-alias-type-records-break-the-internet.html" }}
 		{{ range $popular | split " " }}
 			{{ with $.Site.Pages.ByPath . }}
 				<li><a href="/{{ .Url }}">{{ .Title | html }}</a></li>
