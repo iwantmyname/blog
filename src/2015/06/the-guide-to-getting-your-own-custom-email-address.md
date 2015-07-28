@@ -91,6 +91,8 @@ After everyone has an individual account, be sure to create some general account
 
 ***
 
-Are we missing anything? If there's anything else you'd like us to clear up, [let us know](https://iwantmyname.com/support) (or [tweet us](https://twitter.com/iwantmyname)).
+## Questions? Comments?
 
-
++ [Leave a comment on Facebook](https://www.facebook.com/iwantmyname/photos/a.10150386689630471.607275.97823890470/10155762229425471/?type=1)
++ [Tweet us a reply](https://twitter.com/iwantmyname/status/619647239301001217)
++ [Send us a message](https://iwantmyname.com/support)
