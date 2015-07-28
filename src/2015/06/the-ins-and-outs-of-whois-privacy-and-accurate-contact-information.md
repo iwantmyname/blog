@@ -67,4 +67,8 @@ If there are special requirements, processes, or costs required for updating a d
 
 ***
 
-Of course, [we're always happy to answer any questions](https://iwantmyname.com/support) about WDRP notices, privacy, security, WHOIS, domain registrations, transfers, renewals, contact information, or whatever's on your mind. 
+## Questions? Comments?
+
++ [Leave a comment on Facebook](https://www.facebook.com/iwantmyname/posts/10155829966775471)
++ [Tweet us a reply](https://twitter.com/iwantmyname/status/611948096650616832)
++ [Send us a message](https://iwantmyname.com/support)
