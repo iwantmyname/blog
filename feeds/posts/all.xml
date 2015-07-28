@@ -3570,52 +3570,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>The December domain discounts—a holiday treat</title>
-				<description>&lt;p&gt;The final 2014 domain discounts are up, and this time we have 19 domain extensions set for sale. Many of the discounts are held over from last month, but we do have a holiday duo on the list. Both .christmas and .gift are on sale for $15.50/yr (from $49), so if you&amp;rsquo;re looking to start a last minute holiday gift guide, you picked the right time to do it.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;New This Month&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-christmas&#34;&gt;.christmas&lt;/a&gt; &amp;ndash; $15.50/yr (from $49.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-gift&#34;&gt;.gift&lt;/a&gt; &amp;ndash; $15.50/yr (from $49.00)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Continued from last month&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-black&#34;&gt;.black&lt;/a&gt; &amp;ndash; $9.90/yr (from $69.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-blue&#34;&gt;.blue&lt;/a&gt; &amp;ndash; $9.90/yr (from $19.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-co&#34;&gt;.co&lt;/a&gt; &amp;ndash; $15.50/yr (from $29.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-io&#34;&gt;.io&lt;/a&gt; &amp;ndash; $49.00/yr (from $59.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-me&#34;&gt;.me&lt;/a&gt; &amp;ndash; $19.90/yr (from $24.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-mobi&#34;&gt;.mobi&lt;/a&gt; &amp;ndash; $9.90/yr (from $24.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-ninja&#34;&gt;.ninja&lt;/a&gt; &amp;ndash; $15.50/yr (from $24.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-nu&#34;&gt;.nu&lt;/a&gt; &amp;ndash; $15.50/yr (from $39.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-pink&#34;&gt;.pink&lt;/a&gt; &amp;ndash; $9.90/yr (from $19.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-red&#34;&gt;.red&lt;/a&gt; &amp;ndash; $9.90/yr (from $19.90)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-reviews&#34;&gt;.reviews&lt;/a&gt; &amp;ndash; $19.00/yr (from $29.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-rocks&#34;&gt;.rocks&lt;/a&gt; &amp;ndash; $15.50/yr (from $19.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-sc&#34;&gt;.sc&lt;/a&gt; &amp;ndash; $99.00yr (from $119.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-se&#34;&gt;.se&lt;/a&gt; &amp;ndash; $19.00/yr (from $39.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-shiksha&#34;&gt;.shiksha&lt;/a&gt; &amp;ndash; $9.90/yr (from 19.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-social&#34;&gt;.social&lt;/a&gt; &amp;ndash; $22.50/yr (from $39.00)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-移动&#34;&gt;.移动&lt;/a&gt; &amp;ndash; $9.90/yr (from $19.90)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Don&amp;rsquo;t want to miss a deal? Be sure to check our &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;domain discounts page&lt;/a&gt; at the beginning of each month for the full list of what we have for sale.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 05 Dec 2014 09:23:24 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/12/the-december-domain-discounts.html</link>
-				
-				<guid isPermaLink="false">/2014/12/the-december-domain-discounts.html</guid>
-			</item>
-		
-			<item>
 				<title>Meet the domain extensions of December, including .Paris, .pizza, and .business</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -23641,57 +23595,131 @@ still available&lt;/strong&gt;!&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>We&#39;ve done it, you guys. We&#39;ve hired our third back-end developer.</title>
-				<description>&lt;p&gt;Meet Joel Pitt, the newest member of the iwantmyname team.&lt;/p&gt;
+				<title></title>
+				<description>&lt;p&gt;date: 2014-01-14 08:50:04 +1200
+author: Chris
+title: Price reduction for .CH and .LI&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/media/2014-02-04-Joel-costume.jpg&#34; alt=&#34;Joel Pitt&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;p&gt;Joel here is our newest backend developer, specifically tasked to make our user experience a bit more intelligent. From his mouth to the world, Joel &amp;ldquo;has a PhD in Ecoinformatics, an obsession with artificial intelligence and consciousness, and aims for the automation of tedious tasks to free up more time for the novel and fun things in life.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/2014-01-14-bigstock-Postage-Stamp-Liechtenstein----54694160-2.jpg&#34; alt=&#34;bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;!-- more --&gt;
+&lt;!-- excerpt --&gt;
 
-&lt;p&gt;Like &amp;ldquo;pondering and working on machine learning,&amp;rdquo; &amp;ldquo;efficient graph database technology,&amp;rdquo; and &amp;ldquo;building electronic art projects that explore the interaction between software and the physical world.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Oh, and he was also an electronic DJ, playing in clubs and festivals around New Zealand and abroad. And is currently learning to juggle, &amp;ldquo;just like the famous information theorist Claude Shannon.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;All in all, he&amp;rsquo;s just a (really really smart) fun guy to be around. So say hi. He&amp;rsquo;s on Twitter &lt;a href=&#34;https://twitter.com/ferrouswheel&#34;&gt;@ferrouswheel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: The amazing image above is from Kylee Bowater.&lt;/em&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</link>
-				
-				<guid isPermaLink="false">/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</guid>
-			</item>
-		
-			<item>
-				<title>Three tips for making the most of the new TLD pre-order period</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Even with hundreds of new Top-Level Domains (TLDs) coming out in the coming months, it&amp;rsquo;s inevitable that more than one person will want some specific domain names. For example, I&amp;rsquo;m fully aware that there will likely be a big rush to get christhedomain.doctor—but with these three tips, I&amp;rsquo;m ready for the launch, and hopefully you will be too.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s never fun to announce a price increase, but who doesn&amp;rsquo;t like a good price decrease? Well today we&amp;rsquo;re happy to announce a price reduction for two domains:&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
-&lt;h3&gt;Tip 1: Have a backup plan&lt;/h3&gt;
+&lt;h3&gt;Every word ends with .CH&lt;/h3&gt;
 
-&lt;p&gt;Even if you think your domain is entirely unique, have a backup plan. Especially if you&amp;rsquo;re depending on this domain for personal or professional branding.&lt;/p&gt;
+&lt;p&gt;Ok, that&amp;rsquo;s obviously an exaggeration, but if you&amp;rsquo;re looking for a solid domain hack, Switzerland&amp;rsquo;s .CH domain might be the best Top-Level Domain (TLD) out there. Just look at the &lt;a href=&#34;http://www.scrabblefinder.com/ends-with/ch/&#34;&gt;words that end in &amp;ldquo;ch&amp;rdquo; on the Scrabble Word Finder&lt;/a&gt; (possibly my favorite tool ever). Telestich. Resketch. Squelch. Or any variation of the word &amp;ldquo;Tech.&amp;rdquo; The possibilities are enormous. And now you can get one for &lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34;&gt;$24.90 USD&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Also keep in mind that many generic keywords are being sold for premium prices through the registries directly (such as .KIWI&amp;rsquo;s premium domain page, &lt;a href=&#34;https://dot-kiwi.com/premiumnames&#34;&gt;found here&lt;/a&gt;). With a little creativity though, you should easily be able to find a similar domain with minimal search loss.&lt;/p&gt;
+&lt;h3&gt;Liechtenstein is for .LIkers&lt;/h3&gt;
 
-&lt;h3&gt;Tip 2: Explore other &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-&#34;&gt;gTLDs&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;In the past, it was easy to feel trapped with a limited selection of domain extensions. Now though, if you can&amp;rsquo;t get your desired .PHOTO domain, you can just go with .PHOTOS, .PHOTOGRAPHY or .PICS. There are &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;plenty of domain extensions to choose from&lt;/a&gt;, so explore your options.&lt;/p&gt;
-
-&lt;h3&gt;Tip 3: Make sure you&amp;rsquo;re prepared&lt;/h3&gt;
-
-&lt;p&gt;If everything works out right and you get your domain, you&amp;rsquo;re going to need accurate account details. Please note that if you get a new card or something changes, change it in your iwantmyname account ASAP. Inaccurate details can prevent you from getting your domain.&lt;/p&gt;
+&lt;p&gt;Liechtenstein may be one of the smallest countries on the planet, but its also one of the most well-to-do. But the .LI domain isn&amp;rsquo;t just for the local economy&amp;mdash;it&amp;rsquo;s a great TLD for creative domains. Just look at brands like &lt;a href=&#34;http://paper.li&#34;&gt;paper.li&lt;/a&gt; and &lt;a href=&#34;http://flow.li&#34;&gt;Flowli&lt;/a&gt; to see its potential. And now you can get your own &lt;a href=&#34;https://iwantmyname.com/domains/li-liechtensteiner-domain-name-registration-for-liechtenstein&#34;&gt;.LI domain for only $24.90 USD&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</link>
+					<link>https://iwantmyname.com/blog/2014/01/price-reduction-for-ch-and-li.html</link>
 				
-				<guid isPermaLink="false">/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</guid>
+				<guid isPermaLink="false">/2014/01/price-reduction-for-ch-and-li.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;date: 2014-01-03 15:03:50 +1200
+author: Chris
+title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg&#34; alt=&#34;bigstock-Year---handwritten-on-the-s-47541919.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;!-- excerpt --&gt;
+
+&lt;p&gt;2014 is finally here, and with it comes a bundle of resolutions bound to be broken by Spring (I seriously don&amp;rsquo;t think my &amp;ldquo;cut down on dessert&amp;rdquo; thing will last very long).&lt;/p&gt;
+
+&lt;p&gt;But if your resolution is to start a new website, we&amp;rsquo;ve got your back. In addition to &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;continuing our sale&lt;/a&gt; on &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; ($49, $19.90 and $15.50 respectively), we have two additional extensions that might be perfect for what you&amp;rsquo;re looking for.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada&#34;&gt;.CA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; Canada. The &lt;a href=&#34;http://www.canadafreepress.com/index.php/article/25958&#34;&gt;most polite country&lt;/a&gt; on Earth, and perhaps the future birthplace of your next domain. .CA domains are fantastic for businesses and personal sites in Canada, and can make for great domain hacks if you&amp;rsquo;re feeling clever. Something like colderameri.CA or delicioustapio.CA might do the trick. Or perhaps you&amp;rsquo;re starting a fan club for the movie Casablan.CA? Either way, .CA domains are on sale this month for $15.50, down from $19.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/asia-domain-name-registration-for-asia&#34;&gt;.ASIA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; .ASIA is an interesting generic domain extension because it fully spells out a place. And with Asia already being one of the most popular search keywords on the web, having a .ASIA address might be your ticket to enhanced visibility. Grab yours this month for $15.50, down from $24.90.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And from all of us here at iwantmyname, we hope you had a wonderful New Year. Here&amp;rsquo;s to 2014 being the best year yet.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2014/01/happy-new-year-its-time-for-january-domain-sales.html</link>
+				
+				<guid isPermaLink="false">/2014/01/happy-new-year-its-time-for-january-domain-sales.html</guid>
+			</item>
+		
+			<item>
+				<title>7 new domain extensions are coming THIS WEEK</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;People of the internet, the new &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-&#34;&gt;gTLDs&lt;/a&gt; are finally coming. Not theoretically in a few months either—on &lt;strong&gt;February 5, 2014, 16:00:00 UTC&lt;/strong&gt;, people everywhere will be able to purchase these new TLDs just as they would a .COM domain.&lt;/p&gt;
+
+&lt;p&gt;The whole naming convention of the internet is changing, and you can be amongst the first early adopters with one of these domain extensions:&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-bike&#34;&gt;.BIKE&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-clothing&#34;&gt;.CLOTHING&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-guru&#34;&gt;.GURU&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-holdings&#34;&gt;.HOLDINGS&lt;/a&gt; for $69 USD / $79 NZD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-plumbing&#34;&gt;.PLUMBING&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-singles&#34;&gt;.SINGLES&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-ventures&#34;&gt;.VENTURES&lt;/a&gt; for $69 USD / $79 NZD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pre-orders are still open, so if there&amp;rsquo;s a specific domain you&amp;rsquo;re after, now would be the time to get it in. Once they are open for general availability, the more generic terms are going to go fast.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2014/02/7-new-domain-extensions-are-coming-this-week.html</link>
+				
+				<guid isPermaLink="false">/2014/02/7-new-domain-extensions-are-coming-this-week.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;date: 2013-12-23 07:00:00 +1200
+author: Paul
+title: 2013 A Year Of Domains&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2013-12-23-pohu.jpg&#34; alt=&#34;pohu.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Where did 2013 go? The year in which we celebrated our &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/happy-5th-birthday-iwantmyname.html&#34;&gt;5th birthday&lt;/a&gt; seems to have flown by at break-neck speed. Perhaps this is partly because we were gripped by astonishing world events both good and bad.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;On the one hand we were shocked by the &lt;a href=&#34;https://iwantmyname.com/blog/2013/11/philippines-disaster-help-if-you-can.html&#34;&gt;cyclone disaster&lt;/a&gt; that overtook the Philippines and galvanised nations into action throughout the Asia-Pacific region. On the other hand, we were excited by the bloom of &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/the-next-batch-of-gtlds-are-here-including-careers-photos-and-shoes.html&#34;&gt;new top level domains&lt;/a&gt; (gTLDs) that have finally been approved by internet governing body ICANN and for which we have begun to prepare.&lt;/p&gt;
+
+&lt;p&gt;It was also a year in which we increased our engagement in the local community through initiatives such as &lt;a href=&#34;http://wellington.startupweekend.org/2013/12/18/the-twelve-gifts-of-christmas-startup-weekend-edition/&#34;&gt;Startup Weekend&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/blog/2013/06/rails-girls-rally.html&#34;&gt;Rails Girls&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/kiwi-code-retreat----advancing-the-art-of-coding-software.html&#34;&gt;Kiwi Code Retreat&lt;/a&gt;. That involvement looks set to continue early in 2014 with &lt;a href=&#34;http://wellington.startupweekend.org/&#34;&gt;Wellington Startup Weekend&lt;/a&gt; and &lt;a href=&#34;https://drupalsouth2014.drupal.org.nz/&#34;&gt;Drupal South&lt;/a&gt; headlining in February.&lt;/p&gt;
+
+&lt;p&gt;Events in the Philippines led to us to bringing forward our long held plans to contribute a portion of our sales revenue to social causes. What more deserving beneficiary could there be in 2013? We &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html&#34;&gt;selected&lt;/a&gt; Save The Children&amp;rsquo;s Philippines fund to support.&lt;/p&gt;
+
+&lt;p&gt;The global economy also showed some signs of improvement this year and we responded by adding our first U.S. based employee &lt;a href=&#34;https://iwantmyname.com/blog/2013/09/chris-hall-is-a-writer.html&#34;&gt;Chris Hall&lt;/a&gt;. He&amp;rsquo;s being doing an outstanding job delivering high value web content that gets us noticed in the world. If you want to keep up with the latest in tech tips and updates on the domain name business, be sure to check out our &lt;a href=&#34;https://iwantmyname.com/blog/&#34;&gt;international blog&lt;/a&gt; channel. It seems our promotional efforts and rising international reputation did not go unnoticed &amp;ndash; in 2013 we even got a &lt;a href=&#34;http://www.nytimes.com/2013/09/05/technology/personaltech/planting-your-flag-on-a-patch-of-the-web.html&#34;&gt;nice mention in the New York Times&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the home front, the New Zealand registry began marketing the &lt;a href=&#34;https://iwantmyname.com/domains/dot-nz&#34;&gt;new .nz domain&lt;/a&gt; after a hurry up from &lt;a href=&#34;https://iwantmyname.com/blog/2013/06/kiwi-domain-ready-to-fly.html&#34;&gt;.kiwi&lt;/a&gt; which got the nod from ICANN earlier in the year. We are expecting 2014 to be just as busy with more gTLDs in the pipeline plus more development to make iwantmyname even better.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Best wishes from &lt;a href=&#34;https://iwantmyname.co.nz/about&#34;&gt;the iwantmyname crew&lt;/a&gt;, thanks for supporting us this year and have a safe and happy Christmas.&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2013/12/2013-a-year-of-domains.html</link>
+				
+				<guid isPermaLink="false">/2013/12/2013-a-year-of-domains.html</guid>
 			</item>
 		
 			<item>
@@ -23787,131 +23815,57 @@ still available&lt;/strong&gt;!&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>7 new domain extensions are coming THIS WEEK</title>
+				<title>Three tips for making the most of the new TLD pre-order period</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;People of the internet, the new &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-&#34;&gt;gTLDs&lt;/a&gt; are finally coming. Not theoretically in a few months either—on &lt;strong&gt;February 5, 2014, 16:00:00 UTC&lt;/strong&gt;, people everywhere will be able to purchase these new TLDs just as they would a .COM domain.&lt;/p&gt;
-
-&lt;p&gt;The whole naming convention of the internet is changing, and you can be amongst the first early adopters with one of these domain extensions:&lt;/p&gt;
+&lt;p&gt;Even with hundreds of new Top-Level Domains (TLDs) coming out in the coming months, it&amp;rsquo;s inevitable that more than one person will want some specific domain names. For example, I&amp;rsquo;m fully aware that there will likely be a big rush to get christhedomain.doctor—but with these three tips, I&amp;rsquo;m ready for the launch, and hopefully you will be too.&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-bike&#34;&gt;.BIKE&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-clothing&#34;&gt;.CLOTHING&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-guru&#34;&gt;.GURU&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-holdings&#34;&gt;.HOLDINGS&lt;/a&gt; for $69 USD / $79 NZD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-plumbing&#34;&gt;.PLUMBING&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-singles&#34;&gt;.SINGLES&lt;/a&gt; for $39 USD / $49 NZD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-ventures&#34;&gt;.VENTURES&lt;/a&gt; for $69 USD / $79 NZD&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3&gt;Tip 1: Have a backup plan&lt;/h3&gt;
 
-&lt;p&gt;Pre-orders are still open, so if there&amp;rsquo;s a specific domain you&amp;rsquo;re after, now would be the time to get it in. Once they are open for general availability, the more generic terms are going to go fast.&lt;/p&gt;
+&lt;p&gt;Even if you think your domain is entirely unique, have a backup plan. Especially if you&amp;rsquo;re depending on this domain for personal or professional branding.&lt;/p&gt;
+
+&lt;p&gt;Also keep in mind that many generic keywords are being sold for premium prices through the registries directly (such as .KIWI&amp;rsquo;s premium domain page, &lt;a href=&#34;https://dot-kiwi.com/premiumnames&#34;&gt;found here&lt;/a&gt;). With a little creativity though, you should easily be able to find a similar domain with minimal search loss.&lt;/p&gt;
+
+&lt;h3&gt;Tip 2: Explore other &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1425299-what-is-a-gtld-&#34;&gt;gTLDs&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;In the past, it was easy to feel trapped with a limited selection of domain extensions. Now though, if you can&amp;rsquo;t get your desired .PHOTO domain, you can just go with .PHOTOS, .PHOTOGRAPHY or .PICS. There are &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;plenty of domain extensions to choose from&lt;/a&gt;, so explore your options.&lt;/p&gt;
+
+&lt;h3&gt;Tip 3: Make sure you&amp;rsquo;re prepared&lt;/h3&gt;
+
+&lt;p&gt;If everything works out right and you get your domain, you&amp;rsquo;re going to need accurate account details. Please note that if you get a new card or something changes, change it in your iwantmyname account ASAP. Inaccurate details can prevent you from getting your domain.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2014/02/7-new-domain-extensions-are-coming-this-week.html</link>
+					<link>https://iwantmyname.com/blog/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</link>
 				
-				<guid isPermaLink="false">/2014/02/7-new-domain-extensions-are-coming-this-week.html</guid>
+				<guid isPermaLink="false">/2014/02/three-tips-for-making-the-most-of-the-new-tld-preorder-period.html</guid>
 			</item>
 		
 			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2014-01-14 08:50:04 +1200
-author: Chris
-title: Price reduction for .CH and .LI&lt;/p&gt;
+				<title>We&#39;ve done it, you guys. We&#39;ve hired our third back-end developer.</title>
+				<description>&lt;p&gt;Meet Joel Pitt, the newest member of the iwantmyname team.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;p&gt;&lt;img src=&#34;/media/2014-02-04-Joel-costume.jpg&#34; alt=&#34;Joel Pitt&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/media/2014-01-14-bigstock-Postage-Stamp-Liechtenstein----54694160-2.jpg&#34; alt=&#34;bigstock-Postage-Stamp-Liechtenstein---54694160-2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Joel here is our newest backend developer, specifically tasked to make our user experience a bit more intelligent. From his mouth to the world, Joel &amp;ldquo;has a PhD in Ecoinformatics, an obsession with artificial intelligence and consciousness, and aims for the automation of tedious tasks to free up more time for the novel and fun things in life.&amp;rdquo;&lt;/p&gt;
 
-&lt;!-- excerpt --&gt;
+&lt;!-- more --&gt;
 
-&lt;p&gt;It&amp;rsquo;s never fun to announce a price increase, but who doesn&amp;rsquo;t like a good price decrease? Well today we&amp;rsquo;re happy to announce a price reduction for two domains:&lt;/p&gt;
+&lt;p&gt;Like &amp;ldquo;pondering and working on machine learning,&amp;rdquo; &amp;ldquo;efficient graph database technology,&amp;rdquo; and &amp;ldquo;building electronic art projects that explore the interaction between software and the physical world.&amp;rdquo;&lt;/p&gt;
 
-&lt;!-- /excerpt --&gt;
+&lt;p&gt;Oh, and he was also an electronic DJ, playing in clubs and festivals around New Zealand and abroad. And is currently learning to juggle, &amp;ldquo;just like the famous information theorist Claude Shannon.&amp;rdquo;&lt;/p&gt;
 
-&lt;h3&gt;Every word ends with .CH&lt;/h3&gt;
+&lt;p&gt;All in all, he&amp;rsquo;s just a (really really smart) fun guy to be around. So say hi. He&amp;rsquo;s on Twitter &lt;a href=&#34;https://twitter.com/ferrouswheel&#34;&gt;@ferrouswheel&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Ok, that&amp;rsquo;s obviously an exaggeration, but if you&amp;rsquo;re looking for a solid domain hack, Switzerland&amp;rsquo;s .CH domain might be the best Top-Level Domain (TLD) out there. Just look at the &lt;a href=&#34;http://www.scrabblefinder.com/ends-with/ch/&#34;&gt;words that end in &amp;ldquo;ch&amp;rdquo; on the Scrabble Word Finder&lt;/a&gt; (possibly my favorite tool ever). Telestich. Resketch. Squelch. Or any variation of the word &amp;ldquo;Tech.&amp;rdquo; The possibilities are enormous. And now you can get one for &lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34;&gt;$24.90 USD&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Liechtenstein is for .LIkers&lt;/h3&gt;
-
-&lt;p&gt;Liechtenstein may be one of the smallest countries on the planet, but its also one of the most well-to-do. But the .LI domain isn&amp;rsquo;t just for the local economy&amp;mdash;it&amp;rsquo;s a great TLD for creative domains. Just look at brands like &lt;a href=&#34;http://paper.li&#34;&gt;paper.li&lt;/a&gt; and &lt;a href=&#34;http://flow.li&#34;&gt;Flowli&lt;/a&gt; to see its potential. And now you can get your own &lt;a href=&#34;https://iwantmyname.com/domains/li-liechtensteiner-domain-name-registration-for-liechtenstein&#34;&gt;.LI domain for only $24.90 USD&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: The amazing image above is from Kylee Bowater.&lt;/em&gt;&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2014/01/price-reduction-for-ch-and-li.html</link>
+					<link>https://iwantmyname.com/blog/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</link>
 				
-				<guid isPermaLink="false">/2014/01/price-reduction-for-ch-and-li.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2014-01-03 15:03:50 +1200
-author: Chris
-title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg&#34; alt=&#34;bigstock-Year---handwritten-on-the-s-47541919.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;2014 is finally here, and with it comes a bundle of resolutions bound to be broken by Spring (I seriously don&amp;rsquo;t think my &amp;ldquo;cut down on dessert&amp;rdquo; thing will last very long).&lt;/p&gt;
-
-&lt;p&gt;But if your resolution is to start a new website, we&amp;rsquo;ve got your back. In addition to &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;continuing our sale&lt;/a&gt; on &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; ($49, $19.90 and $15.50 respectively), we have two additional extensions that might be perfect for what you&amp;rsquo;re looking for.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada&#34;&gt;.CA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; Canada. The &lt;a href=&#34;http://www.canadafreepress.com/index.php/article/25958&#34;&gt;most polite country&lt;/a&gt; on Earth, and perhaps the future birthplace of your next domain. .CA domains are fantastic for businesses and personal sites in Canada, and can make for great domain hacks if you&amp;rsquo;re feeling clever. Something like colderameri.CA or delicioustapio.CA might do the trick. Or perhaps you&amp;rsquo;re starting a fan club for the movie Casablan.CA? Either way, .CA domains are on sale this month for $15.50, down from $19.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/asia-domain-name-registration-for-asia&#34;&gt;.ASIA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; .ASIA is an interesting generic domain extension because it fully spells out a place. And with Asia already being one of the most popular search keywords on the web, having a .ASIA address might be your ticket to enhanced visibility. Grab yours this month for $15.50, down from $24.90.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And from all of us here at iwantmyname, we hope you had a wonderful New Year. Here&amp;rsquo;s to 2014 being the best year yet.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/01/happy-new-year-its-time-for-january-domain-sales.html</link>
-				
-				<guid isPermaLink="false">/2014/01/happy-new-year-its-time-for-january-domain-sales.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2013-12-23 07:00:00 +1200
-author: Paul
-title: 2013 A Year Of Domains&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-12-23-pohu.jpg&#34; alt=&#34;pohu.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Where did 2013 go? The year in which we celebrated our &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/happy-5th-birthday-iwantmyname.html&#34;&gt;5th birthday&lt;/a&gt; seems to have flown by at break-neck speed. Perhaps this is partly because we were gripped by astonishing world events both good and bad.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;On the one hand we were shocked by the &lt;a href=&#34;https://iwantmyname.com/blog/2013/11/philippines-disaster-help-if-you-can.html&#34;&gt;cyclone disaster&lt;/a&gt; that overtook the Philippines and galvanised nations into action throughout the Asia-Pacific region. On the other hand, we were excited by the bloom of &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/the-next-batch-of-gtlds-are-here-including-careers-photos-and-shoes.html&#34;&gt;new top level domains&lt;/a&gt; (gTLDs) that have finally been approved by internet governing body ICANN and for which we have begun to prepare.&lt;/p&gt;
-
-&lt;p&gt;It was also a year in which we increased our engagement in the local community through initiatives such as &lt;a href=&#34;http://wellington.startupweekend.org/2013/12/18/the-twelve-gifts-of-christmas-startup-weekend-edition/&#34;&gt;Startup Weekend&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/blog/2013/06/rails-girls-rally.html&#34;&gt;Rails Girls&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/kiwi-code-retreat----advancing-the-art-of-coding-software.html&#34;&gt;Kiwi Code Retreat&lt;/a&gt;. That involvement looks set to continue early in 2014 with &lt;a href=&#34;http://wellington.startupweekend.org/&#34;&gt;Wellington Startup Weekend&lt;/a&gt; and &lt;a href=&#34;https://drupalsouth2014.drupal.org.nz/&#34;&gt;Drupal South&lt;/a&gt; headlining in February.&lt;/p&gt;
-
-&lt;p&gt;Events in the Philippines led to us to bringing forward our long held plans to contribute a portion of our sales revenue to social causes. What more deserving beneficiary could there be in 2013? We &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html&#34;&gt;selected&lt;/a&gt; Save The Children&amp;rsquo;s Philippines fund to support.&lt;/p&gt;
-
-&lt;p&gt;The global economy also showed some signs of improvement this year and we responded by adding our first U.S. based employee &lt;a href=&#34;https://iwantmyname.com/blog/2013/09/chris-hall-is-a-writer.html&#34;&gt;Chris Hall&lt;/a&gt;. He&amp;rsquo;s being doing an outstanding job delivering high value web content that gets us noticed in the world. If you want to keep up with the latest in tech tips and updates on the domain name business, be sure to check out our &lt;a href=&#34;https://iwantmyname.com/blog/&#34;&gt;international blog&lt;/a&gt; channel. It seems our promotional efforts and rising international reputation did not go unnoticed &amp;ndash; in 2013 we even got a &lt;a href=&#34;http://www.nytimes.com/2013/09/05/technology/personaltech/planting-your-flag-on-a-patch-of-the-web.html&#34;&gt;nice mention in the New York Times&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;On the home front, the New Zealand registry began marketing the &lt;a href=&#34;https://iwantmyname.com/domains/dot-nz&#34;&gt;new .nz domain&lt;/a&gt; after a hurry up from &lt;a href=&#34;https://iwantmyname.com/blog/2013/06/kiwi-domain-ready-to-fly.html&#34;&gt;.kiwi&lt;/a&gt; which got the nod from ICANN earlier in the year. We are expecting 2014 to be just as busy with more gTLDs in the pipeline plus more development to make iwantmyname even better.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Best wishes from &lt;a href=&#34;https://iwantmyname.co.nz/about&#34;&gt;the iwantmyname crew&lt;/a&gt;, thanks for supporting us this year and have a safe and happy Christmas.&lt;/strong&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/12/2013-a-year-of-domains.html</link>
-				
-				<guid isPermaLink="false">/2013/12/2013-a-year-of-domains.html</guid>
+				<guid isPermaLink="false">/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</guid>
 			</item>
 		
 			<item>
