@@ -129,3 +129,11 @@ Before we wrap this up, there are a few things we want you to remember (this is 
 2. Even if you've set everything up perfectly, sometimes it takes time for things to work their way through the internet (and nothing can speed it up). Patience is key.
 3. If you need help, [just send us a message](https://iwantmyname.com/support). We'll definitely be able to help you out.
 4. And most of all, have fun with your new domain!
+
+***
+
+## Questions? Comments?
+
++ [Say something on Facebook](https://www.facebook.com/iwantmyname/photos/a.10150386689630471.607275.97823890470/10155707575875471/?type=1&theater)
++ [Tweet us a reply](https://twitter.com/iwantmyname/status/614495416877477888)
++ [Send us a message](https://iwantmyname.com/support)
