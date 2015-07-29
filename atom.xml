@@ -20,8 +20,9 @@
 &lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Beware spam indicators&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Local ccTLDs and gTLDs can be good for business&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;.IO and the TLDs for tech&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Is it ok to use a new gTLD?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-6&#34;&gt;Does your TLD really matter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Are some TLDs better for reaching an international audience?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-6&#34;&gt;Is it ok to use a new gTLD?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-7&#34;&gt;Does your TLD really matter?&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr&gt;
@@ -105,7 +106,27 @@
 
 &lt;p&gt;But with all the new gTLDs available today, startups and tech sites have more options than ever. .SOFTWARE, .TECHNOLOGY, .DIGITAL, .CODES, .CONSULTING, .BUILD—the list goes on and on and on. And my guess is that, like the rise of .LY and .IO, it&amp;rsquo;s only going to take a few big startups to start using the new gTLDs to get the whole train moving.&lt;/p&gt;
 
-&lt;h2 id=&#34;section-5&#34;&gt;Is it ok to use a new gTLD?&lt;/h2&gt;
+&lt;h2 id=&#34;section-5&#34;&gt;Are some TLDs better for reaching an international audience?&lt;/h2&gt;
+
+&lt;p&gt;If you’re in the process of starting a new website and want to go with a shorter domain extension than any of the new gTLDs (or .COM), there are a few nice options. As stated above, Google treats .ad, .as, .bz, .cc, .cd, .co, .dj, .fm, .io, .la, .me, .ms, .nu, .sc, .sr, .su, .tv, .tk, .ws, and .eu as generic, meaning you can &lt;a href=&#34;https://support.google.com/webmasters/answer/1347922?hl=en&#34;&gt;set a geographic target through Google Webmaster Tools&lt;/a&gt;, e.g. use a .co domain and be listed in search results in the United States, Canada or France although it is actually Colombia’s top-level domain. The same is true if you don’t want to target a specific country, i.e. have a .me domain for your personal online profile.&lt;/p&gt;
+
+&lt;p&gt;But which ones of these so-called gccTLDs (generic country code top-level domains) are the most popular and more likely to be recognized by visitors?Let’s take a look at Verisign’s &lt;a href=&#34;http://www.verisigninc.com/assets/domain-name-report-march2015.pdf&#34;&gt;latest domain industry brief&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-04-21-gcctld-chart.png&#34; alt=&#34;verisign graph&#34;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Some ccTLDs, including .tk, .co, .me and .tv are frequently used by registrants and treated by search engines as gTLDs. This chart ranks the zone size of both gTLDs and ccTLDs marketed as gTLDs, as of Dec. 31, 2014, with that classification taken into account. The top 10 largest gTLDs and ccTLDs marketed as gTLDs by zone size were .com, .tk, .net, .org, .info, .biz, .co, .mobi, .me and .tv, as of Dec. 31, 2014, which account for 180.6 million domain name registrations, or 62.8 percent of the total global domain name registrations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So we have &lt;a href=&#34;https://iwantmyname.com/domains/tk-tokelauan-domain-name-registration-for-tokelau&#34;&gt;.TK&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu&#34;&gt;.TV&lt;/a&gt; as the most popular gccTLDs in that list. Not surprising, except .TK, which offers free domains—but with certain usage restrictions.&lt;/p&gt;
+
+&lt;p&gt;Other popular ones you may have seen are &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt; for tech sites (which is &lt;a href=&#34;http://hack.ly/articles/the-most-popular-dot-io-domains-2015/&#34;&gt;still on the rise&lt;/a&gt;), &lt;a href=&#34;https://iwantmyname.com/domains/fm-domain-name-registration-for-federated-states-of-micronesia&#34;&gt;.FM&lt;/a&gt; for music websites, &lt;a href=&#34;https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands&#34;&gt;.CC&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/ws-samoan-domain-name-registration-for-western-samoa&#34;&gt;.WS&lt;/a&gt; for general use, as well as &lt;a href=&#34;https://iwantmyname.com/domains/nu-domain-name-registration-for-niue&#34;&gt;.NU&lt;/a&gt; (popular in Scandinavian countries).&lt;/p&gt;
+
+&lt;p&gt;Lesser known gccTLDs, but often registered for &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html&#34;&gt;domain hacks&lt;/a&gt; because they don’t require any special documentation or local address in the country, are the &lt;a href=&#34;https://iwantmyname.com/domains/la-lao-domain-name-registration-for-laos&#34;&gt;.LA&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat&#34;&gt;.MS&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat&#34;&gt;.SC&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/as-samoan-domain-name-registration-for-american-samoa&#34;&gt;.AS&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/bz-belizean-domain-name-registration-for-belize&#34;&gt;.BZ&lt;/a&gt; suffixes.&lt;/p&gt;
+
+&lt;p&gt;That leaves us with the remaining geo-targetable domain extensions from Google’s list: .AD, .CD, .DJ, .SR, and .SU. Unfortunately, we don&amp;rsquo;t carry these domains because they&amp;rsquo;re not easy to purchase and maintain, so you&amp;rsquo;d have to choose another registrar (our friends at &lt;a href=&#34;https://domainr.com&#34;&gt;Domainr&lt;/a&gt; may be able to help with that.)&lt;/p&gt;
+
+&lt;h2 id=&#34;section-6&#34;&gt;Is it ok to use a new gTLD?&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2015-07-23-pizza-menu.jpg&#34; alt=&#34;pizza menu&#34;&gt;&lt;/p&gt;
 
@@ -133,7 +154,7 @@
 
 &lt;p&gt;In addition to providing endless new namespaces for people to register short, memorable domain names, the new gTLDs act as a natural category structure for the web. In a perfect world where people like myself didn&amp;rsquo;t register .PIZZA domains for everything, you could theoretically know what the site you&amp;rsquo;re about to click on is all about, just from its TLD. And that&amp;rsquo;s cool.&lt;/p&gt;
 
-&lt;h2 id=&#34;section-6&#34;&gt;Does your TLD really matter?&lt;/h2&gt;
+&lt;h2 id=&#34;section-7&#34;&gt;Does your TLD really matter?&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2015-07-23-telescope.jpg&#34; alt=&#34;discovery&#34;&gt;&lt;/p&gt;
 
