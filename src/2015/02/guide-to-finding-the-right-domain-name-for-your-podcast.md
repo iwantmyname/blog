@@ -13,7 +13,13 @@ But one thing that trips up many budding podcasters is the domain name. For the 
 
 <!-- /excerpt -->
 
-## General naming tips
+1. [General naming tips](#section-1)
+2. [Domain extensions from iTunes' US top-50 podcasts](#section-2)
+3. [Alternative domain extensions for podcast websites](#section-3)
+
+***
+
+<h2 id="section-1">General naming tips</h2>
 
 Before we get into top-level domains (TLDs), let's dive into some basic naming tips for your podcast. Here are a few rules to live by:
 
@@ -22,7 +28,7 @@ Before we get into top-level domains (TLDs), let's dive into some basic naming t
 + If your show begins with "The", it may be wise to get two domains—one with "the" and one without. For example, if your show is The Domain Podcast, try registering thedomainpodcast.com and domainpodcast.com.
 + Non-letter characters like dashes and numbers are fairly rare online, and may confuse people trying to find your show. Only use them when it's absolutely necessary.
 
-## Domain extensions from iTunes' US top-50 podcasts
+<h2 id="section-2">Domain extensions from iTunes' US top-50 podcasts</h2>
 
 (Excluding shows that don't have their own sites due to being on larger networks, like Invisibilia with http://www.npr.org/programs/invisibilia/.)
 
@@ -36,7 +42,7 @@ What's interesting about podcasts is that although they're seen as a fairly new 
 
 But like the rest of the internet, good names in these domain extensions are increasingly hard to come by. If you're looking for some alternative domain extensions, here are some suggestions.
 
-## Alternative domain extensions for podcast websites
+<h2 id="section-3">Alternative domain extensions for podcast websites</h2>
 
 + [.audio](https://iwantmyname.com/domains/dot-audio)
 + [.community](https://iwantmyname.com/domains/dot-community)
