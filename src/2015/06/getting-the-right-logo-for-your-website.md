@@ -117,3 +117,10 @@ Be brave! Make a decision and stick with it (for a while at least)! And don't st
 
 Photo Credit: [Moyan Brenn](https://www.flickr.com/photos/aigle_dore/15571348667/in/photolist-pHZesK-pqEpUA-fbtGAq-57hwtU-e1atUj-9HeEG1-5ZxBBk-4KsQZJ-afqUA1-64r9rw-62aLAo-nWqNAd-qWKJwT-oNr5C4-pjK1Pf-nstRuW-fQBPgF-9CfAMG-dFrmSH-fQBPDX-edNyn6-5FAZV1-pzEpxi-5cDH6m-5FGJ8f-dueG6A-pKYCMQ-65XyQo-oTt8V4-ro93KE-bY1jeu-sK6UwR-4uMY9A-tWgBEX-nGxzS5-sAKya-3VSowq-btWTZw-sxT4GN-5h79hL-qUEAKo-nAYe45-ag1bk5-eqaVH-rL4rPg-tPbdAE-qfd5eq-rBZRPv-dUj3nX-inPvir)
 
+***
+
+## Questions? Comments?
+
++ [Say something on Facebook](https://www.facebook.com/iwantmyname/posts/10155832894440471)
++ [Tweet us a reply](https://twitter.com/iwantmyname/status/618115015602765824)
++ [Send us a message](https://iwantmyname.com/support)
