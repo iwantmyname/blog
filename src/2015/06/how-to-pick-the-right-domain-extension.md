@@ -16,8 +16,9 @@ Before you spontaneously combust, let's go through your options and add some not
 2. [Beware spam indicators](#section-2)
 3. [Local ccTLDs and gTLDs can be good for business](#section-3)
 4. [.IO and the TLDs for tech](#section-4)
-5. [Is it ok to use a new gTLD?](#section-5)
-6. [Does your TLD really matter?](#section-6)
+5. [Are some TLDs better for reaching an international audience?](#section-5)
+6. [Is it ok to use a new gTLD?](#section-6)
+7. [Does your TLD really matter?](#section-7)
 
 ***
 
@@ -92,7 +93,25 @@ Also going for .IO was the fact that it's on the list of ccTLDs Google treats as
 
 But with all the new gTLDs available today, startups and tech sites have more options than ever. .SOFTWARE, .TECHNOLOGY, .DIGITAL, .CODES, .CONSULTING, .BUILD—the list goes on and on and on. And my guess is that, like the rise of .LY and .IO, it's only going to take a few big startups to start using the new gTLDs to get the whole train moving. 
 
-<h2 id="section-5">Is it ok to use a new gTLD?</h2>
+<h2 id="section-5">Are some TLDs better for reaching an international audience?</h2>
+
+If you’re in the process of starting a new website and want to go with a shorter domain extension than any of the new gTLDs (or .COM), there are a few nice options. As stated above, Google treats .ad, .as, .bz, .cc, .cd, .co, .dj, .fm, .io, .la, .me, .ms, .nu, .sc, .sr, .su, .tv, .tk, .ws, and .eu as generic, meaning you can [set a geographic target through Google Webmaster Tools](https://support.google.com/webmasters/answer/1347922?hl=en), e.g. use a .co domain and be listed in search results in the United States, Canada or France although it is actually Colombia’s top-level domain. The same is true if you don’t want to target a specific country, i.e. have a .me domain for your personal online profile.
+
+But which ones of these so-called gccTLDs (generic country code top-level domains) are the most popular and more likely to be recognized by visitors?Let’s take a look at Verisign’s [latest domain industry brief](http://www.verisigninc.com/assets/domain-name-report-march2015.pdf):
+
+![verisign graph](/media/2015-04-21-gcctld-chart.png)
+
+> Some ccTLDs, including .tk, .co, .me and .tv are frequently used by registrants and treated by search engines as gTLDs. This chart ranks the zone size of both gTLDs and ccTLDs marketed as gTLDs, as of Dec. 31, 2014, with that classification taken into account. The top 10 largest gTLDs and ccTLDs marketed as gTLDs by zone size were .com, .tk, .net, .org, .info, .biz, .co, .mobi, .me and .tv, as of Dec. 31, 2014, which account for 180.6 million domain name registrations, or 62.8 percent of the total global domain name registrations.
+
+So we have [.TK](https://iwantmyname.com/domains/tk-tokelauan-domain-name-registration-for-tokelau), [.CO](https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia), [.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro), and [.TV](https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu) as the most popular gccTLDs in that list. Not surprising, except .TK, which offers free domains—but with certain usage restrictions.
+
+Other popular ones you may have seen are [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) for tech sites (which is [still on the rise](http://hack.ly/articles/the-most-popular-dot-io-domains-2015/)), [.FM](https://iwantmyname.com/domains/fm-domain-name-registration-for-federated-states-of-micronesia) for music websites, [.CC](https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands), and [.WS](https://iwantmyname.com/domains/ws-samoan-domain-name-registration-for-western-samoa) for general use, as well as [.NU](https://iwantmyname.com/domains/nu-domain-name-registration-for-niue) (popular in Scandinavian countries).
+
+Lesser known gccTLDs, but often registered for [domain hacks](https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html) because they don’t require any special documentation or local address in the country, are the [.LA](https://iwantmyname.com/domains/la-lao-domain-name-registration-for-laos), [.MS](https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat), [.SC](https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat), [.AS](https://iwantmyname.com/domains/as-samoan-domain-name-registration-for-american-samoa), and [.BZ](https://iwantmyname.com/domains/bz-belizean-domain-name-registration-for-belize) suffixes.
+
+That leaves us with the remaining geo-targetable domain extensions from Google’s list: .AD, .CD, .DJ, .SR, and .SU. Unfortunately, we don't carry these domains because they're not easy to purchase and maintain, so you'd have to choose another registrar (our friends at [Domainr](https://domainr.com) may be able to help with that.)
+
+<h2 id="section-6">Is it ok to use a new gTLD?</h2>
 
 ![pizza menu](/media/2015-07-23-pizza-menu.jpg)
 
@@ -116,7 +135,7 @@ So aside from being potentially confusing and not providing any sort of built-in
 
 In addition to providing endless new namespaces for people to register short, memorable domain names, the new gTLDs act as a natural category structure for the web. In a perfect world where people like myself didn't register .PIZZA domains for everything, you could theoretically know what the site you're about to click on is all about, just from its TLD. And that's cool.
 
-<h2 id="section-6">Does your TLD really matter?</h2>
+<h2 id="section-7">Does your TLD really matter?</h2>
 
 ![discovery](/media/2015-07-23-telescope.jpg)
 
