@@ -75,3 +75,11 @@ Also, don't be afraid to use descriptive extensions for your brand. Here are som
 The new generic top-level domains (gTLDs) open up such a huge world of naming options for everyone. If you find one you like, use it! Just remember that podcast discovery is unlike typical website discovery. If your show is good, fans will probably find your podcast on platforms like iTunes or Stitcher first, then attempt to find your website later after hearing a few episodes. Given that discovery path, your biggest concern should be how sticky your domain sounds when you inevitably say it at the end of each episode. Before you register a domain, say it out loud to a few of your friends—if it sounds awkward, long, or tricky to spell, you're probably going to lose traffic. 
 
 And if you ever get stuck, try a [.pizza](https://iwantmyname.com/domains/dot-pizza) domain. Nine out of ten scientists agree that it's impossible to forget domains that end in .pizza.
+
+***
+
+## Questions? Comments?
+
++ [Say something on Facebook](https://www.facebook.com/iwantmyname/photos/a.10150386689630471.607275.97823890470/10155834148470471/?type=1&theater)
++ [Tweet us a reply](https://twitter.com/iwantmyname/status/568925856460103680)
++ [Send us a message](https://iwantmyname.com/support)
