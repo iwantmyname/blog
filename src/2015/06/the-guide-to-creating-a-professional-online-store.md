@@ -110,3 +110,11 @@ The paradox of choice struggle is real. In all reality, there's probably not a w
 + ease-of-use (free trials are your friend)
 + trajectory (pick a platform that's thriving... ideally the one you choose will grow with you throughout your brand's existence)
 + features (things like shipping tools, inventory trackers, and reporting systems will save you a lot of time as you grow)
+
+***
+
+## Questions? Comments?
+
++ [Say something on Facebook](https://www.facebook.com/iwantmyname/posts/10155817740355471)
++ [Tweet us a reply](https://twitter.com/iwantmyname/status/623646414980128769)
++ [Send us a message](https://iwantmyname.com/support)
