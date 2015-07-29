@@ -1906,283 +1906,6 @@ great, we&amp;rsquo;ve dug a bit deeper to help out our neighbours in their time
 			</item>
 		
 			<item>
-				<title>A big WHOIS privacy update</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-02-17-superhero.jpg&#34; alt=&#34;Superhero&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Privacy is rightly a huge concern for many people, and we&amp;rsquo;re actively updating our platform to keep as much of your information off the Internet as we can. On the domain front, one of the easiest ways to keep your identity hidden is to use a WHOIS privacy service, which basically eliminates your domain registration information (name, address, phone number, etc.) from the WHOIS record altogether.&lt;/p&gt;
-
-&lt;p&gt;In the past, we&amp;rsquo;ve used our own WHOIS privacy service, which masked phone numbers and addresses, but still left names and email addresses in the WHOIS public record. For many, this worked fine, but we&amp;rsquo;ve received a number of requests for a more robust solution.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;With the new WHOIS privacy in place, all personal information, including names and email addresses, will now be masked. With the service turned on, you are still the legal owner (registrant) of the domain name, and have full control should you wish to update the registrant details, change the owner, or transfer it to another registrar, but a WHOIS lookup will show none of your personal information.&lt;/p&gt;
-
-&lt;p&gt;Please note that WHOIS privacy is &lt;em&gt;not&lt;/em&gt; added to domains automatically (it&amp;rsquo;s entirely optional), but you can add the service (for free) from your domain&amp;rsquo;s WHOIS update page under &lt;strong&gt;Domains &amp;gt; yourdomain.com &amp;gt; Domain owner &amp;gt; enable privacy.&lt;/strong&gt; If you currently have our old WHOIS privacy service in place, you can update to the new full masking service by clicking &lt;strong&gt;disable privacy&lt;/strong&gt; in your dashboard to remove the old service, let the page refresh, then click &lt;strong&gt;enable privacy&lt;/strong&gt; to add the new WHO privacy service.&lt;/p&gt;
-
-&lt;p&gt;Also note that WHOIS privacy isn&amp;rsquo;t available for all domain extensions (WHOIS privacy availability is determined by the individual registries). Currently, you can use it with the following extensions (this list is constantly growing as we add new generic top-level domains (gTLDs), so please refer to our knowledge base for the &lt;a href=&#34;https://help.iwantmyname.com/customer/portal/articles/184425-do-you-offer-a-whois-privacy-service-&#34;&gt;updated list&lt;/a&gt;):&lt;/p&gt;
-
-&lt;ul class=&#34;list-inline&#34;&gt;
-    &lt;li&gt;.ac&lt;/li&gt;
-    &lt;li&gt;.academy&lt;/li&gt;
-    &lt;li&gt;.accountants&lt;/li&gt;
-    &lt;li&gt;.actor&lt;/li&gt;
-    &lt;li&gt;.ae.org&lt;/li&gt;
-    &lt;li&gt;.ag&lt;/li&gt;
-    &lt;li&gt;.agency&lt;/li&gt;
-    &lt;li&gt;.ar.com&lt;/li&gt;
-    &lt;li&gt;.associates&lt;/li&gt;
-    &lt;li&gt;.auction&lt;/li&gt;
-    &lt;li&gt;.band&lt;/li&gt;
-    &lt;li&gt;.bar&lt;/li&gt;
-    &lt;li&gt;.bargains&lt;/li&gt;
-    &lt;li&gt;.bayern&lt;/li&gt;
-    &lt;li&gt;.beer&lt;/li&gt;
-    &lt;li&gt;.bike&lt;/li&gt;
-    &lt;li&gt;.biz&lt;/li&gt;
-    &lt;li&gt;.black&lt;/li&gt;
-    &lt;li&gt;.blue&lt;/li&gt;
-    &lt;li&gt;.boutique&lt;/li&gt;
-    &lt;li&gt;.br.com&lt;/li&gt;
-    &lt;li&gt;.builders&lt;/li&gt;
-    &lt;li&gt;.business&lt;/li&gt;
-    &lt;li&gt;.bz&lt;/li&gt;
-    &lt;li&gt;.cab&lt;/li&gt;
-    &lt;li&gt;.camera&lt;/li&gt;
-    &lt;li&gt;.camp&lt;/li&gt;
-    &lt;li&gt;.cards&lt;/li&gt;
-    &lt;li&gt;.care&lt;/li&gt;
-    &lt;li&gt;.careers&lt;/li&gt;
-    &lt;li&gt;.casa&lt;/li&gt;
-    &lt;li&gt;.cash&lt;/li&gt;
-    &lt;li&gt;.catering&lt;/li&gt;
-    &lt;li&gt;.cc&lt;/li&gt;
-    &lt;li&gt;.cheap&lt;/li&gt;
-    &lt;li&gt;.church&lt;/li&gt;
-    &lt;li&gt;.city&lt;/li&gt;
-    &lt;li&gt;.claims&lt;/li&gt;
-    &lt;li&gt;.cleaning&lt;/li&gt;
-    &lt;li&gt;.clinic&lt;/li&gt;
-    &lt;li&gt;.clothing&lt;/li&gt;
-    &lt;li&gt;.club&lt;/li&gt;
-    &lt;li&gt;.cn.com&lt;/li&gt;
-    &lt;li&gt;.co&lt;/li&gt;
-    &lt;li&gt;.codes&lt;/li&gt;
-    &lt;li&gt;.coffee&lt;/li&gt;
-    &lt;li&gt;.com&lt;/li&gt;
-    &lt;li&gt;.community&lt;/li&gt;
-    &lt;li&gt;.company&lt;/li&gt;
-    &lt;li&gt;.computer&lt;/li&gt;
-    &lt;li&gt;.condos&lt;/li&gt;
-    &lt;li&gt;.construction&lt;/li&gt;
-    &lt;li&gt;.consulting&lt;/li&gt;
-    &lt;li&gt;.contractors&lt;/li&gt;
-    &lt;li&gt;.cooking&lt;/li&gt;
-    &lt;li&gt;.cool&lt;/li&gt;
-    &lt;li&gt;.country&lt;/li&gt;
-    &lt;li&gt;.credit&lt;/li&gt;
-    &lt;li&gt;.dance&lt;/li&gt;
-    &lt;li&gt;.degree&lt;/li&gt;
-    &lt;li&gt;.delivery&lt;/li&gt;
-    &lt;li&gt;.democrat&lt;/li&gt;
-    &lt;li&gt;.dental&lt;/li&gt;
-    &lt;li&gt;.diamonds&lt;/li&gt;
-    &lt;li&gt;.digital&lt;/li&gt;
-    &lt;li&gt;.direct&lt;/li&gt;
-    &lt;li&gt;.directory&lt;/li&gt;
-    &lt;li&gt;.discount&lt;/li&gt;
-    &lt;li&gt;.domains&lt;/li&gt;
-    &lt;li&gt;.education&lt;/li&gt;
-    &lt;li&gt;.email&lt;/li&gt;
-    &lt;li&gt;.energy&lt;/li&gt;
-    &lt;li&gt;.engineer&lt;/li&gt;
-    &lt;li&gt;.engineering&lt;/li&gt;
-    &lt;li&gt;.enterprises&lt;/li&gt;
-    &lt;li&gt;.equipment&lt;/li&gt;
-    &lt;li&gt;.estate&lt;/li&gt;
-    &lt;li&gt;.eu.com&lt;/li&gt;
-    &lt;li&gt;.events&lt;/li&gt;
-    &lt;li&gt;.exchange&lt;/li&gt;
-    &lt;li&gt;.expert&lt;/li&gt;
-    &lt;li&gt;.exposed&lt;/li&gt;
-    &lt;li&gt;.fail&lt;/li&gt;
-    &lt;li&gt;.finance&lt;/li&gt;
-    &lt;li&gt;.financial&lt;/li&gt;
-    &lt;li&gt;.fish&lt;/li&gt;
-    &lt;li&gt;.fishing&lt;/li&gt;
-    &lt;li&gt;.fitness&lt;/li&gt;
-    &lt;li&gt;.flights&lt;/li&gt;
-    &lt;li&gt;.florist&lt;/li&gt;
-    &lt;li&gt;.fm&lt;/li&gt;
-    &lt;li&gt;.forsale&lt;/li&gt;
-    &lt;li&gt;.foundation&lt;/li&gt;
-    &lt;li&gt;.fund&lt;/li&gt;
-    &lt;li&gt;.furniture&lt;/li&gt;
-    &lt;li&gt;.futbol&lt;/li&gt;
-    &lt;li&gt;.gallery&lt;/li&gt;
-    &lt;li&gt;.gb.com&lt;/li&gt;
-    &lt;li&gt;.gifts&lt;/li&gt;
-    &lt;li&gt;.gives&lt;/li&gt;
-    &lt;li&gt;.glass&lt;/li&gt;
-    &lt;li&gt;.graphics&lt;/li&gt;
-    &lt;li&gt;.gratis&lt;/li&gt;
-    &lt;li&gt;.gripe&lt;/li&gt;
-    &lt;li&gt;.guide&lt;/li&gt;
-    &lt;li&gt;.guru&lt;/li&gt;
-    &lt;li&gt;.haus&lt;/li&gt;
-    &lt;li&gt;.holdings&lt;/li&gt;
-    &lt;li&gt;.holiday&lt;/li&gt;
-    &lt;li&gt;.horse&lt;/li&gt;
-    &lt;li&gt;.house&lt;/li&gt;
-    &lt;li&gt;.hu.com&lt;/li&gt;
-    &lt;li&gt;.immo&lt;/li&gt;
-    &lt;li&gt;.immobilien&lt;/li&gt;
-    &lt;li&gt;.industries&lt;/li&gt;
-    &lt;li&gt;.info&lt;/li&gt;
-    &lt;li&gt;.ink&lt;/li&gt;
-    &lt;li&gt;.institute&lt;/li&gt;
-    &lt;li&gt;.insure&lt;/li&gt;
-    &lt;li&gt;.investments&lt;/li&gt;
-    &lt;li&gt;.io&lt;/li&gt;
-    &lt;li&gt;.jpn.com&lt;/li&gt;
-    &lt;li&gt;.kaufen&lt;/li&gt;
-    &lt;li&gt;.kim&lt;/li&gt;
-    &lt;li&gt;.kitchen&lt;/li&gt;
-    &lt;li&gt;.kiwi&lt;/li&gt;
-    &lt;li&gt;.kr.com&lt;/li&gt;
-    &lt;li&gt;.la&lt;/li&gt;
-    &lt;li&gt;.land&lt;/li&gt;
-    &lt;li&gt;.lc&lt;/li&gt;
-    &lt;li&gt;.lease&lt;/li&gt;
-    &lt;li&gt;.life&lt;/li&gt;
-    &lt;li&gt;.lighting&lt;/li&gt;
-    &lt;li&gt;.limo&lt;/li&gt;
-    &lt;li&gt;.loans&lt;/li&gt;
-    &lt;li&gt;.maison&lt;/li&gt;
-    &lt;li&gt;.management&lt;/li&gt;
-    &lt;li&gt;.market&lt;/li&gt;
-    &lt;li&gt;.marketing&lt;/li&gt;
-    &lt;li&gt;.me&lt;/li&gt;
-    &lt;li&gt;.media&lt;/li&gt;
-    &lt;li&gt;.mn&lt;/li&gt;
-    &lt;li&gt;.mobi&lt;/li&gt;
-    &lt;li&gt;.moda&lt;/li&gt;
-    &lt;li&gt;.moe&lt;/li&gt;
-    &lt;li&gt;.mortgage&lt;/li&gt;
-    &lt;li&gt;.nagoya&lt;/li&gt;
-    &lt;li&gt;.name&lt;/li&gt;
-    &lt;li&gt;.net&lt;/li&gt;
-    &lt;li&gt;.network&lt;/li&gt;
-    &lt;li&gt;.ninja&lt;/li&gt;
-    &lt;li&gt;.no.com&lt;/li&gt;
-    &lt;li&gt;.okinawa&lt;/li&gt;
-    &lt;li&gt;.org&lt;/li&gt;
-    &lt;li&gt;.partners&lt;/li&gt;
-    &lt;li&gt;.parts&lt;/li&gt;
-    &lt;li&gt;.photography&lt;/li&gt;
-    &lt;li&gt;.photos&lt;/li&gt;
-    &lt;li&gt;.pictures&lt;/li&gt;
-    &lt;li&gt;.pink&lt;/li&gt;
-    &lt;li&gt;.pizza&lt;/li&gt;
-    &lt;li&gt;.place&lt;/li&gt;
-    &lt;li&gt;.plumbing&lt;/li&gt;
-    &lt;li&gt;.press&lt;/li&gt;
-    &lt;li&gt;.productions&lt;/li&gt;
-    &lt;li&gt;.properties&lt;/li&gt;
-    &lt;li&gt;.pub&lt;/li&gt;
-    &lt;li&gt;.pw&lt;/li&gt;
-    &lt;li&gt;.qc.com&lt;/li&gt;
-    &lt;li&gt;.quebec&lt;/li&gt;
-    &lt;li&gt;.recipes&lt;/li&gt;
-    &lt;li&gt;.red&lt;/li&gt;
-    &lt;li&gt;.rehab&lt;/li&gt;
-    &lt;li&gt;.reisen&lt;/li&gt;
-    &lt;li&gt;.rentals&lt;/li&gt;
-    &lt;li&gt;.report&lt;/li&gt;
-    &lt;li&gt;.republican&lt;/li&gt;
-    &lt;li&gt;.rest&lt;/li&gt;
-    &lt;li&gt;.restaurant&lt;/li&gt;
-    &lt;li&gt;.reviews&lt;/li&gt;
-    &lt;li&gt;.rip&lt;/li&gt;
-    &lt;li&gt;.rocks&lt;/li&gt;
-    &lt;li&gt;.rodeo&lt;/li&gt;
-    &lt;li&gt;.ru.com&lt;/li&gt;
-    &lt;li&gt;.ryukyu&lt;/li&gt;
-    &lt;li&gt;.sa.com&lt;/li&gt;
-    &lt;li&gt;.sarl&lt;/li&gt;
-    &lt;li&gt;.sc&lt;/li&gt;
-    &lt;li&gt;.schule&lt;/li&gt;
-    &lt;li&gt;.se.com&lt;/li&gt;
-    &lt;li&gt;.services&lt;/li&gt;
-    &lt;li&gt;.sh&lt;/li&gt;
-    &lt;li&gt;.shiksha&lt;/li&gt;
-    &lt;li&gt;.shoes&lt;/li&gt;
-    &lt;li&gt;.singles&lt;/li&gt;
-    &lt;li&gt;.so&lt;/li&gt;
-    &lt;li&gt;.social&lt;/li&gt;
-    &lt;li&gt;.software&lt;/li&gt;
-    &lt;li&gt;.solar&lt;/li&gt;
-    &lt;li&gt;.solutions&lt;/li&gt;
-    &lt;li&gt;.soy&lt;/li&gt;
-    &lt;li&gt;.supplies&lt;/li&gt;
-    &lt;li&gt;.supply&lt;/li&gt;
-    &lt;li&gt;.support&lt;/li&gt;
-    &lt;li&gt;.surf&lt;/li&gt;
-    &lt;li&gt;.surgery&lt;/li&gt;
-    &lt;li&gt;.systems&lt;/li&gt;
-    &lt;li&gt;.tax&lt;/li&gt;
-    &lt;li&gt;.technology&lt;/li&gt;
-    &lt;li&gt;.tienda&lt;/li&gt;
-    &lt;li&gt;.tips&lt;/li&gt;
-    &lt;li&gt;.today&lt;/li&gt;
-    &lt;li&gt;.tokyo&lt;/li&gt;
-    &lt;li&gt;.tools&lt;/li&gt;
-    &lt;li&gt;.town&lt;/li&gt;
-    &lt;li&gt;.toys&lt;/li&gt;
-    &lt;li&gt;.training&lt;/li&gt;
-    &lt;li&gt;.tv&lt;/li&gt;
-    &lt;li&gt;.university&lt;/li&gt;
-    &lt;li&gt;.uno&lt;/li&gt;
-    &lt;li&gt;.us.com&lt;/li&gt;
-    &lt;li&gt;.uy.com&lt;/li&gt;
-    &lt;li&gt;.vacations&lt;/li&gt;
-    &lt;li&gt;.vc&lt;/li&gt;
-    &lt;li&gt;.vet&lt;/li&gt;
-    &lt;li&gt;.viajes&lt;/li&gt;
-    &lt;li&gt;.villas&lt;/li&gt;
-    &lt;li&gt;.vision&lt;/li&gt;
-    &lt;li&gt;.vodka&lt;/li&gt;
-    &lt;li&gt;.voyage&lt;/li&gt;
-    &lt;li&gt;.watch&lt;/li&gt;
-    &lt;li&gt;.website&lt;/li&gt;
-    &lt;li&gt;.wiki&lt;/li&gt;
-    &lt;li&gt;.work&lt;/li&gt;
-    &lt;li&gt;.works&lt;/li&gt;
-    &lt;li&gt;.world&lt;/li&gt;
-    &lt;li&gt;.ws&lt;/li&gt;
-    &lt;li&gt;.wtf&lt;/li&gt;
-    &lt;li&gt;.在线&lt;/li&gt;
-    &lt;li&gt;.移动&lt;/li&gt;
-    &lt;li&gt;.中文网&lt;/li&gt;
-    &lt;li&gt;.みんな&lt;/li&gt;
-    &lt;li&gt;.xyz&lt;/li&gt;
-    &lt;li&gt;.yoga&lt;/li&gt;
-    &lt;li&gt;.yokohama&lt;/li&gt;
-    &lt;li&gt;.za.com&lt;/li&gt;
-    &lt;li&gt;.zone&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you have any questions about WHOIS privacy or your current setup, definitely &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 17 Feb 2015 11:23:48 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/02/whois-privacy-update.html</link>
-				
-				<guid isPermaLink="false">/2015/02/whois-privacy-update.html</guid>
-			</item>
-		
-			<item>
 				<title>Found reviews - Fastmail, the &#34;slickest web interface currently available&#34;</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -23146,35 +22869,25 @@ still available&lt;/strong&gt;!&lt;/p&gt;
 		
 			<item>
 				<title></title>
-				<description>&lt;p&gt;date: 2014-01-03 15:03:50 +1200
-author: Chris
-title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
+				<description>&lt;p&gt;date: 2012-09-01 12:34:02 +1200
+author: Paul
+title: .CO Domain Deal Sparks Startup Flame&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg&#34; alt=&#34;bigstock-Year---handwritten-on-the-s-47541919.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/2012-09-01-dotco.png&#34; alt=&#34;dotco.png&#34;&gt;&lt;/p&gt;
 
-&lt;!-- excerpt --&gt;
+&lt;p&gt;Earlier this year we &lt;a href=&#34;https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html&#34;&gt;challenged you&lt;/a&gt; to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there&amp;rsquo;s no excuse for not signing up and getting your .COOL new business online.&lt;/p&gt;
 
-&lt;p&gt;2014 is finally here, and with it comes a bundle of resolutions bound to be broken by Spring (I seriously don&amp;rsquo;t think my &amp;ldquo;cut down on dessert&amp;rdquo; thing will last very long).&lt;/p&gt;
+&lt;p&gt;For the remainder of this year we can offer &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO domains&lt;/a&gt; for only $19. That&amp;rsquo;s a huge reduction of 42% and a great domain deal for companies that are just starting out. There are some &lt;a href=&#34;http://www.go.co/case-studies/&#34;&gt;fantastic new companies&lt;/a&gt; already using .CO domains, including &lt;a href=&#34;https://angel.co/&#34;&gt;AngelList&lt;/a&gt; and &lt;a href=&#34;http://duck.co/&#34;&gt;Duck.co&lt;/a&gt; the Duck Duck Go user community. The .CO domain space is relatively under-populated at present, so it&amp;rsquo;s an attractive option if you are looking at building a great brand online.&lt;/p&gt;
 
-&lt;p&gt;But if your resolution is to start a new website, we&amp;rsquo;ve got your back. In addition to &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;continuing our sale&lt;/a&gt; on &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; ($49, $19.90 and $15.50 respectively), we have two additional extensions that might be perfect for what you&amp;rsquo;re looking for.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada&#34;&gt;.CA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; Canada. The &lt;a href=&#34;http://www.canadafreepress.com/index.php/article/25958&#34;&gt;most polite country&lt;/a&gt; on Earth, and perhaps the future birthplace of your next domain. .CA domains are fantastic for businesses and personal sites in Canada, and can make for great domain hacks if you&amp;rsquo;re feeling clever. Something like colderameri.CA or delicioustapio.CA might do the trick. Or perhaps you&amp;rsquo;re starting a fan club for the movie Casablan.CA? Either way, .CA domains are on sale this month for $15.50, down from $19.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/asia-domain-name-registration-for-asia&#34;&gt;.ASIA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; .ASIA is an interesting generic domain extension because it fully spells out a place. And with Asia already being one of the most popular search keywords on the web, having a .ASIA address might be your ticket to enhanced visibility. Grab yours this month for $15.50, down from $24.90.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And from all of us here at iwantmyname, we hope you had a wonderful New Year. Here&amp;rsquo;s to 2014 being the best year yet.&lt;/p&gt;
+&lt;p&gt;Whatever your plans are for your new .CO domain, don&amp;rsquo;t forget iwantmyname helps you to find a bunch of hosted services that can be easily domain customised to &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;get your online venture up and running quickly&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2014/01/happy-new-year-its-time-for-january-domain-sales.html</link>
+					<link>https://iwantmyname.com/blog/2012/08/co-domain-deal-sparks-startup-flame.html</link>
 				
-				<guid isPermaLink="false">/2014/01/happy-new-year-its-time-for-january-domain-sales.html</guid>
+				<guid isPermaLink="false">/2012/08/co-domain-deal-sparks-startup-flame.html</guid>
 			</item>
 		
 			<item>
@@ -23210,6 +22923,39 @@ title: 2013 A Year Of Domains&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2013/12/2013-a-year-of-domains.html</link>
 				
 				<guid isPermaLink="false">/2013/12/2013-a-year-of-domains.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;date: 2014-01-03 15:03:50 +1200
+author: Chris
+title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg&#34; alt=&#34;bigstock-Year---handwritten-on-the-s-47541919.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;!-- excerpt --&gt;
+
+&lt;p&gt;2014 is finally here, and with it comes a bundle of resolutions bound to be broken by Spring (I seriously don&amp;rsquo;t think my &amp;ldquo;cut down on dessert&amp;rdquo; thing will last very long).&lt;/p&gt;
+
+&lt;p&gt;But if your resolution is to start a new website, we&amp;rsquo;ve got your back. In addition to &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;continuing our sale&lt;/a&gt; on &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; ($49, $19.90 and $15.50 respectively), we have two additional extensions that might be perfect for what you&amp;rsquo;re looking for.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada&#34;&gt;.CA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; Canada. The &lt;a href=&#34;http://www.canadafreepress.com/index.php/article/25958&#34;&gt;most polite country&lt;/a&gt; on Earth, and perhaps the future birthplace of your next domain. .CA domains are fantastic for businesses and personal sites in Canada, and can make for great domain hacks if you&amp;rsquo;re feeling clever. Something like colderameri.CA or delicioustapio.CA might do the trick. Or perhaps you&amp;rsquo;re starting a fan club for the movie Casablan.CA? Either way, .CA domains are on sale this month for $15.50, down from $19.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/asia-domain-name-registration-for-asia&#34;&gt;.ASIA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; .ASIA is an interesting generic domain extension because it fully spells out a place. And with Asia already being one of the most popular search keywords on the web, having a .ASIA address might be your ticket to enhanced visibility. Grab yours this month for $15.50, down from $24.90.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And from all of us here at iwantmyname, we hope you had a wonderful New Year. Here&amp;rsquo;s to 2014 being the best year yet.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2014/01/happy-new-year-its-time-for-january-domain-sales.html</link>
+				
+				<guid isPermaLink="false">/2014/01/happy-new-year-its-time-for-january-domain-sales.html</guid>
 			</item>
 		
 			<item>
@@ -23416,29 +23162,6 @@ title: Price reduction for .CH and .LI&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</link>
 				
 				<guid isPermaLink="false">/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2012-09-01 12:34:02 +1200
-author: Paul
-title: .CO Domain Deal Sparks Startup Flame&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2012-09-01-dotco.png&#34; alt=&#34;dotco.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Earlier this year we &lt;a href=&#34;https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html&#34;&gt;challenged you&lt;/a&gt; to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there&amp;rsquo;s no excuse for not signing up and getting your .COOL new business online.&lt;/p&gt;
-
-&lt;p&gt;For the remainder of this year we can offer &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO domains&lt;/a&gt; for only $19. That&amp;rsquo;s a huge reduction of 42% and a great domain deal for companies that are just starting out. There are some &lt;a href=&#34;http://www.go.co/case-studies/&#34;&gt;fantastic new companies&lt;/a&gt; already using .CO domains, including &lt;a href=&#34;https://angel.co/&#34;&gt;AngelList&lt;/a&gt; and &lt;a href=&#34;http://duck.co/&#34;&gt;Duck.co&lt;/a&gt; the Duck Duck Go user community. The .CO domain space is relatively under-populated at present, so it&amp;rsquo;s an attractive option if you are looking at building a great brand online.&lt;/p&gt;
-
-&lt;p&gt;Whatever your plans are for your new .CO domain, don&amp;rsquo;t forget iwantmyname helps you to find a bunch of hosted services that can be easily domain customised to &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;get your online venture up and running quickly&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/08/co-domain-deal-sparks-startup-flame.html</link>
-				
-				<guid isPermaLink="false">/2012/08/co-domain-deal-sparks-startup-flame.html</guid>
 			</item>
 		
 	</channel>
