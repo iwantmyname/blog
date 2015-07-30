@@ -494,7 +494,9 @@
 
 &lt;p&gt;Here&amp;rsquo;s a little nugget from someone who was consistently ahead of the curve.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;xb8idEf-Iak&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/xb8idEf-Iak&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Every once in a while a company has a logo that&amp;rsquo;s a little jewel, a symbol, that can be used independently of the logotype. At Apple we had such a symbol, as a matter of fact, at Apple, the symbol was the name of the company. It was a thing that had the same name as the company—an apple. Our challenge was that it usually takes ten years and a hundred million dollars to associate a symbol with the name of the company. Our challenge was, how can we have a little jewel that we could use without the name to put on the product without spending ten years and a hundred million dollars to make that association in a customer&amp;rsquo;s mind. And Paul solved that by making a little jewel that contained in it the name of the company. And I think he really approached it as a problem that needed to be solved, rather than an artistic challenge for his own sake.&lt;/p&gt;
@@ -514,7 +516,9 @@
 
 &lt;p&gt;With all that adaptability in mind, it&amp;rsquo;s important to know what it takes to create a logo that works. Aaron Draplin, one of the most well-known logo designers today, made a great video on his process, and a bit of the thinking that goes behind logo creation.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;113751583&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/113751583?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;It&amp;rsquo;s one thing to design that logo, and just have it floating on this PDF, and you&amp;rsquo;re sort of drunk on white space and negative space and just floating, but rarely will you see it that way. The way you see it will be on some stupid little Instagram in the corner, or on a guy&amp;rsquo;s business card, or embroidered on his sweatshirt or something.&lt;/p&gt;

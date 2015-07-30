@@ -494,7 +494,9 @@
 
 &lt;p&gt;Here&amp;rsquo;s a little nugget from someone who was consistently ahead of the curve.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;xb8idEf-Iak&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/xb8idEf-Iak&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Every once in a while a company has a logo that&amp;rsquo;s a little jewel, a symbol, that can be used independently of the logotype. At Apple we had such a symbol, as a matter of fact, at Apple, the symbol was the name of the company. It was a thing that had the same name as the company—an apple. Our challenge was that it usually takes ten years and a hundred million dollars to associate a symbol with the name of the company. Our challenge was, how can we have a little jewel that we could use without the name to put on the product without spending ten years and a hundred million dollars to make that association in a customer&amp;rsquo;s mind. And Paul solved that by making a little jewel that contained in it the name of the company. And I think he really approached it as a problem that needed to be solved, rather than an artistic challenge for his own sake.&lt;/p&gt;
@@ -514,7 +516,9 @@
 
 &lt;p&gt;With all that adaptability in mind, it&amp;rsquo;s important to know what it takes to create a logo that works. Aaron Draplin, one of the most well-known logo designers today, made a great video on his process, and a bit of the thinking that goes behind logo creation.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;113751583&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/113751583?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;It&amp;rsquo;s one thing to design that logo, and just have it floating on this PDF, and you&amp;rsquo;re sort of drunk on white space and negative space and just floating, but rarely will you see it that way. The way you see it will be on some stupid little Instagram in the corner, or on a guy&amp;rsquo;s business card, or embroidered on his sweatshirt or something.&lt;/p&gt;
@@ -1231,7 +1235,9 @@
 
 &lt;p&gt;The Web is an instant answer world without any face-to-face dialogue, which strips a lot of the humanity out of the process. And we all fall into it—if my website breaks, I expect instant answers, but if my car breaks, I know I have to set an appointment during business hours. It&amp;rsquo;s all about setting expectations, and that&amp;rsquo;s one of the hardest things for businesses to do.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;iframe&amp;rdquo; &amp;ldquo;&lt;a href=&#34;https://giphy.com/embed/j62Hmj6SMpJV6?html5=true&amp;quot;&#34;&gt;https://giphy.com/embed/j62Hmj6SMpJV6?html5=true&amp;quot;&lt;/a&gt; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://giphy.com/embed/j62Hmj6SMpJV6?html5=true&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;To handle the support load, companies can go a few different directions. As I stated before, they can stock up a support team or outsource all the support to a third party, but that&amp;rsquo;s expensive, impersonal, and honestly, a little underwhelming in the experience department. Sure, there are a lot of quick Q&amp;amp;A type issues that can be handled quickly by anyone with basic knowledge of the domain industry, but if you have a real problem, you want real solutions. Nothing is more aggravating than dealing with a support layer that clearly won&amp;rsquo;t be able to solve your problem.&lt;/p&gt;
 
@@ -1717,7 +1723,9 @@ great, we&amp;rsquo;ve dug a bit deeper to help out our neighbours in their time
 		
 			<item>
 				<title>Happy belated 30th to .com</title>
-				<description>&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;UlJku_CSyNg&amp;rdquo; }}&lt;/p&gt;
+				<description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/UlJku_CSyNg&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The internet has come a long way in the last 30 years. Happy belated (&lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34;&gt;.com&lt;/a&gt; turned 30 on March 15th)!&lt;/p&gt;
 </description>
@@ -2092,7 +2100,9 @@ great, we&amp;rsquo;ve dug a bit deeper to help out our neighbours in their time
 
 &lt;p&gt;“Bigcommerce is the big equalizer,” Case said of the company. “Now every entrepreneur can have Amazon-like e-commerce capabilities, in hours – not months or years.”&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;kHffh8lvhww&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/kHffh8lvhww&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;If you&amp;rsquo;re serious about creating a world class e-commerce experience, &lt;a href=&#34;https://www.bigcommerce.com/v18/&#34;&gt;Bigcommerce&lt;/a&gt; is a great place to start. At the time of writing, plans start at $29.95/mo ($26.96/mo if paid annually), and there&amp;rsquo;s a 15-day free trial to see if the platform is right for you.&lt;/p&gt;
 </description>
@@ -2623,7 +2633,9 @@ location ^~ /blog/ {
 
 &lt;p&gt;(Just a heads up&amp;hellip;if you’re easily offended, there are a couple curse words in this episode. Nothing big, but they’re there.)&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;soundcloud&amp;rdquo; &amp;ldquo;183982208&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/183982208&amp;amp;auto_play=false&amp;amp;hide_related=true&amp;amp;show_comments=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Fri, 02 Jan 2015 12:35:28 UTC</pubDate>
 				
@@ -3259,7 +3271,9 @@ location ^~ /blog/ {
 
 &lt;p&gt;Here&amp;rsquo;s a video example (from the dev):&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;110486733&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/110486733?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Whiskey clearly isn&amp;rsquo;t a finished product yet, but it&amp;rsquo;s pretty functional in its &lt;a href=&#34;http://usewhiskey.com/beta&#34;&gt;current form&lt;/a&gt;. So if you&amp;rsquo;re a fan of Markdown apps, I definitely recommend checking out the outline view implementation in the latest version. It&amp;rsquo;s pretty slick.&lt;/p&gt;
 </description>
@@ -3625,7 +3639,9 @@ location ^~ /blog/ {
 				<title>Just a funny XOXO talk from Darius Kazemi</title>
 				<description>&lt;p&gt;Darius Kazemi (&lt;a href=&#34;http://tinysubversions.com&#34;&gt;Tiny Subversions&lt;/a&gt;) is what you could call the serialest of serial entrepreneurs. And he has some great thoughts on how to &amp;ldquo;make it&amp;rdquo; as a startup.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;l_F9jxsfGCw&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/l_F9jxsfGCw&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Thu, 23 Oct 2014 05:51:23 UTC</pubDate>
 				
@@ -3652,7 +3668,9 @@ location ^~ /blog/ {
 
 &lt;hr&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;DE27AwkGczo&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/DE27AwkGczo&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Wed, 22 Oct 2014 05:59:04 UTC</pubDate>
 				
@@ -3810,7 +3828,9 @@ location ^~ /blog/ {
 
 &lt;p&gt;Before you go, don&amp;rsquo;t forget to watch the promo video.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;OXA4-5x31V0&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/OXA4-5x31V0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Sat, 18 Oct 2014 05:32:21 UTC</pubDate>
 				
@@ -3924,7 +3944,9 @@ location ^~ /blog/ {
 
 &lt;!-- /excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;soundcloud&amp;rdquo; &amp;ldquo;172008630&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172008630&amp;amp;auto_play=false&amp;amp;hide_related=true&amp;amp;show_comments=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;hr&gt;
 
@@ -4056,7 +4078,9 @@ location ^~ /blog/ {
 				<title>The Grid — AI websites that design themselves</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;OXA4-5x31V0&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/OXA4-5x31V0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;I write content for a living—always have, probably always will. So when I&amp;rsquo;m looking to create websites (which I do quite often), I try to take advantage of platforms that let me do my thing without needing too much help from designers and developers.&lt;/p&gt;
 
@@ -4166,7 +4190,9 @@ location ^~ /blog/ {
 				<title>Squarespace 7 is here, should you be excited?</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;9IDeKXQuiik&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/9IDeKXQuiik&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;As a user of &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; for a number of years now for personal sites, it&amp;rsquo;s a pretty exciting day when a major update is released. And today, we have Squarespace 7.  From the &lt;a href=&#34;https://blog.squarespace.com/blog/introducing-squarespace-7&#34;&gt;Squarespace Blog&lt;/a&gt;:&lt;/p&gt;
 
@@ -4343,7 +4369,9 @@ location ^~ /blog/ {
 
 &lt;p&gt;The shorter .nz domains have arrived! Now you can purchase New Zealand’s country-code domain extension without the additional ‘.co’, ‘.net’ or ‘.org’. This naming convention is already common in most countries, and we’re pleased to now be able to offer this option to iwantmyname customers.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;101478574&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/101478574?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- /excerpt --&gt;
 
@@ -5279,7 +5307,9 @@ control structures in place, but for us it was really something that just develo
 
 &lt;p&gt;&lt;a href=&#34;http://blog.cloudflare.com/google-now-factoring-https-support-into-ranking-cloudflare-on-track-to-make-it-free-and-easy&#34;&gt;CloudFlare&lt;/a&gt;, the popular content delivery network and distributed domain name server, is &amp;ldquo;on track to roll out SSL for all CloudFlare customers by mid-October (paid customers are already supported). When (they) do, the number of sites that support HTTPS on the Internet will more than double. That they&amp;rsquo;ll also rank a bit higher is pretty cool too.&amp;rdquo; So if you&amp;rsquo;re currently using CloudFlare for your website, you don&amp;rsquo;t need to do anything. If not, here&amp;rsquo;s the 90-second pitch, in video form:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;14700285&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/14700285?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h3&gt;Need any help?&lt;/h3&gt;
 
@@ -5600,7 +5630,9 @@ control structures in place, but for us it was really something that just develo
 
 &lt;!-- /excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;vd3dH90tdhk&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/vd3dH90tdhk&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Fri, 25 Jul 2014 13:00:42 UTC</pubDate>
 				
@@ -7687,7 +7719,9 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;Yesterday I &lt;a href=&#34;https://iwantmyname.com/blog/2014/04/a-practical-look-at-using-iwantmynames-two-factor-authentication.html&#34;&gt;went over&lt;/a&gt; using a setting up two-factor authentication, so now lets do a quick dive into Authy itself. Specifically about what it is, what platforms you can use it on and how the Authy setup works.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;71272779&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/71272779?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- /excerpt --&gt;
 
@@ -7954,7 +7988,9 @@ B. Even if you didn&amp;rsquo;t remember what the TLD is, you knew to put the do
 
 &lt;p&gt;So do your research. Here&amp;rsquo;s a little video guide from Matt Cutts of Google Webmasters on how you can protect yourself from registering domain names with iffy histories.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;C-EdhaMDXho&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/C-EdhaMDXho&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- /excerpt --&gt;
 
@@ -8977,7 +9013,9 @@ kash5000000@starbucks.email&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;5FmLnNDw23Y&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/5FmLnNDw23Y&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Well, just recently, Google launched its first Japanese IDN, .みんな (translated to &amp;ldquo;everyone&amp;rdquo;), and it&amp;rsquo;s currently the 27th most popular gTLD on &lt;a href=&#34;http://ntldstats.com/&#34;&gt;ntldstats.com&lt;/a&gt;. And soon, .コム will be coming, ironically giving Japanese speakers a transliteration of the web standard—.COM.&lt;/p&gt;
 
@@ -9098,7 +9136,9 @@ kash5000000@starbucks.email&lt;/p&gt;
 
 &lt;p&gt;And if you need a &amp;ldquo;taste&amp;rdquo; of her support style, here&amp;rsquo;s a short talk she gave about how to survive a zombie apocalypse (tons of useful information).&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;LY8PAFOJ2D0&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/LY8PAFOJ2D0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;So if you&amp;rsquo;re feeling kind, send her a &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;support ticket&lt;/a&gt; and say hi. We&amp;rsquo;re quite happy to have her on board.&lt;/p&gt;
 </description>
@@ -9240,7 +9280,9 @@ kash5000000@starbucks.email&lt;/p&gt;
 				<title>Tim Berners-Lee on the 25th anniversary of the web</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;88343326&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/88343326?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- /excerpt --&gt;
 
@@ -9576,7 +9618,9 @@ kash5000000@starbucks.email&lt;/p&gt;
 				<title>An interview with Frank Schilling about Uniregistry, .SEXY, .TATTOO and not joining the registry dark side</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;p75KeJN9D0E&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/p75KeJN9D0E&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;There are domain registries, and there are domain registries with ambitious founders located in the Cayman Islands. Much to the enjoyment of the likely tan staff at &lt;a href=&#34;http://uniregistry.com/&#34;&gt;Uniregistry&lt;/a&gt;, they are in the latter.&lt;/p&gt;
 
@@ -9762,7 +9806,9 @@ kash5000000@starbucks.email&lt;/p&gt;
 		
 			<item>
 				<title>.UNO looks to unite the Spanish-speaking web—an interview with Desiree Boxberger of Dot Latin LLC</title>
-				<description>&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;G9pmT7icoAQ&amp;rdquo; }}&lt;/p&gt;
+				<description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/G9pmT7icoAQ&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- excerpt --&gt;
 
@@ -11008,7 +11054,9 @@ Chris&lt;/p&gt;
 
 &lt;p&gt;Well, with the rollout of the new generic Top-Level Domains, it&amp;rsquo;s all changing. A number of new TLDs are set to be available soon, including &lt;a href=&#34;https://iwantmyname.com/domains/dot-%D8%B4%D8%A8%D9%83%D8%A9&#34;&gt;.شبكة&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/dot-%E4%B8%AD%E6%96%87%E7%BD%91&#34;&gt;.中文网&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/dot-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&#34;&gt;.Онлайн&lt;/a&gt;. And just this week, &lt;a href=&#34;http://googleasiapacific.blogspot.sg/2014/01/is-now-available-for-everyone.html?m=1&#34;&gt;Google announced&lt;/a&gt; that &lt;a href=&#34;https://iwantmyname.com/domains/dot-みんな&#34;&gt;.みんな&lt;/a&gt;, the first TLD in &lt;a href=&#34;http://en.wikipedia.org/wiki/Hiragana&#34;&gt;hiragana&lt;/a&gt;, will be open for general availability on February 21st.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;5FmLnNDw23Y&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/5FmLnNDw23Y&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;This video from Google really sums up the sentiment:&lt;/p&gt;
 
@@ -11479,11 +11527,17 @@ Chris&lt;/p&gt;
 
 &lt;p&gt;Here are a few to get a taste:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;qozPhALuQQw&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/qozPhALuQQw&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;J_FgXr7mrkg&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/J_FgXr7mrkg&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;QHG6BkmzDEM&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/QHG6BkmzDEM&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Thu, 19 Dec 2013 13:30:56 UTC</pubDate>
 				
@@ -11974,7 +12028,9 @@ and more secure.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re looking to set up an online shop for the holidays, definitely take a look at &lt;a href=&#34;http://www.shipstation.com/squarespace_pricing/?utm_source=SQSP&amp;amp;utm_medium=blog&amp;amp;utm_campaign=announce_blog&amp;amp;ref=SQSP&#34;&gt;Squarespace with ShipStation&lt;/a&gt;. &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; is a great platform for creating professional sites with no development or design knowledge, and now the shipping logistics are easier than ever.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;RNK-39lCQhI&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/RNK-39lCQhI&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- more --&gt;
 </description>
@@ -12302,7 +12358,9 @@ and more secure.&lt;/p&gt;
 
 &lt;p&gt;And one of the best examples of these tools is &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt;, &amp;ldquo;a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what&amp;rsquo;s being worked on, who&amp;rsquo;s working on what, and where something is in a process.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;29183832&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/29183832?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;For iwantmyname, we find Trello to be especially useful for organizing our blog, and it&amp;rsquo;s all done with only four lists: &lt;em&gt;Ideas&lt;/em&gt;, &lt;em&gt;Researching&lt;/em&gt;, &lt;em&gt;Editing&lt;/em&gt;, &lt;em&gt;Publish&lt;/em&gt;.&lt;/p&gt;
 
@@ -12417,7 +12475,9 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 		
 			<item>
 				<title>A Short Interview With Zachary Crockett, Founder And CTO Of Spark</title>
-				<description>&lt;p&gt;{{ template &amp;ldquo;vimeo&amp;rdquo; &amp;ldquo;67698662&amp;rdquo; }}&lt;/p&gt;
+				<description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/67698662?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- excerpt --&gt;
 
@@ -12618,7 +12678,9 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 &lt;p&gt;As we learned about all the cool things you&amp;rsquo;re selling online — from hand-crafted leather bags, to environmentally friendly pet toys, to a mold for making cocktail friendly ice cubes, and even caffeinated hot sauce, we were super inspired. We took your feedback and requests into great consideration and made it our goal to provide you with everything you need to create a high quality online store. The result? Our new Weebly eCommerce!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;GnqEB0XxAbM&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/GnqEB0XxAbM&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- excerpt --&gt;
 
@@ -12653,7 +12715,9 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 
 &lt;p&gt;And one of my all-time favorites, from Ben Chestnut of MailChimp:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;bwR36YJ3S68&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/bwR36YJ3S68&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Wed, 06 Nov 2013 08:31:09 UTC</pubDate>
 				
@@ -12776,7 +12840,9 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 
 &lt;p&gt;Of course we also explored the island, with the highlight being a hiking trip to a local waterfall. Check out the video:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;oHU8WciU_6Q&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/oHU8WciU_6Q&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Unfortunately, some of us got sick after trying some local specialties in week two, but that didn&amp;rsquo;t stop us from enjoying the rest of our stay. I&amp;rsquo;d say on a tropical island it just adds to the experience&amp;hellip; ;)&lt;/p&gt;
 
@@ -13972,7 +14038,9 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 &lt;p&gt;The competition runs from October 1st, 2013 to May 31st, 2014 and any Shopify store that was opened after June 1st, 2013 may join the competition.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;zZciwQ6ZlsY&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/zZciwQ6ZlsY&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;!-- more --&gt;
 </description>
@@ -13997,7 +14065,9 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 
 &lt;p&gt;And best of all, the Mad Mimi team is full of extremely pleasant people. So if you&amp;rsquo;re looking to start up an email campaign or simply want to test the waters of email marketing, Mad Mimi should definitely be on your radar.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;H-OmQN_5QkY&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/H-OmQN_5QkY&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;[3]: &lt;a href=&#34;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&#34;&gt;https://iwantmyname.com/services/marketing/madmimi-newsletter-custom-domain&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -14924,7 +14994,9 @@ then been reminded that while 252 million of them have gone, there are a hundred
 
 &lt;p&gt;Flickr getting an overhaul like this is pretty surprising for a company like Yahoo! &amp;mdash; let&amp;rsquo;s hope this is the start of a new trend &amp;mdash; perhaps they&amp;rsquo;re on the track to becoming cool again?&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;8DRgzOEqLp0&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/8DRgzOEqLp0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Wed, 05 Jun 2013 08:28:12 UTC</pubDate>
 				
@@ -16115,7 +16187,9 @@ WordPress blog. Better yet, WP Engine handle everything for you. No need
 				<title>Parking Domains Can Delay Website Discovery By Search Engines</title>
 				<description>&lt;p&gt;Google&amp;rsquo;s &lt;a href=&#34;http://www.mattcutts.com/blog/&#34;&gt;Matt Cutts&lt;/a&gt; explains why you shouldn&amp;rsquo;t park your domain right until the launch of your website:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;eF8i6rKojXQ&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/eF8i6rKojXQ&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Some more tips from us:&lt;/p&gt;
 
@@ -16210,7 +16284,9 @@ Wishing you a safe and happy Halloween&amp;hellip; :)&lt;/p&gt;
 
 &lt;p&gt;And here&amp;rsquo;s the full clip for all fellow music lovers:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;NihMVuspKQw&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/NihMVuspKQw&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Tue, 30 Oct 2012 06:23:12 UTC</pubDate>
 				
@@ -16660,7 +16736,9 @@ zz.je&lt;/p&gt;
 				<title>Dear Google, Please Add .IO To The List Of Generic Domains In Webmaster Tools</title>
 				<description>&lt;p&gt;Google &lt;a href=&#34;http://google.com/webmastertools&#34;&gt;Webmaster Tools&lt;/a&gt; is a free service allowing site owners to check certain metrics and adjust settings, e.g. search engine crawling errors or managing the robots.txt file. The service also lets you geo-target domains, for example, if you are using a .com domain, you can tell Google how the site should appear in their search results for specific geographic regions:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;r9r3PayqaZM&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/r9r3PayqaZM&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Usually country code top-level domains (ccTLDs) such as &lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.DE (Germany)&lt;/a&gt; or &lt;a href=&#34;https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain&#34;&gt;.ES (Spain)&lt;/a&gt; cannot be targeted to an international audience but there are a &lt;a href=&#34;http://support.google.com/webmasters/bin/answer.py?hl=en&amp;amp;answer=1347922&#34;&gt;few exceptions&lt;/a&gt;:&lt;/p&gt;
 
@@ -17146,7 +17224,9 @@ As the name would suggest one of the strings CloudNames has placed a bid for is 
 
 &lt;p&gt;&lt;a href=&#34;http://www.zoho.com/sites/&#34;&gt;Zoho Sites&lt;/a&gt; are heavily promoting the fact that their site builder provides instant optimization for mobile users and integrates with existing (and future) Zoho business tools. This will be especially interesting for small businesses looking to capture, monetize and track the fast growing mobile market. The easy drag and drop format will also interest micro-business users who are generally time poor and want to get up and running quickly. At $39 for a whole year, the paid plan looks very attractively priced and Zoho scores extra points for excluding ads from its free version as well.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;Nj4qBd6vOpk&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/Nj4qBd6vOpk&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Adding Zoho Sites to your domain name from the iwantmyname dashboard is really easy and requires zero technical knowledge. Purchase your own web address and &lt;a href=&#34;https://iwantmyname.com/services/website-builder/register-domain-zoho-sites&#34;&gt;get started with your website today&lt;/a&gt;!&lt;/p&gt;
 </description>
@@ -17852,7 +17932,9 @@ Recently you may have become aware of a list of corporations that are supporting
 
 &lt;p&gt;Internet regulatory body &lt;a href=&#34;http://icann.org&#34;&gt;ICANN&lt;/a&gt;, concluded a lengthy history of internal debate and negotiation with multiple stakeholders that began with its formation in 1998. The organization unleashed approval to allow anybody to apply for a top-level domain. The historic move opens the doors to specifically branded domains, such as .ibm or .bmw, as well as new domains aimed at more general verticals, such as .hotel or .sport. There are also moves afoot to create domain brands for geographic regions, such as &lt;a href=&#34;http://dotberlin.org/&#34;&gt;.berlin&lt;/a&gt; and &lt;a href=&#34;http://dotnyc.net/&#34;&gt;.nyc&lt;/a&gt;. The application window begins January 2012, but industry observers predict that it may be 2013 before the first new domains roll off the production line. It is anticipated that the new offerings will encompass internationalised domain name (IDN) facilities, incorporating non-Latin scripts from day one.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;vTvmhk1Fqns&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/vTvmhk1Fqns&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Rising Popularity of Internationalized Country Domain Extensions&lt;/strong&gt;&lt;/p&gt;
 
@@ -18894,7 +18976,9 @@ P.S. Should you need any assistance with your transfers, &lt;a href=&#34;https:/
 				<title>An Introduction To New Top-Level Domains [VIDEO]</title>
 				<description>&lt;p&gt;Good introductory video on &lt;a href=&#34;https://iwantmyname.com/blog/2011/06/new-top-level-domain-extensions-are-coming.html&#34;&gt;new generic top-level domains&lt;/a&gt; (gTLDs):&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;Gm3m3UKYsC4&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/Gm3m3UKYsC4&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Mon, 27 Jun 2011 00:51:00 UTC</pubDate>
 				
@@ -19562,7 +19646,9 @@ Our domain management service in a nutshell:&lt;/p&gt;
 				<title>How To Add Tumblr To Your Domain [Video]</title>
 				<description>&lt;p&gt;We&amp;rsquo;ve just finished re-designing some parts of the iwantmyname dashboard, making it even easier for you to set up domains. This new video shows you how to add Tumblr to a domain name at iwantmyname:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;PhdSAusvVS4&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/PhdSAusvVS4&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;More services and applications to use with your domains can be found in the &lt;a href=&#34;https://iwantmyname.com/services/featured&#34;&gt;iwantmyname marketplace&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -20242,7 +20328,9 @@ home, and in business. As a business ourselves whose technical team are heavily 
 				<title>Free Online Brand Building Video Series From Loic Le Meur</title>
 				<description>&lt;p&gt;Online branding goes well beyond &lt;a href=&#34;https://iwantmyname.com&#34;&gt;domain names&lt;/a&gt;. Nevertheless, they are an integral part of brand building and should be secured early on in the branding process. Entrepreneur &lt;a href=&#34;http://loiclemeur.com&#34;&gt;Loic Le Meur&lt;/a&gt; shares some useful advice in his video series on how to build your own brand:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;YaYx52JR9Ew&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/YaYx52JR9Ew&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;More episodes can be found on &lt;a href=&#34;http://archived.link/http://www.buildyourownbrand.tv/&#34;&gt;BuildYourOwnBrand.tv&lt;/a&gt;, a great example for domain branding with a &lt;a href=&#34;https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu&#34;&gt;.TV web address&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -20795,7 +20883,9 @@ If you have already used the NZ site &amp;ndash; thank-you for supporting a loca
 				<title>Internationalized Domain Name Extensions Are Coming Soon [VIDEO]</title>
 				<description>&lt;p&gt;CNN Live News interview with Tina Dam from ICANN on topic of new Internationalized Domain Name (IDN) suffixes. The new development results in domain extensions such as .CN (China) or .GR (Greece) being available for users, expressed in their native languages and scripts.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;TgQ16Bwj3sw&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/TgQ16Bwj3sw&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The following internationalized country code top-level domains (ccTLDs) have already been approved by ICANN:&lt;/p&gt;
 
@@ -21393,7 +21483,9 @@ So now it&amp;rsquo;s the perfect time to revisit this year&amp;rsquo;s highligh
 
 &lt;p&gt;The free website builder is aimed firmly at small companies, home users, schools and not-for-profits who just need to get online with a basic brochure quality set-up and who don&amp;rsquo;t have corporate level online marketing budgets to spend. The new templates  should drive a lot of interest in the service, which previously had only a low profile.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;tkTGrOcFiz0&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/tkTGrOcFiz0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The introduction of Google Sites webpage templates is great news for iwantmyname customers because we already offer to link your domains through to free Google services. There are many templates available already, some examples from the directory are below.&lt;/p&gt;
 
@@ -21479,7 +21571,9 @@ So now it&amp;rsquo;s the perfect time to revisit this year&amp;rsquo;s highligh
 
 &lt;p&gt;It&amp;rsquo;s best to see it in action so watch the demo video below and see how easy Droplr works with Twitter or email:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;Qu_BP1RRN7w&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/Qu_BP1RRN7w&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The service is currently in private beta but we could score some invites for you which will be raffled among all commenters to this blog post (don&amp;rsquo;t forget to leave your email address).&lt;/p&gt;
 </description>
@@ -22269,7 +22363,9 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 				<title>Build Flash Websites with Wix</title>
 				<description>&lt;p&gt;In addition to the popular &lt;a href=&#34;http://www.wix.com/sample/website&#34;&gt;Moonfruit&lt;/a&gt; solution, we&amp;rsquo;ve now added &lt;a href=&#34;http://wix.com&#34;&gt;Wix&lt;/a&gt; as a second &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/wix-make-flash-website-own-url&#34;&gt;Flash Website Builder&lt;/a&gt; service. Wix is a complete hosting platform which also lets you use your own domain name. Linking domains to Wix works as easy as usual from your iwantmyname dashboard.&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;UAYJVPm8uC8&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/UAYJVPm8uC8&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Other resources:&lt;/p&gt;
 
@@ -22740,7 +22836,9 @@ still available&lt;/strong&gt;!&lt;/p&gt;
 
 &lt;p&gt;We are focussed on an easy domain registration process &lt;strong&gt;without all these hassles&lt;/strong&gt;. This process starts on our home page where you will find only a search box and a few links (which completely disappear when you&amp;rsquo;re logged in). The streamlined process continues with a search result page that brings you directly to the shopping cart without offering you unwanted additional products and ends with a simple confirmation page to finish your order. It&amp;rsquo;s 3 steps in total and only takes 30 seconds as you can see in the following video:&lt;/p&gt;
 
-&lt;p&gt;{{ template &amp;ldquo;youtube&amp;rdquo; &amp;ldquo;dTf9josVnNY&amp;rdquo; }}&lt;/p&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/dTf9josVnNY&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
 				<pubDate>Mon, 06 Apr 2009 06:59:20 UTC</pubDate>
 				
