@@ -6,6 +6,121 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to keep your passwords and logins safe</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Security is one of those things that no one wants to think about, but we all need to be paying attention to. Moving around today&amp;rsquo;s internet requires more than the short password you&amp;rsquo;ve been using since 1998, and no, adding a capital letter at the beginning probably isn&amp;rsquo;t enough. To really be safe, you need strong passwords and extra layers of authentication when logging in to sites—and for most people, you&amp;rsquo;ll need apps to help you keep track of it all. Here&amp;rsquo;s our primer.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;The best ways to manage your passwords&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Use 2FA for an extra layer of protection&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;The best ways to keep your passwords safe&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;ve worked hard over the past half-decade making domain registration as easy as possible, but one pain point we often encounter is password memorization. The vast majority of our customers simply don&amp;rsquo;t need to interact with us very often, and what seems like a strong, easily remembered password could be completely alien when domain renewals come around a year later. But there are solutions for this very problem—all you need is a solid password manager.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an intro to password managers from &lt;a href=&#34;The paranoid guide to digital security&#34;&gt;Consumer Reports&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The concept is straightforward: You sign up for a service that generates and stores a unique, strong password for each of the websites where you need log-in credentials. You can do that yourself if you have a savant-like memory for numbers, but in all likelihood you don’t. Then, you just need to remember one, excellent password in order to access the service. Yes, you may ask, but what if the password manager gets hacked? Not to worry, says Chris Soghoian. “Password managers encrypt their data, so these services are safe. And, ultimately, in 2015 it’s not a good idea to use the same password for more than one website. That effectively means that you have to outsource the task.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;1Password&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-02-11-one-password.png&#34; alt=&#34;1Password&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;As the name suggests, &lt;a href=&#34;https://agilebits.com/onepassword&#34;&gt;1Password&lt;/a&gt; is a tool that acts as a vault for all your passwords, secured by a single password of your creation. Basically, using a browser extension (available for Safari, Firefox, Chrome, and Opera), app, or smartphone app, you can open your vault with your master password and have instant access to all the passwords you&amp;rsquo;ve created, on any device you happen to be using.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a little excerpt from an extremely in-depth piece by the Sweet Setup, titled &amp;ldquo;&lt;a href=&#34;http://thesweetsetup.com/apps/best-password-manager-and-why-you-need-one/&#34;&gt;The best password manager (and why you need one) &amp;ndash; 1Password&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In short, 1Password is the best app for managing your passwords because it does the best job of taking hold of our slippery digital identity, all the myriad digital bits of ourselves we use to prove who we are, and helps ease the friction of our travels through the digital world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here&amp;rsquo;s another glowing review from &lt;a href=&#34;http://www.macstories.net/reviews/1password-4-for-mac-review/&#34;&gt;MacStories&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Every time a new version of 1Password comes out, I feel like repeating myself: if you’re serious about your secure data and web logins, you need 1Password. While it’s a great thing that Apple will be providing native options for increased password security and form-filling with iCloud Keychain, my recommendation still goes to 1Password if you’re looking for a dedicated app with more and better options aimed at managing your passwords, login details, credit card information, software licenses, and more. iCloud Keychain is meant for Safari, whereas 1Password is system-wide, powered by great customizable menus with keyboard shortcuts, and goes beyond web logins to let you encrypt and protect just about anything. I can’t work without 1Password.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;LastPass&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-02-11-lastpass.jpg&#34; alt=&#34;LastPass&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Another good password manager is &lt;a href=&#34;https://lastpass.com&#34;&gt;LastPass&lt;/a&gt;, which works basically the same way 1Password does, but with a few less bells and whistles (although LastPass has been making huge strides), and a cheaper price (there&amp;rsquo;s a free option!).&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a bit from PC Mag&amp;rsquo;s &lt;a href=&#34;http://www.pcmag.com/article2/0,2817,2426798,00.asp&#34;&gt;LastPass 3.0 review&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Storing all of your passwords in a single, secure password manager means you can use a different, strong password for every site, without worrying that you&amp;rsquo;ll forget. It also means that a successful attack on your password stash could give a hacker access to every one of your secure sites. If that thought worries you, the free LastPass 3.0 is just what you need. Your data is stored online in encrypted form that even the company can&amp;rsquo;t read, and it&amp;rsquo;s encrypted going to and from your PCs. You can protect your LastPass data with more different kinds of two-factor authentication than any other password manager I&amp;rsquo;ve encountered.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;Dashlane&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-02-11-dashlane.png&#34; alt=&#34;Dashlane&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dashlane.com&#34;&gt;Dashlane&lt;/a&gt; is similar in many ways to the other password managers on the market (if you want details, David Pogue wrote a &lt;a href=&#34;http://www.nytimes.com/2013/06/06/technology/personaltech/too-many-passwords-and-no-way-to-remember-them-until-now.html&#34;&gt;very positive review&lt;/a&gt; in the New York Times, as did &lt;a href=&#34;http://thenextweb.com/apps/2014/12/09/dashlanes-automatic-password-changer-makes-precious-accounts-less-hackable/&#34;&gt;The Next Web&lt;/a&gt; in late 2014), but a new feature dropped in December that makes it extremely enticing. Here&amp;rsquo;s the description from &lt;a href=&#34;http://www.theverge.com/2014/12/9/7357251/dashlane-can-now-change-all-your-passwords-with-a-single-click-and&#34;&gt;the Verge&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Dashlane, the subscription-based password management service, is introducing a feature today that ought to become standard in every product like it: the ability to change all your passwords with a single click, including accounts with two-factor authentication enabled. The feature will work with about 75 major websites at launch, including Amazon, Apple, Facebook, Google, LinkedIn, PayPal, Pinterest, and Twitter.&lt;/p&gt;
+
+&lt;p&gt;Password Changer, as the feature is called, is made possible by Dashlane’s acquisition of PassOmatic, a New York startup that developed the core technology. For now, it works on desktop versions of Dashlane for PC and Mac, though the company is working on a mobile version. Dashlane now includes a big green &amp;ldquo;change all passwords&amp;rdquo; button; click it, and it will replace your existing passwords with ones that are unique and randomly generated. If you have two-factor authentication enabled, a pop-up will ask you for a code or for the answer to a security question.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;Safari Passwords&lt;/h3&gt;
+
+&lt;p&gt;If you want to avoid the master password thing and just want a simple password storage system, the Safari Password Manager is a pretty nice tool. Basically, when you&amp;rsquo;re setting up an account online, Safari can auto-generate and save a secure password that will sync via iCloud Keychain for you to use on any device. It&amp;rsquo;s incredibly easy, but for some, it might be too easy. Here&amp;rsquo;s a specific pain point, from the pro-1Password &lt;a href=&#34;http://thesweetsetup.com/apps/best-password-manager-and-why-you-need-one/&#34;&gt;Sweet Setup&lt;/a&gt; article above:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Different people also have different levels of comfort with iCloud Keychain. I, for one, don’t actually love the frictionless experience. I want to be intentional about how I use my passwords and my credit card information, and I like how 1Password makes me conscious of when I’m using those things. I also like how I have more control over access to my information on my devices. I can require a login to 1Password after not using it for even a few minutes. I also like that if my daughter is using my iPad, she can’t easily hop over to Zappos and buy herself a new pair of shoes with my credit card.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;section-2&#34;&gt;Use 2FA for an extra layer of protection&lt;/h2&gt;
+
+&lt;p&gt;In principle, making your online self more secure seems like a no-brainer. Of course you don&amp;rsquo;t want to get hacked. Of course you don&amp;rsquo;t want your identity to be stolen. But at what length are you willing to go to ensure your safety?&lt;/p&gt;
+
+&lt;p&gt;One easy (and totally free) step we recommend you take for every platform that supports it is two-factor authentication (2FA). Stripping technical jargon, 2FA makes it so that in order to login to your account, you have to type in a code that&amp;rsquo;s only accessible on your phone. So if Hacker X tries to access your account, they&amp;rsquo;ll need the code sitting on your phone to get through.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s something we think is really important, so here&amp;rsquo;s a quick look at how to set it up, and what using it looks like:&lt;/p&gt;
+
+&lt;h3&gt;The setup&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Login to your account, then select &amp;ldquo;Login &amp;amp; Security&amp;rdquo; under the &amp;ldquo;Account&amp;rdquo; dropdown menu&lt;/li&gt;
+&lt;li&gt;Under &amp;ldquo;Two-step verification&amp;rdquo; type in your phone number and country code, then download the Authy app for iOS or Android (an SMS text option is available if you&amp;rsquo;re on an unsupported platform).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2014-05-01-2fa-setup.png&#34; alt=&#34;2FA setup&#34;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Using 2FA&lt;/h3&gt;
+
+&lt;p&gt;Now that you&amp;rsquo;re all setup, your login will look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2014-05-01-authy-login.png&#34; alt=&#34;Authy login&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Just open up your Authy app (or SMS text) and type in the code provided—and that&amp;rsquo;s it. You&amp;rsquo;ve quickly—and painlessly—added a second level of security to your iwantmyname account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2014-05-01-2fa.png&#34; alt=&#34;Authy&#34;&gt;&lt;/p&gt;
+
+&lt;h3&gt;But will this get annoying?&lt;/h3&gt;
+
+&lt;p&gt;The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we&amp;rsquo;re not a Bitcoin platform you&amp;rsquo;re logging into every day. If you&amp;rsquo;re like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you&amp;rsquo;re slow, it can only take that long), you&amp;rsquo;re only looking at losing a few seconds of your life a month.&lt;/p&gt;
+
+&lt;p&gt;And that&amp;rsquo;s a really small price to pay for peace of mind.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 31 Jul 2015 10:21:09 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/07/2015-07-31-how-to-keep-your-passwords-and-logins-safe.html</link>
+				
+				<guid isPermaLink="false">/2015/07/2015-07-31-how-to-keep-your-passwords-and-logins-safe.html</guid>
+			</item>
+		
+			<item>
 				<title>.COM? .IO? .PIZZA? How to pick the right domain extension (TLD)</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -22967,25 +23082,35 @@ still available&lt;/strong&gt;!&lt;/p&gt;
 		
 			<item>
 				<title></title>
-				<description>&lt;p&gt;date: 2012-09-01 12:34:02 +1200
-author: Paul
-title: .CO Domain Deal Sparks Startup Flame&lt;/p&gt;
+				<description>&lt;p&gt;date: 2014-01-03 15:03:50 +1200
+author: Chris
+title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;img src=&#34;/media/2012-09-01-dotco.png&#34; alt=&#34;dotco.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg&#34; alt=&#34;bigstock-Year---handwritten-on-the-s-47541919.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;Earlier this year we &lt;a href=&#34;https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html&#34;&gt;challenged you&lt;/a&gt; to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there&amp;rsquo;s no excuse for not signing up and getting your .COOL new business online.&lt;/p&gt;
+&lt;!-- excerpt --&gt;
 
-&lt;p&gt;For the remainder of this year we can offer &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO domains&lt;/a&gt; for only $19. That&amp;rsquo;s a huge reduction of 42% and a great domain deal for companies that are just starting out. There are some &lt;a href=&#34;http://www.go.co/case-studies/&#34;&gt;fantastic new companies&lt;/a&gt; already using .CO domains, including &lt;a href=&#34;https://angel.co/&#34;&gt;AngelList&lt;/a&gt; and &lt;a href=&#34;http://duck.co/&#34;&gt;Duck.co&lt;/a&gt; the Duck Duck Go user community. The .CO domain space is relatively under-populated at present, so it&amp;rsquo;s an attractive option if you are looking at building a great brand online.&lt;/p&gt;
+&lt;p&gt;2014 is finally here, and with it comes a bundle of resolutions bound to be broken by Spring (I seriously don&amp;rsquo;t think my &amp;ldquo;cut down on dessert&amp;rdquo; thing will last very long).&lt;/p&gt;
 
-&lt;p&gt;Whatever your plans are for your new .CO domain, don&amp;rsquo;t forget iwantmyname helps you to find a bunch of hosted services that can be easily domain customised to &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;get your online venture up and running quickly&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But if your resolution is to start a new website, we&amp;rsquo;ve got your back. In addition to &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;continuing our sale&lt;/a&gt; on &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; ($49, $19.90 and $15.50 respectively), we have two additional extensions that might be perfect for what you&amp;rsquo;re looking for.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada&#34;&gt;.CA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; Canada. The &lt;a href=&#34;http://www.canadafreepress.com/index.php/article/25958&#34;&gt;most polite country&lt;/a&gt; on Earth, and perhaps the future birthplace of your next domain. .CA domains are fantastic for businesses and personal sites in Canada, and can make for great domain hacks if you&amp;rsquo;re feeling clever. Something like colderameri.CA or delicioustapio.CA might do the trick. Or perhaps you&amp;rsquo;re starting a fan club for the movie Casablan.CA? Either way, .CA domains are on sale this month for $15.50, down from $19.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/asia-domain-name-registration-for-asia&#34;&gt;.ASIA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; .ASIA is an interesting generic domain extension because it fully spells out a place. And with Asia already being one of the most popular search keywords on the web, having a .ASIA address might be your ticket to enhanced visibility. Grab yours this month for $15.50, down from $24.90.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And from all of us here at iwantmyname, we hope you had a wonderful New Year. Here&amp;rsquo;s to 2014 being the best year yet.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2012/08/co-domain-deal-sparks-startup-flame.html</link>
+					<link>https://iwantmyname.com/blog/2014/01/happy-new-year-its-time-for-january-domain-sales.html</link>
 				
-				<guid isPermaLink="false">/2012/08/co-domain-deal-sparks-startup-flame.html</guid>
+				<guid isPermaLink="false">/2014/01/happy-new-year-its-time-for-january-domain-sales.html</guid>
 			</item>
 		
 			<item>
@@ -23021,39 +23146,6 @@ title: 2013 A Year Of Domains&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2013/12/2013-a-year-of-domains.html</link>
 				
 				<guid isPermaLink="false">/2013/12/2013-a-year-of-domains.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2014-01-03 15:03:50 +1200
-author: Chris
-title: Happy New Year! It&amp;rsquo;s time for January domain sales.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-bigstock-Year----handwritten-on-the-s-47541919.jpg&#34; alt=&#34;bigstock-Year---handwritten-on-the-s-47541919.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;2014 is finally here, and with it comes a bundle of resolutions bound to be broken by Spring (I seriously don&amp;rsquo;t think my &amp;ldquo;cut down on dessert&amp;rdquo; thing will last very long).&lt;/p&gt;
-
-&lt;p&gt;But if your resolution is to start a new website, we&amp;rsquo;ve got your back. In addition to &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;continuing our sale&lt;/a&gt; on &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; ($49, $19.90 and $15.50 respectively), we have two additional extensions that might be perfect for what you&amp;rsquo;re looking for.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ca-canadian-domain-name-registration-for-canada&#34;&gt;.CA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; Canada. The &lt;a href=&#34;http://www.canadafreepress.com/index.php/article/25958&#34;&gt;most polite country&lt;/a&gt; on Earth, and perhaps the future birthplace of your next domain. .CA domains are fantastic for businesses and personal sites in Canada, and can make for great domain hacks if you&amp;rsquo;re feeling clever. Something like colderameri.CA or delicioustapio.CA might do the trick. Or perhaps you&amp;rsquo;re starting a fan club for the movie Casablan.CA? Either way, .CA domains are on sale this month for $15.50, down from $19.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/domains/asia-domain-name-registration-for-asia&#34;&gt;.ASIA&lt;/a&gt;&lt;/strong&gt; &amp;ndash; .ASIA is an interesting generic domain extension because it fully spells out a place. And with Asia already being one of the most popular search keywords on the web, having a .ASIA address might be your ticket to enhanced visibility. Grab yours this month for $15.50, down from $24.90.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And from all of us here at iwantmyname, we hope you had a wonderful New Year. Here&amp;rsquo;s to 2014 being the best year yet.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/01/happy-new-year-its-time-for-january-domain-sales.html</link>
-				
-				<guid isPermaLink="false">/2014/01/happy-new-year-its-time-for-january-domain-sales.html</guid>
 			</item>
 		
 			<item>
@@ -23260,6 +23352,29 @@ title: Price reduction for .CH and .LI&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</link>
 				
 				<guid isPermaLink="false">/2014/02/weve-done-it-you-guys-weve-hired-our-third-developer.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;date: 2012-09-01 12:34:02 +1200
+author: Paul
+title: .CO Domain Deal Sparks Startup Flame&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2012-09-01-dotco.png&#34; alt=&#34;dotco.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Earlier this year we &lt;a href=&#34;https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html&#34;&gt;challenged you&lt;/a&gt; to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there&amp;rsquo;s no excuse for not signing up and getting your .COOL new business online.&lt;/p&gt;
+
+&lt;p&gt;For the remainder of this year we can offer &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO domains&lt;/a&gt; for only $19. That&amp;rsquo;s a huge reduction of 42% and a great domain deal for companies that are just starting out. There are some &lt;a href=&#34;http://www.go.co/case-studies/&#34;&gt;fantastic new companies&lt;/a&gt; already using .CO domains, including &lt;a href=&#34;https://angel.co/&#34;&gt;AngelList&lt;/a&gt; and &lt;a href=&#34;http://duck.co/&#34;&gt;Duck.co&lt;/a&gt; the Duck Duck Go user community. The .CO domain space is relatively under-populated at present, so it&amp;rsquo;s an attractive option if you are looking at building a great brand online.&lt;/p&gt;
+
+&lt;p&gt;Whatever your plans are for your new .CO domain, don&amp;rsquo;t forget iwantmyname helps you to find a bunch of hosted services that can be easily domain customised to &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;get your online venture up and running quickly&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2012/08/co-domain-deal-sparks-startup-flame.html</link>
+				
+				<guid isPermaLink="false">/2012/08/co-domain-deal-sparks-startup-flame.html</guid>
 			</item>
 		
 	</channel>
