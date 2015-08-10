@@ -7671,87 +7671,6 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 			</item>
 		
 			<item>
-				<title>A closer look at using Authy for two-factor authentication</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Yesterday I &lt;a href=&#34;https://iwantmyname.com/blog/2014/04/a-practical-look-at-using-iwantmynames-two-factor-authentication.html&#34;&gt;went over&lt;/a&gt; using a setting up two-factor authentication, so now lets do a quick dive into Authy itself. Specifically about what it is, what platforms you can use it on and how the Authy setup works.&lt;/p&gt;
-
-&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/71272779?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;h3&gt;What is Authy?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2013/07/authy/&#34;&gt;From Klint Finley &amp;ndash; Wired:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Authy is one of several companies working to bring a security technique called “two-factor authentication” to the masses. With two-factor authentication, you provide more than just a username and password when you log into a service. You provide additional credentials, such as a hardware dongle, a fingerprint, or a unique PIN number that was just text-messaged to your phone. That way, even if someone knows your password, they can’t find their way into your stuff.&lt;/p&gt;
-
-&lt;p&gt;But Authy’s service isn’t something you use all on your own. You need help from third-party software developers. The company offers tools that let developers add its two-factor authentication to specific applications. Then, if you use one of these third-party apps, Authy provides another tool that ties into the app and manages your credentials. This tool can also double as a client for Google Authenticator, a similar service from the web search giant.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;Downloading Authy&lt;/h3&gt;
-
-&lt;p&gt;There are a number of ways you can set Authy up now, including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/authy/id494168017&#34;&gt;iOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.authy.authy&#34;&gt;Android&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/gaedmjdfmmahhbjefcbgaolhhanlaolb&#34;&gt;Google Chrome for Mac, Linux or Windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Authy for Chrome is brand new (here&amp;rsquo;s the &lt;a href=&#34;http://blog.authy.com/authy-for-pc&#34;&gt;official announcement&lt;/a&gt;), and lets you authenticate all your codes right from your computer. &lt;a href=&#34;http://techcrunch.com/2014/04/28/authy-brings-two-factor-authentication-to-the-desktop/&#34;&gt;From Frederic Lardinois &amp;ndash; TechCrunch&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;As the company’s founder and CEO Daniel Palacio told me last week, being able to get your second factor from your desktop and laptop makes for a far more seamless user experience. Instead of typing in a code, you can just copy and paste it from the desktop app. For those users who don’t have a smartphone, this also provides an easier alternative to the usual SMS messages services like Authy utilize to send their codes.&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;But doesn’t that defeat the purpose of a two-factor application? Authy — unsurprisingly — claims it doesn’t. “Two-factor authentication is still valid regardless of whether the second authentication factor ‘you have’ comes from your cellphone, your tablet, or right from a desktop app in your laptop,” the company writes in a blog post today. “What really matters, is that it is something only you can have.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;What the setup looks like&lt;/h3&gt;
-
-&lt;p&gt;I personally have Authy downloaded on iOS and Chrome, so I&amp;rsquo;ll walk through what the setups looked like.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;iOS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-05-02-authy-setup.png&#34; alt=&#34;setup iOS&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Once you download the app, you&amp;rsquo;re shown a screen that lets you attach a phone number to your Authy app. Then, to verify that you are the owner of the phone number, you just follow the directions in the screen below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-05-02-authy-ver.png&#34; alt=&#34;verification iOS&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, when you add your number into a platform like iwantmyname, verifications and such will go to the correct device.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chrome&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-05-02-authy-chrome.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Once you install Authy for Chrome, you&amp;rsquo;re shown a similar screen as the iOS install that lets you enter your phone number. Just add it in, type in the code from the following text and you&amp;rsquo;re good to go.&lt;/p&gt;
-
-&lt;h3&gt;Find more information&lt;/h3&gt;
-
-&lt;p&gt;If you&amp;rsquo;d like to find more information about Authy, here are a few good places to start:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Find answers to common questions, or ask your own, on the &lt;a href=&#34;https://www.authy.com/faq&#34;&gt;Authy FAQ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tweet Authy &lt;a href=&#34;https://twitter.com/Authy&#34;&gt;@authy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Authy has 11 informational videos on &lt;a href=&#34;http://vimeo.com/user13020702/videos&#34;&gt;Vimeo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;If you&amp;rsquo;re interested in integrating Authy to your platform, here&amp;rsquo;s an introduction on &lt;a href=&#34;http://code.tutsplus.com/tutorials/two-factor-auth-using-authy--net-33402&#34;&gt;Tuts+&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;We&amp;rsquo;re big fans of DigitalOcean, and they have a great &lt;a href=&#34;https://www.digitalocean.com/community/articles/how-to-install-authy-and-configure-two-factor-authentication-for-ssh&#34;&gt;article&lt;/a&gt; titled, &amp;ldquo;How To Install Authy And Configure Two-Factor Authentication For SSH&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Fri, 02 May 2014 08:14:58 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/05/a-closer-look-at-using-authy-for-two-factor-authentication.html</link>
-				
-				<guid isPermaLink="false">/2014/05/a-closer-look-at-using-authy-for-two-factor-authentication.html</guid>
-			</item>
-		
-			<item>
 				<title>The current top 10 new domain extensions are probably not what you&#39;d expect (.GURU is still #1)</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -22853,6 +22772,29 @@ title: Price reduction for .CH and .LI&lt;/p&gt;
 			</item>
 		
 			<item>
+				<title></title>
+				<description>&lt;p&gt;date: 2012-09-01 12:34:02 +1200
+author: Paul
+title: .CO Domain Deal Sparks Startup Flame&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2012-09-01-dotco.png&#34; alt=&#34;dotco.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Earlier this year we &lt;a href=&#34;https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html&#34;&gt;challenged you&lt;/a&gt; to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there&amp;rsquo;s no excuse for not signing up and getting your .COOL new business online.&lt;/p&gt;
+
+&lt;p&gt;For the remainder of this year we can offer &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO domains&lt;/a&gt; for only $19. That&amp;rsquo;s a huge reduction of 42% and a great domain deal for companies that are just starting out. There are some &lt;a href=&#34;http://www.go.co/case-studies/&#34;&gt;fantastic new companies&lt;/a&gt; already using .CO domains, including &lt;a href=&#34;https://angel.co/&#34;&gt;AngelList&lt;/a&gt; and &lt;a href=&#34;http://duck.co/&#34;&gt;Duck.co&lt;/a&gt; the Duck Duck Go user community. The .CO domain space is relatively under-populated at present, so it&amp;rsquo;s an attractive option if you are looking at building a great brand online.&lt;/p&gt;
+
+&lt;p&gt;Whatever your plans are for your new .CO domain, don&amp;rsquo;t forget iwantmyname helps you to find a bunch of hosted services that can be easily domain customised to &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;get your online venture up and running quickly&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2012/08/co-domain-deal-sparks-startup-flame.html</link>
+				
+				<guid isPermaLink="false">/2012/08/co-domain-deal-sparks-startup-flame.html</guid>
+			</item>
+		
+			<item>
 				<title>This week in gTLDs, including .COFFEE, .DOMAINS and .HOLIDAY</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -22942,29 +22884,6 @@ title: Price reduction for .CH and .LI&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2014/02/this-week-in-gtlds.html</link>
 				
 				<guid isPermaLink="false">/2014/02/this-week-in-gtlds.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2012-09-01 12:34:02 +1200
-author: Paul
-title: .CO Domain Deal Sparks Startup Flame&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2012-09-01-dotco.png&#34; alt=&#34;dotco.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Earlier this year we &lt;a href=&#34;https://iwantmyname.com/blog/2012/02/co-domain----what-will-you-build.html&#34;&gt;challenged you&lt;/a&gt; to think about contributing to rebuilding the economy through entrepreneurship. We also explained how the .CO registry is building a reputation as a secure and popular digital foundation for start-ups. Now from September we can pass on a fantastic reduction in the price of your .CO domain, so there&amp;rsquo;s no excuse for not signing up and getting your .COOL new business online.&lt;/p&gt;
-
-&lt;p&gt;For the remainder of this year we can offer &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO domains&lt;/a&gt; for only $19. That&amp;rsquo;s a huge reduction of 42% and a great domain deal for companies that are just starting out. There are some &lt;a href=&#34;http://www.go.co/case-studies/&#34;&gt;fantastic new companies&lt;/a&gt; already using .CO domains, including &lt;a href=&#34;https://angel.co/&#34;&gt;AngelList&lt;/a&gt; and &lt;a href=&#34;http://duck.co/&#34;&gt;Duck.co&lt;/a&gt; the Duck Duck Go user community. The .CO domain space is relatively under-populated at present, so it&amp;rsquo;s an attractive option if you are looking at building a great brand online.&lt;/p&gt;
-
-&lt;p&gt;Whatever your plans are for your new .CO domain, don&amp;rsquo;t forget iwantmyname helps you to find a bunch of hosted services that can be easily domain customised to &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;get your online venture up and running quickly&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/08/co-domain-deal-sparks-startup-flame.html</link>
-				
-				<guid isPermaLink="false">/2012/08/co-domain-deal-sparks-startup-flame.html</guid>
 			</item>
 		
 			<item>
