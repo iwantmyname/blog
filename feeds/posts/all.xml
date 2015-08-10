@@ -112,6 +112,18 @@
 &lt;p&gt;The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we&amp;rsquo;re not a Bitcoin platform you&amp;rsquo;re logging into every day. If you&amp;rsquo;re like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you&amp;rsquo;re slow, it can only take that long), you&amp;rsquo;re only looking at losing a few seconds of your life a month.&lt;/p&gt;
 
 &lt;p&gt;And that&amp;rsquo;s a really small price to pay for peace of mind.&lt;/p&gt;
+
+&lt;h3&gt;Find more information&lt;/h3&gt;
+
+&lt;p&gt;If you’d like to find more information about Authy, here are a few good places to start:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Find answers to common questions, or ask your own, on the &lt;a href=&#34;https://www.authy.com/faq&#34;&gt;Authy FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tweet Authy &lt;a href=&#34;https://twitter.com/Authy&#34;&gt;@authy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Authy has 11 informational videos on &lt;a href=&#34;http://vimeo.com/user13020702/videos&#34;&gt;Vimeo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you’re interested in integrating Authy to your platform, &lt;a href=&#34;http://code.tutsplus.com/tutorials/two-factor-auth-using-authy--net-33402&#34;&gt;here’s an introduction on Tuts+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We’re big fans of DigitalOcean, and they have a great article titled, “&lt;a href=&#34;https://www.digitalocean.com/community/articles/how-to-install-authy-and-configure-two-factor-authentication-for-ssh&#34;&gt;How To Install Authy And Configure Two-Factor Authentication For SSH&lt;/a&gt;”&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 				<pubDate>Fri, 31 Jul 2015 10:21:09 UTC</pubDate>
 				
