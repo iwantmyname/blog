@@ -93,3 +93,13 @@ Just open up your Authy app (or SMS text) and type in the code provided—and th
 The million dollar question. Yes, adding 2FA will make logging into your iwantmyname account a touch more cumbersome, but we're not a Bitcoin platform you're logging into every day. If you're like me, you probably only mess with your account once a month—or less. And at five seconds per login (the Authy codes expires every 20 seconds, so even if you're slow, it can only take that long), you're only looking at losing a few seconds of your life a month. 
 
 And that's a really small price to pay for peace of mind.
+
+### Find more information
+
+If you’d like to find more information about Authy, here are a few good places to start:
+
++ Find answers to common questions, or ask your own, on the [Authy FAQ](https://www.authy.com/faq)
++ Tweet Authy [@authy](https://twitter.com/Authy)
++ Authy has 11 informational videos on [Vimeo](http://vimeo.com/user13020702/videos)
++ If you’re interested in integrating Authy to your platform, [here’s an introduction on Tuts+](http://code.tutsplus.com/tutorials/two-factor-auth-using-authy--net-33402)
++ We’re big fans of DigitalOcean, and they have a great article titled, “[How To Install Authy And Configure Two-Factor Authentication For SSH](https://www.digitalocean.com/community/articles/how-to-install-authy-and-configure-two-factor-authentication-for-ssh)”
