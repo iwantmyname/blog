@@ -20108,37 +20108,6 @@ home, and in business. As a business ourselves whose technical team are heavily 
 			</item>
 		
 			<item>
-				<title>Simple Custom Domain Tweet Button With Bit.ly Pro</title>
-				<description>&lt;p&gt;Useful &lt;a href=&#34;http://blog.bit.ly/post/1003484046/more-tips-for-using-bit-ly-with-publishing-tools&#34;&gt;tip on the bit.ly blog&lt;/a&gt; about how to use your own &lt;a href=&#34;https://iwantmyname.com/short-domain-search&#34;&gt;custom short domain&lt;/a&gt; for link sharing via the Twitter Tweet Button in conjunction with &lt;a href=&#34;https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service&#34;&gt;bit.ly Pro&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;For smaller publishers who cannot cache links on their backend, we are now providing a simple JavaScript wrapper for sharing bit.ly links using the Twitter Tweet Button:&lt;/p&gt;
-
-&lt;p&gt;_
-&amp;lt;script src=&amp;ldquo;&lt;a href=&#34;https://api.bit.ly/v3/twitter_tweet_button.js?login=bitlyapidemo&amp;amp;apiKey=R_0da49e0a9118ff35f52f629d2d71bf07&amp;quot;&#34;&gt;https://api.bit.ly/v3/twitter_tweet_button.js?login=bitlyapidemo&amp;amp;apiKey=R_0da49e0a9118ff35f52f629d2d71bf07&amp;quot;&lt;/a&gt; type=&amp;ldquo;text/javascript&amp;rdquo;&amp;gt;&amp;lt;/script&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;div&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;a href=&amp;ldquo;&lt;a href=&#34;https://twitter.com/share&amp;quot;&#34;&gt;https://twitter.com/share&amp;quot;&lt;/a&gt; class=&amp;ldquo;twitter-share-button&amp;rdquo;&amp;gt;Tweet&amp;lt;/a&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;/div&amp;gt;
-_&lt;/p&gt;
-
-&lt;p&gt;Be sure to use your bit.ly login and API Key (which you can always find at &lt;a href=&#34;http://www.bit.ly/a/your_api_key&#34;&gt;http://www.bit.ly/a/your_api_key&lt;/a&gt;) with the code above.&lt;/p&gt;
-
-&lt;p&gt;This implementation simply shortens the page URL and then displays the Twitter Tweet Button in its standard fashion. All Tweet Button functionality is maintained.  And, since our JavaScript wrapper uses your bit.ly login and API Key, it will automatically return custom bit.ly short domains for Pro and Enterprise users.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Need a short domain name for your own URL shortener? These domain extensions allow &lt;a href=&#34;https://iwantmyname.com/short-domain-search&#34;&gt;2-letter domain registration&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Sat, 28 Aug 2010 19:18:39 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2010/08/simple-custom-domain-tweet-button-with-bitly-pro.html</link>
-				
-				<guid isPermaLink="false">/2010/08/simple-custom-domain-tweet-button-with-bitly-pro.html</guid>
-			</item>
-		
-			<item>
 				<title>Securing Your Domain Identity in China</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2010-08-20-prc.png&#34; alt=&#34;prc.png&#34;&gt;&lt;/p&gt;
 
