@@ -2,13 +2,11 @@ date: 2013-12-23 07:00:00 +1200
 author: Paul
 title: 2013 A Year Of Domains
 
-
-
----
-
-![pohu.jpg](/media/2013-12-23-pohu.jpg)
+----
 
 <!-- excerpt -->
+
+![pohu.jpg](/media/2013-12-23-pohu.jpg)
 
 Where did 2013 go? The year in which we celebrated our [5th birthday](https://iwantmyname.com/blog/2013/12/happy-5th-birthday-iwantmyname.html) seems to have flown by at break-neck speed. Perhaps this is partly because we were gripped by astonishing world events both good and bad. 
 
