@@ -1,6 +1,9 @@
+date: 2014-02-10 13:38:17 -0700
 author: Chris
 title: We've done it, you guys. We've hired our third back-end developer.
 ----
+
+<!-- excerpt -->
 
 Meet Joel Pitt, the newest member of the iwantmyname team. 
 
@@ -8,7 +11,7 @@ Meet Joel Pitt, the newest member of the iwantmyname team.
 
 Joel here is our newest backend developer, specifically tasked to make our user experience a bit more intelligent. From his mouth to the world, Joel "has a PhD in Ecoinformatics, an obsession with artificial intelligence and consciousness, and aims for the automation of tedious tasks to free up more time for the novel and fun things in life."
 
-<!-- more -->
+<!-- /excerpt -->
 
 Like "pondering and working on machine learning," "efficient graph database technology," and "building electronic art projects that explore the interaction between software and the physical world."
 
