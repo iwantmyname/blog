@@ -19658,21 +19658,6 @@ Co-founder&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Featured Site: Facelette.com</title>
-				<description>&lt;p&gt;The iwantmyname team got a huge buzz last week when we saw &lt;a href=&#34;http://zachholman.com/2010/10/facelette-on-techcrunch-in-three-hours-and-zero-dollars/&#34;&gt;this post by Zach Holman&lt;/a&gt; explaining how he launched a new service called &lt;a href=&#34;http://facelette.com/&#34;&gt;Facelette&lt;/a&gt; after Apple&amp;rsquo;s recent FaceTime launch. Basically FaceTime simplifies video calls between any Apple device. Holman whipped up a neat application that helps you randomly meet other FaceTime users and interact with them. The funniest part of this story is that the whole project got built, launched and then received a TechCrunch review within three hours and at no development cost whatsoever!&lt;/p&gt;
-
-&lt;p&gt;We love Zach&amp;rsquo;s &amp;ldquo;just get on and do it&amp;rdquo; attitude and that he didn&amp;rsquo;t begin Facelette by writing a boring business plan and hawking it around fifty different VC companies in the hope of getting funding. There&amp;rsquo;s nothing wrong with hacking a fun project and just putting it out there to see what happens. It&amp;rsquo;s called creativity and it&amp;rsquo;s something intangible that occasionally gets lost in the headlong rush towards start-up nirvana. We also love the fact that Facelette makes use of &lt;a href=&#34;http://github.com/&#34; title=&#34;GitHub&#34;&gt;Github&lt;/a&gt; for code-hosting and collaboration as well as &lt;a href=&#34;http://heroku.com/&#34;&gt;Heroku&lt;/a&gt; for Rails magic; both of which are &lt;a href=&#34;https://iwantmyname.co.nz/services/developer&#34;&gt;developer services&lt;/a&gt; we cover with our Domains for Apps offering. There&amp;rsquo;s a lot to be said for open technologies and communities. If you want to build and share an application widely we think it&amp;rsquo;s probably a good thing to take an open approach to doing business from the outset.&lt;/p&gt;
-
-&lt;p&gt;Zach humbly describes his project as a &amp;ldquo;dumb experiment&amp;rdquo;. Now he&amp;rsquo;s got reviewers and advertisers tripping over themselves to get on-board. Who knows if he will decide to turn Facelette into the next big thing. But who cares? The important thing is that he&amp;rsquo;s having a lot of fun and doing something he&amp;rsquo;s really passionate about. #like&lt;/p&gt;
-</description>
-				<pubDate>Sun, 31 Oct 2010 13:34:11 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2010/10/featured-site-facelettecom.html</link>
-				
-				<guid isPermaLink="false">/2010/10/featured-site-facelettecom.html</guid>
-			</item>
-		
-			<item>
 				<title>SSL, Cookies and Caching</title>
 				<description>&lt;p&gt;Here we go again, the SSL topic is up on &lt;a href=&#34;http://news.ycombinator.com/item?id=1827928&#34;&gt;Hacker News&lt;/a&gt; and we couldn&amp;rsquo;t agree more! &lt;a href=&#34;http://codebutler.com/firesheep&#34;&gt;Firesheep&lt;/a&gt; is a wonderful tool to play with and once again we are in the middle of the security versus performance discussion. Session hijacking is a serious threat, but whether or not it is a threat to you really depends heavily on the environment you operate in.&lt;/p&gt;
 
