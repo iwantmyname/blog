@@ -19779,32 +19779,6 @@ Co-founder&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>All New DNS</title>
-				<description>&lt;p&gt;Over the last few weeks we experienced some issues with our DNS manager. The result was that a small number of our customers could not update DNS records properly. For this we sincerely apologize. First our back end played up, later it was a problem with the user interface after we changed our website form framework. We should stress that the continuity of the DNS service was maintained at all times.&lt;/p&gt;
-
-&lt;p&gt;Changing our website forms also resulted in some of your support inquiries not reaching us. So if you did not receive an email response to a support request within 24 hours, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;please re-submit your message&lt;/a&gt;. Again, we are sorry for this problem and the delay in getting back to you!&lt;/p&gt;
-
-&lt;p&gt;We take our responsibilities to our customers very seriously, so we have made some changes to set things straight. We&amp;rsquo;ve now released a new iteration of our DNS manager and also switched to a more scalable back end. As a result, all domain registrations will use the following nameservers hostnames from now on:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ns1.iwantmyname.net&lt;/li&gt;
-&lt;li&gt;ns2.iwantmyname.net&lt;/li&gt;
-&lt;li&gt;ns3.iwantmyname.net&lt;/li&gt;
-&lt;li&gt;ns4.iwantmyname.net&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Existing domain names will be migrated to the new DNS infrastructure over the next few days without any service interruption.&lt;/p&gt;
-
-&lt;p&gt;Thank you very much for your support and patience whilst we experienced these growing pains. Responding to feedback from our customers is how we improve, so please feel free to &lt;a href=&#34;https://twitter.com/iwantmyname&#34;&gt;yell at us on Twitter&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;drop us an email&lt;/a&gt; or &lt;a href=&#34;http://feedback.iwantmyname.com&#34;&gt;leave feedback&lt;/a&gt; if you encounter any problems in the future.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 28 Sep 2010 11:58:24 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2010/09/new-dns-back-end-and-nameserver-hostnames.html</link>
-				
-				<guid isPermaLink="false">/2010/09/new-dns-back-end-and-nameserver-hostnames.html</guid>
-			</item>
-		
-			<item>
 				<title>New DNS Manager</title>
 				<description>&lt;p&gt;Over the last few weeks we experienced some issues with our DNS manager. The result was that a small number of our customers could not update DNS records properly. For this we sincerely apologise. First our back end played up, later it was a problem with the user interface after we changed our website form framework. We should stress that the continuity of the DNS service was maintained at all times. The majority of customers will not have experienced any problem at all.&lt;/p&gt;
 
