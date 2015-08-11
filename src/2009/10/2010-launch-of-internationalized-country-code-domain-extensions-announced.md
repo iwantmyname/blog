@@ -7,8 +7,4 @@ ICANN, the internet's governing body, yesterday [officially announced](http://ww
 
 > "The coming introduction of non-Latin characters represents the biggest technical change to the Internet since it was created four decades ago," said ICANN chairman Peter Dengate Thrush. "Right now Internet address endings are limited to Latin characters - A to Z. But the Fast Track Process is the first step in bringing the 100,000 characters of the languages of the world online for domain names."
 
-Watch the video with people from around the world explaining how localized domain names will help them using the internet in their native language:
-
-`Movie no longer available.`
-
 The introduction of internationalized country domains is an important step towards a global internet and we would like to congratulate ICANN and everybody involved in achieving this long-awaited milestone.
