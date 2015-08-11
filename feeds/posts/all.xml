@@ -21911,55 +21911,6 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 			</item>
 		
 			<item>
-				<title>10 Tools to run an URL Shortener on your own Domain</title>
-				<description>&lt;p&gt;The sudden shutdown of popular URL shortener &lt;a href=&#34;http://tr.im&#34; title=&#34;tr.im URL shortener&#34;&gt;tr.im&lt;/a&gt; was already covered by the &lt;a href=&#34;http://mashable.com/2009/08/09/trim-shuts-down/&#34; title=&#34;tr.im on Mashable&#34;&gt;main&lt;/a&gt; &lt;a href=&#34;http://archived.link/http://www.techcrunch.com/2009/08/09/trim-throws-in-the-towel/&#34; title=&#34;tr.im on Techcrunch&#34;&gt;tech&lt;/a&gt; &lt;a href=&#34;http://www.readwriteweb.com/archives/twitter_hammers_nail_in_coffin_for_trim.php&#34; title=&#34;tr.im on ReadWriteWeb&#34;&gt;blogs&lt;/a&gt; so we won&amp;rsquo;t go into further details on the business side. In short the main problem resulting from this are the broken links someday and there&amp;rsquo;s only one solution how you can prevent this in the future: &lt;strong&gt;run your own URL shortener&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Again, it all comes down to &lt;a href=&#34;https://iwantmyname.com/blog/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html&#34; title=&#34;Own your identity&#34;&gt;owning your namespace as discussed earlier with Facebook&amp;rsquo;s username landrush&lt;/a&gt;. &lt;strong&gt;You are only able to fully control what&amp;rsquo;s happening with your links if you own the domain name&lt;/strong&gt; and run your own URL shortener on it. Anybody who&amp;rsquo;s considering Twitter as an important part of their business or personal brand should start thinking about customising their short URLs now (also see our &lt;a href=&#34;https://iwantmyname.com/blog/2009/05/how-to-find-a-domain-hack.html&#34; title=&#34;How to find a domain hack&#34;&gt;domain hack examples&lt;/a&gt; how they are used to create short links).&lt;/p&gt;
-
-&lt;p&gt;We have compiled a list of hosted services, scripts and plugins that make running your custom URL shortener possible:&lt;/p&gt;
-
-&lt;h2&gt;Hosted URL shortening services with custom domain&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/url-shortener/awe.sm-hosted-url-shortening-service&#34; title=&#34;awe.sm URL shortener&#34;&gt;awe.sm&lt;/a&gt; &amp;ndash; A custom URL shortener with API. detailed analytics, uptime guarantee and SLAs. According to their website you can take your data with you anytime.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tinyarro.ws&#34; title=&#34;Tinyarrows URL shortening service&#34;&gt;Tinyarro.ws&lt;/a&gt; &amp;ndash; Use a custom domain with Tinyarro.ws&amp;rsquo; tiny links service. As their own service uses the ➡.ws domain you should also be able to use &lt;a href=&#34;https://iwantmyname.com/idns/search-register-internationalised-domain-names&#34; title=&#34;Virtual Keyboard IDN search and registration&#34;&gt;IDNs&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://budurl.com/&#34; title=&#34;URL shrinker budurl&#34;&gt;budurl&lt;/a&gt; &amp;ndash; The budurl Enterprise edition offer the possibility to use your own domain. Their dashboard provides extensive analytics and real-time stats.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://archived.link/http://blog.xr.com/2009/04/your-own-domain-xr-your-very-own-tiny.html&#34; title=&#34;xr.com - Your own URL shortener&#34;&gt;XR.COM&lt;/a&gt; &amp;ndash; This free service is a basic URL shortening tool. If you don&amp;rsquo;t need analytics and just want to shorten links XR.COM might be the right choice.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.google.com/enterprise/marketplace/viewListing?productListingId=5143210+6352879591152674960&#34; title=&#34;Google Short Links&#34;&gt;Google Short Links&lt;/a&gt; &amp;ndash; Google runs a URL shortener as part of Google Apps For Your Domain. It&amp;rsquo;s a Labs feature but can simply be added to your dashboard.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://archived.link/http://peashootapp.com/&#34; title=&#34;Peashoot App - Twitter Marketing&#34;&gt;Peashoot&lt;/a&gt; &amp;ndash; Manage social media campaigns with your own short URLs. If you want to grow your audience and haven&amp;rsquo;t yet heard of Peashoot you&amp;rsquo;ve missed a great app.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://archived.link/http://www.stumbleupon.com/developers/Supr:Short_URLs_on_your_own_domain/&#34; title=&#34;su.pr - short URLs on your own domain&#34;&gt;su.pr&lt;/a&gt; &amp;ndash; StumbleUpon&amp;rsquo;s own URL shortener drives traffic to your site can be used with a custom domain too. You need to install a small script or use Wordpress though.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;strong&gt;UPDATE: 03/02/2010&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Popular URL shortening service bit.ly is now offering a Pro version with custom domain functionality. Read more about &lt;a href=&#34;https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service&#34;&gt;bit.ly Pro for your own domain name&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/blog/2010/02/buy-short-domain-name-bitly-pro-custom-url-shortener.html&#34;&gt;how to find a memorable short domain&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Some of you might argue that there&amp;rsquo;s still a risk should one of these services stop to exist but at least you own the domain and can redirect links to another website or landing page.&lt;/p&gt;
-
-&lt;h2&gt;Run a URL shortener on your own machine&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://yourls.org/&#34; title=&#34;YOURLS - Your Own URL Shortener&#34;&gt;YOURLS PHP script&lt;/a&gt; &amp;ndash; Small set of script to shorten links using a classic PHP and MySQL setup. Also offers an API and a Wordpress plugin.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/short-url-plugin/&#34; title=&#34;Short URL Wordpress Plugin&#34;&gt;Short URL Wordpress Plugin&lt;/a&gt; &amp;ndash; Create short URLs with this Wordpress plugin. Offers basic analytics and requires Wordpress 2.5 or higher.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://roub.net/blahg/archives/2009/07/rolling-your-ow.html&#34; title=&#34;Movable Type Short URLs&#34;&gt;Movable Type script&lt;/a&gt; &amp;ndash; Paul Roub&amp;rsquo;s script to create a self-hosted URL shortener for the Movable Type blog software. You need some technical knowledge for this.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Other resources&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t have a short domain you should check out our list of &lt;a href=&#34;https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html&#34; title=&#34;Ultra short domains&#34;&gt;ultra short&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/blog/2009/04/brandable-domain-list-for-short-url.html&#34; title=&#34;Brandable domain names&#34;&gt;brandable domain names&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 10 Aug 2009 18:07:25 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html</link>
-				
-				<guid isPermaLink="false">/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html</guid>
-			</item>
-		
-			<item>
 				<title>Search IDNs with the Virtual Keyboard</title>
 				<description>&lt;p&gt;We have received a lot of positive feedback in the local community about our recent announcement for &lt;a href=&#34;https://iwantmyname.com/blog/2009/07/idn-internationalised-domain-names-with-special-characters.html&#34; title=&#34;Internationalised Domain Names&#34;&gt;Internationalised Domain Names&lt;/a&gt; with Māori macrons. A question we were asked quite often was how you can actually enter special characters on an English keyboard layout. While most operating systems have character tables to help you entering letters of foreign alphabets, we now have an easier alternative for you online.&lt;/p&gt;
 
