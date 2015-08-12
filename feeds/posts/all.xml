@@ -19160,23 +19160,6 @@ Hugely successful media, travel and entertainment group Virgin operates literall
 			</item>
 		
 			<item>
-				<title>Express DNS Setup For Amazon S3 Hosting Enabled</title>
-				<description>&lt;p&gt;The &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;iwantmyname marketplace&lt;/a&gt; is growing and we&amp;rsquo;re happy to announce the addition of Amazon&amp;rsquo;s &lt;a href=&#34;http://aws.amazon.com/s3/&#34;&gt;S3 hosting service&lt;/a&gt;. You can now easily add the DNS records for Amazon S3 in one single click. Simply enter the respective bucket name, choose the datacenter location and click on &amp;lsquo;install&amp;rsquo;. We will also forward the root domain to the &amp;lsquo;www&amp;rsquo; sub-domain for you automatically.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Amazon S3 DNS setup example&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2011-02-22-add-dns-amazon-s3-iwantmyname.png&#34; alt=&#34;add-dns-amazon-s3-iwantmyname.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Other recent DNS template additions for &lt;a href=&#34;https://iwantmyname.com/services/developer&#34;&gt;developers&lt;/a&gt; are cloud hosting platforms &lt;a href=&#34;https://iwantmyname.com/services/developer/duostack-custom-domain&#34;&gt;DuoStack&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/services/developer/phpfog-custom-domain-setup&#34;&gt;PHP Fog&lt;/a&gt;. Want to have your favorite service added to the iwantmyname marketplace? &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;Let us know&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 22 Feb 2011 06:14:41 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2011/02/easy-dns-setup-for-amazon-s3-hosting.html</link>
-				
-				<guid isPermaLink="false">/2011/02/easy-dns-setup-for-amazon-s3-hosting.html</guid>
-			</item>
-		
-			<item>
 				<title>Check Domains Using Your Browser&#39;s Address Bar, AlfredApp and DuckDuckGo</title>
 				<description>&lt;p&gt;For those of you who want to quickly search for domain names from the address bar of your favorite browser, app launcher or search engine, we have some tips how to set things up.&lt;/p&gt;
 
