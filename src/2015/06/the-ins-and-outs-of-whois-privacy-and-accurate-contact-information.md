@@ -37,9 +37,7 @@ As is the case for gTLDs, ccTLD domains can be suspended or deleted if the regis
 
 From time to time we hear from customers who have received a WDRP (WHOIS Data Reminder Policy) notice by email. Often they're not sure what it's for, or if it's possibly a scam. 
 
-[WDRP notices are legitimate](https://www.icann.org/resources/pages/registrars/consensus-policies/wdrp-en). When you register a domain with new contact details, transfer existing domains or change the registrant (owner) or email address on your contact information, you will receive an additional email with an activation link. If you don’t press the link, your domain will be disabled after 15 days. (Specifically, your website will be replaced by a website displaying a verification error, along with instructions on how to fix it. On the plus side, if you do confirm it on time, this domain email verification will happen only once.)
-
-The important thing to remember here is that without accurate contact information, you'll never receive the WDRP email, meaning you're unnecessarily risking getting your website disabled. Fortunately, making sure your registration information is up to date is easy. You can do this in your iwantmyname account dashboard by clicking on your domain name, then clicking on **"edit contacts"** on the next page. 
+[WDRP notices are legitimate](https://www.icann.org/resources/pages/registrars/consensus-policies/wdrp-en), and it's important to read them and to check your registration information to ensure that it's up to date. You can do this in your iwantmyname account dashboard by clicking on your domain name, then clicking on **"edit contacts"** on the next page. 
 
 <h2 id="section-3">Editing gTLD contact information</h2>
 
