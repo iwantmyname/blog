@@ -3,6 +3,8 @@ author: Chris
 title: The Grid — AI websites that design themselves
 ----
 
+{{ template "youtube" "OXA4-5x31V0" }}
+
 1. [The Grid](#section-1)
 2. [An interview with Dan Tocchini, Founder and CEO of The Grid](#section-2)
 
@@ -11,8 +13,6 @@ title: The Grid — AI websites that design themselves
 <h2 id="section-1">The Grid</h2>
 
 <!-- excerpt -->
-
-{{ template "youtube" "OXA4-5x31V0" }}
 
 The internet has come a long way since the "dawn of the blogs" in the early 90's, but as Anil Dash [wrote recently](http://dashes.com/anil/2014/09/15-lessons-from-15-years-of-blogging.html), "The tools for blogging have been extraordinarily stagnant. And this stagnation is particularly egregious when we consider that almost every common behavior on the big social networks is a subset of what we originally thought blogging might be." 
 
