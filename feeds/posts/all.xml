@@ -6950,51 +6950,6 @@ possibilities, but there is a very simple way for most to settle on a name that 
 			</item>
 		
 			<item>
-				<title>Free up your phone: Why email support is better</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;In the past, working for big companies, I&amp;rsquo;d frequently notice a strange communications phenomenon. If I sent someone a quick chat message or email with a question or request for info, they would respond — by calling me or coming over to my desk.&lt;/p&gt;
-
-&lt;p&gt;It took me a while to figure out why people wouldn&amp;rsquo;t just reply via the same channel as the inquiry. But eventually it sunk in that different people just prefer to communicate in different ways. Everyone has a mental hierarchy of the preference, value, appropriateness, and efficiency of different types of communication. These are based on their own personalities, modes of learning, and past experience.&lt;/p&gt;
-
-&lt;p&gt;This is why when some people need help, the one and only goal is, &lt;em&gt;&amp;ldquo;If I can just get a human on the phone&amp;hellip;&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Over the years that I&amp;rsquo;ve worked in community management and customer support, this bit of learning has grown a lot. It now also encompasses &lt;em&gt;how&lt;/em&gt; you communicate (level of tech-speak, industry jargon, community membership, language familiarity, etc.) And I&amp;rsquo;m intimately aware of the advantages and limitations of text. (Though the myth that something like 90% of communication is nonverbal, and thus utterly lost in text, has been pretty much busted.)&lt;/p&gt;
-
-&lt;p&gt;When I came to work for iwantmyname, I was glad to learn that we handle support entirely online. Yes, we do get inquiries about phone support, which is understandable. People are used to that option. Some still equate talking to a &amp;ldquo;real live human&amp;rdquo; with being more likely to resolve an issue.&lt;/p&gt;
-
-&lt;p&gt;But it&amp;rsquo;s actually much better for our customer service not to offer phone support. Can some things be easily resolved by &amp;ldquo;a quick call&amp;rdquo;? Certainly. But for most people, figuring out a delay in a domain transfer or working with DNS records can&amp;rsquo;t be.&lt;/p&gt;
-
-&lt;p&gt;Managing support online keeps everything in one place. We can see the inquiry or issue you&amp;rsquo;re contacting us about, and link it to others if there is duplication or related inquiries. We can also see previous communication threads that we&amp;rsquo;ve had with you, which might tell us if there&amp;rsquo;s been something ongoing, or something that might have changed that could help with diagnosis.&lt;/p&gt;
-
-&lt;p&gt;We can see your account directly, and so we can likely see what the situation is more quickly. We can respond with customized instructions, fix it ourselves, or give clearer information to the developers if we need to escalate. Most of our responses contain URLs to direct people to the right pages. Can&amp;rsquo;t really pass those along over the phone. We can also send screenshots or even video to show you exactly what steps to take.&lt;/p&gt;
-
-&lt;p&gt;Having worked on helping people fix things for a decade or so, I can fairly confidently (and with love) say that many people are not very good at describing problems. That&amp;rsquo;s not their fault. The average person simply doesn&amp;rsquo;t have a deep enough understanding of the systems they&amp;rsquo;re using to accurately describe what&amp;rsquo;s not working. Nor should they – that&amp;rsquo;s my job.&lt;/p&gt;
-
-&lt;p&gt;But if someone calls you up and says, &lt;em&gt;&amp;ldquo;My website is broken!&amp;rdquo;&lt;/em&gt; it&amp;rsquo;s going to take a while to get to the root of what, exactly, isn&amp;rsquo;t working and why. The cause could be one or more of a hundred things. Far more efficient is if you&amp;rsquo;re kind enough to provide us as much relevant information as you can when you contact us. And, ideally, send us an authenticated request when logged in to your account. (&lt;a href=&#34;https://iwantmyname.com/signin&#34;&gt;Login to your account&lt;/a&gt;, click &lt;strong&gt;Support&lt;/strong&gt; in the main dashboard menu, and fill out that form.) We can do a lot more for you, securely, under those circumstances.&lt;/p&gt;
-
-&lt;p&gt;Voices can carry a lot more inflection than text can, but the global nature of the Internet can be challenging. Especially with more of the world going mobile, the quality of all voice communications is not equal. We might have to give you information that is much easier to just copy and paste, like nameservers, IP addresses, etc. Or if I&amp;rsquo;m having a particularly Canadian day, you&amp;rsquo;re not at the mercy of my pronunciations.&lt;/p&gt;
-
-&lt;p&gt;Further to that idea of voices carrying more inflection and getting &amp;ldquo;a human&amp;rdquo; on the phone, I hate to say it, but sometimes people aren&amp;rsquo;t very nice. Yeah, it&amp;rsquo;s understandable. Something&amp;rsquo;s not working, you don&amp;rsquo;t know why, you&amp;rsquo;re frustrated. But being loud or rude to the folks who can help really isn&amp;rsquo;t going to do anyone any good. It&amp;rsquo;s not going to make you feel better or get the issue fixed sooner, and we&amp;rsquo;ll remember you as &lt;em&gt;that&lt;/em&gt; person. People using lots of CAPS or exclamation points isn&amp;rsquo;t pleasant, but it has less impact than having someone unnecessarily yelling at you on the phone. We want to enjoy our work days as much as possible, too.&lt;/p&gt;
-
-&lt;p&gt;Despite the dramatic media potential of online security threats, online support actually is  more secure for everyone. Authentication helps us determine that the person contacting us, or accessing the account, is the account (or domain) owner. If we receive non-authenticated requests, we can respond in a way that requires the person receiving the instructions to know how to access the account for them to be of use. It&amp;rsquo;s been over 20 years, but &lt;a href=&#34;http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you&#39;re_a_dog&#34;&gt;this cartoon&lt;/a&gt; still provides a wise point of which to remain aware.&lt;/p&gt;
-
-&lt;p&gt;For anyone who&amp;rsquo;s sat on hold for an hour trying to get something fixed with an airline or cable company, you know that &amp;ldquo;a quick call&amp;rdquo; is often a myth. It depends on the size of the support team, the volume of calls, the types of inquiries or issues, and many other extenuating circumstances.&lt;/p&gt;
-
-&lt;p&gt;We work to solve support tickets as quickly as we can, but we&amp;rsquo;re a small team, some of us are newer and still learning (me!), and some issues need help from developers or the registry. Those can&amp;rsquo;t be solved in the space of a phone call. With support via email, we can let you know that we&amp;rsquo;re working on it, then update you when we know more.&lt;/p&gt;
-
-&lt;p&gt;Additionally, our team can be anywhere in the world at a given time, so we&amp;rsquo;re not really in a position to implement a call centre-like phone system. We choose to focus on domains and DNS, and work on making domain management a &lt;em&gt;good&lt;/em&gt; experience. We want to support our customers the best way we can, and doing so online is the better way to do that.&lt;/p&gt;
-</description>
-				<pubDate>Sat, 24 May 2014 07:24:58 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/05/its-not-that-your-call-isnt-important-to-us.html</link>
-				
-				<guid isPermaLink="false">/2014/05/its-not-that-your-call-isnt-important-to-us.html</guid>
-			</item>
-		
-			<item>
 				<title>iwantmyname culture: The &#34;work-from-anywhere experiment&#34;</title>
 				<description>&lt;!-- excerpt --&gt;
 
