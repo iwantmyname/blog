@@ -1032,7 +1032,9 @@
 
 &lt;p&gt;From time to time we hear from customers who have received a WDRP (WHOIS Data Reminder Policy) notice by email. Often they&amp;rsquo;re not sure what it&amp;rsquo;s for, or if it&amp;rsquo;s possibly a scam.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.icann.org/resources/pages/registrars/consensus-policies/wdrp-en&#34;&gt;WDRP notices are legitimate&lt;/a&gt;, and it&amp;rsquo;s important to read them and to check your registration information to ensure that it&amp;rsquo;s up to date. You can do this in your iwantmyname account dashboard by clicking on your domain name, then clicking on &lt;strong&gt;&amp;ldquo;edit contacts&amp;rdquo;&lt;/strong&gt; on the next page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.icann.org/resources/pages/registrars/consensus-policies/wdrp-en&#34;&gt;WDRP notices are legitimate&lt;/a&gt;. When you register a domain with new contact details, transfer existing domains or change the registrant (owner) or email address on your contact information, you will receive an additional email with an activation link. If you don’t press the link, your domain will be disabled after 15 days. (Specifically, your website will be replaced by a website displaying a verification error, along with instructions on how to fix it. On the plus side, if you do confirm it on time, this domain email verification will happen only once.)&lt;/p&gt;
+
+&lt;p&gt;The important thing to remember here is that without accurate contact information, you&amp;rsquo;ll never receive the WDRP email, meaning you&amp;rsquo;re unnecessarily risking getting your website disabled. Fortunately, making sure your registration information is up to date is easy. You can do this in your iwantmyname account dashboard by clicking on your domain name, then clicking on &lt;strong&gt;&amp;ldquo;edit contacts&amp;rdquo;&lt;/strong&gt; on the next page.&lt;/p&gt;
 
 &lt;h2 id=&#34;section-3&#34;&gt;Editing gTLD contact information&lt;/h2&gt;
 
