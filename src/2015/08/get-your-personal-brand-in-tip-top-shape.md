@@ -14,7 +14,7 @@ If you're an adult of a certain age, the idea of a personal brand is a fascinati
 2. [It starts to matter when your personal brand goes pro](#section-2)
 3. [Platforms for creating a personal website](#section-3)
 4. [Your personal brand needs a custom email address](#section-4)
-5. [Thoughts On Reserving The Digital Future Of Your Child](#section-5)
+5. [Thoughts on reserving the digital future of your child](#section-5)
 
 ***
 
@@ -74,7 +74,7 @@ After you've created your website, don't forget to create the custom email addre
 
 When you're ready to make this happen, be sure to read our guide on [how to get your own custom email address](https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address.html) (there's even a free option!).
 
-<h2 id="section-5">Thoughts On Reserving The Digital Future Of Your Child</h2>
+<h2 id="section-5">Thoughts on reserving the digital future of your child</h2>
 
 Now we've really gone off the deep end. Here's a bit from Alexander Taub in Forbes’ [The Mad Rush To Reserve Your Child’s Digital Future](http://www.forbes.com/sites/alextaub/2012/10/25/the-mad-rush-to-reserve-your-childs-digital-future):
 
