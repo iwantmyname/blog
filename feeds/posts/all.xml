@@ -14612,27 +14612,6 @@ then been reminded that while 252 million of them have gone, there are a hundred
 			</item>
 		
 			<item>
-				<title>Google Abandons Open Standards For Chat</title>
-				<description>&lt;p&gt;For a long time, Google was a proponent of open standards that anyone could tap into to integrate with their own products. Unfortunately, the company has been undoing some of this over the last year with the removal of various open standards they have previously supported.&lt;/p&gt;
-
-&lt;p&gt;First there was &lt;a href=&#34;http://www.zdnet.com/google-do-what-you-want-with-reader-but-dont-kill-caldav-7000012628/&#34;&gt;CalDAV&lt;/a&gt;, then dropping &lt;a href=&#34;http://arstechnica.com/business/2011/01/googles-dropping-h264-from-chrome-a-step-backward-for-openness/&#34;&gt;H.264 from Chrome&lt;/a&gt;, then &lt;a href=&#34;http://www.wpcentral.com/google-drops-exchange-activesync-what-s-it-mean-windows-phone&#34;&gt;Microsoft&amp;rsquo;s EAS protocol&lt;/a&gt;. The latest casualty was XMPP, the open IM protocol (also known as Jabber). The company announced their &lt;a href=&#34;http://www.theverge.com/2013/5/15/4318830/inside-hangouts-googles-big-fix-for-its-messaging-mess&#34;&gt;new &amp;ldquo;Hangouts&amp;rdquo; IM service&lt;/a&gt; last week which effectively kills off the XMPP standard in favor off a new, closed-source internally built protocol.&lt;/p&gt;
-
-&lt;p&gt;The company claims that &amp;ldquo;the openness of [Google] Talk led to bad user experiences like spam attacks, and limited us in terms of supporting the various forms of communication that we&amp;rsquo;re now able to achieve with Hangouts.&amp;rdquo; The EFF disagrees and argues that this is a &lt;a href=&#34;https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging&#34;&gt;complete backslide from the openness the company previously stood for&lt;/a&gt;. This means that any users of XMPP clients such as Trillian or Pidgin won&amp;rsquo;t be able to communicate with Google users who have upgraded to Hangouts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-06-06-logo-business-hosted_im.png&#34; alt=&#34;Hosted.im Logo&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;rsquo;t look like the company is going to take the decision back, but luckily you&amp;rsquo;re able to use other services to continue using XMPP. &lt;a href=&#34;http://hosted.im/&#34;&gt;Hosted.im&lt;/a&gt; (for &lt;strong&gt;Hosted&lt;/strong&gt; &lt;strong&gt;I&lt;/strong&gt;nstant &lt;strong&gt;M&lt;/strong&gt;essaging &amp;mdash; the &lt;a href=&#34;https://iwantmyname.com/domains/im-domain-name-registration-for-isle-of-man&#34;&gt;.im domain extension&lt;/a&gt; is a great TLD for that) offers such a service allowing custom domains and email addresses; and since their offering is dedicated to chat they won&amp;rsquo;t be moving away from XMPP anytime soon.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ve just added a 1-click DNS setup option for Hosted.im, so head over to the iwantmyname marketplace and &lt;a href=&#34;https://iwantmyname.com/services/business/hosted.im-xmpp-custom-domain&#34;&gt;start using using XMPP on your own domain now&lt;/a&gt;!&lt;/p&gt;
-</description>
-				<pubDate>Thu, 06 Jun 2013 06:49:18 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/06/google-abandons-open-standards-for-chat.html</link>
-				
-				<guid isPermaLink="false">/2013/06/google-abandons-open-standards-for-chat.html</guid>
-			</item>
-		
-			<item>
 				<title>What&#39;s Cool This Week In The Creative World Of Domains</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-06-05-revival.jpg&#34; alt=&#34;revival.jpg&#34;&gt;&lt;/p&gt;
 
