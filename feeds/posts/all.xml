@@ -14716,25 +14716,6 @@ then been reminded that while 252 million of them have gone, there are a hundred
 			</item>
 		
 			<item>
-				<title>Protect Your Domains Using Two-Step Authentication</title>
-				<description>&lt;p&gt;We are excited to now offer two-step authentication for all iwantmyname accounts! This adds an extra layer of login protection for your account to prevent third parties from accessing domains and making unauthorized changes to settings such as nameservers or DNS records.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How to enable two-step authentication&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Two-factor authentication is a free service for all iwantmyname customers and is provided by &lt;a href=&#34;http://authy.com&#34;&gt;Authy&lt;/a&gt; who offer mobile apps for iOS (iPhone) and Android devices to generate your personal security codes. If you enable 2-factor authentication, your iwantmyname dashboard is protected with this code, which needs to be entered in addition to your email address and password when logging in:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-05-29-authy-iphone.jpg&#34; alt=&#34;Authy iPhone&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;To activate the feature, please go to your account settings under &amp;ldquo;&lt;a href=&#34;https://iwantmyname.com/dashboard/account/login&#34;&gt;Account &amp;gt; Login &amp;amp; Security&lt;/a&gt;&amp;rdquo; and enter your phone number. Authy will then send you a text message to download their mobile application. Simply install the app, finish the Authy setup and you&amp;rsquo;re ready to go. Your domains are an important asset and we encourage you to &lt;a href=&#34;https://iwantmyname.com/dashboard/account/login&#34;&gt;protect your domain registrar account with two-factor authentication today&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 29 May 2013 15:14:30 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/05/protect-your-domain-registrar-account-with-two-factor-authentication.html</link>
-				
-				<guid isPermaLink="false">/2013/05/protect-your-domain-registrar-account-with-two-factor-authentication.html</guid>
-			</item>
-		
-			<item>
 				<title>Community Warms To Domain Registrar Upstart</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-05-29-warm.jpg&#34; alt=&#34;warm.jpg&#34;&gt;&lt;/p&gt;
 
