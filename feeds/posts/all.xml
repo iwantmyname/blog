@@ -15192,61 +15192,6 @@ international aid work with very targeted and well researched actions which genu
 			</item>
 		
 			<item>
-				<title>Migrating Your Site And Custom Domain From Posterous To Posthaven Made Easy</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-03-14-logo-blog-posthaven.png&#34; alt=&#34;Posthaven logo&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s no big surprise that blog hosting service (or whatever it was in the end) &lt;a href=&#34;http://posterous.com&#34;&gt;Posterous&lt;/a&gt; will stop operating on April 30 after having been acquired by Twitter last year. Luckily, former Posterous co-founders Garry Tan and Brett Gibson have just launched a new venture to give your previous Posterous site a new home. It&amp;rsquo;s called &lt;a href=&#34;http://posthaven.com&#34;&gt;Posthaven&lt;/a&gt; and plans to bring back the core functionality of Posterous which was posting to your blog by email or an online text editor without all the fluff. They also plan to charge for the service (we applaud them for that!) instead of taking the free route and trying to figure out how to make money later. You see how that turned out for Posterous&amp;hellip;&lt;/p&gt;
-
-&lt;h3&gt;How to import your Posterous sites into Posthaven&lt;/h3&gt;
-
-&lt;p&gt;Until April 30th, you can download all of your Posterous sites including your photos, videos, and documents:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Go to &lt;a href=&#34;http://posterous.com/#backup&#34;&gt;http://posterous.com/#backup&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Click to request a backup of your Space by clicking &amp;ldquo;Request Backup&amp;rdquo; next to your Space name.&lt;/li&gt;
-&lt;li&gt;When your backup is ready, you&amp;rsquo;ll receive an email.&lt;/li&gt;
-&lt;li&gt;Return to &lt;a href=&#34;http://posterous.com/#backup&#34;&gt;http://posterous.com/#backup&lt;/a&gt; to download a .zip file.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then log in at &lt;a href=&#34;http://posthaven.com&#34;&gt;Posthaven&lt;/a&gt; and import the file. Done!&lt;/p&gt;
-
-&lt;h3&gt;Changing the DNS from Posterous to Posthaven&lt;/h3&gt;
-
-&lt;p&gt;Should you have a custom domain, the next step is to change the DNS records at your domain registrar. Log in to your domain management panel and look for the following A record:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;184.106.20.102&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If your Posterous site was set up on the naked domain and &amp;lsquo;www&amp;rsquo; subdomain, you have to change both values and replace them with:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;54.235.156.25 (A record for the naked domain)&lt;/li&gt;
-&lt;li&gt;posthaven.com (CNAME for the &amp;lsquo;www&amp;rsquo; subdomain)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can also find a detailed description in &lt;a href=&#34;http://archived.link/http://posthaven.com/help/customdomain&#34;&gt;Posthaven&amp;rsquo;s FAQ&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For domains registered with iwantmyname, we offer all this as an easy 1-click service from the &amp;ldquo;Setup&amp;rdquo; tab in your personal dashboard. Simply select Posthaven from the app marketplace and you&amp;rsquo;re all done.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t have a custom domain yet? &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/posthaven-custom-domain&#34;&gt;Buy a new domain for your Posthaven site now&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.garrytan.com&#34;&gt;&lt;img src=&#34;/media/2013-03-14-garry-tan-posthaven-screenshot.png&#34; alt=&#34;Example: Garry Tan&#39;s Posthaven blog with custom domain&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;10% off domain transfers from Posterous to iwantmyname&lt;/h3&gt;
-
-&lt;p&gt;We now offer 10% off each .com / .net / .org &lt;a href=&#34;https://iwantmyname.com/domains/domain-transfer&#34;&gt;domain transfer&lt;/a&gt; for your domains previously registered through Posterous (i.e. their registrar partner eNom) until April 30, 2013.&lt;/p&gt;
-
-&lt;p&gt;And if all of the above sounds really complicated to you, make sure to check out our managed transfer service. Simply mention the code &amp;ldquo;MOVETOPOSTHAVEN&amp;rdquo; in the comments section and we&amp;rsquo;ll take care of &lt;a href=&#34;https://iwantmyname.com/transferservice&#34;&gt;migrating your domain from Posterous to Posthaven&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 14 Mar 2013 16:30:48 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/03/migrating-your-site-and-custom-domain-from-posterous-to-posthaven-made-easy.html</link>
-				
-				<guid isPermaLink="false">/2013/03/migrating-your-site-and-custom-domain-from-posterous-to-posthaven-made-easy.html</guid>
-			</item>
-		
-			<item>
 				<title>How To Easily Manage Multiple WordPress Installations</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-03-11-managewp-logo.png&#34; alt=&#34;managewp-logo.png&#34;&gt;&lt;/p&gt;
 
