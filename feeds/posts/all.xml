@@ -9335,51 +9335,6 @@ kash5000000@starbucks.email&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>This new domain scam is quite tricky indeed</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Faster than a relative of Nigerian royalty email. More powerful than a UK lottery scam. Domain scams target people in a place not many are knowledgable about—their online presence.&lt;/p&gt;
-
-&lt;p&gt;This latest domain scam is especially vicious because it touches on a vulnerability everyone has. With more than a hundred domain extensions available, and &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;hundreds more being added&lt;/a&gt; in this latest gTLD rollout, there&amp;rsquo;s no way any brand can fully protect their online name.&lt;/p&gt;
-
-&lt;p&gt;So when a stranger from Asia tells you they&amp;rsquo;ve secured your brand on an obscure Asian TLD like &amp;ldquo;.org.cn,&amp;rdquo; it&amp;rsquo;s only natural to be worried.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Here&amp;rsquo;s how this scam works:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bbb.org/blog/2014/02/dont-get-pressured-into-purchasing-useless-domains/&#34;&gt;From Emily Patterson &amp;ndash; Better Business Bureau:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You receive an email addressed to the owner of your company. It appears to be from an Asian domain registration service. The email says that a third party company has requested to register your business’s brand name as a website domain in China or elsewhere in Asia.&lt;/p&gt;
-
-&lt;p&gt;According to the email, the “domain registrar” realized your company owns that brand name. And they decided to do you a favor and offer to register the domain for you instead of this other company.&lt;/p&gt;
-
-&lt;p&gt;The catch? There is no competing business, and the price to purchase the domain is much higher than you would pay elsewhere. Often, the email sender isn’t even an actual domain registration business. He/she simply purchases the domain elsewhere for a few dollars and immediately sells it back to the victim for an inflated price.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;Tips&lt;/h3&gt;
-
-&lt;p&gt;Be smart about protecting your brand. Securing your name in a bunch of TLDs is an option, but know that your SEO is going to be tied to the domain that&amp;rsquo;s producing all the content. For example, if you search for iwantmyname, you&amp;rsquo;re going to get our URL, not an uninhabited knockoff.&lt;/p&gt;
-
-&lt;p&gt;That said, if you&amp;rsquo;re looking to transition to, or augment your domain with, a new gTLD, grab it now so others can&amp;rsquo;t. For instance, if you&amp;rsquo;re a bike shop, now would be a good time to get a .BIKE domain. Don&amp;rsquo;t feel that this is an essential branding step though. If you&amp;rsquo;re producing good/useful content, people will be able to find you no matter what your domain extension is.&lt;/p&gt;
-
-&lt;p&gt;Also:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Unless you&amp;rsquo;re an organization in China, you don&amp;rsquo;t need a .org.cn domain name. You just don&amp;rsquo;t.&lt;/li&gt;
-&lt;li&gt;As a general rule, always question domain mail from sources other than your preferred domain registrar. And if you aren&amp;rsquo;t sure about something, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;ask us&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Also, &lt;a href=&#34;http://www.bbb.org/council/bbb-scam-stopper/scam-alerts/&#34;&gt;BBB Scam Stopper&lt;/a&gt; is a good resource to check. If anything, you&amp;rsquo;ll gain awareness of all the craziness out there.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Wed, 26 Feb 2014 11:54:52 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/02/this-new-domain-scam-is-quite-tricky-indeed.html</link>
-				
-				<guid isPermaLink="false">/2014/02/this-new-domain-scam-is-quite-tricky-indeed.html</guid>
-			</item>
-		
-			<item>
 				<title>Not receiving email at your domain? Check for a CNAME record on the root level.</title>
 				<description>&lt;p&gt;We used to hear this all too frequently in our support channels. A customer adds a new DNS record for their website and suddenly can&amp;rsquo;t receive email on their domain—the email service that had been working fine in the months prior.&lt;/p&gt;
 
