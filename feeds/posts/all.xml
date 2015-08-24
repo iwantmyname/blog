@@ -13467,50 +13467,6 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 			</item>
 		
 			<item>
-				<title>Using Scriptogram The Normal Way, And With Mou #iwantmyblog</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;In the world of Scriptogram, there&amp;rsquo;s a right way to post articles, and then my way. Because I&amp;rsquo;m a sucker for convenience, let&amp;rsquo;s start with my way.&lt;/p&gt;
-
-&lt;p&gt;But first, a mini intro to to Dropbox blogging. &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html&#34;&gt;Like I&amp;rsquo;ve said before&lt;/a&gt;, Dropbox blogging is all about accumulating .md (Markdown) files in a Dropbox folder created by the respecting blogging platform. For instance, when I &amp;ldquo;installed&amp;rdquo; Scriptogram, the platform created a folder under &amp;ldquo;Apps&amp;rdquo; called &amp;ldquo;Scriptogram.&amp;rdquo; In it is every post I&amp;rsquo;ve created, all listed in posting order from the very beginning.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;h3&gt;Using Mou.&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-10-10-Screen_Shot_2013-10-09_at_11.26.58.png&#34; alt=&#34;Screen Shot 2013-10-09 at 11.26.58.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So here&amp;rsquo;s how I&amp;rsquo;m posting. First, get Mou, &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/tools-we-use-mou-for-writing.html&#34;&gt;my new favorite Markdown editor&lt;/a&gt;. Under Actions &amp;ndash;&amp;gt; Insert &amp;ndash;&amp;gt; Scriptogram Header is a one-click meta data header that lists the date, the title and all the other details you&amp;rsquo;ll need. From there, all you have to do is hit File &amp;ndash;&amp;gt; Post &amp;ndash;&amp;gt; Scriptogram (it uses your Scriptogram ID, listed in the Scriptogram Settings) and you&amp;rsquo;re done. Couldn&amp;rsquo;t be easier.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; If you edit a file and repost it from Mou, sometimes things get a little weird. I&amp;rsquo;ve found that the issues work themselves out after a few minutes, but for instant gratification, just go to your Scriptogram dashboard and hit Synchronize. Alternatively, if you turn on &amp;ldquo;Automatically publish from Dropbox&amp;rdquo; (directions below), edits automatically get made.&lt;/p&gt;
-
-&lt;h3&gt;The normal way.&lt;/h3&gt;
-
-&lt;p&gt;Without Mou, the default way to post is to go to your Scriptogram dashboard, click Add Post, then start writing in the browser (or copy paste your Markdown). But to me, the best part of using a Dropbox blog platform is to completely do away with browser editing (not that there&amp;rsquo;s anything wrong with writing in the browser, I just prefer using apps).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-10-10-Screen_Shot_2013-10-09_at_11.29.42.png&#34; alt=&#34;Auto Scriptogram&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;To get around the Dashboard, you first must go to Settings and turn on &amp;ldquo;Automatically publish from Dropbox&amp;rdquo; (still in beta). In the past, even if you added a file to Dropbox, you still had to go to the Scriptogram dashboard to hit Synchronize, but now that&amp;rsquo;s changed.&lt;/p&gt;
-
-&lt;p&gt;In your favorite Markdown editor, just create your post, add the Date: and Title: meta information to the top and save it to your Dropbox folder. Without the meta data, things get a little wonky, but when it&amp;rsquo;s done right it works like a charm.&lt;/p&gt;
-
-&lt;h3&gt;Read all of #iwantmyblog&amp;rsquo;s week with Scriptogram:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html&#34;&gt;Getting Started With Scriptogram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html&#34;&gt;Using Scriptogram The Normal Way, And With Mou&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/customizing-your-scriptogram-site-iwantmyblog.html&#34;&gt;Customizing Your Scriptogram Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/the-pros-and-cons-of-individual-files-our-last-day-with-scriptogram-iwantmyblog.html&#34;&gt;The Pros And Cons Of Individual Files. Our Last Day With Scriptogram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Thu, 10 Oct 2013 07:25:19 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html</link>
-				
-				<guid isPermaLink="false">/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html</guid>
-			</item>
-		
-			<item>
 				<title>UX Design Day Student Surprise!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-09-26-uxdd.jpg&#34; alt=&#34;uxdd&#34;&gt;&lt;/p&gt;
 
@@ -18716,6 +18672,17 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 					<link>https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html</link>
 				
 				<guid isPermaLink="false">/2009/04/list-of-available-ultra-short-2-letter-domain-names.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/scriptogr.am-custom-domain&#34;&gt;https://iwantmyname.com/services/blog-hosting/scriptogr.am-custom-domain&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html</link>
+				
+				<guid isPermaLink="false">/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html</guid>
 			</item>
 		
 	</channel>
