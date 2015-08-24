@@ -13415,58 +13415,6 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 			</item>
 		
 			<item>
-				<title>Customizing Your Scriptogram Site #iwantmyblog</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-10-11-Screen_Shot_2013-10-10_at_23.29.28.png&#34; alt=&#34;Screen Shot 2013-10-10 at 23.29.28.png&#34;&gt;&lt;/p&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;So you&amp;rsquo;re a writer—a good writer—and all you want to do is write to your heart&amp;rsquo;s content. You get yourself a nice  blog, pump out a few posts and look at your work. It&amp;rsquo;s nice, but not perfect.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re a writer like me, you want things look great, but without a background in design, you don&amp;rsquo;t exactly know what great entails. Do you want big fonts like &lt;a href=&#34;http://www.zeldman.com/&#34;&gt;Zeldman&lt;/a&gt; or tiny fonts like &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Gruber&lt;/a&gt;? Colors? Full width? Responsive layouts?&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the deal. When dealing with a blog platform, the more popular they are, the more templates and simple customization options they&amp;rsquo;ll likely have. In this case, Scriptogram is still on the small side&amp;mdash;ten themes with only CSS and HTML customization options.&lt;/p&gt;
-
-&lt;h3&gt;Themes&lt;/h3&gt;
-
-&lt;p&gt;I won&amp;rsquo;t bore you with a description of all ten themes here, but I will talk about my favorite three. When looking for a blog template, I tend to prefer large fonts with nice typography and few distracting colors. And fortunately, Scriptogram has a few good options:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Readnik&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Readnik is a clean template using &lt;a href=&#34;http://www.google.com/fonts/specimen/Crimson+Text&#34;&gt;Crimson Text&lt;/a&gt; and &lt;a href=&#34;http://www.myfonts.com/fonts/adobe/helvetica/&#34;&gt;Helvetica&lt;/a&gt; (I think) to simulate a nice newspaper feel. It doesn&amp;rsquo;t have a ton of personality, but Readnik is really easy to read.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Typographic&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.google.com/fonts/specimen/Droid+Serif&#34;&gt;Droid Serif&lt;/a&gt; for a header font might sound boring, but at 100px anything is interesting. And when it does this not-so-subtle fade-to-white thing, it&amp;rsquo;s really striking. Here&amp;rsquo;s the downside—&lt;a href=&#34;http://sicanstudios.com/post/teehan-lax-navigation/&#34;&gt;you have to code in your own navigation&lt;/a&gt;. The directions are pretty straightforward, but I wouldn&amp;rsquo;t exactly call Typographic a &amp;ldquo;plug and play&amp;rdquo; theme.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Basic&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Sure, sure. I completely understand not wanting to use the default theme, but Basic is pretty nice. Aside from the fairly conservative &lt;a href=&#34;http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/&#34;&gt;Proxima Nova&lt;/a&gt; font, it utilizes a pretty neat parallax header effect that&amp;rsquo;s pretty neat. Try it out for yourself on the &lt;a href=&#34;http://scriptogr.am/blog&#34;&gt;Scriptogram blog&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Customization&lt;/h3&gt;
-
-&lt;p&gt;The good thing about Scriptogram (for some) is that all the themes are created using fairly straightforward CSS and HTML. If you really want to dive in and mess with a theme, you can, but adding your own theme requires a submission process. And given my lack of dev experience (and a &lt;a href=&#34;http://support.scriptogr.am/kb/creating-themes/submitting-a-theme&#34;&gt;support page&lt;/a&gt; that seems to be down at the moment), I&amp;rsquo;m not exactly sure how the process works&lt;/p&gt;
-
-&lt;p&gt;All in all, the customization options for Scriptogram are pretty limited at this point. In its current form, some basic things are still unnecessarily hard (like placing logos), but keep in mind that the platform is still in beta. Hopefully more customization options will appear in the final version.&lt;/p&gt;
-
-&lt;h3&gt;Read all of #iwantmyblog&amp;rsquo;s week with Scriptogram:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/getting-started-with-scriptogram.html&#34;&gt;Getting Started With Scriptogram&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/using-scriptogram-the-normal-way-and-with-mou-iwantmyblog.html&#34;&gt;Using Scriptogram The Normal Way, And With Mou&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/customizing-your-scriptogram-site-iwantmyblog.html&#34;&gt;Customizing Your Scriptogram Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/10/the-pros-and-cons-of-individual-files-our-last-day-with-scriptogram-iwantmyblog.html&#34;&gt;The Pros And Cons Of Individual Files. Our Last Day With Scriptogram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Fri, 11 Oct 2013 19:21:02 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/10/customizing-your-scriptogram-site-iwantmyblog.html</link>
-				
-				<guid isPermaLink="false">/2013/10/customizing-your-scriptogram-site-iwantmyblog.html</guid>
-			</item>
-		
-			<item>
 				<title>UX Design Day Student Surprise!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-09-26-uxdd.jpg&#34; alt=&#34;uxdd&#34;&gt;&lt;/p&gt;
 
