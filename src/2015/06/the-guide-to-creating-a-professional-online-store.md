@@ -126,11 +126,13 @@ If you're interested, here are some tips to keep you out of moral grey areas:
 
 1. Paid stock photography doesn't have to suck. Sure, there are thousands of terrible photos of corporate teams high fiving (see above), but sites like [Shutterstock](http://www.shutterstock.com/) and [Bigstock](http://www.bigstockphoto.com/) are filled with millions of great images, vectors and videos, with more added every day. Again, just don't (EVER) use the corporate high five.
 
-2. You can also find free stock photos. Good ones. Here's a great list by Dustin Senos of the [best free stock photo sites](https://medium.com/p/62ae4bcbe01b) he's found (and it looks like he's updating it as he finds more).
+2. In 2014, Getty Images dumped 35 million images into a [royalty free section](http://www.gettyimages.com/creative-images/royaltyfree). That's free images from arguably the biggest image collection on Earth.  
 
-3. The [Flickr Creative Commons](http://www.flickr.com/creativecommons/) is an awesome tool. Basically, users from all over the world upload photos for public use under the Creative Commons License. Just be sure to follow the rules. And no, adding a little "image from" blurb at the bottom of a post isn't bothersome to readers at all. It just shows you care.
+3. You can also find free stock photos. Good ones. Here's a great list by Dustin Senos of the [best free stock photo sites](https://medium.com/p/62ae4bcbe01b) he's found (and it looks like he's updating it as he finds more).
 
-4. Anything is possible if you ask nicely. If you see an image you love online, you can always ask the site owner if you can use it yourself. Yes, they have the right to say no (or not respond at all), but it can't hurt to ask. 
+4. The [Flickr Creative Commons](http://www.flickr.com/creativecommons/) is an awesome tool. Basically, users from all over the world upload photos for public use under the Creative Commons License. Just be sure to follow the rules. And no, adding a little "image from" blurb at the bottom of a post isn't bothersome to readers at all. It just shows you care.
+
+5. Anything is possible if you ask nicely. If you see an image you love online, you can always ask the site owner if you can use it yourself. Yes, they have the right to say no (or not respond at all), but it can't hurt to ask. 
 
 ***
 
