@@ -11833,37 +11833,6 @@ and more secure.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>WordPress.com, Now With Markdown</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-11-22-wordpress-logo-hoz-rgb.png&#34; alt=&#34;wordpress-logo-hoz-rgb.png&#34;&gt;&lt;/p&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;We haven&amp;rsquo;t talked about Wordpress much in the past, but we&amp;rsquo;re big fans of using Markdown for writing on the web. And now, we&amp;rsquo;re happy to learn that WordPress.com is adopting Markdown as a formatting option.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://en.blog.wordpress.com/2013/11/19/markdown/&#34;&gt;From Matt Wiebe at WordPress:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Markdown has arrived on WordPress.com! Some of you may respond with &amp;ldquo;Finally!&amp;rdquo; Others might be asking, &amp;ldquo;what&amp;rsquo;s that?&amp;rdquo; Markdown is a quick way to add formatted text without writing out any HTML.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And in case you&amp;rsquo;re interested in some details,&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Markdown nerds (like me!) know there are a lot of variants out there. On WordPress.com, we&amp;rsquo;re using a slightly modified version of &lt;a href=&#34;http://michelf.ca/projects/php-markdown/extra/&#34;&gt;Markdown Extra&lt;/a&gt;, with a tweak to allow fenced code blocks inspired by &lt;a href=&#34;https://help.github.com/articles/github-flavored-markdown&#34;&gt;GitHub Flavored Markdown&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;P.S. It&amp;rsquo;s easy to use your domains with a hosted blog at WordPress.com. Simply get their custom domain add-on and update the nameservers in your iwantmyname dashboard by selecting it from the popular hosts dropdown menu.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 22 Nov 2013 18:29:08 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/11/wordpresscom-now-with-markdown.html</link>
-				
-				<guid isPermaLink="false">/2013/11/wordpresscom-now-with-markdown.html</guid>
-			</item>
-		
-			<item>
 				<title>How To Transfer Your Domain Away From iwantmyname (And A Bit On Why You Shouldn&#39;t)</title>
 				<description>&lt;!-- excerpt --&gt;
 
