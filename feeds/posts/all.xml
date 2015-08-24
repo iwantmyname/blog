@@ -8144,27 +8144,6 @@ B. Even if you didn&amp;rsquo;t remember what the TLD is, you knew to put the do
 			</item>
 		
 			<item>
-				<title>The Heartbleed OpenSSL security bug</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.vox.com/2014/4/8/5593654/heartbleed-explainer-big-new-web-security-flaw-compromise-privacy&#34;&gt;The Heartbleed Bug, explained — Vox:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;There was big news in the computer security world yesterday when researchers announced a massive vulnerability in popular web encryption software called OpenSSL. Major online service providers are scrambling to address the problem. What happened? And how does it affect you?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;!-- /excerpt --&gt; 
-
-&lt;p&gt;P.S. Our software was patched shortly after the announcement.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 09 Apr 2014 11:18:55 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/04/security-heartbleed-bug.html</link>
-				
-				<guid isPermaLink="false">/2014/04/security-heartbleed-bug.html</guid>
-			</item>
-		
-			<item>
 				<title>Interesting stats in the latest DomainWire Domain Name Stat Report</title>
 				<description>&lt;!-- excerpt --&gt;
 
