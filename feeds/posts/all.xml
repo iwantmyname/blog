@@ -13097,42 +13097,6 @@ Registry: Spring Fields, LLC&lt;/li&gt;
 			</item>
 		
 			<item>
-				<title>Job Opening: Back-End Blacksmith (Developer)</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-10-18-bigstock-Blacksmiths-forge-metal-25059950.jpg&#34; alt=&#34;bigstock-Blacksmiths-forge-metal-25059950.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Dear Internet Community,&lt;/p&gt;
-
-&lt;p&gt;iwantmyname is &lt;a href=&#34;https://iwantmyname.com/jobs/backend-developer&#34;&gt;looking for a back-end developer&lt;/a&gt; to represent 12.5% of our small international company (we&amp;rsquo;re looking for employee #8). And here&amp;rsquo;s what we have to offer:&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;h3&gt;Freedom.&lt;/h3&gt;
-
-&lt;p&gt;The internet is a big place, and as an online company, we&amp;rsquo;re ok with people being located in faraway places. Our office is in beautiful Wellington, New Zealand, but if you&amp;rsquo;re a geek with serious coding skills in New York, Berlin, Lagos, São Paulo or anywhere else on the planet, you&amp;rsquo;re the perfect applicant.&lt;/p&gt;
-
-&lt;h3&gt;Awesomeness.&lt;/h3&gt;
-
-&lt;p&gt;Our current stack is flexible and fun, and we&amp;rsquo;re using a ton of toys to make it better every day. Currently, we&amp;rsquo;re using modern Perl, Erlang, Coffee Script, Lua, CouchDB, RabbitMQ, Redis, Kyoto Tycoon, Puppet, Vagrant—and we&amp;rsquo;re always looking for more.&lt;/p&gt;
-
-&lt;p&gt;And we love open source, so we&amp;rsquo;ll be expecting you to contribute a lot to various projects and the community at-large.&lt;/p&gt;
-
-&lt;h3&gt;A Task.&lt;/h3&gt;
-
-&lt;p&gt;If this sounds like the perfect job for you, fire up a console window and get in touch by doing the following dig lookup:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;dig TXT jobs.iwantmyname.com
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-				<pubDate>Fri, 18 Oct 2013 13:23:12 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/10/job-opening-back-end-blacksmith-developer.html</link>
-				
-				<guid isPermaLink="false">/2013/10/job-opening-back-end-blacksmith-developer.html</guid>
-			</item>
-		
-			<item>
 				<title>A Short Interview With Damian Sowers, Creator Of Silvrback</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-10-15-damian.jpg&#34; alt=&#34;damian.jpg&#34;&gt;&lt;/p&gt;
 
@@ -18383,6 +18347,17 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 					<link>https://iwantmyname.com/blog/2009/04/list-of-available-ultra-short-2-letter-domain-names.html</link>
 				
 				<guid isPermaLink="false">/2009/04/list-of-available-ultra-short-2-letter-domain-names.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/jobs&#34;&gt;https://iwantmyname.com/jobs&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2013/10/job-opening-back-end-blacksmith-developer.html</link>
+				
+				<guid isPermaLink="false">/2013/10/job-opening-back-end-blacksmith-developer.html</guid>
 			</item>
 		
 	</channel>
