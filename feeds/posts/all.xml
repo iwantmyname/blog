@@ -5485,35 +5485,6 @@ control structures in place, but for us it was really something that just develo
 			</item>
 		
 			<item>
-				<title>Don&#39;t be a victim of domain hijacking</title>
-				<description>&lt;p&gt;Domain hijacking is probably the single worst thing that can happen to a website, and we want to make sure it never happens to you. So if you read anything today, please check out Domain Investing&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;http://www.domaininvesting.com/5-tips-prevent-domain-hijacking/&#34;&gt;5 Tips to Prevent Domain Hijacking&lt;/a&gt;&amp;rdquo;. It&amp;rsquo;s a pretty short article, but the tips included are invaluable.&lt;/p&gt;
-
-&lt;h3&gt;A quick security primer&lt;/h3&gt;
-
-&lt;!-- excerpt --&gt;
-
-&lt;p&gt;So first, a &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain_hijacking&#34;&gt;definition&lt;/a&gt;—&amp;rdquo;&lt;strong&gt;Domain hijacking&lt;/strong&gt; or &lt;strong&gt;domain theft&lt;/strong&gt; is the act of changing the registration of a domain name without the permission of its original registrant.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;And yes, domain hijacking does indeed happen, so you should be absolutely certain that your domain is as safe as possible.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;First, you want to make sure your passwords (for everything) can&amp;rsquo;t be cracked with simple social engineering (an educated guess based on public/shared knowledge about you). If your password is the name and age/birthday of your child, pet or spouse, it&amp;rsquo;s probably not good enough. If it&amp;rsquo;s your mother&amp;rsquo;s maiden name or your childhood street name, it&amp;rsquo;s also probably not good enough. Ideally, you want something totally random, and you also want to change it every few months. Pick something that has absolutely no meaning, rhyme or reason. And whatever you do, don&amp;rsquo;t get into the habit of using the same password for everything—that&amp;rsquo;s a recipe for disaster.&lt;/p&gt;
-
-&lt;p&gt;Second, when your browser asks you to save a password, think twice. If your computer is ever stolen, those passwords will just pop up without any sort of extra protection. If you do want to save your passwords somewhere, consider using something like &lt;a href=&#34;https://agilebits.com/onepassword&#34;&gt;1Password&lt;/a&gt; or &lt;a href=&#34;https://lastpass.com/&#34;&gt;LastPass&lt;/a&gt; to bury your saved passwords under a master password. Password managers can also generate  passwords for you with a visual representation how secure they are.&lt;/p&gt;
-
-&lt;p&gt;Another great tip is to use &lt;a href=&#34;http://help.iwantmyname.com/customer/portal/articles/1139898-how-can-i-enable-two-factor-authentication-&#34;&gt;two-factor authentication&lt;/a&gt; (2FA), which forces you (and everyone else) to verify your identity by typing in a private code sent to your mobile device or 2FA app. So even if someone cracked your password remotely, they&amp;rsquo;d also need access to your phone to get in.&lt;/p&gt;
-
-&lt;p&gt;And one more tip for good measure—this one mentioned by someone in the Domain Investing article comments. Don&amp;rsquo;t give people access to your domain login credentials unless it&amp;rsquo;s absolutely necessary. If you do happen to use freelance developers for your site that need access, change all your passwords and login information once the work is done. And if you get any strange emails asking you to login to any of your accounts, don&amp;rsquo;t click on anything—it could be a &lt;a href=&#34;http://en.wikipedia.org/wiki/Phishing&#34;&gt;phishing scam&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 12 Aug 2014 11:07:38 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/08/dont-be-a-victim-of-domain-hijacking.html</link>
-				
-				<guid isPermaLink="false">/2014/08/dont-be-a-victim-of-domain-hijacking.html</guid>
-			</item>
-		
-			<item>
 				<title>Gmail now recognizes addresses with accented and non-Latin characters</title>
 				<description>&lt;!-- excerpt --&gt;
 
