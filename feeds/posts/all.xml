@@ -4915,50 +4915,6 @@ No. Most residential Internet service providers block outbound mail to prevent a
 			</item>
 		
 			<item>
-				<title>Next week, today: So many new domain extensions</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;We&amp;rsquo;ve been launching a handful of &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;new generic top-level domains&lt;/a&gt; (gTLDs) each week for quite a while now, but never have we seen a launch so loaded as next weeks. 15 (?!) new gTLDs are launching between September 15-17, and this calls for some kind of pre-week announcement.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;So here&amp;rsquo;s the list:&lt;/p&gt;
-
-&lt;h3&gt;September 15&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-cooking&#34;&gt;.cooking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-country&#34;&gt;.country&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-fishing&#34;&gt;.fishing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-horse&#34;&gt;.horse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-republican&#34;&gt;.republican&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-rodeo&#34;&gt;.rodeo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-vegas&#34;&gt;.vegas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-vodka&#34;&gt;.vodka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;September 17&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-church&#34;&gt;.church&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-guide&#34;&gt;.guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-host&#34;&gt;.host&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-life&#34;&gt;.life&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-loans&#34;&gt;.loans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-press&#34;&gt;.press&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-website&#34;&gt;.website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We&amp;rsquo;ve already received a good amount of pre-orders for next week&amp;rsquo;s batch (with an interesting duo, .church and .vegas, taking the lead), but if you have a domain in mind, be sure to pre-order it though the individual TLD pages listed above.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 11 Sep 2014 10:38:56 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/09/so-many-new-domain-extensions.html</link>
-				
-				<guid isPermaLink="false">/2014/09/so-many-new-domain-extensions.html</guid>
-			</item>
-		
-			<item>
 				<title>How we upgraded our domain search using Erlang, RabbitMQ and Socket.IO</title>
 				<description>&lt;p&gt;A few weeks ago we quietly released an almost completely reworked domain name search engine. Our older system, of which there had already been several iterations, was no longer coping with our incremental growth and the dozens of new top level domains being released each month (with 500+ more still due to launch). Not only are more people searching for domains, but the number of domains searched was stretching our old domain search engine&amp;rsquo;s limits.&lt;/p&gt;
 
