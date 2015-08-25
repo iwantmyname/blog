@@ -3565,54 +3565,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>FastMail&#39;s new iOS/Android app makes it an even more viable Google Apps alternative</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-11-12-fastmail-logo.png&#34; alt=&#34;FastMail&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Google Apps are fine—in fact, they&amp;rsquo;re quite wonderful and have changed the industry in so many ways—but there are countless reasons why you might want to go with something non-Google for your email. Fortunately, there are quite a few alternatives out there, and one of our very favorites, &lt;a href=&#34;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&#34;&gt;FastMail&lt;/a&gt;, released an awesome new app today making it an even more viable Google alternative.&lt;/p&gt;
-
-&lt;p&gt;Check out all the app&amp;rsquo;s details on the &lt;a href=&#34;http://blog.fastmail.com/2014/11/12/fastmail-app-for-ios-and-android-now-available/&#34;&gt;FastMail Weblog&lt;/a&gt;, or just download it now (for free) on the &lt;a href=&#34;https://itunes.apple.com/us/app/fastmail-email-calendars-contacts/id931370077?mt=8&#34;&gt;App Store&lt;/a&gt; or &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.fastmail.app&#34;&gt;Google Play&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.fastmail.com/help/clients/mobileapp.html&#34;&gt;From FastMail:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Features&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;All the power of the FastMail mobile web app&lt;/li&gt;
-&lt;li&gt;Push notifications &amp;ndash; get notified the instant a new email arrives&lt;/li&gt;
-&lt;li&gt;Attach local files to emails&lt;/li&gt;
-&lt;li&gt;Notification controls &amp;ndash; ringtone, vibrate, LED and quiet hours (Android only)&lt;/li&gt;
-&lt;li&gt;Integration with Android Wear and Pebble devices (Android only)&lt;/li&gt;
-&lt;li&gt;Share text from other apps (Android only)&lt;/li&gt;
-&lt;li&gt;Future plans&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We have lots of plans for future updates, including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Multiple accounts support&lt;/li&gt;
-&lt;li&gt;Offline support&lt;/li&gt;
-&lt;li&gt;Rich content sharing (images, videos, etc)&lt;/li&gt;
-&lt;li&gt;Device contacts integration&lt;/li&gt;
-&lt;li&gt;Share mail content with other apps&lt;/li&gt;
-&lt;li&gt;More smartwatch/wearable integrations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-</description>
-				<pubDate>Wed, 12 Nov 2014 19:19:20 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/11/fastmails-new-ios-android-app.html</link>
-				
-				<guid isPermaLink="false">/2014/11/fastmails-new-ios-android-app.html</guid>
-			</item>
-		
-			<item>
 				<title>Bali, our destination for mapping out 2015</title>
 				<description>&lt;!-- excerpt --&gt;
 
