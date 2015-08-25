@@ -3907,67 +3907,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Domain extension options for personal branding</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;In my opinion, personal branding is the hardest of all the branding types. Seriously. (How many failed aliases have you tried to use in the last decade? I&amp;rsquo;m at three.). But now that the new generic top-level domains have launched, getting your real name on the left side of the dot is easier than ever. So what domain extension do you want on the other side?&lt;/p&gt;
-
-&lt;p&gt;Picking the right one can be tricky, and there are a number of things you should consider before making your choice. Let&amp;rsquo;s break down some of your options.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;.COM&lt;/h2&gt;
-
-&lt;p&gt;The most obvious choice for your personal site is yourname.com, and that&amp;rsquo;s probably the choice I&amp;rsquo;d make if it were available to me. If your name is rare enough for this to even be an option, your only real consideration should be whether you should go with lastname.com or fullname.com. I personally prefer lastname.com, because email addresses like chris@hall.com look nicer than chris@chrishall.com.&lt;/p&gt;
-
-&lt;h2&gt;.CO and .ME&lt;/h2&gt;
-
-&lt;p&gt;Next to &lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34;&gt;.COM&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; seem to be the next most common choices for personal sites. And in 2012, they were excellent choices, if only because they freed you from the confines of the .COM namespace.&lt;/p&gt;
-
-&lt;p&gt;Today, the flood of new domain extensions allow me to be picky, and I do have some concerns with these specific two. Starting with .CO, my primary concern is spelling errors—particularly with people unconsciously adding an &amp;ldquo;m&amp;rdquo; to .CO when sending emails. .ME is a little safer in that no one will mistake it for another extension, but I always wonder if people think .ME has an Apple affiliation due to the recently retired Mobile Me (I still regularly use my @me.com email address).&lt;/p&gt;
-
-&lt;h2&gt;Your local ccTLD&lt;/h2&gt;
-
-&lt;p&gt;Country code top-level domains (ccTLDs) are super popular around the world (aside for the US), and they make for wonderful personal domain names. For example, if you&amp;rsquo;re a designer who does the bulk of your work in New Zealand, picking up a &lt;a href=&#34;https://iwantmyname.com/domains/dot-nz&#34;&gt;.NZ&lt;/a&gt; (or &lt;a href=&#34;https://iwantmyname.com/domains/dot-kiwi&#34;&gt;.KIWI&lt;/a&gt;) domain name is a great choice. Due to popularity, many basic names will already be taken, but if your parents were adventurous types, there&amp;rsquo;s a good chance your name will be available (I desperately tried to rename myself Bowser as a child, and BowserHall is available in just about every extension).&lt;/p&gt;
-
-&lt;h2&gt;Letters and phrases you identify with&lt;/h2&gt;
-
-&lt;p&gt;A very similar topic was brought up recently on &lt;a href=&#34;https://news.ycombinator.com/item?id=8466018&#34;&gt;Hacker News&lt;/a&gt;, and one of the replies fits perfectly into this category.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I use the .gg TLD. My personal site is bram.gg and my email is hello@bram.gg&lt;/p&gt;
-
-&lt;p&gt;.gg is my favorite TLD, and the most underrated. It&amp;rsquo;s expensive enough that the domain you want probably isn&amp;rsquo;t taken, but cheap enough that it&amp;rsquo;s worth the price if it&amp;rsquo;s something you care about. &amp;ldquo;gg&amp;rdquo; is also a common phrase in gaming subculture, meaning &amp;ldquo;good game&amp;rdquo;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Now going with something like &lt;a href=&#34;https://iwantmyname.com/domains/gg-channel-island-domain-name-registration-for-guernsey&#34;&gt;.GG&lt;/a&gt; for &amp;ldquo;good game&amp;rdquo; is a viable option, but I&amp;rsquo;d be a little concerned about longevity. Let&amp;rsquo;s say you keep this domain for 20 years—are you going to be ok with &amp;ldquo;good game&amp;rdquo; when you&amp;rsquo;re 40? 50?&lt;/p&gt;
-
-&lt;p&gt;To me, a similar concern goes for extensions like &lt;a href=&#34;https://iwantmyname.com/domains/dot-wtf&#34;&gt;.WTF&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/dot-rocks&#34;&gt;.ROCKS&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/dot-ninja&#34;&gt;.NINJA&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/dot-cool&#34;&gt;.COOL&lt;/a&gt;. If you&amp;rsquo;re a 40-year-old who genuinely, unquestionably rocks, then go for it, but if you&amp;rsquo;re 17 going with a .NINJA domain, will you be cool with it when you&amp;rsquo;re 37?&lt;/p&gt;
-
-&lt;h2&gt;Career specific&lt;/h2&gt;
-
-&lt;p&gt;The new gTLDs also allow for people to self-identify with their careers. So if you&amp;rsquo;re a photographer, you could use a &lt;a href=&#34;https://iwantmyname.com/domains/dot-photography&#34;&gt;.photography&lt;/a&gt; or &lt;a href=&#34;https://iwantmyname.com/domains/dot-photos&#34;&gt;.photos&lt;/a&gt; extension. Or if you&amp;rsquo;re an engineer, you could go with a &lt;a href=&#34;https://iwantmyname.com/domains/dot-engineer&#34;&gt;.engineer&lt;/a&gt; domain.&lt;/p&gt;
-
-&lt;p&gt;When going for longer, more specific domains, there are two things you should consider. First, how confident are you that you&amp;rsquo;ll stay in that career forever? Are you sure you&amp;rsquo;re not going to quit your job and become a brewmaster (&lt;a href=&#34;https://iwantmyname.com/domains/dot-beer&#34;&gt;.BEER&lt;/a&gt; in the next five years? And second, be mindful of length. There&amp;rsquo;s an American football player named Michael Hoomanawanui, and if he retires and becomes a photographer, hoomanawanui.photography probably isn&amp;rsquo;t his best option for a domain name (24 characters is incredibly long).&lt;/p&gt;
-
-&lt;h2&gt;Domain hacks&lt;/h2&gt;
-
-&lt;p&gt;Domain hacks won&amp;rsquo;t work for everyone, but if you want to get clever, you could do a lot worse than finding the ccTLD that fits into your name. Some common name-enders are &lt;a href=&#34;https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain&#34;&gt;.ES&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/am-armenian-domain-name-registration-for-armenia&#34;&gt;.AM&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria&#34;&gt;.AT&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/be-belgian-domain-name-registration-for-belgium&#34;&gt;.BE&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34;&gt;.CH&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.DE&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/my-malaysian-domain-name-registration-for-malaysia&#34;&gt;.MY&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena&#34;&gt;.SH&lt;/a&gt;. Unfortunately, .LL (ha.ll) isn&amp;rsquo;t available.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;At the end of the day, just about anything you choose will be fine as long as you stick with it (isn&amp;rsquo;t that always the lesson?). The goal of a personal domain is for people to be able to find you, and if you stay in the same place long enough, they likely will. Just know that no matter what domain extension you go with, it&amp;rsquo;ll be better than sending people to Facebook or LinkedIn to discover who you are.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 21 Oct 2014 11:09:31 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/domain-extension-options-for-personal-branding.html</link>
-				
-				<guid isPermaLink="false">/2014/10/domain-extension-options-for-personal-branding.html</guid>
-			</item>
-		
-			<item>
 				<title>Need to know: requesting personal information from your audience</title>
 				<description>&lt;!-- excerpt --&gt;
 
