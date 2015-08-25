@@ -4349,63 +4349,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Squarespace 7 is here, should you be excited?</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-    &lt;iframe src=&#34;https://www.youtube.com/embed/9IDeKXQuiik&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As a user of &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; for a number of years now for personal sites, it&amp;rsquo;s a pretty exciting day when a major update is released. And today, we have Squarespace 7.  From the &lt;a href=&#34;https://blog.squarespace.com/blog/introducing-squarespace-7&#34;&gt;Squarespace Blog&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Today, we’re thrilled to announce Squarespace 7, our largest update in two years. Squarespace 7 features a completely redesigned website manager interface, a deep integration with Getty Images, a cover page builder, an integration with Gmail and Google Apps for Work, 15 new category-specific designs, and much more.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;The new version is being rolled out &amp;ldquo;today in a controlled public beta format&amp;rdquo;, and after looking at the official page, there are a number of things I&amp;rsquo;m quite excited about.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-10-08-squarespace-interface.jpg&#34; alt=&#34;Interface&#34;&gt;&lt;/p&gt;
-
-&lt;h2&gt;On-page editing&lt;/h2&gt;
-
-&lt;p&gt;One of my biggest complaints with Squarespace as a platform has been how clunky it is to get around. If you&amp;rsquo;re reading a page and even want to add a single sentence, you have to hit Esc, log-in (if you&amp;rsquo;re not already), find the page you&amp;rsquo;re trying to edit, double-click for the stupid Markdown editor (I&amp;rsquo;ll go to great lengths to not use WYSIWYG), make the edit, hit save, then go back to the page to see the changes. But now there&amp;rsquo;s on-page editing, which will hopefully cut out all the excess steps (and I&amp;rsquo;m praying to the internet gods for an on-screen Markdown editor).&lt;/p&gt;
-
-&lt;p&gt;But from a big-picture perspective, Wired hit the nail on the head with their headline, &amp;ldquo;The New Squarespace Is a UX Dream That Eliminates the Backend Entirely&amp;rdquo;. From &lt;a href=&#34;http://www.wired.com/2014/10/new-squarespace-ux-dream-eliminates-backend-entirely/&#34;&gt;the article&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;To streamline 7, Squarespace did away with most of the tabs and buttons, to instead let users edit in real time. I took the beta version for a spin: After jumping from Squarespace 6 to 7, my homescreen had a rectangular rendering of my site as it would appear on a screen. (You can view sites in smartphone and tablet layout too.) The main navigation tabs stay off to the left, but when I want to edit, say, the typography of a header, I click on that header and am presented with the necessary tools to tinker color and kerning. Before, you had to click your way through a trial-and-error process of figuring out which drop down tab applied to each graphic on the page, and then toggle back and forth between preview and edit to get the aesthetics just right. On 7, the changes appear instantly, true to format, before you exit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2&gt;Google Apps integration&lt;/h2&gt;
-
-&lt;p&gt;Having an integrated Gmail account isn&amp;rsquo;t a necessity, but I sure do like when things are convenient. With this, you could theoretically start a new brand, launch a website, and send out the obligatory &amp;ldquo;hello world&amp;rdquo; emails in just a few hours College dorm businesses are about to explode.&lt;/p&gt;
-
-&lt;p&gt;My hope though is that you won&amp;rsquo;t have to use the free domain Squarespace provides to work the custom email address. For one, Squarespace only offers .com, .net, .org, .biz, .info, or .mobi domains, leaving out all the country code top-level domains (ccTLDs) and the new &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;generic top-level domains (gTLDs)&lt;/a&gt;. But the more pressing issue is that when you keep your domain name with your host, you&amp;rsquo;re kind of at the whim of the platform you&amp;rsquo;re on. If it goes under, or you decide to move to another platform, it&amp;rsquo;s on you to transfer that domain out before the domain simply vanishes. Also, if you own a number of domains, having them all in one place (secure behind a wall of 2FA) is much more convenient than spreading domains out across the internet.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; In the &lt;a href=&#34;http://squarespace.com/seven/faq&#34;&gt;Squarespace 7 FAQ&lt;/a&gt;, they write, &amp;ldquo;Google Apps accounts cost $5/user month. To get started with Google Apps integration, click Email under the Settings menu in your website manager. Note that you must be on a paying site and have connected a domain in order to gain access to Google Apps.&amp;rdquo; Looks like I&amp;rsquo;ll be keeping my email address and integrated tools separate for the time being.&lt;/p&gt;
-
-&lt;h2&gt;New designs&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-10-08-squarespace-cover-splash.jpg&#34; alt=&#34;Cover Pages&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Switching from Squarespace 5 to Squarespace 6 was a pretty big leap, but the biggest change what the quality of the templates. Squarespace 7 doesn&amp;rsquo;t quite have that big of a jump, but there are 15 new designs to choose from. And for personal branding sites, the new Cover Pages tool looks kind of awesome (although I don&amp;rsquo;t know if I want to spend a hefty monthly fee to host a landing page).&lt;/p&gt;
-
-&lt;h2&gt;And one thing I don&amp;rsquo;t personally need. Getty Images&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s get this out of the way first—I&amp;rsquo;m in no way trying to say that paid photography is a bad thing. If you&amp;rsquo;re opening a restaurant, a store, or just building something neat, I&amp;rsquo;d be the first person to recommend hiring an awesome photographer to capture the mood and the feel. But if you&amp;rsquo;re just looking for a massive picture of, say, New York to fill up your home page, there&amp;rsquo;s no reason to spend $10 for a Getty image. Just go to &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;, or any of the other great new &lt;a href=&#34;http://thestocks.im/&#34;&gt;stock photography sites&lt;/a&gt;, and pick something amazing.&lt;/p&gt;
-
-&lt;p&gt;$10 isn&amp;rsquo;t a bad price for professional photography though. I guess if you find a need for it, this Getty partnership is a good deal. Just be sure to scour the free stock image sites first—they&amp;rsquo;re better than you might think.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 08 Oct 2014 09:04:56 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/squarespace-seven-is-here.html</link>
-				
-				<guid isPermaLink="false">/2014/10/squarespace-seven-is-here.html</guid>
-			</item>
-		
-			<item>
 				<title>Mou might hit 1.0 after all</title>
 				<description>&lt;!-- excerpt --&gt;
 
