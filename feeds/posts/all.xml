@@ -4319,36 +4319,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>.NYC is out, but you need to be a New Yorker to register</title>
-				<description>&lt;p&gt;Good news New Yorkers, &lt;a href=&#34;https://iwantmyname.com/domains/dot-nyc&#34;&gt;.NYC&lt;/a&gt; is out today! But if you&amp;rsquo;re not a New Yorker, fuhgetaboudit (I had to). Like some other top-level domains, the registry behind .NYC has placed restrictions on the domain to ensure only New Yorkers have access. So here&amp;rsquo;s the scoop, from &lt;a href=&#34;http://www.ownit.nyc/policies/nyc_nexus_policy.php&#34;&gt;ownit.nyc&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Registrants in .NYC must be either:
-
-&lt;ol&gt;
-&lt;li&gt;a natural person whose primary place of domicile is a valid physical address in the City of New York (“Nexus Category 1”); or&lt;/li&gt;
-&lt;li&gt;an entity or organization that has a physical street address in the City of New York (“Nexus Category 2”).&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;The existence of a P.O. Box address in the City of New York shall not qualify for purposes of meeting the Nexus Policy.&lt;/li&gt;
-&lt;li&gt;Registrants must agree in their Agreement with their Registrar and/or Reseller, whichever applicable, that they are in compliance with all relevant Federal, New York State and New York City laws, including the tax requirements for conducting business via the Internet. Registrants may find more information about compliance with the City tax laws at the City of New York Department of Finance’s website (currently at www.nyc.gov/finance).&lt;/li&gt;
-&lt;li&gt;Registrants must remain in compliance with the applicable Nexus Category for the entire period of such domain name’s registration by the registrant.&lt;/li&gt;
-&lt;li&gt;Registrants may not license, sub-delegate or otherwise transfer .NYC domain names to third parties that otherwise fail to meet the requirements of this Nexus Policy.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;So basically, to get a .NYC domain, you have to have a valid address in NYC (business or residential), and you need to keep that address (or another NYC address) for the duration of the ownership.&lt;/p&gt;
-
-&lt;p&gt;Normally, when domains have this many restrictions on registration, we simply choose not to offer them. It creates challenges for us, and ultimately, makes the lives of our customers unnecessarily difficult. But in this case, we&amp;rsquo;ve received so much interest in the domain that we&amp;rsquo;ve decided to sell it.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about .NYC, please &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;let us know&lt;/a&gt;. Also, the &lt;a href=&#34;http://www.ownit.nyc/&#34;&gt;.NYC registry&lt;/a&gt; has a ton of information about the extension and its uses, so you may be able to answer some of your more specific questions there.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 09 Oct 2014 08:28:03 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/nyc-is-out.html</link>
-				
-				<guid isPermaLink="false">/2014/10/nyc-is-out.html</guid>
-			</item>
-		
-			<item>
 				<title>Mou might hit 1.0 after all</title>
 				<description>&lt;!-- excerpt --&gt;
 
