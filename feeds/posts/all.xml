@@ -2946,29 +2946,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Deep thoughts on the future SEO benefits of the new domain extensions</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://domainnamewire.com/2014/12/17/could-new-tlds-have-an-seo-benefit-in-the-future/&#34;&gt;From Andrew Allemann &amp;ndash; Domain Name Wire:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Using a new top level domain name instead of a .com or other gTLD does not give you a benefit in Google search results. Ditto for using a .com instead of a new TLD. They’re basically the same.&lt;/p&gt;
-
-&lt;p&gt;That’s what Google says. And it makes sense when you think about it. A lot of people that think new TLDs have an SEO advantage are thinking with their heart, not with their head.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;While it doesn’t make sense for Google to favor a new TLD over an existing TLD at this point, it could make sense in the future. It would make sense if it improved search results. Let’s go through some of the arguments that ranking new TLDs ahead of other TLDs would benefit search results, and consider if they are valid now and if they will be in the future.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				<pubDate>Fri, 19 Dec 2014 11:16:15 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/12/deep-thoughts-on-the-future-seo-benefits-of-the-new-domain-extensions.html</link>
-				
-				<guid isPermaLink="false">/2014/12/deep-thoughts-on-the-future-seo-benefits-of-the-new-domain-extensions.html</guid>
-			</item>
-		
-			<item>
 				<title>New feature alert—we now support USD, NZD, AUD, GBP and EUR!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2014-10-14-multicurrency.png&#34; alt=&#34;Multicurrency&#34;&gt;&lt;/p&gt;
 
