@@ -3772,35 +3772,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Time to do some hacking on DuckDuckGo</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-10-30-ddg.png&#34; alt=&#34;DDH&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; has long been one of our favorite search engines, and given the amount of programmers and developers we have in our community, it&amp;rsquo;s probably one of your favorites, too. (If you&amp;rsquo;re not using it, give DuckDuckGo a shot. Unlike Google/Bing, DDG doesn&amp;rsquo;t collect or share any personal information, and ads really are kept to a minimum.)&lt;/p&gt;
-
-&lt;p&gt;And now, DuckDuckGo is letting the community &amp;ldquo;hack the search engine.&amp;rdquo;&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://duckduckhack.com/&#34;&gt;From DuckDuckHack:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;For non-coders and coders alike: We need your help on plugin ideas, data sources and issues about current plugins. All of these activities are valuable and will help direct community efforts.&lt;/p&gt;
-
-&lt;p&gt;For coders: DuckDuckHack is the best way to use your skills to help make DuckDuckGo a better search engine and a great way to get started in open-source.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested, head on over to &lt;a href=&#34;http://duckduckhack.com/&#34;&gt;DuckDuckHack&lt;/a&gt; and check out the slick new landing page. And don&amp;rsquo;t be afraid to pitch in—I&amp;rsquo;d love to see their underdog search engine get bigger and better.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 30 Oct 2014 08:42:06 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/time-to-do-some-hacking-on-duckduckgo.html</link>
-				
-				<guid isPermaLink="false">/2014/10/time-to-do-some-hacking-on-duckduckgo.html</guid>
-			</item>
-		
-			<item>
 				<title>Subdomain rot and the security implications</title>
 				<description>&lt;!-- excerpt --&gt;
 
