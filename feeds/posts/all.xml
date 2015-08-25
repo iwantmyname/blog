@@ -3252,33 +3252,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Hey developers! We need your input!</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;From the very beginning of iwantmyname, we wanted to build a beautiful API to let you to find, purchase, and manage domains names and DNS records programmatically. But until recently, we didn&amp;rsquo;t have the manpower to develop an API alongside maintaining our current platform. We got close to tackling it last year with our expanded team, but new ICANN requirements and the launch of hundreds of new domain extensions took priority.&lt;/p&gt;
-
-&lt;p&gt;While &lt;a href=&#34;https://iwantmyname.com/blog/2014/11/bali-trip.html&#34;&gt;in Bali&lt;/a&gt; last month, we decided that now is the time. With a clean slate, a newly formed &amp;ldquo;API Task Force&amp;rdquo;, and 5+ years of industry learnings, we&amp;rsquo;ve started &lt;a href=&#34;http://dev.iwantmyname.com/docs/&#34;&gt;documenting our ideal API&lt;/a&gt; and laying the groundwork for development into 2015.&lt;/p&gt;
-
-&lt;p&gt;This is where you come along.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;Developers like yourself have been looking to do lots of things with an iwantmyname API. We&amp;rsquo;ve heard from people who want to build apps, integrate custom domains into platforms and services, and use our platform to dynamically update DNS records—but we want to hear from you.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ve created &lt;a href=&#34;https://docs.google.com/forms/d/1WzXl1WdMt8eRoH1Kprl5QtRXmX-L4Citp9dYXvzTHUs/viewform&#34;&gt;a short and simple survey&lt;/a&gt; to help us better understand your needs so that we can design and prioritize features of the API right from the start. It should only take a few minutes to fill out and your feedback will be incredibly helpful in shaping our initial release.&lt;/p&gt;
-
-&lt;p&gt;Our goal is to have our first API testing phase in early 2015 with a subset of features available. The rest of 2015 will be dedicated to fleshing out the remaining features of the API (many of which will be determined by &lt;a href=&#34;https://docs.google.com/forms/d/1WzXl1WdMt8eRoH1Kprl5QtRXmX-L4Citp9dYXvzTHUs/viewform&#34;&gt;this survey&lt;/a&gt;) and building a new frontend and dashboard for iwantmyname powered by our own API.&lt;/p&gt;
-
-&lt;p&gt;2015 is shaping up to be a big year—I hope you&amp;rsquo;re as excited as we are!&lt;/p&gt;
-</description>
-				<pubDate>Wed, 03 Dec 2014 05:25:08 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/12/api-survey.html</link>
-				
-				<guid isPermaLink="false">/2014/12/api-survey.html</guid>
-			</item>
-		
-			<item>
 				<title>The 25 most popular new domain extensions on iwantmyname</title>
 				<description>&lt;!-- excerpt --&gt;
 
