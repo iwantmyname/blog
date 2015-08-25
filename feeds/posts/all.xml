@@ -3673,37 +3673,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>This is important—make sure your GitHub Pages DNS settings are up-to-date</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-11-08-github.png&#34; alt=&#34;GitHub&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;At the beginning of 2014, GitHub Pages announced some major &lt;a href=&#34;https://github.com/blog/1715-faster-more-awesome-github-pages&#34;&gt;content delivery improvements&lt;/a&gt;—and the DNS changes were made in our one-click installs nearly right away. But for customers who added GitHub Pages (using the old GitHub Pages DNS settings) before the announcement, this is an important message.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;From GitHub:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Starting the week of November 10th, pushing to a misconfigured site will result in a build error and you will receive an email stating that your site&amp;rsquo;s DNS is misconfigured. Your site will remain available to the public, but changes to your site will not be published until the DNS misconfiguration is resolved.&lt;/p&gt;
-
-&lt;p&gt;For the week of November 17th, there will be a week-long brownout for improperly configured GitHub Pages sites. If your site is pointed to a legacy IP address, you will receive a warning message that week, in place of your site&amp;rsquo;s content. Normal operation will resume at the conclusion of the brownout.&lt;/p&gt;
-
-&lt;p&gt;Starting December 1st, custom domains pointed to the deprecated IP addresses will no longer be served via GitHub Pages. No repository or Git data will be affected by the change.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Please note that if you&amp;rsquo;re using the old settings, you should receive an email from GitHub letting you know you need to make the change (or you can check &lt;a href=&#34;https://github.com/blog/1917-github-pages-legacy-ip-deprecation&#34;&gt;here&lt;/a&gt; to see now). If you&amp;rsquo;re in this camp, please refer to the &lt;a href=&#34;https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/&#34;&gt;GitHub Pages custom domain setup&lt;/a&gt; to guide you through setting up your DNS settings correctly.&lt;/p&gt;
-
-&lt;p&gt;And, as always, if you have any questions about the GitHub Pages improvements or the new DNS settings, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;definitely let us know&lt;/a&gt;.  We&amp;rsquo;re always here to help.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 07 Nov 2014 05:19:46 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/11/make-sure-your-github-pages-dns-settings-are-up-to-date.html</link>
-				
-				<guid isPermaLink="false">/2014/11/make-sure-your-github-pages-dns-settings-are-up-to-date.html</guid>
-			</item>
-		
-			<item>
 				<title>Subdomain rot and the security implications</title>
 				<description>&lt;!-- excerpt --&gt;
 
