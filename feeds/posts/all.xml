@@ -3191,25 +3191,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Ugh, invalid username/password</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://kev.inburke.com/kevin/invalid-username-or-password-useless/&#34;&gt;From Kevin Burke:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;So what we&amp;rsquo;ve done by promoting &amp;ldquo;Invalid username or password&amp;rdquo; is made our login form UX much, much worse, without increasing the security of our product.&lt;/p&gt;
-
-&lt;p&gt;If people don&amp;rsquo;t log in to your site every day (every site on the web except Facebook or Google), not remembering credentials is a huge barrier to accessing your site. Don&amp;rsquo;t make it harder by adding a vague error message that doesn&amp;rsquo;t increase your site&amp;rsquo;s security at all.&lt;/p&gt;
-
-&lt;p&gt;But there&amp;rsquo;s a tradeoff there between security and UX, I hear you say. I am trying to show you there is no tradeoff, as presented above; you are choosing between a better user experience and a worse user experience.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				<pubDate>Sat, 06 Dec 2014 10:58:16 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/12/ugh-invalid-username-password.html</link>
-				
-				<guid isPermaLink="false">/2014/12/ugh-invalid-username-password.html</guid>
-			</item>
-		
-			<item>
 				<title>The 25 most popular new domain extensions on iwantmyname</title>
 				<description>&lt;!-- excerpt --&gt;
 
