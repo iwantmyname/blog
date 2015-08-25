@@ -4096,64 +4096,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Why domain extensions still matter</title>
-				<description>&lt;p&gt;iwantmyname chief writer Chris asked an interesting question the other day: &lt;a href=&#34;https://iwantmyname.com/blog/2014/10/do-domain-extensions-really-matter-anymore.html&#34;&gt;“Do domain extensions really matter anymore?”&lt;/a&gt;. This is something I’ve also been thinking about, and here are three areas I believe they still do.&lt;/p&gt;
-
-&lt;h2&gt;Location&lt;/h2&gt;
-
-&lt;p&gt;In non-dotcom land, i.e. anywhere but the US, domain extensions can give people a hint as to where you are doing business. That’s why country code top-level domains (ccTLDs) such as .NZ (New Zealand) or .UK (United Kingdom) are often preferred by local visitors over .COM and other generic alternatives.&lt;/p&gt;
-
-&lt;p&gt;As an example here are some interesting facts from the .nz registry’s &lt;a href=&#34;http://www.getyourselfonline.co.nz/2014-nz-domain-name-research-report&#34;&gt;“2014 .nz Domain Name Research Report”&lt;/a&gt; to back this up:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Nearly all New Zealanders (89%) look for .nz domain names all or some of the time.&lt;/li&gt;
-&lt;li&gt;More people (79% up from 71% in 2012) filter their searches to get New Zealand results.&lt;/li&gt;
-&lt;li&gt;Consumers trust .nz websites mainly because they are local.&lt;/li&gt;
-&lt;li&gt;All consumers expect .nz sites to ship at reasonable cost, be easy to contact and to have legal cover, compared with .com sites.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So even if you are an international company offering services to  customers in multiple countries it could make sense to advertise your site using the local ccTLD for both consumer trust and search engine visibility.&lt;/p&gt;
-
-&lt;h2&gt;New gTLDs&lt;/h2&gt;
-
-&lt;p&gt;Earlier this year &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;new generic top-level domains&lt;/a&gt; hit the market. These were specifically launched to have more meaningful domain extensions.&lt;/p&gt;
-
-&lt;p&gt;Let’s take the following three examples:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-club&#34;&gt;.CLUB&lt;/a&gt; for people sharing common interests&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-directory&#34;&gt;.DIRECTORY&lt;/a&gt; for listings and collections&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-photography&#34;&gt;.PHOTOGRAPHY&lt;/a&gt; which is completely self-explanatory&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Isn’t it easier to guess what’s behind a web address using one of these TLDs than a random .com domain?&lt;/p&gt;
-
-&lt;p&gt;We’re only at the beginning of this internet address expansion and closed or restricted namespaces may further increase the importance of domain extensions. For example, the decision by the city of New York to only allow the registration of .NYC domains if you meet their address requirements could result in it becoming the most popular choice for local businesses. There are also plans for &lt;a href=&#34;http://arstechnica.com/security/2012/05/my-own-private-internet-secure-tld-floated-as-bad-guy-free-zone/&#34;&gt;ultra-secure namespaces such as .SECURE&lt;/a&gt; or .BANK which would only be available to approved parties.&lt;/p&gt;
-
-&lt;h2&gt;Ownership&lt;/h2&gt;
-
-&lt;p&gt;Domain extensions also still matter because they allow you to own your web address. Without the Domain Name System there would be no such thing.&lt;/p&gt;
-
-&lt;p&gt;That’s one of the reasons why I am excited about aforementioned new top-level domains. If there is a wider selection of domain extensions and you have more choice in picking a name you like (try finding something you really, really like in .COM) it means  you are more likely to take control of your web address.&lt;/p&gt;
-
-&lt;p&gt;I wrote the following about &lt;a href=&#34;https://iwantmyname.com/blog/2009/06/i-want-my-name-or-how-you-can-own-your-online-identity-with-domains.html&#34;&gt;owning your domain&lt;/a&gt; 5 years ago which still holds true:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Domains [have been around] 25 years(!) now and there’s no sign that they will go away anytime soon. A domain name is the only address that you can really own and control. You register it, you pay for it and you use it the way you want. It’s as simple as that.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What’s changed is that we’re 30 years in now. And here’s to the next 10!&lt;/p&gt;
-</description>
-				<pubDate>Tue, 14 Oct 2014 05:18:42 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/why-domain-extensions-still-matter.html</link>
-				
-				<guid isPermaLink="false">/2014/10/why-domain-extensions-still-matter.html</guid>
-			</item>
-		
-			<item>
 				<title>The Grid — AI websites that design themselves</title>
 				<description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
     &lt;iframe src=&#34;https://www.youtube.com/embed/OXA4-5x31V0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
