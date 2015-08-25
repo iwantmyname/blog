@@ -2923,29 +2923,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>The Sweet Setup’s top third-party email app for OSX</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://thesweetsetup.com/apps/favorite-email-client-os-x/&#34;&gt;From Jason Snell &amp;ndash; The Sweet Setup:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Because Apple makes it, Mail is for everybody. But it’s not for everybody. Apple designed it to serve the masses, and if you want more–or less–from your email client, Apple Mail may not suit you. Maybe its old-school approach to mail, lifted from classic mail clients like Eudora and NeXTMail, just doesn’t fit the modern emailer. Maybe you want deep links to productivity apps on your Mac that Mail just won’t provide. Or maybe you’re just tired of being in a dysfunctional relationship with Mail.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We think Mailbox is the best alternative to Apple Mail out there, but it only works with Gmail or iCloud. If you’re not using either of those providers, the best Mail alternative compatible with most POP/IMAP/Exchange servers is the $10 Airmail 2. Airmail feels like an attempt to create a true replacement for Apple Mail, rather than rethinking the way we process email like Mailbox. However, Airmail also has the concept of filing a message to a “To Do” folder for later processing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Email is one of those things people really struggle with, but there are so many tools and apps out there you may find to be more tuned to your liking. If you’re looking for a New Year’s resolution you can actually stick to, commit to making your life a little saner with an email app that fits your workflow.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 23 Dec 2014 06:06:55 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/12/the-sweet-setups-top-third-party-email-app-for-osx.html</link>
-				
-				<guid isPermaLink="false">/2014/12/the-sweet-setups-top-third-party-email-app-for-osx.html</guid>
-			</item>
-		
-			<item>
 				<title>New feature alert—we now support USD, NZD, AUD, GBP and EUR!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2014-10-14-multicurrency.png&#34; alt=&#34;Multicurrency&#34;&gt;&lt;/p&gt;
 
