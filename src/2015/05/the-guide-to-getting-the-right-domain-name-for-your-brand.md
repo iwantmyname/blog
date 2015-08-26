@@ -1,6 +1,6 @@
 date: 2015-05-22 14:56:45 -0700
 author: Melle
-title: The guide to getting the right domain name for your brand (and what to do if someone else owns it)
+title: What to do if the domain name you want is taken
 header_image: 2015-05-22-no-name.jpg
 ----
 
