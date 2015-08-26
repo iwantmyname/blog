@@ -11566,28 +11566,6 @@ So now it&amp;rsquo;s the perfect time to revisit this year&amp;rsquo;s highligh
 			</item>
 		
 			<item>
-				<title>6 Free DNS Hosting Services For Your Domain Names</title>
-				<description>&lt;p&gt;One of our core philosophies at &lt;a href=&#34;https://iwantmyname.com&#34; title=&#34;Domain&#34;&gt;iwantmyname&lt;/a&gt; is openness. For example, we we don&amp;rsquo;t force you to use our nameservers and DNS hosting services for your domain names. It might even make perfect sense to seperate &lt;a href=&#34;https://iwantmyname.com/domains&#34; title=&#34;Register Domain&#34;&gt;domain registration&lt;/a&gt; and DNS hosting in some cases. That&amp;rsquo;s why you can always update the nameservers of your registered domains in real-time through your online dashboard to host it somewhere else.&lt;/p&gt;
-
-&lt;p&gt;There are many free DNS hosting services out there and depending on the level of service or amount of domains (some of them offer paid account upgrades) they might already be sufficient for your needs. Some of the most popular ones are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zoneedit.com&#34;&gt;ZoneEdit.com&lt;/a&gt; (5 domains free)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.everydns.com&#34;&gt;EveryDNS.net&lt;/a&gt; (from OpenDNS founder &lt;a href=&#34;http://david.ulevitch.com/&#34;&gt;David Ulevitch&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://free.editdns.net&#34;&gt;editDNS.net&lt;/a&gt; (free for up to 5 domains)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.xname.org&#34;&gt;XName.org&lt;/a&gt; (non-commercial)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://freedns.afraid.org&#34;&gt;FreeDNS&lt;/a&gt; (unlimited domains, 20 subdomains)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zerigo.com/managed-dns&#34;&gt;Zerigo&lt;/a&gt; (also integrates with &lt;a href=&#34;http://addons.heroku.com/zerigo_dns&#34;&gt;Heroku&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Fri, 13 Nov 2009 12:39:27 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2009/11/6-free-dns-hosting-services-for-your-domain-names.html</link>
-				
-				<guid isPermaLink="false">/2009/11/6-free-dns-hosting-services-for-your-domain-names.html</guid>
-			</item>
-		
-			<item>
 				<title>Host And Share Files On Your Custom Domain With Droplr</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://droplr.com&#34; title=&#34;Droplr&#34;&gt;Droplr&lt;/a&gt; is a little Mac application that runs in your menubar and can be used for uploading, hosting and sharing files with your favourite Twitter client or other apps. What we really like with Droplr is the custom domain option. Simply enter your own &lt;a href=&#34;https://iwantmyname.com/short-domain-search&#34; title=&#34;Short Domain Search&#34;&gt;short domain name&lt;/a&gt; into their web application, change the DNS A record settings and all links to your hosted files will contain your branded URL immediately.&lt;/p&gt;
 
