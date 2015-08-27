@@ -7040,47 +7040,6 @@ and more secure.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>How To Transfer Your Domain Away From iwantmyname (And A Bit On Why You Shouldn&#39;t)</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;It&amp;rsquo;s been part of our &lt;a href=&#34;https://iwantmyname.com/about&#34;&gt;domain management ethics&lt;/a&gt; from the very beginning—we&amp;rsquo;ll never prevent you from transferring your domain away from iwantmyname. Because we believe nothing in life is worse than being stuck!&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;So if you&amp;rsquo;re looking to transfer your domain from iwantmyname to another registrar, here&amp;rsquo;s how to do it for domains that require an authorization code:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Login to your account and click &lt;em&gt;Domains&lt;/em&gt; in the top nav.&lt;/li&gt;
-&lt;li&gt;Select the domain you&amp;rsquo;d like to transfer.&lt;/li&gt;
-&lt;li&gt;Change the &lt;em&gt;Transfer Lock&lt;/em&gt; setting to &lt;em&gt;unlocked&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Use the &lt;em&gt;Transfer Auth Code&lt;/em&gt; provided to move your domain.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Once you&amp;rsquo;ve retrieved your Transfer Auth Code (sometimes registrars also call it an EPP key), you can begin the transfer process in your registrar of choice. Please note though that some registries prohibit transfers within 60 days of registration, so you may have to wait some time if it&amp;rsquo;s a new domain.&lt;/p&gt;
-
-&lt;p&gt;As soon as your new registrar has informed us about the transfer request, you will be able to approve it from within the iwantmyname dashboard:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-11-21-outgoing-transfer.png&#34; alt=&#34;outgoing-transfer.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Domain extensions that don&amp;rsquo;t require an authorization code usually bypass the registrar and the transfer process is handled by the underlying registry. For example if you want to transfer an Austrian domain, you start the process with your new registrar and the .AT registry Nic.at sends you an email to confirm the transaction. Easy!&lt;/p&gt;
-
-&lt;p&gt;But before you decide to go ahead with your domain transfer, here are a few things you should know:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Many hosts offer domain names, but know that your domain and site/email host doesn&amp;rsquo;t have to (and probably shouldn&amp;rsquo;t) be one and the same.&lt;/li&gt;
-&lt;li&gt;On the same note, we don&amp;rsquo;t offer any hosting services of our own. We do one thing and do it well&amp;mdash;domain management. But we &lt;em&gt;do&lt;/em&gt; offer one-click installations to some of the most popular platforms on the web through our &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/featured&#34;&gt;Marketplace&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s not required to get the transfer authorization code to renew a domain. If you have received an email asking for an auth code, it might be a &lt;a href=&#34;https://iwantmyname.com/blog/2012/06/beware-of-domain-renewal-scams.html&#34;&gt;renewal scam&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;If you&amp;rsquo;ve run into any issues, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;we&amp;rsquo;re always here to help&lt;/a&gt;. And when you send us a question, a real person (not an automated service) will respond. Every time.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-				<pubDate>Thu, 21 Nov 2013 12:56:16 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/11/how-to-transfer-your-domain-away-from-iwantmyname.html</link>
-				
-				<guid isPermaLink="false">/2013/11/how-to-transfer-your-domain-away-from-iwantmyname.html</guid>
-			</item>
-		
-			<item>
 				<title>Philippines Typhoon: How You Can Help</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-11-14-haiyan2.jpg&#34; alt=&#34;haiyan2.jpg&#34;&gt;&lt;/p&gt;
 
