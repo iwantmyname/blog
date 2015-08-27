@@ -3923,55 +3923,6 @@ control structures in place, but for us it was really something that just develo
 			</item>
 		
 			<item>
-				<title>HTTPS is now a Google ranking signal—learn how to make the switch</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Google rankings. Just say the phrase and you&amp;rsquo;ll raise the blood pressure of countless website owners, because for as many professionals as there are trying to crack the search engine optimization (SEO) code, it&amp;rsquo;s still a moving target. New updates to the ranking algorithm are coming out all the time, and SEO practices that are considered &amp;lsquo;standard&amp;rsquo; one day might be damaging the next.&lt;/p&gt;
-
-&lt;p&gt;But every once in a while Google will announce a very specific algorithm change that can be applied by nearly everyone, without any drastic changes to content or site structure.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://googlewebmastercentral.blogspot.com/2014/08/https-as-ranking-signal.html&#34;&gt;From Google&amp;rsquo;s Webmaster Central Blog:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;over the past few months we’ve been running tests taking into account whether sites use secure, encrypted connections as a signal in our search ranking algorithms. We&amp;rsquo;ve seen positive results, so we&amp;rsquo;re starting to use HTTPS as a ranking signal. For now it&amp;rsquo;s only a very lightweight signal — affecting fewer than 1% of global queries, and carrying less weight than other signals such as high-quality content — while we give webmasters time to switch to HTTPS. But over time, we may decide to strengthen it, because we’d like to encourage all website owners to switch from HTTP to HTTPS to keep everyone safe on the web.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Put simply, Google is now starting to give a minor ranking boost to sites using HTTPS (Hypertext Transfer Protocol Secure) instead of the standard HTTP.&lt;/p&gt;
-
-&lt;h3&gt;So what can you do about it?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://konklone.com/post/switch-to-https-now-for-free&#34;&gt;From Eric Mill:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A quick overview: to use HTTPS on the web today, you need to obtain a certificate file that&amp;rsquo;s signed by a company that browsers trust. Once you have it, you tell your web server where it is, where your associated private key is, and open up port 443 for business. You don&amp;rsquo;t necessarily have to be a professional software developer to do this, but you do need to be okay with the command line, and comfortable configuring a web server you control.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you&amp;rsquo;re in this boat, &lt;a href=&#34;https://konklone.com/post/switch-to-https-now-for-free&#34;&gt;his post&lt;/a&gt; goes on to show how to switch to HTTPS using StartSSL (it&amp;rsquo;s free for most sites), and then how to install it &amp;ldquo;via nginx, but you can use the certificate with whatever web server you want.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;We also have a number of &lt;a href=&#34;https://iwantmyname.com/ssl&#34;&gt;preferred SSL certificate providers&lt;/a&gt;, so be sure to do a bit of homework first to see which provider best fits your needs.&lt;/p&gt;
-
-&lt;h3&gt;CloudFlare will soon be all HTTPS&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://blog.cloudflare.com/google-now-factoring-https-support-into-ranking-cloudflare-on-track-to-make-it-free-and-easy&#34;&gt;CloudFlare&lt;/a&gt;, the popular content delivery network and distributed domain name server, is &amp;ldquo;on track to roll out SSL for all CloudFlare customers by mid-October (paid customers are already supported). When (they) do, the number of sites that support HTTPS on the Internet will more than double. That they&amp;rsquo;ll also rank a bit higher is pretty cool too.&amp;rdquo; So if you&amp;rsquo;re currently using CloudFlare for your website, you don&amp;rsquo;t need to do anything. If not, here&amp;rsquo;s the 90-second pitch, in video form:&lt;/p&gt;
-
-&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/14700285?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Need any help?&lt;/h3&gt;
-
-&lt;p&gt;If you have any questions about HTTPS for your site, definitely &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;let us know&lt;/a&gt;. While HTTPS might be a small ranking signal today, it can never hurt to make your site more secure—and more SEO optimized—for the future.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 13 Aug 2014 06:29:54 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/08/https-is-now-a-google-ranking-signal-learn-how-to-make-the-switch.html</link>
-				
-				<guid isPermaLink="false">/2014/08/https-is-now-a-google-ranking-signal-learn-how-to-make-the-switch.html</guid>
-			</item>
-		
-			<item>
 				<title>Gmail now recognizes addresses with accented and non-Latin characters</title>
 				<description>&lt;!-- excerpt --&gt;
 
