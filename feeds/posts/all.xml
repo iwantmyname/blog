@@ -9265,23 +9265,6 @@ to defend against external attacks on networks. It amends some tired laws that d
 			</item>
 		
 			<item>
-				<title>5 New Country Codes: .PM, .RE, .TF, .WF &amp; .YT Domains</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2012-03-31-afnic-tlds.png&#34; alt=&#34;afnic-tlds.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;This week we have added five new country code top-level domains (ccTLDs) for you to &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;register at iwantmyname&lt;/a&gt;. The domain extensions &lt;a href=&#34;https://iwantmyname.com/domains/pm-domain-name-registration-for-saint-pierre-and-miquelon&#34;&gt;.PM (St Pierre et Miquelon)&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/re-french-domain-name-registration-for-reunion&#34;&gt;.RE (Réunion)&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/tf-domain-name-registration-for-french-southern-territories&#34;&gt;.TF (French Southern Territories)&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/wf-wallisian-futunan-domain-name-registration-for-wallis-and-futuna&#34;&gt;.WF (Wallis and Futuna)&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/yt-mahoran-domain-name-registration-for-mayotte&#34;&gt;.YT (Mayotte)&lt;/a&gt; belong to &lt;a href=&#34;https://iwantmyname.com/domains/fr-french-domain-name-registration-for-france&#34;&gt;France&lt;/a&gt; and are managed by &lt;a href=&#34;http://afnic.fr&#34;&gt;AFNIC&lt;/a&gt;, the French registry.&lt;/p&gt;
-
-&lt;p&gt;.PM, .RE, .TF, .WF and .YT domains can be registered by anybody worldwide at a yearly price of $49.00 which includes the required local address in the European Union. We also offer &lt;a href=&#34;https://iwantmyname.com/domains/domain-transfer&#34;&gt;domain transfers in these French extensions&lt;/a&gt; without you losing any previously paid term at your current registrar.&lt;/p&gt;
-
-&lt;p&gt;P.S. Need help with moving your domain names? Check out our &lt;a href=&#34;https://iwantmyname.com/transferservice&#34;&gt;free managed transfer service&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Sat, 31 Mar 2012 15:22:55 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/03/5-new-country-code-domain-extensions-pm-re-tf-wf-yt.html</link>
-				
-				<guid isPermaLink="false">/2012/03/5-new-country-code-domain-extensions-pm-re-tf-wf-yt.html</guid>
-			</item>
-		
-			<item>
 				<title>Care For Dynamic DNS (DDNS) Updates?</title>
 				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS &amp;mdash; used widely by DynDNS &amp;mdash; which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
 
