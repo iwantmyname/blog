@@ -10152,23 +10152,6 @@ through building strong communities and supporting local businesses that we can 
 			</item>
 		
 			<item>
-				<title>Introducing DNS Hosting For External Domains</title>
-				<description>&lt;p&gt;Today we&amp;rsquo;re pleased to announce the release of our &lt;a href=&#34;https://iwantmyname.com/dns&#34;&gt;managed DNS hosting&lt;/a&gt; for domains which are not registered at iwantmyname. This enables you to manage domain names independently from any registrar or registry and also benefit from easy domain customization through the &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;iwantmyname marketplace&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;By purchasing the DNS hosting add-on, you will be able to set A, CNAME, MX, AAAA, SRV, TXT, NAPTR record types in real-time and use our URL forwarding services. We also show you additional domain information such as your current registrar, ownership details and expiration dates:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2011-08-05-external-dns-hosting-iwantmyname.png&#34; alt=&#34;DNS Hosting iwantmyname Example&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Getting started is easy. Simply purchase the DNS hosting add-on ($2.90/yr) for the domain you would like to manage via your iwantmyname dashboard, apply the desired DNS or URL forwarding settings and switch the nameservers to ns1/2/3/4.iwantmyname.net at your current registrar. &lt;a href=&#34;https://iwantmyname.com/dns&#34;&gt;Host your DNS with iwantmyname now&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 05 Aug 2011 09:55:13 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2011/08/introducing-dns-hosting-for-external-domains.html</link>
-				
-				<guid isPermaLink="false">/2011/08/introducing-dns-hosting-for-external-domains.html</guid>
-			</item>
-		
-			<item>
 				<title>Domain Registrations Reflect Web Commerce Explosion</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2011-07-13-growth.jpg&#34; alt=&#34;growth.jpg&#34;&gt;&lt;/p&gt;
 
