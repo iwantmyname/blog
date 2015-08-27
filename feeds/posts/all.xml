@@ -8386,19 +8386,6 @@ international aid work with very targeted and well researched actions which genu
 			</item>
 		
 			<item>
-				<title>Getting a new VPS? Do these steps first.</title>
-				<description>&lt;p&gt;This week, we found a &lt;a href=&#34;http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers&#34;&gt;great post by Bryan Kennedy&lt;/a&gt; on the things he spends the first five minutes doing on any new Linux server. We won&amp;rsquo;t copy the content, but in essence it&amp;rsquo;s a series of applications and tasks to run that allow you to be a safer system administrator.
-We can&amp;rsquo;t recommend following these steps enough &amp;mdash; many first time VPS owners sign up for their &lt;a href=&#34;https://iwantmyname.com/features/domains/web-hosting&#34;&gt;host&lt;/a&gt; and do the bare minimum, leaving themselves wide open to compromise. The &lt;a href=&#34;http://news.ycombinator.com/item?id=5316093&#34;&gt;Hacker News&lt;/a&gt; thread about the post also contains some interesting discussion about other steps that can be taken to secure a server and provide basic notifications. Particularly interesting was &lt;a href=&#34;http://news.ycombinator.com/item?id=5316539&#34;&gt;the note about &lt;em&gt;etckeeper&lt;/em&gt;&lt;/a&gt; &amp;mdash; an application that commits changes to /etc/ to git, so that it&amp;rsquo;s virtually impossible to destroy your own server.
-If you&amp;rsquo;re a bit more experienced, there are &lt;a href=&#34;http://practicalops.com/my-first-5-minutes-on-a-server.html&#34;&gt;ways to automate the&lt;/a&gt;tasks that are mentioned by Bryan so that it&amp;rsquo;s easier to install and configure the server from the start.&lt;/p&gt;
-</description>
-				<pubDate>Sat, 09 Mar 2013 19:50:22 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/03/getting-a-new-vps-do-these-steps-first.html</link>
-				
-				<guid isPermaLink="false">/2013/03/getting-a-new-vps-do-these-steps-first.html</guid>
-			</item>
-		
-			<item>
 				<title>Need To Register Domains Requiring A Postal Address In Europe? We&#39;ve Got You Covered!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-02-15-europe-flag.jpg&#34; alt=&#34;europe-flag.jpg&#34;&gt;&lt;/p&gt;
 
