@@ -9310,23 +9310,6 @@ Kiwi technology to the world.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Bubble And Squeak Kids Fashion Fry-Up</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2012-03-16-cute.jpg&#34; alt=&#34;cute.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Growing a little tired of cookie cutter, mass produced clothing lines for kids? Our domain of the month might have the answer for you. &lt;a href=&#34;http://www.kidsclothesonline.co.nz/&#34;&gt;Bubble and Squeak&lt;/a&gt; offers online retailing for fun and funky childrenswear at affordable price points.&lt;/p&gt;
-
-&lt;p&gt;My kid has moved on to a school uniform now, but I can still remember what a drag it was trying to find fashionable and individual styles to bundle him in when he was an active toddler. These days clothing manufacturers&amp;rsquo; colour pallette seems to be limited to pastel shades of blue and pink. Bubble and Squeak in-house designs have a lot more imagination than that and they limit each production run to 50 stock items in each size range. So you won&amp;rsquo;t run into a kiddie clone on your next outing to the mall.&lt;/p&gt;
-
-&lt;p&gt;Bubble and Squeak&amp;rsquo;s e-tailing site is also a great example of how to set up a &lt;a href=&#34;https://iwantmyname.co.nz/features/applications/custom-domain-apps/e-commerce/shopify-hosted-online-store-platform-and-shop-software&#34;&gt;domain customised Shopify&lt;/a&gt; store front on the web. Shopify walks you through building your online marketplace, but you can also engage a friendly developer/designer to give it that extra special flavour. Bubble and Squeak has the highly sought after web development team at &lt;a href=&#34;http://www.uprise.co.nz/&#34;&gt;Uprise&lt;/a&gt; to thank for tailoring their website to best promote these smart sartorial offerings to busy Mums and Dads online.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 16 Mar 2012 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/03/bubble-and-squeak-kids-fashion-fry-up.html</link>
-				
-				<guid isPermaLink="false">/2012/03/bubble-and-squeak-kids-fashion-fry-up.html</guid>
-			</item>
-		
-			<item>
 				<title>Care For Dynamic DNS (DDNS) Updates?</title>
 				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS &amp;mdash; used widely by DynDNS &amp;mdash; which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
 
