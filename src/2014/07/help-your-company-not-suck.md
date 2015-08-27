@@ -14,7 +14,7 @@ You're exposed. Most likely, at least. If your brand is on the web, it's open to
 2. [Questions to ask before getting started](#section-2)
 3. [Don't sharecrop, register a domain](#section-3)
 4. [Monitor, engage, and converse](#section-4)
-5. [How to make your sites a really useful destination](#section-5)
+5. [How to make your site a really useful destination](#section-5)
 6. [Be the master of your own domain(s)](#section-6)
 7. [It's ok to have fun](#section-7)
 
@@ -90,7 +90,7 @@ Yes, people want it to be easy to get information and answers about you and your
 
 They want to be heard, and to be able to have a conversation with you (when _they_ want one), and know that their concerns are being listened to and that their problems get fixed.
 
-<h2 id="section-5">How to make your sites a really useful destination</h2>
+<h2 id="section-5">How to make your site a really useful destination</h2>
 
 So looking at your company's own web properties, how should you handle those with respect to customer reviews and feedback? Well, ideally your company and its representatives don't suck very often, and so people don't have much reason to go looking for _yourcompany.sucks_ to vent their spleens.
 
