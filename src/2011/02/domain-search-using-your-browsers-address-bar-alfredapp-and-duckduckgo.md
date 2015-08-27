@@ -1,6 +1,6 @@
 date: 2011-02-21 14:35:58 +1200
 author: Timo
-title: How to search for domains using your browser's address bar, AlfredApp and DuckDuckGo
+title: How to search for domains using your browser's address bar, AlfredApp, and DuckDuckGo
 ----
 
 <!-- excerpt -->
