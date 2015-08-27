@@ -9231,23 +9231,6 @@ to defend against external attacks on networks. It amends some tired laws that d
 			</item>
 		
 			<item>
-				<title>WDCNZ Boldly Goes Forth</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2012-04-24-wdcnz.jpg&#34; alt=&#34;wdcnz.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If Wellington is the centre of the digital creative universe, then &lt;a href=&#34;http://wdcnz.com/&#34;&gt;WDCNZ&lt;/a&gt;  must surely be the natural focus point for the New Zealand web &lt;a href=&#34;https://iwantmyname.co.nz/services/developer/&#34;&gt;software developer&lt;/a&gt; community. And since iwantmyname is simply the coolest &lt;a href=&#34;https://iwantmyname.co.nz/&#34;&gt;domain management&lt;/a&gt; service in the galaxy (and also based in the Capital) then it follows we&amp;rsquo;d &amp;ldquo;jump at light speed&amp;rdquo; for the chance to get involved, right? You bet!&lt;/p&gt;
-
-&lt;p&gt;WDCNZ explodes onto your screens again this August and will be even bigger and better then before. Being all about the real nuts and bolts technical knowledge that keeps the web humming, we&amp;rsquo;re really chuffed to be a leading sponsor. Web Dev Con has some pretty amazing speakers lined up this year too, including local luminaries Vaughan Rowsell of &lt;a href=&#34;http://evanhugh.com/2011/08/10/vendhq-banks-funding-round/&#34;&gt;VendHQ&lt;/a&gt; fame, Aaron Morton and Silverstripe CTO Hamish Friedlander plus a very sharp looking contingent from offshore.&lt;/p&gt;
-
-&lt;p&gt;We reckon &lt;a href=&#34;http://archived.link/https://wdcnz-2012.lilregie.com/step1&#34;&gt;tickets&lt;/a&gt; will fly out the door, so don&amp;rsquo;t muck around. You&amp;rsquo;d be &amp;ldquo;warped&amp;rdquo; not to be there. Oh yes&amp;hellip;keep an eye on our &lt;a href=&#34;https://twitter.com/iwantmynameNZ&#34;&gt;Twitter feed&lt;/a&gt; for updates on special offers and meetups related to this event.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 24 Apr 2012 10:30:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/04/wdcnz-boldly-goes-forth.html</link>
-				
-				<guid isPermaLink="false">/2012/04/wdcnz-boldly-goes-forth.html</guid>
-			</item>
-		
-			<item>
 				<title>Care For Dynamic DNS (DDNS) Updates?</title>
 				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS &amp;mdash; used widely by DynDNS &amp;mdash; which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
 
