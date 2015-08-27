@@ -9248,23 +9248,6 @@ to defend against external attacks on networks. It amends some tired laws that d
 			</item>
 		
 			<item>
-				<title>Sharing Easter Fun Online</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2012-04-06-egg.jpg&#34; alt=&#34;egg.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s Easter time. For some people this means chocolate confectionery, &lt;a href=&#34;http://en.wikipedia.org/wiki/Easter_egg_roll&#34;&gt;egg rolling&lt;/a&gt; and a curiously wet tradition called &lt;a href=&#34;http://goodgrape.com/index.php/articles/comments/oh_dyngus_day_and_drinking_with_the_prez/&#34;&gt;Dyngus Day&lt;/a&gt;. For others it&amp;rsquo;s a time of religious reflection. However you celebrate Easter, there&amp;rsquo;s sure to be fun with friends and family and probably some amusing photos and stories to tell. It&amp;rsquo;s a great time to begin or update your blog or image portfolio.&lt;/p&gt;
-
-&lt;p&gt;Your friends may be flocking to Facebook, but let&amp;rsquo;s face it, there&amp;rsquo;s nothing interesting about its dull, corporate, cookie-cutter approach to online content sharing. If you want something a little more personal, there&amp;rsquo;s now a wide range of hosted &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/&#34;&gt;blog services&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/services/portfolio-hosting/&#34;&gt;portfolio apps&lt;/a&gt; available to help you express your creativity &amp;ndash; and we&amp;rsquo;re making &lt;a href=&#34;https://iwantmyname.com/blog/2011/06/14-new-hosting-services-applications-for-your-domains.html&#34;&gt;new additions&lt;/a&gt; to our &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;App Marketplace&lt;/a&gt; every week.&lt;/p&gt;
-
-&lt;p&gt;Even better, you can easily domain customize most of these services with a single click from within the &lt;a href=&#34;https://iwantmyname.com/&#34;&gt;iwantmyname&lt;/a&gt; dashboard. Don&amp;rsquo;t be left with egg on your face this weekend. Get hopping and start your own personal abode on the web.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 06 Apr 2012 06:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/04/sharing-easter-fun-online.html</link>
-				
-				<guid isPermaLink="false">/2012/04/sharing-easter-fun-online.html</guid>
-			</item>
-		
-			<item>
 				<title>Care For Dynamic DNS (DDNS) Updates?</title>
 				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS &amp;mdash; used widely by DynDNS &amp;mdash; which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
 
