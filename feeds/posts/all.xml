@@ -5000,7 +5000,14 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;!-- /excerpt --&gt;
 
-&lt;h2&gt;Option 1: ALIAS-type DNS records&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Option 1: ALIAS-type DNS records&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Option 2: URL forwarding as alternative&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;Option 1: ALIAS-type DNS records&lt;/h2&gt;
 
 &lt;p&gt;The answer for why you must not use CNAME records with naked domains is simple. It&amp;rsquo;s not allowed &lt;a href=&#34;http://www.ietf.org/rfc/rfc1035.txt&#34;&gt;because the DNS specification says so&lt;/a&gt; (and some registries are very strict about this). While you can do it theoretically, there are certain side effects—the main one being that email services on your domain &lt;a href=&#34;https://iwantmyname.com/blog/2014/02/not-receiving-email-check-for-cname-record-on-root-domain.html&#34;&gt;will only work intermittently&lt;/a&gt;, if at all.&lt;/p&gt;
 
@@ -5016,7 +5023,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;Using these services is as easy as updating your nameservers to theirs at your domain registrar. However, please note that there are no official standards around ALIAS-type DNS records yet, and there may be issues with general service availability, content delivery networks and DNSSEC. Some domain extensions like .IS don&amp;rsquo;t even allow it. Also, if you do decide to use this method for domain mapping, &lt;a href=&#34;https://iwantmyname.com/blog/2014/01/why-alias-type-records-break-the-internet.html&#34;&gt;be aware of the implications&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;Option 2: URL forwarding as alternative&lt;/h2&gt;
+&lt;h2 id=&#34;section-2&#34;&gt;Option 2: URL forwarding as alternative&lt;/h2&gt;
 
 &lt;p&gt;The easiest way is to simply forward the naked domain &amp;lsquo;yoursitename.com&amp;rsquo; to the &amp;lsquo;www&amp;rsquo; sub-domain. Most domain registrars and DNS hosting services offer URL forwarding. If you set up Heroku or other hosted apps with &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;our one-click services setup&lt;/a&gt;, we take care of this automatically.&lt;/p&gt;
 
