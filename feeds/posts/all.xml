@@ -9711,25 +9711,6 @@ Recently you may have become aware of a list of corporations that are supporting
 			</item>
 		
 			<item>
-				<title>Rails Camp On Track</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2011-11-30-rails.jpg&#34; alt=&#34;rails.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;With Ruby going from strength to strength as a web development environment, it&amp;rsquo;s encouraging to see plans for &lt;a href=&#34;https://groups.google.com/forum/#%21forum/railscamp&#34;&gt;Rails Camp 2012&lt;/a&gt; are already in full swing. The camp is an &amp;ldquo;unconference&amp;rdquo; style event that convenes Ruby On Rails hackers for a weekend of talking, coding and drinking.&lt;/p&gt;
-
-&lt;p&gt;The 2011 event held in the bush just up the road near Kaitoke was reportedly lots of fun. But next year the New Zealand meetup is heading down south to scenic Mt Cheeseman in the Craigieburn Range, Canterbury. The lodge there normally caters for skiiers, but being February, we doubt that snow will be too much of an issue. Rails Camps are deliberately held in remote locations away from earthly distractions such as TV, phone and Internet. It probably ensures only pure code is created (is there any other kind?) and temporarily eliminates annoyances such as ex-partners, kids and talkback hosts.&lt;/p&gt;
-
-&lt;p&gt;Wonderful to see &lt;a href=&#34;http://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt; getting involved and local heroes &lt;a href=&#34;http://trineo.co.nz/&#34;&gt;Trineo&lt;/a&gt; also backing the event. We think these are both exciting companies worth watching. Heroku provides everything you need to securely deploy and scale applications and it has been pretty cool to see a steady stream of Rails developers &lt;a href=&#34;https://iwantmyname.co.nz/services/developer/heroku-cloud-hosting-custom-domain&#34;&gt;domain customising Heroku&lt;/a&gt; set-ups with us. For those coming from far afield, Rails Camp also dovetails nicely with &lt;a href=&#34;http://www.webstock.org.nz/&#34;&gt;Webstock&lt;/a&gt;, the primo web design and development event for all the gifted and beautiful people, hosted right here in Wellington each year. Enjoy!&lt;/p&gt;
-
-&lt;p&gt;Image courtesy of Carla Appel at the South Pole. Check out her &lt;a href=&#34;http://carlaappel.blogspot.com/&#34;&gt;amazing blog&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 30 Nov 2011 23:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2011/11/rails-camp-on-track.html</link>
-				
-				<guid isPermaLink="false">/2011/11/rails-camp-on-track.html</guid>
-			</item>
-		
-			<item>
 				<title>Dashboard Updates: Improved Heroku DNS Setup, Notes &amp; Marketplace Search</title>
 				<description>&lt;p&gt;This week we&amp;rsquo;ve been working on improving our dashboard in response to great feedback you have given us during &lt;a href=&#34;http://wellington.startupweekend.org&#34;&gt;Startup Weekend Wellington&lt;/a&gt;.&lt;/p&gt;
 
