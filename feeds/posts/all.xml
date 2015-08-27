@@ -8582,29 +8582,6 @@ If you&amp;rsquo;re a bit more experienced, there are &lt;a href=&#34;http://pra
 			</item>
 		
 			<item>
-				<title>Pitfalls To Avoid When Transferring Your Domain From GoDaddy</title>
-				<description>&lt;p&gt;We get our fair share of &lt;a href=&#34;https://iwantmyname.com/domains/domain-transfer&#34;&gt;domain transfers&lt;/a&gt; from the world&amp;rsquo;s largest registrar and while it is generally a smooth process, there are few things you should know before moving to &lt;a href=&#34;https://iwantmyname.com&#34;&gt;iwantmyname&lt;/a&gt; (or any other registrar):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Whois privacy:&lt;/strong&gt; You need to disable whois privacy through GoDaddy&amp;rsquo;s DomainsByProxy service. Otherwise they will allow you to start the transfer to another registrar but cancel it later in the process.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Recently updated owner:&lt;/strong&gt; If you have updated the owner details of a domain, GoDaddy will decline the transfer for 60 days. You can send an email to &lt;em&gt;review60 [at] godaddy.com&lt;/em&gt; and they will work with you to make the domain transferable.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Incorrect authorization codes:&lt;/strong&gt; Should you request an authorization code through GoDaddy&amp;rsquo;s control panel for some country code top-level domains (ccTLDs), they will send you an invalid code by email. This applies to .de, .ms, .fm, .nz and some other domain extensions. We recommend to contact them by phone and specifically ask for an auth code from their ccTLD team.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;**ccTLDs needing local presence: **GoDaddy might also decline a transfer if you use a proxy service, e.g. a German address for .de domains. In that case, we are able to provide you with details of our local presence service so they can update the domain accordingly.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If this sounds at all complicated or you run into any problems, we are more than happy to help in migrating your domains with our &lt;a href=&#34;https://iwantmyname.com/transferservice&#34;&gt;managed domain transfer service&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 31 Jan 2013 13:59:45 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/01/pitfalls-to-avoid-when-transferring-your-domain-from-godaddy.html</link>
-				
-				<guid isPermaLink="false">/2013/01/pitfalls-to-avoid-when-transferring-your-domain-from-godaddy.html</guid>
-			</item>
-		
-			<item>
 				<title>Happy Holidays</title>
 				<description>&lt;!-- excerpt --&gt;
 
