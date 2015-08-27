@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>
 		
-			What Is DNS? Here&#39;s What You Need To Know: Part 1
+			What is DNS? Here&#39;s what you need to know
 		
 	</title>
 
@@ -31,8 +31,10 @@
 
 
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="What Is DNS? Here's What You Need To Know: Part 1">
+	<meta property="og:title" content="What is DNS? Here's what you need to know">
 	<meta property="og:url" content="https://iwantmyname.com/blog/2013/05/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know.html">
+	
+		<meta property="og:image" content="https://iwantmyname.com/blog/media/2013-05-27-blog-dns.jpg">
 	
 
 
@@ -98,22 +100,43 @@
 		
 
 
+	<div class="iwmn-article-header imgix-fluid" data-src="https://iwmn-blog.imgix.net/2013-05-27-blog-dns.jpg">
+		<div class="container iwmn-container iwmn-article">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<h1>What is DNS? Here&#39;s what you need to know</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+
 
 <div class="container iwmn-container iwmn-article">
 	<div class="row">
 		<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 			<article>
 				
-					<h1>What Is DNS? Here&#39;s What You Need To Know: Part 1</h1>
-				
 
 				
 
-				<p><img src="../../media/2013-05-27-blog-dns.jpg" alt="blog-dns.jpg"></p>
+				<!-- excerpt -->
 
 <p>When you&rsquo;re new to building your own website it can feel like there&rsquo;s a bunch of things you need to know but you don&rsquo;t really have an idea where to start looking. Luckily <a href="https://iwantmyname.com/services">we make setting up domains really easy</a> for hosted services through our iwantmyname marketplace so you don&rsquo;t have to worry about technical details most of the time. If you are trying to delve a bit deeper into the technology involved there are so many acronyms and strange words that it can feel a bit overwhelming however. But don&rsquo;t worry, we&rsquo;re here to help clear the air a little and explain what each thing does.</p>
 
-<p><strong>DNS</strong></p>
+<!-- /excerpt -->
+
+<ol>
+<li><a href="#section-1">DNS</a></li>
+<li><a href="#section-2">Name Server</a></li>
+<li><a href="#section-3">A Record</a></li>
+<li><a href="#section-4">CNAME Record</a></li>
+<li><a href="#section-5">MX Record</a></li>
+<li><a href="#section-6">TXT Record</a></li>
+</ol>
+
+<hr>
+
+<h2 id="section-1">DNS</h2>
 
 <p>DNS technology touches your life in <a href="http://www.huffingtonpost.com/paul-mockapetris/dns-what-celebrating-30-y_b_3211030.html">many ways you probably don&rsquo;t know</a> every day. It stands for <strong>Domain Name System</strong> which is the technology making it possible for you to type nice, human-friendly words into your address bar like <em>iwantmyname.com</em> instead of computer readable IP addresses such as 50.56.80.249.</p>
 
@@ -121,13 +144,39 @@
 
 <p>We&rsquo;re certainly glad this exists, otherwise it would be pretty hard for people to remember to visit us at 50.56.80.249, right?</p>
 
-<p><strong>Name Server</strong></p>
+<h2 id="section-2">Name Server</h2>
 
 <p>A name server is a web server with DNS software installed. It&rsquo;s where you manage all of your DNS records and set who your web/email host is. This is the part that allows you to determine who your visitors will be talking to when they ask for your website and where you&rsquo;ll be adding other records such as &lsquo;A&rsquo; records and &lsquo;MX&rsquo; records later on.</p>
 
 <p>If your domain is registered with us, we automatically set the nameservers to ns1.iwantmyname.net, ns2.iwantmyname.net, ns3.iwantmyname.net and ns4.iwantmyname.net for example. This would mean you&rsquo;re able to manage the remainder of your DNS records using our dashboard and still <a href="https://iwantmyname.com/features/domains/web-hosting">host your actual website elsewhere</a>. The only catch with DNS is that when you make a change to the name servers it may take a few hours before you can see the changes. This is called DNS propagation and depends on the Internet Service Providers involved between your computer and the hosting company. So if you have made an update to your DNS records and you don&rsquo;t see any effect immediately, all you have to do is wait a few hours until the changes have fully propagated throughout the internet.</p>
 
-<p>So much for the basics about DNS and nameservers. In our next article we will explain to you more about the different DNS record types such as A, CNAME, MX and TXT.</p>
+<h2 id="section-3">A Record</h2>
+
+<p>The A record is the record that maps your domain name to a specific IP address on the internet. As an example you would configure an address, like iwantmyname.com to point to an IP address, e.g. 50.56.80.249.</p>
+
+<h2 id="section-4">CNAME Record</h2>
+
+<p>If you want to have a subdomain at another address, say mail.iwantmyname.com exists on another web server, like Gmail, this is where CNAME would be useful. It allows you to direct traffic that reaches that subdomain to a separate address. There are some other uses for this too, Google allows you to use it to verify you own a domain and reset your Gmail administrator password, for example.</p>
+
+<h2 id="section-5">MX Record</h2>
+
+<p>This one&rsquo;s easy: MX records tell people who try to send you email at your domain where your email service is hosted. The catch with MX records is that you should always set more than one to make sure that if one URL or server at your email host is unavailable you can still receive email. These are set using priority numbers. </p>
+
+<p>If you to were use Google Apps for email for example, you would have a first MX record of ASPMX.L.GOOGLE.COM, with a value/priority of 1. Then, you would have a second record of ALT1.ASPMX.L.GOOGLE.COM with a priority of 10. This tells potential email senders&rsquo; servers that they should use the first record of ASPMX.L.GOOGLE.COM if it&rsquo;s available, but if not, they can still send email to the same system at ALT1.ASPMX.L.GOOGLE.COM instead.</p>
+
+<h2 id="section-6">TXT Record</h2>
+
+<p>These kinds of records are used for all sorts of things. For verifying domain ownership, combating spam (with SPF) and a few other usages. </p>
+
+<p>These aren&rsquo;t used to get to your website at all. For another example that uses Google Apps again, you would verify your domain by potentially placing a TXT value on your DNS of google-site-verification=rXOxyZounnZasA8Z7oaD3c14JdjS9aKSWvsR1EbUSIQ and this proves to Google that you indeed own the domain, since you were able to add the record. </p>
+
+<p>Many services that you could use with your domain use TXT as a way to verify ownership, but SPF is another case where TXT records are used to help stop spammers from using pretending to be from your domain name. By setting a SPF record (using a DNS TXT entry), it helps other servers verify if mail from your domain is really from you or just being faked. You can read more about that here.</p>
+
+<hr>
+
+<h2>Phew, still with us?</h2>
+
+<p>This is a overview of just some of the types of DNS entry. There are plenty more out there, such as <a href="http://en.wikipedia.org/wiki/AAAA_record#IPv6_in_the_Domain_Name_System">AAAA</a> and <a href="http://en.wikipedia.org/wiki/SRV_record">SRV</a> records, but these are more advanced and you likely won&rsquo;t need to know about these to get started. If you have any questions, sound off in the comments or <a href="https://iwantmyname.com/support">send us an email</a> and we&rsquo;ll try to help you out!</p>
 
 
 				<div class="iwmn-article-footer">
