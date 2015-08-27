@@ -1,12 +1,26 @@
 date: 2014-07-09 08:30:48 +1200
 author: Melle
-title: How to help your company not .SUCK
+title: How to manage your brand's reputation on the web
 header_image: 2014-07-09-building.jpg
 ----
 
-Chris recently posted an article about [alternatives to .COM for review websites](https://iwantmyname.com/blog/2014/06/8-alternatives-to-com-for-review-websites.html). This is a great place to start if you're interested in starting a reviews site for anything from cameras to cafés. But what if you're part of a company or organization and concerned about reviews for _your_ products or services?
+<!-- excerpt -->
 
-### Approach it with the right perspective
+You're exposed. Most likely, at least. If your brand is on the web, it's open to criticism from every direction—and there's nothing you can do about it. Some people handle this burden with grace, but we've seen enough disaster stories to know what happens when things go wrong. If you're part of a company or organization and concerned about reviews for your products or services, here are some tips for making the best of it. 
+
+<!-- /excerpt -->
+
+1. [Approach it with the right perspective](#section-1)
+2. [Questions to ask before getting started](#section-2)
+3. [Don't sharecrop, register a domain](#section-3)
+4. [Monitor, engage, and converse](#section-4)
+5. [How to make your sites a really useful destination](#section-5)
+6. [Be the master of your own domain(s)](#section-6)
+7. [It's ok to have fun](#section-7)
+
+***
+
+<h2 id="section-1">Approach it with the right perspective</h2>
 
 As many misguided companies have learned, no one controls the Internet, or how people act or what is posted on it. You only control what you post and how you respond to others.
 
@@ -14,7 +28,7 @@ You might be able to prevent people from expressing themselves on your company's
 
 First thing to understand is that no matter how hard-working and well-meaning a company is, eventually everyone has a misstep or customer who they just can't make happy. The question is how to address it, turn it around if possible, and keep the negative comments off the first page of search results or Buzzfeed.
 
-### Questions to ask before getting started
+<h2 id="section-2">Questions to ask before getting started</h2>
 
 What are the best ways to create a good balance? How can you publicize all your happy customers, your awesome products and services, and your stellar customer service, while still addressing real issues? While keeping in mind, of course, that there are people who are only "happy" when they're trashing others.
 
@@ -56,7 +70,7 @@ First off, ensure you have a solid policy in place before embarking on the great
 
 Your company should have a solid understanding and policy for all of these things before engaging online, else you're likely to find yourself scrambling when something goes wrong some day. This could happen when your company screws something up, when there's big (bad) news in your industry, or for many other reasons.
 
-### Don't sharecrop, register a domain
+<h2 id="section-3">Don't sharecrop, register a domain</h2>
 
 As much as social media has become pretty thoroughly integrated into consumers' and companies' online experiences, it's still a good idea to have your own web properties. Certainly you can brand and monitor third-party sites, but having your own provides your company with a solid and centralized online identity. ("Sharecropping" refers to relying on third-party services, platforms, and companies you don't own or control for functions that are essential to your business.)
 
@@ -64,7 +78,7 @@ It provides a destination with your branding, correct and comprehensive informat
 
 To this end, registering your own domains and either creating sites or directing them to relevant existing properties is a good idea. (And yet, [many small businesses still don't have a web presence](https://iwantmyname.com/blog/2014/03/small-businesses-without-a-web-presence-are-missing-out.html).)
 
-### Monitor, engage, and converse
+<h2 id="section-4">Monitor, engage, and converse</h2>
 
 In addition to keeping a close eye on your own online properties, it's a good idea to set up social media, blog, and news alerts for those aforementioned terms (the ones your company uses and the ones others use) to enable good awareness and responsiveness.
 
@@ -76,7 +90,7 @@ Yes, people want it to be easy to get information and answers about you and your
 
 They want to be heard, and to be able to have a conversation with you (when _they_ want one), and know that their concerns are being listened to and that their problems get fixed.
 
-### How to make your sites a really useful destination
+<h2 id="section-5">How to make your sites a really useful destination</h2>
 
 So looking at your company's own web properties, how should you handle those with respect to customer reviews and feedback? Well, ideally your company and its representatives don't suck very often, and so people don't have much reason to go looking for _yourcompany.sucks_ to vent their spleens.
 
@@ -84,13 +98,13 @@ On your company's main website, be it _yourcompany.com_, .BIZ, .IO, or other TLD
 
 Include plenty of links to your _help@yourcompany.com_ email address or contact form, a feedback button on every page, etc. Think of the places you go on sites to find that kind of information, and then make sure it's there. (And in places where people look that wouldn't have occurred to you.)
 
-### Be the master of your own domain(s)
+<h2 id="section-6">Be the master of your own domain(s)</h2>
 
 To enable your company to have input and the ability to manage review-related sites about your company, you may want to register relevant domains yourself, before someone else does. This way you can manage what information is available there. Even if you think all your customers love you, it won't hurt to register _yourcompanyreviews.com_, _yourcompany.reviews_, _yourcompanysucks.com_ or similar domains. 
 
 You don't need to create websites for any or all of those. You could have the domains forward to your main website's support section, customer forums, or other relevant location where people can give feedback, ask questions or express frustrations.
 
-### It's ok to have fun
+<h2 id="section-7">It's ok to have fun</h2>
 
 If you're really confident in your brand, customer service, culture, and customer base, you could approach things with a sense of humour (and bravery) and create a website at _yourcompanysucks.com_ where you actually welcome complaints. (And will also be including info about what you did about those complaints, e.g. linking to fixed issues, new features, etc.) Kind of like when celebrities read mean tweets or post hate mail on their websites.
 
