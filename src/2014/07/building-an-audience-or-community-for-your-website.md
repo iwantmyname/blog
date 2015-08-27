@@ -1,20 +1,24 @@
 date: 2014-07-25 10:02:47 +1200
 author: Melle
-title: Building an audience or community for your website
+title: How to build an audience for your website
 header_image: 2014-07-25-street-scene.jpg
 ----
 
 <!-- excerpt -->
 
-We regularly post articles to help you get started with your own website, whether it's [expected costs for a business site](https://iwantmyname.com/blog/2014/07/a-detailed-breakdown-of-what-small-business-websites-cost.html), [how to economically showcase your photos](https://iwantmyname.com/blog/2014/07/build-a-modern-hosted-photo-gallery-website.html), or [really easy ways to get a domain and site up and running](https://iwantmyname.com/blog/2014/06/squarespace-iwantmyname-makes-website-building-a-snap.html). 
-
-But then what? In the same way that just buying a domain won't magically make a website appear, getting your website online won't magically make customers, audience, or community appear. As a side note, while SEO can be an important part of building your presence online, we're not going to get into it in this post, as that's a whole other big, complex topic. For an intro though, [this is a great start](http://moz.com/beginners-guide-to-seo).
+In the same way that just buying a domain won't magically make a website appear, getting your website online won't magically make customers, audience, or community appear. As a side note, while SEO can be an important part of building your presence online, we're not going to get into it in this post, as that's a whole other big, complex topic. For an intro though, [this is a great start](http://moz.com/beginners-guide-to-seo).
 
 Let's take a look at some things to think about and research. We'll also get into some actions to take to build your profile and engagement online and encourage people to visit your site. You could be trying to grow your customer base, build a community, or assemble an audience/fan base. People are people no matter how you're interacting with them, so these tactics can be broadly applied.
 
 <!-- /excerpt -->
 
-## What are you trying to build?
+1. [What are you trying to build?](#section-1)
+2. [Who else is doing what you want to do?](#section-2)
+3. [Create great content](#section-3)
+
+***
+
+<h2 id="section-1">What are you trying to build?</h2>
 
 This may seem like an obvious one, but there are often nuances. In the same way a startup's target market isn't "everyone", neither is the target audience or community for your site. 
 
@@ -26,7 +30,7 @@ If you're looking for an audience, note that developing it can be quite differen
 
 To develop your personal or business brand and build an audience, you'll need to think more along the lines of celebrities, athletes, etc. whose sites are developed more to broadcast and share information with their fans, but not necessarily to interact with them on a large scale. (Though many of these sites have fan community areas where fans can interact with each other.)
 
-## Who else is doing what you want to do?
+<h2 id="section-2">Who else is doing what you want to do?</h2>
 
 It is very unlikely that you are the first or only person doing what you want to do. (And if you are, there's probably a good reason there aren't others.) It may be a sparsely populated niche; it may be be well established and thriving. Do your research. 
 
@@ -40,8 +44,7 @@ If your contributions are useful and you're pleasant and respectful, people will
 
 If you're starting a business, when you have great interactions with people who become fans, ask for testimonials you can showcase. If potential customers have trouble, ask what went wrong and how you can improve the experience. If you're fortunate, they will become better evangelists for you than you can ever be for yourself.
 
-
-## Create great content
+<h2 id="section-3">Create great content</h2>
 
 When you do get people interested in who you are and what you do, make sure to keep them interested when they come to check you out. Recall the answers you decided on about what you want to build. You need to have a site that welcomes visitors, tells them what they want to know, and encourages them to stay. That could include great blog posts/articles, sharing of practical information, or a user-friendly store offering great stuff.
 
