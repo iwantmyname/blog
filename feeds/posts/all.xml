@@ -10044,10 +10044,16 @@ through building strong communities and supporting local businesses that we can 
 			</item>
 		
 			<item>
-				<title>Use !bang Commands To Manage Your Domain Names</title>
-				<description>&lt;p&gt;One of the primary goals at iwantmyname is getting out of the way of our customers when it comes to purchasing and managing domain names. We&amp;rsquo;re also big fans of &lt;a href=&#34;http://duckduckgo.com&#34;&gt;search engine DuckDuckGo&lt;/a&gt; which inspired us to add some special sauce to our domain search, called !bang commands.&lt;/p&gt;
+				<title>How to use DuckDuckGo&#39;s !bang commands to manage your domain names</title>
+				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;Using these !bang commands, you can easily add DNS records or other services such as Amazon S3, Github Pages or Tumblr to your domains directly &lt;a href=&#34;https://iwantmyname.com&#34;&gt;from the search box on iwantmyname homepage&lt;/a&gt;. The following !bang commands are currently supported:&lt;/p&gt;
+&lt;p&gt;One of the primary goals at iwantmyname is getting out of the way of our customers when it comes to purchasing and managing domain names. We&amp;rsquo;re also big fans of &lt;a href=&#34;http://duckduckgo.com&#34;&gt;search engine DuckDuckGo&lt;/a&gt; which inspired us to add some special sauce to our domain search, called !bang commands.&lt;/p&gt;
+
+&lt;p&gt;Using these !bang commands, you can easily add DNS records or other services such as Amazon S3, Github Pages or Tumblr to your domains directly &lt;a href=&#34;https://iwantmyname.com&#34;&gt;from the search box on iwantmyname homepage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;p&gt;The following !bang commands are currently supported:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;!edit domain.com&lt;/em&gt; &amp;mdash; brings you to the domain status page where you can edit all settings&lt;/li&gt;
@@ -10065,8 +10071,6 @@ through building strong communities and supporting local businesses that we can 
 &lt;p&gt;&lt;strong&gt;Pro tip: DuckDuckGo !bang command chaining&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;DuckDuckGo users can also use !bang command chaining, for example try entering &amp;ldquo;!iwant !nsupdate domain.com&amp;rdquo; in the DuckDuckGo search field and you will end up at the nameserver update page in your iwantmyname dashboard.&lt;/p&gt;
-
-&lt;p&gt;We will be constantly adding new commands to our domain search and would also love to hear your suggestions in the comments.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 23 Aug 2011 22:56:29 UTC</pubDate>
 				
