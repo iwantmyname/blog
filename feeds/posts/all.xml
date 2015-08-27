@@ -9327,29 +9327,6 @@ Kiwi technology to the world.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Hola! Codemania Meetup</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2012-03-08-codemania.png&#34; alt=&#34;codemania.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Hay Carramba! &lt;a href=&#34;http://codemania.co.nz/&#34;&gt;Codemania&lt;/a&gt; is storming into town and guess who&amp;rsquo;s riding shotgun with the unofficial official &lt;a href=&#34;http://twtvite.com/iwantmyname-codemania&#34;&gt;pre-event party&lt;/a&gt; at &lt;strong&gt;5pm on&lt;/strong&gt; &lt;strong&gt;Thursday 29th March&lt;/strong&gt;?&lt;/p&gt;
-
-&lt;p&gt;The Nacho Libre themed, platform agnostic software conference for developers opens the following day with a huge range of expert speakers and tech talks programmed. If you plan to arrive in town the evening before, feel free to head along to our &lt;a href=&#34;http://twtvite.com/iwantmyname-codemania&#34;&gt;welcome drinks&lt;/a&gt; being held in conjunction with &lt;a href=&#34;http://www.meetup.com/auckland-tech-startups/&#34;&gt;Auckland Tech Startups Meetup&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ve also got one or two of the Codemania guest speakers plus the &lt;a href=&#34;https://iwantmyname.co.nz/about&#34;&gt;iwantmyname team&lt;/a&gt; showing up to take the bull by the horns, so come along and chat to them in a relaxed setting.&lt;/p&gt;
-
-&lt;p&gt;This Meetup is open to any web or &lt;a href=&#34;https://iwantmyname.co.nz/services/developer/&#34;&gt;software developers&lt;/a&gt; generally and of course all the hard working tech start-up folks from around the City of Sails. Naturally, we&amp;rsquo;ll be shouting a round of Cervezas and Margaritas to warm things up.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You can sign up on the &lt;a href=&#34;http://www.meetup.com/auckland-tech-startups/&#34;&gt;Auckland Tech Startups Meetup&lt;/a&gt; group site or on &lt;a href=&#34;http://twtvite.com/iwantmyname-codemania&#34;&gt;this Twtvite page&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For updates &lt;a href=&#34;https://twitter.com/#%21/iwantmynameNZ&#34;&gt;follow us on Twitter&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 08 Mar 2012 15:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2012/03/hola-codemania-meetup.html</link>
-				
-				<guid isPermaLink="false">/2012/03/hola-codemania-meetup.html</guid>
-			</item>
-		
-			<item>
 				<title>Care For Dynamic DNS (DDNS) Updates?</title>
 				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS &amp;mdash; used widely by DynDNS &amp;mdash; which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
 
