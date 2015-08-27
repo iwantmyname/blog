@@ -8110,45 +8110,6 @@ then been reminded that while 252 million of them have gone, there are a hundred
 			</item>
 		
 			<item>
-				<title>What Is DNS? Here&#39;s What You Need To Know: Part 2</title>
-				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-06-04-logo-dns.png&#34; alt=&#34;DNS Records&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the second part in our article series about DNS basics. Check out last week&amp;rsquo;s article &lt;a href=&#34;https://iwantmyname.com/blog/2013/05/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know.html&#34;&gt;explaining the Domain Name System in general and nameservers&lt;/a&gt;. Today we will tell you more about the different DNS record types such as A, CNAME, MX and TXT records:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A Record&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The A record is the record that maps your domain name to a specific IP address on the internet. As an example you would configure an address, like iwantmyname.com to point to an IP address, e.g. 50.56.80.249.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;CNAME Record&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to have a subdomain at another address, say mail.iwantmyname.com exists on another web server, like Gmail, this is where CNAME would be useful. It allows you to direct traffic that reaches that subdomain to a separate address. There are some other uses for this too, Google allows you to use it to verify you own a domain and reset your Gmail administrator password, for example.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;MX Record&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This one&amp;rsquo;s easy: MX records tell people who try to send you email at your domain where your email service is hosted. The catch with MX records is that you should always set more than one to make sure that if one URL or server at your email host is unavailable you can still receive email. These are set using priority numbers. &lt;/p&gt;
-
-&lt;p&gt;If you to were use Google Apps for email for example, you would have a first MX record of ASPMX.L.GOOGLE.COM, with a value/priority of 1. Then, you would have a second record of ALT1.ASPMX.L.GOOGLE.COM with a priority of 10. This tells potential email senders&amp;rsquo; servers that they should use the first record of ASPMX.L.GOOGLE.COM if it&amp;rsquo;s available, but if not, they can still send email to the same system at ALT1.ASPMX.L.GOOGLE.COM instead.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;TXT Record&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;These kinds of records are used for all sorts of things. For verifying domain ownership, combating spam (with SPF) and a few other usages. &lt;/p&gt;
-
-&lt;p&gt;These aren&amp;rsquo;t used to get to your website at all. For another example that uses Google Apps again, you would verify your domain by potentially placing a TXT value on your DNS of google-site-verification=rXOxyZounnZasA8Z7oaD3c14JdjS9aKSWvsR1EbUSIQ and this proves to Google that you indeed own the domain, since you were able to add the record. &lt;/p&gt;
-
-&lt;p&gt;Many services that you could use with your domain use TXT as a way to verify ownership, but SPF is another case where TXT records are used to help stop spammers from using pretending to be from your domain name. By setting a SPF record (using a DNS TXT entry), it helps other servers verify if mail from your domain is really from you or just being faked. You can read more about that here.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Phew, still with us?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a overview of just some of the types of DNS entry. There are plenty more out there, such as &lt;a href=&#34;http://en.wikipedia.org/wiki/AAAA_record#IPv6_in_the_Domain_Name_System&#34;&gt;AAAA&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/SRV_record&#34;&gt;SRV&lt;/a&gt; records, but these are more advanced and you likely won&amp;rsquo;t need to know about these to get started. If you have any questions, sound off in the comments or &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;send us an email&lt;/a&gt; and we&amp;rsquo;ll try to help you out!&lt;/p&gt;
-</description>
-				<pubDate>Tue, 04 Jun 2013 16:08:48 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/06/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know-part-2.html</link>
-				
-				<guid isPermaLink="false">/2013/06/what-is-dns-how-do-i-use-it-heres-what-you-need-to-know-part-2.html</guid>
-			</item>
-		
-			<item>
 				<title>Community Warms To Domain Registrar Upstart</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-05-29-warm.jpg&#34; alt=&#34;warm.jpg&#34;&gt;&lt;/p&gt;
 
