@@ -6507,47 +6507,6 @@ Chris&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>How do I connect my domain to a hosting account?</title>
-				<description>&lt;p&gt;Platforms like &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/services/website-builder/virb-custom-domain&#34;&gt;Virb&lt;/a&gt; are great for getting clean, well-designed sites on the web, but at the end of the day your website is being hosted on servers you have little-to-no access to. For most, this is no big deal, but for site owners who want a bit more control, there&amp;rsquo;s nothing more satisfying (and useful) than getting some &lt;a href=&#34;https://iwantmyname.com/features/domains/web-hosting&#34;&gt;hosting space&lt;/a&gt; and setting up something that&amp;rsquo;s all your own.&lt;/p&gt;
-
-&lt;p&gt;And once you get your space, the most important next step is to setup your domain name. Here&amp;rsquo;s how:&lt;/p&gt;
-
-&lt;p&gt;To connect your iwantmyname domain to a hosting account, all you need to do on our end is change your &lt;strong&gt;&lt;em&gt;nameservers&lt;/em&gt;&lt;/strong&gt; to your desired host. For this example we&amp;rsquo;ll use &lt;strong&gt;&lt;em&gt;Site5 Hosting&lt;/em&gt;&lt;/strong&gt;, but you&amp;rsquo;ll quickly see how easy it is to change your nameservers to any host.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Before you do anything on our end, it is necessary to add your domain in your hosting account first. This will ensure the process will go smoothly once the nameserver changes are made at iwantmyname. If you&amp;rsquo;re unsure of how to do this, instructions can typically be found on your hosts&amp;rsquo; support page.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Login to your account at iwantmyname and select &lt;strong&gt;&lt;em&gt;Manage DNS&lt;/em&gt;&lt;/strong&gt; under &lt;strong&gt;&lt;em&gt;Setup&lt;/em&gt;&lt;/strong&gt; in the main navigation.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-Screen_Shot_2014-01-03_at_11.38.23.png&#34; alt=&#34;Screen Shot 2014-01-03 at 11.38.23.png&#34;&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;On the next screen, select &lt;strong&gt;&lt;em&gt;Update nameservers&lt;/em&gt;&lt;/strong&gt; next to your desired domain.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;By default, your nameservers will be set to iwantmyname. With these settings, you can perform one-click installs for any of the apps in our marketplace, but with self-hosting, you&amp;rsquo;ll be moving your DNS management to your new host. To do this, click the dropdown menu labelled &lt;strong&gt;&lt;em&gt;Popular settings&lt;/em&gt;&lt;/strong&gt; and select your host. For this example, we&amp;rsquo;re going to select Site5 Hosting.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2014-01-03-Screen_Shot_2014-01-03_at_10.32.39.png&#34; alt=&#34;Screen Shot 2014-01-03 at 10.32.39.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If your host is not on the list, select &lt;strong&gt;&lt;em&gt;I have my own nameservers&amp;hellip;&lt;/em&gt;&lt;/strong&gt; from the list and input the records provided by your host. Also, when changing from the iwantmyname nameservers, make sure any excess iwantmyname information is deleted from Nameserver 3 and Nameserver 4. Mixing custom host nameservers with iwantmyname nameservers can have odd results.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Now that your nameservers are changed, click the &lt;strong&gt;&lt;em&gt;Update nameservers&lt;/em&gt;&lt;/strong&gt; button to complete the process.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;​Once this process has been completed, it often takes a few hours for the nameserver changes to go through. If you are unsure of your nameserver changes, or if they have not gone through within 48 hours, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;please send us a message&lt;/a&gt;. We&amp;rsquo;re always here to help.&lt;/p&gt;
-
-&lt;p&gt;Also, please note that once your nameservers have been changed, all further DNS management will move to your hosting provider. You will not be able to make any changes to A, CNAME or MX records in your iwantmyname dashboard any longer.&lt;/p&gt;
-</description>
-				<pubDate>Fri, 03 Jan 2014 12:05:22 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/01/how-do-i-connect-my-domain-to-a-hosting-account.html</link>
-				
-				<guid isPermaLink="false">/2014/01/how-do-i-connect-my-domain-to-a-hosting-account.html</guid>
-			</item>
-		
-			<item>
 				<title>KPMG Is Moving From .COM To .KPMG</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-12-30-KPMG.png&#34; alt=&#34;KPMG.png&#34;&gt;&lt;/p&gt;
 
