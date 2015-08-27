@@ -4073,27 +4073,6 @@ control structures in place, but for us it was really something that just develo
 			</item>
 		
 			<item>
-				<title>Trust errors are bad—here&#39;s how to fix expired intermediate SSL certificate chains</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://blog.digicert.com/expired-intermediate-certificate/&#34;&gt;From Flavio Martins &amp;ndash; DigiCert:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;On July 26,2014 at 12:15 PM, some customers and users on sites secured by DigiCert reported that they were getting an untrusted certificate error.&lt;/p&gt;
-
-&lt;p&gt;The problem is related to a locally installed legacy intermediate certificate that is no longer used and no longer required for the certificate installation. The problem can affect any client platform with a locally cached or installed intermediate certificate.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We use (and really like) DigiCert for SSL, but it looks like there&amp;rsquo;s been a minor hiccup for some users. If you&amp;rsquo;re getting an untrusted certificate error when you visit iwantmyname, this is a great (and easy) step-by-step guide on how to fix it.&lt;/p&gt;
-
-&lt;p&gt;And if you need any additional help, definitely &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 29 Jul 2014 07:23:36 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/07/fix-expired-intermediate-ssl-certificate-chains.html</link>
-				
-				<guid isPermaLink="false">/2014/07/fix-expired-intermediate-ssl-certificate-chains.html</guid>
-			</item>
-		
-			<item>
 				<title>Watch Vint Cerf explain the NTIA transition (he rides a giant cat at the end)</title>
 				<description>&lt;!-- excerpt --&gt;
 
