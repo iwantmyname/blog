@@ -10574,10 +10574,24 @@ have sitting with multiple registrar providers.&lt;/p&gt;
 			</item>
 		
 			<item>
-				<title>Check Domains Using Your Browser&#39;s Address Bar, AlfredApp and DuckDuckGo</title>
-				<description>&lt;p&gt;For those of you who want to quickly search for domain names from the address bar of your favorite browser, app launcher or search engine, we have some tips how to set things up.&lt;/p&gt;
+				<title>How to search for domains using your browser&#39;s address bar, AlfredApp and DuckDuckGo</title>
+				<description>&lt;!-- excerpt --&gt;
 
-&lt;h3&gt;Safari (using Glims)&lt;/h3&gt;
+&lt;p&gt;For those of you who want to quickly search for domain names from the address bar of your favorite browser, app launcher or search engine, we have some tips how to set things up.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Safari (using Glims)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;AlfredApp&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;Safari (using Glims)&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.machangout.com/&#34;&gt;Glims&lt;/a&gt; is not only useful for custom keyword search but also adds lots of other helpful features to Safari. You need to install this plugin first to do the following.&lt;/p&gt;
 
@@ -10585,7 +10599,7 @@ have sitting with multiple registrar providers.&lt;/p&gt;
 
 &lt;p&gt;Once you&amp;rsquo;ve installed Glims go to you Safari preferences, add iwantmyname to the search engine list using the URL &lt;code&gt;https://iwantmyname.com/search?domain=#query#&lt;/code&gt; and choose the keyword for your custom query. All you have to do now is enter &lt;code&gt;iwmn domainname&lt;/code&gt; (or any other keyword of your choice) in your browser&amp;rsquo;s address bar and you will get our domain search result in an instant.&lt;/p&gt;
 
-&lt;h3&gt;Firefox&lt;/h3&gt;
+&lt;h2 id=&#34;section-2&#34;&gt;Firefox&lt;/h2&gt;
 
 &lt;p&gt;Add a bookmark in Firefox and replace the domain in our search URL, e.g. &lt;code&gt;https://iwantmyname.com/search/?domain=yourdomainname&lt;/code&gt; needs to be replaced with &lt;code&gt;https://iwantmyname.com/search/?domain=%s&lt;/code&gt;.&lt;/p&gt;
 
@@ -10595,29 +10609,25 @@ have sitting with multiple registrar providers.&lt;/p&gt;
 
 &lt;p&gt;Alternatively, you can use the &lt;a href=&#34;http://mycroft.mozdev.org/search-engines.html?category=29&#34;&gt;iwantmyname Open Search plugin&lt;/a&gt; from &lt;a href=&#34;http://www.jannisgundermann.com&#34;&gt;Jannis Gundermann&lt;/a&gt; to add our domain search to Firefox.&lt;/p&gt;
 
-&lt;h3&gt;Chrome&lt;/h3&gt;
+&lt;h2 id=&#34;section-3&#34;&gt;Chrome&lt;/h2&gt;
 
 &lt;p&gt;A right-click in your address bar lets you edit the search engines Chrome uses. Simply add our search URL &lt;code&gt;https://iwantmyname.com/search/?domain=%s&lt;/code&gt; and add the keyword you would like to use for your custom search.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2011-02-21-google-chrome-domain-search-iwantmyname.png&#34; alt=&#34;google-chrome-domain-search-iwantmyname.png&#34;&gt;&lt;/p&gt;
 
-&lt;h3&gt;DuckDuckGo&lt;/h3&gt;
+&lt;h2 id=&#34;section-4&#34;&gt;DuckDuckGo&lt;/h2&gt;
 
 &lt;p&gt;Thanks to &lt;a href=&#34;https://twitter.com/muloka&#34;&gt;Louis Galipeau&lt;/a&gt;, you can also search for domains at iwantmyname directly from the &lt;a href=&#34;http://duckduckgo.com&#34;&gt;DuckDuckGo&lt;/a&gt; search box. Just enter &lt;code&gt;!iwant domainname&lt;/code&gt; and you will be forwarded to the search result page.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2011-02-21-duckduckgo-domain-search.png&#34; alt=&#34;duckduckgo-domain-search.png&#34;&gt;&lt;/p&gt;
 
-&lt;h3&gt;AlfredApp&lt;/h3&gt;
+&lt;h2 id=&#34;section-5&#34;&gt;AlfredApp&lt;/h2&gt;
 
 &lt;p&gt;The &lt;a href=&#34;http://alfredapp.com&#34;&gt;Swiss knife of all app launchers&lt;/a&gt; makes it really easy to add custom searches. Go to &lt;em&gt;Preferences &amp;gt; Features &amp;gt; Custom Searches&lt;/em&gt; and add the following domain search URL: &lt;code&gt;https://iwantmyname.com/search?domain={query}&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Now define a keyword and you can immediately search from the AlfredApp window.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2011-02-21-alfred-app-domain-search.png&#34; alt=&#34;alfred-app-domain-search.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have any other suggestions, tips or tricks we&amp;rsquo;d love to hear them in the comments.&lt;/p&gt;
-
-&lt;p&gt;P.S. Also, don&amp;rsquo;t forget the &lt;a href=&#34;https://iwantmyname.com/iphone&#34;&gt;iwantmyname DomainApp for iPhone&lt;/a&gt; for domain checks and registration on the go.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 21 Feb 2011 14:35:58 UTC</pubDate>
 				
