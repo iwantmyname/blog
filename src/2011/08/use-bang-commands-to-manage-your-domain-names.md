@@ -1,11 +1,17 @@
 date: 2011-08-23 22:56:29 +1200
 author: Timo
-title: Use !bang Commands To Manage Your Domain Names
+title: How to use DuckDuckGo's !bang commands to manage your domain names
 ----
+
+<!-- excerpt -->
 
 One of the primary goals at iwantmyname is getting out of the way of our customers when it comes to purchasing and managing domain names. We're also big fans of [search engine DuckDuckGo](http://duckduckgo.com) which inspired us to add some special sauce to our domain search, called !bang commands.
 
-Using these !bang commands, you can easily add DNS records or other services such as Amazon S3, Github Pages or Tumblr to your domains directly [from the search box on iwantmyname homepage](https://iwantmyname.com). The following !bang commands are currently supported:
+Using these !bang commands, you can easily add DNS records or other services such as Amazon S3, Github Pages or Tumblr to your domains directly [from the search box on iwantmyname homepage](https://iwantmyname.com). 
+
+<!-- /excerpt -->
+
+The following !bang commands are currently supported:
 
 - *!edit domain.com* &mdash; brings you to the domain status page where you can edit all settings
 - *!dns domain.com* &mdash; forwards you to our DNS manager for adding new records
@@ -21,5 +27,3 @@ Using these !bang commands, you can easily add DNS records or other services suc
 **Pro tip: DuckDuckGo !bang command chaining**
 
 DuckDuckGo users can also use !bang command chaining, for example try entering "!iwant !nsupdate domain.com" in the DuckDuckGo search field and you will end up at the nameserver update page in your iwantmyname dashboard.
-
-We will be constantly adding new commands to our domain search and would also love to hear your suggestions in the comments.
