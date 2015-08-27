@@ -8424,65 +8424,6 @@ If you&amp;rsquo;re a bit more experienced, there are &lt;a href=&#34;http://pra
 			</item>
 		
 			<item>
-				<title>Prefer to own your data? Here are some alternatives to Google Analytics</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://web-analytics-software.findthebest.com/l/1/Google-Analytics&#34; title=&#34;Google Analytics&#34;&gt;Google Analytics&lt;/a&gt; has become somewhat of the tool of choice for most people who run their own &lt;a href=&#34;http://en.wikipedia.org/wiki/Website&#34; title=&#34;Website&#34;&gt;website&lt;/a&gt;. After all, it&amp;rsquo;s free, and what&amp;rsquo;s better than free, right?&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;re always giving something in exchange for &lt;a href=&#34;http://google.com&#34; title=&#34;Google&#34;&gt;Google&lt;/a&gt; offering a service for &amp;ldquo;free&amp;rdquo; and in this case, that&amp;rsquo;s data on your website. There are some great alternatives out there that many aren&amp;rsquo;t aware of so we&amp;rsquo;ve made a short roundup of the ones we liked most.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://getclicky.com&#34; title=&#34;Clicky Web Analytics&#34;&gt;Clicky&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Think of Clicky as Google Analytics&amp;rsquo; slightly worse looking cousin. It&amp;rsquo;s got a great set of tools that won&amp;rsquo;t leave you wanting alternatives and guarantees your data isn&amp;rsquo;t disappearing into somewhere to be used for research.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-03-05-analytics-clicky-1.png&#34; alt=&#34;analytics-clicky-1.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Clicky features real-time statistics, &lt;a href=&#34;https://twitter.com&#34; title=&#34;Twitter&#34;&gt;Twitter&lt;/a&gt; monitoring, a &lt;a href=&#34;http://wordpress.org&#34; title=&#34;WordPress&#34;&gt;Wordpress&lt;/a&gt; plugin as well as an &lt;a href=&#34;http://www.apple.com/itunes &amp;quot;App Store (iOS&#34;&gt;iPhone application&lt;/a&gt;&amp;rdquo;). It&amp;rsquo;s great at letting you dig into your data and show it in meaningful ways. Clicky is slightly faster to update than Google Analytics too, so it&amp;rsquo;s great for if you&amp;rsquo;ve got a large spike in traffic.&lt;/p&gt;
-
-&lt;p&gt;Clicky is a hosted solution, so has a few price tiers as well as a free version. It&amp;rsquo;s free for up to 3,000 payviews per day, and after that will cost to use. We&amp;rsquo;ve found that the Wordpress plugin for Clicky works much better than Google&amp;rsquo;s alternatives.&lt;/p&gt;
-
-&lt;p&gt;To sign up for &lt;a href=&#34;http://clicky.com/&#34;&gt;Clicky&lt;/a&gt;, visit their website.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.haveamint.com/ &amp;quot;Mint (software&#34;&gt;Mint&lt;/a&gt;&amp;rdquo;)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a self-hosted Google Analytics solution and comes from the same developer as the very inspiring Google Reader alternative, &lt;a href=&#34;http://www.feedafever.com/&#34;&gt;Fever&lt;/a&gt;. Mint is all about &amp;ldquo;less is more&amp;rdquo; and offers very basic functionality but shows data in a very meaningful and easy to read way.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-03-05-analytics-mint.png&#34; alt=&#34;analytics-mint.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;The basic functionality can be extended upon with their &amp;ldquo;Peppers&amp;rdquo; which are 3rd-party developed tools that extend the platform. Some may be turned off by the basic nature of the solution, as it only really shows you basic statistics and they can&amp;rsquo;t be sorted much further past that.&lt;/p&gt;
-
-&lt;p&gt;Mint is available for $30 USD a license which covers you for one website. It has real-time statistics and must be hosted by the user.&lt;/p&gt;
-
-&lt;p&gt;The other catch is, whilst it&amp;rsquo;s a great tool, there isn&amp;rsquo;t a free trial. You either jump in head-first or not at all. That said, many reports online say that Mint is a great tool. You can buy Mint from their website &lt;a href=&#34;http://www.haveamint.com/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://piwik.org&#34; title=&#34;Piwik&#34;&gt;Piwik&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Did somebody say &lt;a href=&#34;http://www.wikinvest.com/concept/Open_Source&#34; title=&#34;Open Source&#34;&gt;Open Source&lt;/a&gt;? We&amp;rsquo;re glad you did. There&amp;rsquo;s a few great open source tools too, such as Piwik, which lists itself as a direct competitor to Google Analytics and is totally free.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-03-05-analytics-piwik.png&#34; alt=&#34;analytics-piwik.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Piwik has been downloaded 1.2 million times, so it&amp;rsquo;s definitely popular for a reason. The product is stylish, self-hosted and highly customizable. There&amp;rsquo;s even a live demo &lt;a href=&#34;http://demo.piwik.org/index.php?module=CoreHome&amp;amp;action=index&amp;amp;idSite=7&amp;amp;period=day&amp;amp;date=yesterday#module=Dashboard&amp;amp;action=embeddedIndex&amp;amp;idSite=7&amp;amp;period=day&amp;amp;date=yesterday&amp;amp;idDashboard=1&#34;&gt;available on their website&lt;/a&gt; so you can try it out before you actually go ahead and install it.&lt;/p&gt;
-
-&lt;p&gt;The dashboard is entirely customizable and allows for setting it up just how you like. To get Piwik, just &lt;a href=&#34;http://piwik.org/features/&#34;&gt;visit their website&lt;/a&gt; and download it. It&amp;rsquo;s free forever!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Web Analytics&lt;/strong&gt;**&lt;/p&gt;
-
-&lt;p&gt;**If you&amp;rsquo;re looking for something that&amp;rsquo;s extremely similar to Google Analytics in its ease of use and even design style, this is the one for you. You&amp;rsquo;ll feel right at home.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2013-03-05-analytics-open-web.png&#34; alt=&#34;analytics-open-web.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Open Web Analytics is an open-source self-hosted alternative to Google Analytics and is even able to run inside of Wordpress as a plugin, which makes it especially easy for those new to these kinds of services to set up.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s very feature rich, and offers a lot of ways to sort statistics that are gathered, just like Google Analytics. Open Web Analytics updates in real time, so you&amp;rsquo;ve always got the latest statistics. You can even use it to show heatmaps and mouse tracking to see how your users behave on your website!&lt;/p&gt;
-
-&lt;p&gt;Open Web Analytics is completely free and can be downloaded from &lt;a href=&#34;http://www.openwebanalytics.com/&#34;&gt;their website.&lt;/a&gt;&lt;/p&gt;
-</description>
-				<pubDate>Tue, 05 Mar 2013 08:28:02 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2013/03/prefer-to-own-your-data-here-are-some-alternatives-to-google-analytics.html</link>
-				
-				<guid isPermaLink="false">/2013/03/prefer-to-own-your-data-here-are-some-alternatives-to-google-analytics.html</guid>
-			</item>
-		
-			<item>
 				<title>Need To Register Domains Requiring A Postal Address In Europe? We&#39;ve Got You Covered!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-02-15-europe-flag.jpg&#34; alt=&#34;europe-flag.jpg&#34;&gt;&lt;/p&gt;
 
