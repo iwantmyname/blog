@@ -3036,21 +3036,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Just a funny XOXO talk from Darius Kazemi</title>
-				<description>&lt;p&gt;Darius Kazemi (&lt;a href=&#34;http://tinysubversions.com&#34;&gt;Tiny Subversions&lt;/a&gt;) is what you could call the serialest of serial entrepreneurs. And he has some great thoughts on how to &amp;ldquo;make it&amp;rdquo; as a startup.&lt;/p&gt;
-
-&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-    &lt;iframe src=&#34;https://www.youtube.com/embed/l_F9jxsfGCw&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-				<pubDate>Thu, 23 Oct 2014 05:51:23 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/just-a-funny-xoxo-talk-from-darius-kazemi.html</link>
-				
-				<guid isPermaLink="false">/2014/10/just-a-funny-xoxo-talk-from-darius-kazemi.html</guid>
-			</item>
-		
-			<item>
 				<title>Nielson and Adobe are looking to rate the internet</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://www.wired.com/2014/10/nielsen-will-soon-rate-everything-web-videos-articles/&#34;&gt;From Wired:&lt;/a&gt;&lt;/p&gt;
 
