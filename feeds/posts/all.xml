@@ -2857,29 +2857,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Adventures in Markdown: Whiskey&#39;s new outline view</title>
-				<description>&lt;p&gt;Some people have gambling addictions, some struggle with caffeine—my vice is Markdown apps. Much like the Twitter apps of yore (or the podcast apps of today), Markdown apps are a wonderland for developers to implement tiny-but-genius improvements to a fairly rigid set of rules. Apps like Mou (Mou 1.0 hit its &lt;a href=&#34;https://www.indiegogo.com/projects/mou-1-0-markdown-editor-on-os-x-for-you&#34;&gt;funding goal&lt;/a&gt;!), Marked, and Byword are in constant rotation on my computer, and I’m always on the hunt for the next new creation.&lt;/p&gt;
-
-&lt;p&gt;One thing that’s always bugged me though with Markdown apps is their inability to organize longform content. I&amp;rsquo;m not talking about 1,000 word posts here—I mean book-length content. You can use all the header sizes you want, but without a way to visually see an outline and quickly move between sections and chapters, I just can&amp;rsquo;t see myself completely deleting the old, bloated word processors that still plague my hard drive.&lt;/p&gt;
-
-&lt;p&gt;But there&amp;rsquo;s a new Markdown app in town I&amp;rsquo;m really excited about—&lt;a href=&#34;http://usewhiskey.com&#34;&gt;Whiskey&lt;/a&gt;. It&amp;rsquo;s still in beta, but developer &lt;a href=&#34;http://soff.es&#34;&gt;Sam Soffes&lt;/a&gt; (who worked on Hipstamatic, Roon, Cheddar, and the deceptively brilliant Shares) seems to be adding a lot of the things I&amp;rsquo;ve been yearning for. Most notably (at least to me), a slick outline view you can toggle with a hotkey.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a video example (from the dev):&lt;/p&gt;
-
-&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
-    &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://player.vimeo.com/video/110486733?byline=0&amp;amp;portrait=0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Whiskey clearly isn&amp;rsquo;t a finished product yet, but it&amp;rsquo;s pretty functional in its &lt;a href=&#34;http://usewhiskey.com/beta&#34;&gt;current form&lt;/a&gt;. So if you&amp;rsquo;re a fan of Markdown apps, I definitely recommend checking out the outline view implementation in the latest version. It&amp;rsquo;s pretty slick.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 19 Nov 2014 09:10:47 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/11/adventures-in-markdown-whiskeys-new-outline-view.html</link>
-				
-				<guid isPermaLink="false">/2014/11/adventures-in-markdown-whiskeys-new-outline-view.html</guid>
-			</item>
-		
-			<item>
 				<title>Should you put all your products and ideas on one domain?</title>
 				<description>&lt;!-- excerpt --&gt;
 
