@@ -46,9 +46,9 @@ Plus, with a custom domain name, you can [pair your credible blog with a custom 
 
 <h2 id="section-3">Choosing the right blog hosting platform</h2>
 
-First off, it's important to know that there is no *perfect* blog platform. Every platform will have a different collection of pros and cons, so it's important to do a little research to match your needs. Do you like writing in Markdown? Do you want extra site-building features on top of general blogging? Do you want your files to be stored in a Dropbox folder instead of a closed cloud? Is price a concern?
+First off, it's important to know that there is no *perfect* blog platform. Every platform will have a different set of pros and cons, so it's important to do a little research to match your needs. Do you like writing in Markdown? Do you want extra site-building features on top of general blogging? Do you want your files to be stored in a Dropbox folder instead of a closed cloud? Is price a concern?
 
-Here are a few options to start with, broken down by what they do:
+Here are a few options from our [Marketplace](https://iwantmyname.com/services) to start with, broken down by what they do:
 
 ### General website builders (with blog functionality)
 
@@ -74,13 +74,13 @@ Here are a few options to start with, broken down by what they do:
 
 What's nice about owning your own domain is that if you don't like the blog platform you're on, you can move without confusing your readers. For example, if you're blogging on Ghost one day, then realize you want to start leveraging your personal brand to start selling things online the next, you can migrate your content to Squarespace without losing your domain. Plus, because you already have a domain and you're not moving to a closed social platform, you won't have to worry about your brand name being taken on the next platform you're headed to.
 
-The key thing to look out for when choosing a platform is a solid import/export tool. Make sure you can easily take all your content with you in case you want to jump platforms—and don't compromise. Better and better platforms are coming out all the time, so getting stuck with something you're not happy with is solely on you.
+So before you make any platform decision, be sure to look for a solid import/export tool. Make sure you can easily take all your content with you in case you want to jump platforms—and don't compromise. Better and better platforms are coming out all the time, so getting stuck with something you're not happy with is solely on you.
 
 <h2 id="section-5">Your domain name matters, but maybe less than you think</h2>
 
-Having a killer domain name is a nice thing when you're telling your friends about your site, but as the spread of content moves to social, it matters less now than ever. Remember that while social media isn't great as your primary content bucket, it's definitely good for spreading your content. Articles from your blog might get tweeted, posted, retweeted, commented on, etc., and on social media, the quality of the domain names means a lot less than the quality of the person posting the message. 
+Having a killer domain name is a nice thing when you're telling your friends about your site, but as the spread of content moves to social, it matters less now than ever. Remember that while social media isn't great as your primary content bucket, it's definitely good for spreading your content. Articles from your blog might get tweeted, posted, retweeted, commented on, etc., and on social media, the quality of the domain names means a lot less than the quality of the person posting the message (for example, you wouldn't click on an strange site sent from a complete stranger, but you might if it were sent from your best friend). 
 
-Social media aside, your primary objective is to not look like a spam site. [Here are some simple tips from Moz](https://moz.com/learn/seo/domain):
+Social media sharing aside, your primary objective when choosing a domain name is to not look like a spam site. [Here are some simple tips from Moz](https://moz.com/learn/seo/domain):
 
 > 
 + Avoid hyphens. Hyphens detract from credibility and can act as a spam indicator.
