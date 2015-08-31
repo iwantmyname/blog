@@ -3295,35 +3295,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Anil Dash speaks so much truth</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Anil Dash wrote a &lt;a href=&#34;http://dashes.com/anil/2014/09/15-lessons-from-15-years-of-blogging.html&#34;&gt;great article&lt;/a&gt; yesterday titled &amp;ldquo;15 Lessons from 15 Years of Blogging,&amp;rdquo; and if you&amp;rsquo;re a blogger (or just a blogger at heart), there&amp;rsquo;s so much good stuff here.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;p&gt;A few of my favorite lessons:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Typos in posts don&amp;rsquo;t reveal themselves until you&amp;rsquo;ve published.&lt;/strong&gt; If you schedule a post to publish in the future, the typos will be revealed then. This is an absolute, inviolable rule of blogging. This may be some sort of subtle lesson from the universe about our hubris in the face of fundamental impermanence.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The scroll is your friend.&lt;/strong&gt; If you write a bad post or something you don&amp;rsquo;t like, just post again. If you write something great that you&amp;rsquo;re really proud of and nobody notices, just post again. One foot in front of the other, one word after another, is the only path I&amp;rsquo;ve found to an overall body of work that I&amp;rsquo;m proud of. Push posts down the page, and the good and the bad will just scroll away.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Your blog can change your life in a month.&lt;/strong&gt; If you want to understand an idea, or become a meaningful voice on a topic, or change your own thinking about a concept, write a little bit about it every day for a month. The first posts might suck, but invariably the exercise and the discipline of doing the writing are transformative. Sometimes the rest of the world even notices it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;One lesson that particularly struck me was one about blogging tools being &amp;ldquo;extraordinarily stagnant.&amp;rdquo; It&amp;rsquo;s an interesting argument, but one I think is starting to change. WYSIWYG editors are starting to be replaced by Markdown editors,  platforms like Ghost and Squarespace are adding features (or are planning to add them) at a rapid clip, and we&amp;rsquo;re now seeing all sorts of alternative backend storage systems for storing your posts.&lt;/p&gt;
-
-&lt;p&gt;But it&amp;rsquo;s true. If 1999 me looked at a 2014 cell phone, computer, or piece of software, I&amp;rsquo;d be blown away. But a blog, for the most part, is still a blog. And I love blogs, but I&amp;rsquo;m really hoping the next 15 years sees more innovation than the last.&lt;/p&gt;
-</description>
-				<pubDate>Sat, 27 Sep 2014 12:13:18 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/09/anil-dash-speaks-so-much-truth.html</link>
-				
-				<guid isPermaLink="false">/2014/09/anil-dash-speaks-so-much-truth.html</guid>
-			</item>
-		
-			<item>
 				<title>Ask iwantmyname: Blogging suggestions for occasional writers</title>
 				<description>&lt;!-- excerpt --&gt;
 
