@@ -6,6 +6,107 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The iwantmyname guide to blogging (and actually owning your content)</title>
+				<description>&lt;!-- excerpt --&gt;
+
+&lt;p&gt;Math is hard. Running a marathon is hard. Writing on the web, no matter what anyone tells you, is not hard. In fact, it&amp;rsquo;s become so easy that you pick up a following writing nothing more than 140 character messages riddled with abbreviated words, hashtags, and @ replies.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s hard is writing words that matter. Evergreen content. Posts that, in a decade, people will still be able to read and discuss. This kind of writing requires a bit of planning, a bit of structure, and a willingness to forego the immediate &amp;ldquo;viral-ness&amp;rdquo; of social media—but if you stick with it, you&amp;rsquo;ll have a real collection of content that&amp;rsquo;ll withstand the fickle nature of the social web.&lt;/p&gt;
+
+&lt;!-- /excerpt --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Beware purely social platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Unless you&amp;rsquo;re internet famous, branding is important&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Choosing the right blog hosting platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Always have an exit plan in mind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Your domain name matters, but maybe less than you think&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;Beware purely social platforms&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.businessinsider.com/robert-scoble-why-im-still-betting-my-future-on-google-2011-9&#34;&gt;From Robert Scoble, circa 2011:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;How do you best capture the EMOTION of your time? Blogging? Not for me anymore. Tweeting? Not for me anymore (I will continue being there, mostly to let people who won&amp;rsquo;t leave that system know what I&amp;rsquo;m doing and where I&amp;rsquo;m doing it &amp;mdash; it has turned into a UI for my Facebook and Google behaviors). Facebooking? Yes. I&amp;rsquo;m still there and will be for forseeable future at &lt;a href=&#34;http://facebook.com/robertscoble&#34;&gt;http://facebook.com/robertscoble&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But my hub is Google+.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a past life, Robert Scoble was one of the many go-to industry insiders worth reading. But for most of this decade, he&amp;rsquo;s &amp;ldquo;pivoted&amp;rdquo; from blogging to social media to pursue the active engagement social media brings—and has been a pretty vocal advocate for the rest of us doing the same. His results though don&amp;rsquo;t seem all that rewarding.&lt;/p&gt;
+
+&lt;p&gt;Exhibit 1 is his love affair with Google+. He poured years of content into that platform, amassed nearly seven million followers, and is now perhaps the biggest boat on a dried up lake. Google+ is pretty much a dead platform these days, and the content on it might as well not exist. Now, Scoble&amp;rsquo;s primarily on Facebook, posting multiple times a day on a platform known for spotty content delivery unless you&amp;rsquo;re willing to pay to promote it. (On a personal note, our Facebook posts routinely get delivered to only 15% of our audience—hardly something we&amp;rsquo;d like to pour too much time into.)&lt;/p&gt;
+
+&lt;p&gt;Exhibit 2 is his standing on Google Trends, which tracks news headlines over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/media/2015-08-31-scoble-trend.png&#34; alt=&#34;Scoble trend&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not saying there&amp;rsquo;s a one-to-one correlation between his move to social and his flagging popularity (on Google Trends), but from an outsider&amp;rsquo;s perspective, the move certainly doesn&amp;rsquo;t seem like it&amp;rsquo;s helping his newsworthiness.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-2&#34;&gt;Unless you&#39;re internet famous, branding is important&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the biggest negative with social media is that with it, you&amp;rsquo;re forever tied to the platform you&amp;rsquo;re on. Modern social sites have little-to-no customization (Facebook, Twitter, and Medium look the same no matter what page you&amp;rsquo;re on), their URL structure is almost universally www.platformname.com/username, and they all come with unique baggage. Platform X is for this clique; Platform Y used to be cool until the adults arrived, etc., etc. Really, unless you&amp;rsquo;re internet famous (like Robert Scoble), fighting this uphill branding battle on social media sites seems crazy. Having a blog on a custom domain might not give the immediate gratification of a Facebook Like, but it&amp;rsquo;s still the best way to seem like a person who should be taken seriously on the web.&lt;/p&gt;
+
+&lt;p&gt;Plus, with a custom domain name, you can &lt;a href=&#34;https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address.html&#34;&gt;pair your credible blog with a custom email address&lt;/a&gt; (a big deal if your blog ever gets media attention).&lt;/p&gt;
+
+&lt;h2 id=&#34;section-3&#34;&gt;Choosing the right blog hosting platform&lt;/h2&gt;
+
+&lt;p&gt;First off, it&amp;rsquo;s important to know that there is no &lt;em&gt;perfect&lt;/em&gt; blog platform. Every platform will have a different collection of pros and cons, so it&amp;rsquo;s important to do a little research to match your needs. Do you like writing in Markdown? Do you want extra site-building features on top of general blogging? Do you want your files to be stored in a Dropbox folder instead of a closed cloud? Is price a concern?&lt;/p&gt;
+
+&lt;p&gt;Here are a few options to start with, broken down by what they do:&lt;/p&gt;
+
+&lt;h3&gt;General website builders (with blog functionality)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/weebly-create-free-website-with-own-address&#34;&gt;Weebly&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Blog hosting platforms:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/ghost-custom-domain&#34;&gt;Ghost&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/blogs/tumblr-tumblelog-easy-blog-with-own-url&#34;&gt;Tumblr&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/postagon-custom-domain&#34;&gt;Postagon&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/posthaven-custom-domain&#34;&gt;Posthaven&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/silvrback-custom-domain&#34;&gt;Silvrback&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;WordPress hosting:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/wpengine-wordpress-custom-domain&#34;&gt;WP Engine&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/register-custom-domain-page.ly&#34;&gt;Page.ly&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Based on Dropbox or Evernote (content stays on your computer):&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/postachio&#34;&gt;Postach.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;For developers:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/services/developer/setup-custom-domain-amazon-s3&#34;&gt;Amazon S3&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/services/developer/github-pages-custom-domain&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;section-4&#34;&gt;Always have an exit plan in mind&lt;/h2&gt;
+
+&lt;p&gt;What&amp;rsquo;s nice about owning your own domain is that if you don&amp;rsquo;t like the blog platform you&amp;rsquo;re on, you can move without confusing your readers. For example, if you&amp;rsquo;re blogging on Ghost one day, then realize you want to start leveraging your personal brand to start selling things online the next, you can migrate your content to Squarespace without losing your domain. Plus, because you already have a domain and you&amp;rsquo;re not moving to a closed social platform, you won&amp;rsquo;t have to worry about your brand name being taken on the next platform you&amp;rsquo;re headed to.&lt;/p&gt;
+
+&lt;p&gt;The key thing to look out for when choosing a platform is a solid import/export tool. Make sure you can easily take all your content with you in case you want to jump platforms—and don&amp;rsquo;t compromise. Better and better platforms are coming out all the time, so getting stuck with something you&amp;rsquo;re not happy with is solely on you.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-5&#34;&gt;Your domain name matters, but maybe less than you think&lt;/h2&gt;
+
+&lt;p&gt;Having a killer domain name is a nice thing when you&amp;rsquo;re telling your friends about your site, but as the spread of content moves to social, it matters less now than ever. Remember that while social media isn&amp;rsquo;t great as your primary content bucket, it&amp;rsquo;s definitely good for spreading your content. Articles from your blog might get tweeted, posted, retweeted, commented on, etc., and on social media, the quality of the domain names means a lot less than the quality of the person posting the message.&lt;/p&gt;
+
+&lt;p&gt;Social media aside, your primary objective is to not look like a spam site. &lt;a href=&#34;https://moz.com/learn/seo/domain&#34;&gt;Here are some simple tips from Moz&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid hyphens. Hyphens detract from credibility and can act as a spam indicator.&lt;/li&gt;
+&lt;li&gt;Top-level domains (like .com) are the extensions associated with domain names. For best ranking results, avoid uncommon top-level domains (TLDs). Like hyphens, TLDs such as .info, .cc, .ws, and .name are spam indicators.&lt;/li&gt;
+&lt;li&gt;Avoid domain names longer than 15 characters. Short domain names are easier to remember, easier to share, and have a smaller chance of resulting in typos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you want more of an in-depth look at our thoughts on which TLD you should be using for your site, &lt;a href=&#34;https://iwantmyname.com/blog/2015/06/how-to-pick-the-right-domain-extension.html&#34;&gt;here&amp;rsquo;s the guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 31 Aug 2015 13:30:58 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/08/the-iwantmyname-guide-to-blogging.html</link>
+				
+				<guid isPermaLink="false">/2015/08/the-iwantmyname-guide-to-blogging.html</guid>
+			</item>
+		
+			<item>
 				<title>Get your personal brand in tip-top shape</title>
 				<description>&lt;!-- excerpt --&gt;
 
