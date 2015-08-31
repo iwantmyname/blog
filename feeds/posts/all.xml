@@ -3130,51 +3130,6 @@ location ^~ /blog/ {
 			</item>
 		
 			<item>
-				<title>Sometimes it pays to work smart *and* hard</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;From the Moz Blog, in an article titled &amp;ldquo;&lt;a href=&#34;http://moz.com/blog/my-recipe-for-success-how-to-launch-a-successful-blog&#34;&gt;My Recipe for Success: How to Launch a Successful Blog&lt;/a&gt;&amp;ldquo;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;So, five months on, where are we? Well, I&amp;rsquo;m particularly happy with the results so far, and this is why I wanted to outline the approach that I&amp;rsquo;ve taken from a content, social, and SEO perspective to get results.&lt;/p&gt;
-
-&lt;p&gt;On the topic of results, here&amp;rsquo;s where we&amp;rsquo;re at right now:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Page 1 rankings in Google for the terms pescetarian, pescetarian blog, pescetarian recipes and pescetarian meals. Go ahead, Google it if you don&amp;rsquo;t believe me ;)&lt;/li&gt;
-&lt;li&gt;4,700+ followers on our Facebook page&lt;/li&gt;
-&lt;li&gt;The average engagement on one of our Facebook posts will often result in around 100 likes, 5-15 comments, 20-50 shares and 100-300 clicks through to the website&lt;/li&gt;
-&lt;li&gt;850+ Twitter followers&lt;/li&gt;
-&lt;li&gt;500+ Pinterest followers&lt;/li&gt;
-&lt;li&gt;550 double opt-in email subscribers&lt;/li&gt;
-&lt;li&gt;30,000+ unique visits to the blog&lt;/li&gt;
-&lt;li&gt;15,000+ unique visits coming from social media traffic alone&lt;/li&gt;
-&lt;li&gt;65,000+ backlinks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Although it&amp;rsquo;s early in our campaign, I&amp;rsquo;m going to share how we&amp;rsquo;ve achieved what we have so far and give you as much actionable information as to how you can go out and replicate the early success that we&amp;rsquo;ve had. This will include the exact strategies that I&amp;rsquo;ve implemented, the tools that I&amp;rsquo;ve used and any tips for accelerating growth.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On personal blogs, I&amp;rsquo;ve been a pretty strong proponent of what I call the John Gruber method—if you consistently write something worthwhile, people will eventually come. But if you have time, dedication, and resources, the &amp;ldquo;people will eventually come&amp;rdquo; part can sometimes be changed to &amp;ldquo;people will come very soon.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Truth is, there&amp;rsquo;s a real science behind generating blog traffic, and it involves some combination of great content, SEO, social media, email, and a open eye to new ways to promote what you write. You just have to know where to start—and you could do a lot worse than starting with the article above.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;One thing of particular interest was the fact that the blog the author created is using the &lt;a href=&#34;https://iwantmyname.com/domains/dot-kitchen&#34;&gt;.kitchen&lt;/a&gt; domain extension. The author wrote, &amp;ldquo;we needed to have the term pescetarian within it. We finally decided on going with one of the new .kitchen TLDs that were made available.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Proof that using a new &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;generic top-level domain (gTLD)&lt;/a&gt; can make for a successful blog? I&amp;rsquo;d say so.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 14 Oct 2014 12:23:46 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/10/sometimes-it-pays-to-work-smart.html</link>
-				
-				<guid isPermaLink="false">/2014/10/sometimes-it-pays-to-work-smart.html</guid>
-			</item>
-		
-			<item>
 				<title>The Grid — AI websites that design themselves</title>
 				<description>&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
     &lt;iframe src=&#34;https://www.youtube.com/embed/OXA4-5x31V0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -9040,6 +8995,17 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 					<link>https://iwantmyname.com/blog/2014/01/a-good-piece-about-the-historyfuture-of-domains-and-an-angry-bit-about-medium.html</link>
 				
 				<guid isPermaLink="false">/2014/01/a-good-piece-about-the-historyfuture-of-domains-and-an-angry-bit-about-medium.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/08/the-iwantmyname-guide-to-blogging.html&#34;&gt;https://iwantmyname.com/blog/2015/08/the-iwantmyname-guide-to-blogging.html&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2014/10/sometimes-it-pays-to-work-smart.html</link>
+				
+				<guid isPermaLink="false">/2014/10/sometimes-it-pays-to-work-smart.html</guid>
 			</item>
 		
 	</channel>
