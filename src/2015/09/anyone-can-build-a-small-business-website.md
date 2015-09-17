@@ -51,7 +51,7 @@ Here are a few to start your search with:
 
 No matter what kind of site you're looking to build, Squarespace has the tools you need. Just to list, they have templates and tools designed for businesses, online shopping sites, physical stores, restaurants (with amazing location and menu features), musicians, podcast hosts (you can serve shows directly from Squarespace to iTunes), photographers, and painters. And they're adding new tools and features all the time, so the platform never gets stale.
 
-### [Weebly]
+### [Weebly](https://iwantmyname.com/features/applications/custom-domain-apps/websites/weebly-create-free-website-with-own-address)
 
 Decisions, decisions. In a lot of ways, Weebly is a lot like Squarespace. They have great online shopping solutions, offer simple drag-and-drop tools for website creation, and have some beautiful templates to choose from. Fortunately, you can try both out for free before you decide to plop your money down—so we'd recommend that.
 
