@@ -37,6 +37,22 @@ layshocklimo.com = good
 layshock.limo = in the suburbs, but it's short and memorable, which is good
 ridelayshocklimo.com = not as good
 
+***
+
+### Does your domain name have a sketchy past?
+
+Technically, you can name your website anything you want, but like all things, names come with histories. Even if you have a sparkling marketing plan, getting unfavorable search results when seeking your site can be a killer. So do your research. Here's a little video guide from Matt Cutts of Google Webmasters on how you can protect yourself from registering domain names with iffy histories.
+
+{{ template "youtube" "C-EdhaMDXho" }}
+
+To recap, here are his three three main tips:
+
+1. Do a "site: DOMAINNAME.com" search. If you see anything fishy, be weary.
+2. Search for the domain name without the domain extension. So instead of "site: DOMAINNAME.com", just search for "DOMAINNAME." You never know what you might find. 
+3. Search for your desired domain on [archive.org](https://archive.org/). If your site used to be a scam site, you could suffer a continued SEO hit. Also note that if your site used to be something you find unsavory, you may get residual unsavory emails.
+
+***
+
 <h2 id="section-2">Step 2: Choose a website platform</h2>
 
 Here's the complicated part—or what used to be the complicated part. Ten years ago, creating a website meant finding some server space, installing your platform of choice onto that server space, then messing with some combination of a template (which meant a good deal of trial and error, even after learning some rudimentary coding skills) and some plugins until you've created something you're remotely happy with. E-commerce was always tricky, keeping things updated was always a chore, and if you forgot to backup your site... kapow! All gone. 
