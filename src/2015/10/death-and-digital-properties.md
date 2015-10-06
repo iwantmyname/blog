@@ -4,11 +4,15 @@ title: Death and digital properties
 header_image: 2015-10-01-fence.jpg
 ----
 
+<!-- excerpt -->
+
 A couple of hundred years ago, it was possible to live and die leaving pretty much zero physical evidence of your existence. Except perhaps some kids. Today, though, someone with no identity footprint would be nearly unheard of. I'm even skeptical of companies that don't have websites. 
 
 Now that so many of us have these broad digital presences — websites, email accounts, social media profiles, photos, videos, text — the footprints we leave behind may require some maintenance and planning. After all, your online self is as much a part of your life as your photo albums,  household items, and collectibles.
 
 Beyond keeping payment details updated, domains renewed, passwords secure, etc., we need to consider life's "what ifs?" Or "hit by a bus" scenarios, as we've called them at a few places I've worked. What happens if you're not there tomorrow? Maybe you moved on to a new job, left a relationship, or actually were hit by a bus!
+
+<!-- /excerpt -->
 
 Can anyone else access your accounts? Do you want them to? Did you want any of your online profiles or properties to be left accessible? Are there going to be business issues with websites or email accounts if domains were registered in your name and paid for by your credit card?
 
