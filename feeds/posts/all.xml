@@ -6,6 +6,88 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Death and digital properties</title>
+				<description>&lt;p&gt;A couple of hundred years ago, it was possible to live and die leaving pretty much zero physical evidence of your existence. Except perhaps some kids. Today, though, someone with no identity footprint would be nearly unheard of. I&amp;rsquo;m even skeptical of companies that don&amp;rsquo;t have websites.&lt;/p&gt;
+
+&lt;p&gt;Now that so many of us have these broad digital presences — websites, email accounts, social media profiles, photos, videos, text — the footprints we leave behind may require some maintenance and planning. After all, your online self is as much a part of your life as your photo albums,  household items, and collectibles.&lt;/p&gt;
+
+&lt;p&gt;Beyond keeping payment details updated, domains renewed, passwords secure, etc., we need to consider life&amp;rsquo;s &amp;ldquo;what ifs?&amp;rdquo; Or &amp;ldquo;hit by a bus&amp;rdquo; scenarios, as we&amp;rsquo;ve called them at a few places I&amp;rsquo;ve worked. What happens if you&amp;rsquo;re not there tomorrow? Maybe you moved on to a new job, left a relationship, or actually were hit by a bus!&lt;/p&gt;
+
+&lt;p&gt;Can anyone else access your accounts? Do you want them to? Did you want any of your online profiles or properties to be left accessible? Are there going to be business issues with websites or email accounts if domains were registered in your name and paid for by your credit card?&lt;/p&gt;
+
+&lt;p&gt;It doesn&amp;rsquo;t tend to be something we give a lot of thought to. Maybe once a year when you get a domain renewal notice. Or when a site has a security breach and you&amp;rsquo;re advised to change your password. But it&amp;rsquo;s something our team deals with regularly.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;So and so has left the company and&amp;hellip;&amp;rdquo; begins a lot of emails we receive. Some employee has set up an account with their email address, registered the company&amp;rsquo;s domain(s), and paid for them with their credit card. And now no one knows the login, the email address no longer works, and the credit card has been cancelled.&lt;/p&gt;
+
+&lt;p&gt;If they&amp;rsquo;re lucky, they figure this out &lt;em&gt;before&lt;/em&gt; the website and email stop working, but not always. As often as not the emails we get are somewhat panicked. But while we understand customers&amp;rsquo; predicaments in these cases, we can&amp;rsquo;t just hand over the keys, so to speak. We need to authenticate who has access to the account, who owns the domains(s), etc., to prevent straight-up theft. You don&amp;rsquo;t want to end up dealing with one of these situations.&lt;/p&gt;
+
+&lt;p&gt;So, how can you keep your online properties up to date, and make sure those who need administrative access to accounts can get it when needed?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Avoid registering business accounts or domains with personal information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;What will happen if you can&amp;rsquo;t access an account or there&amp;rsquo;s a dispute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;What will happen if you die&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Just part of being a grownup&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;Avoid registering business accounts or domains with personal information&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s pretty common for things like domains and social media accounts to be assigned to a primary person. Since you&amp;rsquo;re asked for personal details like name and email address (and sometimes &lt;em&gt;have&lt;/em&gt; to provide an individual information rather than company information), it seems like a no-brainer to use your own details. If you can avoid that, do so.&lt;/p&gt;
+
+&lt;p&gt;Use an organizational email address that more than one person has access to. That way others will have the login, or at the very least can get and use a password reset email if needed.&lt;/p&gt;
+
+&lt;p&gt;If you have to use an individual&amp;rsquo;s name on an account, so be it, use yours or an administrative one, but be sure to include the organization&amp;rsquo;s name in the &lt;em&gt;Company&lt;/em&gt; field as well. It provides some link to the company if we hear from someone who&amp;rsquo;s not the main contact.&lt;/p&gt;
+
+&lt;p&gt;Be aware when registering domains that the registrant or owner contact name is the legal owner of the domain. Even if the person worked for your company and registered the domain on behalf of the company. If the registrant contact says John Smith, it&amp;rsquo;s legally John Smith&amp;rsquo;s domain name.&lt;/p&gt;
+
+&lt;p&gt;If possible, register the domain under the company name, not a person&amp;rsquo;s name. Note that our system automatically adds the account contact information as the registrant information, but you can update that in your dashboard under &lt;strong&gt;edit contacts&lt;/strong&gt;, or, in some cases (like ccTLDs), we can do it for you.&lt;/p&gt;
+
+&lt;p&gt;If possible, use a corporate credit card under the company or organization&amp;rsquo;s name. There&amp;rsquo;s (perhaps) a better chance of someone tracking its use and when expiry dates will need to be updated, for example. The more data points we have for the organization, the easier it will be to prove who owns or should have access to the account and domains.&lt;/p&gt;
+
+&lt;p&gt;When there&amp;rsquo;s an issue of account access, we request proof of ID for the account holder and a partial scan of the card on the account. Take a look at your account details and ask yourself if anyone else would be able to provide them if you&amp;rsquo;re not around to do so.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-2&#34;&gt;What will happen if you can&#39;t access an account or there&#39;s a dispute&lt;/h2&gt;
+
+&lt;p&gt;At best, we require an assortment of proof of identification and ownership. At worst, if there seems to be an issue, or information isn&amp;rsquo;t clear, we lock down accounts while we wait for more information (for as long as necessary&amp;hellip;even if your website and email are down).&lt;/p&gt;
+
+&lt;p&gt;That means no party can access it, which means if a credit card is invalid, domains can&amp;rsquo;t be renewed and may expire and be lost. If something goes wrong with DNS or hosting, a site may remain offline or emails will bounce. You can imagine this could be a serious problem for businesses.&lt;/p&gt;
+
+&lt;p&gt;If it&amp;rsquo;s just a customer who&amp;rsquo;s forgotten a password, we can send a password reset email, or do our standard authentication to help them get back into their own account.&lt;/p&gt;
+
+&lt;p&gt;If one party claims another party has left a company, for example, and they need access to the account for the domains, we will take a look at the account. We&amp;rsquo;ll see what evidence there is that the domains belong to the company. We&amp;rsquo;ll see what other domains are in the account. (We&amp;rsquo;re not going to hand over account access if there&amp;rsquo;s one company domain and 10 that appear to be personal and unrelated.) We will ask for authentication documentation for the company, alleged former employee, person asking for access, and whatever else we feel is necessary to prove ownership.&lt;/p&gt;
+
+&lt;p&gt;We take customer account security very seriously, which can be frustrating for some people. But just imagine someone was trying to get access to &lt;em&gt;your&lt;/em&gt; accounts or domains. Would you want us to hand over access just based on an email saying, &lt;em&gt;&amp;ldquo;Let me in&amp;rdquo;&lt;/em&gt;?&lt;/p&gt;
+
+&lt;h2 id=&#34;section-3&#34;&gt;What will happen if you die&lt;/h2&gt;
+
+&lt;p&gt;That&amp;rsquo;s up to you. Some people may want their web properties&amp;rsquo; content archived, or their friends or families might. Some people might want everything to eventually expire and be deleted. Some people might have secret accounts or profiles they don&amp;rsquo;t want anyone to know about.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s pretty common, in addition to a formal will, to have a more informal list of requests, bequests, or instructions. We&amp;rsquo;d recommend adding a section about your digital properties there.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re big fans of password management programs, and if you use one of those, there&amp;rsquo;s a good chance you just need to keep track of one password. Record it with your will and any related documents. Remember to update it when you update your password(s). Then someone will be able to maintain or remove your accounts.&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&#34;http://www.thedigitalbeyond.com/online-services-list/&#34;&gt;There are also a variety of sites and tools to help manage digital legacies.&lt;/a&gt; Whether it&amp;rsquo;s checking regularly whether you&amp;rsquo;re still alive or not, sending out posthumous messages to loved ones, providing a place for those who cared about you to memorialize you, or wiping accounts or files you don&amp;rsquo;t want anyone else to know about, handling our digital afterlives can be well covered.)&lt;/p&gt;
+
+&lt;p&gt;Remember, too, that a lot of work can go into sorting things out and tying up loose ends after someone dies, and the people left doing it are often tired, sad, and stressed. It&amp;rsquo;s a kindness to make these arrangements in advance.&lt;/p&gt;
+
+&lt;h2 id=&#34;section-4&#34;&gt;Just part of being a grownup&lt;/h2&gt;
+
+&lt;p&gt;Occasionally we complain that websites or apps want too much personal information from us when we try to set up accounts or start using them. But in general, it&amp;rsquo;s extremely easy to create new digital footprints online. It&amp;rsquo;s actually often harder to erase them.&lt;/p&gt;
+
+&lt;p&gt;Because of this, many of us give little thought to how broad our digital presences and properties actually are. Sure, many of us have plenty of little-used and abandoned accounts. They don&amp;rsquo;t cost us time or money (maybe a little email spam). But many of us &lt;em&gt;do&lt;/em&gt; have online presences and properties that are important to us, and to others.&lt;/p&gt;
+
+&lt;p&gt;For various reasons, if and when we&amp;rsquo;re not around to take care of them, like any good property management, it&amp;rsquo;s the grownup and responsible thing to do to make sure someone else can.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 21 Sep 2015 15:55:21 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/death-and-digital-properties.html</link>
+				
+				<guid isPermaLink="false">/2015/10/death-and-digital-properties.html</guid>
+			</item>
+		
+			<item>
 				<title>Anyone can build a small business website (even you)</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -8489,94 +8571,6 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 					<link>https://iwantmyname.com/blog/2014/04/does-your-domain-have-a-sketchy-past.redirect.html</link>
 				
 				<guid isPermaLink="false">/2014/04/does-your-domain-have-a-sketchy-past.redirect.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<description>&lt;p&gt;date: 2015-09-21 15:55:21 -0700
-author: Melle
-title: Death and digital properties&lt;/p&gt;
-
-&lt;h2&gt;header_image: 2015-10-01-fence.jpg&lt;/h2&gt;
-
-&lt;p&gt;A couple of hundred years ago, it was possible to live and die leaving pretty much zero physical evidence of your existence. Except perhaps some kids. Today, though, someone with no identity footprint would be nearly unheard of. I&amp;rsquo;m even skeptical of companies that don&amp;rsquo;t have websites.&lt;/p&gt;
-
-&lt;p&gt;Now that so many of us have these broad digital presences — websites, email accounts, social media profiles, photos, videos, text — the footprints we leave behind may require some maintenance and planning. After all, your online self is as much a part of your life as your photo albums,  household items, and collectibles.&lt;/p&gt;
-
-&lt;p&gt;Beyond keeping payment details updated, domains renewed, passwords secure, etc., we need to consider life&amp;rsquo;s &amp;ldquo;what ifs?&amp;rdquo; Or &amp;ldquo;hit by a bus&amp;rdquo; scenarios, as we&amp;rsquo;ve called them at a few places I&amp;rsquo;ve worked. What happens if you&amp;rsquo;re not there tomorrow? Maybe you moved on to a new job, left a relationship, or actually were hit by a bus!&lt;/p&gt;
-
-&lt;p&gt;Can anyone else access your accounts? Do you want them to? Did you want any of your online profiles or properties to be left accessible? Are there going to be business issues with websites or email accounts if domains were registered in your name and paid for by your credit card?&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;rsquo;t tend to be something we give a lot of thought to. Maybe once a year when you get a domain renewal notice. Or when a site has a security breach and you&amp;rsquo;re advised to change your password. But it&amp;rsquo;s something our team deals with regularly.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;So and so has left the company and&amp;hellip;&amp;rdquo; begins a lot of emails we receive. Some employee has set up an account with their email address, registered the company&amp;rsquo;s domain(s), and paid for them with their credit card. And now no one knows the login, the email address no longer works, and the credit card has been cancelled.&lt;/p&gt;
-
-&lt;p&gt;If they&amp;rsquo;re lucky, they figure this out &lt;em&gt;before&lt;/em&gt; the website and email stop working, but not always. As often as not the emails we get are somewhat panicked. But while we understand customers&amp;rsquo; predicaments in these cases, we can&amp;rsquo;t just hand over the keys, so to speak. We need to authenticate who has access to the account, who owns the domains(s), etc., to prevent straight-up theft. You don&amp;rsquo;t want to end up dealing with one of these situations.&lt;/p&gt;
-
-&lt;p&gt;So, how can you keep your online properties up to date, and make sure those who need administrative access to accounts can get it when needed?&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Avoid registering business accounts or domains with personal information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;What will happen if you can&amp;rsquo;t access an account or there&amp;rsquo;s a dispute&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;What will happen if you die&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Just part of being a grownup&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;section-1&#34;&gt;Avoid registering business accounts or domains with personal information&lt;/h2&gt;
-
-&lt;p&gt;It&amp;rsquo;s pretty common for things like domains and social media accounts to be assigned to a primary person. Since you&amp;rsquo;re asked for personal details like name and email address (and sometimes &lt;em&gt;have&lt;/em&gt; to provide an individual information rather than company information), it seems like a no-brainer to use your own details. If you can avoid that, do so.&lt;/p&gt;
-
-&lt;p&gt;Use an organizational email address that more than one person has access to. That way others will have the login, or at the very least can get and use a password reset email if needed.&lt;/p&gt;
-
-&lt;p&gt;If you have to use an individual&amp;rsquo;s name on an account, so be it, use yours or an administrative one, but be sure to include the organization&amp;rsquo;s name in the &lt;em&gt;Company&lt;/em&gt; field as well. It provides some link to the company if we hear from someone who&amp;rsquo;s not the main contact.&lt;/p&gt;
-
-&lt;p&gt;Be aware when registering domains that the registrant or owner contact name is the legal owner of the domain. Even if the person worked for your company and registered the domain on behalf of the company. If the registrant contact says John Smith, it&amp;rsquo;s legally John Smith&amp;rsquo;s domain name.&lt;/p&gt;
-
-&lt;p&gt;If possible, register the domain under the company name, not a person&amp;rsquo;s name. Note that our system automatically adds the account contact information as the registrant information, but you can update that in your dashboard under &lt;strong&gt;edit contacts&lt;/strong&gt;, or, in some cases (like ccTLDs), we can do it for you.&lt;/p&gt;
-
-&lt;p&gt;If possible, use a corporate credit card under the company or organization&amp;rsquo;s name. There&amp;rsquo;s (perhaps) a better chance of someone tracking its use and when expiry dates will need to be updated, for example. The more data points we have for the organization, the easier it will be to prove who owns or should have access to the account and domains.&lt;/p&gt;
-
-&lt;p&gt;When there&amp;rsquo;s an issue of account access, we request proof of ID for the account holder and a partial scan of the card on the account. Take a look at your account details and ask yourself if anyone else would be able to provide them if you&amp;rsquo;re not around to do so.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-2&#34;&gt;What will happen if you can&#39;t access an account or there&#39;s a dispute&lt;/h2&gt;
-
-&lt;p&gt;At best, we require an assortment of proof of identification and ownership. At worst, if there seems to be an issue, or information isn&amp;rsquo;t clear, we lock down accounts while we wait for more information (for as long as necessary&amp;hellip;even if your website and email are down).&lt;/p&gt;
-
-&lt;p&gt;That means no party can access it, which means if a credit card is invalid, domains can&amp;rsquo;t be renewed and may expire and be lost. If something goes wrong with DNS or hosting, a site may remain offline or emails will bounce. You can imagine this could be a serious problem for businesses.&lt;/p&gt;
-
-&lt;p&gt;If it&amp;rsquo;s just a customer who&amp;rsquo;s forgotten a password, we can send a password reset email, or do our standard authentication to help them get back into their own account.&lt;/p&gt;
-
-&lt;p&gt;If one party claims another party has left a company, for example, and they need access to the account for the domains, we will take a look at the account. We&amp;rsquo;ll see what evidence there is that the domains belong to the company. We&amp;rsquo;ll see what other domains are in the account. (We&amp;rsquo;re not going to hand over account access if there&amp;rsquo;s one company domain and 10 that appear to be personal and unrelated.) We will ask for authentication documentation for the company, alleged former employee, person asking for access, and whatever else we feel is necessary to prove ownership.&lt;/p&gt;
-
-&lt;p&gt;We take customer account security very seriously, which can be frustrating for some people. But just imagine someone was trying to get access to &lt;em&gt;your&lt;/em&gt; accounts or domains. Would you want us to hand over access just based on an email saying, &lt;em&gt;&amp;ldquo;Let me in&amp;rdquo;&lt;/em&gt;?&lt;/p&gt;
-
-&lt;h2 id=&#34;section-3&#34;&gt;What will happen if you die&lt;/h2&gt;
-
-&lt;p&gt;That&amp;rsquo;s up to you. Some people may want their web properties&amp;rsquo; content archived, or their friends or families might. Some people might want everything to eventually expire and be deleted. Some people might have secret accounts or profiles they don&amp;rsquo;t want anyone to know about.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s pretty common, in addition to a formal will, to have a more informal list of requests, bequests, or instructions. We&amp;rsquo;d recommend adding a section about your digital properties there.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re big fans of password management programs, and if you use one of those, there&amp;rsquo;s a good chance you just need to keep track of one password. Record it with your will and any related documents. Remember to update it when you update your password(s). Then someone will be able to maintain or remove your accounts.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;http://www.thedigitalbeyond.com/online-services-list/&#34;&gt;There are also a variety of sites and tools to help manage digital legacies.&lt;/a&gt; Whether it&amp;rsquo;s checking regularly whether you&amp;rsquo;re still alive or not, sending out posthumous messages to loved ones, providing a place for those who cared about you to memorialize you, or wiping accounts or files you don&amp;rsquo;t want anyone else to know about, handling our digital afterlives can be well covered.)&lt;/p&gt;
-
-&lt;p&gt;Remember, too, that a lot of work can go into sorting things out and tying up loose ends after someone dies, and the people left doing it are often tired, sad, and stressed. It&amp;rsquo;s a kindness to make these arrangements in advance.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-4&#34;&gt;Just part of being a grownup&lt;/h2&gt;
-
-&lt;p&gt;Occasionally we complain that websites or apps want too much personal information from us when we try to set up accounts or start using them. But in general, it&amp;rsquo;s extremely easy to create new digital footprints online. It&amp;rsquo;s actually often harder to erase them.&lt;/p&gt;
-
-&lt;p&gt;Because of this, many of us give little thought to how broad our digital presences and properties actually are. Sure, many of us have plenty of little-used and abandoned accounts. They don&amp;rsquo;t cost us time or money (maybe a little email spam). But many of us &lt;em&gt;do&lt;/em&gt; have online presences and properties that are important to us, and to others.&lt;/p&gt;
-
-&lt;p&gt;For various reasons, if and when we&amp;rsquo;re not around to take care of them, like any good property management, it&amp;rsquo;s the grownup and responsible thing to do to make sure someone else can.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/death-and-digital-properties.html</link>
-				
-				<guid isPermaLink="false">/2015/10/death-and-digital-properties.html</guid>
 			</item>
 		
 	</channel>
