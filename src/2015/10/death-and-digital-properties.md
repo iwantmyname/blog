@@ -2,7 +2,7 @@ date: 2015-09-21 15:55:21 -0700
 author: Melle
 title: Death and digital properties
 header_image: 2015-10-01-fence.jpg
-----------
+----
 
 A couple of hundred years ago, it was possible to live and die leaving pretty much zero physical evidence of your existence. Except perhaps some kids. Today, though, someone with no identity footprint would be nearly unheard of. I'm even skeptical of companies that don't have websites. 
 
