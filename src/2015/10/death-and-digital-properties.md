@@ -6,7 +6,7 @@ header_image: 2015-10-01-fence.jpg
 
 <!-- excerpt -->
 
-A couple of hundred years ago, it was possible to live and die leaving pretty much zero physical evidence of your existence. Except perhaps some kids. Today, though, someone with no identity footprint would be nearly unheard of. I'm even skeptical of companies that don't have websites. 
+A couple hundred years ago, it was possible to live and die leaving pretty much zero physical evidence of your existence. Except perhaps some kids. Today, though, someone with no identity footprint would be nearly unheard of. I'm even skeptical of companies that don't have websites. 
 
 Now that so many of us have these broad digital presences — websites, email accounts, social media profiles, photos, videos, text — the footprints we leave behind may require some maintenance and planning. After all, your online self is as much a part of your life as your photo albums,  household items, and collectibles.
 
