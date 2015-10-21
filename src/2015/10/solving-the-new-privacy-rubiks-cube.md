@@ -1,7 +1,7 @@
 date: 2015-10-20 15:55:21 -0700
 author: Chris
 title: Solving the new privacy Rubik’s Cube
-excerpt: no
+excerpt: false
 ----
 
 [Brad Smith, Microsoft's President and Chief Legal Officer, on the collapse of the EU-US Safe Harbor:](http://blogs.microsoft.com/eupolicy/2015/10/20/the-collapse-of-the-u-s-eu-safe-harbor-solving-the-new-privacy-rubiks-cube/)
