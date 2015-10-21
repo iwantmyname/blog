@@ -6,6 +6,23 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Solving the new privacy Rubik’s Cube</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://blogs.microsoft.com/eupolicy/2015/10/20/the-collapse-of-the-u-s-eu-safe-harbor-solving-the-new-privacy-rubiks-cube/&#34;&gt;Brad Smith, Microsoft&amp;rsquo;s President and Chief Legal Officer, on the collapse of the EU-US Safe Harbor:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We need to protect privacy as a fundamental human right. We need a global Internet. We need to keep the public safe. And we need to find a legal path that will work on both sides of the Atlantic. We need to do all four of these things together and simultaneously. This is the privacy version of a Rubik’s Cube.&lt;/p&gt;
+
+&lt;p&gt;If we’re going to find a long-term and sustainable approach, we need to think afresh. The leading privacy law in the United States was adopted in 1986. The laws in Europe come from the same era. The approaches that were developed fifteen years before the 20th century ended are simply not adequate fifteen years after the 21st century began. It’s not just technology that has changed. The world has changed.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<pubDate>Tue, 20 Oct 2015 15:55:21 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/solving-the-new-privacy-rubiks-cube.html</link>
+				
+				<guid isPermaLink="false">/2015/10/solving-the-new-privacy-rubiks-cube.html</guid>
+			</item>
+		
+			<item>
 				<title>Death and digital properties</title>
 				<description>&lt;!-- excerpt --&gt;
 
@@ -1302,7 +1319,7 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;em&gt;Useful tip &amp;ndash; if your domain was transferred to iwantmyname from a different registrar, you&amp;rsquo;ll probably have to change your nameservers to iwantmyname (our instant setups won&amp;rsquo;t work otherwise). To set that up, click &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Update Nameservers&lt;/strong&gt;, then choose iwantmyname in the dropdown menu. And don&amp;rsquo;t forget to click the &lt;strong&gt;Update Nameservers&lt;/strong&gt; button!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;*Useful tip &amp;ndash; if your domain was transferred to iwantmyname from a different registrar, you&amp;rsquo;ll probably have to change your nameservers to iwantmyname (our instant setups won&amp;rsquo;t work otherwise). To set that up, click &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Update Nameservers&lt;/strong&gt;, then choose iwantmyname in the dropdown menu. And don&amp;rsquo;t forget to click the &lt;strong&gt;Update Nameservers&lt;/strong&gt; button!*&lt;/p&gt;
 
 &lt;hr&gt;
 
