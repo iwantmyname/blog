@@ -1,4 +1,4 @@
-date: 2015-10-22 08:05:21 -0700
+date: 2015-10-26 08:05:21 -0700
 author: Chris
 title: What if you don't talkie very clearly?
 excerpt: false
