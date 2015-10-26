@@ -42,6 +42,25 @@
 			</item>
 		
 			<item>
+				<title>What if you don&#39;t talkie very clearly?</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://paulgraham.com/talk.html&#34;&gt;Paul Graham with some writing advice:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ok, so written and spoken language are different. Does that make written language worse?&lt;/p&gt;
+
+&lt;p&gt;If you want people to read and understand what you write, yes. Written language is more complex, which makes it more work to read. It&amp;rsquo;s also more formal and distant, which gives the reader&amp;rsquo;s attention permission to drift. But perhaps worst of all, the complex sentences and fancy words give you, the writer, the false impression that you&amp;rsquo;re saying more than you actually are.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My favorite is when arguments start in comment sections. They all start with similar troll statements followed by simple insults. But then they inevitably expand into a series of people trying to prove points with dissertation-style sentences that mean nothing. So many syllables, so little thought.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 22 Oct 2015 08:05:21 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/what-if-you-dont-talkie-very-clearly.html</link>
+				
+				<guid isPermaLink="false">/2015/10/what-if-you-dont-talkie-very-clearly.html</guid>
+			</item>
+		
+			<item>
 				<title>Too much choice might be a bad thing</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/lifeandstyle/2015/oct/21/choice-stressing-us-out-dating-partners-monopolies&#34;&gt;Stuart Jeffries on the stress that choice induces:&lt;/a&gt;&lt;/p&gt;
 
@@ -627,199 +646,6 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 					<link>https://iwantmyname.com/blog/2015/07/how-to-keep-your-passwords-and-logins-safe.html</link>
 				
 				<guid isPermaLink="false">/2015/07/how-to-keep-your-passwords-and-logins-safe.html</guid>
-			</item>
-		
-			<item>
-				<title>.COM? .IO? .PIZZA? How to pick the right domain extension (TLD)</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;In ye olde days (early 2013), most of the hard thinking that went into choosing a domain name went to the part before the dot. But now, with hundreds of &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;new gTLDs&lt;/a&gt; available to the public, the actual name of your site might be the easy part.  How do you choose between all the options? Do you go with .COM? .CO? Your local ccTLD? A descriptive word that aligns with your brand? Maybe .PIZZA (pizza goes with everything!)?&lt;/p&gt;
-
-&lt;p&gt;Before you spontaneously combust, let&amp;rsquo;s go through your options and add some notes from the smart people writing about the subject on the web.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;.COM, the big Kahuna&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Beware spam indicators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Local ccTLDs and gTLDs can be good for business&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;.IO and the TLDs for tech&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Are some TLDs better for reaching an international audience?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-6&#34;&gt;Is it ok to use a new gTLD?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-7&#34;&gt;Does your TLD really matter?&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;section-1&#34;&gt;.COM, the big Kahuna&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-07-23-big-kahuna.jpg&#34; alt=&#34;Big Kahuna Burger&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m not a mind reader, but my guess is that you&amp;rsquo;re here to have someone like me tell you it&amp;rsquo;s ok to get something other than a .COM. So, sure, you certainly can run a successful business using any TLD. But for many people, .COM &lt;em&gt;is&lt;/em&gt; the internet, especially if you live in the US. And it goes beyond simple. familiarity.&lt;/p&gt;
-
-&lt;p&gt;Take John Smith, a hypothetical 49-year-old insurance adjuster in Columbus, Ohio (in the US). On a given day, he browses through his typical sites: cnn.com, espn.com, facebook.com, and his work website, then he checks his email through Apple Mail which was set up for him at the Apple Store when he got his computer. The only thing he&amp;rsquo;ll come across that doesn&amp;rsquo;t seem &lt;em&gt;safe&lt;/em&gt; is the spam that sometimes makes it to his inbox. And all that spam usually has one thing in common—garbledygook. The text is sometimes in a foreign language, or at best, a broken attempt at his primary language. The email address probably has hyphens and numbers. And the links (if there is a link) often have misspellings and unfamiliar TLDs.&lt;/p&gt;
-
-&lt;p&gt;So now imagine marketing your brand to John Smith. You could have a clean site with a clear business plan, but your non-.COM instantly registers as something out of the ordinary. Something potentially unsafe. And because John has been trained at his office for the last two decades to avoid anything remotely unfamiliar on the web (people are deathly afraid of getting hacked), he might not click.&lt;/p&gt;
-
-&lt;p&gt;Always remember that while more and more people are working tech jobs and building websites every day, &lt;a href=&#34;http://www.cheatsheet.com/business/millennials-are-more-scared-of-the-internet-than-their-grandparents.html/?a=viewall&#34;&gt;a big portion of the public still sees the internet as a dangerous place&lt;/a&gt; too often run by teenage wunderkinds. And with every new story that breaks about privacy concerns and data theft, that fear of the unknown grows.&lt;/p&gt;
-
-&lt;p&gt;With that said, people do gradually adapt to change. 15 years ago, buying something online with a credit card seemed like science fiction, and now we all have so many monthly subscriptions we can&amp;rsquo;t even keep up. What seems weird and dangerous today could be the societal norm by the end of the year, and everyone knows it.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-2&#34;&gt;Beware spam indicators&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-07-23-scary-rails.jpg&#34; alt=&#34;scary&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;As stated about, if your website looks like it could be spam, that&amp;rsquo;s not a good thing. Here&amp;rsquo;s what &lt;a href=&#34;https://moz.com/learn/seo/domain&#34;&gt;Moz&lt;/a&gt;, the popular SEO site, says:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;For best ranking results, avoid uncommon top-level domains (TLDs). Like hyphens, TLDs such as .info, .cc, .ws, and .name are spam indicators.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In addition to that short list, the new gTLDs have created so many new outlets for spammers to exploit (although it looks like the new gTLDs are still &lt;a href=&#34;http://domainincite.com/17447-phishers-prefer-free-cctlds-to-new-gtlds&#34;&gt;less commonly used than discount/free ccTLDs&lt;/a&gt;). My recommendation would be to avoid unnecessarily generic TLDs, like .COMPANY, .COUNTRY, and .WEBSITE. This isn&amp;rsquo;t a set rule though—as the .COM namespace gets more crowded, people will have to gravitate &lt;em&gt;somewhere&lt;/em&gt;. My guess is that they&amp;rsquo;ll gravitate towards the more specific options, but who knows.&lt;/p&gt;
-
-&lt;p&gt;Before you register a domain, I&amp;rsquo;d recommend doing a little search to see if the TLD you&amp;rsquo;re looking at is appearing on email block lists (like &lt;a href=&#34;http://vamsoft.com/forum/topic/597/existing-list-of-garbage-new-tlds&#34;&gt;this one&lt;/a&gt; I found while searching for &amp;ldquo;which tlds are spam indicators&amp;rdquo;). If you start noticing trends, that could be a bad sign.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-3&#34;&gt;Local ccTLDs and gTLDs can be good for business&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-07-23-restaurant.jpg&#34; alt=&#34;restaurant&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;By design, the internet is a global marketplace. No matter where your website is being hosted, anyone in the world can check out what you&amp;rsquo;re offering. But in many instances, people and businesses don&amp;rsquo;t need a global reach. Restaurants, regional banks, local politicians—these people and places are focused locally, and can often benefit from local TLDs.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://moz.com/learn/seo/cctlds&#34;&gt;Here&amp;rsquo;s what Moz has to say:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Important in international SEO, ccTLDs are the single strongest way to show search engines and users where the site originates. This means that, all things being equal, example.fr will likely rank better in a French user&amp;rsquo;s SERP than example.us or example.com&lt;/p&gt;
-
-&lt;p&gt;Note that Google Webmaster Tools will not let you geotarget a ccTLD because it is, by definition, already geotargeted.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Worrying about SEO might be a few steps beyond where your mind is, but thinking about where you&amp;rsquo;ll appear in search results early is the best way to make sure you&amp;rsquo;ll rank well later on. Let&amp;rsquo;s put it in human terms.&lt;/p&gt;
-
-&lt;p&gt;Say you have a restaurant named MUCH MEAT (all caps for emphasis) in Canada, but somewhere in the US there&amp;rsquo;s a slightly more popular restaurant with a very similar name using the .COM. Because of their popularity, their domain name would likely show up before yours in search results&amp;hellip;&lt;em&gt;unless&lt;/em&gt; you&amp;rsquo;re using the .CA ccTLD, which would give you a slight advantage when people are searching for you in Canada (&lt;a href=&#34;https://support.google.com/webmasters/answer/62399&#34;&gt;although you can target generic TLDs like .COM to specific places, too&lt;/a&gt;&amp;hellip;it&amp;rsquo;s just an extra step). Basically, if you&amp;rsquo;re not an international company, your local ccTLD is a wonderful option.&lt;/p&gt;
-
-&lt;p&gt;(&amp;hellip;Unless you live in the US. If you travel to just about any country on the planet, you&amp;rsquo;ll see tons of signs with ccTLDs. In Wellington, signs with .NZ and .CO.NZ might outnumber .COMs—but in the US, people don&amp;rsquo;t use .US at all. It&amp;rsquo;s just one of those quirks.)&lt;/p&gt;
-
-&lt;p&gt;The other advantage to using your local ccTLD is that the namespace is &lt;em&gt;much&lt;/em&gt; less crowded than .COM. &lt;a href=&#34;http://w3techs.com/technologies/overview/top_level_domain/all&#34;&gt;This chart&lt;/a&gt; shows 50.8% of all websites use .COM, while most other TLDs account for less than 0.1%. That&amp;rsquo;s a big popularity gap, which likely means prime names are still up for grabs.&lt;/p&gt;
-
-&lt;p&gt;And if the name you want &lt;em&gt;is&lt;/em&gt; taken in your local ccTLD namespace, there are a bunch of new TLDs coming out for specific cities. .BERLIN, .PARIS, .LONDON, .NYC—all are currently available, and their relative newness likely means you&amp;rsquo;ll be able to find the domain you&amp;rsquo;re looking for. Plus, if you&amp;rsquo;re only targeting people from the city you&amp;rsquo;re in, you&amp;rsquo;re looking at a nice potential SEO bump for being hyperlocal (although Google is currently treating city extensions as standard gTLDs).&lt;/p&gt;
-
-&lt;h3&gt;When going local goes wrong&lt;/h3&gt;
-
-&lt;p&gt;There are a few instances where trying to go local doesn&amp;rsquo;t actually mean the internet thinks you&amp;rsquo;re local. Here are a few hypotheticals.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The common initials for the state of Delaware are DE, but .DE is the ccTLD for Germany. Your customers might think it&amp;rsquo;s cool, but Google&amp;rsquo;s never going to geotarget you correctly.&lt;/li&gt;
-&lt;li&gt;Like Delaware, Sussex in England uses SX as their abbreviation, but .SX is the ccTLD for Sint Maarten.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The best rule to follow is to know what your TLD stands for before you register it (if it&amp;rsquo;s a ccTLD that Google considers generic, you&amp;rsquo;re fine).&lt;/p&gt;
-
-&lt;h2 id=&#34;section-4&#34;&gt;.IO and the TLDs for tech&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-07-23-tech.jpg&#34; alt=&#34;tech&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It all started with &lt;a href=&#34;https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html&#34;&gt;domain hacks&lt;/a&gt;. As .COM got more and more crowded, the rapidly growing startup scene had to go somewhere, but the where wasn&amp;rsquo;t so obvious—until the ever-so-creative founders started blending their company names and their domain names together. So started a trend where every new startup ended with &amp;ldquo;ly&amp;rdquo; while using the .LY ccTLD (here&amp;rsquo;s a great Pinterest board, aptly named &amp;ldquo;&lt;a href=&#34;Names That End in -ly&#34;&gt;Names That End in -ly&lt;/a&gt;&amp;rdquo;).&lt;/p&gt;
-
-&lt;p&gt;Somewhere along the way though, startups started moving to .IO en masse (&lt;a href=&#34;http://www.russellbeattie.com/blog/artisanal-websites-the-rise-of-io-domains-for-well-crafted-web-services&#34;&gt;here&amp;rsquo;s a great list of .IO domains in the wild&lt;/a&gt;, and another list of the &lt;a href=&#34;http://hack.ly/articles/the-most-popular-dot-io-domains-2015/&#34;&gt;1457 most popular .IO domains in existence&lt;/a&gt;). It had a lot going for it—I/O commonly stands for Input/Output, Io is a pretty awesome moon and is big in Greek mythology, and it makes for a pretty nice domain hack.&lt;/p&gt;
-
-&lt;p&gt;Also going for .IO was the fact that it&amp;rsquo;s on the list of ccTLDs Google treats as gTLDs because they&amp;rsquo;re so commonly used (g stands for generic). &lt;a href=&#34;https://support.google.com/webmasters/answer/1347922?hl=en&#34;&gt;Here&amp;rsquo;s the list:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;.ad, .as, .bz, .cc, .cd, .co, .dj, .fm, .io, .la, .me, .ms, .nu, .sc, .sr, .su, .tv, .tk, .ws, .eu, .asia&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;But with all the new gTLDs available today, startups and tech sites have more options than ever. .SOFTWARE, .TECHNOLOGY, .DIGITAL, .CODES, .CONSULTING, .BUILD—the list goes on and on and on. And my guess is that, like the rise of .LY and .IO, it&amp;rsquo;s only going to take a few big startups to start using the new gTLDs to get the whole train moving.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-5&#34;&gt;Are some TLDs better for reaching an international audience?&lt;/h2&gt;
-
-&lt;p&gt;If you’re in the process of starting a new website and want to go with a shorter domain extension than any of the new gTLDs (or .COM), there are a few nice options. As stated above, Google treats .ad, .as, .bz, .cc, .cd, .co, .dj, .fm, .io, .la, .me, .ms, .nu, .sc, .sr, .su, .tv, .tk, .ws, and .eu as generic, meaning you can &lt;a href=&#34;https://support.google.com/webmasters/answer/1347922?hl=en&#34;&gt;set a geographic target through Google Webmaster Tools&lt;/a&gt;, e.g. use a .co domain and be listed in search results in the United States, Canada or France although it is actually Colombia’s top-level domain. The same is true if you don’t want to target a specific country, i.e. have a .me domain for your personal online profile.&lt;/p&gt;
-
-&lt;p&gt;But which ones of these so-called gccTLDs (generic country code top-level domains) are the most popular and more likely to be recognized by visitors?Let’s take a look at Verisign’s &lt;a href=&#34;http://www.verisigninc.com/assets/domain-name-report-march2015.pdf&#34;&gt;latest domain industry brief&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-04-21-gcctld-chart.png&#34; alt=&#34;verisign graph&#34;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Some ccTLDs, including .tk, .co, .me and .tv are frequently used by registrants and treated by search engines as gTLDs. This chart ranks the zone size of both gTLDs and ccTLDs marketed as gTLDs, as of Dec. 31, 2014, with that classification taken into account. The top 10 largest gTLDs and ccTLDs marketed as gTLDs by zone size were .com, .tk, .net, .org, .info, .biz, .co, .mobi, .me and .tv, as of Dec. 31, 2014, which account for 180.6 million domain name registrations, or 62.8 percent of the total global domain name registrations.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So we have &lt;a href=&#34;https://iwantmyname.com/domains/tk-tokelauan-domain-name-registration-for-tokelau&#34;&gt;.TK&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu&#34;&gt;.TV&lt;/a&gt; as the most popular gccTLDs in that list. Not surprising, except .TK, which offers free domains—but with certain usage restrictions.&lt;/p&gt;
-
-&lt;p&gt;Other popular ones you may have seen are &lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt; for tech sites (which is &lt;a href=&#34;http://hack.ly/articles/the-most-popular-dot-io-domains-2015/&#34;&gt;still on the rise&lt;/a&gt;), &lt;a href=&#34;https://iwantmyname.com/domains/fm-domain-name-registration-for-federated-states-of-micronesia&#34;&gt;.FM&lt;/a&gt; for music websites, &lt;a href=&#34;https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands&#34;&gt;.CC&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/ws-samoan-domain-name-registration-for-western-samoa&#34;&gt;.WS&lt;/a&gt; for general use, as well as &lt;a href=&#34;https://iwantmyname.com/domains/nu-domain-name-registration-for-niue&#34;&gt;.NU&lt;/a&gt; (popular in Scandinavian countries).&lt;/p&gt;
-
-&lt;p&gt;Lesser known gccTLDs, but often registered for &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html&#34;&gt;domain hacks&lt;/a&gt; because they don’t require any special documentation or local address in the country, are the &lt;a href=&#34;https://iwantmyname.com/domains/la-lao-domain-name-registration-for-laos&#34;&gt;.LA&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat&#34;&gt;.MS&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/ms-domain-name-registration-for-montserrat&#34;&gt;.SC&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/as-samoan-domain-name-registration-for-american-samoa&#34;&gt;.AS&lt;/a&gt;, and &lt;a href=&#34;https://iwantmyname.com/domains/bz-belizean-domain-name-registration-for-belize&#34;&gt;.BZ&lt;/a&gt; suffixes.&lt;/p&gt;
-
-&lt;p&gt;That leaves us with the remaining geo-targetable domain extensions from Google’s list: .AD, .CD, .DJ, .SR, and .SU. Unfortunately, we don&amp;rsquo;t carry these domains because they&amp;rsquo;re not easy to purchase and maintain, so you&amp;rsquo;d have to choose another registrar (our friends at &lt;a href=&#34;https://domainr.com&#34;&gt;Domainr&lt;/a&gt; may be able to help with that.)&lt;/p&gt;
-
-&lt;h2 id=&#34;section-6&#34;&gt;Is it ok to use a new gTLD?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-07-23-pizza-menu.jpg&#34; alt=&#34;pizza menu&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the biggest question of the day. As I stated at the beginning of this post, for many people, .COM &lt;em&gt;is&lt;/em&gt; the internet, and that&amp;rsquo;s a hard nut to crack. So when the new gTLDs launched, many thought the assumed SEO bump would kickstart the system. But not so fast. Here&amp;rsquo;s a short post from &lt;a href=&#34;https://plus.google.com/+MattCutts/posts/4VaWg4TMM5F&#34;&gt;Matt Cutts:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I read a post by someone offering new top-level domain (TLDs). They made this claim: &amp;ldquo;Will a new TLD web address automatically be favoured by Google over a .com equivalent? Quite simply, yes it will.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Sorry, but that&amp;rsquo;s just not true, and as an engineer in the search quality team at Google, I feel the need to debunk this misconception. Google has a lot of experience in returning relevant web pages, regardless of the top-level domain (TLD). Google will attempt to rank new TLDs appropriately, but I don&amp;rsquo;t expect a new TLD to get any kind of initial preference over .com, and I wouldn&amp;rsquo;t bet on that happening in the long-term either. If you want to register an entirely new TLD for other reasons, that&amp;rsquo;s your choice, but you shouldn&amp;rsquo;t register a TLD in the mistaken belief that you&amp;rsquo;ll get some sort of boost in search engine rankings.﻿&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(And if that&amp;rsquo;s not enough, &lt;a href=&#34;http://googlewebmastercentral.blogspot.fr/2015/07/googles-handling-of-new-top-level.html&#34;&gt;here&amp;rsquo;s another, more recent, Google comment on the subject.&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;So aside from being potentially confusing and not providing any sort of built-in SEO advantage, the reason I (and others) like the new gTLDs so much is because they &lt;em&gt;just make sense&lt;/em&gt;. Here&amp;rsquo;s a good bit by &lt;a href=&#34;http://thenextweb.com/entrepreneur/2015/06/14/how-to-name-your-startup/&#34;&gt;Karn Jajoo for The Next Web&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A new TLD is often just a natural fit: take the example of ‘Lily’, the world’s first self-flying camera drone. ‘Lily’ could refer to the flowering plant, a common first name, or a small town, and its .com is registered by Lily Transportation Corp. Therefore, the Menlo Park robotics startup behind this drone used a simple, elegant domain to disambiguate its product – lily.camera.&lt;/p&gt;
-
-&lt;p&gt;Ever heard of the case of Nissan computer vs. Nissan motors? Uzi Nissan, a reseller of computer hardware and peripherals, registered Nissan.com on June 4, 1994.&lt;/p&gt;
-
-&lt;p&gt;Five years later, the Nissan Motor Corporation (which was called Datsun in the late 1970s) filed a $10 million lawsuit against Nissan Computer claiming cyber-squatting, trademark infringement and trademark dilution.&lt;/p&gt;
-
-&lt;p&gt;Perhaps if new TLDs had existed back then, Nissan.computer and Nissan.auto would have solved this contention without the lengthy legal dispute that has allegedly already cost Mr. Uzi $2.2 million in legal fees.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In addition to providing endless new namespaces for people to register short, memorable domain names, the new gTLDs act as a natural category structure for the web. In a perfect world where people like myself didn&amp;rsquo;t register .PIZZA domains for everything, you could theoretically know what the site you&amp;rsquo;re about to click on is all about, just from its TLD. And that&amp;rsquo;s cool.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-7&#34;&gt;Does your TLD really matter?&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;/media/2015-07-23-telescope.jpg&#34; alt=&#34;discovery&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;From Pando Daily, in an article titled &lt;a href=&#34;http://pando.com/2014/10/09/whats-in-a-name-the-fading-tyranny-of-dot-com/&#34;&gt;“What’s In A Name? The fading tyranny of dot com”&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;For someone like Michael Heyward, who co-founded anonymous social networking app Whisper in 2012, as a mobile first company, he says, there was not an ounce of trepidation at not having the Whisper.com domain name. (Whisper.com itself is a junk address, filled with spam links.)&lt;/p&gt;
-
-&lt;p&gt;Heyward says that 99 percent of Whisper’s exposure comes from its app. The company has a Whisper.sh landing page, to showcase popular posts from the app and publish legal and company information.&lt;/p&gt;
-
-&lt;p&gt;In 2014, Americans spend more time in apps than they do using the Internet on desktop. With social media sites becoming a greater engine for content discovery, new sites such as Quartz are popping up that don’t really even have an official homepage.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Think about that. For the foreseeable future, we&amp;rsquo;ll all need domain names to run our platforms and blogs, but discovery is changing &lt;em&gt;fast&lt;/em&gt;. Really fast. On a given day, almost all the content I personally read online comes from links on content aggregators like Techmeme and Hacker News, or social platforms like Facebook and Twitter. And because I trust the sources I&amp;rsquo;m finding sites and articles with, the domain itself doesn&amp;rsquo;t matter. It could be &amp;ldquo;ten words long dot anything&amp;rdquo; and I likely wouldn&amp;rsquo;t know the difference.&lt;/p&gt;
-
-&lt;p&gt;Putting on my future hat, my advice would be to find the TLD that &lt;em&gt;you&amp;rsquo;re&lt;/em&gt; most comfortable with and go with it. .COM, .IO, .LIMO—no matter what it is, if you commit to it, you&amp;rsquo;ll probably be fine.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Photo credits:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;(header): &lt;a href=&#34;https://www.flickr.com/photos/stijlfoto/18974847222/in/photolist-uUK41j-6HLQcm-bvSMX6-6mYJDg-aAja77-4Qze8a-pS676-4rdKd2-3qRKWF-8M8NCJ-az8Xvt-cVGU-4hnENR-2Kx3Sk-JKL6s-2APAPe-5f3dQQ-5WmyyA-raDzoM-JKFcw-nBGwTX-5cJfyN-4Uy7Vn-5Q5F66-6MR8Lq-adazQA-9nNSP5-6mYJAt-oTt9c8-4qbcmN-mig52v-sWYA85-dcTeB-vozpP-rtnuB4-GbY6Y-dutmdM-4QDq8U-5Sqz9E-5Ukkoh-rg1UgP-dExGt-8BqeA2-sgKZs-5TZyJM-84UZ22-6tHL2w-6KkJLY-6mdgwq-6mdgCm&#34;&gt;Jan Willem van Wessel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(Big Kahuna mural): &lt;a href=&#34;https://www.flickr.com/photos/wallyg/8779127308/in/photolist-enMjFW-kNjgs-encFka-5o77AJ-5o2SbD-pUgsbW-pUun9K-6dCCeT-dXfYeF-6imprQ-9iVMh3-o1mSA-njhUi-8hqVus-8hnEoB-8hnCQH-8hqTAS-3K6VGH-8cJd5d-njhP5-bs9hsM-4d28TU-3PthMM-9iSDLg-68nBPx-jjVqJ-5vGTTn-4F63hu-9iVLXC-9iSE3p-9iVLEu-3PxvuG-re9K2A-6rrofP-3EM2Hj-8Dkmmz-6Tn28u-9CqKLb-9YN2A1-6JijYX-4F64bh-ceAgaS-bXdTZB-ceAfZj-bXdTpX-ceAgKo-bXdSTg-ceAfyq-brS5Dk-fZCq8t&#34;&gt;Wally Gobetz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;Questions? Comments?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/iwantmyname/posts/10155815306170471&#34;&gt;Say something on Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/iwantmyname/status/625731469676163072&#34;&gt;Tweet us a reply&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;Send us a message&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Thu, 23 Jul 2015 11:33:26 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/06/how-to-pick-the-right-domain-extension.html</link>
-				
-				<guid isPermaLink="false">/2015/06/how-to-pick-the-right-domain-extension.html</guid>
 			</item>
 		
 	</channel>
