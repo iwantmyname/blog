@@ -6,6 +6,27 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>2G Tuesdays</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.businessinsider.com/facebook-2g-tuesdays-to-slow-employee-internet-speeds-down-2015-10?op=1&#34;&gt;Jillian D&amp;rsquo;Onfro on Facebook handling its &amp;ldquo;empathy gap&amp;rdquo;:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Facebook is launching a new initiative called &amp;ldquo;2G Tuesdays&amp;rdquo; that will give all employees an opportunity to see what using the app with an incredibly slow connection feels like and help close the &amp;ldquo;empathy gap&amp;rdquo; between Silicon Valley and emerging markets.&lt;/p&gt;
+
+&lt;p&gt;For most people, the stark differences will likely be jarring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to dream up interfaces that take advantage of blinding connection speeds, but businesses trying to reach global audiences need to do a much better job serving the other end of the spectrum. Even here at iwantmyname, our site is relatively minimal, but searching for a domain with a less-than-optimal connection can be grueling.&lt;/p&gt;
+
+&lt;p&gt;Along with responsive interfaces and top-shelf security, speed should be a main priority when building on the web. (&lt;a href=&#34;http://www.sitepoint.com/average-page-weight-increases-15-2014/&#34;&gt;Your 2Mb page weight&lt;/a&gt; just isn&amp;rsquo;t working for a lot of people.)&lt;/p&gt;
+</description>
+				<pubDate>Tue, 27 Oct 2015 11:05:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/twog-tuesdays.html</link>
+				
+				<guid isPermaLink="false">/2015/10/twog-tuesdays.html</guid>
+			</item>
+		
+			<item>
 				<title>Getting the internet to the underdeveloped world without drones or high-altitude balloons</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html&#34;&gt;Kris De Decker on how to build a low-tech internet:&lt;/a&gt;&lt;/p&gt;
 
@@ -31,7 +52,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;For the past few months, a “very large fraction” of the millions of queries a second that people type into the company’s search engine have been interpreted by an artificial intelligence system, nicknamed RankBrain, said Greg Corrado, a senior research scientist with the company, outlining for the first time the emerging role of AI in search.&lt;/p&gt;
 
-&lt;p&gt;RankBrain uses artificial intelligence to embed vast amounts of written language into mathematical entities &amp;mdash; called vectors &amp;mdash; that the computer can understand. If RankBrain sees a word or phrase it isn’t familiar with, the machine can make a guess as to what words or phrases might have a similar meaning and filter the result accordingly, making it more effective at handling never-before-seen search queries.&lt;/p&gt;
+&lt;p&gt;RankBrain uses artificial intelligence to embed vast amounts of written language into mathematical entities -- called vectors -- that the computer can understand. If RankBrain sees a word or phrase it isn’t familiar with, the machine can make a guess as to what words or phrases might have a similar meaning and filter the result accordingly, making it more effective at handling never-before-seen search queries.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Back in the day I spent a lot of time thinking about SEO. I poured over SEO blogs, asked for advice on how I can improve my search results, and did everything in my power to game the (people-powered) Google system. But it&amp;rsquo;s 2015. The computers are taking over. All that matters now is making sites that perform their intended task with the least resistance possible.&lt;/p&gt;
@@ -341,7 +362,7 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.businessinsider.com/robert-scoble-why-im-still-betting-my-future-on-google-2011-9&#34;&gt;From Robert Scoble, circa 2011:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;How do you best capture the EMOTION of your time? Blogging? Not for me anymore. Tweeting? Not for me anymore (I will continue being there, mostly to let people who won&amp;rsquo;t leave that system know what I&amp;rsquo;m doing and where I&amp;rsquo;m doing it &amp;mdash; it has turned into a UI for my Facebook and Google behaviors). Facebooking? Yes. I&amp;rsquo;m still there and will be for forseeable future at &lt;a href=&#34;http://facebook.com/robertscoble&#34;&gt;http://facebook.com/robertscoble&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How do you best capture the EMOTION of your time? Blogging? Not for me anymore. Tweeting? Not for me anymore (I will continue being there, mostly to let people who won&amp;rsquo;t leave that system know what I&amp;rsquo;m doing and where I&amp;rsquo;m doing it -- it has turned into a UI for my Facebook and Google behaviors). Facebooking? Yes. I&amp;rsquo;m still there and will be for forseeable future at &lt;a href=&#34;http://facebook.com/robertscoble&#34;&gt;http://facebook.com/robertscoble&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;But my hub is Google+.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -590,7 +611,7 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 
 &lt;p&gt;As the name suggests, &lt;a href=&#34;https://agilebits.com/onepassword&#34;&gt;1Password&lt;/a&gt; is a tool that acts as a vault for all your passwords, secured by a single password of your creation. Basically, using a browser extension (available for Safari, Firefox, Chrome, and Opera), app, or smartphone app, you can open your vault with your master password and have instant access to all the passwords you&amp;rsquo;ve created, on any device you happen to be using.&lt;/p&gt;
 
-&lt;p&gt;Here&amp;rsquo;s a little excerpt from an extremely in-depth piece by the Sweet Setup, titled &amp;ldquo;&lt;a href=&#34;http://thesweetsetup.com/apps/best-password-manager-and-why-you-need-one/&#34;&gt;The best password manager (and why you need one) &amp;ndash; 1Password&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a little excerpt from an extremely in-depth piece by the Sweet Setup, titled &amp;ldquo;&lt;a href=&#34;http://thesweetsetup.com/apps/best-password-manager-and-why-you-need-one/&#34;&gt;The best password manager (and why you need one) - 1Password&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;In short, 1Password is the best app for managing your passwords because it does the best job of taking hold of our slippery digital identity, all the myriad digital bits of ourselves we use to prove who we are, and helps ease the friction of our travels through the digital world.&lt;/p&gt;
@@ -952,9 +973,9 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;Word Separators &amp;ndash; Avoid hyphens. Hyphens detract from credibility and can act as a spam indicator.&lt;/li&gt;
-&lt;li&gt;Top-Level Domain (TLD) &amp;ndash; Top-level domains (like .com) are the extensions associated with domain names. For best ranking results, avoid uncommon top-level domains (TLDs). Like hyphens, TLDs such as .info, .cc, .ws, and .name are spam indicators.&lt;/li&gt;
-&lt;li&gt;Length &amp;ndash; Avoid domain names longer than 15 characters. Short domain names are easier to remember, easier to share, and have a smaller chance of resulting in typos.&lt;/li&gt;
+&lt;li&gt;Word Separators - Avoid hyphens. Hyphens detract from credibility and can act as a spam indicator.&lt;/li&gt;
+&lt;li&gt;Top-Level Domain (TLD) - Top-level domains (like .com) are the extensions associated with domain names. For best ranking results, avoid uncommon top-level domains (TLDs). Like hyphens, TLDs such as .info, .cc, .ws, and .name are spam indicators.&lt;/li&gt;
+&lt;li&gt;Length - Avoid domain names longer than 15 characters. Short domain names are easier to remember, easier to share, and have a smaller chance of resulting in typos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
@@ -1351,9 +1372,9 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a rundown of all the types of TLDs we offer, broken into easy categories (or, just take a look at &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;all of them on a single page&lt;/a&gt;):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;gTLDs (generic top-level domains) &amp;ndash; The basic definition of a gTLD is any domain extension that doesn&amp;rsquo;t represent a country or territory. .COM is a gTLD that stands for commercial. .NET stands for network. .ORG stands for organization. (Don&amp;rsquo;t get hung up on &amp;ldquo;original intent&amp;rdquo; though. You can use .NET, .ORG, .COM, or any of our other TLDs for any type of business you want you want.)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;The new gTLDs&lt;/a&gt; (often called nTLDs, or new TLDs) &amp;ndash; Just recently, the internet was flooded with hundreds of new gTLDs (like .PIZZA, .DESIGN, and .PHOTOS) in an effort to alleviate some of the overcrowding issues .COM is having. So now, instead of calling your catering company YOURBRANDcatering.COM, you could go with YOURBRAND.CATERING.&lt;/li&gt;
-&lt;li&gt;ccTLDs (country code top-level domains) &amp;ndash; Unlike .COM, ccTLDs are assigned to countries. For example, New Zealand uses .NZ, Spain uses .ES, and Canada uses .CA. So if you&amp;rsquo;re running a restaurant in Belgium, you could use your local .BE ccTLD instead of the more global .COM, giving you a less crowded namespace to work with, and potentially a more local feel. You don&amp;rsquo;t necessarily have to be from the country to use its ccTLD either (we&amp;rsquo;ll let you know if there are any weird registration quirks involved)—.CO and .IO (Columbia and Indian Ocean Territories, respectively) are so commonly used, they&amp;rsquo;re often considered gTLDs.&lt;/li&gt;
+&lt;li&gt;gTLDs (generic top-level domains) - The basic definition of a gTLD is any domain extension that doesn&amp;rsquo;t represent a country or territory. .COM is a gTLD that stands for commercial. .NET stands for network. .ORG stands for organization. (Don&amp;rsquo;t get hung up on &amp;ldquo;original intent&amp;rdquo; though. You can use .NET, .ORG, .COM, or any of our other TLDs for any type of business you want you want.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;The new gTLDs&lt;/a&gt; (often called nTLDs, or new TLDs) - Just recently, the internet was flooded with hundreds of new gTLDs (like .PIZZA, .DESIGN, and .PHOTOS) in an effort to alleviate some of the overcrowding issues .COM is having. So now, instead of calling your catering company YOURBRANDcatering.COM, you could go with YOURBRAND.CATERING.&lt;/li&gt;
+&lt;li&gt;ccTLDs (country code top-level domains) - Unlike .COM, ccTLDs are assigned to countries. For example, New Zealand uses .NZ, Spain uses .ES, and Canada uses .CA. So if you&amp;rsquo;re running a restaurant in Belgium, you could use your local .BE ccTLD instead of the more global .COM, giving you a less crowded namespace to work with, and potentially a more local feel. You don&amp;rsquo;t necessarily have to be from the country to use its ccTLD either (we&amp;rsquo;ll let you know if there are any weird registration quirks involved)—.CO and .IO (Columbia and Indian Ocean Territories, respectively) are so commonly used, they&amp;rsquo;re often considered gTLDs.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Once you have an idea of the name you want, head over to &lt;a href=&#34;https://iwantmyname.com&#34;&gt;iwantmyname.com&lt;/a&gt; and type the domain into the big search box in the middle of the page (then hit enter, or click the big button).&lt;/p&gt;
@@ -1399,10 +1420,10 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 &lt;p&gt;Now that you&amp;rsquo;ve registered your first domain and added all your privacy settings, it&amp;rsquo;s time to start actually using it. But before we get into &lt;em&gt;how&lt;/em&gt; to set things up, let&amp;rsquo;s take a look at what kinds of easy things you can do with your domain:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Start a website &amp;ndash; Probably the most common thing you can do with a domain is start a website. And these days, with amazing platforms like Squarespace, Big Cartel, and Tumblr, anyone can start a blog, e-commerce site, gallery page, online portfolio, forum, etc., etc. without knowing an ounce of code.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html&#34;&gt;Get a custom email address&lt;/a&gt; &amp;ndash; Ever see someone with an email address that doesn&amp;rsquo;t end in @gmail.com, @me.com, @hotmail.com, etc.? That was set up with a using a domain name like the one you just registered.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/11/three-steps-to-get-the-most-from-your-custom-short-url-using-bitly-and-buffer.html&#34;&gt;Shorten your links&lt;/a&gt; &amp;ndash; When you post a link to Twitter (or some other social platforms), it&amp;rsquo;s automatically shortened to give you more characters to work with. If you want to brand that link shortening though (we&amp;rsquo;re using iwnt.me), you can get a short domain name and use it with a link shortening service like Bitly.&lt;/li&gt;
-&lt;li&gt;Host a podcast? Start a forum? &amp;ndash; If you can think of it, there&amp;rsquo;s probably a platform or service out there to get you started.&lt;/li&gt;
+&lt;li&gt;Start a website - Probably the most common thing you can do with a domain is start a website. And these days, with amazing platforms like Squarespace, Big Cartel, and Tumblr, anyone can start a blog, e-commerce site, gallery page, online portfolio, forum, etc., etc. without knowing an ounce of code.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/09/how-to-get-a-custom-email-address.html&#34;&gt;Get a custom email address&lt;/a&gt; - Ever see someone with an email address that doesn&amp;rsquo;t end in @gmail.com, @me.com, @hotmail.com, etc.? That was set up with a using a domain name like the one you just registered.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2013/11/three-steps-to-get-the-most-from-your-custom-short-url-using-bitly-and-buffer.html&#34;&gt;Shorten your links&lt;/a&gt; - When you post a link to Twitter (or some other social platforms), it&amp;rsquo;s automatically shortened to give you more characters to work with. If you want to brand that link shortening though (we&amp;rsquo;re using iwnt.me), you can get a short domain name and use it with a link shortening service like Bitly.&lt;/li&gt;
+&lt;li&gt;Host a podcast? Start a forum? - If you can think of it, there&amp;rsquo;s probably a platform or service out there to get you started.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;No matter what you&amp;rsquo;re looking to accomplish, our recommendation is to start your search in our &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;Marketplace&lt;/a&gt;.&lt;/p&gt;
@@ -1431,7 +1452,7 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;*Useful tip &amp;ndash; if your domain was transferred to iwantmyname from a different registrar, you&amp;rsquo;ll probably have to change your nameservers to iwantmyname (our instant setups won&amp;rsquo;t work otherwise). To set that up, click &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Update Nameservers&lt;/strong&gt;, then choose iwantmyname in the dropdown menu. And don&amp;rsquo;t forget to click the &lt;strong&gt;Update Nameservers&lt;/strong&gt; button!*&lt;/p&gt;
+&lt;p&gt;*Useful tip - if your domain was transferred to iwantmyname from a different registrar, you&amp;rsquo;ll probably have to change your nameservers to iwantmyname (our instant setups won&amp;rsquo;t work otherwise). To set that up, click &lt;strong&gt;Manage DNS&lt;/strong&gt; in the dropdown under &lt;strong&gt;Setup&lt;/strong&gt; in the top nav, then click &lt;strong&gt;Update Nameservers&lt;/strong&gt;, then choose iwantmyname in the dropdown menu. And don&amp;rsquo;t forget to click the &lt;strong&gt;Update Nameservers&lt;/strong&gt; button!*&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -2034,7 +2055,7 @@ ridelayshocklimo.com = not as good&lt;/p&gt;
 &lt;!-- /excerpt --&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Contacting a registrant &amp;ndash; WHOIS lookup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Contacting a registrant - WHOIS lookup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Registrant email address considerations&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Registrant is unreachable&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Domain brokerage&lt;/a&gt;&lt;/li&gt;
@@ -2261,7 +2282,7 @@ great, we&amp;rsquo;ve dug a bit deeper to help out our neighbours in their time
 		
 			<item>
 				<title>Trustworthiness as a factor in Google rankings</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html#.VPSuQUIylBW&#34;&gt;From Hal Hodson &amp;ndash; New Scientist:&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.newscientist.com/article/mg22530102.600-google-wants-to-rank-websites-based-on-facts-not-links.html#.VPSuQUIylBW&#34;&gt;From Hal Hodson - New Scientist:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A Google research team is adapting that model to measure the trustworthiness of a page, rather than its reputation across the web. Instead of counting incoming links, the system – which is not yet live – counts the number of incorrect facts within a page. &amp;ldquo;A source that has few false facts is considered to be trustworthy,&amp;rdquo; says the team (arxiv.org/abs/1502.03519v1). The score they compute for each page is its Knowledge-Based Trust score.&lt;/p&gt;
@@ -2280,7 +2301,7 @@ great, we&amp;rsquo;ve dug a bit deeper to help out our neighbours in their time
 		
 			<item>
 				<title>Leonard Nimoy&#39;s final tweet</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2015/2/27/8121021/leonard-nimoy-spock-live-long-and-prosper&#34;&gt;From Bryan Bishop &amp;ndash; The Verge:&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2015/2/27/8121021/leonard-nimoy-spock-live-long-and-prosper&#34;&gt;From Bryan Bishop - The Verge:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Of course, it should go without saying that the sense of someone we get from their acting and public appearances often bears little resemblance to who they actually are. But what is undeniable is the emotional impact their work has on us. And for the millions of people, like myself, that grew up with Leonard Nimoy, those are the memories that we will carry with us throughout our lives.&lt;/p&gt;
@@ -2331,11 +2352,11 @@ great, we&amp;rsquo;ve dug a bit deeper to help out our neighbours in their time
 &lt;p&gt;(Excluding shows that don&amp;rsquo;t have their own sites due to being on larger networks, like Invisibilia with &lt;a href=&#34;http://www.npr.org/programs/invisibilia/.&#34;&gt;http://www.npr.org/programs/invisibilia/.&lt;/a&gt;)&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34;&gt;.COM&lt;/a&gt; &amp;ndash; freakonomics.com, missedinhistory.com, stuffyoushouldknow.com, lightroomkillertips.com, wtfpod.com, dancarlin.com, commonplacebooks.com, thisiscriminal.com, fourhourworkweek.com, daveramsey.com, nerdist.com, thetruthpodcast.com, smartpassiveincome.com, adamcarolla.com, sciencefriday.com, billburr.com&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/org-domain-name-registration-for-organisation&#34;&gt;.ORG&lt;/a&gt; &amp;ndash; serialpodcast.org, thisamericanlife.org, radiolab.org, themoth.org, howtodoeverything.org, 99percentinvisible.org, onbeing.org&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/net-domain-name-registration-for-network&#34;&gt;.NET&lt;/a&gt; &amp;ndash; podcasts.joerogan.net, startalkradio.net&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; &amp;ndash; howtostartastartup.co&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/info-domain-name-registration-for-information&#34;&gt;.INFO&lt;/a&gt; &amp;ndash; everydayfinance.info&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34;&gt;.COM&lt;/a&gt; - freakonomics.com, missedinhistory.com, stuffyoushouldknow.com, lightroomkillertips.com, wtfpod.com, dancarlin.com, commonplacebooks.com, thisiscriminal.com, fourhourworkweek.com, daveramsey.com, nerdist.com, thetruthpodcast.com, smartpassiveincome.com, adamcarolla.com, sciencefriday.com, billburr.com&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/org-domain-name-registration-for-organisation&#34;&gt;.ORG&lt;/a&gt; - serialpodcast.org, thisamericanlife.org, radiolab.org, themoth.org, howtodoeverything.org, 99percentinvisible.org, onbeing.org&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/net-domain-name-registration-for-network&#34;&gt;.NET&lt;/a&gt; - podcasts.joerogan.net, startalkradio.net&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/co-colombian-domain-name-registration-for-colombia&#34;&gt;.CO&lt;/a&gt; - howtostartastartup.co&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/info-domain-name-registration-for-information&#34;&gt;.INFO&lt;/a&gt; - everydayfinance.info&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;What&amp;rsquo;s interesting about podcasts is that although they&amp;rsquo;re seen as a fairly new phenomenon, they&amp;rsquo;ve been around for quite some time now, and many of the most popular shows are linked to either &amp;ldquo;old-school media&amp;rdquo; (NPR/various TV networks) or sites that represent established non-podcast entities (like Freakonomics Radio, which started as a book, and The Moth, which organizes live storytelling events). Given the abundance of pre-internet roots, it doesn&amp;rsquo;t surprise me to see so many .COMs, .ORGs, and .NETs.&lt;/p&gt;
@@ -2770,7 +2791,7 @@ location ^~ /blog/ {
 &lt;p&gt;Based on this experience and the following &lt;a href=&#34;http://moz.com/community/q/moz-s-official-stance-on-subdomain-vs-subfolder-does-it-need-updating#reply_217479&#34;&gt;recommendation from Moz’s Rand Fishkin&lt;/a&gt;, we decided it would be better for our long-term SEO strategy to put our blog back on our primary domain:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I would still strongly urge folks to keep all content on a single subdomain. We recently were able to test this using a subdomain on Moz itself (when moving our beginner&amp;rsquo;s guide to SEO from guides.moz.com to the current URL &lt;a href=&#34;http://moz.com/beginners-guide-to-seo&#34;&gt;http://moz.com/beginners-guide-to-seo&lt;/a&gt;). The results were astounding &amp;ndash; rankings rose dramatically across the board for every keyword we tracked to the pages.&lt;/p&gt;
+&lt;p&gt;I would still strongly urge folks to keep all content on a single subdomain. We recently were able to test this using a subdomain on Moz itself (when moving our beginner&amp;rsquo;s guide to SEO from guides.moz.com to the current URL &lt;a href=&#34;http://moz.com/beginners-guide-to-seo&#34;&gt;http://moz.com/beginners-guide-to-seo&lt;/a&gt;). The results were astounding - rankings rose dramatically across the board for every keyword we tracked to the pages.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;We will certainly keep a close eye on traffic for the next few months and keep you updated. Hope this helps some of you when deciding on the age-old debate of whether you should have your blog on a subdomain or not!&lt;/p&gt;
@@ -2914,11 +2935,11 @@ location ^~ /blog/ {
 &lt;p&gt;Current popularity isn&amp;rsquo;t necessarily indicative of future success, but it is a good place to start. Here are the total registration stats (up to the time of writing) according to &lt;a href=&#34;http://ntldstats.com&#34;&gt;ntldstats.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;.photography &amp;ndash; 49,651&lt;/li&gt;
-&lt;li&gt;.photos &amp;ndash; 16,820&lt;/li&gt;
-&lt;li&gt;.photo &amp;ndash; 11,988&lt;/li&gt;
-&lt;li&gt;.pics &amp;ndash; 6,017&lt;/li&gt;
-&lt;li&gt;.pictures &amp;ndash; 4,241&lt;/li&gt;
+&lt;li&gt;.photography - 49,651&lt;/li&gt;
+&lt;li&gt;.photos - 16,820&lt;/li&gt;
+&lt;li&gt;.photo - 11,988&lt;/li&gt;
+&lt;li&gt;.pics - 6,017&lt;/li&gt;
+&lt;li&gt;.pictures - 4,241&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;.Photography is clearly in the lead, but the gTLD program is still in its first year, so there&amp;rsquo;s plenty of time for the other extensions to catch up.&lt;/p&gt;
@@ -2930,11 +2951,11 @@ location ^~ /blog/ {
 &lt;p&gt;Let&amp;rsquo;s pretend for a bit that I&amp;rsquo;m a picture-taker looking for maximum exposure. Like many people trying to brand themselves, I want my brand to be Chris Hall [INSERT PHOTO TLD], which would give me chrishall.TLD. Using Google&amp;rsquo;s Keyword Planner, here are the worldwide search stats for each of the gTLDs as keywords.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;photography &amp;ndash; 368,000 monthly searches&lt;/li&gt;
-&lt;li&gt;photos &amp;ndash; 450,000 monthly searches&lt;/li&gt;
-&lt;li&gt;photo &amp;ndash; 823,000 monthly searches&lt;/li&gt;
-&lt;li&gt;pics &amp;ndash; 201,000 monthly searches&lt;/li&gt;
-&lt;li&gt;pictures &amp;ndash; 673,000 monthly searches&lt;/li&gt;
+&lt;li&gt;photography - 368,000 monthly searches&lt;/li&gt;
+&lt;li&gt;photos - 450,000 monthly searches&lt;/li&gt;
+&lt;li&gt;photo - 823,000 monthly searches&lt;/li&gt;
+&lt;li&gt;pics - 201,000 monthly searches&lt;/li&gt;
+&lt;li&gt;pictures - 673,000 monthly searches&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Photo wins this battle by a longshot, but keep in mind that this would be for a worldwide audience. If you&amp;rsquo;re just doing photography in the US, you&amp;rsquo;d want to modify the search for that audience (pictures is the winner).&lt;/p&gt;
@@ -3237,8 +3258,8 @@ location ^~ /blog/ {
 &lt;p&gt;Bali, in case you don&amp;rsquo;t know, is a little tropical island east of Jakarta in Indonesia. You&amp;rsquo;ve likely heard of it, but unless you live in the region you probably don&amp;rsquo;t have a grasp of how dense its cities are. Here&amp;rsquo;s a quick comparison:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Bali &amp;ndash; 5,780 km2 &amp;ndash; 4,225,384 people&lt;/li&gt;
-&lt;li&gt;New Zealand &amp;ndash; 268,021 km2 &amp;ndash; 4,537,081 people&lt;/li&gt;
+&lt;li&gt;Bali - 5,780 km2 - 4,225,384 people&lt;/li&gt;
+&lt;li&gt;New Zealand - 268,021 km2 - 4,537,081 people&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;So in a fraction of the land area, Bali fits in basically the same amount of people as all of New Zealand. And you can tell right away, from the moment you race out of the airport. Sure, there are vast stretches of jungle and open space, but the cities we were in—Denpasar and Ubud—are decidedly urban. Everything is packed in tight, and just a few steps in any direction are cafes, art shops, clothing stores, spas, and markets. And the roads are filled with a type of traffic I&amp;rsquo;d never seen before—lanes are really just guidelines, a coordination of emergency blinkers and honks replace traditional turn signal use, and every inch of free road is filled by daring scooter drivers. For the uninitiated, driving in Bali is complete chaos (just don&amp;rsquo;t do it), but with a cab or driver, it&amp;rsquo;s really quite amazing.&lt;/p&gt;
@@ -3354,7 +3375,7 @@ location ^~ /blog/ {
 
 &lt;p&gt;But of course, from the other side, the more information a company or individual has, the more there is to analyze and target. It also implies a stronger interest in the product or service. Gotta fill out those customer profiles, see where the low-hanging fruit and high-growth verticals are.&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s a lot easier to develop trust than to rebuild it, though. So it&amp;rsquo;s wise to start slowly when getting to know an audience, and work your way up. It&amp;rsquo;s no different than meeting people in person. We start out with small talk and introductions &amp;mdash; your name, perhaps what you do, and how you know the host of the party or are tied to the group putting on the event.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a lot easier to develop trust than to rebuild it, though. So it&amp;rsquo;s wise to start slowly when getting to know an audience, and work your way up. It&amp;rsquo;s no different than meeting people in person. We start out with small talk and introductions -- your name, perhaps what you do, and how you know the host of the party or are tied to the group putting on the event.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s a bit awkward and uncomfortable if someone you just met launches into the TMI (too much information), like their unemployment or health woes, very personal interests, or starts asking excessively personal questions of you. It makes you more inclined to cut bait and flee and to dive into conversation and relationship-building.&lt;/p&gt;
 
@@ -3466,7 +3487,7 @@ location ^~ /blog/ {
 &lt;p&gt;Here&amp;rsquo;s their pitch:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it &amp;ndash; videos, images, text, urls and more &amp;ndash; and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you&amp;rsquo;re looking at right now. Its next one could be yours.&lt;/p&gt;
+&lt;p&gt;This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you&amp;rsquo;re looking at right now. Its next one could be yours.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Pretty impressive stuff! Needless to say, I&amp;rsquo;m now Founding Member #1173.&lt;/p&gt;
@@ -3561,16 +3582,16 @@ location ^~ /blog/ {
 				<description>&lt;p&gt;I may be promoting everything that&amp;rsquo;s wrong with the internet today, but I kind of love a good list. And today I came across a great one—a list of the 100 oldest .com domain names, which go all the way back to March 15, 1985. Here are the first ten, from &lt;a href=&#34;http://www.domainholdings.com/recent-sales/100-oldest-domain-names/&#34;&gt;Domain Holdings&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;March 15, 1985 &amp;ndash; Symbolics.com&lt;/li&gt;
-&lt;li&gt;April 24, 1985 &amp;ndash; BBN.com&lt;/li&gt;
-&lt;li&gt;May 24, 1985 &amp;ndash; Think.com&lt;/li&gt;
-&lt;li&gt;July 11, 1985 &amp;ndash; MCC.com&lt;/li&gt;
-&lt;li&gt;September 30, 1985 &amp;ndash; DEC.com&lt;/li&gt;
-&lt;li&gt;November 7, 1985 &amp;ndash; Northrop.com&lt;/li&gt;
-&lt;li&gt;January 9, 1986 &amp;ndash; Xerox.com&lt;/li&gt;
-&lt;li&gt;January 17, 1986 &amp;ndash; SRI.com&lt;/li&gt;
-&lt;li&gt;March 3, 1986 &amp;ndash; HP.com&lt;/li&gt;
-&lt;li&gt;March 5, 1986 &amp;ndash; Bellcore.com&lt;/li&gt;
+&lt;li&gt;March 15, 1985 - Symbolics.com&lt;/li&gt;
+&lt;li&gt;April 24, 1985 - BBN.com&lt;/li&gt;
+&lt;li&gt;May 24, 1985 - Think.com&lt;/li&gt;
+&lt;li&gt;July 11, 1985 - MCC.com&lt;/li&gt;
+&lt;li&gt;September 30, 1985 - DEC.com&lt;/li&gt;
+&lt;li&gt;November 7, 1985 - Northrop.com&lt;/li&gt;
+&lt;li&gt;January 9, 1986 - Xerox.com&lt;/li&gt;
+&lt;li&gt;January 17, 1986 - SRI.com&lt;/li&gt;
+&lt;li&gt;March 3, 1986 - HP.com&lt;/li&gt;
+&lt;li&gt;March 5, 1986 - Bellcore.com&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Further down the list you get a who&amp;rsquo;s-who of major tech companies: IBM.com, Intel.com, GE.com, AMD.com, Tandy.com, Apple.com. It&amp;rsquo;s an interesting list, but thinking of what the world was like in 1985, I was craving context. The stories behind the domains that were registered before Tim Berners-Lee even conceived of a &amp;ldquo;World Wide Web.&amp;rdquo; So I headed to &lt;a href=&#34;http://symbolics.com/&#34;&gt;symbolics.com&lt;/a&gt; to see what I could find (did the site still exist?).&lt;/p&gt;
@@ -3852,7 +3873,7 @@ control structures in place, but for us it was really something that just develo
 
 &lt;p&gt;As a consumer, it&amp;rsquo;s hard to remember a site when the brand name doesn&amp;rsquo;t match the domain name. And you might think this is a common sense tip, but I see it all the time—especially with older sites trying to take advantage of keyword stuffing, an old SEO trick.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://blogs.bing.com/webmaster/2014/01/15/domain-name-importance-in-ranking/&#34;&gt;From Duane Forrester &amp;ndash; Bing:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.bing.com/webmaster/2014/01/15/domain-name-importance-in-ranking/&#34;&gt;From Duane Forrester - Bing:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Ranking today is a result of so many signals fed into the system the words used in a domain send less and less information into the stack as a percentage of overall decision making signals. This is great from our view (the engine) as it results in better results showing at the top since no one signal can be manipulated. From the searchers POV, it’s better simply because those sites trying to abuse their way to the top with a keyword rich domain and irrelevant or poor content cease to rank well.&lt;/p&gt;
@@ -3875,9 +3896,9 @@ control structures in place, but for us it was really something that just develo
 &lt;p&gt;If you want to get a quick look at the variety of names people come up with for brands, take a look at &lt;a href=&#34;http://www.producthunt.com/&#34;&gt;Product Hunt&lt;/a&gt;. You&amp;rsquo;ll find countless brand names, many of which are derivations of simple words or phrases. And that&amp;rsquo;s fine, but you have to be careful.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;The change should be noticeable&lt;/strong&gt; &amp;ndash; Taking a look at the Product Hunt list, the top hit at the time of writing is Humin, a cool new phonebook app. Its domain, humin.com, is obviously a derivation of the word &amp;ldquo;human&amp;rdquo;, but it&amp;rsquo;s short enough that people shouldn&amp;rsquo;t get too confused (although I&amp;rsquo;m sure they&amp;rsquo;d love to get their hands on human.com). Further down the list is a brand called Vint, which is also a a minor change, but is likely short enough for people to notice on first glance (although its domain name is joinvint.com, which I would say uses an unnecessary keyword).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Certain variations are normal in certain circles&lt;/strong&gt; &amp;ndash; While I probably wouldn&amp;rsquo;t recommend a grocery store to change their name to &amp;ldquo;foodr&amp;rdquo;, adding or removing certain letters (usually vowels) is totally fine in some circles. Becomr.com is a good example from the Product Hunt list, because the tech crowd they&amp;rsquo;re aiming for is likely used to that sort of change.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;But other variations aren&amp;rsquo;t&lt;/strong&gt; &amp;ndash; Every common derivation had to start somewhere, but I&amp;rsquo;d be wary of being too original. For example, I found a brand called Kalibrr, which changes &amp;ldquo;caliber&amp;rdquo; by replacing the &amp;lsquo;c&amp;rsquo; with a &amp;lsquo;k&amp;rsquo; and uses &amp;lsquo;rr&amp;rsquo; at the end. It could work out fine for them, but I&amp;rsquo;d guess there will be some recall issues down the line.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The change should be noticeable&lt;/strong&gt; - Taking a look at the Product Hunt list, the top hit at the time of writing is Humin, a cool new phonebook app. Its domain, humin.com, is obviously a derivation of the word &amp;ldquo;human&amp;rdquo;, but it&amp;rsquo;s short enough that people shouldn&amp;rsquo;t get too confused (although I&amp;rsquo;m sure they&amp;rsquo;d love to get their hands on human.com). Further down the list is a brand called Vint, which is also a a minor change, but is likely short enough for people to notice on first glance (although its domain name is joinvint.com, which I would say uses an unnecessary keyword).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Certain variations are normal in certain circles&lt;/strong&gt; - While I probably wouldn&amp;rsquo;t recommend a grocery store to change their name to &amp;ldquo;foodr&amp;rdquo;, adding or removing certain letters (usually vowels) is totally fine in some circles. Becomr.com is a good example from the Product Hunt list, because the tech crowd they&amp;rsquo;re aiming for is likely used to that sort of change.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;But other variations aren&amp;rsquo;t&lt;/strong&gt; - Every common derivation had to start somewhere, but I&amp;rsquo;d be wary of being too original. For example, I found a brand called Kalibrr, which changes &amp;ldquo;caliber&amp;rdquo; by replacing the &amp;lsquo;c&amp;rsquo; with a &amp;lsquo;k&amp;rsquo; and uses &amp;lsquo;rr&amp;rsquo; at the end. It could work out fine for them, but I&amp;rsquo;d guess there will be some recall issues down the line.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3&gt;A word about domain hacks&lt;/h3&gt;
@@ -4251,23 +4272,23 @@ possibilities, but there is a very simple way for most to settle on a name that 
 
 &lt;p&gt;Once you have your name in place, here are some nice platforms to try out. All offer modern templates and great features, and are perfect for people with little-to-no development knowledge.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; (&lt;a href=&#34;http://www.squarespace.com/tour/restaurants&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; &amp;ndash; &amp;ldquo;Say goodbye to Flash websites and PDF menus. Squarespace makes exceptional design and modern functionality available to all restaurants. Best of all, it&amp;rsquo;s a piece of cake to update yourself.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/features/applications/custom-domain-apps/websites/squarespace-build-your-website-with-own-url&#34;&gt;Squarespace&lt;/a&gt; (&lt;a href=&#34;http://www.squarespace.com/tour/restaurants&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; - &amp;ldquo;Say goodbye to Flash websites and PDF menus. Squarespace makes exceptional design and modern functionality available to all restaurants. Best of all, it&amp;rsquo;s a piece of cake to update yourself.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Squarespace does a lot right with its simple website template system. With no design or development skill, you can create a responsive site (meaning it resizes automatically for any screen size) with beautiful photography, a great menu system, OpenTable integration, social connections and even an online sales platform.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2014-05-10-squarespace-restaurant.jpg&#34; alt=&#34;Squarespace&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/services/website-builder/virb-custom-domain&#34;&gt;Virb&lt;/a&gt; (&lt;a href=&#34;http://virb.com/restaurants&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; &amp;ndash; &amp;ldquo;Virb makes it easy to serve up a great website for your hungry guests, with simple tools and features to keep up with your fast-moving world.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/services/website-builder/virb-custom-domain&#34;&gt;Virb&lt;/a&gt; (&lt;a href=&#34;http://virb.com/restaurants&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; - &amp;ldquo;Virb makes it easy to serve up a great website for your hungry guests, with simple tools and features to keep up with your fast-moving world.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Like Squarespace, Virb is a comprehensive site builder that has entered the restaurant market in a big way. With no dev background, you get a number of beautiful templates with menu systems, contact pages, social integrations and OpenTable.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2014-05-10-virb-restaurant.jpg&#34; alt=&#34;Virb&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/services/website-builder/site-hungry-for-restaurants&#34;&gt;Site Hungry&lt;/a&gt; (&lt;a href=&#34;http://sitehungry.com/&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; &amp;ndash; &amp;ldquo;Site Hungry allows you to set up a brand new restaurant website in less than 5 minutes. Share all of your restaurant&amp;rsquo;s hours, location and contact information, menu, and social media in one place.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/services/website-builder/site-hungry-for-restaurants&#34;&gt;Site Hungry&lt;/a&gt; (&lt;a href=&#34;http://sitehungry.com/&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; - &amp;ldquo;Site Hungry allows you to set up a brand new restaurant website in less than 5 minutes. Share all of your restaurant&amp;rsquo;s hours, location and contact information, menu, and social media in one place.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Unlike Squarespace and Virb, the Site Hungry platform is 100% dedicated to building restaurant sites. And as far as ease of use goes, it may be the easiest to get up and running. The platform doesn&amp;rsquo;t quite have the full feature-set of the bigger, more established platforms yet, but I&amp;rsquo;d expect steady growth as the user-base grows.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/services/website-builder/custom-domain-letseatat&#34;&gt;LetsEat&lt;/a&gt; (&lt;a href=&#34;http://www.letseat.at/&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; &amp;ndash; &amp;ldquo;Let&amp;rsquo;s Eat is made for busy people who want to update their menu specials on the fly, not deal with HTML and JavaScript. It is an advanced restaurant website builder that doesn&amp;rsquo;t come with a steep learning curve.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iwantmyname.com/services/website-builder/custom-domain-letseatat&#34;&gt;LetsEat&lt;/a&gt; (&lt;a href=&#34;http://www.letseat.at/&#34;&gt;website&lt;/a&gt;)&lt;/strong&gt; - &amp;ldquo;Let&amp;rsquo;s Eat is made for busy people who want to update their menu specials on the fly, not deal with HTML and JavaScript. It is an advanced restaurant website builder that doesn&amp;rsquo;t come with a steep learning curve.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;LetsEat is another restaurant-only platform that integrates menus, photography and social together to create clean, simple sites. But the differentiator for LetsEat is its &amp;ldquo;app store.&amp;rdquo; With little effort, you can integrate services like OpenTable, Constant Contact, OpenDining, Taskvilla and SeatMe to create exactly the site you need.&lt;/p&gt;
 
@@ -4847,11 +4868,11 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; What&amp;rsquo;s the difference between Hoist and other cloud hosting platforms like Heroku?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Owen:&lt;/strong&gt; Hoist and Heroku both provide ways to host cloud apps, but where Heroku&amp;rsquo;s focus leans more to infrastructure, Hoist leans more to integrations. We&amp;rsquo;ve built the easiest way for a developer to create a &amp;ldquo;feature app&amp;rdquo; &amp;ndash; i.e. to extend existing cloud apps with bespoke features as well as for single page applications built entirely in Javascript/HTML.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Owen:&lt;/strong&gt; Hoist and Heroku both provide ways to host cloud apps, but where Heroku&amp;rsquo;s focus leans more to infrastructure, Hoist leans more to integrations. We&amp;rsquo;ve built the easiest way for a developer to create a &amp;ldquo;feature app&amp;rdquo; - i.e. to extend existing cloud apps with bespoke features as well as for single page applications built entirely in Javascript/HTML.&lt;/p&gt;
 
 &lt;p&gt;As SaaS becomes more and more prevalent and SMBs take on a best-of-breed approach to SaaS, there are a lot of these light-weight apps and integrations happening. Our platform is ideal for connecting to an API and adding value through a well designed user interface with a Hoist backend.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; We see that you&amp;rsquo;ve &lt;a href=&#34;http://hoistapps.com/blog/ship-day-new-hoist-features/&#34;&gt;recently added&lt;/a&gt; buckets and connectors  to Hoist&amp;mdash;what kinds of upgrades/additions are you guys working on next?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; We see that you&amp;rsquo;ve &lt;a href=&#34;http://hoistapps.com/blog/ship-day-new-hoist-features/&#34;&gt;recently added&lt;/a&gt; buckets and connectors  to Hoist--what kinds of upgrades/additions are you guys working on next?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Owen:&lt;/strong&gt; We&amp;rsquo;re working on making application upload better (we&amp;rsquo;re aware our current file upload solution was a bit janky; integrations such as Github and Dropbox will make that better), adding APIs for GeoOp, WorkflowMax and others as well as some work on building an API to make SaaS billing much easier for small businesses.&lt;/p&gt;
 
@@ -4886,167 +4907,167 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;h3&gt;Clojure&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://liquidz.github.io/misaki/&#34;&gt;misaki&lt;/a&gt; &amp;ndash; A Jekyll-inspired blog built in Clojure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://liquidz.github.io/misaki/&#34;&gt;misaki&lt;/a&gt; - A Jekyll-inspired blog built in Clojure.&lt;/p&gt;
 
 &lt;h3&gt;Git&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://gitorious.org/fugitive&#34;&gt;Fugitive&lt;/a&gt; &amp;ndash; A blog engine running on top of git using hooks to generate static html pages.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitorious.org/fugitive&#34;&gt;Fugitive&lt;/a&gt; - A blog engine running on top of git using hooks to generate static html pages.&lt;/p&gt;
 
 &lt;h3&gt;Go&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/piranha/gostatic#speed&#34;&gt;Gostatic&lt;/a&gt; &amp;ndash; A static site generator written in Go that tracks changes and works fast.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/piranha/gostatic#speed&#34;&gt;Gostatic&lt;/a&gt; - A static site generator written in Go that tracks changes and works fast.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hugo.spf13.com/&#34;&gt;Hugo&lt;/a&gt; &amp;ndash; Flexibly works with many formats and is ideal for blogs, docs, portfolios and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hugo.spf13.com/&#34;&gt;Hugo&lt;/a&gt; - Flexibly works with many formats and is ideal for blogs, docs, portfolios and more.&lt;/p&gt;
 
 &lt;h3&gt;Haskell&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jaspervdj.be/hakyll/&#34;&gt;Hakyll&lt;/a&gt; &amp;ndash; A Haskell library that creates fast and secure small-to-medium sites and personal blogs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jaspervdj.be/hakyll/&#34;&gt;Hakyll&lt;/a&gt; - A Haskell library that creates fast and secure small-to-medium sites and personal blogs.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/jgm/yst&#34;&gt;yst&lt;/a&gt; &amp;ndash; Generates static sites by filling string templates with data from YAML or CSV text files or SQLite 3 file-based databases.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jgm/yst&#34;&gt;yst&lt;/a&gt; - Generates static sites by filling string templates with data from YAML or CSV text files or SQLite 3 file-based databases.&lt;/p&gt;
 
 &lt;h3&gt;Java&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jbake.org/&#34;&gt;JBake&lt;/a&gt; &amp;ndash; Structure your content any way you see fit with a Java-based site/blog generator.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jbake.org/&#34;&gt;JBake&lt;/a&gt; - Structure your content any way you see fit with a Java-based site/blog generator.&lt;/p&gt;
 
 &lt;h3&gt;Lisp&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/redline6561/coleslaw&#34;&gt;Coleslaw&lt;/a&gt; &amp;ndash; Aims to be flexible blogware that replaces single-user static compilers like Jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/redline6561/coleslaw&#34;&gt;Coleslaw&lt;/a&gt; - Aims to be flexible blogware that replaces single-user static compilers like Jekyll.&lt;/p&gt;
 
 &lt;h3&gt;Node.js&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://blog.nodejitsu.com/introducing-blacksmith/&#34;&gt;Blacksmith&lt;/a&gt; &amp;ndash; Uses weld, jsdom and marked to turn JSON, Markdown and HTML/CSS into &amp;ldquo;awesome&amp;rdquo; static sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.nodejitsu.com/introducing-blacksmith/&#34;&gt;Blacksmith&lt;/a&gt; - Uses weld, jsdom and marked to turn JSON, Markdown and HTML/CSS into &amp;ldquo;awesome&amp;rdquo; static sites.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/logicalparadox/codex&#34;&gt;Codex&lt;/a&gt; &amp;ndash; A simple tool built in Jade and themed in Stylus that uses Markdown documents.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/logicalparadox/codex&#34;&gt;Codex&lt;/a&gt; - A simple tool built in Jade and themed in Stylus that uses Markdown documents.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://docpad.org/&#34;&gt;DocPad&lt;/a&gt; &amp;ndash; Allows for content management via the file system, rendering via plugins, and static site generation for deployment anywhere.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://docpad.org/&#34;&gt;DocPad&lt;/a&gt; - Allows for content management via the file system, rendering via plugins, and static site generation for deployment anywhere.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://harpjs.com/&#34;&gt;Harp&lt;/a&gt; &amp;ndash; Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS &amp;amp; JavaScript—no configuration necessary.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://harpjs.com/&#34;&gt;Harp&lt;/a&gt; - Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS &amp;amp; JavaScript—no configuration necessary.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hexo.io/index.html&#34;&gt;Hexo&lt;/a&gt; &amp;ndash; A Node.js powered generator that supports multi-thread generating, allowing it to process hundreds of files in seconds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hexo.io/index.html&#34;&gt;Hexo&lt;/a&gt; - A Node.js powered generator that supports multi-thread generating, allowing it to process hundreds of files in seconds.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.metalsmith.io/&#34;&gt;Metalsmith&lt;/a&gt; &amp;ndash; An extremely simple site generator with logic completely handled by plugins.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.metalsmith.io/&#34;&gt;Metalsmith&lt;/a&gt; - An extremely simple site generator with logic completely handled by plugins.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jsantell.github.io/poet/&#34;&gt;Poet&lt;/a&gt; &amp;ndash; A blog generator in node.js that renders &amp;ldquo;markdown/jade/whatever posts&amp;rdquo; fast.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jsantell.github.io/poet/&#34;&gt;Poet&lt;/a&gt; - A blog generator in node.js that renders &amp;ldquo;markdown/jade/whatever posts&amp;rdquo; fast.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://laktek.github.io/punch/&#34;&gt;Punch&lt;/a&gt; &amp;ndash; Create simple, intuitive sites with a publishing framework built for ease-of-use.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://laktek.github.io/punch/&#34;&gt;Punch&lt;/a&gt; - Create simple, intuitive sites with a publishing framework built for ease-of-use.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://roots.cx/&#34;&gt;Roots&lt;/a&gt; &amp;ndash; A light, super fast and intuitive static build system made for front end development and web apps.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://roots.cx/&#34;&gt;Roots&lt;/a&gt; - A light, super fast and intuitive static build system made for front end development and web apps.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://wintersmith.io/&#34;&gt;Wintersmith&lt;/a&gt; &amp;ndash; A flexible, multi-platform static site generator built on top of node.js.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wintersmith.io/&#34;&gt;Wintersmith&lt;/a&gt; - A flexible, multi-platform static site generator built on top of node.js.&lt;/p&gt;
 
 &lt;h3&gt;Perl&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://muli.cc/&#34;&gt;Blosxom&lt;/a&gt; &amp;ndash; A full-featured weblog application with a tiny footprint.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://muli.cc/&#34;&gt;Blosxom&lt;/a&gt; - A full-featured weblog application with a tiny footprint.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://vanilladraft.com/dapper/&#34;&gt;Dapper&lt;/a&gt; &amp;ndash; Distributed as a Perl module, Dapper is a flexible (and fast) tool for creating static websites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://vanilladraft.com/dapper/&#34;&gt;Dapper&lt;/a&gt; - Distributed as a Perl module, Dapper is a flexible (and fast) tool for creating static websites.&lt;/p&gt;
 
 &lt;h3&gt;PHP&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/Circa75/dropplets&#34;&gt;Dropplets&lt;/a&gt; &amp;ndash; Write and publish content with Markdown, while cuttings all the clutter.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Circa75/dropplets&#34;&gt;Dropplets&lt;/a&gt; - Write and publish content with Markdown, while cuttings all the clutter.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://phrozn.info/en/&#34;&gt;Phrozn&lt;/a&gt; &amp;ndash; Static site generator written and extensible in PHP, designed with extensibility in mind.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://phrozn.info/en/&#34;&gt;Phrozn&lt;/a&gt; - Static site generator written and extensible in PHP, designed with extensibility in mind.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://bolt80.com/piecrust/&#34;&gt;PieCrust&lt;/a&gt; &amp;ndash; A static site generator and lightweight CMS that&amp;rsquo;s all managed with text files.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bolt80.com/piecrust/&#34;&gt;PieCrust&lt;/a&gt; - A static site generator and lightweight CMS that&amp;rsquo;s all managed with text files.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.marco.org/secondcrack&#34;&gt;Second Crack&lt;/a&gt; &amp;ndash; &amp;ldquo;Unsuitable and unnecessary for nearly everyone,&amp;rdquo; but Marco Arment wrote and uses it to power Marco.org.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.marco.org/secondcrack&#34;&gt;Second Crack&lt;/a&gt; - &amp;ldquo;Unsuitable and unnecessary for nearly everyone,&amp;rdquo; but Marco Arment wrote and uses it to power Marco.org.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://sculpin.io/&#34;&gt;Sculpin&lt;/a&gt; &amp;ndash; Converts Markdown, Twig templates or standard HTML into static HTML sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sculpin.io/&#34;&gt;Sculpin&lt;/a&gt; - Converts Markdown, Twig templates or standard HTML into static HTML sites.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.staceyapp.com/&#34;&gt;Stacey&lt;/a&gt; &amp;ndash; A lightweight content management system managed simply by creating folders and editing text files.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.staceyapp.com/&#34;&gt;Stacey&lt;/a&gt; - A lightweight content management system managed simply by creating folders and editing text files.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.templeet.org/index.html.en&#34;&gt;Templeet&lt;/a&gt; &amp;ndash; Can easily generate HTML, CSS, SVG pictures, SMIL and text files.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.templeet.org/index.html.en&#34;&gt;Templeet&lt;/a&gt; - Can easily generate HTML, CSS, SVG pictures, SMIL and text files.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.catnapgames.com/blog/2011/10/13/tempo-php-static-site-generator.html&#34;&gt;Tempo&lt;/a&gt; &amp;ndash; Uses PHP-based templates, test files and images to build static HTML sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.catnapgames.com/blog/2011/10/13/tempo-php-static-site-generator.html&#34;&gt;Tempo&lt;/a&gt; - Uses PHP-based templates, test files and images to build static HTML sites.&lt;/p&gt;
 
 &lt;h3&gt;Python&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://posativ.org/acrylamid/&#34;&gt;acrylamid&lt;/a&gt; &amp;ndash; A static blog generator with incremental rendering.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://posativ.org/acrylamid/&#34;&gt;acrylamid&lt;/a&gt; - A static blog generator with incremental rendering.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/jek/blatter/&#34;&gt;Blatter&lt;/a&gt; &amp;ndash; Uses dynamic templates and copied-over static files to create and publish static sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/jek/blatter/&#34;&gt;Blatter&lt;/a&gt; - Uses dynamic templates and copied-over static files to create and publish static sites.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.blogofile.com/&#34;&gt;Blogofile&lt;/a&gt; &amp;ndash; A simple blogging engine using Python that requires no database and no special hosting environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.blogofile.com/&#34;&gt;Blogofile&lt;/a&gt; - A simple blogging engine using Python that requires no database and no special hosting environment.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://cactusformac.com/&#34;&gt;Cactus&lt;/a&gt; &amp;ndash; A powerful static site builder using Python and the Django template system.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cactusformac.com/&#34;&gt;Cactus&lt;/a&gt; - A powerful static site builder using Python and the Django template system.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://archived.link/https://github.com/ckunte/chisel&#34;&gt;Chisel&lt;/a&gt; &amp;ndash; An incredibly lightweight (less than 8kb) blog generation utility.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://archived.link/https://github.com/ckunte/chisel&#34;&gt;Chisel&lt;/a&gt; - An incredibly lightweight (less than 8kb) blog generation utility.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://flask.pocoo.org/&#34;&gt;Flask&lt;/a&gt; &amp;ndash; A micro-framework for Python based on Werkzeug, Jija 2 and &amp;ldquo;good intentions.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://flask.pocoo.org/&#34;&gt;Flask&lt;/a&gt; - A micro-framework for Python based on Werkzeug, Jija 2 and &amp;ldquo;good intentions.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ringce.com/hyde&#34;&gt;Hyde&lt;/a&gt; &amp;ndash; Generates static websites with Python and Django that provide instant refresh and tons of flexibility.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ringce.com/hyde&#34;&gt;Hyde&lt;/a&gt; - Generates static websites with Python and Django that provide instant refresh and tons of flexibility.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ikiwiki.info/&#34;&gt;ikiwiki&lt;/a&gt; &amp;ndash; Converts wiki pages into HTML pages for simple publishing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ikiwiki.info/&#34;&gt;ikiwiki&lt;/a&gt; - Converts wiki pages into HTML pages for simple publishing.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jinja.pocoo.org/&#34;&gt;Jinja&lt;/a&gt; &amp;ndash; A widely used and BSD licensed template engine for Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jinja.pocoo.org/&#34;&gt;Jinja&lt;/a&gt; - A widely used and BSD licensed template engine for Python.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://wangling.me/2013/01/letterpress.html&#34;&gt;Letterpress&lt;/a&gt; &amp;ndash; A minimal blogging system built for a better writing experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wangling.me/2013/01/letterpress.html&#34;&gt;Letterpress&lt;/a&gt; - A minimal blogging system built for a better writing experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.makotemplates.org/&#34;&gt;Mako&lt;/a&gt; &amp;ndash; A template library written in Python that&amp;rsquo;s used by Reddit to deliver &amp;ldquo;over a billion page views per month.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.makotemplates.org/&#34;&gt;Mako&lt;/a&gt; - A template library written in Python that&amp;rsquo;s used by Reddit to deliver &amp;ldquo;over a billion page views per month.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://mynt.uhnomoli.com/&#34;&gt;Mynt&lt;/a&gt; &amp;ndash; Designed to give all the features of a CMS with none of the rigid implementations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mynt.uhnomoli.com/&#34;&gt;Mynt&lt;/a&gt; - Designed to give all the features of a CMS with none of the rigid implementations.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.getnikola.com/&#34;&gt;Nikola&lt;/a&gt; &amp;ndash; A themable, flexible static site and blog generator with a tidy codebase&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.getnikola.com/&#34;&gt;Nikola&lt;/a&gt; - A themable, flexible static site and blog generator with a tidy codebase&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://pygreen.neoname.eu/&#34;&gt;PyGreen&lt;/a&gt; &amp;ndash; Put all the files in a server, then it invokes the Mako template engine on all HTML files.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pygreen.neoname.eu/&#34;&gt;PyGreen&lt;/a&gt; - Put all the files in a server, then it invokes the Mako template engine on all HTML files.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt; &amp;ndash; Creates completely static output that requires no database or server-side logic.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt; - Creates completely static output that requires no database or server-side logic.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/obensonne/poole&#34;&gt;Poole&lt;/a&gt; &amp;ndash; A Markdown-driven static site generator that creates simple sites with navigation menus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/obensonne/poole&#34;&gt;Poole&lt;/a&gt; - A Markdown-driven static site generator that creates simple sites with navigation menus.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://radpress.readthedocs.org/en/latest/&#34;&gt;Radpress&lt;/a&gt; &amp;ndash; &amp;ldquo;A simple blog application for Djangonauts.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://radpress.readthedocs.org/en/latest/&#34;&gt;Radpress&lt;/a&gt; - &amp;ldquo;A simple blog application for Djangonauts.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://honza.ca/socrates/&#34;&gt;Socrates&lt;/a&gt; &amp;ndash; A simple static site generator geared towards blogging.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://honza.ca/socrates/&#34;&gt;Socrates&lt;/a&gt; - A simple static site generator geared towards blogging.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://sphinx-doc.org/&#34;&gt;Sphinx&lt;/a&gt; &amp;ndash; Makes it easy to create &amp;ldquo;intelligent and beautiful documentation.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sphinx-doc.org/&#34;&gt;Sphinx&lt;/a&gt; - Makes it easy to create &amp;ldquo;intelligent and beautiful documentation.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://staticjinja.readthedocs.org/en/latest/&#34;&gt;Static Ninja&lt;/a&gt; &amp;ndash; A library for easily deploying static sites using the jinja2 templating language.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://staticjinja.readthedocs.org/en/latest/&#34;&gt;Static Ninja&lt;/a&gt; - A library for easily deploying static sites using the jinja2 templating language.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://wok.mythmon.com/&#34;&gt;Wok&lt;/a&gt; &amp;ndash; Similar to Jekyll, Hyde and nanoc, but with a restricted focus of features.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wok.mythmon.com/&#34;&gt;Wok&lt;/a&gt; - Similar to Jekyll, Hyde and nanoc, but with a restricted focus of features.&lt;/p&gt;
 
 &lt;h3&gt;Ruby&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://assemble.io/&#34;&gt;Assemble&lt;/a&gt; &amp;ndash; The static site generator for Grunt.js, Yeoman and Node.js.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://assemble.io/&#34;&gt;Assemble&lt;/a&gt; - The static site generator for Grunt.js, Yeoman and Node.js.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://awestruct.org/&#34;&gt;:awestruct&lt;/a&gt; &amp;ndash; A framework for creating static HTML files, inspired by Jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://awestruct.org/&#34;&gt;:awestruct&lt;/a&gt; - A framework for creating static HTML files, inspired by Jekyll.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://tinytree.info/&#34;&gt;Bonsai&lt;/a&gt; &amp;ndash; Creates dynamic websites that focus on well-defined hierarchies without the need of a database or admin interface.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tinytree.info/&#34;&gt;Bonsai&lt;/a&gt; - Creates dynamic websites that focus on well-defined hierarchies without the need of a database or admin interface.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/blahed/frank&#34;&gt;Frank&lt;/a&gt; &amp;ndash; Builds static sites using Tilt, with support for Haml &amp;amp; Sass, LESS, Builder, ERB, and Liquid.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/blahed/frank&#34;&gt;Frank&lt;/a&gt; - Builds static sites using Tilt, with support for Haml &amp;amp; Sass, LESS, Builder, ERB, and Liquid.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://hobix.github.io/hobix/&#34;&gt;Hobix&lt;/a&gt; &amp;ndash; A Ruby-based site generator for users who are &amp;ldquo;able to do a triple front-flip without using your legs at all.&amp;rdquo; Or else &amp;ldquo;you will go to Federal prison.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hobix.github.io/hobix/&#34;&gt;Hobix&lt;/a&gt; - A Ruby-based site generator for users who are &amp;ldquo;able to do a triple front-flip without using your legs at all.&amp;rdquo; Or else &amp;ldquo;you will go to Federal prison.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; &amp;ndash; A &amp;ldquo;blog-aware&amp;rdquo; tool that quickly transforms your plain text (or Markdown) into static websites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; - A &amp;ldquo;blog-aware&amp;rdquo; tool that quickly transforms your plain text (or Markdown) into static websites.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://middlemanapp.com/&#34;&gt;Middleman&lt;/a&gt; &amp;ndash; Uses all the shortcuts and tools in modern web development to generate static sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://middlemanapp.com/&#34;&gt;Middleman&lt;/a&gt; - Uses all the shortcuts and tools in modern web development to generate static sites.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://mobtvse.com/&#34;&gt;MObtvse&lt;/a&gt; &amp;ndash; A blogging platform for people who want a clean web interface for creating Markdown posts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mobtvse.com/&#34;&gt;MObtvse&lt;/a&gt; - A blogging platform for people who want a clean web interface for creating Markdown posts.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://nanoc.ws/&#34;&gt;Nanoc&lt;/a&gt; &amp;ndash; Creates static sites of all kind with support for free-form metadata, various markup/templating languages and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nanoc.ws/&#34;&gt;Nanoc&lt;/a&gt; - Creates static sites of all kind with support for free-form metadata, various markup/templating languages and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://nestacms.com/&#34;&gt;NestaCMS&lt;/a&gt; &amp;ndash;  Simple, easy code for developers and designers that is easily extended using the Sinatra web framework.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nestacms.com/&#34;&gt;NestaCMS&lt;/a&gt; -  Simple, easy code for developers and designers that is easily extended using the Sinatra web framework.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://octopress.org/&#34;&gt;Octopress&lt;/a&gt; &amp;ndash; A &amp;ldquo;blog aware&amp;rdquo; static site generator based on mojombo/jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://octopress.org/&#34;&gt;Octopress&lt;/a&gt; - A &amp;ldquo;blog aware&amp;rdquo; static site generator based on mojombo/jekyll.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ruhoh.com/&#34;&gt;Ruhoh&lt;/a&gt; &amp;ndash; Similar to Jekyll and Nanoc, while giving you the tools to &amp;ldquo;publish websites like a BOSS.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ruhoh.com/&#34;&gt;Ruhoh&lt;/a&gt; - Similar to Jekyll and Nanoc, while giving you the tools to &amp;ldquo;publish websites like a BOSS.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://stasis.me/&#34;&gt;Stasis&lt;/a&gt; &amp;ndash; A powerful static website generator using Ruby.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://stasis.me/&#34;&gt;Stasis&lt;/a&gt; - A powerful static website generator using Ruby.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/cloudhead/toto&#34;&gt;Toto&lt;/a&gt; &amp;ndash; &amp;ldquo;The 10 second blog-engine for hackers.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cloudhead/toto&#34;&gt;Toto&lt;/a&gt; - &amp;ldquo;The 10 second blog-engine for hackers.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://archived.link/http://webby.rubyforge.org/&#34;&gt;Webby&lt;/a&gt; &amp;ndash; Uses your favorite markup language to combine the contents of a page with a layout to produce HTML&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://archived.link/http://webby.rubyforge.org/&#34;&gt;Webby&lt;/a&gt; - Uses your favorite markup language to combine the contents of a page with a layout to produce HTML&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://webgen.gettalong.org/&#34;&gt;Webgen&lt;/a&gt; &amp;ndash; Lets you concentrate on writing content with support for any markup and built-in helper tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://webgen.gettalong.org/&#34;&gt;Webgen&lt;/a&gt; - Lets you concentrate on writing content with support for any markup and built-in helper tools.&lt;/p&gt;
 
 &lt;h3&gt;Scala&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/wspringer/monkeyman&#34;&gt;Monkeyman&lt;/a&gt; &amp;ndash; A static site generator similar to Middleman that&amp;rsquo;s built in Scala.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wspringer/monkeyman&#34;&gt;Monkeyman&lt;/a&gt; - A static site generator similar to Middleman that&amp;rsquo;s built in Scala.&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;h3&gt;Not static, but in the same universe&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://getkirby.com/&#34;&gt;Kirby&lt;/a&gt; &amp;ndash; A PHP-built CMS that&amp;rsquo;s &amp;ldquo;easy to setup, easy to use, flexible as hell.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://getkirby.com/&#34;&gt;Kirby&lt;/a&gt; - A PHP-built CMS that&amp;rsquo;s &amp;ldquo;easy to setup, easy to use, flexible as hell.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://statamic.com/&#34;&gt;Statamic&lt;/a&gt; &amp;ndash; A flat-file CMS built on PHP with a beautiful and responsive control panel designed with clients in mind.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://statamic.com/&#34;&gt;Statamic&lt;/a&gt; - A flat-file CMS built on PHP with a beautiful and responsive control panel designed with clients in mind.&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -5089,7 +5110,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;There are a few things to keep in mind though when looking at the current top 10. For one, these gTLDs are still very new, so we don&amp;rsquo;t really know what will happen once the general public catches on.&lt;/p&gt;
 
-&lt;p&gt;Also, the current numbers are skewed by registries parking domains themselves. From Andrew Allemann &amp;ndash; &lt;a href=&#34;http://domainnamewire.com/2014/04/16/uniregistry-activates-thousands-of-reserved-domains-per-tld/&#34;&gt;Domain Name Wire&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Also, the current numbers are skewed by registries parking domains themselves. From Andrew Allemann - &lt;a href=&#34;http://domainnamewire.com/2014/04/16/uniregistry-activates-thousands-of-reserved-domains-per-tld/&#34;&gt;Domain Name Wire&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;It’s all a mirage.&lt;/p&gt;
@@ -5267,7 +5288,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;Perhaps even more loved than coffee, beer and wine are arguably the most important beverages in human history.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2013/03/17/opinion/sunday/how-beer-gave-us-civilization.html&#34;&gt;From Jeffrey Kahn &amp;ndash; New York Times:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2013/03/17/opinion/sunday/how-beer-gave-us-civilization.html&#34;&gt;From Jeffrey Kahn - New York Times:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Once the effects of these early brews were discovered, the value of beer (as well as wine and other fermented potions) must have become immediately apparent. With the help of the new psychopharmacological brew, humans could quell the angst of defying those herd instincts. Conversations around the campfire, no doubt, took on a new dimension: the painfully shy, their angst suddenly quelled, could now speak their minds.&lt;/p&gt;
@@ -5285,7 +5306,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;The king of the clears, vodka is the only &amp;ldquo;hard alcohol&amp;rdquo; set to launch as a gTLD. And vodka stats are about as unsurprising as they come.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://qz.com/179708/map-where-the-worlds-biggest-vodka-drinkers-are/&#34;&gt;From Roberto A Ferdman &amp;ndash; Quartz:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://qz.com/179708/map-where-the-worlds-biggest-vodka-drinkers-are/&#34;&gt;From Roberto A Ferdman - Quartz:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;No one downs vodka like Russia does.&lt;/p&gt;
@@ -5327,7 +5348,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;h3&gt;Non-Latin characters are being used&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;A recent CENTR survey, in which 21 European ccTLDs said they offer IDNs showed that as at December 2013, there were total of 1.2 million domain names in Europe containing at least one non-Latin character &amp;ndash; this represents around 6% of the domains in these ccTLDs. Compared to 6 months prior, the number of IDN domains in these ccTLDs grew with 17%.&lt;/p&gt;
+&lt;p&gt;A recent CENTR survey, in which 21 European ccTLDs said they offer IDNs showed that as at December 2013, there were total of 1.2 million domain names in Europe containing at least one non-Latin character - this represents around 6% of the domains in these ccTLDs. Compared to 6 months prior, the number of IDN domains in these ccTLDs grew with 17%.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Once non-Latin gTLDs start gaining traction, I think site owners will be much more likely to use non-Latin characters all over the web. This 1.2 million domain name stat could be quite a bit higher this time next year.&lt;/p&gt;
@@ -5480,7 +5501,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;!-- /excerpt --&gt;
 
-&lt;p&gt;&lt;strong&gt;Kevin Ingersoll &amp;ndash; &lt;a href=&#34;https://twitter.com/kingersoll&#34;&gt;@kingersoll&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kevin Ingersoll - &lt;a href=&#34;https://twitter.com/kingersoll&#34;&gt;@kingersoll&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://google.com/&#34;&gt;google.com&lt;/a&gt;&lt;/li&gt;
@@ -5494,7 +5515,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;p&gt;Special mention to Chrome, which has been an huge help in pushing the web forward. From the omnibox, to speedy JS via the V8 engine, to regular releases with automatic updates (see graph of Chrome usage per version), to adoption of current and upcoming web standards.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Paul Spence &amp;ndash; &lt;a href=&#34;https://twitter.com/GeniusNet&#34;&gt;@geniusnet&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paul Spence - &lt;a href=&#34;https://twitter.com/GeniusNet&#34;&gt;@geniusnet&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://economist.com/&#34;&gt;economist.com&lt;/a&gt;&lt;/li&gt;
@@ -5504,7 +5525,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;li&gt;&lt;a href=&#34;http://startupdigest.com/&#34;&gt;startupdigest.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Timo Reitnauer &amp;ndash; &lt;a href=&#34;https://twitter.com/treitnauer&#34;&gt;@treitnauer&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timo Reitnauer - &lt;a href=&#34;https://twitter.com/treitnauer&#34;&gt;@treitnauer&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://soundcloud.com/&#34;&gt;soundcloud.com&lt;/a&gt;&lt;/li&gt;
@@ -5518,7 +5539,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;p&gt;When I&amp;rsquo;m not working on iwantmyname stuff, it&amp;rsquo;s really more about consuming content, or even better, not spending time in front of a screen at all.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Melanie Baker &amp;ndash; &lt;a href=&#34;https://twitter.com/melle&#34;&gt;@melle&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Melanie Baker - &lt;a href=&#34;https://twitter.com/melle&#34;&gt;@melle&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://medium.com/&#34;&gt;medium.com&lt;/a&gt;&lt;/li&gt;
@@ -5529,10 +5550,10 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Honorable mention: Google suite &amp;ndash; Gmail, Maps, Calendar, etc. (they own my ass)&lt;/p&gt;
+&lt;p&gt;Honorable mention: Google suite - Gmail, Maps, Calendar, etc. (they own my ass)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Joel Pitt &amp;ndash; &lt;a href=&#34;https://twitter.com/ferrouswheel&#34;&gt;@ferrouswheel&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Joel Pitt - &lt;a href=&#34;https://twitter.com/ferrouswheel&#34;&gt;@ferrouswheel&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;I tried to pick sites from my entire time online. So some these are old and not used much these days, but I remember spending a lot of time on them.&lt;/p&gt;
@@ -5546,7 +5567,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;li&gt;&lt;a href=&#34;http://bash.org/?random&#34;&gt;bash.org/?random&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Lenz Gschwendtner &amp;ndash; &lt;a href=&#34;https://twitter.com/norbu09&#34;&gt;@norbu09&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lenz Gschwendtner - &lt;a href=&#34;https://twitter.com/norbu09&#34;&gt;@norbu09&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Based on the tabs I currently have open.&lt;/p&gt;
@@ -5560,7 +5581,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;li&gt;&lt;a href=&#34;http://duckduckgo.com/&#34;&gt;duckduckgo.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Manuela Vetters &amp;ndash; &lt;a href=&#34;https://twitter.com/manucx&#34;&gt;@manucx&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Manuela Vetters - &lt;a href=&#34;https://twitter.com/manucx&#34;&gt;@manucx&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://google.com/&#34;&gt;google.com&lt;/a&gt;&lt;/li&gt;
@@ -5574,7 +5595,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;p&gt;I usually check stuff.co.nz and spon.de for news once a day, but wouldn&amp;rsquo;t say these are my favourite sites. It&amp;rsquo;s rather a habit.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Chris Hall &amp;ndash; &lt;a href=&#34;https://twitter.com/hashtaghall&#34;&gt;@hashtaghall&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chris Hall - &lt;a href=&#34;https://twitter.com/hashtaghall&#34;&gt;@hashtaghall&lt;/a&gt;:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://techmeme.com/&#34;&gt;techmeme.com&lt;/a&gt;&lt;/li&gt;
@@ -5718,7 +5739,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 &lt;p&gt;I thought it might be! So there are two ways to set up a blog with Ghost and that shiny new domain name you’re holding:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Head over to &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost.org&lt;/a&gt; and start using our hosted platform. The hosted platform is a service which allows you to start a new Ghost blog in a couple of clicks, and has premium plans starting at just $5 per month. The other great thing about our hosted platform is that all the money we make from it actually goes towards funding developers to work on the Ghost software and make it better. We’re a very proud non-profit, so this helps the entire project in a big way &amp;ndash; and yes! You can use your domain name here.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Head over to &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost.org&lt;/a&gt; and start using our hosted platform. The hosted platform is a service which allows you to start a new Ghost blog in a couple of clicks, and has premium plans starting at just $5 per month. The other great thing about our hosted platform is that all the money we make from it actually goes towards funding developers to work on the Ghost software and make it better. We’re a very proud non-profit, so this helps the entire project in a big way - and yes! You can use your domain name here.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Because Ghost is Open Source, you can actually download it and run the software on (almost) any computer in the world. It’ll work on your laptop, your web server, or even your &lt;a href=&#34;http://www.raspberrypi.org/&#34;&gt;Raspberry Pi&lt;/a&gt;. So if you’re a developer and you’d like to roll-your-own installation of Ghost. You can certainly do that, too.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -5735,13 +5756,13 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;&lt;strong&gt;Q: What does the future hold for Ghost? In 2020, will my blog seem as dated as my friend&amp;rsquo;s Xanga site does today?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I have to tell you &amp;ndash; you should immediately cut ties with this friend. Being associated with Xanga lover is just not something you want to come out in public. It’s time for an intervention!&lt;/p&gt;
+&lt;p&gt;I have to tell you - you should immediately cut ties with this friend. Being associated with Xanga lover is just not something you want to come out in public. It’s time for an intervention!&lt;/p&gt;
 
-&lt;p&gt;Ghost has very big ambitions. The future for Ghost is very much aimed towards creating a platform to power large online publications. Unlike some of the more trendy social networks which depend on buzz to survive &amp;ndash; Ghost is really just a tool to get things done, so it will always be useful. We’ll be adding much more functionality around the publishing and collaborative writing experience as we grow and evolve.&lt;/p&gt;
+&lt;p&gt;Ghost has very big ambitions. The future for Ghost is very much aimed towards creating a platform to power large online publications. Unlike some of the more trendy social networks which depend on buzz to survive - Ghost is really just a tool to get things done, so it will always be useful. We’ll be adding much more functionality around the publishing and collaborative writing experience as we grow and evolve.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Q: Is there anything else I should know before getting started? Anything I haven’t thought of yet?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Well, you’ve asked some really great questions, and I feel like that shouldn’t be ignored &amp;ndash; so here’s a discount coupon which will give you 2 months free on the &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost.org&lt;/a&gt; hosted platform, if you’d like to give it a try!&lt;/p&gt;
+&lt;p&gt;Well, you’ve asked some really great questions, and I feel like that shouldn’t be ignored - so here’s a discount coupon which will give you 2 months free on the &lt;a href=&#34;https://ghost.org/&#34;&gt;Ghost.org&lt;/a&gt; hosted platform, if you’d like to give it a try!&lt;/p&gt;
 
 &lt;p&gt;Code: &lt;code&gt;IWMN2&lt;/code&gt;&lt;/p&gt;
 </description>
@@ -5766,13 +5787,13 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Hi Jordan, thanks for doing this with us! So first, tell me a bit about yourself, your company and why fixies are so awesome (people should know!).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jordan:&lt;/strong&gt; Hmm about me, thats a tough one! I’m a tech nerd with a passion for bikes.  I started Pure Fix Cycles with my brother and two best friends right out of college, and the idea was to be a direct-to-consumer offering for stylish and affordable bikes. So thats what we did. Now, we’re in over 500 stores and shipping bikes across the globe &amp;ndash; spreading the fixed gear love.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jordan:&lt;/strong&gt; Hmm about me, thats a tough one! I’m a tech nerd with a passion for bikes.  I started Pure Fix Cycles with my brother and two best friends right out of college, and the idea was to be a direct-to-consumer offering for stylish and affordable bikes. So thats what we did. Now, we’re in over 500 stores and shipping bikes across the globe - spreading the fixed gear love.&lt;/p&gt;
 
 &lt;p&gt;Why are fixies awesome? Have you seen one!? They’re just those bikes you see that look incredibly cool and require almost no maintenance. They’re also really fun to ride. Sold yet?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; As you know, .BIKE was released to the public on February 5th—and you&amp;rsquo;re now the proud owner of quite a few .BIKE domains. If you don&amp;rsquo;t mind me asking, what are some of your plans for them?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jordan:&lt;/strong&gt; Well, to be entirely honest, I’m not so sure! Some domains will probably just point to purefixcycles.com like fixedgear.bike and others we’ll do something a bit more fun. One little fun one is &lt;a href=&#34;http://nicks.bike&#34;&gt;nicks.bike&lt;/a&gt; &amp;ndash; thats Nick’s bike!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jordan:&lt;/strong&gt; Well, to be entirely honest, I’m not so sure! Some domains will probably just point to purefixcycles.com like fixedgear.bike and others we’ll do something a bit more fun. One little fun one is &lt;a href=&#34;http://nicks.bike&#34;&gt;nicks.bike&lt;/a&gt; - thats Nick’s bike!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Here&amp;rsquo;s the big question. As a small business owner, do you think you&amp;rsquo;ll ever move your company from a .com domain to a .bike domain—or any other generic domain extension for that matter? Is the world ready for that?&lt;/p&gt;
 
@@ -5844,7 +5865,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;!-- excerpt --&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn: Hi Jo-John, thanks for chatting with us! Let&amp;rsquo;s start with the big topic&amp;mdash;tell us all about .club. Who do you see as the primary market for it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn: Hi Jo-John, thanks for chatting with us! Let&amp;rsquo;s start with the big topic--tell us all about .club. Who do you see as the primary market for it?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Jo-John:&lt;/strong&gt; We see &lt;a href=&#34;https://iwantmyname.com/domains/dot-club&#34;&gt;.CLUB&lt;/a&gt; as a mainstream, mass-market TLD, and it has already consistently been listed in the &amp;ldquo;Top 10&amp;rdquo; or &amp;ldquo;most popular&amp;rdquo; of the new TLDs by websites offering pre-registration interest and watch lists. Of all the top names, .CLUB will be the first of the most popular names to launch early in 2014. All the other top names (excluding GEOs) are still in contention or have GAC advice which may delay their launch.&lt;/p&gt;
 
@@ -5862,7 +5883,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;&lt;strong&gt;iwmn: We love a good domain name here at iwantmyname, and .club has a number of great domain possibilities available (chess.club was a huge hit in my younger years). Give us a few good ones people should be pining for.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jo-John:&lt;/strong&gt; There are so many great names where the word to the right of the dot actually adds meaning and value.  Retailers can use a .CLUB name for their loyalty programs, such as Safeway.club or Admirals.club. Then, there are the social groups like the one you mentioned you were part of, Chess.club. How about people who are Poker Hobbyists like Poker.club or owners of Jeeps who have a passion to go off-road and have a club called Jeepsters.club, and of course for all of these club categories there are countless regional versions &amp;ndash; BocaRatonChess.club, VegasPoker.club, MiamiTennis.club, and on and on and on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jo-John:&lt;/strong&gt; There are so many great names where the word to the right of the dot actually adds meaning and value.  Retailers can use a .CLUB name for their loyalty programs, such as Safeway.club or Admirals.club. Then, there are the social groups like the one you mentioned you were part of, Chess.club. How about people who are Poker Hobbyists like Poker.club or owners of Jeeps who have a passion to go off-road and have a club called Jeepsters.club, and of course for all of these club categories there are countless regional versions - BocaRatonChess.club, VegasPoker.club, MiamiTennis.club, and on and on and on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn: What does the future of .club look like? How big do you expect it to get?&lt;/strong&gt;&lt;/p&gt;
 
@@ -6000,7 +6021,7 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;p&gt;Events in the Philippines led to us to bringing forward our long held plans to contribute a portion of our sales revenue to social causes. What more deserving beneficiary could there be in 2013? We &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/for-our-birthday-were-giving-back-and-you-should-too.html&#34;&gt;selected&lt;/a&gt; Save The Children&amp;rsquo;s Philippines fund to support.&lt;/p&gt;
 
-&lt;p&gt;The global economy also showed some signs of improvement this year and we responded by adding our first U.S. based employee &lt;a href=&#34;https://iwantmyname.com/blog/2013/09/chris-hall-is-a-writer.html&#34;&gt;Chris Hall&lt;/a&gt;. He&amp;rsquo;s being doing an outstanding job delivering high value web content that gets us noticed in the world. If you want to keep up with the latest in tech tips and updates on the domain name business, be sure to check out our &lt;a href=&#34;https://iwantmyname.com/blog/&#34;&gt;international blog&lt;/a&gt; channel. It seems our promotional efforts and rising international reputation did not go unnoticed &amp;ndash; in 2013 we even got a &lt;a href=&#34;http://www.nytimes.com/2013/09/05/technology/personaltech/planting-your-flag-on-a-patch-of-the-web.html&#34;&gt;nice mention in the New York Times&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The global economy also showed some signs of improvement this year and we responded by adding our first U.S. based employee &lt;a href=&#34;https://iwantmyname.com/blog/2013/09/chris-hall-is-a-writer.html&#34;&gt;Chris Hall&lt;/a&gt;. He&amp;rsquo;s being doing an outstanding job delivering high value web content that gets us noticed in the world. If you want to keep up with the latest in tech tips and updates on the domain name business, be sure to check out our &lt;a href=&#34;https://iwantmyname.com/blog/&#34;&gt;international blog&lt;/a&gt; channel. It seems our promotional efforts and rising international reputation did not go unnoticed - in 2013 we even got a &lt;a href=&#34;http://www.nytimes.com/2013/09/05/technology/personaltech/planting-your-flag-on-a-patch-of-the-web.html&#34;&gt;nice mention in the New York Times&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;On the home front, the New Zealand registry began marketing the &lt;a href=&#34;https://iwantmyname.com/domains/dot-nz&#34;&gt;new .nz domain&lt;/a&gt; after a hurry up from &lt;a href=&#34;https://iwantmyname.com/blog/2013/06/kiwi-domain-ready-to-fly.html&#34;&gt;.kiwi&lt;/a&gt; which got the nod from ICANN earlier in the year. We are expecting 2014 to be just as busy with more gTLDs in the pipeline plus more development to make iwantmyname even better.&lt;/p&gt;
 
@@ -6043,19 +6064,19 @@ familiar. We also found consumers preferred to use .nz websites over .com ones.&
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; So what happens to existing .CO.NZ domains now? Will there be a grandfathering period? Priority registration?&lt;/p&gt;
 
-&lt;p&gt;It is important to note that no change will be made to existing second levels &amp;ndash; all existing domain names will continue to be available, and people will still be able to register new domain names in second level categories like .co.nz, .org.nz, etc. DNCL will also continue to expand the choice of second levels as appropriate.&lt;/p&gt;
+&lt;p&gt;It is important to note that no change will be made to existing second levels - all existing domain names will continue to be available, and people will still be able to register new domain names in second level categories like .co.nz, .org.nz, etc. DNCL will also continue to expand the choice of second levels as appropriate.&lt;/p&gt;
 
 &lt;p&gt;In early 2014, a final policy implementing the proposal will be subject to public consultation and it will explain in detail what will happen to existing .nz registrants. What is unlikely to change is what is explained in our existing &lt;a href=&#34;http://dnc.org.nz/faq-registrations-directly-second-level?m=635&#34;&gt;FAQ section&lt;/a&gt;, which states that anyone who held a .nz domain name prior to 9am on 30 May 2012 will have access, or be eligible to, some sort of preferential registration. They will fit into two categories: Competing Registrants and Non-Competing Registrants.&lt;/p&gt;
 
 &lt;p&gt;If a Registrant got their domain name before 9am on Wednesday 30 May, 2012, and no one else registered that same name in another second level category before this date, they are non-competing Registrants. Those who fall into this category will be informed of this. These people will be given the option to register their name in a preferential registration period, or reserve their name for up to two years at no charge. DNCL research shows that over 90% of existing names are in this category.&lt;/p&gt;
 
-&lt;p&gt;If two or more Registrants registered a domain name under different second levels &amp;ndash; and they did so before 9am on Wednesday 30 May, 2012 &amp;ndash; they will be considered a &amp;lsquo;Competing Registrant&amp;rsquo;. An example of this would be one person having anyname.co.nz and a second person having anyname.net.nz. Anyone who falls into this category will be informed of this fact. Without going into too much detail, these people would either get consent from the other registrants and register their
+&lt;p&gt;If two or more Registrants registered a domain name under different second levels - and they did so before 9am on Wednesday 30 May, 2012 - they will be considered a &amp;lsquo;Competing Registrant&amp;rsquo;. An example of this would be one person having anyname.co.nz and a second person having anyname.net.nz. Anyone who falls into this category will be informed of this fact. Without going into too much detail, these people would either get consent from the other registrants and register their
 domain name at the second level or give up their rights to it altogether. Please note that even if they give up their rights to their name at the second level, they will continue to be able to use their existing .nz domain name. If no agreement can be reached and the
 name remains conflicted, then no one will be able to register it. Our research shows less than 10% of names fall into this category.&lt;/p&gt;
 
-&lt;p&gt;As mentioned previously, though, the final consultation policy &amp;ndash; which will outline what will happen to all .nz registrants &amp;ndash; won&amp;rsquo;t happen until early next year.&lt;/p&gt;
+&lt;p&gt;As mentioned previously, though, the final consultation policy - which will outline what will happen to all .nz registrants - won&amp;rsquo;t happen until early next year.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; A lot of people not in the industry probably wonder why .NZ didn&amp;rsquo;t exist from the start&amp;mdash;it seems to a far superior TLD than .CO.NZ. Can you talk us through that history a bit?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; A lot of people not in the industry probably wonder why .NZ didn&amp;rsquo;t exist from the start--it seems to a far superior TLD than .CO.NZ. Can you talk us through that history a bit?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Patrick:&lt;/strong&gt; The background to the .nz domain name space stems from when Waikato University ran the .nz domain name space. In fact, in the early days a consortium of universities made decisions around the structure of .nz.  Later, InternetNZ entered into an arrangement with ICANN to hold delegation over the .nz domain name space.&lt;/p&gt;
 
@@ -6065,7 +6086,7 @@ around at the time. In the years that have passed, however, things have changed.
 &lt;p&gt;With the benefit of hindsight, it easy to look back and think about how improvements might have been made.  Armed with this knowledge, if we were starting today we probably would do things differently. For
 open registrations we probably would have allowed registrations at the second level from day one. However, we also believe there is a place for moderated spaces like .govt and .health and we would keep this policy for similarly appropriate bodies.&lt;/p&gt;
 
-&lt;p&gt;With the changes we&amp;rsquo;re making today we think we are offering the best of both worlds and that allowing registrations at the second and third level will allow people to identify with existing second levels or dissociate with them if they don&amp;rsquo;t. For example, businesses can still identify themselves as a company by using .co.nz and oganisations can do the same with .org.nz. However if you&amp;rsquo;re neither of these things &amp;ndash; and no other second level speaks to you &amp;ndash; you could go straight to registering at the second level. From our perspective, this approach offers more choice and benefits to everyone.&lt;/p&gt;
+&lt;p&gt;With the changes we&amp;rsquo;re making today we think we are offering the best of both worlds and that allowing registrations at the second and third level will allow people to identify with existing second levels or dissociate with them if they don&amp;rsquo;t. For example, businesses can still identify themselves as a company by using .co.nz and oganisations can do the same with .org.nz. However if you&amp;rsquo;re neither of these things - and no other second level speaks to you - you could go straight to registering at the second level. From our perspective, this approach offers more choice and benefits to everyone.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; And finally, aside from launching .NZ, tell us more about what DNC does and how it is different from NZRS and InternetNZ. What are the big issues of today and tomorrow?&lt;/p&gt;
 
@@ -6102,7 +6123,7 @@ and more secure.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ben:&lt;/strong&gt; Alternative TLDs have already hit mass acceptance, and there are three reasons why.&lt;/p&gt;
 
-&lt;p&gt;Firstly, domains like &lt;a href=&#34;https://iwantmyname.com/domains/org-domain-name-registration-for-organisation&#34;&gt;.org&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.de&lt;/a&gt;, and even SLD (&amp;ldquo;second level domain&amp;rdquo;) extensions like &lt;a href=&#34;https://iwantmyname.com/domains/co.uk-british-domain-name-registration-for-united-kingdom&#34;&gt;.co.uk&lt;/a&gt; have all sold over 10 million domains, because they have a specific meaning that is different from .com &amp;ndash; if you want to let people know you are a not-for-profit, or a German business, or a British business, then those domains are much better than .com. And there is no doubt that some of the new gTLDs will also be a more suitable domain extension than .com for large numbers of registrants.&lt;/p&gt;
+&lt;p&gt;Firstly, domains like &lt;a href=&#34;https://iwantmyname.com/domains/org-domain-name-registration-for-organisation&#34;&gt;.org&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.de&lt;/a&gt;, and even SLD (&amp;ldquo;second level domain&amp;rdquo;) extensions like &lt;a href=&#34;https://iwantmyname.com/domains/co.uk-british-domain-name-registration-for-united-kingdom&#34;&gt;.co.uk&lt;/a&gt; have all sold over 10 million domains, because they have a specific meaning that is different from .com - if you want to let people know you are a not-for-profit, or a German business, or a British business, then those domains are much better than .com. And there is no doubt that some of the new gTLDs will also be a more suitable domain extension than .com for large numbers of registrants.&lt;/p&gt;
 
 &lt;p&gt;Secondly, with 110 million .com domains registered, good domains are not available with .com endings, or only available on the secondary market for hundreds, thousands, even millions of dollars. So alternatives to .com like &lt;a href=&#34;https://iwantmyname.com/domains/us.com-american-domain-name-registration-for-united-states-of-america&#34;&gt;.us.com&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/biz-domain-name-registration-for-business&#34;&gt;.biz&lt;/a&gt; and &lt;a href=&#34;https://iwantmyname.com/domains/info-domain-name-registration-for-information&#34;&gt;.info&lt;/a&gt; already sell in large numbers too.&lt;/p&gt;
 
@@ -6147,23 +6168,23 @@ and more secure.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Guest post by Aimee Whitcroft&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This coming Saturday December 14th, &lt;a href=&#34;https://iwantmyname.co.nz/&#34;&gt;iwantmyname&lt;/a&gt; is really happy to be sponsoring the Wellington &lt;a href=&#34;http://www.meetup.com/kiwi-code-retreat/events/142880662/&#34;&gt;Kiwi Code Retreat&lt;/a&gt;. It&amp;rsquo;s part of &lt;a href=&#34;http://globalday.coderetreat.org/&#34;&gt;Global Day of Coderetreat&lt;/a&gt;, in which thousands of software developers in well over a hundred cities spend the day practicing their craft &amp;ndash; code.&lt;/p&gt;
+&lt;p&gt;This coming Saturday December 14th, &lt;a href=&#34;https://iwantmyname.co.nz/&#34;&gt;iwantmyname&lt;/a&gt; is really happy to be sponsoring the Wellington &lt;a href=&#34;http://www.meetup.com/kiwi-code-retreat/events/142880662/&#34;&gt;Kiwi Code Retreat&lt;/a&gt;. It&amp;rsquo;s part of &lt;a href=&#34;http://globalday.coderetreat.org/&#34;&gt;Global Day of Coderetreat&lt;/a&gt;, in which thousands of software developers in well over a hundred cities spend the day practicing their craft - code.&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
 &lt;p&gt;Amy Palamountain, who is organiser and co-host with her partner Martin Holman, likens the retreat to the practice time put in by musicians. When musicians perform, the audience is amazed and thrilled by the musicians&amp;rsquo; mastery of their chosen instrument, but of course you don&amp;rsquo;t see the hours and years of practice put in behind the scenes. Hence the retreat. Says Amy: &amp;ldquo;Building software is a very creative endeavour, yet we go to work every day and essentially perform. We practice our craft often during the performance itself (if that makes sense!).&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;She goes on to say: &amp;ldquo;How much better would we be at our craft if we actually put time into practice &amp;ndash; practice with no consequence? No client waiting for a solution, no expectations, just time to push your craft to the next level.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;She goes on to say: &amp;ldquo;How much better would we be at our craft if we actually put time into practice - practice with no consequence? No client waiting for a solution, no expectations, just time to push your craft to the next level.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;The day will be split into six blocks, with coders changing partners for each block. Everyone is given a problem to work on, and a constraint that is added into the mix. At the end of each session, all traces of the code are deleted &amp;ndash; the point being to stretch one&amp;rsquo;s coding muscles.&lt;/p&gt;
+&lt;p&gt;The day will be split into six blocks, with coders changing partners for each block. Everyone is given a problem to work on, and a constraint that is added into the mix. At the end of each session, all traces of the code are deleted - the point being to stretch one&amp;rsquo;s coding muscles.&lt;/p&gt;
 
-&lt;p&gt;Amy knows what she&amp;rsquo;s talking about when it comes to code &amp;ndash; from Wellington originally, she&amp;rsquo;s been coding professionally for 6+ years, speaks regularly at schools and conferences, and is just about to start at &lt;a href=&#34;https://iwantmyname.co.nz/services/developer/github-pages-custom-domain&#34;&gt;GitHub&lt;/a&gt;! She says she &amp;ldquo;loves being part of a community of people who write code; people who make things&amp;rdquo;, and can&amp;rsquo;t wait for this weekend. Martin works at &lt;a href=&#34;http://www.mindscapehq.com/&#34;&gt;MindScape&lt;/a&gt;, building an error reporting service called RayGun.&lt;/p&gt;
+&lt;p&gt;Amy knows what she&amp;rsquo;s talking about when it comes to code - from Wellington originally, she&amp;rsquo;s been coding professionally for 6+ years, speaks regularly at schools and conferences, and is just about to start at &lt;a href=&#34;https://iwantmyname.co.nz/services/developer/github-pages-custom-domain&#34;&gt;GitHub&lt;/a&gt;! She says she &amp;ldquo;loves being part of a community of people who write code; people who make things&amp;rdquo;, and can&amp;rsquo;t wait for this weekend. Martin works at &lt;a href=&#34;http://www.mindscapehq.com/&#34;&gt;MindScape&lt;/a&gt;, building an error reporting service called RayGun.&lt;/p&gt;
 
 &lt;p&gt;When asked why they&amp;rsquo;re hosting this year&amp;rsquo;s event? &amp;ldquo;We&amp;rsquo;re both firm believers in software craftsmanship, and that the values of writing great code transcend the language you program in.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;And it&amp;rsquo;s such a great way to meet and hang out with a bunch of Wellington&amp;rsquo;s top programmers!&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;We couldn&amp;rsquo;t agree more, and we&amp;rsquo;re really proud to be sponsoring this year&amp;rsquo;s event, especially having recently marked &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/happy-5th-birthday-iwantmyname.html&#34;&gt;five years&lt;/a&gt; of being part of the Wellington tech community. We hope you enjoy it as much as we&amp;rsquo;ve enjoyed supporting it. [btw &amp;ndash; if you are based north of the Bombay hills, have no fear! There&amp;rsquo;s an &lt;a href=&#34;http://www.meetup.com/kiwi-code-retreat/events/142664562/&#34;&gt;Auckland version&lt;/a&gt;, too.&lt;/p&gt;
+&lt;p&gt;We couldn&amp;rsquo;t agree more, and we&amp;rsquo;re really proud to be sponsoring this year&amp;rsquo;s event, especially having recently marked &lt;a href=&#34;https://iwantmyname.com/blog/2013/12/happy-5th-birthday-iwantmyname.html&#34;&gt;five years&lt;/a&gt; of being part of the Wellington tech community. We hope you enjoy it as much as we&amp;rsquo;ve enjoyed supporting it. [btw - if you are based north of the Bombay hills, have no fear! There&amp;rsquo;s an &lt;a href=&#34;http://www.meetup.com/kiwi-code-retreat/events/142664562/&#34;&gt;Auckland version&lt;/a&gt;, too.&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -6180,7 +6201,7 @@ and more secure.&lt;/p&gt;
 				<title>Four-Letter .COMs Are A Four-Letter Word--Gone</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-12-05-bigstock-Sold-Out-Rubber-Stamp-43310818.jpg&#34; alt=&#34;bigstock-Sold-Out-Rubber-Stamp-43310818.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.slate.com/blogs/future_tense/2013/12/04/four_letter_domain_names_zero_unclaimed_llll_dot_coms_left_on_the_internet.html&#34;&gt;From Will Oremus &amp;ndash; Slate:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slate.com/blogs/future_tense/2013/12/04/four_letter_domain_names_zero_unclaimed_llll_dot_coms_left_on_the_internet.html&#34;&gt;From Will Oremus - Slate:&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;We&amp;rsquo;re not just talking about four-letter names that spell actual words, like cars.com or pets.com (R.I.P). We&amp;rsquo;re not even just talking about pronounceable four-letter combinations, like eBay, Yelp, Etsy, and Hulu. We&amp;rsquo;re talking every possible four-letter combination, from aaaa.com to zzzz.com. That&amp;rsquo;s a total of 456,976 combinations. &lt;a href=&#34;http://whoapi.com/blog/1413/we-are-out-of-4-letter-com-domains/&#34;&gt;WhoAPI&lt;/a&gt; checked all 456,976 of them, and confirmed that not one remains unregistered.&lt;/p&gt;
@@ -6203,7 +6224,7 @@ and more secure.&lt;/p&gt;
 				<title>For Our Birthday, We&#39;re Giving Back (And You Should Too)</title>
 				<description>&lt;!-- excerpt --&gt;
 
-&lt;p&gt;iwantmyname is turning five this week&amp;mdash;a remarkable feat for any online business. And with a great staff, wonderful community support and unbelievably loyal customers, we&amp;rsquo;re excited about what the future holds.&lt;/p&gt;
+&lt;p&gt;iwantmyname is turning five this week--a remarkable feat for any online business. And with a great staff, wonderful community support and unbelievably loyal customers, we&amp;rsquo;re excited about what the future holds.&lt;/p&gt;
 
 &lt;p&gt;To mark the occasion, we&amp;rsquo;re making a small but very significant change. From this week on, we&amp;rsquo;re going to donate 10 cents from each domain registered to global aid initiatives. It&amp;rsquo;s a small amount to begin with, but it&amp;rsquo;s a sustainable way we can celebrate our good fortune by giving back.&lt;/p&gt;
 
@@ -6242,9 +6263,9 @@ and more secure.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Hi Mason, thanks for doing this with us. So first off, tell us a bit about .GURU. What&amp;rsquo;s its origin story?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Mason:&lt;/strong&gt; Donuts examined about 3,000 potential gTLDs for which to apply and narrowed that list to our eventual 307. According to the data we examined, there&amp;rsquo;s pretty good demand in the market for various specific domain names, including .GURU. It&amp;rsquo;s not that we had a particular affinity for the term (though we do like it) &amp;mdash; it&amp;rsquo;s more that we learned there are potential registrants who would like to use the name for all kinds of reasons. And we&amp;rsquo;re in the business of supplying new and varied Internet identity options.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mason:&lt;/strong&gt; Donuts examined about 3,000 potential gTLDs for which to apply and narrowed that list to our eventual 307. According to the data we examined, there&amp;rsquo;s pretty good demand in the market for various specific domain names, including .GURU. It&amp;rsquo;s not that we had a particular affinity for the term (though we do like it) -- it&amp;rsquo;s more that we learned there are potential registrants who would like to use the name for all kinds of reasons. And we&amp;rsquo;re in the business of supplying new and varied Internet identity options.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; We&amp;rsquo;ve seen a surprising amount of interest in .GURU specifically&amp;mdash;how much realistic growth potential do you see there?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; We&amp;rsquo;ve seen a surprising amount of interest in .GURU specifically--how much realistic growth potential do you see there?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Mason:&lt;/strong&gt; Well, your numbers are telling you the story.  Suffice to say we would not have put $185,000 into an application if we didn&amp;rsquo;t think it had a reasonable amount of potential.&lt;/p&gt;
 
@@ -6277,7 +6298,7 @@ and more secure.&lt;/p&gt;
 
 &lt;!-- excerpt --&gt;
 
-&lt;p&gt;No matter what you want to say on Twitter, you only get 140 characters to say it. On one hand, it&amp;rsquo;s part of the reason Twitter has been so successful&amp;mdash;it mercilessly removes fluff from online writing. But when it comes to sharing links, 140 characters can really cramp your style.&lt;/p&gt;
+&lt;p&gt;No matter what you want to say on Twitter, you only get 140 characters to say it. On one hand, it&amp;rsquo;s part of the reason Twitter has been so successful--it mercilessly removes fluff from online writing. But when it comes to sharing links, 140 characters can really cramp your style.&lt;/p&gt;
 
 &lt;p&gt;To get around this, you can shorten them using a number of generic link-shortening platforms. But if you&amp;rsquo;re ambitious, you can &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/the-tools-we-use-bitly-for-link-shortening.html&#34;&gt;&lt;em&gt;brand&lt;/em&gt; your links with Bitly&lt;/a&gt; using a simple &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html&#34;&gt;domain hack&lt;/a&gt;, like our personal favorite, &lt;a href=&#34;http://iwnt.my&#34;&gt;&lt;em&gt;iwnt.my&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -6286,16 +6307,16 @@ and more secure.&lt;/p&gt;
 &lt;!-- /excerpt --&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Star Wars &amp;ndash; &lt;a href=&#34;http://archived.link/http://strw.rs&#34;&gt;strw.rs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;YouTube &amp;ndash; &lt;a href=&#34;http://youtu.be&#34;&gt;youtu.be&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bon Appetit &amp;ndash; &lt;a href=&#34;http://bonapp.it&#34;&gt;bonapp.it&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Disney &amp;ndash; &lt;a href=&#34;http://di.sn&#34;&gt;nyti.ms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Chobani &amp;ndash; &lt;a href=&#34;http://cho.ba&#34;&gt;cho.ba&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Rolling Stone &amp;ndash; &lt;a href=&#34;http://rol.st&#34;&gt;rol.st&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Verge &amp;ndash; &lt;a href=&#34;http://vrge.co&#34;&gt;vrge.co&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Virgin &amp;ndash; &lt;a href=&#34;http://virg.in&#34;&gt;virg.in&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;BBC &amp;ndash; &lt;a href=&#34;http://bbc.in&#34;&gt;bbc.in&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Pepsi &amp;ndash; &lt;a href=&#34;http://pep.si&#34;&gt;pep.si&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Star Wars - &lt;a href=&#34;http://archived.link/http://strw.rs&#34;&gt;strw.rs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;YouTube - &lt;a href=&#34;http://youtu.be&#34;&gt;youtu.be&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bon Appetit - &lt;a href=&#34;http://bonapp.it&#34;&gt;bonapp.it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Disney - &lt;a href=&#34;http://di.sn&#34;&gt;nyti.ms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chobani - &lt;a href=&#34;http://cho.ba&#34;&gt;cho.ba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rolling Stone - &lt;a href=&#34;http://rol.st&#34;&gt;rol.st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Verge - &lt;a href=&#34;http://vrge.co&#34;&gt;vrge.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Virgin - &lt;a href=&#34;http://virg.in&#34;&gt;virg.in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BBC - &lt;a href=&#34;http://bbc.in&#34;&gt;bbc.in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pepsi - &lt;a href=&#34;http://pep.si&#34;&gt;pep.si&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If you&amp;rsquo;re interested in doing something like this for yourself, &lt;a href=&#34;https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service&#34;&gt;grab the shortest relevant domain you can find&lt;/a&gt; and head to Bitly to set up your custom short URL.&lt;/p&gt;
@@ -6342,13 +6363,13 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 
 &lt;!-- excerpt --&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Dr. Crockett, thanks for doing this with us! So I&amp;rsquo;ll jump right to it&amp;mdash;Spark is really really cool, and we think more people should know about it. Give us the rundown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Dr. Crockett, thanks for doing this with us! So I&amp;rsquo;ll jump right to it--Spark is really really cool, and we think more people should know about it. Give us the rundown.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Zachary:&lt;/strong&gt; We make tools to help people build internet-connected hardware products. Our first product, the Spark Core (video above), is a small development kit for a hardware product with a Wi-Fi connection. Think appliances, toys, home security and monitoring. It&amp;rsquo;s a fork of Arduino, so folks who have done hardware prototyping with an Arduino would be comfortable with the Spark Core.&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Your domain is also quite cool&amp;mdash;&lt;a href=&#34;https://www.spark.io&#34;&gt;spark.io&lt;/a&gt;. Tell us a little about how you guys came to choosing a .io domain.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Your domain is also quite cool--&lt;a href=&#34;https://www.spark.io&#34;&gt;spark.io&lt;/a&gt;. Tell us a little about how you guys came to choosing a .io domain.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Zachary:&lt;/strong&gt; .io domains are being used more and more frequently in the world of developer tools, and since that&amp;rsquo;s what we&amp;rsquo;re building, .io seemed very appropriate for us.&lt;/p&gt;
 
@@ -6356,9 +6377,9 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 
 &lt;p&gt;&lt;strong&gt;Zachary:&lt;/strong&gt; I think the stigma around non-.com domains is gone because there are so many great start-ups using other TLDs. However there are still &amp;ldquo;cool&amp;rdquo; and &amp;ldquo;not cool&amp;rdquo; TLDs, and they vary by industry.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; And what about Kickstarter? We&amp;rsquo;ve seen some amazing projects come through with Kickstarter funding&amp;mdash;how was that process? Exciting? Horrifying?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; And what about Kickstarter? We&amp;rsquo;ve seen some amazing projects come through with Kickstarter funding--how was that process? Exciting? Horrifying?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Zachary:&lt;/strong&gt; Exciting :&amp;ndash;) Kickstarter is a wonderful vehicle to launch a product, and the &lt;a href=&#34;http://www.kickstarter.com/projects/sparkdevices/spark-core-wi-fi-for-everything-arduino-compatible&#34;&gt;Kickstarter community&lt;/a&gt; is so supportive. We&amp;rsquo;ve gotten incredible feedback from our backers that have made our product so much better.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zachary:&lt;/strong&gt; Exciting :-) Kickstarter is a wonderful vehicle to launch a product, and the &lt;a href=&#34;http://www.kickstarter.com/projects/sparkdevices/spark-core-wi-fi-for-everything-arduino-compatible&#34;&gt;Kickstarter community&lt;/a&gt; is so supportive. We&amp;rsquo;ve gotten incredible feedback from our backers that have made our product so much better.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; It looks like the target shipment date for Spark Core is November 18th? Where can we get one?&lt;/p&gt;
 
@@ -6404,9 +6425,9 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 
 &lt;p&gt;&lt;img src=&#34;/media/2013-11-07-crazydomains_certification.png&#34; alt=&#34;crazydomains_certification.png&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a trick many online businesses use to upsell&amp;mdash;providing services that users don&amp;rsquo;t quite understand as a scare tactic. The example here shows a Domain Certification that can be purchased at extra cost, complete with a paragraph of the benefits it can provide for your business. And for many users, that sort of add-on might sound reasonable.&lt;/p&gt;
+&lt;p&gt;This is a trick many online businesses use to upsell--providing services that users don&amp;rsquo;t quite understand as a scare tactic. The example here shows a Domain Certification that can be purchased at extra cost, complete with a paragraph of the benefits it can provide for your business. And for many users, that sort of add-on might sound reasonable.&lt;/p&gt;
 
-&lt;p&gt;But the truth is that when you purchase a domain, it&amp;rsquo;s registered to you through the underlying registry for a year&amp;mdash;no phony certification needed. Tricking your customers into purchasing add-ons just isn&amp;rsquo;t the way to do business on the modern web.&lt;/p&gt;
+&lt;p&gt;But the truth is that when you purchase a domain, it&amp;rsquo;s registered to you through the underlying registry for a year--no phony certification needed. Tricking your customers into purchasing add-ons just isn&amp;rsquo;t the way to do business on the modern web.&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -6734,21 +6755,21 @@ empathize with this tragedy. But we may also be feeling a little powerless to he
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Hi Tim. First off, I love your website, &lt;a href=&#34;http://www.dot-kiwi.com&#34;&gt;dot-kiwi.com&lt;/a&gt;. The design is nice, the copy is fun, but once .kiwi goes live, do you plan on switching domain extensions. Maybe to something like dot.kiwi?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Thanks! The website is a result of a lot of thought and planning &amp;ndash; we want to break industry standards (boring), and reach out to the consumer with a fun and innovative interface that brings life to domain names. We look forward to changing from our current .com URL to one of our very own .kiwi names &amp;ndash; what will it be? Well that&amp;rsquo;s going to be a surprise&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Thanks! The website is a result of a lot of thought and planning - we want to break industry standards (boring), and reach out to the consumer with a fun and innovative interface that brings life to domain names. We look forward to changing from our current .com URL to one of our very own .kiwi names - what will it be? Well that&amp;rsquo;s going to be a surprise&amp;hellip;.&lt;/p&gt;
 
 &lt;!-- /excerpt --&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; So let&amp;rsquo;s say you&amp;rsquo;re working for a smart, dynamic Kiwi company that&amp;rsquo;s looking to move away from the .co.nz extension. From a branding perspective, what makes .kiwi a better fit than .nz?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Well, it wasn&amp;rsquo;t me who said it, but there is a joke in the industry that goes something like this &amp;ldquo;Oh, .com? Yeah, that&amp;rsquo;s the domain my dad uses&amp;rdquo;. The joke is subtle, but powerful. New domains like .kiwi represent the fresh and exciting, probably most importantly it also means relevance. The way we see it is that the existing domains are more traditional and corporate, whereas new domains like .kiwi are fun, casual and social. The casual nature will suit SME&amp;rsquo;s and individuals very well, there&amp;rsquo;s been a gaping hole in the market for a long time. Lastly, ccTLDs tend to identify a jurisdiction or geography, .kiwi identifies the people &amp;ndash; that is a very important distinction when it comes to the web, where geography does not exist.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Well, it wasn&amp;rsquo;t me who said it, but there is a joke in the industry that goes something like this &amp;ldquo;Oh, .com? Yeah, that&amp;rsquo;s the domain my dad uses&amp;rdquo;. The joke is subtle, but powerful. New domains like .kiwi represent the fresh and exciting, probably most importantly it also means relevance. The way we see it is that the existing domains are more traditional and corporate, whereas new domains like .kiwi are fun, casual and social. The casual nature will suit SME&amp;rsquo;s and individuals very well, there&amp;rsquo;s been a gaping hole in the market for a long time. Lastly, ccTLDs tend to identify a jurisdiction or geography, .kiwi identifies the people - that is a very important distinction when it comes to the web, where geography does not exist.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Aside from sites in NZ, do you see .kiwi making an international push? I mean if MailChimp can make a chimp popular, do you think you have a chance with a really underrated bird?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Underrated and underestimated indeed &amp;ndash; that is the definition of the challenger and the underdog. We like that position and thrive on the challenge &amp;ndash; I think that is very Kiwi. We will do an international push, we are already doing it. I&amp;rsquo;m doing this interview from Miami, which is the 5th stop on a world tour of 17 cities. As Kiwis we have a story and we are proud of our achievements as a nation. So where better to tell those stories and showcase our achievements than internationally!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Underrated and underestimated indeed - that is the definition of the challenger and the underdog. We like that position and thrive on the challenge - I think that is very Kiwi. We will do an international push, we are already doing it. I&amp;rsquo;m doing this interview from Miami, which is the 5th stop on a world tour of 17 cities. As Kiwis we have a story and we are proud of our achievements as a nation. So where better to tell those stories and showcase our achievements than internationally!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; From an insider perspective, how did you go from dreaming up .kiwi to making it a reality?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Like anything you&amp;rsquo;ve got to keep things simple. Just identify what you need to do to launch, figure out what resources you need, and surround yourself with people who are much smarter than you! For Dot Kiwi, we have a great team with a great vision. This has been an almost 3 year process for us with a ridiculous amount of hurdles and challenges &amp;ndash; so if we couldn&amp;rsquo;t maintain our vision, things would have gotten pretty tough.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tim:&lt;/strong&gt; Like anything you&amp;rsquo;ve got to keep things simple. Just identify what you need to do to launch, figure out what resources you need, and surround yourself with people who are much smarter than you! For Dot Kiwi, we have a great team with a great vision. This has been an almost 3 year process for us with a ridiculous amount of hurdles and challenges - so if we couldn&amp;rsquo;t maintain our vision, things would have gotten pretty tough.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;iwmn:&lt;/strong&gt; Last but not least, when can country loving Kiwis get ahold of their .kiwi domains?&lt;/p&gt;
 
@@ -6989,7 +7010,7 @@ then been reminded that while 252 million of them have gone, there are a hundred
 
 &lt;p&gt;DNS technology touches your life in &lt;a href=&#34;http://www.huffingtonpost.com/paul-mockapetris/dns-what-celebrating-30-y_b_3211030.html&#34;&gt;many ways you probably don&amp;rsquo;t know&lt;/a&gt; every day. It stands for &lt;strong&gt;Domain Name System&lt;/strong&gt; which is the technology making it possible for you to type nice, human-friendly words into your address bar like &lt;em&gt;iwantmyname.com&lt;/em&gt; instead of computer readable IP addresses such as 50.56.80.249.&lt;/p&gt;
 
-&lt;p&gt;The interesting thing about DNS is that in this case, &lt;em&gt;iwantmyname.com&lt;/em&gt; and e.g. &lt;em&gt;50.56.80.249&lt;/em&gt; are the same thing. Try it out for yourself and put 50.56.80.249 into your address bar. It might give you a warning, but should still take you to our front page. DNS is simply that &amp;mdash; it allows computers to translate human readable things, like a URL, into an IP address. If you&amp;rsquo;re not clear on what an IP address is, think of it as a phone number in the phone book. It tells the potential caller where your phone is and how to call you. The phone book provides names so you know who you&amp;rsquo;re calling. DNS does the same thing. It provides a friendly, memorable name, which the DNS associates with a website at the numbered address.&lt;/p&gt;
+&lt;p&gt;The interesting thing about DNS is that in this case, &lt;em&gt;iwantmyname.com&lt;/em&gt; and e.g. &lt;em&gt;50.56.80.249&lt;/em&gt; are the same thing. Try it out for yourself and put 50.56.80.249 into your address bar. It might give you a warning, but should still take you to our front page. DNS is simply that -- it allows computers to translate human readable things, like a URL, into an IP address. If you&amp;rsquo;re not clear on what an IP address is, think of it as a phone number in the phone book. It tells the potential caller where your phone is and how to call you. The phone book provides names so you know who you&amp;rsquo;re calling. DNS does the same thing. It provides a friendly, memorable name, which the DNS associates with a website at the numbered address.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re certainly glad this exists, otherwise it would be pretty hard for people to remember to visit us at 50.56.80.249, right?&lt;/p&gt;
 
@@ -7185,7 +7206,7 @@ international aid work with very targeted and well researched actions which genu
 				<title>Need To Register Domains Requiring A Postal Address In Europe? We&#39;ve Got You Covered!</title>
 				<description>&lt;p&gt;&lt;img src=&#34;/media/2013-02-15-europe-flag.jpg&#34; alt=&#34;europe-flag.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;Almost 20 years after founding the European Union, one would think that it may also have had a profound impact on the country code top-level domains (ccTLDs) of its member states &amp;mdash; but the reality is looking somewhat different. In 2013 there are still quite a few restricted European top-level domains (TLDs) which require a local presence in the respective country.&lt;/p&gt;
+&lt;p&gt;Almost 20 years after founding the European Union, one would think that it may also have had a profound impact on the country code top-level domains (ccTLDs) of its member states -- but the reality is looking somewhat different. In 2013 there are still quite a few restricted European top-level domains (TLDs) which require a local presence in the respective country.&lt;/p&gt;
 
 &lt;p&gt;Luckily, you can buy some of these TLDs without an address in Germany, France, Italy or other countries in Europe. If you purchase one of the following domain extensions at iwantmyname, we can help you out with a local proxy service:&lt;/p&gt;
 
@@ -7466,7 +7487,7 @@ to defend against external attacks on networks. It amends some tired laws that d
 		
 			<item>
 				<title>Care For Dynamic DNS (DDNS) Updates?</title>
-				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS &amp;mdash; used widely by DynDNS &amp;mdash; which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
+				<description>&lt;p&gt;Over the past few days we had some requests for a simple API that allows DNS updates for your &lt;a href=&#34;https://iwantmyname.com/domains&#34;&gt;domains&lt;/a&gt; from the console or from within a script. We really wanted this for a long time too so I sat down and looked around for standards already in use. The de-facto standard for these sorts of updates seems to be DDNS -- used widely by DynDNS -- which is supported by many routers out of the box. We sat down and wrote a DDNS implementation for iwantmyname and you can use it right away. No configuration needed, no special stuff to set up, just start using it. The call looks like this:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;curl -u &amp;quot;[username]:[password]&amp;quot; \
   &amp;quot;https://iwantmyname.com/basicauth/ddns?hostname=[hostname1]&amp;amp;myip=[IP]&amp;quot;
@@ -7492,7 +7513,7 @@ to defend against external attacks on networks. It amends some tired laws that d
 		
 			<item>
 				<title>How A Personal Website Can Boost Your Business</title>
-				<description>&lt;p&gt;&lt;em&gt;Guest post by Per Schmitz &amp;mdash; Founder of &lt;a href=&#34;http://dooid.com&#34;&gt;DooID&lt;/a&gt;:&lt;/em&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;em&gt;Guest post by Per Schmitz -- Founder of &lt;a href=&#34;http://dooid.com&#34;&gt;DooID&lt;/a&gt;:&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2012-02-23-logo-profile-dooid.png&#34; alt=&#34;DooID&#34;&gt;&lt;/p&gt;
 
@@ -7502,7 +7523,7 @@ to defend against external attacks on networks. It amends some tired laws that d
 
 &lt;p&gt;Point people to one simple place where they can find your complete range of communication options, and can easily choose which way is the most comfortable for them to contact you. DooID allows to &lt;a href=&#34;https://iwantmyname.com/services/personal-profile/dooid-on-your-domain&#34;&gt;use your own domain name&lt;/a&gt; with the created personal website, which is a big advantage and adds professionalism when using your site for business purposes. A &lt;a href=&#34;https://iwantmyname.com/blog/2010/08/5-domain-extensions-for-your-personal-website.html&#34;&gt;personal domain name&lt;/a&gt; like &amp;ldquo;yourname.me&amp;rdquo; will make your site easier to remember and look more professional.&lt;/p&gt;
 
-&lt;p&gt;We just teamed up with &lt;a href=&#34;http://dooid.com&#34;&gt;DooID&lt;/a&gt; to help you &lt;a href=&#34;https://iwantmyname.com/services/personal-profile/dooid-on-your-domain&#34;&gt;set up your new domain and add it to your DooID site&lt;/a&gt; with one click &amp;mdash; without any technical skills.&lt;/p&gt;
+&lt;p&gt;We just teamed up with &lt;a href=&#34;http://dooid.com&#34;&gt;DooID&lt;/a&gt; to help you &lt;a href=&#34;https://iwantmyname.com/services/personal-profile/dooid-on-your-domain&#34;&gt;set up your new domain and add it to your DooID site&lt;/a&gt; with one click -- without any technical skills.&lt;/p&gt;
 </description>
 				<pubDate>Thu, 23 Feb 2012 15:32:56 UTC</pubDate>
 				
@@ -7560,7 +7581,7 @@ Recently you may have become aware of a list of corporations that are supporting
 
 &lt;p&gt;Artists, developers and other creatives certainly have a right to be fairly remunerated for their work. But the SOPA legislation, in its current form, has huge negative implications for digital innovation and personal freedoms globally. The Internet evolved largely on the basis of trust and openness and we get nervous when governments and corporations make up more rules that threaten those freedoms. If 2011 taught us nothing else, it was that the Internet has become the global vanguard of social democracy and a force for good. Let&amp;rsquo;s not give up those rights without a struggle!&lt;/p&gt;
 
-&lt;p&gt;A lot of good people are voting with their feet now and saying hey we don&amp;rsquo;t want to support big companies that are against Internet freedom. It&amp;rsquo;s hard to believe that any company would undermine the very industry that it purports to enable &amp;ndash; but it seems to be the case. So if you have strong views on this topic and you are thinking of &lt;a href=&#34;https://iwantmyname.com/domains/domain-transfer&#34;&gt;transferring your domain&lt;/a&gt; portfolio to a company that respects Internet freedom and opposes censorship, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;we&amp;rsquo;d love to hear from you&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A lot of good people are voting with their feet now and saying hey we don&amp;rsquo;t want to support big companies that are against Internet freedom. It&amp;rsquo;s hard to believe that any company would undermine the very industry that it purports to enable - but it seems to be the case. So if you have strong views on this topic and you are thinking of &lt;a href=&#34;https://iwantmyname.com/domains/domain-transfer&#34;&gt;transferring your domain&lt;/a&gt; portfolio to a company that respects Internet freedom and opposes censorship, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;we&amp;rsquo;d love to hear from you&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Update: In case you need a hand making a domain transfer, we&amp;rsquo;ve set up a free &lt;a href=&#34;https://iwantmyname.com/transferservice&#34;&gt;domain concierge&lt;/a&gt; service to alleviate any hassles.&lt;/p&gt;
 </description>
@@ -7759,7 +7780,7 @@ We appreciate that some of you may not want this due to obvious privacy reasons 
 
 &lt;p&gt;The &lt;a href=&#34;https://iwantmyname.com/about&#34;&gt;iwantmyname team&lt;/a&gt; know all about the challenges of building and growing a new tech venture. So we offer a whole bunch of &lt;a href=&#34;https://iwantmyname.com/blog/2011/06/14-new-hosting-services-applications-for-your-domains.html&#34;&gt;hosted services&lt;/a&gt; in our app marketplace specifically aimed at assisting developers getting new ventures up and running; including easy &lt;a href=&#34;https://iwantmyname.com/services&#34;&gt;one-click DNS set-up on your domain&lt;/a&gt;. Even if you already have a registrar, you can still use our nifty &lt;a href=&#34;https://iwantmyname.com/blog/2011/08/introducing-dns-hosting-for-external-domains.html&#34;&gt;DNS management&lt;/a&gt; service across your domain portfolio.&lt;/p&gt;
 
-&lt;p&gt;Startup Weekend is a global phenomenon that invites entrepreneurial developers, designers and business heads to form teams, build a product and launch it in the space of a weekend. SW Mega is focusing this time on health, education and gaming &amp;ndash; with the category winners earning an amazing opportunity to pitch at DEMO conference later in the week.&lt;/p&gt;
+&lt;p&gt;Startup Weekend is a global phenomenon that invites entrepreneurial developers, designers and business heads to form teams, build a product and launch it in the space of a weekend. SW Mega is focusing this time on health, education and gaming - with the category winners earning an amazing opportunity to pitch at DEMO conference later in the week.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 30 Aug 2011 10:16:37 UTC</pubDate>
 				
@@ -7825,7 +7846,7 @@ We appreciate that some of you may not want this due to obvious privacy reasons 
 		
 			<item>
 				<title>Don&#39;t Squash Your Customers Dreams</title>
-				<description>&lt;p&gt;&lt;strong&gt;Guest post by Josh Ledgard &amp;ndash; founder of &lt;a href=&#34;http://kickofflabs.com&#34;&gt;KickoffLabs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;strong&gt;Guest post by Josh Ledgard - founder of &lt;a href=&#34;http://kickofflabs.com&#34;&gt;KickoffLabs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Your customers have a vision that&amp;rsquo;s uniquely theirs.  Your goal as a product or service provider is to fulfill that dream by getting out of the way and making it easier to achieve than your competition.&lt;/p&gt;
 
@@ -7860,7 +7881,7 @@ We appreciate that some of you may not want this due to obvious privacy reasons 
 
 &lt;p&gt;Domain registration growth rates parallel a burgeoning Internet scene as web services continue to eat into traditional business models. Rapid growth in mobile and social content also draw in ever greater numbers of consumers. Internet infrastructure provider Verisign manages provisioning for .com and .net domains, which make up around half of all registrations and &lt;a href=&#34;http://www.verisigninc.com/en_US/why-verisign/research-trends/domain-name-industry-brief/index.xhtml&#34;&gt;reports quarterly&lt;/a&gt; on Internet growth. On average Verisign currently handles an astounding 57 billion domain name system queries each day. At peak levels of demand this can reach 67 billion transactions.&lt;/p&gt;
 
-&lt;p&gt;The value of Global web commerce is expected to reach almost US$1 Trillion within a couple of years and will be a key driver in overall growth of the Internet. Annual mobile commerce currently sits at a mere 2% of consumer sales transactions, but is expected to grow to US$15 billion in value within 5 years in the United States alone. So there remains plenty of scope for growth in new web and mobile commerce Internet offerings &amp;ndash; and in the demand for domain names.&lt;/p&gt;
+&lt;p&gt;The value of Global web commerce is expected to reach almost US$1 Trillion within a couple of years and will be a key driver in overall growth of the Internet. Annual mobile commerce currently sits at a mere 2% of consumer sales transactions, but is expected to grow to US$15 billion in value within 5 years in the United States alone. So there remains plenty of scope for growth in new web and mobile commerce Internet offerings - and in the demand for domain names.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 13 Jul 2011 19:57:41 UTC</pubDate>
 				
@@ -8017,11 +8038,11 @@ Co-founder&lt;/p&gt;
 
 &lt;p&gt;The chief issue with SSL is that today&amp;rsquo;s Javascript heavy pages load slowly because caching does not work under SSL. This brings down the performance significantly and may be a reason for those who don&amp;rsquo;t care about security to go elsewhere (and there are many who are willing to trade speed for security). A hybrid approach, involving loading the page itself in HTTPS and the Javascript and CSS files in HTTP, does not work either because it breaks the HTTPS browser security and confuses visitors more than it helps.&lt;/p&gt;
 
-&lt;p&gt;Looking at this dilemma we decided that because we are in the fortunate situation that our customers are generally more of a tech savvy crowd &amp;ndash; we can let them choose. If you are in the safe environment of your office, where you trust the ones who listen to your traffic, you may choose to trade security for speed and switch off the SSL protection for URLs that are considered safe. But if you are in a conference where normally some script kiddies listen to your traffic, it is a good idea to switch on the new session protection so that all traffic is SSL encrypted from the moment you log into our site.&lt;/p&gt;
+&lt;p&gt;Looking at this dilemma we decided that because we are in the fortunate situation that our customers are generally more of a tech savvy crowd - we can let them choose. If you are in the safe environment of your office, where you trust the ones who listen to your traffic, you may choose to trade security for speed and switch off the SSL protection for URLs that are considered safe. But if you are in a conference where normally some script kiddies listen to your traffic, it is a good idea to switch on the new session protection so that all traffic is SSL encrypted from the moment you log into our site.&lt;/p&gt;
 
 &lt;p&gt;So how does the standard SSL protection work on iwantmyname? We decided that some pages hold sensitive information and that we will only ever display them on HTTPS secured pages. However, others are not as sensitive and we display them on plain HTTP to gain some speed. All pages that handle passwords of any kind (including authorization codes for domain transfers) or billing information are secure, whereas others like your dashboard that only hold general information are served via HTTP.&lt;/p&gt;
 
-&lt;p&gt;While this gives security for the individual pages it does not secure against session hijacking. To enable SSL for the entire time your session is authorized on our page we added a new switch. In your Dashboard under &amp;ldquo;Account &amp;ndash;&amp;gt; Settings&amp;rdquo; is a switch for security settings. Enabling this switch will set your entire session to SSL irrespective of whether you are browsing our public website or looking at your credit card data. While this might slow down things a bit, it protects effectively against session hijacking and makes sure your domains are as safe as possible.&lt;/p&gt;
+&lt;p&gt;While this gives security for the individual pages it does not secure against session hijacking. To enable SSL for the entire time your session is authorized on our page we added a new switch. In your Dashboard under &amp;ldquo;Account -&amp;gt; Settings&amp;rdquo; is a switch for security settings. Enabling this switch will set your entire session to SSL irrespective of whether you are browsing our public website or looking at your credit card data. While this might slow down things a bit, it protects effectively against session hijacking and makes sure your domains are as safe as possible.&lt;/p&gt;
 
 &lt;p&gt;By providing you with this option we think that we can give you the flexibility to decide what level of security you need and then take the appropriate action.&lt;/p&gt;
 </description>
@@ -8129,7 +8150,7 @@ the future.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2010-05-19-services-setup1-1.png&#34; alt=&#34;services setup&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;The DNS management tool has been completely re-written and is available from the dashboard when logged in. It offers an easy-peasy way to handle domain set-ups in more detail. Let us know if you have any troubles using it &amp;ndash; we always love to get feedback so we can further improve the iwantmyname platform. There are some big future plans for DNS management on the site, which will be especially interesting for developers. We will let you know, so stay tuned!&lt;/p&gt;
+&lt;p&gt;The DNS management tool has been completely re-written and is available from the dashboard when logged in. It offers an easy-peasy way to handle domain set-ups in more detail. Let us know if you have any troubles using it - we always love to get feedback so we can further improve the iwantmyname platform. There are some big future plans for DNS management on the site, which will be especially interesting for developers. We will let you know, so stay tuned!&lt;/p&gt;
 </description>
 				<pubDate>Wed, 19 May 2010 15:20:09 UTC</pubDate>
 				
@@ -8144,7 +8165,7 @@ the future.&lt;/p&gt;
 We first launched iwantmyname into the U.S. market at the end of 2008 with the aim of satisfying a growing demand from customers for a cleaner, quicker way to register domains. As we anticipated, there was an enthusiastic uptake, especially from the web developer and designer community who immediately grasped the benefits of a much more user-friendly interface. Our offer of some free services not provided by many of the big domain registrars sealed the deal in the minds of many.
 During 2009 we were hard at work listening to our users, refining the platform technology and looking into other markets. We were soon approached by a partner in the Netherlands who had an existing hosting business and was keen to set up a Dutch language version of the site on a license basis. A German version of iwantmyname followed shortly afterwards. With sites operating successfully in three of the largest global markets for domains, it was time to refocus our attention on the local market.
 A lot of our Kiwi friends had begun to discover iwantmyname offshore and we had received an increasing number of requests for a New Zealand dollar denominated site. Like many Kiwis that venture offshore, it was time for iwantmyname to return home. The January Linux Conference proved to be the perfect opportunity to launch the &lt;a href=&#34;https://iwantmyname.co.nz&#34;&gt;New Zealand version of iwantmyname&lt;/a&gt; and to get some nice feedback from actual users who visited our trade stand at the event.
-If you have already used the NZ site &amp;ndash; thank-you for supporting a local business! If you only just heard about us, please &lt;a href=&#34;https://iwantmyname.co.nz/signin&#34;&gt;try a free account&lt;/a&gt; and check out our current &lt;a href=&#34;https://iwantmyname.co.nz/domain-promo-nz&#34;&gt;special offers&lt;/a&gt;. You can even be our &lt;a href=&#34;http://www.facebook.com/pages/iwantmyname-NZ/118040718222943?ref=ts&#34;&gt;Facebook&lt;/a&gt; friend &amp;ndash; we love feedback! Remember we have New Zealand&amp;rsquo;s largest range of domain extensions by far and lightning fast customer support that the big guys can only dream about.&lt;/p&gt;
+If you have already used the NZ site - thank-you for supporting a local business! If you only just heard about us, please &lt;a href=&#34;https://iwantmyname.co.nz/signin&#34;&gt;try a free account&lt;/a&gt; and check out our current &lt;a href=&#34;https://iwantmyname.co.nz/domain-promo-nz&#34;&gt;special offers&lt;/a&gt;. You can even be our &lt;a href=&#34;http://www.facebook.com/pages/iwantmyname-NZ/118040718222943?ref=ts&#34;&gt;Facebook&lt;/a&gt; friend - we love feedback! Remember we have New Zealand&amp;rsquo;s largest range of domain extensions by far and lightning fast customer support that the big guys can only dream about.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 05 May 2010 14:21:56 UTC</pubDate>
 				
@@ -8176,10 +8197,10 @@ If you have already used the NZ site &amp;ndash; thank-you for supporting a loca
 
 &lt;p&gt;Besides linking your domain to only one of the mentioned services, you could also create your own namespace like:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;yourdomainname.com/status&lt;/em&gt; &amp;ndash; forward to Twitter or Identi.ca
-&lt;em&gt;yourdomainname.com/profile&lt;/em&gt; &amp;ndash; forward to LinkedIn or Google Profiles
-&lt;em&gt;yourdomainname.com/video&lt;/em&gt; &amp;ndash; forward to Youtube or Vimeo
-&lt;em&gt;yourdomainname.com/music&lt;/em&gt; &amp;ndash; forward to Last.fm or MySpace&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;yourdomainname.com/status&lt;/em&gt; - forward to Twitter or Identi.ca
+&lt;em&gt;yourdomainname.com/profile&lt;/em&gt; - forward to LinkedIn or Google Profiles
+&lt;em&gt;yourdomainname.com/video&lt;/em&gt; - forward to Youtube or Vimeo
+&lt;em&gt;yourdomainname.com/music&lt;/em&gt; - forward to Last.fm or MySpace&lt;/p&gt;
 
 &lt;p&gt;You get the drift&amp;hellip; only by &lt;a href=&#34;https://iwantmyname.com&#34;&gt;owning a domain name&lt;/a&gt; and having control over the full web address, are you actually able to change the destination at any point in time. Don&amp;rsquo;t like Twitter anymore? Simply change &lt;em&gt;yourdomainname.com/status&lt;/em&gt; to another service.&lt;/p&gt;
 
@@ -8304,41 +8325,41 @@ If you have already used the NZ site &amp;ndash; thank-you for supporting a loca
 &lt;p&gt;Below is a handy reference list showing which ccTLDs are most popular:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.DE (Germany)&lt;/a&gt; &amp;ndash; 13.05 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cn-chinese-domain-name-registration-for-china&#34;&gt;.CN (China)&lt;/a&gt; &amp;ndash; 12.54 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/co.uk-domain-name-registration-for-united-kingdom&#34;&gt;.UK (United Kingdom)&lt;/a&gt; &amp;ndash; 7.83 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/nl-dutch-domain-name-registration-for-netherlands&#34;&gt;.NL (Netherlands)&lt;/a&gt; &amp;ndash; 3.51 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/eu-european-domain-name-registration-for-europe&#34;&gt;.EU (European Union)&lt;/a&gt; &amp;ndash; 2.98 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ru-russian-domain-name-registration-for-russian-federation&#34;&gt;.RU (Russia)&lt;/a&gt; &amp;ndash; 2.31 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tk-tokelauan-domain-name-registration-for-tokelau&#34;&gt;.TK (Tokelau)&lt;/a&gt; &amp;ndash; 1.97 million&lt;/li&gt;
-&lt;li&gt;.AR (Argentina) &amp;ndash; 1.85 million&lt;/li&gt;
-&lt;li&gt;.BR (Brazil) &amp;ndash; 1.81 million&lt;/li&gt;
-&lt;li&gt;.IT (Italy) &amp;ndash; 1.72 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/us-american-domain-name-registration-for-usa&#34;&gt;.US (USA)&lt;/a&gt; &amp;ndash; 1.63 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/pl-polish-domain-name-registration-for-poland&#34;&gt;.PL (Poland)&lt;/a&gt; &amp;ndash; 1.53 million&lt;/li&gt;
-&lt;li&gt;.FR (France) &amp;ndash; 1.5 million&lt;/li&gt;
-&lt;li&gt;.AU (Australia) &amp;ndash; 1.47 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34;&gt;.CH (Switzerland)&lt;/a&gt; &amp;ndash; 1.31 million&lt;/li&gt;
-&lt;li&gt;.CA (Canada) &amp;ndash; 1.26 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain&#34;&gt;.ES (Spain)&lt;/a&gt; &amp;ndash; 1.22 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/jp-japanese-domain-name-registration-for-japan&#34;&gt;.JP (Japan)&lt;/a&gt; &amp;ndash; 1.11 million&lt;/li&gt;
-&lt;li&gt;.KR (Korea) &amp;ndash; 1.04 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dk-danish-domain-name-registration-for-denmark&#34;&gt;.DK (Denmark)&lt;/a&gt; &amp;ndash; 1 million&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/be-belgian-domain-name-registration-for-belgium&#34;&gt;.BE (Belgium)&lt;/a&gt; &amp;ndash; 942,000&lt;/li&gt;
-&lt;li&gt;.SE (Sweden) &amp;ndash; 895,000&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria&#34;&gt;.AT (Austria)&lt;/a&gt; &amp;ndash; 876,000&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cz-domain-name-registration-for-czech-republic&#34;&gt;.CZ (Czech Republic)&lt;/a&gt; &amp;ndash; 591,000&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/in-indian-domain-name-registration-for-india&#34;&gt;.IN (India)&lt;/a&gt; &amp;ndash; 510,000&lt;/li&gt;
-&lt;li&gt;.HU (Hungary) &amp;ndash; 450,000&lt;/li&gt;
-&lt;li&gt;.NO (Norway) &amp;ndash; 439,000&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tw-taiwanese-domain-name-registration-for-taiwan&#34;&gt;.TW (Taiwan)&lt;/a&gt; &amp;ndash; 425,000&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/co.nz-domain-name-registration-for-new-zealand&#34;&gt;.NZ (New Zealand)&lt;/a&gt; &amp;ndash; 366,000&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/mx-mexican-domain-name-registration-for-mexico&#34;&gt;.MX (Mexico)&lt;/a&gt; &amp;ndash; 353,000&lt;/li&gt;
-&lt;li&gt;.PT (Portugal) &amp;ndash; 314,000&lt;/li&gt;
-&lt;li&gt;.CL (Chile) &amp;ndash; 257,000&lt;/li&gt;
-&lt;li&gt;.FI (Finland) &amp;ndash; 200,000&lt;/li&gt;
-&lt;li&gt;.HK (Hongkong) &amp;ndash; 178,000&lt;/li&gt;
-&lt;li&gt;.TR (Turkey) &amp;ndash; 133,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.DE (Germany)&lt;/a&gt; - 13.05 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cn-chinese-domain-name-registration-for-china&#34;&gt;.CN (China)&lt;/a&gt; - 12.54 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/co.uk-domain-name-registration-for-united-kingdom&#34;&gt;.UK (United Kingdom)&lt;/a&gt; - 7.83 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/nl-dutch-domain-name-registration-for-netherlands&#34;&gt;.NL (Netherlands)&lt;/a&gt; - 3.51 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/eu-european-domain-name-registration-for-europe&#34;&gt;.EU (European Union)&lt;/a&gt; - 2.98 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ru-russian-domain-name-registration-for-russian-federation&#34;&gt;.RU (Russia)&lt;/a&gt; - 2.31 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tk-tokelauan-domain-name-registration-for-tokelau&#34;&gt;.TK (Tokelau)&lt;/a&gt; - 1.97 million&lt;/li&gt;
+&lt;li&gt;.AR (Argentina) - 1.85 million&lt;/li&gt;
+&lt;li&gt;.BR (Brazil) - 1.81 million&lt;/li&gt;
+&lt;li&gt;.IT (Italy) - 1.72 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/us-american-domain-name-registration-for-usa&#34;&gt;.US (USA)&lt;/a&gt; - 1.63 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/pl-polish-domain-name-registration-for-poland&#34;&gt;.PL (Poland)&lt;/a&gt; - 1.53 million&lt;/li&gt;
+&lt;li&gt;.FR (France) - 1.5 million&lt;/li&gt;
+&lt;li&gt;.AU (Australia) - 1.47 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34;&gt;.CH (Switzerland)&lt;/a&gt; - 1.31 million&lt;/li&gt;
+&lt;li&gt;.CA (Canada) - 1.26 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain&#34;&gt;.ES (Spain)&lt;/a&gt; - 1.22 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/jp-japanese-domain-name-registration-for-japan&#34;&gt;.JP (Japan)&lt;/a&gt; - 1.11 million&lt;/li&gt;
+&lt;li&gt;.KR (Korea) - 1.04 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dk-danish-domain-name-registration-for-denmark&#34;&gt;.DK (Denmark)&lt;/a&gt; - 1 million&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/be-belgian-domain-name-registration-for-belgium&#34;&gt;.BE (Belgium)&lt;/a&gt; - 942,000&lt;/li&gt;
+&lt;li&gt;.SE (Sweden) - 895,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria&#34;&gt;.AT (Austria)&lt;/a&gt; - 876,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cz-domain-name-registration-for-czech-republic&#34;&gt;.CZ (Czech Republic)&lt;/a&gt; - 591,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/in-indian-domain-name-registration-for-india&#34;&gt;.IN (India)&lt;/a&gt; - 510,000&lt;/li&gt;
+&lt;li&gt;.HU (Hungary) - 450,000&lt;/li&gt;
+&lt;li&gt;.NO (Norway) - 439,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tw-taiwanese-domain-name-registration-for-taiwan&#34;&gt;.TW (Taiwan)&lt;/a&gt; - 425,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/co.nz-domain-name-registration-for-new-zealand&#34;&gt;.NZ (New Zealand)&lt;/a&gt; - 366,000&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/mx-mexican-domain-name-registration-for-mexico&#34;&gt;.MX (Mexico)&lt;/a&gt; - 353,000&lt;/li&gt;
+&lt;li&gt;.PT (Portugal) - 314,000&lt;/li&gt;
+&lt;li&gt;.CL (Chile) - 257,000&lt;/li&gt;
+&lt;li&gt;.FI (Finland) - 200,000&lt;/li&gt;
+&lt;li&gt;.HK (Hongkong) - 178,000&lt;/li&gt;
+&lt;li&gt;.TR (Turkey) - 133,000&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Source: &lt;a href=&#34;http://archived.link/http://www.domainesinfo.fr/statistiques.php&#34; title=&#34;DomainesInfo Statistiques&#34;&gt;DomainesInfo Statistiques&lt;/a&gt;&lt;/p&gt;
@@ -8366,11 +8387,11 @@ If you have already used the NZ site &amp;ndash; thank-you for supporting a loca
 
 &lt;p&gt;A useful resource for these domain name statistics is the &lt;a href=&#34;http://www.icann.org/idashboard/public/&#34; title=&#34;ICANN Public Dashboard&#34;&gt;ICANN Dashboard&lt;/a&gt; which provides an interactive timeline on the growth of generic TLDs.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://archived.link/http://idashboard.icann.org/idashboards/engine.swf?dashID=159&amp;amp;serverURL=http://idashboard.icann.org/idashboards&amp;amp;guest=icannguest&#34; title=&#34;.AERO - .MOBI domain name statistics&#34;&gt;.AERO &amp;ndash; .MOBI interactive timeline&lt;/a&gt; or click for larger view:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://archived.link/http://idashboard.icann.org/idashboards/engine.swf?dashID=159&amp;amp;serverURL=http://idashboard.icann.org/idashboards&amp;amp;guest=icannguest&#34; title=&#34;.AERO - .MOBI domain name statistics&#34;&gt;.AERO - .MOBI interactive timeline&lt;/a&gt; or click for larger view:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2009-10-19-gtld-registration-numbers1-thumb-450x314-18.png&#34; alt=&#34;gtld registration numbers&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://archived.link/http://idashboard.icann.org/idashboards/engine.swf?dashID=160&amp;amp;serverURL=http://idashboard.icann.org/idashboards&amp;amp;guest=icannguest&#34; title=&#34;.MUSEUM - .TRAVEL domain statistics ICANN&#34;&gt;.MUSEUM &amp;ndash; .TRAVEL interactive timeline&lt;/a&gt; or click for larger view:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://archived.link/http://idashboard.icann.org/idashboards/engine.swf?dashID=160&amp;amp;serverURL=http://idashboard.icann.org/idashboards&amp;amp;guest=icannguest&#34; title=&#34;.MUSEUM - .TRAVEL domain statistics ICANN&#34;&gt;.MUSEUM - .TRAVEL interactive timeline&lt;/a&gt; or click for larger view:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/media/2009-10-19-gtld-registration-statistics2-thumb-450x314-21.png&#34; alt=&#34;gtld registration statistics&#34;&gt;&lt;/p&gt;
 
@@ -8581,10 +8602,10 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 &lt;h3&gt;Available first names under .COM&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Tim &amp;ndash; ʇıɯ.com&lt;/li&gt;
-&lt;li&gt;James &amp;ndash; ɾɐɯǝs.com&lt;/li&gt;
-&lt;li&gt;Mark &amp;ndash; ʞɹɐɯ.com&lt;/li&gt;
-&lt;li&gt;John &amp;ndash; uɥoɾ.com&lt;/li&gt;
+&lt;li&gt;Tim - ʇıɯ.com&lt;/li&gt;
+&lt;li&gt;James - ɾɐɯǝs.com&lt;/li&gt;
+&lt;li&gt;Mark - ʞɹɐɯ.com&lt;/li&gt;
+&lt;li&gt;John - uɥoɾ.com&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;It&amp;rsquo;s fun for sharing links on Twitter, Facebook or in your email and forum footer. You could also &lt;a href=&#34;https://iwantmyname.com/blog/2009/08/10-tools-to-run-an-url-shortener-on-your-own-custom-domain.html&#34; title=&#34;create your own URL shortener&#34;&gt;create your own URL shortener&lt;/a&gt; with it. The technology behind this is around for years by the way. Domains are registered as &lt;a href=&#34;https://iwantmyname.com/idns/search-register-internationalised-domain-names&#34; title=&#34;Register IDNs - Internationalised Domain Names&#34;&gt;IDNs&lt;/a&gt; (Internationalised Domain Names) and are accessible by any modern browser.&lt;/p&gt;
@@ -8604,7 +8625,7 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 
 &lt;h4&gt;IDN Punycode Converter&lt;/h4&gt;
 
-&lt;p&gt;Another little domain tool for IDNs is our IDN Punycode converter. All Internationalised Domain Names are converted into ASCII characters using Punycode to make them readable in the Domain Name System (DNS). So instead of the domain müller.com, computers actually read xn&amp;mdash;mller-kva.com. The tool might be helpful to find out the ASCII syntax of an IDN. &lt;a href=&#34;https://iwantmyname.com/domain-tools/idns/idn-punycode-converter&#34; title=&#34;IDN conversion tool punycode&#34;&gt;Check out the IDN Punycode converter here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Another little domain tool for IDNs is our IDN Punycode converter. All Internationalised Domain Names are converted into ASCII characters using Punycode to make them readable in the Domain Name System (DNS). So instead of the domain müller.com, computers actually read xn--mller-kva.com. The tool might be helpful to find out the ASCII syntax of an IDN. &lt;a href=&#34;https://iwantmyname.com/domain-tools/idns/idn-punycode-converter&#34; title=&#34;IDN conversion tool punycode&#34;&gt;Check out the IDN Punycode converter here&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 07 Aug 2009 15:20:26 UTC</pubDate>
 				
@@ -8624,7 +8645,7 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Generic top-level domains&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34; title=&#34;.COM IDN Internationalised Domain Name Registration&#34;&gt;.COM&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/net-domain-name-registration-for-network&#34; title=&#34;.NET IDN Internationalised Domain Name Registration&#34;&gt;.NET&lt;/a&gt; (nearly all languages and character sets &amp;ndash; &lt;a href=&#34;http://www.verisign.com/domain-name-services/domain-information-center/idn-domains/scripts-languages/index.html&#34; title=&#34;.COM / .NET Internationalised Domain Names Information&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34; title=&#34;.COM IDN Internationalised Domain Name Registration&#34;&gt;.COM&lt;/a&gt;, &lt;a href=&#34;https://iwantmyname.com/domains/net-domain-name-registration-for-network&#34; title=&#34;.NET IDN Internationalised Domain Name Registration&#34;&gt;.NET&lt;/a&gt; (nearly all languages and character sets - &lt;a href=&#34;http://www.verisign.com/domain-name-services/domain-information-center/idn-domains/scripts-languages/index.html&#34; title=&#34;.COM / .NET Internationalised Domain Names Information&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/org-domain-name-registration-for-organisation&#34; title=&#34;.ORG IDN Internationalised Domain Name Registration&#34;&gt;.ORG&lt;/a&gt; (Spanish, German, Hungarian, Icelandic, Korean (Hangul), Latvian, Lithuanian, Polish, Swedish, Spanish, Chinese)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/info-domain-name-registration-for-information&#34; title=&#34;Register .INFO IDN Internationalised Domain Names&#34;&gt;.INFO&lt;/a&gt; (Danish, German, Hungarian, Icelandic, Korean, Lithuanian, Latvian, Polish, Swedish, Spanish)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/biz-domain-name-registration-for-business&#34; title=&#34;Registration .BIZ Internationalised Domain Names&#34;&gt;.BIZ&lt;/a&gt; (Korean, Chinese, Japanese, Spanish, Danish, Icelandic, Norwegian, Swedish, German, Finnish, Hungarian, Latvian, Lithuanian, Polish, Portuguese)&lt;/li&gt;
@@ -8633,24 +8654,24 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Country code top-level domains&lt;/strong&gt; (in alphabetical order):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria&#34; title=&#34;Register .AT IDNs - Internationalised Domain Names&#34;&gt;.AT&lt;/a&gt; &amp;ndash; Austria (&lt;a href=&#34;http://www.nic.at/de/service/technische_informationen/idn/zeichentabelle_konverter/&#34; title=&#34;.at idn - internationalised domain names supported characters&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ac-domain-name-registration-for-ascension-island&#34; title=&#34;.AC IDN - Internationalised Domain Name Registration&#34;&gt;.AC&lt;/a&gt; &amp;ndash; Ascension Island (&lt;a href=&#34;http://www.nic.ac/AC-IDN-Policy.pdf&#34; title=&#34;.AC Domain Extension - Internationalised Domains Characters&#34;&gt;IDN Policy&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands&#34; title=&#34;.CC IDN Domain Registration - Cocos &amp;amp; Keeling Islands&#34;&gt;.CC&lt;/a&gt; &amp;ndash; Cocos &amp;amp; Keeling Islands (nearly all languages and character sets &amp;ndash; &lt;a href=&#34;http://www.verisign.com/domain-name-services/domain-information-center/idn-domains/scripts-languages/index.html&#34; title=&#34;.COM / .NET Internationalised Domain Names Information&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34; title=&#34;Switzerland IDN Domain Registration - Internationalised Domain Names&#34;&gt;.CH&lt;/a&gt; &amp;ndash; Switzerland (&lt;a href=&#34;http://archived.link/https://www.nic.ch/reg/ocView.action?res=/reg/guest/faqs/idn.jsp&amp;amp;plain&amp;amp;request_locale=en&#34; title=&#34;.CH Internationalised Domain Names Support - Character overview SWITCH&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cn-chinese-domain-name-registration-for-china&#34; title=&#34;.CN IDNs - Internationalised Domains With Chinese Characters&#34;&gt;.CN&lt;/a&gt; &amp;ndash; China (Simplified or Traditional Chinese)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.DE&lt;/a&gt; &amp;ndash; Germany (&lt;a href=&#34;http://www.denic.de/en/domains/idns/liste.html&#34; title=&#34;.DE Domain Extension - IDN characters supported&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dk-danish-domain-name-registration-for-denmark&#34; title=&#34;Danish .DK IDN Registration - Internationalised Domain Names&#34;&gt;.DK&lt;/a&gt; &amp;ndash; Denmark (æ, ø, å, ö, ä, ü, and/or é)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain&#34; title=&#34;Spanish IDNs - Internationalised Domain Names For Spain&#34;&gt;.ES&lt;/a&gt; &amp;ndash; Spain (&lt;a href=&#34;http://archived.link/https://www.nic.es/media/2008-12/1228818348922.pdf&#34; title=&#34;PDF .ES Internationalised Domain Names - supported characters&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34; title=&#34;Register .IO IDN Internationalised Domain Names&#34;&gt;.IO&lt;/a&gt; &amp;ndash; British Indian Ocean Territory (&lt;a href=&#34;http://www.nic.io/IO-IDN-Policy.pdf&#34; title=&#34;.IO Internationalised Domain Names - IDN Policy&#34;&gt;IDN Policy&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/jp-japanese-domain-name-registration-for-japan &amp;quot;Register Domains With Japanese Characters (IDNs&#34;&gt;.JP&lt;/a&gt;&amp;rdquo;) &amp;ndash; Japan (Kanji, Hiragana &amp;amp; Katakana)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/la-domain-name-registration-for-lao-peoples-democratic-republic&#34; title=&#34;.LA IDN Domain Registration&#34;&gt;.LA&lt;/a&gt; &amp;ndash; Laos (&lt;a href=&#34;https://www.centralnic.com/names/domains/idn&#34; title=&#34;.LA IDN Laos - Internationalised Domain Names Information&#34;&gt;supported languages&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/li-domain-name-registration-for-liechtenstein&#34; title=&#34;Register .LI Domain Names With International Characters&#34;&gt;.LI&lt;/a&gt; &amp;ndash; Liechtenstein (&lt;a href=&#34;http://archived.link/https://www.nic.ch/reg/ocView.action?res=/reg/guest/faqs/idn.jsp&amp;amp;plain&amp;amp;request_locale=en&#34; title=&#34;.CH Internationalised Domain Names Support - Character overview SWITCH&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/nu-domain-name-registration-for-niue&#34; title=&#34;.NU IDNs - Register Internationalised Domain Names&#34;&gt;.NU&lt;/a&gt; &amp;ndash; Niue (All Western and Eastern European languages, Chinese, Japanese, Korean, Arabic, Cyrillic, Hindi, Thai, Lao, etc. &amp;ndash; &lt;a href=&#34;http://archived.link/http://www.worldnames.net/pages/languages.cfm&#34; title=&#34;.NU Internationalised Domain Names - supported languages for IDNs&#34;&gt;see all supported languages&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/pl-polish-domain-name-registration-for-poland&#34; title=&#34;.PL IDNs - Register Internationalised Domain Names With Polish Characters&#34;&gt;.PL&lt;/a&gt; &amp;ndash; Poland (&lt;a href=&#34;http://www.dns.pl/IDN/idn_intro_eng.html&#34; title=&#34;.PL Internationalized Domain Names - IDN information Poland&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena&#34; title=&#34;.SH Internationalised Domain Name Registration&#34;&gt;.SH&lt;/a&gt; &amp;ndash; Saint Helena (&lt;a href=&#34;http://www.nic.sh/SH-IDN-Policy.pdf&#34; title=&#34;.SH Domains - IDN Policy for Internationalised Domain Names&#34;&gt;IDN Policy&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu&#34; title=&#34;.TV IDNs With Special Characters - Internationalised Domain Names&#34;&gt;.TV&lt;/a&gt; &amp;ndash; Tuvalu (nearly all languages and character sets &amp;ndash; &lt;a href=&#34;http://www.verisign.com/domain-name-services/domain-information-center/idn-domains/scripts-languages/index.html&#34; title=&#34;.COM / .NET Internationalised Domain Names Information&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tw-taiwanese-domain-name-registration-for-taiwan&#34; title=&#34;.TW IDNs - Internationalised Domain Names With Chinese Characters&#34;&gt;.TW&lt;/a&gt; &amp;ndash; Taiwan (Simplified or Traditional Chinese)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ws-samoan-domain-name-registration-for-western-samoa&#34; title=&#34;.WS IDNs - Internationalised Domain Names&#34;&gt;.WS&lt;/a&gt; &amp;ndash; Western Samoa&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria&#34; title=&#34;Register .AT IDNs - Internationalised Domain Names&#34;&gt;.AT&lt;/a&gt; - Austria (&lt;a href=&#34;http://www.nic.at/de/service/technische_informationen/idn/zeichentabelle_konverter/&#34; title=&#34;.at idn - internationalised domain names supported characters&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ac-domain-name-registration-for-ascension-island&#34; title=&#34;.AC IDN - Internationalised Domain Name Registration&#34;&gt;.AC&lt;/a&gt; - Ascension Island (&lt;a href=&#34;http://www.nic.ac/AC-IDN-Policy.pdf&#34; title=&#34;.AC Domain Extension - Internationalised Domains Characters&#34;&gt;IDN Policy&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cc-domain-name-registration-for-cocos-keeling-islands&#34; title=&#34;.CC IDN Domain Registration - Cocos &amp;amp; Keeling Islands&#34;&gt;.CC&lt;/a&gt; - Cocos &amp;amp; Keeling Islands (nearly all languages and character sets - &lt;a href=&#34;http://www.verisign.com/domain-name-services/domain-information-center/idn-domains/scripts-languages/index.html&#34; title=&#34;.COM / .NET Internationalised Domain Names Information&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland&#34; title=&#34;Switzerland IDN Domain Registration - Internationalised Domain Names&#34;&gt;.CH&lt;/a&gt; - Switzerland (&lt;a href=&#34;http://archived.link/https://www.nic.ch/reg/ocView.action?res=/reg/guest/faqs/idn.jsp&amp;amp;plain&amp;amp;request_locale=en&#34; title=&#34;.CH Internationalised Domain Names Support - Character overview SWITCH&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/cn-chinese-domain-name-registration-for-china&#34; title=&#34;.CN IDNs - Internationalised Domains With Chinese Characters&#34;&gt;.CN&lt;/a&gt; - China (Simplified or Traditional Chinese)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany&#34;&gt;.DE&lt;/a&gt; - Germany (&lt;a href=&#34;http://www.denic.de/en/domains/idns/liste.html&#34; title=&#34;.DE Domain Extension - IDN characters supported&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dk-danish-domain-name-registration-for-denmark&#34; title=&#34;Danish .DK IDN Registration - Internationalised Domain Names&#34;&gt;.DK&lt;/a&gt; - Denmark (æ, ø, å, ö, ä, ü, and/or é)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain&#34; title=&#34;Spanish IDNs - Internationalised Domain Names For Spain&#34;&gt;.ES&lt;/a&gt; - Spain (&lt;a href=&#34;http://archived.link/https://www.nic.es/media/2008-12/1228818348922.pdf&#34; title=&#34;PDF .ES Internationalised Domain Names - supported characters&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34; title=&#34;Register .IO IDN Internationalised Domain Names&#34;&gt;.IO&lt;/a&gt; - British Indian Ocean Territory (&lt;a href=&#34;http://www.nic.io/IO-IDN-Policy.pdf&#34; title=&#34;.IO Internationalised Domain Names - IDN Policy&#34;&gt;IDN Policy&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/jp-japanese-domain-name-registration-for-japan &amp;quot;Register Domains With Japanese Characters (IDNs&#34;&gt;.JP&lt;/a&gt;&amp;rdquo;) - Japan (Kanji, Hiragana &amp;amp; Katakana)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/la-domain-name-registration-for-lao-peoples-democratic-republic&#34; title=&#34;.LA IDN Domain Registration&#34;&gt;.LA&lt;/a&gt; - Laos (&lt;a href=&#34;https://www.centralnic.com/names/domains/idn&#34; title=&#34;.LA IDN Laos - Internationalised Domain Names Information&#34;&gt;supported languages&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/li-domain-name-registration-for-liechtenstein&#34; title=&#34;Register .LI Domain Names With International Characters&#34;&gt;.LI&lt;/a&gt; - Liechtenstein (&lt;a href=&#34;http://archived.link/https://www.nic.ch/reg/ocView.action?res=/reg/guest/faqs/idn.jsp&amp;amp;plain&amp;amp;request_locale=en&#34; title=&#34;.CH Internationalised Domain Names Support - Character overview SWITCH&#34;&gt;supported characters&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/nu-domain-name-registration-for-niue&#34; title=&#34;.NU IDNs - Register Internationalised Domain Names&#34;&gt;.NU&lt;/a&gt; - Niue (All Western and Eastern European languages, Chinese, Japanese, Korean, Arabic, Cyrillic, Hindi, Thai, Lao, etc. - &lt;a href=&#34;http://archived.link/http://www.worldnames.net/pages/languages.cfm&#34; title=&#34;.NU Internationalised Domain Names - supported languages for IDNs&#34;&gt;see all supported languages&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/pl-polish-domain-name-registration-for-poland&#34; title=&#34;.PL IDNs - Register Internationalised Domain Names With Polish Characters&#34;&gt;.PL&lt;/a&gt; - Poland (&lt;a href=&#34;http://www.dns.pl/IDN/idn_intro_eng.html&#34; title=&#34;.PL Internationalized Domain Names - IDN information Poland&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena&#34; title=&#34;.SH Internationalised Domain Name Registration&#34;&gt;.SH&lt;/a&gt; - Saint Helena (&lt;a href=&#34;http://www.nic.sh/SH-IDN-Policy.pdf&#34; title=&#34;.SH Domains - IDN Policy for Internationalised Domain Names&#34;&gt;IDN Policy&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tv-tuvaluan-domain-name-registration-for-tuvalu&#34; title=&#34;.TV IDNs With Special Characters - Internationalised Domain Names&#34;&gt;.TV&lt;/a&gt; - Tuvalu (nearly all languages and character sets - &lt;a href=&#34;http://www.verisign.com/domain-name-services/domain-information-center/idn-domains/scripts-languages/index.html&#34; title=&#34;.COM / .NET Internationalised Domain Names Information&#34;&gt;more information&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tw-taiwanese-domain-name-registration-for-taiwan&#34; title=&#34;.TW IDNs - Internationalised Domain Names With Chinese Characters&#34;&gt;.TW&lt;/a&gt; - Taiwan (Simplified or Traditional Chinese)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/ws-samoan-domain-name-registration-for-western-samoa&#34; title=&#34;.WS IDNs - Internationalised Domain Names&#34;&gt;.WS&lt;/a&gt; - Western Samoa&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;See our domain search with IDNs in action:
