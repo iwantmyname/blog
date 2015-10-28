@@ -23,9 +23,7 @@
 &lt;p&gt;If your campaign’s total “spam score” exceeds a certain threshold, then your email goes to the junk folder.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Thought of this when watching this (sign me up!):&lt;/p&gt;
-
-&lt;p&gt;{% include youtube.html id=&amp;ldquo;aAYw69hU2Yc&amp;rdquo; %}&lt;/p&gt;
+&lt;p&gt;Thought of this when &lt;a href=&#34;https://www.youtube.com/watch?v=aAYw69hU2Yc&#34;&gt;watching this&lt;/a&gt; (sign me up!).&lt;/p&gt;
 </description>
 				<pubDate>Wed, 28 Oct 2015 15:50:00 UTC</pubDate>
 				
