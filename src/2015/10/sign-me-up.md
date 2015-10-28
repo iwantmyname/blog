@@ -16,9 +16,7 @@ excerpt: false
 
 > If your campaign’s total “spam score” exceeds a certain threshold, then your email goes to the junk folder.
 
-Thought of this when watching this (sign me up!):
-
-{% include youtube.html id="aAYw69hU2Yc" %}
+Thought of this when [watching this](https://www.youtube.com/watch?v=aAYw69hU2Yc) (sign me up!).
 
 
 
