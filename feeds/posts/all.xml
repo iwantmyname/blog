@@ -6,6 +6,35 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Sign me up!</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://mailchimp.com/resources/guides/how-to-avoid-spam-filters/html/&#34;&gt;MailChimp on how spam filters work:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Spam filters consider a long list of criteria when judging the “spamminess” of an email. They’ll weigh each factor and add them up to determine a spam score, which then determines whether a campaign will pass through the filter. They might look for spammy phrases like “CLICK HERE!” or “FREE! BUY NOW!” Then they&amp;rsquo;ll assign points every time they see one of those phrases. Certain criteria get more points than others. Here’s a sample of criteria from SpamAssassin:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Talks about lots of money (.193 points)&lt;/li&gt;
+&lt;li&gt;Describes some sort of breakthrough (.232 points)&lt;/li&gt;
+&lt;li&gt;Looks like mortgage pitch (.297 points)&lt;/li&gt;
+&lt;li&gt;Contains urgent matter (.288 points)&lt;/li&gt;
+&lt;li&gt;Money back guarantee (2.051 points)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If your campaign’s total “spam score” exceeds a certain threshold, then your email goes to the junk folder.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thought of this when watching this (sign me up!):&lt;/p&gt;
+
+&lt;p&gt;{% include youtube.html id=&amp;ldquo;aAYw69hU2Yc&amp;rdquo; %}&lt;/p&gt;
+</description>
+				<pubDate>Wed, 28 Oct 2015 15:50:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/sign-me-up.html</link>
+				
+				<guid isPermaLink="false">/2015/10/sign-me-up.html</guid>
+			</item>
+		
+			<item>
 				<title>1API Abuse Domain Suspension Scam</title>
 				<description>&lt;p&gt;Recently we have been made aware of fraudulent emails that have been sent to a number of high profile domain registrars&amp;rsquo; customers.&lt;/p&gt;
 
@@ -8757,17 +8786,6 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 		
 			<item>
 				<title></title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/09/anyone-can-build-a-small-business-website.html&#34;&gt;https://iwantmyname.com/blog/2015/09/anyone-can-build-a-small-business-website.html&lt;/a&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2014/04/does-your-domain-have-a-sketchy-past.redirect.html</link>
-				
-				<guid isPermaLink="false">/2014/04/does-your-domain-have-a-sketchy-past.redirect.html</guid>
-			</item>
-		
-			<item>
-				<title></title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/08/get-your-personal-brand-in-tip-top-shape.html&#34;&gt;https://iwantmyname.com/blog/2015/08/get-your-personal-brand-in-tip-top-shape.html&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -8775,6 +8793,17 @@ More domain tools to come&amp;hellip;&lt;/li&gt;
 					<link>https://iwantmyname.com/blog/2014/01/a-good-piece-about-the-historyfuture-of-domains-and-an-angry-bit-about-medium.html</link>
 				
 				<guid isPermaLink="false">/2014/01/a-good-piece-about-the-historyfuture-of-domains-and-an-angry-bit-about-medium.html</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/09/anyone-can-build-a-small-business-website.html&#34;&gt;https://iwantmyname.com/blog/2015/09/anyone-can-build-a-small-business-website.html&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2014/04/does-your-domain-have-a-sketchy-past.redirect.html</link>
+				
+				<guid isPermaLink="false">/2014/04/does-your-domain-have-a-sketchy-past.redirect.html</guid>
 			</item>
 		
 	</channel>
