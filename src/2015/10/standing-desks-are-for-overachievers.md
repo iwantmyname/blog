@@ -12,4 +12,4 @@ excerpt: false
 > 
 > The new Altwork Station, designed by aerospace engineers, has a standing and sitting position. But it also reclines fully into a "zero g" position—basically as comfortable as being in bed—with a monitor, laptop, and mouse floating the proper distance away above you.
 
-Out with your standing desk. Out with your upright chair. Out with your yoga ball. If you want to maximize my workplace happiness, I'd like to roll out of real bed and into my work bed. (To be fair, I already do 75% of my work in a giant beanbag.)
+Out with your standing desk. Out with your upright chair. Out with your yoga ball. If you want to maximize my workplace happiness, I'd like to roll out of my real bed and into a work bed. (To be fair, I already do 75% of my work in a giant beanbag.)
