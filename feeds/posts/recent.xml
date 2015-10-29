@@ -6,6 +6,29 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ad blockers and an-ugh-lytics</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We quickly spotted a few listed third parties names that reminded us how effective those blockers can be. Especially when we read: Google Analytics.&lt;/p&gt;
+
+&lt;p&gt;Why the facepalm? Well, most of our website visitors and potential users are tech-savvy developers who are highly susceptible of running general purpose blocking software such as uBlock &amp;amp; uBlock Origin. In other words, we had just realized that a potentially substantial chunk of our website traffic were basically… ghosts.&lt;/p&gt;
+
+&lt;p&gt;We learned something we should’ve learned a while ago: we can’t rely 100% on our tracking analytics. As a SaaS startup that focuses most of its growth on content marketing and website optimization, that’s not exactly good news. So for SaaS businesses, ads are just the tip of the ad-blocking/general purpose blocking iceberg. And what’s under the water here has a much more important potential impact on the businesses themselves.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Not that we care (I myself run ad blockers on desktop and mobile), but I&amp;rsquo;m pretty sure our analytics are barely worth tracking these days.&lt;/p&gt;
+
+&lt;p&gt;On a related note, I think if we all turned off analytics and did marketing/site content solely based on what we think is most worthwhile for our customers, the internet would be a much more eclectic place. Maybe not measurably better, but certainly more interesting.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
+				
+				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
+			</item>
+		
+			<item>
 				<title>Standing desks are for overachievers</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://www.fastcoexist.com/3052273/instead-of-standing-why-not-lie-down-while-you-work-this-desk-lets-you-do-both&#34;&gt;Adele Peters on the new Altwork Station:&lt;/a&gt;&lt;/p&gt;
 
@@ -196,25 +219,6 @@
 					<link>https://iwantmyname.com/blog/2015/10/every-tld-has-a-story.html</link>
 				
 				<guid isPermaLink="false">/2015/10/every-tld-has-a-story.html</guid>
-			</item>
-		
-			<item>
-				<title>An educated guess as to why domain name growth has been stalling</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://www.circleid.com/posts/20150716_where_has_the_domain_name_growth_gone/&#34;&gt;Jay Dailey, Chief Executive of the .nz registry, on slowing domain name growth:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The impact of new gTLDs has been to solve the &amp;lsquo;meaningfulness problem&amp;rsquo; by the creation of hundreds of new gTLDs and this in turn directly affects the perception of scarcity. This reduction in scarcity is in turn reducing the incentive to speculate.&lt;/p&gt;
-
-&lt;p&gt;It is my assertion that this speculative behaviour has been a significant factor in historical growth and so domain name growth prospects are partly dependent on what happens to that behaviour. At the macro level, global speculative behaviour in domain names will reduce and the money will switch to a different scarce asset, permanently leaving our industry.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;For the foreseeable future people will need domain names to create things on the internet, so registrars will be fine (although the days of bananas growth might be over). But the owners of these new gTLDs are probably sweating a bit. Their &lt;a href=&#34;http://www.geek.com/news/gtlds-whats-the-process-and-how-much-pay-icann-1392947/&#34;&gt;$185,000 investments&lt;/a&gt; might take much longer than expected to return a profit.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 22 Oct 2015 12:30:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/an-educated-guess-as-to-why-domain-name-growth-has-been-stalling.html</link>
-				
-				<guid isPermaLink="false">/2015/10/an-educated-guess-as-to-why-domain-name-growth-has-been-stalling.html</guid>
 			</item>
 		
 	</channel>
