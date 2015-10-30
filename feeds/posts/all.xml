@@ -6,6 +6,25 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>If your user interface promotes bad passwords, you&#39;re not doing it right</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/hotdogsladies&#34;&gt;Two tweets by Merlin Mann on how technology promotes bad passwords:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tweet 1: If you can entirely set up an Apple TV without screaming at the sky, your passwords probably suck.&lt;/p&gt;
+
+&lt;p&gt;Tweet 2: I&amp;rsquo;m not saying all this merely to bitch. I&amp;rsquo;m concerned that stuff like Apple TV genuinely contributes to people&amp;rsquo;s shitty password choices.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We (the tech industry) spend a lot of time: 1. promoting good user interfaces. 2. promoting good passwords. If your good user interface doesn&amp;rsquo;t promote good passwords, you&amp;rsquo;re not doing it right.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 30 Oct 2015 15:30:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/youre-not-doing-it-right.html</link>
+				
+				<guid isPermaLink="false">/2015/10/youre-not-doing-it-right.html</guid>
+			</item>
+		
+			<item>
 				<title>We do domain names</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://radar.oreilly.com/2015/10/do-one-thing.html&#34;&gt;Mike Loukides on wanting tools that do one thing well, as opposed to a number of things not so well:&lt;/a&gt;&lt;/p&gt;
 
