@@ -6,6 +6,25 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>We do domain names</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://radar.oreilly.com/2015/10/do-one-thing.html&#34;&gt;Mike Loukides on wanting tools that do one thing well, as opposed to a number of things not so well:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I’ve been lamenting the demise of the Unix philosophy: tools should do one thing, and do it well. The ability to connect many small tools is better than having a single tool that does everything poorly.&lt;/p&gt;
+
+&lt;p&gt;That philosophy was great, but hasn’t survived into the Web age. Unfortunately, nothing better has come along to replace it. Instead, we have “convergence”: a lot of tools converging on doing all the same things poorly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We do domain names. That&amp;rsquo;s it.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 30 Oct 2015 15:10:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/we-do-domain-names.html</link>
+				
+				<guid isPermaLink="false">/2015/10/we-do-domain-names.html</guid>
+			</item>
+		
+			<item>
 				<title>Quality of work-life should be a top priority</title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
 
