@@ -6,6 +6,43 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Like money? Choose censorship (apparently)</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.wsj.com/article_email/china-censors-your-internet-1446416123-lMyQjAxMTA1ODAxMjUwODI5Wj&#34;&gt;L. Gordon Crovitz on censorship in the XYZ registry:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In October, Los Angeles-based XYZ.com, which operates several new Internet domains, made a deal with the Chinese government under which it will enforce Beijing’s censorship globally. The registry will let China ban domain names everywhere based on Beijing’s blacklist that includes “freedom,” “liberty” and “democracy,” as well as any reference to the Tiananmen massacre.&lt;/p&gt;
+
+&lt;p&gt;The registry says China has given it 12,000 words to ban from its Web addresses, which include the suffixes .xyz, .college, .rent, .protection and .security.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hmmmmmmm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://domainincite.com/19431-xyz-to-put-global-block-on-domains-banned-in-china&#34;&gt;Here&amp;rsquo;s some background from Kevin Murphy at Domain Incite&lt;/a&gt; (the article WSJ referenced but failed to link to):&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Chinese citizens are allowed to register domains in non-Chinese registries, but they may not activate them unless the registry complies with the law.&lt;/p&gt;
+
+&lt;p&gt;That law requires the registry to be located on the Chinese mainland. XYZ plans to comply by hiring local player ZDNS to proxy its EPP systems and mirror its Whois.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Later in the article&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Up to a third of the .xyz zone — about three hundred thousand names — is believed to be owned by Chinese registrants who are currently unable to actually use their names.&lt;/p&gt;
+
+&lt;p&gt;The company clearly has compelling business reasons to comply with Chinese law.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From the business side, it&amp;rsquo;s easy to see why XYZ feels compelled to carry out the censorship plan. But censorship on the web is about as anti-internet as it gets. We should be promoting the freedom of ideas and dialogue, not kowtowing to China&amp;rsquo;s (or any country&amp;rsquo;s) censorship requests.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 03 Nov 2015 11:50:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/11/money-censorship.html</link>
+				
+				<guid isPermaLink="false">/2015/11/money-censorship.html</guid>
+			</item>
+		
+			<item>
 				<title>Progress report or it didn&#39;t happen</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://www.apa.org/news/press/releases/2015/10/progress-goals.aspx&#34;&gt;Jim Sliwa on achieving goals:&lt;/a&gt;&lt;/p&gt;
 
@@ -99,27 +136,6 @@
 			</item>
 		
 			<item>
-				<title>Quality of work-life should be a top priority</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
-
-&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
-
-&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
-				
-				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
-			</item>
-		
-			<item>
 				<title>Ad blockers and an-ugh-lytics</title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
 
@@ -140,6 +156,27 @@
 					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
 				
 				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
+			</item>
+		
+			<item>
+				<title>Quality of work-life should be a top priority</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
+
+&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
+
+&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
+				
+				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
 			</item>
 		
 			<item>
