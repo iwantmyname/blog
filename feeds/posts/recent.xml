@@ -6,6 +6,25 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Open offices aren&#39;t so great for productivity</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.washingtonian.com/articles/work-education/why-open-offices-are-terrible/index.php&#34;&gt;The Washingtonian on &amp;ldquo;why open offices are terrible&amp;rdquo;:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Walls are so 20th-century. According to a 2010 study by the International Facility Management Association (IFMA), 70 percent of Americans now conduct their working lives in open offices, where (so goes the script) the absence of physical barriers is a boon for communication, knowledge-sharing, and productivity. Or is it? Here’s what the data says.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hint: The data says open offices should close up shop.&lt;/p&gt;
+
+&lt;p&gt;Mildly related, I wonder if these same sick-day/productivity/happiness stats carry over to working primarily in places like coffee shops that are very open, often noisy, and only sell beverages that make people need to pee.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 05 Nov 2015 10:55:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/11/open-offices-arent-so-great-for-productivity.html</link>
+				
+				<guid isPermaLink="false">/2015/11/open-offices-arent-so-great-for-productivity.html</guid>
+			</item>
+		
+			<item>
 				<title>Fraud is an old man from Delaware with an Alaskan billing address</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://blog.siftscience.com/blog/2015/how-fraudulent-users-slip-under-the-radar&#34;&gt;Sarah Beldo at Sift Science with some great stats on fraud:&lt;/a&gt;&lt;/p&gt;
 
@@ -177,29 +196,6 @@
 					<link>https://iwantmyname.com/blog/2015/10/we-do-domain-names.html</link>
 				
 				<guid isPermaLink="false">/2015/10/we-do-domain-names.html</guid>
-			</item>
-		
-			<item>
-				<title>Ad blockers and an-ugh-lytics</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We quickly spotted a few listed third parties names that reminded us how effective those blockers can be. Especially when we read: Google Analytics.&lt;/p&gt;
-
-&lt;p&gt;Why the facepalm? Well, most of our website visitors and potential users are tech-savvy developers who are highly susceptible of running general purpose blocking software such as uBlock &amp;amp; uBlock Origin. In other words, we had just realized that a potentially substantial chunk of our website traffic were basically… ghosts.&lt;/p&gt;
-
-&lt;p&gt;We learned something we should’ve learned a while ago: we can’t rely 100% on our tracking analytics. As a SaaS startup that focuses most of its growth on content marketing and website optimization, that’s not exactly good news. So for SaaS businesses, ads are just the tip of the ad-blocking/general purpose blocking iceberg. And what’s under the water here has a much more important potential impact on the businesses themselves.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Not that we care (I myself run ad blockers on desktop and mobile), but I&amp;rsquo;m pretty sure our analytics are barely worth tracking these days.&lt;/p&gt;
-
-&lt;p&gt;On a related note, I think if we all turned off analytics and did marketing/site content solely based on what we think is most worthwhile for our customers, the internet would be a much more eclectic place. Maybe not measurably better, but certainly more interesting.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
-				
-				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
 			</item>
 		
 			<item>
