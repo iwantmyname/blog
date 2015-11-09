@@ -6,25 +6,6 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>25% of the web is WordPress</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/11/08/wordpress-now-powers-25-of-the-web/&#34;&gt;Emil Protalinski on WordPress powering a quarter of the internet:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Today is a big day for the free and open-source content management system (CMS). To be perfectly clear, the milestone figure doesn’t represent a fraction of all websites that have a CMS: WordPress now powers 25 percent of the Web.&lt;/p&gt;
-
-&lt;p&gt;The latest data comes from W3Techs, which measures both usage and market share: “WordPress is used by 58.7% of all the websites whose content management system we know. This is 25.0% of all websites.” While these numbers naturally fluctuate over the course of the month, the general trend for WordPress has been slow but steady growth.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nothing against WordPress, but I&amp;rsquo;m surprised they&amp;rsquo;ve remained so huge with so many (quite good) competitors in the space.&lt;/p&gt;
-</description>
-				<pubDate>Mon, 09 Nov 2015 10:05:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/11/the-web-is-wordpess.html</link>
-				
-				<guid isPermaLink="false">/2015/11/the-web-is-wordpess.html</guid>
-			</item>
-		
-			<item>
 				<title>Asking for spec work is ridiculous</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://qz.com/543643/its-time-to-stop-asking-creatives-to-work-for-free/&#34;&gt;Anne Quito on spec work:&lt;/a&gt;&lt;/p&gt;
 
@@ -41,11 +22,30 @@
 &lt;li&gt;If you&amp;rsquo;re in charge of getting creative work done for your company or project, don&amp;rsquo;t ask people to do spec work. Just find a person or agency you want to work with and go from there. As someone who&amp;rsquo;s been tasked with doing a fair amount of spec work in previous jobs, it&amp;rsquo;s a fairly insulting way to spend your time.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-				<pubDate>Mon, 09 Nov 2015 10:05:00 UTC</pubDate>
+				<pubDate>Mon, 09 Nov 2015 12:05:00 UTC</pubDate>
 				
 					<link>https://iwantmyname.com/blog/2015/11/asking-for-spec-work-is-ridiculous.html</link>
 				
 				<guid isPermaLink="false">/2015/11/asking-for-spec-work-is-ridiculous.html</guid>
+			</item>
+		
+			<item>
+				<title>25% of the web is WordPress</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/11/08/wordpress-now-powers-25-of-the-web/&#34;&gt;Emil Protalinski on WordPress powering a quarter of the internet:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Today is a big day for the free and open-source content management system (CMS). To be perfectly clear, the milestone figure doesn’t represent a fraction of all websites that have a CMS: WordPress now powers 25 percent of the Web.&lt;/p&gt;
+
+&lt;p&gt;The latest data comes from W3Techs, which measures both usage and market share: “WordPress is used by 58.7% of all the websites whose content management system we know. This is 25.0% of all websites.” While these numbers naturally fluctuate over the course of the month, the general trend for WordPress has been slow but steady growth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nothing against WordPress, but I&amp;rsquo;m surprised they&amp;rsquo;ve remained so huge with so many (quite good) competitors in the space.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 09 Nov 2015 10:05:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/11/the-web-is-wordpess.html</link>
+				
+				<guid isPermaLink="false">/2015/11/the-web-is-wordpess.html</guid>
 			</item>
 		
 			<item>
