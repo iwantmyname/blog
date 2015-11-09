@@ -1,4 +1,4 @@
-date: 2015-11-09 10:05:00 -0700
+date: 2015-11-09 12:05:00 -0700
 author: Chris
 title: Asking for spec work is ridiculous
 excerpt: false
