@@ -6,6 +6,25 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>25% of the web is Wordpess</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/11/08/wordpress-now-powers-25-of-the-web/&#34;&gt;Emil Protalinski on Wordpress powering a quarter of the internet:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Today is a big day for the free and open-source content management system (CMS). To be perfectly clear, the milestone figure doesn’t represent a fraction of all websites that have a CMS: WordPress now powers 25 percent of the Web.&lt;/p&gt;
+
+&lt;p&gt;The latest data comes from W3Techs, which measures both usage and market share: “WordPress is used by 58.7% of all the websites whose content management system we know. This is 25.0% of all websites.” While these numbers naturally fluctuate over the course of the month, the general trend for WordPress has been slow but steady growth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nothing against Wordpress, but I&amp;rsquo;m surprised they&amp;rsquo;ve remained so huge with so many (quite good) competitors in the space.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 09 Nov 2015 10:05:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/11/the-web-is-wordpess.html</link>
+				
+				<guid isPermaLink="false">/2015/11/the-web-is-wordpess.html</guid>
+			</item>
+		
+			<item>
 				<title>Open offices aren&#39;t so great for productivity</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://www.washingtonian.com/articles/work-education/why-open-offices-are-terrible/index.php&#34;&gt;The Washingtonian on &amp;ldquo;why open offices are terrible&amp;rdquo;:&lt;/a&gt;&lt;/p&gt;
 
@@ -196,27 +215,6 @@
 					<link>https://iwantmyname.com/blog/2015/10/we-do-domain-names.html</link>
 				
 				<guid isPermaLink="false">/2015/10/we-do-domain-names.html</guid>
-			</item>
-		
-			<item>
-				<title>Quality of work-life should be a top priority</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
-
-&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
-
-&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
-				
-				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
 			</item>
 		
 	</channel>
