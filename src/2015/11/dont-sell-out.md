@@ -4,7 +4,7 @@ title: Don't sell out
 excerpt: false
 ----
 
-[Yancey Strickler, CEO of Kickstarter, on resisting our current business culture:](https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca)
+[Yancey Strickler, CEO of Kickstarter, on resisting the business culture of today:](https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca)
 
 > At some point in the past ten years, selling out lost its stigma. I come from the Kurt Cobain/“corporate rock still sucks” school where selling out was the worst thing you could ever do. We should return to that.
 > 
