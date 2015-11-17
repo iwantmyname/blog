@@ -6,6 +6,25 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Users are more than just a weak point of security</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://joelcalifa.com/blog/patronizing-passwords/&#34;&gt;Joel Califa of Digital Ocean on developing better password systems:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you’re a developer, focus your efforts on securing your backend. Hash and salt passwords, keep your database secure, implement throttling, check for changes in geolocation, offer a variety of mechanisms for enabling two-factor on your app, make sure your password recovery system is solid. Leave the password decision up to your users.&lt;/p&gt;
+
+&lt;p&gt;We have to remember that at the end of the day, users are more than just a weak point of security in our systems. Our services exist for our users, not despite them. I like to think there are ways to get people to use strong passwords without forcing their hands and negatively affecting their experience using our products. Let’s explore some of these ways.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;File this under: Top priorities of 2016.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 17 Nov 2015 13:50:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/11/users-are-more-than-just-a-weak-point-of-security.html</link>
+				
+				<guid isPermaLink="false">/2015/11/users-are-more-than-just-a-weak-point-of-security.html</guid>
+			</item>
+		
+			<item>
 				<title>November is a big month for Startup Weekend (here and abroad)</title>
 				<description>&lt;p&gt;Growing an entrepreneurial culture globally is perhaps the most effective tool for driving economic growth that delivers real benefits to a wide cross-section of the community. With &lt;a href=&#34;http://wearegen.co/gew/host-countries-prepare-global-entrepreneurship-week&#34;&gt;Global Entrepreneurship Week&lt;/a&gt; almost upon us, we&amp;rsquo;ve been playing a key role in entrepreneurial activism locally.&lt;/p&gt;
 
@@ -209,23 +228,6 @@
 					<link>https://iwantmyname.com/blog/2015/11/money-censorship.html</link>
 				
 				<guid isPermaLink="false">/2015/11/money-censorship.html</guid>
-			</item>
-		
-			<item>
-				<title>Progress report or it didn&#39;t happen</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://www.apa.org/news/press/releases/2015/10/progress-goals.aspx&#34;&gt;Jim Sliwa on achieving goals:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;If you are trying to achieve a goal, the more often that you monitor your progress, the greater the likelihood that you will succeed, according to research published by the American Psychological Association. Your chances of success are even more likely if you report your progress publicly or physically record it.&lt;/p&gt;
-
-&lt;p&gt;“Monitoring goal progress is a crucial process that comes into play between setting and attaining a goal, ensuring that the goals are translated into action,” said lead author Benjamin Harkin, PhD, of the University of Sheffield. The study appears in the journal Psychological Bulletin®. “This review suggests that prompting progress monitoring improves behavioral performance and the likelihood of attaining one’s goals.”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				<pubDate>Mon, 02 Nov 2015 13:02:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/11/progress-report-or-it-didnt-happen.html</link>
-				
-				<guid isPermaLink="false">/2015/11/progress-report-or-it-didnt-happen.html</guid>
 			</item>
 		
 	</channel>
