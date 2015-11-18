@@ -6,6 +6,25 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>I plan to live a long time</title>
+				<description>&lt;p&gt;&lt;a href=&#34;http://well.blogs.nytimes.com/2015/11/18/coffee-tied-to-lower-risk-of-dying/?utm_source=nextdraft&amp;amp;utm_medium=email&amp;amp;_r=1&amp;amp;mtrref=undefined&amp;amp;gwh=6DBBED93DDD1953EA990CB3942CDFC43&amp;amp;gwt=pay&#34;&gt;Nicholas Bakalar on coffee reducing my risk of death by 6-15%:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Compared with abstainers, nonsmokers who drank a cup of coffee a day had a 6 percent reduced risk of death, one to three cups an 8 percent reduced risk, three to five cups a 15 percent reduced risk, and more than five cups a 12 percent reduced risk. There was little difference whether they drank caffeinated or decaffeinated coffee. The association persisted after controlling for age, alcohol consumption, B.M.I. and other health and diet factors.&lt;/p&gt;
+
+&lt;p&gt;Coffee drinking was linked to a reduced risk of death from heart disease, stroke, diabetes, neurological diseases and suicide, although not from cancer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Life tip of the day.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 18 Nov 2015 11:50:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/11/i-plan-to-live-a-long-time.html</link>
+				
+				<guid isPermaLink="false">/2015/11/i-plan-to-live-a-long-time.html</guid>
+			</item>
+		
+			<item>
 				<title>Users are more than just a weak point of security</title>
 				<description>&lt;p&gt;&lt;a href=&#34;http://joelcalifa.com/blog/patronizing-passwords/&#34;&gt;Joel Califa of Digital Ocean on developing better password systems:&lt;/a&gt;&lt;/p&gt;
 
@@ -191,43 +210,6 @@
 					<link>https://iwantmyname.com/blog/2015/11/what-does-your-workplace-attire-say-about-you.html</link>
 				
 				<guid isPermaLink="false">/2015/11/what-does-your-workplace-attire-say-about-you.html</guid>
-			</item>
-		
-			<item>
-				<title>Like money? Choose censorship (apparently)</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://www.wsj.com/article_email/china-censors-your-internet-1446416123-lMyQjAxMTA1ODAxMjUwODI5Wj&#34;&gt;L. Gordon Crovitz on censorship in the XYZ registry:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In October, Los Angeles-based XYZ.com, which operates several new Internet domains, made a deal with the Chinese government under which it will enforce Beijing’s censorship globally. The registry will let China ban domain names everywhere based on Beijing’s blacklist that includes “freedom,” “liberty” and “democracy,” as well as any reference to the Tiananmen massacre.&lt;/p&gt;
-
-&lt;p&gt;The registry says China has given it 12,000 words to ban from its Web addresses, which include the suffixes .xyz, .college, .rent, .protection and .security.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hmmmmmmm.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://domainincite.com/19431-xyz-to-put-global-block-on-domains-banned-in-china&#34;&gt;Here&amp;rsquo;s some background from Kevin Murphy at Domain Incite&lt;/a&gt; (the article WSJ referenced but failed to link to):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Chinese citizens are allowed to register domains in non-Chinese registries, but they may not activate them unless the registry complies with the law.&lt;/p&gt;
-
-&lt;p&gt;That law requires the registry to be located on the Chinese mainland. XYZ plans to comply by hiring local player ZDNS to proxy its EPP systems and mirror its Whois.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Later in the article&amp;hellip;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Up to a third of the .xyz zone — about three hundred thousand names — is believed to be owned by Chinese registrants who are currently unable to actually use their names.&lt;/p&gt;
-
-&lt;p&gt;The company clearly has compelling business reasons to comply with Chinese law.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;From the business side, it&amp;rsquo;s easy to see why XYZ feels compelled to carry out the censorship plan. But censorship on the web is about as anti-internet as it gets. We should be promoting the freedom of ideas and dialogue, not kowtowing to China&amp;rsquo;s (or any country&amp;rsquo;s) censorship requests.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 03 Nov 2015 11:50:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/11/money-censorship.html</link>
-				
-				<guid isPermaLink="false">/2015/11/money-censorship.html</guid>
 			</item>
 		
 	</channel>
