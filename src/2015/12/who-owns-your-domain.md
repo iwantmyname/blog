@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-12-08 13:52:11
+date: 2015-12-08 13:52:11 -0700
 author: Melle
 title: Who owns your domain name?
 
