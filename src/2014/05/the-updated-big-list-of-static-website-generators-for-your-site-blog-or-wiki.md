@@ -14,6 +14,7 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 ### Clojure
 
+[Cryogen](http://cryogenweb.org) - A simple, static, automated CMS shipped as a template on Leiningen, a Clojure build tool.
 [misaki](http://liquidz.github.io/misaki/) - A Jekyll-inspired blog built in Clojure.
 
 ### Git
