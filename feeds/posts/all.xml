@@ -5528,7 +5528,8 @@ something you really want to know about us, &lt;a href=&#34;https://iwantmyname.
 
 &lt;h3&gt;Clojure&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://liquidz.github.io/misaki/&#34;&gt;misaki&lt;/a&gt; - A Jekyll-inspired blog built in Clojure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cryogenweb.org&#34;&gt;Cryogen&lt;/a&gt; - A simple, static, automated CMS shipped as a template on Leiningen, a Clojure build tool.
+&lt;a href=&#34;http://liquidz.github.io/misaki/&#34;&gt;misaki&lt;/a&gt; - A Jekyll-inspired blog built in Clojure.&lt;/p&gt;
 
 &lt;h3&gt;Git&lt;/h3&gt;
 
