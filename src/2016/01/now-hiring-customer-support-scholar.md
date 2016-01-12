@@ -2,6 +2,7 @@ date: 2016-01-12 13:54:40 -0700
 author: Chris
 title: Now hiring: Customer support scholar
 excerpt: false
+header_image: 2016-01-12-jobopening.jpg
 ----
 
 Let's break this down. We're looking for a very patient person to help our global audience do great things with domains. You'll help them register domains, you'll help them with billing issues, you'll help them use their domains, and you might even help them with an idea or two. Whatever they need, you'll be there to help.
