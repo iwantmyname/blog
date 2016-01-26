@@ -13,7 +13,13 @@ The idea of a domain hack is to take a word or brand, like iwantmyname, and use 
 
 <!-- /excerpt -->
 
-# Are domain hacks useful?
+1. [Are domain hacks useful?](#section-1)
+2. [What about domain hacks for URL shortening?](#section-2)
+3. [Are there any tools for finding domain hacks?](#section-3)
+
+***
+
+<h2 id="section-1">Are domain hacks useful?</h2>
 
 ![street art](/media/2015-04-29-street-art.jpg)
 
@@ -24,7 +30,7 @@ As much as we like domain hacks though, there are some downsides you should be a
 + Using a domain hack for your primary domain might not be a good idea (we recommend [forwarding](https://help.iwantmyname.com/customer/portal/articles/1418597-how-do-i-set-up-forwarding-with-my-domain-) domain hacks to a primary domain). With more and more people using search engines and social media to browse the web this is less of an issue, but if you go with anything other than .COM or your local ccTLD, you're bound to get people typing in the wrong thing. For instance, if our primary domain was iwantmyna.me, I'd guess that at least half (probably more) would reflexively type in iwantmyname.com. 
 + Domain hacks are hard to say out loud. Again, as more and more people navigate with search engines and social it's less of a big deal, but if you're in an interview or meeting and have to say your domain name, you don't want to sound like you're stumbling over yourself. Just try to say chr.is out loud. "c-h-r-dot-i-s." Or possibly "chris, but with the dot before the i-s." It's much easier to say "chris.com." 
 
-## What about domain hacks for URL shortening?
+<h2 id="section-2">What about domain hacks for URL shortening?</h2>
 
 ![Short link](/media/2015-04-29-short-link.png)
 
@@ -32,7 +38,7 @@ When Twitter was first created, links were a real problem. Just picture it—you
 
 Today, Twitter wraps everything in their t.co URL shortener (which uses the original URL's metadata to show a truncated version of the original URL), but companies like [Bitly](https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service) are still proving useful by giving users valuable link analytics for their tweets (or other social posts). If you have a data-driven approach to social media, link shortening platforms are still quite useful. But they certainly aren't the must-have tools they used to be. 
 
-# Are there any tools for finding domain hacks?
+<h2 id="section-3">Are there any tools for finding domain hacks?</h2>
 
 ![iwantmyname search](/media/2015-04-29-domain-hack.png)
 
