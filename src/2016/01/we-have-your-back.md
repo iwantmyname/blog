@@ -1,23 +1,23 @@
 date: the future
 author: 'Ley
-title: We've Got Your Back
+title: We've got your back with DNSSEC
 excerpt: false
-header_image: a_thing_that_is_securitey.jpg
 -----
 
-At iwantmyname we consider making it easier for you to control and own your identity online as one of core principles. Hell it's in the branding. But what happens after that; are we sure every time someone tries to connect to your identity that they actually connecting with you.
+At iwantmyname, we consider making it easy for you to control and own your online identity one of our core principles. Hell, it's in the branding. But what happens after that? Are we sure every time someone tries to connect to your identity, they're actually connecting with you?
 
 We can do that now with DNSSEC and DS records.
 
-The easiest way to set this up is if your Nameserver provider support DNSSEC, Cloudflare pictured below. Then enable it and get your DS record.
+The easiest way to set this up is if your Nameserver provider supports DNSSEC (like Cloudflare, pictured below). Just enable it there, then grab your DS record to use with your domain.
+
 ![Cloudflare interface](media/2016-the-future-cloudflare-dnssec.png)
 
-Then in on our site copy the relevant bits of the DS record and put it in the DS record part of your domain management. https://iwantmyname.com/dashboard/domains/dnssec/<domain name in question>
-
+Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at https://iwantmyname.com/dashboard/domains/dnssec/<**domain name in question**>)
 
 ![iwantmyname interface](media/2016-the-future-iwantmyname-dnssec.png)
 
-After that you're done. Various computers around the internet will double check that the computer someone is connecting to is actually you. Thus making sure that you and your name are synonymous.
+Once you're done, the internet will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.
 
+***
 
-A longer explanation can be found on the [CloudFlare blog](https://blog.cloudflare.com/dnssec-an-introduction/)
+If you're interested, an in-depth explanation of what DNSSEC is (and why you might want it) can be found on the [CloudFlare blog](https://blog.cloudflare.com/dnssec-an-introduction/)
