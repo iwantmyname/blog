@@ -111,25 +111,27 @@
 
 				<p>date: the future
 author: &lsquo;Ley
-title: We&rsquo;ve Got Your Back
-excerpt: false</p>
+title: We&rsquo;ve got your back with DNSSEC</p>
 
-<h2>header_image: a_thing_that_is_securitey.jpg</h2>
+<h2>excerpt: false</h2>
 
-<p>At iwantmyname we consider making it easier for you to control and own your identity online as one of core principles. Hell it&rsquo;s in the branding. But what happens after that; are we sure every time someone tries to connect to your identity that they actually connecting with you.</p>
+<p>At iwantmyname, we consider making it easy for you to control and own your online identity one of our core principles. Hell, it&rsquo;s in the branding. But what happens after that? Are we sure every time someone tries to connect to your identity, they&rsquo;re actually connecting with you?</p>
 
 <p>We can do that now with DNSSEC and DS records.</p>
 
-<p>The easiest way to set this up is if your Nameserver provider support DNSSEC, Cloudflare pictured below. Then enable it and get your DS record.
-<img src="media/2016-the-future-cloudflare-dnssec.png" alt="Cloudflare interface"></p>
+<p>The easiest way to set this up is if your Nameserver provider supports DNSSEC (like Cloudflare, pictured below). Just enable it there, then grab your DS record to use with your domain.</p>
 
-<p>Then in on our site copy the relevant bits of the DS record and put it in the DS record part of your domain management. <a href="https://iwantmyname.com/dashboard/domains/dnssec/">https://iwantmyname.com/dashboard/domains/dnssec/</a><domain name in question></p>
+<p><img src="media/2016-the-future-cloudflare-dnssec.png" alt="Cloudflare interface"></p>
+
+<p>Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at <a href="https://iwantmyname.com/dashboard/domains/dnssec/">https://iwantmyname.com/dashboard/domains/dnssec/</a>&lt;<strong>domain name in question</strong>&gt;)</p>
 
 <p><img src="media/2016-the-future-iwantmyname-dnssec.png" alt="iwantmyname interface"></p>
 
-<p>After that you&rsquo;re done. Various computers around the internet will double check that the computer someone is connecting to is actually you. Thus making sure that you and your name are synonymous.</p>
+<p>Once you&rsquo;re done, the internet will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.</p>
 
-<p>A longer explanation can be found on the <a href="https://blog.cloudflare.com/dnssec-an-introduction/">CloudFlare blog</a></p>
+<hr>
+
+<p>If you&rsquo;re interested, an in-depth explanation of what DNSSEC is (and why you might want it) can be found on the <a href="https://blog.cloudflare.com/dnssec-an-introduction/">CloudFlare blog</a></p>
 
 
 				<div class="iwmn-article-footer">
