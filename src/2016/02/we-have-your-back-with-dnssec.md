@@ -1,4 +1,4 @@
-date: 2016/02/01
+date: 2016/02/01 09:00:00 -0700
 author: 'Ley
 title: We've got your back with DNSSEC
 excerpt: false
