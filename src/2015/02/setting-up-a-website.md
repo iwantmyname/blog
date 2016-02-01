@@ -14,7 +14,14 @@ One thing some people still sometimes struggle with, though, is just how to get 
 
 <!-- /excerpt -->
 
-## Understanding web hosting
+1. [Understanding web hosting](#section-1)
+2. [Setting up your site with a service platform](#section-2)
+3. [Verifying your domain name](#section-3)
+4. [Setting up your site with third-party hosting](#section-4)
+
+***
+
+<h2 id="section-1">Understanding web hosting</h2>
 
 Typically, you can think of the process a bit like setting up a piece of electronics equipment. The cable needs to be plugged into the machine _and_ into an electrical outlet. Your domain name needs to be connected to a web platform in our system _and_ in the system of your hosting service platform. When setting up your website, you can do these steps in whatever order you choose. I'll explain in a bit more detail.
 
@@ -22,7 +29,7 @@ All websites need a host, somewhere to "live". Think of your domain name as the 
 
 At iwantmyname, we focus on domains and DNS management, so we don't offer hosting. However, we want it to be as easy as possible for you to set up hosting with whatever provider you choose. That can be done a couple of different ways, depending on your hosting choice.
 
-## Setting up your site with a service platform
+<h2 id="section-2">Setting up your site with a service platform</h2>
 
 ![Apps](/media/2015-02-03-apps.png)
 
@@ -34,7 +41,7 @@ Sometimes you pay just to have an account, sometimes the services are free. Or t
 
 Many of the services in [our one-click marketplace](https://iwantmyname.com/services) are that kind. They provide the hosting and platform for your blog, portfolio, online store, etc. Clicking that green **Install** button adds DNS records for your domain in your iwantmyname dashboard. Those DNS records connect your domain name to your account and site with the service platform. That's half the battle.
 
-### Verifying your domain name
+<h2 id="section-3">Verifying your domain name</h2>
 
 Some services require you to verify your domain ownership in their system for security purposes. In those cases you'll likely have to add another DNS record that contains a unique code, which the service checks for. 
 
@@ -48,7 +55,7 @@ This verification is often the biggest part of setting up your domain with the o
 
 Where possible, when you finish setting up the DNS records you need in our system, we try to send you to the other site to complete the setup there, too. Once setup is done on both ends and the new settings have time to propagate around the Internet — voila! — you have your new website! (If there's a snag, [we're here to help](https://iwantmyname.com/support).)
 
-## Setting up your site with third-party hosting
+<h2 id="section-4">Setting up your site with third-party hosting</h2>
 
 Web hosting can also be provided by a third-party hosting service, on which your website's files reside. Those services generally only provide hosting, and not the software to create your website or email accounts. 
 
