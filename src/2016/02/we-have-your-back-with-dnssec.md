@@ -2,7 +2,7 @@ date: 2016-02-01 09:00:00 -0700
 author: 'Ley
 title: We've got your back with DNSSEC
 excerpt: false
------
+----
 
 At iwantmyname, we consider making it easy for you to control and own your online identity as one of our core principles. Hell, it's in the branding. But what happens after that? Are we sure every time someone tries to connect to your identity, they're actually connecting with you?
 
