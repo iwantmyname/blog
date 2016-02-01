@@ -13,11 +13,11 @@
 
 &lt;p&gt;The easiest way to set this up is if your Nameserver provider supports DNSSEC (like Cloudflare, pictured below). Just enable it there, then grab your DS record to use with your domain.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;media/2016-02-01-cloudflare-dnssec.png&#34; alt=&#34;Cloudflare interface&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../media/2016-02-01-cloudflare-dnssec.png&#34; alt=&#34;Cloudflare interface&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at &lt;a href=&#34;https://iwantmyname.com/dashboard/domains/dnssec/&#34;&gt;https://iwantmyname.com/dashboard/domains/dnssec/&lt;/a&gt;&amp;lt;&lt;strong&gt;domain name in question&lt;/strong&gt;&amp;gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;media/2016-02-01-iwantmyname-dnssec.png&#34; alt=&#34;iwantmyname interface&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../media/2016-02-01-iwantmyname-dnssec.png&#34; alt=&#34;iwantmyname interface&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Once you&amp;rsquo;re done, &lt;em&gt;the internet&lt;/em&gt; will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.&lt;/p&gt;
 
