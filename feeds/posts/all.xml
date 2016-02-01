@@ -13,11 +13,11 @@
 
 &lt;p&gt;The easiest way to set this up is if your Nameserver provider supports DNSSEC (like Cloudflare, pictured below). Just enable it there, then grab your DS record to use with your domain.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;media/2016-02-01-dnssec.png&#34; alt=&#34;Cloudflare interface&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://iwantmyname.com/blog/media/2016-02-01-dnssec.png&#34; alt=&#34;Cloudflare interface&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at &lt;a href=&#34;https://iwantmyname.com/dashboard/domains/dnssec/&#34;&gt;https://iwantmyname.com/dashboard/domains/dnssec/&lt;/a&gt;&amp;lt;&lt;strong&gt;domain name in question&lt;/strong&gt;&amp;gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;media/2016-02-01-iwantmyname-dnssec.png&#34; alt=&#34;iwantmyname interface&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://iwantmyname.com/blog/media/2016-02-01-iwantmyname-dnssec.png&#34; alt=&#34;iwantmyname interface&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Once you&amp;rsquo;re done, &lt;em&gt;the internet&lt;/em&gt; will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.&lt;/p&gt;
 
@@ -570,27 +570,6 @@
 			</item>
 		
 			<item>
-				<title>Quality of work-life should be a top priority</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
-
-&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
-
-&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
-				
-				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
-			</item>
-		
-			<item>
 				<title>Ad blockers and an-ugh-lytics</title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
 
@@ -611,6 +590,27 @@
 					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
 				
 				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
+			</item>
+		
+			<item>
+				<title>Quality of work-life should be a top priority</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
+
+&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
+
+&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
+				
+				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
 			</item>
 		
 			<item>
