@@ -12,7 +12,7 @@ The easiest way to set this up is if your Nameserver provider supports DNSSEC (l
 
 ![Cloudflare interface](https://iwantmyname.com/blog/media/2016-02-01-dnssec.png)
 
-Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at https://iwantmyname.com/dashboard/domains/dnssec/<**domain name in question**>)
+Then, on our site, copy the relevant bits, which is everything *after* **<domain> 3600 IN DS**, of the DS record to the DS record page in your domain admin (you can find that at https://iwantmyname.com/dashboard/domains/dnssec/<**domain name in question**>)
 
 ![iwantmyname interface](https://iwantmyname.com/blog/media/2016-02-01-iwantmyname-dnssec.png)
 
