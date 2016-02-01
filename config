@@ -40,6 +40,10 @@ TOBI_NAME = Tobi Kirschstein
 TOBI_AVATAR = /assets/images/authors/tobi.png
 TOBI_TWITTER = owner
 
+LEY_NAME = Ley Missailidis
+LEY_AVATAR = /assets/images/authors/ley.png
+LEY_TWITTER = _polymetis_
+
 
 */*/*.md:
 	config
