@@ -13,7 +13,7 @@
 
 	
 	
-		<link rel="canonical" href="https://iwantmyname.com/blog/2016/01/we-have-your-back.html">
+		<link rel="canonical" href="https://iwantmyname.com/blog/2016/02/we-have-your-back-with-dnssec.html">
 	
 
 	
@@ -32,7 +32,7 @@
 
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="">
-	<meta property="og:url" content="https://iwantmyname.com/blog/2016/01/we-have-your-back.html">
+	<meta property="og:url" content="https://iwantmyname.com/blog/2016/02/we-have-your-back-with-dnssec.html">
 	
 
 
@@ -109,25 +109,25 @@
 
 				
 
-				<p>date: the future
+				<p>date: 2016/02/01 09:00:00 -0700
 author: &lsquo;Ley
 title: We&rsquo;ve got your back with DNSSEC</p>
 
 <h2>excerpt: false</h2>
 
-<p>At iwantmyname, we consider making it easy for you to control and own your online identity one of our core principles. Hell, it&rsquo;s in the branding. But what happens after that? Are we sure every time someone tries to connect to your identity, they&rsquo;re actually connecting with you?</p>
+<p>At iwantmyname, we consider making it easy for you to control and own your online identity as one of our core principles. Hell, it&rsquo;s in the branding. But what happens after that? Are we sure every time someone tries to connect to your identity, they&rsquo;re actually connecting with you?</p>
 
 <p>We can do that now with DNSSEC and DS records.</p>
 
 <p>The easiest way to set this up is if your Nameserver provider supports DNSSEC (like Cloudflare, pictured below). Just enable it there, then grab your DS record to use with your domain.</p>
 
-<p><img src="media/2016-the-future-cloudflare-dnssec.png" alt="Cloudflare interface"></p>
+<p><img src="media/2016-02-01-cloudflare-dnssec.png" alt="Cloudflare interface"></p>
 
 <p>Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at <a href="https://iwantmyname.com/dashboard/domains/dnssec/">https://iwantmyname.com/dashboard/domains/dnssec/</a>&lt;<strong>domain name in question</strong>&gt;)</p>
 
-<p><img src="media/2016-the-future-iwantmyname-dnssec.png" alt="iwantmyname interface"></p>
+<p><img src="media/2016-02-01-iwantmyname-dnssec.png" alt="iwantmyname interface"></p>
 
-<p>Once you&rsquo;re done, the internet will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.</p>
+<p>Once you&rsquo;re done, <em>the internet</em> will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.</p>
 
 <hr>
 
