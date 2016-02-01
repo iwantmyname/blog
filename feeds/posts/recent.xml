@@ -6,6 +6,33 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>We&#39;ve got your back with DNSSEC</title>
+				<description>&lt;p&gt;At iwantmyname, we consider making it easy for you to control and own your online identity as one of our core principles. Hell, it&amp;rsquo;s in the branding. But what happens after that? Are we sure every time someone tries to connect to your identity, they&amp;rsquo;re actually connecting with you?&lt;/p&gt;
+
+&lt;p&gt;We can do that now with DNSSEC and DS records.&lt;/p&gt;
+
+&lt;p&gt;The easiest way to set this up is if your Nameserver provider supports DNSSEC (like Cloudflare, pictured below). Just enable it there, then grab your DS record to use with your domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;media/2016-02-01-cloudflare-dnssec.png&#34; alt=&#34;Cloudflare interface&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Then, on our site, copy the relevant bits of the DS record to the DS record page in your domain admin (you can find that at &lt;a href=&#34;https://iwantmyname.com/dashboard/domains/dnssec/&#34;&gt;https://iwantmyname.com/dashboard/domains/dnssec/&lt;/a&gt;&amp;lt;&lt;strong&gt;domain name in question&lt;/strong&gt;&amp;gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;media/2016-02-01-iwantmyname-dnssec.png&#34; alt=&#34;iwantmyname interface&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;re done, &lt;em&gt;the internet&lt;/em&gt; will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested, an in-depth explanation of what DNSSEC is (and why you might want it) can be found on the &lt;a href=&#34;https://blog.cloudflare.com/dnssec-an-introduction/&#34;&gt;CloudFlare blog&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 01 Feb 2016 09:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/02/we-have-your-back-with-dnssec.html</link>
+				
+				<guid isPermaLink="false">/2016/02/we-have-your-back-with-dnssec.html</guid>
+			</item>
+		
+			<item>
 				<title>Now hiring: Customer support scholar</title>
 				<description>&lt;p&gt;Hi everyone -- We&amp;rsquo;ve had an amazing and overwhelming response. Over 300 applicants! So we&amp;rsquo;re booking interviews at this point and are no longer accepting further applications. Thanks so much for all your interest.&lt;/p&gt;
 
@@ -304,30 +331,6 @@
 					<link>https://iwantmyname.com/blog/2015/11/independent-journalism-needs-an-open-internet.html</link>
 				
 				<guid isPermaLink="false">/2015/11/independent-journalism-needs-an-open-internet.html</guid>
-			</item>
-		
-			<item>
-				<title>Asking for spec work is ridiculous</title>
-				<description>&lt;p&gt;&lt;a href=&#34;http://qz.com/543643/its-time-to-stop-asking-creatives-to-work-for-free/&#34;&gt;Anne Quito on spec work:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In fact, it’s an insidiously common practice to ask creative professionals to spend hours creating original custom work for free (called “spec work”), before they’re actually hired.&lt;/p&gt;
-
-&lt;p&gt;Speculative work, also referred to as “sample creative” is part of the bidding process for many projects. It’s often formally stipulated in the open calls issued by governments and big multilateral organizations, and casually brought up in prospective client meetings. But doing spec work is enormously expensive for creative agencies and artists, who must divert resources from existing clients in the hopes of winning new business.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=essNmNOrQto&#34;&gt;A new short film by Canadian advertising agency Zulu Alpha Kilo&lt;/a&gt; hilariously captures how absurd a spec work request sounds in other contexts.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;The #saynotospec video (linked above) is amazing.&lt;/li&gt;
-&lt;li&gt;If you&amp;rsquo;re in charge of getting creative work done for your company or project, don&amp;rsquo;t ask people to do spec work. Just find a person or agency you want to work with and go from there. As someone who&amp;rsquo;s been tasked with doing a fair amount of spec work in previous jobs, it&amp;rsquo;s a fairly insulting way to spend your time.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-				<pubDate>Mon, 09 Nov 2015 12:05:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/11/asking-for-spec-work-is-ridiculous.html</link>
-				
-				<guid isPermaLink="false">/2015/11/asking-for-spec-work-is-ridiculous.html</guid>
 			</item>
 		
 	</channel>
