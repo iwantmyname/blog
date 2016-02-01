@@ -15,7 +15,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://iwantmyname.com/blog/media/2016-02-01-dnssec.png&#34; alt=&#34;Cloudflare interface&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;Then, on our site, copy the relevant bits, which is everything &lt;em&gt;after&lt;/em&gt; &lt;strong&gt;&lt;domain&gt; 3600 IN DS&lt;/strong&gt;, of the DS record to the DS record page in your domain admin (you can find that at &lt;a href=&#34;https://iwantmyname.com/dashboard/domains/dnssec/&#34;&gt;https://iwantmyname.com/dashboard/domains/dnssec/&lt;/a&gt;&amp;lt;&lt;strong&gt;domain name in question&lt;/strong&gt;&amp;gt;)&lt;/p&gt;
+&lt;p&gt;On our site, copy the relevant bits, which is everything &lt;em&gt;after&lt;/em&gt; &lt;strong&gt;&lt;domain&gt; 3600 IN DS&lt;/strong&gt;, of the DS record to the DS record page in your domain admin (you can find that at &lt;a href=&#34;https://iwantmyname.com/dashboard/domains/dnssec/&#34;&gt;https://iwantmyname.com/dashboard/domains/dnssec/&lt;/a&gt;&amp;lt;&lt;strong&gt;domain name in question&lt;/strong&gt;&amp;gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://iwantmyname.com/blog/media/2016-02-01-iwantmyname-dnssec.png&#34; alt=&#34;iwantmyname interface&#34;&gt;&lt;/p&gt;
 
