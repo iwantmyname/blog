@@ -570,6 +570,27 @@
 			</item>
 		
 			<item>
+				<title>Quality of work-life should be a top priority</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
+
+&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
+
+&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
+				
+				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
+			</item>
+		
+			<item>
 				<title>Ad blockers and an-ugh-lytics</title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
 
@@ -590,27 +611,6 @@
 					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
 				
 				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
-			</item>
-		
-			<item>
-				<title>Quality of work-life should be a top priority</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
-
-&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
-
-&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
-				
-				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
 			</item>
 		
 			<item>
@@ -4592,7 +4592,17 @@ control structures in place, but for us it was really something that just develo
 
 &lt;!-- /excerpt --&gt;
 
-&lt;h3&gt;Don&amp;rsquo;t stray from your brand, especially for keyword stuffing&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Don&amp;rsquo;t stray from your brand, especially for keyword stuffing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;It&amp;rsquo;s much easier now to make your name work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Watch out when going too generic with gTLDs though&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Beware of alternative spellings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;A word about domain hacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-6&#34;&gt;It&amp;rsquo;s more about you than the name&lt;/a&gt;
+***&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;section-1&#34;&gt;Don&#39;t stray from your brand, especially for keyword stuffing&lt;/h2&gt;
 
 &lt;p&gt;As a consumer, it&amp;rsquo;s hard to remember a site when the brand name doesn&amp;rsquo;t match the domain name. And you might think this is a common sense tip, but I see it all the time—especially with older sites trying to take advantage of keyword stuffing, an old SEO trick.&lt;/p&gt;
 
@@ -4604,17 +4614,17 @@ control structures in place, but for us it was really something that just develo
 
 &lt;p&gt;So for practical purposes, if you&amp;rsquo;re a real estate agent, your top priority should be ease of discovery. If your brand is &amp;ldquo;The Hall Team&amp;rdquo;, thehallteam.com would be a much better choice than best-real-estate-wellington.com. And it&amp;rsquo;s not even close.&lt;/p&gt;
 
-&lt;h3&gt;It&amp;rsquo;s much easier now to make your name work&lt;/h3&gt;
+&lt;h2 id=&#34;section-2&#34;&gt;It&#39;s much easier now to make your name work&lt;/h2&gt;
 
 &lt;p&gt;One of the biggest hangups in the past for naming is that brands felt like they were stuck with .COM as their only viable domain extension. And because .COM was (and still is) so crowded, you&amp;rsquo;ll often see companies use naming conventions like BRANDNAMEbrand.com, getBRANDNAME.com, or BRANDNAMEcompany.com just to make sure their brand name is in the domain somewhere. But from a consumer&amp;rsquo;s perspective, that&amp;rsquo;s really pretty confusing. When you&amp;rsquo;re looking for a brand on the internet, anything straying from BRANDNAME.EXTENSION seems like excess, and risks getting lost in the ether.&lt;/p&gt;
 
 &lt;p&gt;With the new &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;generic top-level domains&lt;/a&gt; (gTLDs) though, you can pair your brand name up with a memorable domain extension to create something easy to say, and even easier to remember. So instead of something like BRANDNAMEcoffeeroasters.com, you could just use BRANDNAME.coffee.&lt;/p&gt;
 
-&lt;h3&gt;Watch out when going too generic with gTLDs though&lt;/h3&gt;
+&lt;h2 id=&#34;section-3&#34;&gt;Watch out when going too generic with gTLDs though&lt;/h2&gt;
 
 &lt;p&gt;The world of gTLDs opens you up to a lot of new naming possibilities, but remember that in search, you&amp;rsquo;re still going to be competing with existing brands. For instance, you might find joy in naming your apple orchard &amp;ldquo;Apple&amp;rdquo;, with the domain name, apple.farm, but you&amp;rsquo;re going to have some pretty fierce competition (apple.com, applerecords.com) for the top Google spot for the term &amp;ldquo;apple&amp;rdquo;. This isn&amp;rsquo;t to say that you should always shy away from names because of search competition, but be smart about it. The goal is to be the number one search term for your brand name (at least), so if that&amp;rsquo;s impossible, you may want to reconsider your strategy.&lt;/p&gt;
 
-&lt;h3&gt;Beware of alternative spellings&lt;/h3&gt;
+&lt;h2 id=&#34;section-4&#34;&gt;Beware of alternative spellings&lt;/h2&gt;
 
 &lt;p&gt;If you want to get a quick look at the variety of names people come up with for brands, take a look at &lt;a href=&#34;http://www.producthunt.com/&#34;&gt;Product Hunt&lt;/a&gt;. You&amp;rsquo;ll find countless brand names, many of which are derivations of simple words or phrases. And that&amp;rsquo;s fine, but you have to be careful.&lt;/p&gt;
 
@@ -4624,11 +4634,11 @@ control structures in place, but for us it was really something that just develo
 &lt;li&gt;&lt;strong&gt;But other variations aren&amp;rsquo;t&lt;/strong&gt; - Every common derivation had to start somewhere, but I&amp;rsquo;d be wary of being too original. For example, I found a brand called Kalibrr, which changes &amp;ldquo;caliber&amp;rdquo; by replacing the &amp;lsquo;c&amp;rsquo; with a &amp;lsquo;k&amp;rsquo; and uses &amp;lsquo;rr&amp;rsquo; at the end. It could work out fine for them, but I&amp;rsquo;d guess there will be some recall issues down the line.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3&gt;A word about domain hacks&lt;/h3&gt;
+&lt;h2 id=&#34;section-5&#34;&gt;A word about domain hacks&lt;/h2&gt;
 
 &lt;p&gt;We&amp;rsquo;ve talked about &lt;a href=&#34;https://iwantmyname.com/blog/2013/10/what-is-a-domain-hack-and-how-can-i-make-one.html&#34;&gt;domain hacks&lt;/a&gt; a lot in the past, but for a brand&amp;rsquo;s primary site, they&amp;rsquo;re a hard sell for a couple reasons. First, they&amp;rsquo;re hard to verbalize. Instead of saying &amp;ldquo;BRANDNAME dot com&amp;rdquo;, you end up saying things like &amp;ldquo;BRANDNAME, with the end being dot I T&amp;rdquo; or &amp;ldquo;B R A N D N A dot M E&amp;rdquo;. Second, it&amp;rsquo;s only human nature to look at clever domain names as unprofessional. It certainly depends on the industry you&amp;rsquo;re in, but I&amp;rsquo;d think twice before putting my money in a bank using a domain like bankofthelak.es or bankingpl.us.&lt;/p&gt;
 
-&lt;h3&gt;It&amp;rsquo;s more about you than the name&lt;/h3&gt;
+&lt;h2 id=&#34;section-6&#34;&gt;It&#39;s more about you than the name&lt;/h2&gt;
 
 &lt;p&gt;No matter what I, or anyone, says about your domain name in the planning stages, the popularity of your brand will likely come down to your product and how well you market it. I&amp;rsquo;ll always remember thinking how odd the name Google was when I first heard it (it&amp;rsquo;s a &lt;a href=&#34;https://graphics.stanford.edu/~dk/google_name_origin.html&#34;&gt;misspelling of googol&lt;/a&gt;), and we all know how that turned out. So be brave, be smart and whatever you do, don&amp;rsquo;t settle on something you&amp;rsquo;re not happy with. Think of your domain like a marriage—it&amp;rsquo;s a longterm commitment, and getting out will probably hurt quite a bit.&lt;/p&gt;
 </description>
