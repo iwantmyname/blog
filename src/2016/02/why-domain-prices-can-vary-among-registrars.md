@@ -42,7 +42,7 @@ We list our beliefs and policy information [on our About page](https://iwantmyna
 
 We don't believe you can measure yourself or company successful if it results in "human roadkill" on that road to success. You're in business because your customers are willing to do business with you.
 
-Similarily, your business' existence and growth relies on your team. We've grown slowly and carefully, and have a lot of experience and deep knowledge of our industry. We believe that's the best way to serve our customers. We haven't outsourced support to places where we can amass lots of cheap â€“ but low-skilled â€“ labour.
+Similarily, your business' existence and growth relies on your team. We've grown slowly and carefully, and have a lot of experience and deep knowledge of our industry. We believe that's the best way to serve our customers. We haven't outsourced support to places where we can amass lots of cheap–but low-skilled–labour.
 
 ## Be informed
 
