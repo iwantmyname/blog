@@ -31,11 +31,12 @@ When creating a custom email address, think of it the same way you would when cr
 
 <h2 id="section-2">Custom email options</h2>
 
-We have four custom email platform options in our Marketplace, all providing stable service and excellent customer support. Check each platform for updated prices (usually priced per user/mailbox).
+We have five custom email platform options in our Marketplace, all providing stable service and excellent customer support. Check each platform for updated prices (usually priced per user/mailbox).
 
 + [Zoho Mail](https://iwantmyname.com/features/applications/custom-domain-apps/zoho/email-hosting-and-online-office-suite): For many users, Zoho Mail is a top choice because it’s free for up to 25 mailboxes. *Free!* It's also easy to install, has a clean interface, delivers push mail and two-way sync, and never displays weird ads on your page. 
 + [Google Apps](https://iwantmyname.com/features/applications/google-apps-for-your-domain): Google Apps is likely the most common email host people are using these days—and for good reason. With Google Apps, you get the exact same email interface and benefits you get with a personal Gmail account, but with the added organizational benefits of Google Drive, Google Calendar, Google Sites, and more.
 + [Fastmail.fm](https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain): Created by Opera Software—the company behind the Opera browser—Fastmail.fm is growing fast because of its dedication to reliability and security. 
++ [ProtonMail](https://iwantmyname.com/services/email-hosting/protonmail-custom-domain): If you're looking for maximum security, end-to-end encryption, and a surprisingly nice UI, ProtonMail is where you want to be. 
 + [Rackspace Email](https://iwantmyname.com/services/email-hosting/rackspace-apps): While Rackspace Email doesn’t provide all the bells and whistles of a platform like Google Apps, it does have one very nice feature—hosted Microsoft Exchange. For non-Exchange users, Rackspace also provides a nice webmail platform, 24x7 support, and multiple layers of spam and virus protection.
 
 <h2 id="section-3">Email forwarding?</h2>
