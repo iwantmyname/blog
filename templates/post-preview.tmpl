@@ -15,7 +15,7 @@
 	</h1>
 	
 	{{ if .Other.Header_image }}
-		<p><a href="{{ if .Other.Post_url }}{{ .Other.Post_url }}{{ else }}/{{ .Url }}{{ end }}"><img data-src="https://iwmn-blog.imgix.net/{{ .Other.Header_image }}" class="imgix-fluid" alt="{{ .Title | html }}" title="{{ .Title | html }}"></a></p>
+		<p><a href="{{ if .Other.Post_url }}{{ .Other.Post_url }}{{ else }}/{{ .Url }}{{ end }}"><img data-src="{{ .Site.Other.Base_url }}/media/{{ .Other.Header_image }}" class="imgix-fluid" alt="{{ .Title | html }}" title="{{ .Title | html }}"></a></p>
 	{{ end }}
 	{{ if .Other.Author_name }}
 		<p class="small text-muted">The following is a guest post written by {{ .Other.Author_name }}.</p>
