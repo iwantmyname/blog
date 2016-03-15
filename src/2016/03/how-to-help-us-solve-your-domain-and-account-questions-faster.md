@@ -1,4 +1,4 @@
-date: 2016-03-10 15:00:00 -0700
+date: 2016-03-15 13:00:00 -0700
 author: Melle
 title: How to help us solve your domain and account questions faster
 header_image: 2016-03-15-working.jpeg
