@@ -1,6 +1,7 @@
 date: 2016-03-16 12:00:00 -0700
 author: Chris
 title: Writing on the web, as an individual, is changing (probably for the better)
+excerpt: false
 ----
 
 There was a time, not so long ago, when building a grand personal website sounded like a great idea. People – regular people – were committing a few hours a day to it, and actually making money. But somewhere around the middle of the 2000's, social media got big, people started expressing themselves with shortform content, and consistently writing medium-to-longform posts became a major chore. 
