@@ -1,6 +1,7 @@
 date: 2016-03-16 12:00:00 -0700
 author: Chris
 title: Writing on the web, as an individual, is changing (probably for the better)
+header_image: 2016-03-16-kermit.gif
 excerpt: false
 ----
 
