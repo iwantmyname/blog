@@ -1,7 +1,7 @@
 date: 2016-03-17 09:19:00 -0700
 author: Melle
 title: Meet Merlene, the newest iwantmynamer
-
+excerpt: false
 ----
 
 ![Merlene](https://iwantmyname.com/blog/media/2016-03-16-merlene.jpg)
