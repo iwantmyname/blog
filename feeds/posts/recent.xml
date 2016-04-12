@@ -6,6 +6,36 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>New plugin: Pattern by Etsy</title>
+				<description>&lt;p&gt;At this point, there&amp;rsquo;s no denying Etsy&amp;rsquo;s impact on buying and selling craft goods online. The problem with Etsy is that, for as creative as its sellers are, every store is based on a single template. Until now.&lt;/p&gt;
+
+&lt;p&gt;With Pattern by Etsy, sellers can create custom sites (with custom domain names) to better differentiate their brand and goods from the rest of the Etsy ecosystem. Just choose from a bunch of clean themes, pick your own fonts and colors, and add some content (your inventory syncs with your regular Etsy store automatically) – that&amp;rsquo;s all you need to add a professional touch to your store. It&amp;rsquo;s not free, but if you&amp;rsquo;re a serious Etsy seller, it could be well worth your while.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/ecommerce/pattern-by-etsy&#34;&gt;Get a new domain with Pattern by Etsy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/ecommerce-hosting/&#34;&gt;Check out all of our Ecommerce plugins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;From the web:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techcrunch.com/2016/04/05/etsy-launches-pattern/&#34;&gt;Techcrunch&lt;/a&gt;: &amp;ldquo;Apparently, more than one-third of Etsy’s 1.6 million active sellers have said they’re interested in setting up their own site, but they found the process of registering a domain, creating a site, maintaining it and managing the inventory too complicated.&lt;/p&gt;
+
+&lt;p&gt;With Pattern, those sellers can create a site in just a few minutes — a feat that Etsy product lead Joe Lallouz demonstrated this morning for an audience of journalists at the company’s Brooklyn headquarters.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.digitaltrends.com/web/etsy-pattern/&#34;&gt;Digital Trends&lt;/a&gt;: &amp;ldquo;Grishaver said that until now merely launching a custom website could be a complex and frustrating experience for Etsy sellers, “from finding a domain and host, to setting up a site, to loading all of their content, to adding and managing inventory.” And once it’s up and running, there are still plenty of challenges, as sellers must “make sure their inventory stays synced across two or more disconnected sales channels, monitor their analytics, and attempt to optimize traffic and marketing costs.” The answer, Grishaver believes, is Pattern.&amp;rdquo;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Apr 2016 08:01:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/04/new-plugin-pattern-by-etsy.html</link>
+				
+				<guid isPermaLink="false">/2016/04/new-plugin-pattern-by-etsy.html</guid>
+			</item>
+		
+			<item>
 				<title>New plugin: GitLab Pages</title>
 				<description>&lt;p&gt;If you&amp;rsquo;re using GitLab as your Git repository manager and want to create a quick, static site about a project (or anything, really), GitLab Pages is your ticket. Much like GitHub Pages, GitLab Pages lets you host static sites directly on your GitLab instance. Just choose a static site generator, use a free shared runner (or your own), and start editing.&lt;/p&gt;
 
@@ -403,79 +433,6 @@
 					<link>https://iwantmyname.com/blog/2016/03/how-to-help-us-solve-your-domain-and-account-questions-faster.html</link>
 				
 				<guid isPermaLink="false">/2016/03/how-to-help-us-solve-your-domain-and-account-questions-faster.html</guid>
-			</item>
-		
-			<item>
-				<title>Struggling to update your site? Maybe it&#39;s time to do something different with your domain name</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;Let&amp;rsquo;s face it – most people who have their own website struggle to keep it up-to-date and post new content regularly.&lt;/p&gt;
-
-&lt;p&gt;You probably started out with the best of intentions, even posted for months or years religiously, but now it seems like a chore to get anything up. Perhaps your site doesn’t reflect you any longer, or you&amp;rsquo;ve simply said everything you had to say about a topic. Or maybe you&amp;rsquo;ve moved on to a more social writing platform like Medium.&lt;/p&gt;
-
-&lt;p&gt;The question now is, what should you do with your domain name? Having a dormant site isn&amp;rsquo;t doing you much good, but getting rid of a domain that has real brand equity is a total waste.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, unlike a username on a social platform, you can do lots of things with a domain name – it can go anywhere and become just about anything. Let&amp;rsquo;s explore some options.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Use the domain for email only&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Forward your domain somewhere else&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Set up a basic one-page site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Try getting into writing again&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Change direction&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;section-1&#34;&gt;Use the domain for email only&lt;/h2&gt;
-
-&lt;p&gt;I had a blog for years which I shut down recently because I wanted to focus more on personal connections in real life. It was such a huge relief to not feel guilty about not posting any longer. But instead of completely shutting the name down, it dawned on me that it&amp;rsquo;s perfectly okay to use my personal domain just for email. Nobody says there needs to be a website attached to it!&lt;/p&gt;
-
-&lt;p&gt;Using your own domain for email has some big advantages over the free offerings you can get from Gmail, iCloud, etc. The first of which is the perceived professionalism a custom domain provides. If you&amp;rsquo;re ever in a situation where you&amp;rsquo;re exchanging email addresses with a client (or potential client), having your own brand attached makes it seem like you&amp;rsquo;re taking yourself seriously. It takes five minutes for anyone to get a Gmail address – they&amp;rsquo;re completely generic – but a custom email address means you&amp;rsquo;ve put a bit of effort in (even if our &lt;a href=&#34;https://iwantmyname.com/services/email-hosting/&#34;&gt;simplified email installations&lt;/a&gt; make it really easy).&lt;/p&gt;
-
-&lt;p&gt;Using your own domain for email also gives you infinite portability. If you don’t like Gmail anymore, you can’t just switch to another service and keep your username@gmail.com address. However, with your own domain name you can exactly do that. Want to move from one email hosting provider to another while keeping the same address? Simply change the DNS settings of your domain and voilà.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-2&#34;&gt;Forward your domain somewhere else&lt;/h2&gt;
-
-&lt;p&gt;If you maintain any active online profiles, &lt;a href=&#34;https://help.iwantmyname.com/customer/en/portal/articles/1418597-how-do-i-set-up-domain-forwarding-&#34;&gt;forwarding your domain&lt;/a&gt; to the one reflecting you most is an easy way to show people where they can find you and what you’re passionate about. And best of all, forwarding domains is free of charge with most domain registrars and hosting companies.&lt;/p&gt;
-
-&lt;p&gt;For example, designers could forward their domain to Dribbble and show off their latest work, or developers to GitHub for their latest contributions to Open Source projects. Twitter is also an obvious choice if you&amp;rsquo;re still into it. Any public web address works.&lt;/p&gt;
-
-&lt;p&gt;One of the main advantages with redirecting your domain to another profile is the same as for email again: portability! Your interest in Twitter is fading away? Forward it to another location instead!&lt;/p&gt;
-
-&lt;h2 id=&#34;section-3&#34;&gt;Set up a basic one-page site&lt;/h2&gt;
-
-&lt;p&gt;Struggling to update your own blog doesn’t necessarily mean you&amp;rsquo;ve stopped posting everywhere else. So why not have a single website pointing to your tweets, Instagram photos, and Facebook profile?&lt;/p&gt;
-
-&lt;p&gt;With a one-pager from services like &lt;a href=&#34;https://about.me&#34;&gt;about.me&lt;/a&gt; or &lt;a href=&#34;https://branded.me&#34;&gt;branded.me&lt;/a&gt;, you don’t have to do anything to update your website regularly. Just set it up once, write a short bio, and link to your other online profiles. Many platforms will even pull in your content from around the internet so parts of your website will update automatically.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-4&#34;&gt;Try getting into writing again&lt;/h2&gt;
-
-&lt;p&gt;It sounds easier than it really is, but getting into a healthy writing habit is key when trying to get out of a writing funk. Start small with just a few minutes per day, e.g. by writing a few tweet-like short fictional status updates and expand from there. Don’t worry about publishing what you’ve written – all that matters is that you get back into the routine.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve established the habit, start thinking of posting to your blog again. Just make sure you focus on the writing and not other details like layouts and &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting&#34;&gt;blog hosting platforms&lt;/a&gt;. Also, before you get yourself into another block, accept that it&amp;rsquo;s ok to post infrequently. There&amp;rsquo;s no rule saying you need to publish daily, or even twice a week. It’s fine only to publish something once a month or twice a year. Don’t put too much pressure on yourself and only work on your biggest ideas that have the most impact.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-5&#34;&gt;Change direction&lt;/h2&gt;
-
-&lt;p&gt;Sometimes you just need a fresh start. Last year, when I was searching for options to post shorter status updates on my own domain instead of Twitter or Facebook, I came across the &lt;a href=&#34;https://withknown.com&#34;&gt;Known&lt;/a&gt; platform. Their software allows you to post Twitter-like status updates, long-form writing, images, and check-ins to your site first before sending them to connected services.&lt;/p&gt;
-
-&lt;p&gt;Known helped me to think of my site as a place where I can post everything without the constraints of a blog. I didn’t feel like posting longer articles all the time, which was why my previous blog stagnated and ultimately died.&lt;/p&gt;
-
-&lt;p&gt;Sometimes all you want is share a quick thought, photo, or location with the world. Sure, there&amp;rsquo;s Tumblr, but it’s just another free service owned by a large internet company (in trouble). With Known, it felt the same as posting to Twitter and Facebook, but on my own domain. That’s a subtle but very important difference.&lt;/p&gt;
-
-&lt;p&gt;The Known platform is just one example how you could change direction with your blog. Invest some time in exploring your options and how you could change your workflows, software, or the topics you cover.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Whichever of the options you choose or come up with your own, I see owning a domain name as a life-long investment. The services you use with it will change over time. You will evolve over time. However, if you pick the right domain, it can stay with you for a very, very long time and in different reincarnations. Don’t give up on it just yet.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 09 Mar 2016 11:00:21 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/03/struggling-to-update-your-site.html</link>
-				
-				<guid isPermaLink="false">/2016/03/struggling-to-update-your-site.html</guid>
 			</item>
 		
 	</channel>
