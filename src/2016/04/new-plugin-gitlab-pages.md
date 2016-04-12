@@ -15,7 +15,7 @@ Is it for everyone? No. If you're a casual blogger or someone looking at do-it-a
 
 ***
 
-###From the web:
+### From the web:
 
 [Venture Beat](http://venturebeat.com/2015/12/22/gitlab-just-launched-another-feature-that-will-help-it-compete-with-github/): "Step by step, GitLab, the startup behind the GitLab open source software for managing source code, is becoming more competitive with GitHub, the company well known for hosting source code for many applications."
 
