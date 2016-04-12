@@ -2,6 +2,7 @@ date: 2016-04-12 08:00:00 -0700
 author: Chris
 title: New plugin: GitLab Pages
 header_image: 2016-04-12-gitlab2x.jpg
+excerpt: false
 ----
 
 If you're using GitLab as your Git repository manager and want to create a quick, static site about a project (or anything, really), GitLab Pages is your ticket. Much like GitHub Pages, GitLab Pages lets you host static sites directly on your GitLab instance. Just choose a static site generator, use a free shared runner (or your own), and start editing. 
