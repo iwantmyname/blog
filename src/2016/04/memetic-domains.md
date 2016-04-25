@@ -30,18 +30,18 @@ However, given the price of .AF domains, one imagines they're very supportive of
 ## Other domain extension goodies
 
 ### Popular Top-Level Domains (TLDs)*
-
- [.KRD](https://iwantmyname.com/domains/dot-krd)
- [.GAME](https://iwantmyname.com/domains/dot-game)
- [.FREE](https://iwantmyname.com/domains/dot-free)
- [.IO](https://iwantmyname.com/domains/io-domain-sale-promo-offer)
- [.NOW](https://iwantmyname.com/domains/dot-now)
+ 
+ + [.KRD](https://iwantmyname.com/domains/dot-krd)
+ + [.GAME](https://iwantmyname.com/domains/dot-game)
+ + [.FREE](https://iwantmyname.com/domains/dot-free)
+ + [.IO](https://iwantmyname.com/domains/io-domain-sale-promo-offer)
+ + [.NOW](https://iwantmyname.com/domains/dot-now)
  
 **Methodology: Popularity rankings based on last week's pageviews. This means the TLD list isn't based on actual domains registered, just traffic to the landing pages.*
 
 ### Upcoming launch dates for new extensions
 
-May 17 - [.GAME](https://iwantmyname.com/domains/dot-game)
-May 23 - [.VIP](https://iwantmyname.com/domains/dot-vip)
-June 7 - [.SALON](https://iwantmyname.com/domains/dot-salon)
-June 13 - [.STORE](https://iwantmyname.com/domains/dot-store)
+ + May 17 - [.GAME](https://iwantmyname.com/domains/dot-game)
+ + May 23 - [.VIP](https://iwantmyname.com/domains/dot-vip)
+ + June 7 - [.SALON](https://iwantmyname.com/domains/dot-salon)
+ + June 13 - [.STORE](https://iwantmyname.com/domains/dot-store)
