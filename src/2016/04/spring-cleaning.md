@@ -1,7 +1,7 @@
 date: 2016-04-28 17:30:00 -0400
 author: Melle
 title: Spring cleaning for your domains
-header_image: 2016-04-25-meme2x.jpg
+header_image: coffee-smartphone-desk-pen.jpg
 excerpt: false
 ----
 
