@@ -6,6 +6,36 @@
 		<atom:link href="https://iwantmyname.com/blog/atom.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>You can now add WHOIS privacy for all .UK domains</title>
+				<description>&lt;p&gt;On May 1st, Nominet, the registry for .UK domains, is updating the availability of its WHOIS privacy service. This update affects all .UK TLDs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.UK&lt;/li&gt;
+&lt;li&gt;.CO.UK&lt;/li&gt;
+&lt;li&gt;.ME.UK&lt;/li&gt;
+&lt;li&gt;.ORG.UK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Previously, adding WHOIS privacy to .UK domains was something customers had to send a request for. The availability was also limited only to domains registered to individuals, excluding those registered to companies.&lt;/p&gt;
+
+&lt;p&gt;As of May 1st, customers will be able to add the WHOIS privacy service themselves for any .UK domains they have registered, whether they&amp;rsquo;re registered to an individual or company.&lt;/p&gt;
+
+&lt;p&gt;In your iwantmyname dashboard on the domain&amp;rsquo;s page, just click on &lt;strong&gt;enable privacy&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://iwmn.me/10XBK/4O6D0O1P+&#34; alt=&#34;enable privacy for .UK domains&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Online privacy is an ever-evolving issue, and we&amp;rsquo;re pleased to see this development. As always, if you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h6&gt;Photo Credit: &lt;a href=&#34;https://www.flickr.com/photos/aigle_dore/&#34;&gt;Moyan Brenn&lt;/a&gt;&lt;/h6&gt;
+</description>
+				<pubDate>Mon, 02 May 2016 17:30:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/You-can-now-add-WHOIS-privacy-for-all-UK-domains.html</link>
+				
+				<guid isPermaLink="false">/2016/05/You-can-now-add-WHOIS-privacy-for-all-UK-domains.html</guid>
+			</item>
+		
+			<item>
 				<title>Spring cleaning for your domains</title>
 				<description>&lt;p&gt;Spring has arrived here in the western hemisphere. Along with the warmer breezes and blooming flowers, the urge to tidy has gripped many of us.&lt;/p&gt;
 
@@ -415,29 +445,6 @@
 					<link>https://iwantmyname.com/blog/2016/03/friday-break-reply-all.html</link>
 				
 				<guid isPermaLink="false">/2016/03/friday-break-reply-all.html</guid>
-			</item>
-		
-			<item>
-				<title>Meet Merlene, the newest iwantmynamer</title>
-				<description>&lt;p&gt;&lt;img src=&#34;https://iwantmyname.com/blog/media/2016-03-16-merlene.jpg&#34; alt=&#34;Merlene&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Merlene is a self-described hoarder. Fortunately, she hoards domains, and not cats or anything weird. (She insists that two cats do not qualify as a hoard).&lt;/p&gt;
-
-&lt;p&gt;Having been self-employed for a long time, Merlene is familiar with all sides of the online business game, from registering domains to teaching customers how to post content and use their email accounts. She has extensive experience working with everyone from IT staff to small business people to complete newbs, so she can help figure out what you need and get it built.&lt;/p&gt;
-
-&lt;p&gt;She can also help with your social media and marketing efforts, mix you a killer cocktail, and knit you cool stuff. (She&amp;rsquo;s a hobbyist yarn entrepreneur at &lt;a href=&#34;https://knitcreek.com/&#34;&gt;knitcreek.com&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;Amazingly, even though Merlene didn&amp;rsquo;t mention in her interviews the fact that long ago, in the mists of Internet time, she contributed to one of the Internets for Dummies books, we were totally jazzed to hire her.&lt;/p&gt;
-
-&lt;p&gt;In her first weeks on board, we threw her in the deep end with support, and she&amp;rsquo;s done swimmingly. She even tackles tricky ccTLD edge cases with gusto. Unfortunately, while she&amp;rsquo;s with us in New Zealand, her home is without tech support, and the residents may end up forced to converse with each other, or just post cat gifs&amp;hellip; assuming internet access holds&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;PS. It is, indeed, Merlene with three Es.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 17 Mar 2016 09:19:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/03/meet-merlene-the-newest-iwantmynamer.html</link>
-				
-				<guid isPermaLink="false">/2016/03/meet-merlene-the-newest-iwantmynamer.html</guid>
 			</item>
 		
 	</channel>
