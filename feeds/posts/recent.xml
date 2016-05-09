@@ -6,6 +6,49 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>No TLD delegation for you. .SORRY.</title>
+				<description>&lt;p&gt;You just thought of the Best Domain Name Ever&amp;hellip; but it&amp;rsquo;s already taken. Even if you&amp;rsquo;re already aware that there are somewhere around 300 million domain names registered, it&amp;rsquo;s still a bummer.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes an extension that seems totally obvious just doesn&amp;rsquo;t exist. There&amp;rsquo;s .ACTOR and .LAWYER, but alas, I am denied .BAKER. Sometimes your company, project, or artistic works just &lt;em&gt;need&lt;/em&gt; that unique name.&lt;/p&gt;
+
+&lt;p&gt;So from time to time we get inquiries about how to go about registering a specific TLD that doesn&amp;rsquo;t exist yet. Not a domain name, but the domain extension at the end, like .COM, .DE, or .PIZZA.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;Having hundreds of new gTLDs launch in the past couple of years&lt;/a&gt; can make it seem like a fairly straight forward thing to accomplish. I mean, come on, .GRIPE exists. But actually, for the average person, it&amp;rsquo;s not.&lt;/p&gt;
+
+&lt;p&gt;You see, getting a TLD delegated isn&amp;rsquo;t like registering a domain name. From &lt;a href=&#34;https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en&#34;&gt;ICANN&amp;rsquo;s New gTLD FAQ&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1.5 Is applying for a new gTLD the same as buying a domain name?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No. Nowadays, organizations and individuals around the world can register second-level and, in some cases, third-level domain names. (In a URL such as maps.google.com, &amp;ldquo;google&amp;rdquo; is a second-level name and &amp;ldquo;maps&amp;rdquo; is a third-level domain.) They simply need to find an accredited registrar, comply with the registrant terms and conditions and pay registration and renewal fees. The application for a new gTLD is a much more complex process. An applicant for a new gTLD is, in fact, applying to create and operate a registry business supporting the Internet&amp;rsquo;s domain name system. This involves a number of significant responsibilities, as the operator of a new gTLD is running a piece of visible Internet infrastructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, in short, it requires creating an entire registry and business. Most individuals aren&amp;rsquo;t really in a position to do that.&lt;/p&gt;
+
+&lt;p&gt;However, if you&amp;rsquo;re still curious, you can check out &lt;a href=&#34;https://newgtlds.icann.org/en/applicants/agb&#34;&gt;ICANN&amp;rsquo;s New Applicant Guidebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We should note, however, that the application process is closed for the moment, and &lt;a href=&#34;http://domainnamewire.com/2016/05/04/next-round-new-tlds-might-2020/&#34;&gt;it&amp;rsquo;ll probably be a few years before it&amp;rsquo;s reopened&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, though, you&amp;rsquo;re looking at a commitment of a few hundred thousand dollars, several years, and a bunch of lawyers to get a TLD delegated. Plus you&amp;rsquo;re likely competing with a number of other groups who have the same resouces.&lt;/p&gt;
+
+&lt;p&gt;This is why it&amp;rsquo;s mainly done by existing registries, consortiums, and really big companies like Google and Amazon.&lt;/p&gt;
+
+&lt;p&gt;Also, once those organizations have succeeded in getting a TLD delegated, they don&amp;rsquo;t necessarily have to make it available to the general public for registering domains.&lt;/p&gt;
+
+&lt;p&gt;These organizations can succeed in requesting single user delegation, which means they&amp;rsquo;re the only ones who can create domains with that TLD. For example, Google&amp;rsquo;s registry is the remaining applicant for .DEV.&lt;/p&gt;
+
+&lt;p&gt;If granted, it&amp;rsquo;s likely to keep it for itself for Google-only domain names. They have .APP, too, beating out 12 other applicant registries. For companies that can manage it, it&amp;rsquo;s a great branding move.&lt;/p&gt;
+
+&lt;p&gt;Bottom line: sorry, but we can&amp;rsquo;t help you get a new TLD delegated. However, we do have this excellent guide about &lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;what to do if the domain name you want is taken&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 09 May 2016 11:48:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/delegation.html</link>
+				
+				<guid isPermaLink="false">/2016/05/delegation.html</guid>
+			</item>
+		
+			<item>
 				<title>You can now add WHOIS privacy for all .UK domains</title>
 				<description>&lt;p&gt;On May 1st, Nominet, the registry for .UK domains, is updating the availability of its WHOIS privacy service. This update affects all .UK TLDs:&lt;/p&gt;
 
@@ -418,33 +461,6 @@
 					<link>https://iwantmyname.com/blog/2016/03/popular-last-week-on-iwantmyname-march-21-27.html</link>
 				
 				<guid isPermaLink="false">/2016/03/popular-last-week-on-iwantmyname-march-21-27.html</guid>
-			</item>
-		
-			<item>
-				<title>Friday break - &#34;Reply All #59: Good Job, Alex&#34;</title>
-				<description>&lt;p&gt;If you like podcasts, this is one of my favorites. And this episode is about domain names!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gimletmedia.com/episode/59-good-job-alex/&#34;&gt;From Reply All, episode #59&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;ALEX: So I was thinking, “Wow.” So Alisa had this website. She had it professionally designed many moons ago. When it was still really hard to design a website. So had someone design it for her.&lt;/p&gt;
-
-&lt;p&gt;PJ: Like HTML days.&lt;/p&gt;
-
-&lt;p&gt;ALEX: Yes. But it was really clunky and difficult to use, so she started getting notices from GoDaddy, and she was just like, fine, this thing can expire. But the thing is, that she didn’t quite understand what would happen when you let your domain name expire. I think she just assumed that the site itself would go away, but nothing would happen to the domain name. Like she could come back to it whenever she wanted.&lt;/p&gt;
-
-&lt;p&gt;PJ: Mm mm.&lt;/p&gt;
-
-&lt;p&gt;ALEX: Are you saying, “No she didn’t think that,” or “No that’s not what happens?”&lt;/p&gt;
-
-&lt;p&gt;PJ: I’m saying the thing she believed in the past was not true.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				<pubDate>Fri, 25 Mar 2016 09:50:21 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/03/friday-break-reply-all.html</link>
-				
-				<guid isPermaLink="false">/2016/03/friday-break-reply-all.html</guid>
 			</item>
 		
 	</channel>
