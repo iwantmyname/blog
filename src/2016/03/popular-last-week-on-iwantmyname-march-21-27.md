@@ -28,6 +28,4 @@ excerpt: false
 + [.APP](https://iwantmyname.com/domains/dot-app)
 + [.ART](https://iwantmyname.com/domains/dot-art)
 
-***
-
 *Methodology: These popularity rankings are based entirely on pageviews on Google Analytics. This means the TLD list isn't based on actual domains registered, just traffic to its landing page.*

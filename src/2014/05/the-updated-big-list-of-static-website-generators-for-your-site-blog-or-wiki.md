@@ -170,17 +170,13 @@ Note: Writing a comprehensive list of static site generators would be nearly imp
 
 [Monkeyman](https://github.com/wspringer/monkeyman) - A static site generator similar to Middleman that's built in Scala.
 
-***
-
 ### Not static, but in the same universe
 
 [Kirby](http://getkirby.com/) - A PHP-built CMS that's "easy to setup, easy to use, flexible as hell."
 
 [Statamic](http://statamic.com/) - A flat-file CMS built on PHP with a beautiful and responsive control panel designed with clients in mind.
 
-***
-
-### The list of sources
+## The list of sources
 
 + Klint Finley's ["5 Minimalist Static Blog Generators to Check Out"](http://siliconangle.com/blog/2012/03/20/5-minimalist-static-html-blog-generators-to-check-out/) on Silicon Angle
 + Thorpe Obazee's ["Complete List of Static Site Generators for Python"](http://archived.link/http://gistpages.com/2013/08/12/complete_list_of_static_site_generators_for_python) on gist.pages

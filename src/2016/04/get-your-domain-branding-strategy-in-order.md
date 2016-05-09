@@ -20,8 +20,6 @@ The truth is, there are a million domain branding strategies that are potentiall
 4. [That doesn't belong to you](#section-4)
 5. [Think it through](#section-5)
 
-***
-
 <h2 id="section-1">What's in a name?</h2>
 
 First impressions are important, and company and product names are no exception. Do you go with a strong, descriptive name that may reflect your product, service, or industry, or a fun, memorable, one intended to make a statement, like "Google"? 

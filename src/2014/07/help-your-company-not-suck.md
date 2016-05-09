@@ -18,8 +18,6 @@ You're exposed. Most likely, at least. If your brand is on the web, it's open to
 6. [Be the master of your own domain(s)](#section-6)
 7. [It's ok to have fun](#section-7)
 
-***
-
 <h2 id="section-1">Approach it with the right perspective</h2>
 
 As many misguided companies have learned, no one controls the Internet, or how people act or what is posted on it. You only control what you post and how you respond to others.

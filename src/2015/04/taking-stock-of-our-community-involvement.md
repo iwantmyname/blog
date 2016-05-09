@@ -20,6 +20,4 @@ From this week on, we will be shouting the beers at the highly popular [Startup 
 
 2015 is shaping up to be a big year for community involvement here at iwantmyname, and we're excited to make further inroads in the local start-up ecosystem. If you see us around, come say hi! We'd love to chat. 
 
-***
-
 Photo Credit: [Mark Tantrum Photography](http://marktantrum.photoshelter.com/gallery-image/Startup-Weekend-Wellington-2015/G0000kh_BLuFtiHg/I0000cpYprJxO9W8/C00009qyVsLVsm0o)

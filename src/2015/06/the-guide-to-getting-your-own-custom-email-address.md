@@ -23,8 +23,6 @@ So let's patch up your branding right now and set you on the path to legitimacy.
 5. [Can't you get a free custom address with Microsoft?](#section-5)
 6. [What should go before the @?](#section-6)
 
-***
-
 <h2 id="section-1">The basics</h2>
 
 When creating a custom email address, think of it the same way you would when creating a new website. First, pick an email platform to use, then install it to your custom domain. For example, if “The Dude”—fictional owner of **theinternet.io**—wanted to set up a custom email address, he would search through the email hosts in our [Marketplace](https://iwantmyname.com/services/email-hosting/), then pick the one that suits him best. Each of them will allow him to email from thedude@**theinternet.io**, but each will also provide a slightly different set of features, a different webmail client, and a wide range of prices.
@@ -89,8 +87,6 @@ But before you start, take a minute to think about the future. First, you'll pro
 If you want to be safe, go with something like firstnamelastname@, firstname.lastname@, firstnamelastinitial@, or firstinitiallastname@. Sure, there will always be exceptions to the rule (if two people have the exact same name, maybe you can force them into a Hunger Games-type situation), but doing what you can to avoid future duplication will make your life much easier later.
 
 After everyone has an individual account, be sure to create some general accounts for different roles. For example, it's better to create a press@ account than to just have that email go to a specific person (what happens if that person leaves or takes on a new role within the company?). Don't go overboard though—having too many email accounts can get confusing for everyone.
-
-***
 
 ## Questions? Comments?
 

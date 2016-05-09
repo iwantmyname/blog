@@ -34,6 +34,4 @@ So take these numbers as a grain of salt, but don't discount the general popular
 
 Like [.KIWI](https://iwantmyname.com/domains/dot-kiwi)! It'd be great to see New Zealand's funky new domain extension sneak onto next month's list. 
 
-***
-
 Stat source: [Domain Incite Pro](http://domainincite.com/pro/new-gtld-zone-file-report/)

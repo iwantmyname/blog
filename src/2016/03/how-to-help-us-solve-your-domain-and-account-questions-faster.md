@@ -17,8 +17,6 @@ Most of it will be pretty straightforward, but on the off chance you have an iss
 3. [About the problem](#section-3)
 4. [It'll work, don't worry](#section-4)
 
-***
-
 <h2 id="section-1">About you</h2>
 
 When you contact support, the most fundamental thing we need to know is that you are, in fact, the real account holder (or, at least, someone like a web developer who the account holder has granted access).

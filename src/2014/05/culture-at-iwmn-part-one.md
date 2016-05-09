@@ -66,8 +66,6 @@ I'll write a few more posts about other culture and company experiments
 at iwantmyname. If there is any topic you are more interested in or
 something you really want to know about us, [please get in touch](https://iwantmyname.com/support).
 
-***
-
 ### Continue reading
 
 This is **part one** of an ongoing series about the culture of iwantmyname. 

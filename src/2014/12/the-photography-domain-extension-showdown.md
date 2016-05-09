@@ -20,8 +20,6 @@ The "why" question will have to be for a later post, but predicting popularity i
 
 <!-- /excerpt -->
 
-***
-
 ### Current Stats
 
 Current popularity isn't necessarily indicative of future success, but it is a good place to start. Here are the total registration stats (up to the time of writing) according to [ntldstats.com](http://ntldstats.com).
@@ -89,8 +87,6 @@ When people ask for my opinion on the matter, I tend to put aside all the SEO an
 Amongst the other gTLDs on the list, there seems to be one that's not like the others—.pictures. I happen to like .pictures as a TLD, but if someone told me their domain ended with .pictures, I might wonder if they're a photographer or an illustrator (maybe they draw their pictures?). For that reason, I'm bailing on .pictures as a winning option. 
 
 **Eliminated: .pictures**
-
-***
 
 ### Conclusion
 

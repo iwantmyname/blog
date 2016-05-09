@@ -18,8 +18,6 @@ Let's go through, step-by-step, the important things you need to cover:
 4. [Which e-commerce platform is right for me?](#section-4)  
 5. [It's time to think about stock images](#section-5) 
 
-***
-
 <h2 id="section-1">Does my domain name matter?</h2> 
 
 Company naming is one of the hardest things anyone creating a website will have to do. Not because naming things is inherently hard (there really isn't a wrong choice), but because the name is the single hardest thing to change in the future. 
@@ -102,8 +100,6 @@ With your domain name now set, your final big decision is to pick an platform to
 
 [Virb](https://iwantmyname.com/services/website-builder/virb-custom-domain): Instead of giving you the built-in tools needed to set up your own store, Virb teamed up with Big Cartel and Etsy to allow for easy store/product imports. And given Virb’s do-it-all functionality, we’d recommend giving them a look.
 
-***
-
 The paradox of choice struggle is real. In all reality, there's probably not a wrong answer when choosing a platform—but some will definitely be better for you than others. When browsing the individual sites for these platforms, the biggest things to look for are:
 
 + price (don't forget to figure in transaction fees)
@@ -111,8 +107,6 @@ The paradox of choice struggle is real. In all reality, there's probably not a w
 + ease-of-use (free trials are your friend)
 + trajectory (pick a platform that's thriving... ideally the one you choose will grow with you throughout your brand's existence)
 + features (things like shipping tools, inventory trackers, and reporting systems will save you a lot of time as you grow)
-
-***
 
 <h2 id="section-5">It's time to think about stock images</h2>
 
@@ -133,8 +127,6 @@ If you're interested, here are some tips to keep you out of moral grey areas:
 4. The [Flickr Creative Commons](http://www.flickr.com/creativecommons/) is an awesome tool. Basically, users from all over the world upload photos for public use under the Creative Commons License. Just be sure to follow the rules. And no, adding a little "image from" blurb at the bottom of a post isn't bothersome to readers at all. It just shows you care.
 
 5. Anything is possible if you ask nicely. If you see an image you love online, you can always ask the site owner if you can use it yourself. Yes, they have the right to say no (or not respond at all), but it can't hurt to ask. 
-
-***
 
 ## Questions? Comments?
 

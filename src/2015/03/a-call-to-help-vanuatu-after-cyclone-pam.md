@@ -24,6 +24,4 @@ iwantmyname has a longstanding policy of setting aside 10 cents from every
 domain registration for charitable purposes, but with the crisis being so
 great, we've dug a bit deeper to help out our neighbours in their time of need. If you want to make your own donation to the Vanuatu relief fund, you can do so [here](https://www.unicef.org.nz/vanuatu).
 
-***
-
 (Photo by Dave Hunt-Pool/Getty Images)

@@ -113,11 +113,7 @@ Like most things in life, just know that there's never *ever* **ever** going to 
 
 Be brave! Make a decision and stick with it (for a while at least)! And don't stagnate. Stagnation is probably the worst thing for your brand.
 
-***
-
 Photo Credit: [Moyan Brenn](https://www.flickr.com/photos/aigle_dore/15571348667/in/photolist-pHZesK-pqEpUA-fbtGAq-57hwtU-e1atUj-9HeEG1-5ZxBBk-4KsQZJ-afqUA1-64r9rw-62aLAo-nWqNAd-qWKJwT-oNr5C4-pjK1Pf-nstRuW-fQBPgF-9CfAMG-dFrmSH-fQBPDX-edNyn6-5FAZV1-pzEpxi-5cDH6m-5FGJ8f-dueG6A-pKYCMQ-65XyQo-oTt8V4-ro93KE-bY1jeu-sK6UwR-4uMY9A-tWgBEX-nGxzS5-sAKya-3VSowq-btWTZw-sxT4GN-5h79hL-qUEAKo-nAYe45-ag1bk5-eqaVH-rL4rPg-tPbdAE-qfd5eq-rBZRPv-dUj3nX-inPvir)
-
-***
 
 ## Questions? Comments?
 

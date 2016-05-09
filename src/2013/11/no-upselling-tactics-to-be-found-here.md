@@ -12,15 +12,11 @@ We came across this post last week from Econsultancy titled, "[Nine upselling le
 
 <!-- /excerpt -->
 
-***
-
 > Upsells should be priced low enough to be an impulse buy. When offering an upsell, make it a price point that appears to the user as significantly cheaper than the original product they were buying.
 
 ![namecheap-shopping-cart.png](/media/2013-11-07-namecheap-shopping-cart.png)
 
 Just look at the mess in this basket. $2 here. $3.33/mo there. At iwantmyname, we don't try to nitpick you with upsells in your cart. A domain is a domain, and our prices are set to provide the best balance of value and support we can offer.
-
-***
 
 > Present the upsell as benefits to the user. By highlighting the benefits of a product, rather than its features, customers will understand what it offers them and will be more likely to buy.
 
@@ -30,25 +26,17 @@ This is a trick many online businesses use to upsell--providing services that us
 
 But the truth is that when you purchase a domain, it's registered to you through the underlying registry for a year--no phony certification needed. Tricking your customers into purchasing add-ons just isn't the way to do business on the modern web.
 
-***
-
 > Encourage the user to choose between options. When customers are purchasing, there is a general inertia. They will usually take the path of least resistance. By offering a choice (such as different levels of hosting), the user must make a conscious decision between the options rather than being able to just ignore the upsell. 
 
 Nobody wants to go with a minimum-tier purchase, so at iwantmyname, we don't give options. If you want a service like [whois masking](http://help.iwantmyname.com/customer/portal/articles/184425-do-you-offer-a-whois-privacy-service-), it's entirely free. Nor do we try to provide second-rate services to inflate our offerings. If you need email hosting or a platform to build a site, our [Marketplace](https://iwantmyname.com/services) is filled with powerful options. 
-
-***
 
 > Use price psychology. It is a similar situation to choosing a wine in a restaurant, where people are reluctant to choose the cheapest bottle, but don't want to pick the 'premium' option. It gives them an easy compromise choice that is neither the most basic, nor too expensive.
 
 It's true that many registrars play into people's psyches to boost a purchase, but we don't look for upsells. Ever. And we make an active effort to keep all the content on our site clear and concise. At iwantmyname, the value of our service comes from honest simplicity, not how many cheap add-ons we can throw in.
 
-***
-
 > Offer the user an unbeatable deal. When trying to upsell, offering a compelling offer may encourage users to engage.
 
 Using bundled sales as a marketing strategy could take up a post on its own, but put simply, the only [discounts we offer](https://iwantmyname.com/domains/special-offer) are for single domains, and they usually only come when we are offered a short-term price fluctuation from the underlying registry. 
-
-***
 
 > Make the differences between options clear. Make higher cost packages appear more comprehensive by showing icons or checklists (and don't forget to explain what these additional features are, if it's not clear).
 
@@ -56,19 +44,13 @@ Using bundled sales as a marketing strategy could take up a post on its own, but
 
 We're probably starting to sound like a broken record here, but if you find yourself questioning the complexity of your purchase because of a confusing sales pitch, it may be time to find a new registrar.
 
-***
-
 > Don't increase time or number of items without asking the user. A better approach to this would be to give the user the option to increase their term, while offering strong benefits (better pricing, added value services or the benefit of not forgetting to renew).
 
 When you buy a domain through us, what you're purchasing is really easy to understand. You get the selected domain for one year for the price displayed. No sneaky deals. No confusion.
 
-***
-
 > Take a long term approach to upselling.
 
 Or decide not to upsell at all. Our mission at iwantmyname is to help you get the web address you want as quickly as possible and not squeeze the last cent out of everything. We think our customers prefer it our way.
-
-***
 
 We recently came across this one too:
 

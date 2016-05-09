@@ -17,8 +17,6 @@ Don't believe me? Read on.
 3. [Step 3: Install your domain to your website](#section-3)
 4. [Step 4: Get a custom email address](#section-4)
 
-***
-
 <h2 id="section-1">Step 1: Get a domain name</h2>
 
 Choosing a domain name, particularly the part after the dot (as in BUSINESSNAME dot COM), may seem like an arbitrary task, but it's your first step to establishing legitimacy. There's plenty of content on the web that goes over this in some detail—including [our guide](https://iwantmyname.com/blog/2015/06/how-to-pick-the-right-domain-extension.html)—but let's reframe it here from a traditional business perspective. 
@@ -37,8 +35,6 @@ layshocklimo.com = good
 layshock.limo = in the suburbs, but it's short and memorable, which is good
 ridelayshocklimo.com = not as good
 
-***
-
 ### Does your domain name have a sketchy past?
 
 Technically, you can name your website anything you want, but like all things, names come with histories. Even if you have a sparkling marketing plan, getting unfavorable search results when seeking your site can be a killer. So do your research. Here's a little video guide from Matt Cutts of Google Webmasters on how you can protect yourself from registering domain names with iffy histories.
@@ -50,8 +46,6 @@ To recap, here are his three three main tips:
 1. Do a "site: DOMAINNAME.com" search. If you see anything fishy, be weary.
 2. Search for the domain name without the domain extension. So instead of "site: DOMAINNAME.com", just search for "DOMAINNAME." You never know what you might find. 
 3. Search for your desired domain on [archive.org](https://archive.org/). If your site used to be a scam site, you could suffer a continued SEO hit. Also note that if your site used to be something you find unsavory, you may get residual unsavory emails.
-
-***
 
 <h2 id="section-2">Step 2: Choose a website platform</h2>
 

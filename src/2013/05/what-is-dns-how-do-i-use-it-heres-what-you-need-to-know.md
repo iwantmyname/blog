@@ -17,8 +17,6 @@ When you're new to building your own website it can feel like there's a bunch of
 5. [MX Record](#section-5)
 6. [TXT Record](#section-6)
 
-***
-
 <h2 id="section-1">DNS</h2>
 
 DNS technology touches your life in [many ways you probably don't know](http://www.huffingtonpost.com/paul-mockapetris/dns-what-celebrating-30-y_b_3211030.html) every day. It stands for **Domain Name System** which is the technology making it possible for you to type nice, human-friendly words into your address bar like *iwantmyname.com* instead of computer readable IP addresses such as 50.56.80.249.
@@ -54,8 +52,6 @@ These kinds of records are used for all sorts of things. For verifying domain ow
 These aren't used to get to your website at all. For another example that uses Google Apps again, you would verify your domain by potentially placing a TXT value on your DNS of google-site-verification=rXOxyZounnZasA8Z7oaD3c14JdjS9aKSWvsR1EbUSIQ and this proves to Google that you indeed own the domain, since you were able to add the record. 
 
 Many services that you could use with your domain use TXT as a way to verify ownership, but SPF is another case where TXT records are used to help stop spammers from using pretending to be from your domain name. By setting a SPF record (using a DNS TXT entry), it helps other servers verify if mail from your domain is really from you or just being faked. You can read more about that here.
-
-***
 
 ## Phew, still with us?
 

@@ -12,8 +12,6 @@ But sometimes you need some face-to-face time to make in-person connections. To 
 
 <!-- /excerpt -->
 
-***
-
 ![monkeys](/media/2014-11-11-monkeys.JPG)
 
 Bali, in case you don't know, is a little tropical island east of Jakarta in Indonesia. You've likely heard of it, but unless you live in the region you probably don't have a grasp of how dense its cities are. Here's a quick comparison:
@@ -38,8 +36,6 @@ The villa itself was quite nice, with a beautiful pool that perpetually stayed c
 The main focus was on balancing growth with who we are. We're a small team by design, and we only grow when needs arise (i.e., we're bootstrapped, so we take hiring decisions seriously). Nothing is rushed, and nothing is forced. Our main goal is not to be like GoDaddy, or to have millions upon millions of customers in the near future. We just want to keep providing great experiences to our customers, and comfortable livability to everyone on our team (team sanity is an under-appreciated metric). 
 
 So in 2015, we're going to work harder than ever to simplify domain registration and management for our customers—you. Because if we can keep you happy, maybe you'll tell a friend or two about what we do. That's how we've grown from the start, and that's how it'll be from here on out.
-
-***
 
 ## Quick Bali tips
 

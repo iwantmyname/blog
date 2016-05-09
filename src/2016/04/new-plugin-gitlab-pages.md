@@ -9,11 +9,8 @@ If you're using GitLab as your Git repository manager and want to create a quick
 
 Is it for everyone? No. If you're a casual blogger or someone looking at do-it-all site builders like Squarespace, GitLab Pages probably isn't for you. But if you're already using GitLab, or have been waiting for a Pages-type feature to coerce you into switching over from Github, this is perfect.
 
-***
 + [Get a new domain with GitLab Pages](https://iwantmyname.com/services/developer/gitlab-pages)
 + [Check out all of our Developer plugins](https://iwantmyname.com/services/developer/)
-
-***
 
 ### From the web:
 

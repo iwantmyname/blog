@@ -18,6 +18,4 @@ On our site, copy the relevant bits, which is everything *after* **<domain> 3600
 
 Once you're done, *the internet* will start double checking that the server people are connecting to is actually yours. Thus making sure that you and your name are synonymous.
 
-***
-
 If you're interested, an in-depth explanation of what DNSSEC is (and why you might want it) can be found on the [CloudFlare blog](https://blog.cloudflare.com/dnssec-an-introduction/)

@@ -52,8 +52,6 @@ One of the more surprising trends is that the TLDs related to the deals industry
 
 This is only a guess, but deal sites tend to struggle with legitimacy, and being an outlier in an industry with a lot of perceived fraud probably isn't a compelling business plan. Once the world deems these new gTLDs normal, I'm guessing the "discount TLDs" will start changing over to get out of the crowded .com namespace.
 
-***
-
 All stats from [Domain Incite Pro](http://domainincite.com/pro/new-gtld-zone-file-report/).
 
 

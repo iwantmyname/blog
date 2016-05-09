@@ -18,8 +18,6 @@ What's hard is writing words that matter. Evergreen content. Posts that, in a de
 4. [Always have an exit plan in mind](#section-4)
 5. [Your domain name matters, but maybe less than you think](#section-5)
 
-***
-
 <h2 id="section-1">Beware purely social platforms</h2>
 
 [From Robert Scoble, circa 2011:](http://www.businessinsider.com/robert-scoble-why-im-still-betting-my-future-on-google-2011-9)

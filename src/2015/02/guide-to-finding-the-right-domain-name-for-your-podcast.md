@@ -17,8 +17,6 @@ But one thing that trips up many budding podcasters is the domain name. For the 
 2. [Domain extensions from iTunes' US top-50 podcasts](#section-2)
 3. [Alternative domain extensions for podcast websites](#section-3)
 
-***
-
 <h2 id="section-1">General naming tips</h2>
 
 Before we get into top-level domains (TLDs), let's dive into some basic naming tips for your podcast. Here are a few rules to live by:
@@ -75,8 +73,6 @@ Also, don't be afraid to use descriptive extensions for your brand. Here are som
 The new generic top-level domains (gTLDs) open up such a huge world of naming options for everyone. If you find one you like, use it! Just remember that podcast discovery is unlike typical website discovery. If your show is good, fans will probably find your podcast on platforms like iTunes or Stitcher first, then attempt to find your website later after hearing a few episodes. Given that discovery path, your biggest concern should be how sticky your domain sounds when you inevitably say it at the end of each episode. Before you register a domain, say it out loud to a few of your friends—if it sounds awkward, long, or tricky to spell, you're probably going to lose traffic. 
 
 And if you ever get stuck, try a [.pizza](https://iwantmyname.com/domains/dot-pizza) domain. Nine out of ten scientists agree that it's impossible to forget domains that end in .pizza.
-
-***
 
 ## Questions? Comments?
 

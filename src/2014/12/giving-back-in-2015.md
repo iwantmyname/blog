@@ -22,8 +22,6 @@ IDEP is a well established organization that works in the area of sustainable ag
 
 We think IDEP has both the scale and depth of knowledge to make a substantial difference through education, farming practice, and helping to  build robust communities across Indonesia. Our goal is to contribute $10,000 to IDEP by the end of 2015. 
 
-***
-
 There are so many wonderful charities and initiatives that need funding around the world, so if you're able, we encourage you to give back anything you can. And if you'd like to join us in funding our 2015 charities, here are the donation pages for both [Karuna Bali](http://www.karunabali.com/index.php?section=5) and [IDEP](http://www.idepfoundation.org/howyoucanhelp/donatetoday) (and also [Save the Children](https://secure.savethechildren.org/site/c.8rKLIXMGIpI4E/b.6239401/k.C01C/Global_Action_Fund/apps/ka/sd/donor.asp), our 2014 choice). 
 
 Happy holidays!

@@ -12,8 +12,6 @@ Knowing everything (ideally with the first impression/interaction) should give u
 
 <!-- /excerpt -->
 
-***
-
 Let's start off by reframing things. Imagine yourself on the other side of the equation for a moment. Because... well, you are. Every day. Every time you read an article online, buy something, subscribe to a newsletter, etc.
 
 When you want to get something done online, you want it to be fast, clear, and not ask more from you than is relevant or necessary. It's a pretty common experience to start the process to get something, like an e-book, and abandon it because there's just no way they need your phone number, birth date, employment history, and blood type in addition to your name and email address. 
@@ -24,8 +22,6 @@ It's a lot easier to develop trust than to rebuild it, though. So it's wise to s
 
 It's a bit awkward and uncomfortable if someone you just met launches into the TMI (too much information), like their unemployment or health woes, very personal interests, or starts asking excessively personal questions of you. It makes you more inclined to cut bait and flee and to dive into conversation and relationship-building.
 
-***
-
 Like with most things, there's a spectrum of attitudes to consider. Some people do their best to be entirely anonymous online. They won't easily provide *any* information, and will extensively question why you need every detail you request.
 
 Other people, on the other end, unfortunately, are far too open and trusting, and don't even practice basic privacy and security protection. (Never EVER email passwords or credit card details to ANYONE, including us.) They don't understand how easy it would be to use their information—for nefarious purposes as easily as to help them, which is probably what they were requesting.
@@ -33,8 +29,6 @@ Other people, on the other end, unfortunately, are far too open and trusting, an
 There are some things you can offer people without requiring or requesting anything, like great blog content, for example. But if you want to subscribe to a blog to be sure you don't miss anything, then a bit of information is required. If you want to buy something, a bit more information is required. 
 
 You can always segment, too. For example, have a main newsletter, product news, or blog subscriber list, and then add special interest lists that people can opt into. This helps you target your communications and sales strategies better, too.
-
-***
 
 For people on both sides of the communications equation, a good question to ask regularly is: *What's in it for me, and what's in it for them?* You want there to be some balance there.
 
@@ -47,8 +41,6 @@ Yes, double opt-in is a bit more effort for you, and might net a few fewer conta
 If someone says they don't want to hear from you, remove them from your list. You *might* be able to inquire as to why, but most likely they just aren't interested. Accept it and do it quickly. (And make unsubscribe and related links easy to find.)
 
 It also goes without saying that when you do contact people, make it relevant to them. This will maintain the goodwill, and be more likely to keep them interested in hearing from you. This could be about your work, products, or services. It could be able cool stuff you heard about that they might also be interested in. It could be to ask them for feedback or input. (See the above paragraph on segmenting your communications as well.)
-
-***
 
 Ultimately, the Internet is a pretty social place, and it's provided myriad new ways for people to interact, learn, and do business. (We're huge fans.) :) But the Internet runs on people and our choices and actions. Having an agenda or being invisible is no reason not to maintain our manners, good judgement, and smart business practices. In face, I'd argue it's even more important.
 

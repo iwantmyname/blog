@@ -13,8 +13,6 @@ Security is one of those things that no one wants to think about, but we all nee
 1. [The best ways to manage your passwords](#section-1)
 2. [Use 2FA for an extra layer of protection](#section-2)
 
-***
-
 <h2 id="section-1">The best ways to keep your passwords safe</h2>
 
 We've worked hard over the past half-decade making domain registration as easy as possible, but one pain point we often encounter is password memorization. The vast majority of our customers simply don't need to interact with us very often, and what seems like a strong, easily remembered password could be completely alien when domain renewals come around a year later. But there are solutions for this very problem—all you need is a solid password manager.

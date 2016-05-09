@@ -15,7 +15,6 @@ For those of you who want to quickly search for domain names from the address ba
 4. [DuckDuckGo](#section-4)
 5. [AlfredApp](#section-5)
 
-***
 
 <h2 id="section-1">Safari (using Glims)</h2>
 

@@ -19,8 +19,6 @@ We published a fairly [extensive guide](https://iwantmyname.com/blog/2015/05/the
 6. [We've come to an agreement... now what?](#section-6)
 7. [Anything else?](#section-7)
 
-***
-
 <h2 id="section-1">Contacting a registrant - WHOIS lookup</h2>
 
 If you go to your favorite [WHOIS lookup site](http://whois.domaintools.com/), you can enter the domain and get the publicly available details of who owns the domain. Be aware that not all WHOIS lookups are official and present accurate information. Also be aware that sometimes registries (like for [ccTLDs such as .IO](http://nic.io/)) have their own WHOIS lookups, which may provide different or additional details.

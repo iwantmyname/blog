@@ -12,23 +12,15 @@ Here's a personal example. Our primary communications goal is to build an authen
 
 <!-- /excerpt -->
 
-***
-
 The most active channel we have (by pure volume) is our growing handful of social feeds, but they require daily/hourly customer attention (as well as some interesting Buffer coordination). Our community is great (we have real readers who start real conversations), but a lot of what we're posting gets lost in the black hole of the internet. As Marco Arment [stated recently](http://www.marco.org/2014/11/01/short-form-blogging), too many good ideas are being dumped into Twitter, where nearly everything is "immediately skimmed over, forgotten, and lost to the vast depth of the mostly unsearchable, practically inaccessible Twitter archive." His example was Twitter, but it could really be said for any social network. 
 
 So in addition to social, we also have an active blog. But here's the problem I have with blogs, especially blogs attached to brands—discovery is a mess. In my personal life, I've almost completely turned over my article-finding to the people and platforms sifting through the news best. Aggregators like Techmeme and Hacker News are so good at what they do, and my daily email from NextDraft adequately covers the rest of what's going on in the world. Beyond that, nearly everything I read comes from Twitter, and as stated before, most tweets die moments after they're posted.
 
-***
-
 Quick recap: So to get a blog post in front of me in 2014, it has to either get picked up by a tiny handful of eyes attached to aggregators, or tweeted enough times to catch me right when I'm checking. Bad news for brands—getting picked up by aggregators is hard, and the odds I'll see any given tweet is quite low (and I check often... most people don't even check their feed every day). Basically, you'd need a coordinated plan to get me to read anything not reaching critical mass, and as a brand writer myself, that's so frustrating.
-
-***
 
 Now that we've got a blog and all the social media platforms taken care of, our new goal is to find a way to reach our audience without having to make a constant scene. Something that's completely opt-in, doesn't get passed through too many confusing algorithm filters before it reaches people, and is distributed on a platform that everyone already has—email. Starting early 2015, we're going to start sending a monthly email, and we think it's the perfect channel for our brand. 
 
 Unlike a journalism outfit, most of our customers come to our site looking for something very specific—either to buy a domain or to mess with some DNS settings. The less we're in the way, the better. And in a way, that's how newsletters are meant to operate—just opt-in, read an occasional email (filled with all sorts of great stuff and interesting updates), and you're done. Quick and painless.
-
-***
 
 Of all our channels, I really think the new email will be the best suited for our brand. But even still, I don't think it quite cracks the brand messaging conundrum. The goal of these messaging channels is to humanize the experience—to make us seem like real people who care (we really do!)—but is it human to have a coordinated, three-pronged approach to interfacing with people at their desired consumption times? I'm not so sure, but I also don't have a better solution yet (hence the insanity).
 

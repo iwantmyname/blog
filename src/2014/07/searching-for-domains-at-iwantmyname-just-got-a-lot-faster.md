@@ -15,6 +15,4 @@ The basic concept is a simple one. You type in a word, then our backend pings so
 
 So instead of just waiting for our search to implode, we decided to completely rework the system. We'll have a more technical post later on about what was accomplished, but the hyper-abridged version is that [the new search](https://iwantmyname.com/) is much faster and infinitely more stable. And that's a wonderful thing, because anything that gets in the way of you being able to register and manage domain names quickly is a big negative.
 
-***
-
 If you're so inclined, be sure to high-five [Kevin](https://twitter.com/kingersoll) and [Joel](https://twitter.com/ferrouswheel) for the update. They're quite awesome. 

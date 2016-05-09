@@ -9,11 +9,8 @@ At this point, there's no denying Etsy's impact on buying and selling craft good
 
 With Pattern by Etsy, sellers can create custom sites (with custom domain names) to better differentiate their brand and goods from the rest of the Etsy ecosystem. Just choose from a bunch of clean themes, pick your own fonts and colors, and add some content (your inventory syncs with your regular Etsy store automatically) – that's all you need to add a professional touch to your store. It's not free, but if you're a serious Etsy seller, it could be well worth your while.
 
-***
 + [Get a new domain with Pattern by Etsy](https://iwantmyname.com/services/ecommerce/pattern-by-etsy)
 + [Check out all of our Ecommerce plugins](https://iwantmyname.com/services/ecommerce-hosting/)
-
-***
 
 ### From the web:
 

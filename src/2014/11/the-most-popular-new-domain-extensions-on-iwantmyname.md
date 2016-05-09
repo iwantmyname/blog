@@ -50,7 +50,5 @@ The first thing that hit me after seeing the list was how different it was than 
 + As well as education: .INSTITUTE, .ACADEMY, .EDUCATION
 + This was to be expected—.GURU and .EXPERT are both on the list (we clearly have brilliant customers).
 
-***
-
 If you haven't looked in a while (or at all), be sure to check out our [gTLD page](https://iwantmyname.com/domains/new-gtld-domain-extensions). We have 241 extensions available to be registered now, and a few hundred more that can be preordered through our system. New extensions are added every month, so don't be a stranger.
 

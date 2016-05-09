@@ -17,8 +17,6 @@ The idea of a domain hack is to take a word or brand, like iwantmyname, and use 
 2. [What about domain hacks for URL shortening?](#section-2)
 3. [Are there any tools for finding domain hacks?](#section-3)
 
-***
-
 <h2 id="section-1">Are domain hacks useful?</h2>
 
 ![street art](/media/2015-04-29-street-art.jpg)

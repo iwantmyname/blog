@@ -16,8 +16,6 @@ Nothing to worry about, right?
 
 Wrong, wrong, wrong. Because your subdomain is still being linked to the platform on the domain side, any not-so-well-meaning person can register for a Desk account and link it to the subdomain that's already setup. Then, basically, they're you. Everything they do with that Desk account looks legit, and theres really no way for you to notice because it's all happening outside of your network.
 
-***
-
 This is a risk we've tried to keep under control with regular cleanups of our zone file, but we were reminded of it yesterday because of a post on the [detectify blog](http://blog.detectify.com/post/100600514143/hostile-subdomain-takeover-using-heroku-github-desk). Fortunately, they also link to a [quick tool](https://redoctober.detectify.com) that let's you know if you're in danger.
 
 So if you do anything today, be sure to use [the tool](https://redoctober.detectify.com). We were sure to run it right away, and if you like to try new platforms even half as much as we do, you could save yourself a major headaches down the line.

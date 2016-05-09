@@ -19,8 +19,6 @@ So my goal of goals is to set them on the right path, usually with an abridged v
 5. [A final word about privacy](#section-5)
 6. [And please, don’t be shy](#section-6)
 
-***
-
 <h2 id="section-1">1. Domain name? Domain registrar?</h2>
 
 Just to get in the right frame of mind, let's think of the internet at an entirely new planet Earth. Then, think of the domain extensions (like .com, ,net, .edu) as countries, and the individual domain names (like iwantmyname.com or yourname.com) as pieces of property within those countries. Then, as your domain registrar, iwantmyname is like a big real estate agency, able to sell you a piece of property in a ton of countries on the planet. 
@@ -72,13 +70,9 @@ Here at iwantmyname, we make that part easy. Once you buy your domain, you can s
 
 Seriously... it’s almost automatic.
 
-***
-
 #### A quick word about www.
 
 Every once in a while we get asked how much it costs to add the www. to a website. It’s totally free—the www. is just a subdomain that isn’t necessary, but still common because people got used to saying it in the 90’s. Our [platform setups](https://iwantmyname.com/services/email-hosting/) add the www. option automatically, so there’s no need to worry about it.
-
-***
 
 ### Get an email address
 

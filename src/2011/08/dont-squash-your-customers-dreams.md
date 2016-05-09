@@ -17,7 +17,6 @@ Rationally I knew how hard it would be for ANYONE with a new/small business usin
 
 I'd recommend going through your customer experience today and ask yourself... am I killing a dream? One better... ask your customers what they are dreaming about. 
 
-***
 
 ![KickOffLabs Logo](/media/2011-08-17-logo-website-kickofflabs.png)
 

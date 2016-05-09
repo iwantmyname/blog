@@ -29,8 +29,6 @@ So, how can you keep your online properties up to date, and make sure those who 
 3. [What will happen if you die](#section-3)
 4. [Just part of being a grownup](#section-4)
 
-***
-
 <h2 id="section-1">Avoid registering business accounts or domains with personal information</h2>
 
 It's pretty common for things like domains and social media accounts to be assigned to a primary person. Since you're asked for personal details like name and email address (and sometimes _have_ to provide an individual information rather than company information), it seems like a no-brainer to use your own details. If you can avoid that, do so.

@@ -8,8 +8,6 @@ title: The Grid — AI websites that design themselves
 1. [The Grid](#section-1)
 2. [An interview with Dan Tocchini, Founder and CEO of The Grid](#section-2)
 
-***
-
 <h2 id="section-1">The Grid</h2>
 
 <!-- excerpt -->
@@ -28,11 +26,7 @@ Pretty impressive stuff! Needless to say, I'm now Founding Member #1173.
 
 If you like to geek out on new platforms as much as I do, definitely check out The Grid's website for yourself. Beta testing is going on as we speak, and if you [sign up for a membership now](https://thegrid.io/#1173) **, you'll be locked in at $8/mo (as opposed to the normal $25/mo).
 
-***
-
 **Just to be totally transparent, when I signed up, the email receipt had a bit at the bottom, in bold caps, that said, "INVITE 3 FRIENDS AND WE’LL PAY FOR YOUR MEMBERSHIP." So if you use the link above, you're indirectly supporting my "awesome-new-web-platform" addiction.
-
-***
 
 <h2 id="section-2">An interview with Dan Tocchini, Founder and CEO of The Grid</h2>
 

@@ -16,8 +16,6 @@ Here's what we're going to cover:
 2. [Making sure your information is secure](#section-2)
 3. [Putting your domain name to work](#section-3)
 
-***
-
 <h2 id="section-1">Registering your first domain name</h2>
 
 ![Crowded Houses](/media/2015-06-25-city-houses.jpg)
@@ -101,11 +99,7 @@ Occasionally you'll run into some additional information needed on platform setu
 
 Note that you still need to sign up for your desired platform on their end, and add your new domain name in their custom domain name menu (most platforms will have their own guide to help you along). Note that some platforms take a bit of time to detect new domain settings, so now might be a good time to walk the dog.
 
-***
-
 *Useful tip - if your domain was transferred to iwantmyname from a different registrar, you'll probably have to change your nameservers to iwantmyname (our instant setups won't work otherwise). To set that up, click **Manage DNS** in the dropdown under **Setup** in the top nav, then click **Update Nameservers**, then choose iwantmyname in the dropdown menu. And don't forget to click the **Update Nameservers** button!*
-
-***
 
 ### Adding a platform that isn't in the Marketplace
 
@@ -121,16 +115,12 @@ If you want to use a platform like Wordpress.org that requires you to find your 
 
 Once you've purchased some hosting space, all you have to do on our end is point your domain's Nameservers to that service. For example, if you're using Bluehost, click **Manage DNS** in the dropdown under **Setup** in the top nav, then click **Update Nameservers**, then choose Bluehost in the dropdown menu. After that, all the settings to install your platform will be through your host (and they'll usually have their own setup guides).
 
-***
-
 Before we wrap this up, there are a few things we want you to remember (this is your domain credo, of sorts):
 
 1. It's very hard to permanently mess things up, and changes made accidentally can be removed or restored. As long as you use correct contact information, keep your billing info up-to-date, and check your email semi-regularly for important updates, you're going to be alright. 
 2. Even if you've set everything up perfectly, sometimes it takes time for things to work their way through the internet (and nothing can speed it up). Patience is key.
 3. If you need help, [just send us a message](https://iwantmyname.com/support). We'll definitely be able to help you out.
 4. And most of all, have fun with your new domain!
-
-***
 
 ## Questions? Comments?
 

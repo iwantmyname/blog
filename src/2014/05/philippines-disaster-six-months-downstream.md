@@ -14,6 +14,4 @@ We looked really hard at the many aid agencies working in the region and weighed
 
 Six months on from the disaster it has been heart-warming to observe media coverage of how emergency aid agencies have been helping the people of the affected region get their lives back on track. Food, water, medical supplies, housing, sanitation, communications—the list of needs is endless. Thank-you for supporting iwantmyname, so that we could make a small contribution to the effort.
 
-***
-
 Photo credit: [DFID](https://www.flickr.com/photos/dfid/11043346434/in/photolist-hPS39J-hvJWpw-hvJB5i-hvLPJc-72H4qR-hsRzzr-hsQZ8m-hi91AC-9w9EAu-hsQYyL-hvMWzo-hvJAMp-hiakyK-hi97XM-hi8Pdi-nbiouo-hi8YpJ-hi9os5-hTP9Se-cQVnbw-g5BQ4V-d9QLt2-hNmLyi-dcsQVc-iBt1b5-hi8Ntw-6hHZGs-iBt9An-iBtUbZ-iBuLUc-bePrxp-hi9s8P-iBsBuo-iBxaqb-iBtnNz-iBuDiu-iBuTEA-hyZrKj-d9QLXb-cbHzdQ-hiafxn-hi9kog-hi8vH9-hvLb31-ciEVLY-ecxvQA-g63BtK-dMZSen-hvLbqA-hvLD8w)

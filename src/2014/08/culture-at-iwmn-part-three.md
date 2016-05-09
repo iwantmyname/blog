@@ -26,8 +26,6 @@ Chuck Blakeman of Inc.com recently put out a great post titled "[How to Hire Peo
 
 >If you want to hire people you won't have to manage, throw out most of what you've been taught about hiring. Hire first for Business Beliefs and Culture, second for talent, third for demonstrated skills, and use experience as a tiebreaker. You, and the people who you hire, will all be happier and more productive.
 
-***
-
 ### Continue reading
 
 This is **part three** of an ongoing series about the culture of iwantmyname. 

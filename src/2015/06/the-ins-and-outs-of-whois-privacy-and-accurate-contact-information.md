@@ -65,8 +65,6 @@ Some ccTLDs require more complicated administrative functions to update domain c
 
 If there are special requirements, processes, or costs required for updating a domain's contact information, we will let you know beforehand. In certain cases, it can be fairly involved, requiring forms and other processes, but we will provide information for all steps, and take care of most of the heavy lifting for you.
 
-***
-
 ## Questions? Comments?
 
 + [Leave a comment on Facebook](https://www.facebook.com/iwantmyname/posts/10155829966775471)

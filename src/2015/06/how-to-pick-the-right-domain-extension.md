@@ -20,8 +20,6 @@ Before you spontaneously combust, let's go through your options and add some not
 6. [Is it ok to use a new gTLD?](#section-6)
 7. [Does your TLD really matter?](#section-7)
 
-***
-
 <h2 id="section-1">.COM, the big Kahuna</h2>
 
 ![Big Kahuna Burger](/media/2015-07-23-big-kahuna.jpg)
@@ -151,14 +149,10 @@ Think about that. For the foreseeable future, we'll all need domain names to run
 
 Putting on my future hat, my advice would be to find the TLD that *you're* most comfortable with and go with it. .COM, .IO, .LIMO—no matter what it is, if you commit to it, you'll probably be fine. 
 
-***
-
 Photo credits:
 
 + (header): [Jan Willem van Wessel](https://www.flickr.com/photos/stijlfoto/18974847222/in/photolist-uUK41j-6HLQcm-bvSMX6-6mYJDg-aAja77-4Qze8a-pS676-4rdKd2-3qRKWF-8M8NCJ-az8Xvt-cVGU-4hnENR-2Kx3Sk-JKL6s-2APAPe-5f3dQQ-5WmyyA-raDzoM-JKFcw-nBGwTX-5cJfyN-4Uy7Vn-5Q5F66-6MR8Lq-adazQA-9nNSP5-6mYJAt-oTt9c8-4qbcmN-mig52v-sWYA85-dcTeB-vozpP-rtnuB4-GbY6Y-dutmdM-4QDq8U-5Sqz9E-5Ukkoh-rg1UgP-dExGt-8BqeA2-sgKZs-5TZyJM-84UZ22-6tHL2w-6KkJLY-6mdgwq-6mdgCm)
 + (Big Kahuna mural): [Wally Gobetz](https://www.flickr.com/photos/wallyg/8779127308/in/photolist-enMjFW-kNjgs-encFka-5o77AJ-5o2SbD-pUgsbW-pUun9K-6dCCeT-dXfYeF-6imprQ-9iVMh3-o1mSA-njhUi-8hqVus-8hnEoB-8hnCQH-8hqTAS-3K6VGH-8cJd5d-njhP5-bs9hsM-4d28TU-3PthMM-9iSDLg-68nBPx-jjVqJ-5vGTTn-4F63hu-9iVLXC-9iSE3p-9iVLEu-3PxvuG-re9K2A-6rrofP-3EM2Hj-8Dkmmz-6Tn28u-9CqKLb-9YN2A1-6JijYX-4F64bh-ceAgaS-bXdTZB-ceAfZj-bXdTpX-ceAgKo-bXdSTg-ceAfyq-brS5Dk-fZCq8t)
-
-***
 
 ## Questions? Comments?
 

@@ -12,8 +12,6 @@ We often think of domains as these forever pieces of property meant for big site
 4. You can take the site down anytime, but as long as you renew the domain, you can reuse it every year.
 5. Send flowers. Always send flowers.
 
-***
-
 ## Other domain extension goodies
 
 

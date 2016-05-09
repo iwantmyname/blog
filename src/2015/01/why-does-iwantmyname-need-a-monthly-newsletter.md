@@ -26,8 +26,6 @@ So if you want some more of the above, or if you just want to know if our brand 
 
 Then, for more instant coverage, our social platforms (like [Twitter](https://twitter.com/iwantmyname) or [Facebook](https://www.facebook.com/iwantmyname)) work great. Our general social strategy is to only spread thoughts—and very few good thoughts can be condensed to 140 characters—so 1-3 times a day we post links to blogs we’ve written, plus the occasional update, and that’s about it. If you see something you find interesting, click on it, but if you don’t, don't sweat it.
 
-***
-
 ### Stats also seem to support a monthly newsletter
 
 I imagine it’s pretty clear by now that I prefer newsletters as the content driver for most brands, but the stats seem to support that thinking as well. If you’ve been an iwantmyname customer for a while, you’ve probably seen the yearly newsletter we send to remind people of our existence (we send it to every customer). Here are some stats from the end-of-2014 edition.
@@ -42,8 +40,6 @@ The most clicked items were:
 3. the [link to help](https://docs.google.com/a/ideegeo.com/forms/d/1WzXl1WdMt8eRoH1Kprl5QtRXmX-L4Citp9dYXvzTHUs/viewform) with the iwantmyname API
 
 I can’t say for certain that this is common for newsletters, but the analytics for this particular send seems to support the thinking that our customers would like a monthly edition, and that there are certain topics and tidbits people would like delivered to them on a semi-regular basis. That alone is reason enough to publish a monthly edition, so everything extra is gravy, as they say.
-
-***
 
 ### TLDR?
 

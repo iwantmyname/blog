@@ -22,8 +22,6 @@ Fortunately, unlike a username on a social platform, you can do lots of things w
 4. [Try getting into writing again](#section-4)
 5. [Change direction](#section-5)
 
-***
-
 <h2 id="section-1">Use the domain for email only</h2>
 
 I had a blog for years which I shut down recently because I wanted to focus more on personal connections in real life. It was such a huge relief to not feel guilty about not posting any longer. But instead of completely shutting the name down, it dawned on me that it's perfectly okay to use my personal domain just for email. Nobody says there needs to be a website attached to it!

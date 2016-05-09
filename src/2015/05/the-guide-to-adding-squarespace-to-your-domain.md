@@ -23,8 +23,6 @@ What's not quite as intuitive though is the domain setup. We pride ourselves in 
 9. [Back to Squarespace, hit refresh](#section-9)
 10. [You're all done!](#section-10)
 
-***
-
 <h3 id="section-1">1. Start your Squarespace site</h3>
 
 Get started with Squarespace by clicking **Get Started** on the [Squarespace homepage](http://squarespace.com), choosing a template, then clicking the **Start With This Design** button. There are a couple quick questions you can answer after that, or you can skip them for now. 

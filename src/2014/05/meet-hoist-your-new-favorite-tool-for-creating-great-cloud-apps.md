@@ -12,8 +12,6 @@ To get a bit more info about the company and what their future holds, we reached
 
 <!-- /excerpt -->
 
-***
-
 **iwmn:** Naming is always an interesting topic for startups. How did you come up with the name Hoist?
 
 **Owen:** I'd love to say there was an interesting and long time spent over Hoist as a name, but it came early in the piece. I've always believed in brand as something for people to get a sense of community about, and having a solid name was going to be important.

@@ -16,6 +16,4 @@ What I’m trying to say, and what a lot of the startups mentioned in [the artic
 
 <!-- /excerpt -->
 
-***
-
 In many ways, that same thought process also works for domain extensions. I talk to people all the time who spend a lot of energy worrying about not getting the perfect .com, but the world is changing, and people’s comfort level with “strange” non-.com’s is growing by the day. If what you’re creating is good, people will find you wherever you’re at—.io, .co, your local country code top-level domain (ccTLD), or any of the [new domain extensions](https://iwantmyname.com/domains/new-gtld-domain-extensions) on the market. Just go with the domain that fits your brand best—the rest will often work itself out.

@@ -27,8 +27,6 @@ Most people never give a second thought to domain ownership after registration. 
 6. [If a domain is registered to be sold for profit](#section-6)
 7. [The bottom line](#section-7)
 
-***
-
 <h2 id="section-1">Who owns your domain name?</h2>
 
 Let's cover the basics first. The legal owner of a domain name is the person and/or organization listed as the domain's registrant or owner contact. Domains typically have four contacts: registrant/owner, admin, technical, and billing. These can be the same person or different people.

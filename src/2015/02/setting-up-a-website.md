@@ -19,8 +19,6 @@ One thing some people still sometimes struggle with, though, is just how to get 
 3. [Verifying your domain name](#section-3)
 4. [Setting up your site with third-party hosting](#section-4)
 
-***
-
 <h2 id="section-1">Understanding web hosting</h2>
 
 Typically, you can think of the process a bit like setting up a piece of electronics equipment. The cable needs to be plugged into the machine _and_ into an electrical outlet. Your domain name needs to be connected to a web platform in our system _and_ in the system of your hosting service platform. When setting up your website, you can do these steps in whatever order you choose. I'll explain in a bit more detail.

@@ -17,8 +17,6 @@ If you're an adult of a certain age, the idea of a personal brand is a fascinati
 5. [Your personal brand needs a custom email address](#section-5)
 6. [Thoughts on reserving the digital future of your child](#section-6)
 
-***
-
 <h2 id="section-1">Nothing is permanent on the social web</h2>
 
 Here's the rub. Social media has made it easier than ever before in history to spread your ideas and actions online. Have a baby? Posting a picture on Facebook is easier than making instant coffee. Have a thought? Tweet it in two seconds. Want to write something long form? Medium will get it to the world in a snap. But you don't own this content. Your baby picture is Facebook's baby picture, on Facebook's layout, with Facebook's targeted ads hovering nearby (remember, on most social networks, *you* aren't the customer, the advertisers are). 
@@ -34,8 +32,6 @@ I was talking to a local artist the other day about how to leverage his online p
 If you are a creator of things, your livelihood relies on people consistently being able to find you. You need a home that can withstand the whims of the market—remember, MySpace was the biggest thing on the web only a decade ago, and it's not like people could just move that content to another platform with the same domain name. 
 
 Similarly, be wary of using closed platforms with big social components as your main sales hub. The artist I was talking to had moved the majority of his sales over to Etsy, but once you go that route, you give up nearly all control over the experience. Your domain will have etsy.com in it, the site will look like an Etsy site, and most importantly, your brand will become tied to Etsy's. Just think about it. Do you really want your brand to be an Etsy store? Maybe so, maybe no—but you can't deny the existence of a brand connotation. 
-
-***
 
 With a more analytics-geared answer, [Rand Fishkin of Moz says](https://moz.com/blog/answers-to-4-excellent-seo-questions):
 
@@ -88,8 +84,6 @@ When going for longer, more specific domains, there are two things you should co
 ### Domain hacks
 
 Domain hacks won't work for everyone, but if you want to get clever, you could do a lot worse than finding the ccTLD that fits into your name. Some common name-enders are [.ES](https://iwantmyname.com/domains/es-spanish-domain-name-registration-for-spain), [.AM](https://iwantmyname.com/domains/am-armenian-domain-name-registration-for-armenia), [.AT](https://iwantmyname.com/domains/at-austrian-domain-name-registration-for-austria), [.BE](https://iwantmyname.com/domains/be-belgian-domain-name-registration-for-belgium), [.CH](https://iwantmyname.com/domains/ch-swiss-domain-name-registration-for-switzerland), [.DE](https://iwantmyname.com/domains/de-german-domain-name-registration-for-germany), [.MY](https://iwantmyname.com/domains/my-malaysian-domain-name-registration-for-malaysia), and [.SH](https://iwantmyname.com/domains/sh-domain-name-registration-for-saint-helena). Unfortunately, .LL (ha.ll) isn't available. 
-
-***
 
 At the end of the day, just about anything you choose will be fine as long as you stick with it (isn't that always the lesson?). The goal of a personal domain is for people to be able to find you, and if you stay in the same place long enough, they likely will. Just know that no matter what domain extension you go with, it'll be better than sending people to Facebook or LinkedIn to discover who you are. 
 

@@ -10,8 +10,6 @@ excerpt: false
 + **Step 2:** Find the social icons
 + **Step 3:** If the Twitter icon isn't shaped like the birds above (angled slightly up), you've probably found a brand that either doesn't understand the internet or doesn't care about details (possibly worse?).
 
-***
-
 *Note that there are levels of terribleness here.*
 
 ![Old Twitter Logo](/media/2015-04-15-twitter-logo-old.png)

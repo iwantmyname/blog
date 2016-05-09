@@ -16,8 +16,6 @@ Let's take a look at some things to think about and research. We'll also get int
 2. [Who else is doing what you want to do?](#section-2)
 3. [Create great content](#section-3)
 
-***
-
 <h2 id="section-1">What are you trying to build?</h2>
 
 This may seem like an obvious one, but there are often nuances. In the same way a startup's target market isn't "everyone", neither is the target audience or community for your site. 

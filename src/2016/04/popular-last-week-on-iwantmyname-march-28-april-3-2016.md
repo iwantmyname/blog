@@ -28,6 +28,4 @@ excerpt: false
 + [Contacting the owner of a domain you want to buy](https://iwantmyname.com/blog/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html)
 + [Everything you need to know about domain hacks](https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html)
 
-***
-
 *Methodology: These popularity rankings are based entirely on pageviews on Google Analytics. This means the TLD list isn't based on actual domains registered, just traffic to its landing page.*

@@ -20,7 +20,6 @@ Here are a few quick tips to make your naming process a bit easier.
 4. [Beware of alternative spellings](#section-4)
 5. [A word about domain hacks](#section-5)
 6. [It's more about you than the name](#section-6)
-***
 
 <h2 id="section-1">Don't stray from your brand, especially for keyword stuffing</h2>
 

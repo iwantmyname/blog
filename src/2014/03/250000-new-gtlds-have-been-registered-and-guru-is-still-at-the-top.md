@@ -29,6 +29,4 @@ But it's not the steady growth that shocks me the most—it's the top of the lis
 9. [.BIKE](https://iwantmyname.com/domains/dot-bike)
 10. [.LAND](https://iwantmyname.com/domains/dot-land)
 
-***
-
 Image from [ntldstats.com](http://ntldstats.com/).

@@ -33,6 +33,4 @@ This month, we have eight new domain extensions, including .yoga, .work, and .en
 
 + [.science](https://iwantmyname.com/domains/dot-science)
 
-***
-
 For the full list of the gTLDs coming out (now updated through March 11th), be sure to visit our [launch calendar](https://iwantmyname.com/domains/new-gtld-launch-dates).
