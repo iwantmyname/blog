@@ -1,1 +1,0 @@
-https://iwantmyname.com/blog/2015/08/get-your-personal-brand-in-tip-top-shape.html

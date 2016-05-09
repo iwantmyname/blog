@@ -1,1 +1,0 @@
-https://iwantmyname.com/blog/2015/09/anyone-can-build-a-small-business-website.html
