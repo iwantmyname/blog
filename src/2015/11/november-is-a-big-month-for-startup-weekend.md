@@ -14,4 +14,4 @@ We are backing Bali Startup Weekend, an event that last year launched several co
 
 Wherever you are based, make sure you check out [Startup Weekends](https://startupweekend.org). Apart from being a lot of fun, it's a great way to meet potential co-founders, learn about lean startup methodologies, and test ideas in a safe environment. 
 
-![Startup Weekend badge](/media/2015-11-13-badge-sponsor.jpg)
+<img alt="Startup Weekend badge" src="/media/2015-11-13-badge-sponsor.jpg" style="margin: 0 auto; display: block;">
