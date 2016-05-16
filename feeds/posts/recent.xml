@@ -6,6 +6,42 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Why isn&#39;t there a one-click install for...?</title>
+				<description>&lt;p&gt;From time to time customers contact us when they try to find a one-click install for their preferred platform or service, but we don&amp;rsquo;t have one. This can be confusing, since many of these services are popular and well-known. What gives?&lt;/p&gt;
+
+&lt;p&gt;For example, Adobe Portfolio, the successor to Behance ProSite after it was acquired, is a popular platform amongst creatives. Which means we have quite a few customers looking to set up or update their settings for it as well.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;rsquo;s not one-click install for Portfolio in our &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/featured&#34;&gt;Marketplace&lt;/a&gt;. We&amp;rsquo;d love to have one, but at present we can&amp;rsquo;t. Why not?&lt;/p&gt;
+
+&lt;p&gt;There are two ways we can automate installing the records you need to connect your domain name to a platform, service or host:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s DNS records, then add your domain name in the settings of your platform account.&lt;/li&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s nameservers, making them your web host, then complete any other required setup in your platform account.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To offer either of these, the platform has to provide the same DNS records or nameservers for setup for all customers. Many platforms do, which is why we have dozens and dozens in our Marketplace. (And why we have a list of hosting providers on our Nameserver Update page.)&lt;/p&gt;
+
+&lt;p&gt;But some services do things differently, and for connecting to custom domains, they provide each customer with a different set of records.&lt;/p&gt;
+
+&lt;p&gt;Adobe Portfolio is one of those. When you set up your domain with Portfolio, you&amp;rsquo;ll be provided instructions to add two A records. That&amp;rsquo;s easy enough, and we&amp;rsquo;re happy to help.&lt;/p&gt;
+
+&lt;p&gt;But those aren&amp;rsquo;t the same A records, necessarily, that I would get for setup, or that some other creative person would get. That&amp;rsquo;s why we can&amp;rsquo;t add an install – we have to wait for you to tell us before we know what records to install.&lt;/p&gt;
+
+&lt;p&gt;If that changes in the future, we&amp;rsquo;ll definitely get a one-click install set up for Portfolio, and other popular services.&lt;/p&gt;
+
+&lt;p&gt;If there&amp;rsquo;s another popular or favourite service or host that you can&amp;rsquo;t find in our Marketplace, that is likely why. We&amp;rsquo;re happy to check and confirm that for you, or add the records if you need help.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes it&amp;rsquo;s a service that we can add – it just happens to be new. &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;Just let us know.&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 May 2016 14:23:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/one-click.html</link>
+				
+				<guid isPermaLink="false">/2016/05/one-click.html</guid>
+			</item>
+		
+			<item>
 				<title>No TLD delegation for you. .SORRY.</title>
 				<description>&lt;p&gt;You just thought of the Best Domain Name Ever&amp;hellip; but it&amp;rsquo;s already taken. Even if you&amp;rsquo;re already aware that there are somewhere around 300 million domain names registered, it&amp;rsquo;s still a bummer.&lt;/p&gt;
 
@@ -418,49 +454,6 @@
 					<link>https://iwantmyname.com/blog/2016/04/popular-last-week-on-iwantmyname-march-28-april-3-2016.html</link>
 				
 				<guid isPermaLink="false">/2016/04/popular-last-week-on-iwantmyname-march-28-april-3-2016.html</guid>
-			</item>
-		
-			<item>
-				<title>Popular last week on iwantmyname: March 21-27, 2016</title>
-				<description>&lt;h3&gt;Guides&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address.html&#34;&gt;The guide to getting your own custom email address&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/how-to-pick-the-right-domain-extension.html&#34;&gt;.COM? .IO? .PIZZA? How to pick the right domain extension (TLD)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;What to do if the domain name you want is taken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html&#34;&gt;Contacting the owner of a domain you want to buy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html&#34;&gt;Everything you need to know about domain hacks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Plugins&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&#34;&gt;FastMail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/protonmail-custom-domain&#34;&gt;ProtonMail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service&#34;&gt;Bitly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/rackspace-apps&#34;&gt;Rackspace Apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/pobox-mail-forwarding&#34;&gt;Pobox&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Top-Level Domains (TLDs)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-free&#34;&gt;.FREE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-game&#34;&gt;.GAME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-now&#34;&gt;.NOW&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-app&#34;&gt;.APP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-art&#34;&gt;.ART&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;em&gt;Methodology: These popularity rankings are based entirely on pageviews on Google Analytics. This means the TLD list isn&amp;rsquo;t based on actual domains registered, just traffic to its landing page.&lt;/em&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 28 Mar 2016 15:30:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/03/popular-last-week-on-iwantmyname-march-21-27.html</link>
-				
-				<guid isPermaLink="false">/2016/03/popular-last-week-on-iwantmyname-march-21-27.html</guid>
 			</item>
 		
 	</channel>

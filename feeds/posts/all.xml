@@ -6,6 +6,42 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Why isn&#39;t there a one-click install for...?</title>
+				<description>&lt;p&gt;From time to time customers contact us when they try to find a one-click install for their preferred platform or service, but we don&amp;rsquo;t have one. This can be confusing, since many of these services are popular and well-known. What gives?&lt;/p&gt;
+
+&lt;p&gt;For example, Adobe Portfolio, the successor to Behance ProSite after it was acquired, is a popular platform amongst creatives. Which means we have quite a few customers looking to set up or update their settings for it as well.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;rsquo;s not one-click install for Portfolio in our &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/featured&#34;&gt;Marketplace&lt;/a&gt;. We&amp;rsquo;d love to have one, but at present we can&amp;rsquo;t. Why not?&lt;/p&gt;
+
+&lt;p&gt;There are two ways we can automate installing the records you need to connect your domain name to a platform, service or host:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s DNS records, then add your domain name in the settings of your platform account.&lt;/li&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s nameservers, making them your web host, then complete any other required setup in your platform account.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To offer either of these, the platform has to provide the same DNS records or nameservers for setup for all customers. Many platforms do, which is why we have dozens and dozens in our Marketplace. (And why we have a list of hosting providers on our Nameserver Update page.)&lt;/p&gt;
+
+&lt;p&gt;But some services do things differently, and for connecting to custom domains, they provide each customer with a different set of records.&lt;/p&gt;
+
+&lt;p&gt;Adobe Portfolio is one of those. When you set up your domain with Portfolio, you&amp;rsquo;ll be provided instructions to add two A records. That&amp;rsquo;s easy enough, and we&amp;rsquo;re happy to help.&lt;/p&gt;
+
+&lt;p&gt;But those aren&amp;rsquo;t the same A records, necessarily, that I would get for setup, or that some other creative person would get. That&amp;rsquo;s why we can&amp;rsquo;t add an install – we have to wait for you to tell us before we know what records to install.&lt;/p&gt;
+
+&lt;p&gt;If that changes in the future, we&amp;rsquo;ll definitely get a one-click install set up for Portfolio, and other popular services.&lt;/p&gt;
+
+&lt;p&gt;If there&amp;rsquo;s another popular or favourite service or host that you can&amp;rsquo;t find in our Marketplace, that is likely why. We&amp;rsquo;re happy to check and confirm that for you, or add the records if you need help.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes it&amp;rsquo;s a service that we can add – it just happens to be new. &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;Just let us know.&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 May 2016 14:23:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/one-click.html</link>
+				
+				<guid isPermaLink="false">/2016/05/one-click.html</guid>
+			</item>
+		
+			<item>
 				<title>No TLD delegation for you. .SORRY.</title>
 				<description>&lt;p&gt;You just thought of the Best Domain Name Ever&amp;hellip; but it&amp;rsquo;s already taken. Even if you&amp;rsquo;re already aware that there are somewhere around 300 million domain names registered, it&amp;rsquo;s still a bummer.&lt;/p&gt;
 
@@ -9710,42 +9746,38 @@ If you have already used the NZ site - thank-you for supporting a local business
 &lt;p&gt;We have some domain name ideas for you to find a memorable short domain. You should try to keep it simple yet still readable. Do not obsess to much about the length, 5-7 characters will still work fine. It is not so much the brevity that is important but the recognition value of your brand.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Use abbreviations / misspellings&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Use abbreviations / misspellings&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Company: comp or cmpny
-- YourDesignBlog: yodebl or yrdsgn
-- iwantmyname: iwmn
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Company: comp or cmpny&lt;/li&gt;
+&lt;li&gt;YourDesignBlog: yodebl or yrdsgn&lt;/li&gt;
+&lt;li&gt;iwantmyname: iwmn&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Play with initials:&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Play with initials:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- FirstnameLastname: FL or FiLa
-- New York Agency: NYA
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;FirstnameLastname: FL or FiLa&lt;/li&gt;
+&lt;li&gt;New York Agency: NYA&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Find a domain hack:&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Find a domain hack:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- iPeople: ipeo.pl
-- Youtube: youtu.be
-- YourName: yrna.me (domain hack / misspelling combined)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;iPeople: ipeo.pl&lt;/li&gt;
+&lt;li&gt;Youtube: youtu.be&lt;/li&gt;
+&lt;li&gt;YourName: yrna.me (domain hack / misspelling combined)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Register a boutique domain extension&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Register a boutique domain extension&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- [.ME](https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro) (It&#39;s me...)
-- [.IM](https://iwantmyname.com/domains/im-domain-name-registration-for-isle-of-man) (I&#39;m)
-- [.IO](https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory) (Input/Output)
-- [.TW](https://iwantmyname.com/domains/tw-taiwanese-domain-name-registration-for-taiwan) (for Twitter!)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/me-montenegrean-domain-name-registration-for-montenegro&#34;&gt;.ME&lt;/a&gt; (It&amp;rsquo;s me&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/im-domain-name-registration-for-isle-of-man&#34;&gt;.IM&lt;/a&gt; (I&amp;rsquo;m)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/io-domain-name-registration-for-british-indian-ocean-territory&#34;&gt;.IO&lt;/a&gt; (Input/Output)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/tw-taiwanese-domain-name-registration-for-taiwan&#34;&gt;.TW&lt;/a&gt; (for Twitter!)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Get creative using Internationalized Domain Names (IDNs)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Symbols / special characters: ✪df.ws or &lt;a href=&#34;https://iwantmyname.com/search?domain=20°f.la&#34;&gt;20°f.la&lt;/a&gt;
