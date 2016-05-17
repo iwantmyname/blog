@@ -5,7 +5,7 @@ header_image: 2016-05-02-uk2x.jpg
 excerpt: false
 ----
 
-On May 1st, Nominet, the registry for .UK domains, is updating the availability of its WHOIS privacy service. This update affects all .UK TLDs:
+On May 1st, we are updating the availability of our WHOIS privacy service for .UK domains. This update affects all .UK domain extensions:
 
 * .UK
 * .CO.UK
@@ -22,4 +22,4 @@ In your iwantmyname dashboard on the domain's page, just click on **enable priva
 
 Online privacy is an ever-evolving issue, and we're pleased to see this development. As always, if you have any questions, [just let us know](https://iwantmyname.com/support).
 
-###### Photo Credit: [Moyan Brenn](https://www.flickr.com/photos/aigle_dore/) 
+###### Photo Credit: [Moyan Brenn](http://www.travelbusy.com/gallery/) 
