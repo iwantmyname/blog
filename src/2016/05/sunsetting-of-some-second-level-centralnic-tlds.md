@@ -37,4 +37,4 @@ So why are these TLDs being discontinued? We don't know exactly why, but it does
 
 Perhaps there was just less interest with [all the new gTLDs available](https://iwantmyname.com/domains/new-gtld-domain-extensions).
 
-If there are any furture changes or sunsetting of other CentralNic second-level domains, we'll be sure to let you know. If you have any questions, [just let us know](https://iwantmyname.com/support). But the number of domains affecting is fairly small, so won't affect most customers.
+If there are any furture changes or sunsetting of other CentralNic second-level domains, we'll be sure to let you know. If you have any questions, [just let us know](https://iwantmyname.com/support). But the number of domains affected is fairly small, so won't affect most customers.
