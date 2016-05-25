@@ -6,6 +6,52 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Sunsetting of some second-level CentralNic TLDs</title>
+				<description>&lt;p&gt;We have recently been notified that the CentralNic registry will be sunsetting a number of second-level TLDs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.AR.COM&lt;/li&gt;
+&lt;li&gt;.GB.COM&lt;/li&gt;
+&lt;li&gt;.HU.COM&lt;/li&gt;
+&lt;li&gt;.KR.COM&lt;/li&gt;
+&lt;li&gt;.QC.COM&lt;/li&gt;
+&lt;li&gt;.NO.COM&lt;/li&gt;
+&lt;li&gt;.SE.COM&lt;/li&gt;
+&lt;li&gt;.UY.COM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Registrations and transfers for these TLDs were disabled on April 29th, so no new domains with those extensions can be registered, and existing registrations cannot be transferred to a new registrar.&lt;/p&gt;
+
+&lt;p&gt;Note also that these TLDs are being entirely discontinued, so will expire at all registrars, not just with us.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The zones for domains with these TLDs will be deleted on April 30th, 2017&lt;/strong&gt;. So any existing websites or email using these domains will work until that date, at which time they will stop working permanently.&lt;/p&gt;
+
+&lt;p&gt;You will need to migrate any websites or email services that you want to keep, and which are using domains with these TLDs, to a new domain name before the zones are deleted.&lt;/p&gt;
+
+&lt;p&gt;We would recommend doing this migration well before the final expiry date, and then setting up web forwarding for any websites from the old domain name to the new one so your site visitors can get used to the new domain name before it&amp;rsquo;s completely gone.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re happy to advise and help with any changes or new setup, of course.&lt;/p&gt;
+
+&lt;p&gt;Domains registered with these TLDs can no longer be renewed, either. So any domain registered with one of the TLDs that has an expiry date prior to April 30th, 2017 will expire and be deleted after its expiry date. It will not be available until the final zone deletion date.&lt;/p&gt;
+
+&lt;p&gt;This also means that there will be no more billings for domains registered with these TLDs. Any notifications or receipts you receive from us will be for other domains in your account.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll be contacting all customers who have domains registered with these TLDs to ensure that they have all the necessary information and get things updated however they prefer.&lt;/p&gt;
+
+&lt;p&gt;So why are these TLDs being discontinued? We don&amp;rsquo;t know exactly why, but it does happen sometimes. Note that these aren&amp;rsquo;t &amp;ldquo;official&amp;rdquo; TLDs, and they&amp;rsquo;re not governed by a country&amp;rsquo;s registry like ccTLDs. They&amp;rsquo;re actually just subdomains of .COM that the CentralNic registry decided to offer. (So this sunsetting does &lt;strong&gt;not&lt;/strong&gt; affect any actual ccTLD domains.)&lt;/p&gt;
+
+&lt;p&gt;Perhaps there was just less interest with &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;all the new gTLDs available&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If there are any furture changes or sunsetting of other CentralNic second-level domains, we&amp;rsquo;ll be sure to let you know. If you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;. But the number of domains affecting is fairly small, so won&amp;rsquo;t affect most customers.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 25 May 2016 08:33:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/sunsetting-of-some-second-level-centralnic-tlds.html</link>
+				
+				<guid isPermaLink="false">/2016/05/sunsetting-of-some-second-level-centralnic-tlds.html</guid>
+			</item>
+		
+			<item>
 				<title>Why isn&#39;t there a one-click install for...?</title>
 				<description>&lt;p&gt;From time to time customers contact us when they try to find a one-click install for their preferred platform or service, but we don&amp;rsquo;t have one. This can be confusing, since many of these services are popular and well-known. What gives?&lt;/p&gt;
 
@@ -1348,27 +1394,6 @@
 			</item>
 		
 			<item>
-				<title>Quality of work-life should be a top priority</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
-
-&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
-
-&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
-				
-				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
-			</item>
-		
-			<item>
 				<title>Ad blockers and an-ugh-lytics</title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
 
@@ -1389,6 +1414,27 @@
 					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
 				
 				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
+			</item>
+		
+			<item>
+				<title>Quality of work-life should be a top priority</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
+
+&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
+
+&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
+				
+				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
 			</item>
 		
 			<item>
