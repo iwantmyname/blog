@@ -27,7 +27,7 @@ We would recommend doing this migration well before the final expiry date, and t
 
 We're happy to advise and help with any changes or new setup, of course.
 
-Domains registered with these TLDs can no longer be renewed, either. So any domain registered with one of the TLDs that has an expiry date prior to April 30th, 2017 will expire and be deleted after its expiry date. It will not be available until the final zone deletion date.
+All domains registered with these TLDs have been automatically renewed until the final expiry date of April 30th, 2017. So no additional renewals will be needed or processed, and no customers will be billed for this renewal. All domains under these TLDs will expire and be deleted on April 30th, 2017.
 
 This also means that there will be no more billings for domains registered with these TLDs. Any notifications or receipts you receive from us will be for other domains in your account.
 
