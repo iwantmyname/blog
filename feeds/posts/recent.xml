@@ -6,8 +6,154 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Updates to our Pricing</title>
+				<description>&lt;p&gt;Over the next little while, you may notice some changes to our pricing for registrations and renewals. These prices will show up on &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;our pricing page&lt;/a&gt;. You will also see them when we notify you about any upcoming renewals for your domains.&lt;/p&gt;
+
+&lt;p&gt;Note that new pricing will only affect new registrations going forward, and will only affect your &lt;em&gt;next&lt;/em&gt; renewal. There won&amp;rsquo;t be any changes to prices billed for already-completed registrations, nor any renewals processed mid-billing cycle.&lt;/p&gt;
+
+&lt;p&gt;Yes, it does mean that some pricing will go up. Currencies fluctuate, registries update their pricing, and other industry changes affect our pricing as well. The good news is that prices for some TLDs will go down.&lt;/p&gt;
+
+&lt;p&gt;Our monthly sales are still in effect, &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;which you can see here&lt;/a&gt;, or &lt;a href=&#34;https://iwantmyname.com/monthly&#34;&gt;in our newsletter&lt;/a&gt;, and on our main pricing page as well.&lt;/p&gt;
+
+&lt;p&gt;We also recommend this article outlining &lt;a href=&#34;https://iwantmyname.com/blog/2016/02/why-domain-prices-can-vary-among-registrars.html&#34;&gt;why pricing varies among registrars&lt;/a&gt;, and why and how we set prices as we do.&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 01 Jun 2016 09:37:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/06/price-updates.html</link>
+				
+				<guid isPermaLink="false">/2016/06/price-updates.html</guid>
+			</item>
+		
+			<item>
+				<title>Sunsetting of some second-level CentralNic TLDs</title>
+				<description>&lt;p&gt;We have recently been notified that the CentralNic registry will be sunsetting a number of second-level TLDs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.AR.COM&lt;/li&gt;
+&lt;li&gt;.GB.COM&lt;/li&gt;
+&lt;li&gt;.HU.COM&lt;/li&gt;
+&lt;li&gt;.KR.COM&lt;/li&gt;
+&lt;li&gt;.QC.COM&lt;/li&gt;
+&lt;li&gt;.NO.COM&lt;/li&gt;
+&lt;li&gt;.SE.COM&lt;/li&gt;
+&lt;li&gt;.UY.COM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Registrations and transfers for these TLDs were disabled on April 29th, so no new domains with those extensions can be registered, and existing registrations cannot be transferred to a new registrar.&lt;/p&gt;
+
+&lt;p&gt;Note also that these TLDs are being entirely discontinued, so will expire at all registrars, not just with us.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The zones for domains with these TLDs will be deleted on April 30th, 2017&lt;/strong&gt;. So any existing websites or email using these domains will work until that date, at which time they will stop working permanently.&lt;/p&gt;
+
+&lt;p&gt;You will need to migrate any websites or email services that you want to keep, and which are using domains with these TLDs, to a new domain name before the zones are deleted.&lt;/p&gt;
+
+&lt;p&gt;We would recommend doing this migration well before the final expiry date, and then setting up web forwarding for any websites from the old domain name to the new one so your site visitors can get used to the new domain name before it&amp;rsquo;s completely gone.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re happy to advise and help with any changes or new setup, of course.&lt;/p&gt;
+
+&lt;p&gt;All domains registered with these TLDs have been automatically renewed until the final expiry date of April 30th, 2017. So no additional renewals will be needed or processed, and no customers will be billed for this renewal. All domains under these TLDs will expire and be deleted on April 30th, 2017.&lt;/p&gt;
+
+&lt;p&gt;This also means that there will be no more billings for domains registered with these TLDs. Any notifications or receipts you receive from us will be for other domains in your account.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll be contacting all customers who have domains registered with these TLDs to ensure that they have all the necessary information and get things updated however they prefer.&lt;/p&gt;
+
+&lt;p&gt;So why are these TLDs being discontinued? We don&amp;rsquo;t know exactly why, but it does happen sometimes. Note that these aren&amp;rsquo;t &amp;ldquo;official&amp;rdquo; TLDs, and they&amp;rsquo;re not governed by a country&amp;rsquo;s registry like ccTLDs. They&amp;rsquo;re actually just subdomains of .COM that the CentralNic registry decided to offer. (So this sunsetting does &lt;strong&gt;not&lt;/strong&gt; affect any actual ccTLD domains.)&lt;/p&gt;
+
+&lt;p&gt;Perhaps there was just less interest with &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;all the new gTLDs available&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If there are any furture changes or sunsetting of other CentralNic second-level domains, we&amp;rsquo;ll be sure to let you know. If you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;. But the number of domains affected is fairly small, so won&amp;rsquo;t affect most customers.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 25 May 2016 08:33:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/sunsetting-of-some-second-level-centralnic-tlds.html</link>
+				
+				<guid isPermaLink="false">/2016/05/sunsetting-of-some-second-level-centralnic-tlds.html</guid>
+			</item>
+		
+			<item>
+				<title>Why isn&#39;t there a one-click install for...?</title>
+				<description>&lt;p&gt;From time to time customers contact us when they try to find a one-click install for their preferred platform or service, but we don&amp;rsquo;t have one. This can be confusing, since many of these services are popular and well-known. What gives?&lt;/p&gt;
+
+&lt;p&gt;For example, Adobe Portfolio, the successor to Behance ProSite after it was acquired, is a popular platform amongst creatives. Which means we have quite a few customers looking to set up or update their settings for it as well.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;rsquo;s not one-click install for Portfolio in our &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/featured&#34;&gt;Marketplace&lt;/a&gt;. We&amp;rsquo;d love to have one, but at present we can&amp;rsquo;t. Why not?&lt;/p&gt;
+
+&lt;p&gt;There are two ways we can automate installing the records you need to connect your domain name to a platform, service or host:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s DNS records, then add your domain name in the settings of your platform account.&lt;/li&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s nameservers, making them your web host, then complete any other required setup in your platform account.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To offer either of these, the platform has to provide the same DNS records or nameservers for setup for all customers. Many platforms do, which is why we have dozens and dozens in our Marketplace. (And why we have a list of hosting providers on our Nameserver Update page.)&lt;/p&gt;
+
+&lt;p&gt;But some services do things differently, and for connecting to custom domains, they provide each customer with a different set of records.&lt;/p&gt;
+
+&lt;p&gt;Adobe Portfolio is one of those. When you set up your domain with Portfolio, you&amp;rsquo;ll be provided instructions to add two A records. That&amp;rsquo;s easy enough, and we&amp;rsquo;re happy to help.&lt;/p&gt;
+
+&lt;p&gt;But those aren&amp;rsquo;t the same A records, necessarily, that I would get for setup, or that some other creative person would get. That&amp;rsquo;s why we can&amp;rsquo;t add an install – we have to wait for you to tell us before we know what records to install.&lt;/p&gt;
+
+&lt;p&gt;If that changes in the future, we&amp;rsquo;ll definitely get a one-click install set up for Portfolio, and other popular services.&lt;/p&gt;
+
+&lt;p&gt;If there&amp;rsquo;s another popular or favourite service or host that you can&amp;rsquo;t find in our Marketplace, that is likely why. We&amp;rsquo;re happy to check and confirm that for you, or add the records if you need help.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes it&amp;rsquo;s a service that we can add – it just happens to be new. &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;Just let us know.&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 May 2016 14:23:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/one-click.html</link>
+				
+				<guid isPermaLink="false">/2016/05/one-click.html</guid>
+			</item>
+		
+			<item>
+				<title>No TLD delegation for you. .SORRY.</title>
+				<description>&lt;p&gt;You just thought of the Best Domain Name Ever&amp;hellip; but it&amp;rsquo;s already taken. Even if you&amp;rsquo;re already aware that there are somewhere around 300 million domain names registered, it&amp;rsquo;s still a bummer.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes an extension that seems totally obvious just doesn&amp;rsquo;t exist. There&amp;rsquo;s .ACTOR and .LAWYER, but alas, I am denied .BAKER. Sometimes your company, project, or artistic works just &lt;em&gt;need&lt;/em&gt; that unique name.&lt;/p&gt;
+
+&lt;p&gt;So from time to time we get inquiries about how to go about registering a specific TLD that doesn&amp;rsquo;t exist yet. Not a domain name, but the domain extension at the end, like .COM, .DE, or .PIZZA.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;Having hundreds of new gTLDs launch in the past couple of years&lt;/a&gt; can make it seem like a fairly straight forward thing to accomplish. I mean, come on, .GRIPE exists. But actually, for the average person, it&amp;rsquo;s not.&lt;/p&gt;
+
+&lt;p&gt;You see, getting a TLD delegated isn&amp;rsquo;t like registering a domain name. From &lt;a href=&#34;https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en&#34;&gt;ICANN&amp;rsquo;s New gTLD FAQ&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1.5 Is applying for a new gTLD the same as buying a domain name?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No. Nowadays, organizations and individuals around the world can register second-level and, in some cases, third-level domain names. (In a URL such as maps.google.com, &amp;ldquo;google&amp;rdquo; is a second-level name and &amp;ldquo;maps&amp;rdquo; is a third-level domain.) They simply need to find an accredited registrar, comply with the registrant terms and conditions and pay registration and renewal fees. The application for a new gTLD is a much more complex process. An applicant for a new gTLD is, in fact, applying to create and operate a registry business supporting the Internet&amp;rsquo;s domain name system. This involves a number of significant responsibilities, as the operator of a new gTLD is running a piece of visible Internet infrastructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, in short, it requires creating an entire registry and business. Most individuals aren&amp;rsquo;t really in a position to do that.&lt;/p&gt;
+
+&lt;p&gt;However, if you&amp;rsquo;re still curious, you can check out &lt;a href=&#34;https://newgtlds.icann.org/en/applicants/agb&#34;&gt;ICANN&amp;rsquo;s New Applicant Guidebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We should note, however, that the application process is closed for the moment, and &lt;a href=&#34;http://domainnamewire.com/2016/05/04/next-round-new-tlds-might-2020/&#34;&gt;it&amp;rsquo;ll probably be a few years before it&amp;rsquo;s reopened&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, though, you&amp;rsquo;re looking at a commitment of a few hundred thousand dollars, several years, and a bunch of lawyers to get a TLD delegated. Plus you&amp;rsquo;re likely competing with a number of other groups who have the same resouces.&lt;/p&gt;
+
+&lt;p&gt;This is why it&amp;rsquo;s mainly done by existing registries, consortiums, and really big companies like Google and Amazon.&lt;/p&gt;
+
+&lt;p&gt;Also, once those organizations have succeeded in getting a TLD delegated, they don&amp;rsquo;t necessarily have to make it available to the general public for registering domains.&lt;/p&gt;
+
+&lt;p&gt;These organizations can succeed in requesting single user delegation, which means they&amp;rsquo;re the only ones who can create domains with that TLD. For example, Google&amp;rsquo;s registry is the remaining applicant for .DEV.&lt;/p&gt;
+
+&lt;p&gt;If granted, it&amp;rsquo;s likely to keep it for itself for Google-only domain names. They have .APP, too, beating out 12 other applicant registries. For companies that can manage it, it&amp;rsquo;s a great branding move.&lt;/p&gt;
+
+&lt;p&gt;Bottom line: sorry, but we can&amp;rsquo;t help you get a new TLD delegated. However, we do have this excellent guide about &lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;what to do if the domain name you want is taken&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 09 May 2016 11:48:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/delegation.html</link>
+				
+				<guid isPermaLink="false">/2016/05/delegation.html</guid>
+			</item>
+		
+			<item>
 				<title>You can now add WHOIS privacy for all .UK domains</title>
-				<description>&lt;p&gt;On May 1st, Nominet, the registry for .UK domains, is updating the availability of its WHOIS privacy service. This update affects all .UK TLDs:&lt;/p&gt;
+				<description>&lt;p&gt;On May 1st, we are updating the availability of our WHOIS privacy service for .UK domains. This update affects all .UK domain extensions:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;.UK&lt;/li&gt;
@@ -26,13 +172,13 @@
 
 &lt;p&gt;Online privacy is an ever-evolving issue, and we&amp;rsquo;re pleased to see this development. As always, if you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h6&gt;Photo Credit: &lt;a href=&#34;https://www.flickr.com/photos/aigle_dore/&#34;&gt;Moyan Brenn&lt;/a&gt;&lt;/h6&gt;
+&lt;h6&gt;Photo Credit: &lt;a href=&#34;http://www.travelbusy.com/gallery/&#34;&gt;Moyan Brenn&lt;/a&gt;&lt;/h6&gt;
 </description>
 				<pubDate>Mon, 02 May 2016 17:30:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2016/05/You-can-now-add-WHOIS-privacy-for-all-UK-domains.html</link>
+					<link>https://iwantmyname.com/blog/2016/05/you-can-now-add-whois-privacy-for-all-uk-domains.html</link>
 				
-				<guid isPermaLink="false">/2016/05/You-can-now-add-WHOIS-privacy-for-all-UK-domains.html</guid>
+				<guid isPermaLink="false">/2016/05/you-can-now-add-whois-privacy-for-all-uk-domains.html</guid>
 			</item>
 		
 			<item>
@@ -243,208 +389,6 @@
 					<link>https://iwantmyname.com/blog/2016/04/make-mom-the-perfect-mothers-day-gift.html</link>
 				
 				<guid isPermaLink="false">/2016/04/make-mom-the-perfect-mothers-day-gift.html</guid>
-			</item>
-		
-			<item>
-				<title>Get your domain branding strategies in order</title>
-				<description>&lt;!-- excerpt --&gt;
-
-&lt;p&gt;It was mid-2015. There was a bit of a tempest in a teapot online over the launch of the .SUCKS TLD. Did every brand need to buy up all variations of their company/product/service with the .SUCKS TLD to keep them away from technically savvy ne&amp;rsquo;er-do-wells?&lt;/p&gt;
-
-&lt;p&gt;Not really, no. Maybe the negative .SUCKS sites are out there, but they seriously lack Google juice and audience engagement.&lt;/p&gt;
-
-&lt;p&gt;The truth is, there are a million domain branding strategies that are potentially more important than focusing on whether someone might not like you. Such as? Glad you asked.&lt;/p&gt;
-
-&lt;!-- /excerpt --&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;What&amp;rsquo;s in a name?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Be aware of your location, and growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Planning for name changes and product success&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;That doesn&amp;rsquo;t belong to you&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-5&#34;&gt;Think it through&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;section-1&#34;&gt;What&#39;s in a name?&lt;/h2&gt;
-
-&lt;p&gt;First impressions are important, and company and product names are no exception. Do you go with a strong, descriptive name that may reflect your product, service, or industry, or a fun, memorable, one intended to make a statement, like &amp;ldquo;Google&amp;rdquo;?&lt;/p&gt;
-
-&lt;p&gt;Many companies invest a lot of resources – time, money, brain power – coming up with naming solutions, so we&amp;rsquo;ll leave company naming for another day, but modern society has given us a new level of complexity that directly ties to your domain strategy. Availability.&lt;/p&gt;
-
-&lt;p&gt;Availability comes in many flavors. Let&amp;rsquo;s say your brand is &amp;ldquo;Bob&amp;rsquo;s Concrete&amp;rdquo;. In addition to worrying about trademarks (more on that later), it&amp;rsquo;s probably safe to assume bobsconcrete.com is already taken. It&amp;rsquo;s also probably safe to assume that the corresponding social handles are gone as well (which is perhaps a bigger deal, because Twitter and Facebook don&amp;rsquo;t have &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;500+ domain extensions&lt;/a&gt; to expand the naming pool).&lt;/p&gt;
-
-&lt;p&gt;For the last 15+ years, startups have gone through a number of naming trends to get around the availability issue (not in any sort of chronological order):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;provide a directive like getproductname.com&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://domain.me/how-thefacebook-com-became-facebook-com/&#34;&gt;adding the word &amp;ldquo;the&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;use a trendy domain extension like .ly or .io&lt;/li&gt;
-&lt;li&gt;use a &lt;a href=&#34;https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html&#34;&gt;domain hack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;remove vowels?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Before becoming the next company that attaches itself to a trend, ask around and see what your choices make people think of, if anything. And when you arrive on a name you like, secure it everywhere (domain, social handles, etc.).&lt;/p&gt;
-
-&lt;h2 id=&#34;section-2&#34;&gt;Be aware of your location, and growth&lt;/h2&gt;
-
-&lt;p&gt;Today you may be a couple people in a garage in Wellington or Waterloo, but tomorrow you could be the next Compu-Global-Hyper-Mega-Net, with offices around the world. Obviously, there&amp;rsquo;s a lot to do between A and B, but something to keep in mind as you name your company, products, etc.&lt;/p&gt;
-
-&lt;p&gt;Sure, when you start off, piesofpittsburgh.com or snacksinabox.nz may be the perfect domain for your company. But what happens when you have shops in New York, and Hong Kong, and London? Maybe your brand will be so strong that it&amp;rsquo;ll work around the world, but maybe not. When starting out, even if you&amp;rsquo;re using a local domain for SEO purposes, securing and simultaneously using a global domain extension like .COM is good practice.&lt;/p&gt;
-
-&lt;p&gt;Conversely, if you&amp;rsquo;re only using a .COM (and you&amp;rsquo;re not in the US, where the ccTLD is rarely used), relevant localization with .DE, .CN, .BR, etc. can be a smart investment. It can even be a helpful identifier for things like corporate email. Keep in mind though that some ccTLD registries restrict words that can be used in domain names, whether they reference place names, are on a reserved list, or are deemed offensive.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-3&#34;&gt;Planning for name changes and product success&lt;/h2&gt;
-
-&lt;p&gt;Companies tend to grow over time. Sure, some do the same thing and offer the same product or service for 100 years. But especially in tech, the odds are good that you&amp;rsquo;re going to expand or pivot at some point. It&amp;rsquo;s good to consider this early on.&lt;/p&gt;
-
-&lt;p&gt;You can&amp;rsquo;t necessarily predict the future, but you can think about it now (Will your products or services follow a naming convention, a la Apple? Or will your company diversify to the point that it splits into more focused entities, a la Google/Alphabet?). Maybe there is an obvious domain name or two that it would be prudent to secure now. Or perhaps you just want to keep an eye on the &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;newly delegated and launched gTLDs&lt;/a&gt; so that if one relevant to you comes up, you&amp;rsquo;re ready to grab some domains. (.BAKER&amp;hellip; one day&amp;hellip;)&lt;/p&gt;
-
-&lt;p&gt;Also, a funny thing can happen if you have a product that becomes popular. It eclipses your company. I&amp;rsquo;ve worked at two companies where this has been the case. People knew BlackBerry, but who outside of locals knew RIM? Eventually, both companies I worked for ended up changing the company name to the name of the flagship product. (This is a big, fiddly, and expensive project.)&lt;/p&gt;
-
-&lt;p&gt;Of course, if you do that, it means you&amp;rsquo;ll need to procure a whole new set of online names. And if you want to buy an already-registered domain name, you&amp;rsquo;ll need to have a budget in mind and be very careful about &lt;a href=&#34;https://iwantmyname.com/blog/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html&#34;&gt;how you approach the owner&lt;/a&gt;, since it will be pretty obvious that they have something you want, and can basically set whatever price they want to sell it for.&lt;/p&gt;
-
-&lt;p&gt;A good practice, if you&amp;rsquo;re a product-based company with easily identifiable flagship items, is to secure their domain/social names at the beginning of the production cycle. And it&amp;rsquo;s easy to see why – a new .COM is a whole lot more affordable than the same domain, years later, on the aftermarket.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-4&#34;&gt;That doesn&#39;t belong to you&lt;/h2&gt;
-
-&lt;p&gt;Trademarks are serious business, and while there can be loopholes, it&amp;rsquo;s often a situation of &amp;ldquo;just because you can, doesn&amp;rsquo;t mean you should&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;supername.com is taken, supername.co isn&amp;rsquo;t. Is registering the second one a good idea? No, it isn&amp;rsquo;t (that&amp;rsquo;s phishing site behavior). Or AwesomeCompany might be well established in Japan, but you live in Peru, and AwesomeCompany is the &lt;em&gt;perfect&lt;/em&gt; name. Should you use it? Well, depends. You&amp;rsquo;ll need to check on what rights AwesomeCompany has already registered for the name, and where. (It&amp;rsquo;s rare that companies register trademarks &lt;em&gt;everywhere&lt;/em&gt;, but it&amp;rsquo;s not unusual for major markets to be well covered.)&lt;/p&gt;
-
-&lt;p&gt;Now, if AwesomeCompany is a small, local outfit (like Bob&amp;rsquo;s Concrete) and isn&amp;rsquo;t likely to ever be trademarked or expand globally, then perhaps it&amp;rsquo;s okay to establish your company using that name. Generally, though, unless there are absolutely no better options, being as original as you can is a good idea.&lt;/p&gt;
-
-&lt;p&gt;Also, be aware of typo targeting. To protect yourself, it&amp;rsquo;s good to think of typos as your friend. Not as your company or product name, per se, but because everyone falls victim to fat fingers and tiny mobile keyboards sometimes.&lt;/p&gt;
-
-&lt;p&gt;How many misspelled variations of &amp;ldquo;google&amp;rdquo; do you think there are out there? And how many has Google bought up or registered themselves? You don&amp;rsquo;t want to have some parasitic site siphoning off your traffic – or worse, phishing – because your customers misspelled your domain name and didn&amp;rsquo;t realize it.&lt;/p&gt;
-
-&lt;p&gt;At the same time, don&amp;rsquo;t &lt;em&gt;you&lt;/em&gt; try registering typo versions of another person or company&amp;rsquo;s domains, either. People might have gotten away with it more a decade ago, but any company of reasonable size now keeps an eye on such things, and you&amp;rsquo;re just begging to be slapped with a complaint and have your site and domain deleted.&lt;/p&gt;
-
-&lt;h2 id=&#34;section-5&#34;&gt;Think it through&lt;/h2&gt;
-
-&lt;p&gt;Obviously, you&amp;rsquo;re never going to be able to predict every twist and turn your branding adventures will take. But you can give these things some thought and do some research. Even if you just end up knowing what to leave off of your short-lists, it&amp;rsquo;s time and effort well spent.&lt;/p&gt;
-
-&lt;p&gt;Like most things in life, getting naming and domains selection right the first time is a lot less work, expense, and headaches than trying to change something already launched. It&amp;rsquo;s hard work building a brand, and having to undo and redo all that for reasons you could have guarded against just .SUCKs.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 05 Apr 2016 10:21:09 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/04/get-your-domain-branding-strategy-in-order.html</link>
-				
-				<guid isPermaLink="false">/2016/04/get-your-domain-branding-strategy-in-order.html</guid>
-			</item>
-		
-			<item>
-				<title>Popular last week on iwantmyname: March 28-April 3, 2016</title>
-				<description>&lt;h3&gt;Top-Level Domains (TLDs)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-boo&#34;&gt;.BOO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-free&#34;&gt;.FREE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-ing&#34;&gt;.ING&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/com-domain-name-registration-for-commercial&#34;&gt;.COM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-app&#34;&gt;.APP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Plugins&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&#34;&gt;FastMail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/protonmail-custom-domain&#34;&gt;ProtonMail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service&#34;&gt;Bitly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/rackspace-apps&#34;&gt;Rackspace Apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/pobox-mail-forwarding&#34;&gt;Pobox&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Guides&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address.html&#34;&gt;The guide to getting your own custom email address&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/how-to-pick-the-right-domain-extension.html&#34;&gt;.COM? .IO? .PIZZA? How to pick the right domain extension (TLD)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;What to do if the domain name you want is taken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html&#34;&gt;Contacting the owner of a domain you want to buy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html&#34;&gt;Everything you need to know about domain hacks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;em&gt;Methodology: These popularity rankings are based entirely on pageviews on Google Analytics. This means the TLD list isn&amp;rsquo;t based on actual domains registered, just traffic to its landing page.&lt;/em&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 04 Apr 2016 09:07:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/04/popular-last-week-on-iwantmyname-march-28-april-3-2016.html</link>
-				
-				<guid isPermaLink="false">/2016/04/popular-last-week-on-iwantmyname-march-28-april-3-2016.html</guid>
-			</item>
-		
-			<item>
-				<title>Popular last week on iwantmyname: March 21-27, 2016</title>
-				<description>&lt;h3&gt;Guides&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/the-guide-to-getting-your-own-custom-email-address.html&#34;&gt;The guide to getting your own custom email address&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/06/how-to-pick-the-right-domain-extension.html&#34;&gt;.COM? .IO? .PIZZA? How to pick the right domain extension (TLD)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;What to do if the domain name you want is taken&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/04/contacting-the-owner-of-a-domain-you-want-to-buy.html&#34;&gt;Contacting the owner of a domain you want to buy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/blog/2015/04/everything-you-need-to-know-about-domain-hacks.html&#34;&gt;Everything you need to know about domain hacks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Plugins&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/hosted-email/fastmail-mail-hosting-own-domain&#34;&gt;FastMail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/protonmail-custom-domain&#34;&gt;ProtonMail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/url-shortener/bit.ly-pro-custom-domain-short-url-forwarding-service&#34;&gt;Bitly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/rackspace-apps&#34;&gt;Rackspace Apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/email-hosting/pobox-mail-forwarding&#34;&gt;Pobox&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Top-Level Domains (TLDs)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-free&#34;&gt;.FREE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-game&#34;&gt;.GAME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-now&#34;&gt;.NOW&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-app&#34;&gt;.APP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-art&#34;&gt;.ART&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;em&gt;Methodology: These popularity rankings are based entirely on pageviews on Google Analytics. This means the TLD list isn&amp;rsquo;t based on actual domains registered, just traffic to its landing page.&lt;/em&gt;&lt;/p&gt;
-</description>
-				<pubDate>Mon, 28 Mar 2016 15:30:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/03/popular-last-week-on-iwantmyname-march-21-27.html</link>
-				
-				<guid isPermaLink="false">/2016/03/popular-last-week-on-iwantmyname-march-21-27.html</guid>
-			</item>
-		
-			<item>
-				<title>Friday break - &#34;Reply All #59: Good Job, Alex&#34;</title>
-				<description>&lt;p&gt;If you like podcasts, this is one of my favorites. And this episode is about domain names!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gimletmedia.com/episode/59-good-job-alex/&#34;&gt;From Reply All, episode #59&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;ALEX: So I was thinking, “Wow.” So Alisa had this website. She had it professionally designed many moons ago. When it was still really hard to design a website. So had someone design it for her.&lt;/p&gt;
-
-&lt;p&gt;PJ: Like HTML days.&lt;/p&gt;
-
-&lt;p&gt;ALEX: Yes. But it was really clunky and difficult to use, so she started getting notices from GoDaddy, and she was just like, fine, this thing can expire. But the thing is, that she didn’t quite understand what would happen when you let your domain name expire. I think she just assumed that the site itself would go away, but nothing would happen to the domain name. Like she could come back to it whenever she wanted.&lt;/p&gt;
-
-&lt;p&gt;PJ: Mm mm.&lt;/p&gt;
-
-&lt;p&gt;ALEX: Are you saying, “No she didn’t think that,” or “No that’s not what happens?”&lt;/p&gt;
-
-&lt;p&gt;PJ: I’m saying the thing she believed in the past was not true.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-				<pubDate>Fri, 25 Mar 2016 09:50:21 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/03/friday-break-reply-all.html</link>
-				
-				<guid isPermaLink="false">/2016/03/friday-break-reply-all.html</guid>
 			</item>
 		
 	</channel>

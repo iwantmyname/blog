@@ -6,8 +6,154 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Updates to our Pricing</title>
+				<description>&lt;p&gt;Over the next little while, you may notice some changes to our pricing for registrations and renewals. These prices will show up on &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;our pricing page&lt;/a&gt;. You will also see them when we notify you about any upcoming renewals for your domains.&lt;/p&gt;
+
+&lt;p&gt;Note that new pricing will only affect new registrations going forward, and will only affect your &lt;em&gt;next&lt;/em&gt; renewal. There won&amp;rsquo;t be any changes to prices billed for already-completed registrations, nor any renewals processed mid-billing cycle.&lt;/p&gt;
+
+&lt;p&gt;Yes, it does mean that some pricing will go up. Currencies fluctuate, registries update their pricing, and other industry changes affect our pricing as well. The good news is that prices for some TLDs will go down.&lt;/p&gt;
+
+&lt;p&gt;Our monthly sales are still in effect, &lt;a href=&#34;https://iwantmyname.com/domains/special-offer&#34;&gt;which you can see here&lt;/a&gt;, or &lt;a href=&#34;https://iwantmyname.com/monthly&#34;&gt;in our newsletter&lt;/a&gt;, and on our main pricing page as well.&lt;/p&gt;
+
+&lt;p&gt;We also recommend this article outlining &lt;a href=&#34;https://iwantmyname.com/blog/2016/02/why-domain-prices-can-vary-among-registrars.html&#34;&gt;why pricing varies among registrars&lt;/a&gt;, and why and how we set prices as we do.&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 01 Jun 2016 09:37:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/06/price-updates.html</link>
+				
+				<guid isPermaLink="false">/2016/06/price-updates.html</guid>
+			</item>
+		
+			<item>
+				<title>Sunsetting of some second-level CentralNic TLDs</title>
+				<description>&lt;p&gt;We have recently been notified that the CentralNic registry will be sunsetting a number of second-level TLDs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.AR.COM&lt;/li&gt;
+&lt;li&gt;.GB.COM&lt;/li&gt;
+&lt;li&gt;.HU.COM&lt;/li&gt;
+&lt;li&gt;.KR.COM&lt;/li&gt;
+&lt;li&gt;.QC.COM&lt;/li&gt;
+&lt;li&gt;.NO.COM&lt;/li&gt;
+&lt;li&gt;.SE.COM&lt;/li&gt;
+&lt;li&gt;.UY.COM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Registrations and transfers for these TLDs were disabled on April 29th, so no new domains with those extensions can be registered, and existing registrations cannot be transferred to a new registrar.&lt;/p&gt;
+
+&lt;p&gt;Note also that these TLDs are being entirely discontinued, so will expire at all registrars, not just with us.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The zones for domains with these TLDs will be deleted on April 30th, 2017&lt;/strong&gt;. So any existing websites or email using these domains will work until that date, at which time they will stop working permanently.&lt;/p&gt;
+
+&lt;p&gt;You will need to migrate any websites or email services that you want to keep, and which are using domains with these TLDs, to a new domain name before the zones are deleted.&lt;/p&gt;
+
+&lt;p&gt;We would recommend doing this migration well before the final expiry date, and then setting up web forwarding for any websites from the old domain name to the new one so your site visitors can get used to the new domain name before it&amp;rsquo;s completely gone.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re happy to advise and help with any changes or new setup, of course.&lt;/p&gt;
+
+&lt;p&gt;All domains registered with these TLDs have been automatically renewed until the final expiry date of April 30th, 2017. So no additional renewals will be needed or processed, and no customers will be billed for this renewal. All domains under these TLDs will expire and be deleted on April 30th, 2017.&lt;/p&gt;
+
+&lt;p&gt;This also means that there will be no more billings for domains registered with these TLDs. Any notifications or receipts you receive from us will be for other domains in your account.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll be contacting all customers who have domains registered with these TLDs to ensure that they have all the necessary information and get things updated however they prefer.&lt;/p&gt;
+
+&lt;p&gt;So why are these TLDs being discontinued? We don&amp;rsquo;t know exactly why, but it does happen sometimes. Note that these aren&amp;rsquo;t &amp;ldquo;official&amp;rdquo; TLDs, and they&amp;rsquo;re not governed by a country&amp;rsquo;s registry like ccTLDs. They&amp;rsquo;re actually just subdomains of .COM that the CentralNic registry decided to offer. (So this sunsetting does &lt;strong&gt;not&lt;/strong&gt; affect any actual ccTLD domains.)&lt;/p&gt;
+
+&lt;p&gt;Perhaps there was just less interest with &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;all the new gTLDs available&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If there are any furture changes or sunsetting of other CentralNic second-level domains, we&amp;rsquo;ll be sure to let you know. If you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;. But the number of domains affected is fairly small, so won&amp;rsquo;t affect most customers.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 25 May 2016 08:33:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/sunsetting-of-some-second-level-centralnic-tlds.html</link>
+				
+				<guid isPermaLink="false">/2016/05/sunsetting-of-some-second-level-centralnic-tlds.html</guid>
+			</item>
+		
+			<item>
+				<title>Why isn&#39;t there a one-click install for...?</title>
+				<description>&lt;p&gt;From time to time customers contact us when they try to find a one-click install for their preferred platform or service, but we don&amp;rsquo;t have one. This can be confusing, since many of these services are popular and well-known. What gives?&lt;/p&gt;
+
+&lt;p&gt;For example, Adobe Portfolio, the successor to Behance ProSite after it was acquired, is a popular platform amongst creatives. Which means we have quite a few customers looking to set up or update their settings for it as well.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;rsquo;s not one-click install for Portfolio in our &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/featured&#34;&gt;Marketplace&lt;/a&gt;. We&amp;rsquo;d love to have one, but at present we can&amp;rsquo;t. Why not?&lt;/p&gt;
+
+&lt;p&gt;There are two ways we can automate installing the records you need to connect your domain name to a platform, service or host:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s DNS records, then add your domain name in the settings of your platform account.&lt;/li&gt;
+&lt;li&gt;Add the platform&amp;rsquo;s nameservers, making them your web host, then complete any other required setup in your platform account.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To offer either of these, the platform has to provide the same DNS records or nameservers for setup for all customers. Many platforms do, which is why we have dozens and dozens in our Marketplace. (And why we have a list of hosting providers on our Nameserver Update page.)&lt;/p&gt;
+
+&lt;p&gt;But some services do things differently, and for connecting to custom domains, they provide each customer with a different set of records.&lt;/p&gt;
+
+&lt;p&gt;Adobe Portfolio is one of those. When you set up your domain with Portfolio, you&amp;rsquo;ll be provided instructions to add two A records. That&amp;rsquo;s easy enough, and we&amp;rsquo;re happy to help.&lt;/p&gt;
+
+&lt;p&gt;But those aren&amp;rsquo;t the same A records, necessarily, that I would get for setup, or that some other creative person would get. That&amp;rsquo;s why we can&amp;rsquo;t add an install – we have to wait for you to tell us before we know what records to install.&lt;/p&gt;
+
+&lt;p&gt;If that changes in the future, we&amp;rsquo;ll definitely get a one-click install set up for Portfolio, and other popular services.&lt;/p&gt;
+
+&lt;p&gt;If there&amp;rsquo;s another popular or favourite service or host that you can&amp;rsquo;t find in our Marketplace, that is likely why. We&amp;rsquo;re happy to check and confirm that for you, or add the records if you need help.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes it&amp;rsquo;s a service that we can add – it just happens to be new. &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;Just let us know.&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 May 2016 14:23:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/one-click.html</link>
+				
+				<guid isPermaLink="false">/2016/05/one-click.html</guid>
+			</item>
+		
+			<item>
+				<title>No TLD delegation for you. .SORRY.</title>
+				<description>&lt;p&gt;You just thought of the Best Domain Name Ever&amp;hellip; but it&amp;rsquo;s already taken. Even if you&amp;rsquo;re already aware that there are somewhere around 300 million domain names registered, it&amp;rsquo;s still a bummer.&lt;/p&gt;
+
+&lt;p&gt;Or sometimes an extension that seems totally obvious just doesn&amp;rsquo;t exist. There&amp;rsquo;s .ACTOR and .LAWYER, but alas, I am denied .BAKER. Sometimes your company, project, or artistic works just &lt;em&gt;need&lt;/em&gt; that unique name.&lt;/p&gt;
+
+&lt;p&gt;So from time to time we get inquiries about how to go about registering a specific TLD that doesn&amp;rsquo;t exist yet. Not a domain name, but the domain extension at the end, like .COM, .DE, or .PIZZA.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions&#34;&gt;Having hundreds of new gTLDs launch in the past couple of years&lt;/a&gt; can make it seem like a fairly straight forward thing to accomplish. I mean, come on, .GRIPE exists. But actually, for the average person, it&amp;rsquo;s not.&lt;/p&gt;
+
+&lt;p&gt;You see, getting a TLD delegated isn&amp;rsquo;t like registering a domain name. From &lt;a href=&#34;https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en&#34;&gt;ICANN&amp;rsquo;s New gTLD FAQ&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1.5 Is applying for a new gTLD the same as buying a domain name?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No. Nowadays, organizations and individuals around the world can register second-level and, in some cases, third-level domain names. (In a URL such as maps.google.com, &amp;ldquo;google&amp;rdquo; is a second-level name and &amp;ldquo;maps&amp;rdquo; is a third-level domain.) They simply need to find an accredited registrar, comply with the registrant terms and conditions and pay registration and renewal fees. The application for a new gTLD is a much more complex process. An applicant for a new gTLD is, in fact, applying to create and operate a registry business supporting the Internet&amp;rsquo;s domain name system. This involves a number of significant responsibilities, as the operator of a new gTLD is running a piece of visible Internet infrastructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, in short, it requires creating an entire registry and business. Most individuals aren&amp;rsquo;t really in a position to do that.&lt;/p&gt;
+
+&lt;p&gt;However, if you&amp;rsquo;re still curious, you can check out &lt;a href=&#34;https://newgtlds.icann.org/en/applicants/agb&#34;&gt;ICANN&amp;rsquo;s New Applicant Guidebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We should note, however, that the application process is closed for the moment, and &lt;a href=&#34;http://domainnamewire.com/2016/05/04/next-round-new-tlds-might-2020/&#34;&gt;it&amp;rsquo;ll probably be a few years before it&amp;rsquo;s reopened&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, though, you&amp;rsquo;re looking at a commitment of a few hundred thousand dollars, several years, and a bunch of lawyers to get a TLD delegated. Plus you&amp;rsquo;re likely competing with a number of other groups who have the same resouces.&lt;/p&gt;
+
+&lt;p&gt;This is why it&amp;rsquo;s mainly done by existing registries, consortiums, and really big companies like Google and Amazon.&lt;/p&gt;
+
+&lt;p&gt;Also, once those organizations have succeeded in getting a TLD delegated, they don&amp;rsquo;t necessarily have to make it available to the general public for registering domains.&lt;/p&gt;
+
+&lt;p&gt;These organizations can succeed in requesting single user delegation, which means they&amp;rsquo;re the only ones who can create domains with that TLD. For example, Google&amp;rsquo;s registry is the remaining applicant for .DEV.&lt;/p&gt;
+
+&lt;p&gt;If granted, it&amp;rsquo;s likely to keep it for itself for Google-only domain names. They have .APP, too, beating out 12 other applicant registries. For companies that can manage it, it&amp;rsquo;s a great branding move.&lt;/p&gt;
+
+&lt;p&gt;Bottom line: sorry, but we can&amp;rsquo;t help you get a new TLD delegated. However, we do have this excellent guide about &lt;a href=&#34;https://iwantmyname.com/blog/2015/05/the-guide-to-getting-the-right-domain-name-for-your-brand.html&#34;&gt;what to do if the domain name you want is taken&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 09 May 2016 11:48:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/05/delegation.html</link>
+				
+				<guid isPermaLink="false">/2016/05/delegation.html</guid>
+			</item>
+		
+			<item>
 				<title>You can now add WHOIS privacy for all .UK domains</title>
-				<description>&lt;p&gt;On May 1st, Nominet, the registry for .UK domains, is updating the availability of its WHOIS privacy service. This update affects all .UK TLDs:&lt;/p&gt;
+				<description>&lt;p&gt;On May 1st, we are updating the availability of our WHOIS privacy service for .UK domains. This update affects all .UK domain extensions:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;.UK&lt;/li&gt;
@@ -26,13 +172,13 @@
 
 &lt;p&gt;Online privacy is an ever-evolving issue, and we&amp;rsquo;re pleased to see this development. As always, if you have any questions, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h6&gt;Photo Credit: &lt;a href=&#34;https://www.flickr.com/photos/aigle_dore/&#34;&gt;Moyan Brenn&lt;/a&gt;&lt;/h6&gt;
+&lt;h6&gt;Photo Credit: &lt;a href=&#34;http://www.travelbusy.com/gallery/&#34;&gt;Moyan Brenn&lt;/a&gt;&lt;/h6&gt;
 </description>
 				<pubDate>Mon, 02 May 2016 17:30:00 UTC</pubDate>
 				
-					<link>https://iwantmyname.com/blog/2016/05/You-can-now-add-WHOIS-privacy-for-all-UK-domains.html</link>
+					<link>https://iwantmyname.com/blog/2016/05/you-can-now-add-whois-privacy-for-all-uk-domains.html</link>
 				
-				<guid isPermaLink="false">/2016/05/You-can-now-add-WHOIS-privacy-for-all-UK-domains.html</guid>
+				<guid isPermaLink="false">/2016/05/you-can-now-add-whois-privacy-for-all-uk-domains.html</guid>
 			</item>
 		
 			<item>
@@ -1269,6 +1415,27 @@
 			</item>
 		
 			<item>
+				<title>Quality of work-life should be a top priority</title>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
+
+&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
+
+&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
+				
+				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
+			</item>
+		
+			<item>
 				<title>Ad blockers and an-ugh-lytics</title>
 				<description>&lt;p&gt;&lt;a href=&#34;https://snipcart.com/blog/ad-blockers-saas-web-developers?utm_content=bufferd7420&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;&gt;François Lanthier Nadeau on how ad blockers are messing with Snipcart&amp;rsquo;s metrics:&lt;/a&gt;&lt;/p&gt;
 
@@ -1289,27 +1456,6 @@
 					<link>https://iwantmyname.com/blog/2015/10/ad-blockers-and-anughlytics.html</link>
 				
 				<guid isPermaLink="false">/2015/10/ad-blockers-and-anughlytics.html</guid>
-			</item>
-		
-			<item>
-				<title>Quality of work-life should be a top priority</title>
-				<description>&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/wonkblog/wp/2015/10/28/researchers-have-determined-how-many-years-of-life-you-lose-to-a-stressful-job/&#34;&gt;Ana Swanson on how job stress is literally killing people in the US:&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;People often like to groan about how their job is &amp;ldquo;killing&amp;rdquo; them. Tragically, for some groups of people in the U.S., that statement appears to be true.&lt;/p&gt;
-
-&lt;p&gt;A new study by researchers at Harvard and Stanford has quantified just how much a stressful workplace may be shaving off of Americans&amp;rsquo; life spans. It suggests that the amount of life lost to stress varies significantly for people of different races, educational levels and genders, and ranges up to nearly three years of life lost for some groups.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tech startups tend to spend a good deal of time talking about workplace culture and work/life balance, but it&amp;rsquo;s clearly something all business owners and managers need to be working on. These workplace decisions have long term effects.&lt;/p&gt;
-
-&lt;p&gt;(On a related note, the US clearly needs to figure out its healthcare system. The amount of years shaved from lack of health care is insane.)&lt;/p&gt;
-</description>
-				<pubDate>Thu, 29 Oct 2015 14:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2015/10/quality-of-work-life-should-be-a-top-priority.html</link>
-				
-				<guid isPermaLink="false">/2015/10/quality-of-work-life-should-be-a-top-priority.html</guid>
 			</item>
 		
 			<item>
@@ -5863,8 +6009,10 @@ possibilities, but there is a very simple way for most to settle on a name that 
 &lt;p&gt;First off, ensure you have a solid policy in place before embarking on the great adventure that is the Internet. Some questions you&amp;rsquo;ll need to answer:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If your company doesn&amp;rsquo;t yet have a website, what domain(s) will you choose? (What&amp;rsquo;s available, memorable, and best reflects your business, products, services, or culture?) With &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions_&#34;&gt;all the new gTLDs available and yet to be launched&lt;/a&gt;, there&amp;rsquo;s more choice than ever.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;If your company doesn&amp;rsquo;t yet have a website, what domain(s) will you choose? (What&amp;rsquo;s available, memorable, and best reflects your business, products, services, or culture?) With &lt;a href=&#34;https://iwantmyname.com/domains/new-gtld-domain-extensions_&#34;&gt;all the new gTLDs available and yet to be launched&lt;/a&gt;, there&amp;rsquo;s more choice than ever.&lt;/li&gt;
+&lt;/ol&gt;
 
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;On what sites will you have a presence? (I.e. where will you create your company&amp;rsquo;s own accounts/sites/properties.)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;What are the common terms that people might use to look for or talk about your company or products? (These should include both the official nomenclature of your company, and words and phrases that customers and others use.)&lt;/p&gt;&lt;/li&gt;
@@ -5899,7 +6047,7 @@ possibilities, but there is a very simple way for most to settle on a name that 
 &lt;li&gt;may not be mentally stable&lt;/li&gt;
 &lt;li&gt;are angry for reasons beyond your control, like your company simply doesn&amp;rsquo;t do something they want.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Your company should have a solid understanding and policy for all of these things before engaging online, else you&amp;rsquo;re likely to find yourself scrambling when something goes wrong some day. This could happen when your company screws something up, when there&amp;rsquo;s big (bad) news in your industry, or for many other reasons.&lt;/p&gt;
 
