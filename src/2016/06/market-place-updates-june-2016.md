@@ -1,4 +1,4 @@
-date: 2016-06-01 10:37:00 -0700
+date: 2016-06-06 10:37:00 -0700
 author: Melle
 title: Marketplace Updates
 header_image: 2016-06-06-market-place-update.png
