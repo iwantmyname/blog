@@ -6,6 +6,41 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/all.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Marketplace Updates</title>
+				<description>&lt;h2&gt;Adobe Portfolio&lt;/h2&gt;
+
+&lt;p&gt;We previously reported on &lt;a href=&#34;https://iwantmyname.com/blog/2016/05/one-click.html&#34;&gt;why there wasn&amp;rsquo;t a one-click install for Adobe Portfolio in our Marketplace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well, good news, everyone! Adobe Portfolio now has standard DNS records, so we have added a one-click install for it to our Marketplace.&lt;/p&gt;
+
+&lt;p&gt;In your domain dashboard, just search for Adobe Portfolio, or find it in our Marketplace in the &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/portfolio-hosting/&#34;&gt;Portfolio&lt;/a&gt; section. Enjoy!&lt;/p&gt;
+
+&lt;h2&gt;Bitly&lt;/h2&gt;
+
+&lt;p&gt;Bitly has updated their DNS records and has contacted customers to let them know that they need to update by June 29th, 2016.&lt;/p&gt;
+
+&lt;p&gt;Updating these records is quite easy. If you login to your account and go to your domain dashboard, type bit.ly into the Marketplace search field.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://iwmn.me/19Pwy/envt6DcP+&#34; alt=&#34;find bitly&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;On the next page, click on the &lt;strong&gt;Install bit.ly&lt;/strong&gt; button to add the new records you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://iwmn.me/bB3T/5wF8J8fY+&#34; alt=&#34;install bitly&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Then you&amp;rsquo;re done and the DNS records have been updated.&lt;/p&gt;
+
+&lt;p&gt;If you see a red button on the install page instead that says &lt;strong&gt;Remove bit.ly&lt;/strong&gt;, that&amp;rsquo;s fine. Just click that to remove the old records, then click on the green Install button when the page refreshes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or have trouble updating the records, we&amp;rsquo;re happy to help, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 01 Jun 2016 10:37:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/06/market-place-updates-june-2016.html</link>
+				
+				<guid isPermaLink="false">/2016/06/market-place-updates-june-2016.html</guid>
+			</item>
+		
+			<item>
 				<title>Updates to our Pricing</title>
 				<description>&lt;p&gt;Over the next little while, you may notice some changes to our pricing for registrations and renewals. These prices will show up on &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;our pricing page&lt;/a&gt;. You will also see them when we notify you about any upcoming renewals for your domains.&lt;/p&gt;
 
