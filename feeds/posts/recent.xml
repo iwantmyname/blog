@@ -6,6 +6,41 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Marketplace Updates</title>
+				<description>&lt;h2&gt;Adobe Portfolio&lt;/h2&gt;
+
+&lt;p&gt;We previously reported on &lt;a href=&#34;https://iwantmyname.com/blog/2016/05/one-click.html&#34;&gt;why there wasn&amp;rsquo;t a one-click install for Adobe Portfolio in our Marketplace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well, good news, everyone! Adobe Portfolio now has standard DNS records, so we have added a one-click install for it to our Marketplace.&lt;/p&gt;
+
+&lt;p&gt;In your domain dashboard, just search for Adobe Portfolio, or find it in our Marketplace in the &lt;a href=&#34;https://iwantmyname.com/dashboard/apps/portfolio-hosting/&#34;&gt;Portfolio&lt;/a&gt; section. Enjoy!&lt;/p&gt;
+
+&lt;h2&gt;Bitly&lt;/h2&gt;
+
+&lt;p&gt;Bitly has updated their DNS records and has contacted customers to let them know that they need to update by June 29th, 2016.&lt;/p&gt;
+
+&lt;p&gt;Updating these records is quite easy. If you login to your account and go to your domain dashboard, type bit.ly into the Marketplace search field.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://iwmn.me/19Pwy/envt6DcP+&#34; alt=&#34;find bitly&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;On the next page, click on the &lt;strong&gt;Install bit.ly&lt;/strong&gt; button to add the new records you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://iwmn.me/bB3T/5wF8J8fY+&#34; alt=&#34;install bitly&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Then you&amp;rsquo;re done and the DNS records have been updated.&lt;/p&gt;
+
+&lt;p&gt;If you see a red button on the install page instead that says &lt;strong&gt;Remove bit.ly&lt;/strong&gt;, that&amp;rsquo;s fine. Just click that to remove the old records, then click on the green Install button when the page refreshes.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or have trouble updating the records, we&amp;rsquo;re happy to help, &lt;a href=&#34;https://iwantmyname.com/support&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 01 Jun 2016 10:37:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/06/market-place-updates-june-2016.html</link>
+				
+				<guid isPermaLink="false">/2016/06/market-place-updates-june-2016.html</guid>
+			</item>
+		
+			<item>
 				<title>Updates to our Pricing</title>
 				<description>&lt;p&gt;Over the next little while, you may notice some changes to our pricing for registrations and renewals. These prices will show up on &lt;a href=&#34;https://iwantmyname.com/domains/domain-name-registration-list-of-extensions&#34;&gt;our pricing page&lt;/a&gt;. You will also see them when we notify you about any upcoming renewals for your domains.&lt;/p&gt;
 
@@ -344,51 +379,6 @@
 					<link>https://iwantmyname.com/blog/2016/04/new-plugin-gitlab-pages.html</link>
 				
 				<guid isPermaLink="false">/2016/04/new-plugin-gitlab-pages.html</guid>
-			</item>
-		
-			<item>
-				<title>Make .MOM the perfect Mother&#39;s Day gift, and more domain extension news</title>
-				<description>&lt;p&gt;We often think of domains as these forever pieces of property meant for big sites that attract as many eyes as humanly possible, but what if you just want to make one person happy? Domains can do that, too! Here&amp;rsquo;s a mini gift guide for Mom, perfect for Mother&amp;rsquo;s Day (May 8th&amp;hellip; put it on your calendar).&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Pre-order a &lt;a href=&#34;[.MOM](https://iwantmyname.com/domains/dot-mom)&#34;&gt;.MOM domain&lt;/a&gt;. Make it something your mom will go &amp;ldquo;awwwwww&amp;rdquo; over.&lt;/li&gt;
-&lt;li&gt;On May 3rd, when you get your domain, find as many great pictures of you and your mom as you can. (Bonus points for grandchildren pics, if you&amp;rsquo;re into that).&lt;/li&gt;
-&lt;li&gt;Create a quick &lt;a href=&#34;https://iwantmyname.com/services/portfolio-hosting/&#34;&gt;photo site&lt;/a&gt; or &lt;a href=&#34;https://iwantmyname.com/services/blog-hosting/&#34;&gt;blog&lt;/a&gt; out of the pics, or be ambitious and create an &lt;a href=&#34;https://iwantmyname.com/services/portfolio-hosting/exposure-photo-websites&#34;&gt;Exposure&lt;/a&gt; story. Exposure is a cool platform for piecing together photos to create a little (or long) narrative – it&amp;rsquo;s a guaranteed crowd pleaser. (And since your site will be public, your mom can send it to all her friends to show them how creative you are.)&lt;/li&gt;
-&lt;li&gt;You can take the site down anytime, but as long as you renew the domain, you can reuse it every year.&lt;/li&gt;
-&lt;li&gt;Send flowers. Always send flowers.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;Other domain extension goodies&lt;/h2&gt;
-
-&lt;h3&gt;Popular Top-Level Domains (TLDs)*&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-krd&#34;&gt;.KRD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-game&#34;&gt;.GAME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-free&#34;&gt;.FREE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/io-domain-sale-promo-offer&#34;&gt;.IO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/domains/dot-now&#34;&gt;.NOW&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;*&lt;em&gt;Methodology: Popularity rankings based on last week&amp;rsquo;s pageviews. This means the TLD list isn&amp;rsquo;t based on actual domains registered, just traffic to the landing pages.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3&gt;Upcoming launch dates for new extensions&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;May 3 - &lt;a href=&#34;https://iwantmyname.com/domains/dot-mom&#34;&gt;.MOM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;May 17 - &lt;a href=&#34;https://iwantmyname.com/domains/dot-game&#34;&gt;.GAME&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;May 23 - &lt;a href=&#34;https://iwantmyname.com/domains/dot-vip&#34;&gt;.VIP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;June 7 - &lt;a href=&#34;https://iwantmyname.com/domains/dot-salon&#34;&gt;.SALON&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;June 13 - &lt;a href=&#34;https://iwantmyname.com/domains/dot-store&#34;&gt;.STORE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Mon, 11 Apr 2016 11:48:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/04/make-mom-the-perfect-mothers-day-gift.html</link>
-				
-				<guid isPermaLink="false">/2016/04/make-mom-the-perfect-mothers-day-gift.html</guid>
 			</item>
 		
 	</channel>
