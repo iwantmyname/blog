@@ -1,4 +1,4 @@
-date: 2016-06-01 9:37:00 -0700
+date: 2016-06-01 09:37:00 -0700
 author: Melle
 title: Updates to our Pricing
 header_image: 2016-06-01-piggy-bank.jpeg

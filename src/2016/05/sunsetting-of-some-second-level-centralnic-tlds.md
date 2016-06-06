@@ -1,4 +1,4 @@
-date: 2016-05-25 8:33:00 -0800
+date: 2016-05-25 08:33:00 -0800
 author: Melle
 title: Sunsetting of some second-level CentralNic TLDs
 header_image: 2016-05-25-centralnic-tlds.jpeg
