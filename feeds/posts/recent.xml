@@ -6,6 +6,31 @@
 		<atom:link href="https://iwantmyname.com/blog/feeds/posts/recent.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>New plugin: Geniuslink</title>
+				<description>&lt;p&gt;Online marketing combines promoting your products or services in the right spaces before the right audience with tracking, analyzing, and endless tweaking.&lt;/p&gt;
+
+&lt;p&gt;You have to contend with so many platforms, device types, geographies, and partners that even when you&amp;rsquo;re doing your best&amp;hellip; you&amp;rsquo;re probably missing out somewhere.&lt;/p&gt;
+
+&lt;p&gt;Geniuslink can help. Their links work across any country, store, device, or operating system.&lt;/p&gt;
+
+&lt;p&gt;So no matter where your potential customers are, whether they&amp;rsquo;re on their phones or at their desks, if they arrive at your site directly or through an affiliate -- with Geniuslink they will seamlessly find you.&lt;/p&gt;
+
+&lt;p&gt;And with their smarter URLs, you&amp;rsquo;ll be able to better track essential data to help you analyze and improve your campaigns.&lt;/p&gt;
+
+&lt;p&gt;Whether launching an online store, growing an existing brand, or a band grinding away to make it big, Geniuslink can help. And whether it&amp;rsquo;s your WordPress site, iTunes link, or other location, they&amp;rsquo;ll help you get connected.&lt;/p&gt;
+
+&lt;p&gt;Understand who your customers and prospects are. Easily test to figure out how to convert most successfully. Automate your affiliate programs. Ensure anyone, anywhere can become a customer or learn more about you.&lt;/p&gt;
+
+&lt;p&gt;Sounds like an online marketer&amp;rsquo;s dream, right? Try it out today!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 09 Jun 2016 09:37:00 UTC</pubDate>
+				
+					<link>https://iwantmyname.com/blog/2016/06/genius-link.html</link>
+				
+				<guid isPermaLink="false">/2016/06/genius-link.html</guid>
+			</item>
+		
+			<item>
 				<title>Marketplace Updates</title>
 				<description>&lt;h2&gt;Adobe Portfolio&lt;/h2&gt;
 
@@ -353,32 +378,6 @@
 					<link>https://iwantmyname.com/blog/2016/04/new-plugin-pattern-by-etsy.html</link>
 				
 				<guid isPermaLink="false">/2016/04/new-plugin-pattern-by-etsy.html</guid>
-			</item>
-		
-			<item>
-				<title>New plugin: GitLab Pages</title>
-				<description>&lt;p&gt;If you&amp;rsquo;re using GitLab as your Git repository manager and want to create a quick, static site about a project (or anything, really), GitLab Pages is your ticket. Much like GitHub Pages, GitLab Pages lets you host static sites directly on your GitLab instance. Just choose a static site generator, use a free shared runner (or your own), and start editing.&lt;/p&gt;
-
-&lt;p&gt;Is it for everyone? No. If you&amp;rsquo;re a casual blogger or someone looking at do-it-all site builders like Squarespace, GitLab Pages probably isn&amp;rsquo;t for you. But if you&amp;rsquo;re already using GitLab, or have been waiting for a Pages-type feature to coerce you into switching over from Github, this is perfect.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/developer/gitlab-pages&#34;&gt;Get a new domain with GitLab Pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iwantmyname.com/services/developer/&#34;&gt;Check out all of our Developer plugins&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h3&gt;From the web:&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://venturebeat.com/2015/12/22/gitlab-just-launched-another-feature-that-will-help-it-compete-with-github/&#34;&gt;Venture Beat&lt;/a&gt;: &amp;ldquo;Step by step, GitLab, the startup behind the GitLab open source software for managing source code, is becoming more competitive with GitHub, the company well known for hosting source code for many applications.&amp;rdquo;&lt;/p&gt;
-</description>
-				<pubDate>Tue, 12 Apr 2016 08:00:00 UTC</pubDate>
-				
-					<link>https://iwantmyname.com/blog/2016/04/new-plugin-gitlab-pages.html</link>
-				
-				<guid isPermaLink="false">/2016/04/new-plugin-gitlab-pages.html</guid>
 			</item>
 		
 	</channel>
