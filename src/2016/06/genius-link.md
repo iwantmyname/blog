@@ -1,4 +1,4 @@
-date: 2016-06-09 9:37:00 -0700
+date: 2016-06-09 09:37:00 -0700
 author: Melle
 title: New plugin: Geniuslink
 header_image: 2016-06-09-genius-link.png
