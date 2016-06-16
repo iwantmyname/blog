@@ -4,7 +4,7 @@ title: Meet Merlene, the newest iwantmynamer
 excerpt: false
 ----
 
-![Merlene](https://iwantmyname.com/blog/media/2016-03-16-merlene.jpg)
+![Merlene](/media/2016-03-16-merlene.jpg)
 
 Merlene is a self-described hoarder. Fortunately, she hoards domains, and not cats or anything weird. (She insists that two cats do not qualify as a hoard).
 
