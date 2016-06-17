@@ -17,7 +17,7 @@ You see, getting a TLD delegated isn't like registering a domain name. From [ICA
 
 >**1.5 Is applying for a new gTLD the same as buying a domain name?**
 
->No. Nowadays, organizations and individuals around the world can register second-level and, in some cases, third-level domain names. (In a URL such as maps.google.com, "google" is a second-level name and "maps" is a third-level domain.) They simply need to find an accredited registrar, comply with the registrant terms and conditions and pay registration and renewal fees. The application for a new gTLD is a much more complex process. An applicant for a new gTLD is, in fact, applying to create and operate a registry business supporting the Internet's domain name system. This involves a number of significant responsibilities, as the operator of a new gTLD is running a piece of visible Internet infrastructure.
+> No. Nowadays, organizations and individuals around the world can register second-level and, in some cases, third-level domain names. (In a URL such as maps.google.com, "google" is a second-level name and "maps" is a third-level domain.) They simply need to find an accredited registrar, comply with the registrant terms and conditions and pay registration and renewal fees. The application for a new gTLD is a much more complex process. An applicant for a new gTLD is, in fact, applying to create and operate a registry business supporting the Internet's domain name system. This involves a number of significant responsibilities, as the operator of a new gTLD is running a piece of visible Internet infrastructure.
 
 
 So, in short, it requires creating an entire registry and business. Most individuals aren't really in a position to do that.

@@ -27,7 +27,7 @@ As a consumer, it's hard to remember a site when the brand name doesn't match th
 
 [From Duane Forrester - Bing:](http://blogs.bing.com/webmaster/2014/01/15/domain-name-importance-in-ranking/)
 
->Ranking today is a result of so many signals fed into the system the words used in a domain send less and less information into the stack as a percentage of overall decision making signals. This is great from our view (the engine) as it results in better results showing at the top since no one signal can be manipulated. From the searchers POV, it’s better simply because those sites trying to abuse their way to the top with a keyword rich domain and irrelevant or poor content cease to rank well.
+> Ranking today is a result of so many signals fed into the system the words used in a domain send less and less information into the stack as a percentage of overall decision making signals. This is great from our view (the engine) as it results in better results showing at the top since no one signal can be manipulated. From the searchers POV, it’s better simply because those sites trying to abuse their way to the top with a keyword rich domain and irrelevant or poor content cease to rank well.
 
 So for practical purposes, if you're a real estate agent, your top priority should be ease of discovery. If your brand is "The Hall Team", thehallteam.com would be a much better choice than best-real-estate-wellington.com. And it's not even close.
 

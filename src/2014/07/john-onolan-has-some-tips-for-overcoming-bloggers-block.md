@@ -11,10 +11,10 @@ The trick to staying engaged with a specific topic is to always have something t
 
 <!-- /excerpt -->
 
->What do I write about now? What do I have to say that's important enough to be worth publishing? Will anyone even care? This isn't working. I'll try again tomorrow.
+> What do I write about now? What do I have to say that's important enough to be worth publishing? Will anyone even care? This isn't working. I'll try again tomorrow.
 
->This thinking often forces us to repress ideas and throw them into the "not worth publishing" bucket. It's a shame, because it stifles creativity. This is why we're often left staring at computer screens knowing that we should publish something, but unable to decide on exactly what.
+> This thinking often forces us to repress ideas and throw them into the "not worth publishing" bucket. It's a shame, because it stifles creativity. This is why we're often left staring at computer screens knowing that we should publish something, but unable to decide on exactly what.
 
->To combat this: Today we're going to look at some tried and tested techniques for coming up with blog post ideas even when you feel like you've got no creativity left to give.
+> To combat this: Today we're going to look at some tried and tested techniques for coming up with blog post ideas even when you feel like you've got no creativity left to give.
 
 Piggybacking on this topic, another great post strategy is to send people to useful articles other people have written (how meta...a blog post highlighting a blog post about blogging!). There's absolutely no shame in becoming a trusted resource for finding other trusted resources.

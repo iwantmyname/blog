@@ -14,17 +14,17 @@ The real hurdle is the process it takes to create and market new sites. It's muc
 
 The proposed solution? From Brian Knapp, in an article titled, [Everything On One Domain](http://retromocha.com/learn/put-everything-on-one-domain/):
 
->There is so much more value in having everything on this website than there is in having even two or three different domains we are managing.
+> There is so much more value in having everything on this website than there is in having even two or three different domains we are managing.
 
 Further on...
 
->The best part is when we want to launch something new or explore an idea, we just create a page and put it out there, email our list, and see what people think. Also, we don't have to hunt for a new domain name for every idea we have. We just create a new page and boom, we're done.
+> The best part is when we want to launch something new or explore an idea, we just create a page and put it out there, email our list, and see what people think. Also, we don't have to hunt for a new domain name for every idea we have. We just create a new page and boom, we're done.
 
->I've found that any time you can increase focus and decrease friction in your business you are better off.
+> I've found that any time you can increase focus and decrease friction in your business you are better off.
 
->So, stop buying new domains and start focusing your energy on one domain.
+> So, stop buying new domains and start focusing your energy on one domain.
 
->P.S. Focusing on one domain worked pretty well for Apple, it might work for you too.
+> P.S. Focusing on one domain worked pretty well for Apple, it might work for you too.
 
 <!-- /excerpt -->
 

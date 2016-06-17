@@ -45,11 +45,11 @@ Here's the basic pitch, from [pobox.com](http://www.pobox.com/faq/):
 
 > Email forwarding makes it possible for you to separate where you read your email from your email identity. Forwarding takes mail sent to one address, and redirects it to another, without the sender having to know.
 >
->Your email address, your identity, is how you keep in touch, what you use to access many websites... indeed, it's how you're known. Email forwarding lets you easily change where you read your mail, without getting a new address.
+> Your email address, your identity, is how you keep in touch, what you use to access many websites... indeed, it's how you're known. Email forwarding lets you easily change where you read your mail, without getting a new address.
 >
->It breaks the tie between your mailbox and your address.
+> It breaks the tie between your mailbox and your address.
 >
->If your email provider introduces a new policy you dislike, you can move. If your ISP changes its name, your email address is unaffected. If a new service starts up that you'd love to try, you can.
+> If your email provider introduces a new policy you dislike, you can move. If your ISP changes its name, your email address is unaffected. If a new service starts up that you'd love to try, you can.
 
 If you're interested in email forwarding, we thoroughly recommend [this guide from Eric Mill](https://konklone.com/post/take-control-of-your-email-address) (it even goes through the iwantmyname installation process).
 

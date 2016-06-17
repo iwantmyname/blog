@@ -8,7 +8,7 @@ If you like podcasts, this is one of my favorites. And this episode is about dom
 
 [From Reply All, episode #59](https://gimletmedia.com/episode/59-good-job-alex/):
 
->ALEX: So I was thinking, “Wow.” So Alisa had this website. She had it professionally designed many moons ago. When it was still really hard to design a website. So had someone design it for her.
+> ALEX: So I was thinking, “Wow.” So Alisa had this website. She had it professionally designed many moons ago. When it was still really hard to design a website. So had someone design it for her.
 
 > PJ: Like HTML days.
 

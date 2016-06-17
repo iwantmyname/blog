@@ -7,9 +7,9 @@ excerpt: false
 
 [From the Can I Rank blog:](http://www.canirank.com/blog/keyword-domains/?session=22f69924c5835d1f302e33d3a4529b55)
 
->Keyword domain names were once thought of as a golden ticket to top rankings, but the general consensus in the SEO community seems to be that their power has diminished in the wake of Google’s Exact Match Domain update.
+> Keyword domain names were once thought of as a golden ticket to top rankings, but the general consensus in the SEO community seems to be that their power has diminished in the wake of Google’s Exact Match Domain update.
 >
->What, if any, role do keyword domains play in SEO today? Is it still worth spending tens of thousands of dollars for a category-defining domain name if it’s not an automatic ticket the front of the line?
+> What, if any, role do keyword domains play in SEO today? Is it still worth spending tens of thousands of dollars for a category-defining domain name if it’s not an automatic ticket the front of the line?
 >
 > Specifically, we want to examine:
 >

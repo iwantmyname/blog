@@ -24,7 +24,7 @@ So yes, hiring for us is an important factor and we don't take it lightly. Hirin
 
 Chuck Blakeman of Inc.com recently put out a great post titled "[How to Hire People You'll Never Have to Manage](http://www.inc.com/chuck-blakeman/4-steps-to-hiring-people-you-ll-never-have-to-manage.html?cid=sf01001)". Included is a quote every company should remember.
 
->If you want to hire people you won't have to manage, throw out most of what you've been taught about hiring. Hire first for Business Beliefs and Culture, second for talent, third for demonstrated skills, and use experience as a tiebreaker. You, and the people who you hire, will all be happier and more productive.
+> If you want to hire people you won't have to manage, throw out most of what you've been taught about hiring. Hire first for Business Beliefs and Culture, second for talent, third for demonstrated skills, and use experience as a tiebreaker. You, and the people who you hire, will all be happier and more productive.
 
 ### Continue reading
 

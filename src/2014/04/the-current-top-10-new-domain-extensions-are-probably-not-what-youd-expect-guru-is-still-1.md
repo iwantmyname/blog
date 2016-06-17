@@ -24,11 +24,11 @@ There are a few things to keep in mind though when looking at the current top 10
 
 Also, the current numbers are skewed by registries parking domains themselves. From Andrew Allemann - [Domain Name Wire](http://domainnamewire.com/2014/04/16/uniregistry-activates-thousands-of-reserved-domains-per-tld/):
 
->It’s all a mirage.
+> It’s all a mirage.
 
->Yesterday Uniregistry activated its reserved domain names in top level domains that have launched so far, massively increasing the size of its zones. It accounts for basically all of the growth in .sexy and .tattoo.
+> Yesterday Uniregistry activated its reserved domain names in top level domains that have launched so far, massively increasing the size of its zones. It accounts for basically all of the growth in .sexy and .tattoo.
 
->Judging by some quick checks, it appears that the majority of domains in .link, which just launched with 20,000+ domains in the zone file, are actually domains reserved by the registry.
+> Judging by some quick checks, it appears that the majority of domains in .link, which just launched with 20,000+ domains in the zone file, are actually domains reserved by the registry.
 
 So take these numbers as a grain of salt, but don't discount the general popularity of the new TLDs as a whole. There are [currently](http://ntldstats.com/) 638,083 new gTLDs registered, and many of the most promising extensions aren't even launched yet. 
 

@@ -9,9 +9,9 @@ title: StartUp shares the agony of naming a company, plus my short list of namin
 
 If you're a podcast listener, Alex Blumberg's new show, StartUp, just might be the best new show around. Here's the synopsis, from the StartUp about page:
 
->I'm Alex Blumberg. My experience is in public radio, as a producer for This American Life and as a co-founder of the business-economics series Planet Money. After years of reporting on other people's businesses, I decided to start my own.
+> I'm Alex Blumberg. My experience is in public radio, as a producer for This American Life and as a co-founder of the business-economics series Planet Money. After years of reporting on other people's businesses, I decided to start my own.
 
->This show follows what happens next – my difficult journey from man to businessman. It's a classic start-up story, but one that's recorded in real time. I've documented disastrous pitches to investors, difficult conversations with my wife, and tense negotiations with my co-founder. The result is an honest, transparent account of something that happens all the time, but that we can rarely listen in on: starting a business.
+> This show follows what happens next – my difficult journey from man to businessman. It's a classic start-up story, but one that's recorded in real time. I've documented disastrous pitches to investors, difficult conversations with my wife, and tense negotiations with my co-founder. The result is an honest, transparent account of something that happens all the time, but that we can rarely listen in on: starting a business.
 
 I'd definitely recommend starting at the beginning, but the latest episode, titled "How To Name Your Company" is a fantastic look at how hard branding really is. Give it a listen. 
 

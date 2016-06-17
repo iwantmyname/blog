@@ -67,7 +67,7 @@ Country code top-level domains (ccTLDs) are super popular around the world (asid
 
 A very similar topic was brought up recently on [Hacker News](https://news.ycombinator.com/item?id=8466018), and one of the replies fits perfectly into this category. 
 
->I use the .gg TLD. My personal site is bram.gg and my email is hello@bram.gg
+> I use the .gg TLD. My personal site is bram.gg and my email is hello@bram.gg
 
 >.gg is my favorite TLD, and the most underrated. It's expensive enough that the domain you want probably isn't taken, but cheap enough that it's worth the price if it's something you care about. "gg" is also a common phrase in gaming subculture, meaning "good game".
 

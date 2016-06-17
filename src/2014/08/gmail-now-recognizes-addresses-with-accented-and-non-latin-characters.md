@@ -9,9 +9,9 @@ title: Gmail now recognizes addresses with accented and non-Latin characters
 
 [From the Official Gmail Blog:](http://gmailblog.blogspot.com/2014/08/a-first-step-toward-more-global-email.html)
 
->In 2012, an organization called the Internet Engineering Task Force (IETF) created a new email standard that supports addresses with non-Latin and accented Latin characters (e.g. 武＠メール.グーグル). In order for this standard to become a reality, every email provider and every website that asks you for your email address must adopt it. That’s obviously a tough hill to climb. The technology is there, but someone has to take the first step.
+> In 2012, an organization called the Internet Engineering Task Force (IETF) created a new email standard that supports addresses with non-Latin and accented Latin characters (e.g. 武＠メール.グーグル). In order for this standard to become a reality, every email provider and every website that asks you for your email address must adopt it. That’s obviously a tough hill to climb. The technology is there, but someone has to take the first step.
 >
->Today we're ready to be that someone. Starting now, Gmail (and shortly, Calendar) will recognize addresses that contain accented or non-Latin characters. This means Gmail users can send emails to, and receive emails from, people who have these characters in their email addresses. Of course, this is just a first step and there’s still a ways to go. In the future, we want to make it possible for you to use them to create Gmail accounts.
+> Today we're ready to be that someone. Starting now, Gmail (and shortly, Calendar) will recognize addresses that contain accented or non-Latin characters. This means Gmail users can send emails to, and receive emails from, people who have these characters in their email addresses. Of course, this is just a first step and there’s still a ways to go. In the future, we want to make it possible for you to use them to create Gmail accounts.
 
 <!-- /excerpt -->
 
